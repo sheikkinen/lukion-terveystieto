@@ -192,3 +192,299 @@ images:
       good balance.
     alt: >-
       Opiskelijat opiskelevat valoisassa opiskelutilassa, ja opettaja on lähellä valmiina auttamaan.
+
+  # ---------------------------------------------------------------- TE2 and TE3 illustrations (brief 012, run 1)
+  # Decorative page headers from the topics' titles and scope; they carry no facts. The style line in
+  # data/images.yaml is added to each prompt. Brief 012 adds: no substances or paraphernalia, no violence, weapons
+  # or injury, no sickbeds, needles or hospitals, no pregnant bodies or foetuses, no deathbed scenes.
+
+  - id: il-te2
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te2
+    placement: header
+    decorative: true
+    prompt: >-
+      A wide calm view of a green Finnish town by a river: a school, a library, a small workplace and homes, with bike
+      lanes, trees and a park. Young people walk, cycle and talk in small groups; an older adult chats with a teenager
+      on a bench. Soft morning light, many small figures, lots of open sky.
+    alt: Laaja näkymä vihreään kaupunkiin joen rannalla, jossa nuoret kävelevät, pyöräilevät ja juttelevat.
+
+  - id: il-te2-01-tieto-ja-vinoumat
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te2-01-tieto-ja-vinoumat
+    placement: header
+    decorative: true
+    prompt: >-
+      Three upper secondary students sit at a library table comparing two closed books with plain covers; one holds a
+      large magnifying glass over a blank card, another tilts her head thoughtfully, the third smiles and points. Tall
+      shelves with plain spines and a big window with trees. Curious, calm and friendly.
+    alt: Kolme opiskelijaa vertailee kirjaston pöydän ääressä kahta kirjaa, ja yksi katsoo suurennuslasilla.
+
+  - id: il-te2-02-tutkimustieto
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te2-02-tutkimustieto
+    placement: header
+    decorative: true
+    prompt: >-
+      Four students plan a small school survey at a round table in a bright classroom: one arranges a few coloured
+      paper blocks on the table, two talk with open hand gestures, one holds a plain clipboard. Any paper on the
+      table is completely blank and white, with no writing, marks, letters, numbers or symbols at all. Plants on the
+      windowsill and soft daylight. A focused, cooperative and relaxed mood.
+    alt: Neljä opiskelijaa suunnittelee kyselyä pyöreän pöydän ääressä valoisassa luokassa.
+
+  - id: il-te2-03-terveysviestinta
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te2-03-terveysviestinta
+    placement: header
+    decorative: true
+    prompt: >-
+      Two friends sit on steps in a sunny town square looking together at a phone whose screen shows only soft abstract
+      shapes; one points at it and both look thoughtful and calm. Behind them a large plain poster with simple coloured
+      shapes and a few people walking past. An everyday mood of thinking about what one sees.
+    alt: Kaksi ystävää istuu aukion portailla ja katsoo yhdessä puhelinta miettien näkemäänsä.
+
+  - id: il-te2-04-elinymparisto
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te2-04-elinymparisto
+    placement: header
+    decorative: true
+    prompt: >-
+      A green residential neighbourhood on a clear day: low apartment buildings with open windows, a park with tall
+      trees, a clean stream with a small wooden bridge and a bike lane. A young person cycles, two friends walk and
+      talk, a person in a wheelchair crosses the bridge with a friend. Fresh air and calm.
+    alt: Vihreä asuinalue, jossa on puisto, puro ja pyörätie; nuoret pyöräilevät ja kävelevät sillalla.
+
+  - id: il-te2-05-psykososiaalinen-ymparisto
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te2-05-psykososiaalinen-ymparisto
+    placement: header
+    decorative: true
+    prompt: >-
+      A warm school common room with sofas, plants and big windows: small groups of students talk and laugh, one
+      student who was sitting alone is waved over to join a friendly group, one shows a friend a phone with a blank
+      screen. Varied young people, a welcoming sense of belonging.
+    alt: Opiskelijat juttelevat koulun oleskelutilassa, ja yksin istunut kutsutaan mukaan porukkaan.
+
+  - id: il-te2-06-kestava-kehitys
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te2-06-kestava-kehitys
+    placement: header
+    decorative: true
+    prompt: >-
+      Young people tend a community garden on a sunny day next to a school: two plant seedlings in raised wooden beds,
+      one carries a watering can, one parks a bicycle. Solar panels on a low roof and a few small wind turbines far
+      away on a hill. Hopeful, calm and cooperative.
+    alt: Nuoret hoitavat yhteisöpuutarhaa koulun vieressä, taustalla aurinkopaneeleja ja tuulivoimaloita.
+
+  - id: il-te2-07-turvallisuus-ja-vakivalta
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te2-07-turvallisuus-ja-vakivalta
+    placement: header
+    decorative: true
+    prompt: >-
+      A well-lit upper secondary school entrance on a calm autumn afternoon: older teenage students aged 16 to 19 in
+      varied casual clothes (hoodies, jeans, jackets) walk out together in small groups, two cyclists wear helmets on
+      a bike lane, a friendly adult in a casual sweater stands by the open door smiling, lamps line a wide clear path
+      with a pedestrian crossing. No small children, no school uniforms, no ties, no shorts. A safe, caring and
+      ordinary everyday mood.
+    alt: Opiskelijat kävelevät yhdessä valoisaa koulun pihatietä, ja kypäräpäinen pyöräilijä odottaa suojatien vieressä.
+
+  - id: il-te2-08-tyohyvinvointi
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te2-08-tyohyvinvointi
+    placement: header
+    decorative: true
+    prompt: >-
+      A young summer worker shelves books in a bright public library while a friendly older colleague shows how the
+      shelves are arranged; another young colleague pushes a book trolley and smiles. Plain coloured book spines,
+      large windows, plants. A supportive, unhurried workplace.
+    alt: Nuori kesätyöntekijä järjestää kirjoja kirjastossa, ja kokenut työkaveri neuvoo häntä.
+
+  - id: il-te2-09-riippuvuuden-mekanismit
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te2-09-riippuvuuden-mekanismit
+    placement: header
+    decorative: true
+    prompt: >-
+      Three friends play music together in a bright rehearsal room, each holding their own instrument: one plays an
+      acoustic guitar, one a ukulele, one a small hand drum. All three smile broadly at each other. Rugs, plants and a
+      window with evening light. A relaxed sense of joy and friendship.
+    alt: Kolme ystävää soittaa yhdessä valoisassa harjoitustilassa ja hymyilee toisilleen.
+
+  - id: il-te2-10-riippuvuudet
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te2-10-riippuvuudet
+    placement: header
+    decorative: true
+    prompt: >-
+      A friendly youth centre in the evening: four young people build a large jigsaw puzzle on a bare wooden table
+      that holds nothing except the puzzle pieces, two others climb a low indoor bouldering wall while a smiling youth
+      worker watches, one draws in a blank sketchbook on a sofa. Warm lamps, plants, a relaxed and welcoming mood.
+      No screens, no games consoles.
+    alt: Neljä nuorta kokoaa palapeliä pyöreän pöydän ääressä nuorisotalossa kiipeilyseinän vieressä.
+
+  - id: il-te3
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te3
+    placement: header
+    decorative: true
+    prompt: >-
+      A wide calm view of a Finnish lakeside town where people of all ages share everyday life: children and a parent
+      on a path, teenagers talking on a bench, an older couple walking arm in arm, a person in a wheelchair by the
+      water. A library, homes and a park under a soft open sky. Many small figures.
+    alt: Järvenrantakaupunki, jossa eri-ikäiset ihmiset kulkevat, istuvat penkillä ja ulkoilevat.
+
+  - id: il-te3-01-terveyskasitykset-ja-selitysmallit
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te3-01-terveyskasitykset-ja-selitysmallit
+    placement: header
+    decorative: true
+    prompt: >-
+      Students visit a calm local history museum: they look at an old wooden farmhouse model, a hand-drawn old town map
+      and a row of simple framed landscape paintings from different centuries. One student points along the row while
+      the others listen with interest. Soft gallery light.
+    alt: Opiskelijat katsovat paikallismuseossa vanhaa talon pienoismallia, karttaa ja maalauksia.
+
+  - id: il-te3-02-vaeston-terveyden-muutos
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te3-02-vaeston-terveyden-muutos
+    placement: header
+    decorative: true
+    prompt: >-
+      A panoramic landscape that changes from left to right: on the left an old Finnish village with log houses, a well
+      and a horse-drawn cart; in the middle a growing town with a school; on the right a modern town with apartment
+      blocks, a clean water fountain, bike lanes and a park where families walk. Calm and bright.
+    alt: Maisema muuttuu vasemmalta oikealle vanhasta kylästä nykyaikaiseksi kaupungiksi.
+
+  - id: il-te3-03-tarttumattomat-taudit
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te3-03-tarttumattomat-taudit
+    placement: header
+    decorative: true
+    prompt: >-
+      A lakeside walking path on a crisp autumn morning: people of different ages move in everyday ways, a grandparent
+      and a teenager walk together, two friends jog slowly, a middle-aged person cycles, someone uses walking poles.
+      Benches, birch trees, calm water. A peaceful, ordinary mood.
+    alt: Eri-ikäiset ihmiset kävelevät, hölkkäävät ja pyöräilevät järvenrannan polulla syysaamuna.
+
+  - id: il-te3-04-tartuntataudit-ja-rokotukset
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te3-04-tartuntataudit-ja-rokotukset
+    placement: header
+    decorative: true
+    prompt: >-
+      Upper secondary students of about 17, nearly adult in size and style, wash their hands and chat at a row of white sinks in a bright, clean school washroom with a window and a
+      plant; soap bubbles on their hands, one dries her hands with a paper towel and laughs with a friend. A light,
+      fresh, everyday mood.
+    alt: Opiskelijat pesevät käsiään ja juttelevat valoisan koulun pesutilan lavuaareilla.
+
+  - id: il-te3-05-sosiaali-ja-terveyspalvelut
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te3-05-sosiaali-ja-terveyspalvelut
+    placement: header
+    decorative: true
+    prompt: >-
+      A young person sits at a round table in a bright, homely school office with plants and a window, talking with a
+      friendly adult counsellor who listens and smiles; on the wall a simple town map made of soft abstract shapes and
+      paths. Two chairs, a cup on the table. A calm, welcoming and respectful mood.
+    alt: Kolme nuorta ja aikuinen juttelevat pyöreän pöydän ääressä valoisassa koulun työhuoneessa.
+
+  - id: il-te3-06-itsehoito-omahoito-ja-laakkeet
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te3-06-itsehoito-omahoito-ja-laakkeet
+    placement: header
+    decorative: true
+    prompt: >-
+      A young person rests at home on a cosy sofa under a soft blanket on a rainy afternoon, reading a blank book; the
+      side table holds only a houseplant and a small lamp. One parent or older sibling looks in through the doorway
+      with a kind smile. An empty rainy window with raindrops and grey sky, nobody and no faces outside or reflected
+      in the glass. Warm lamp light, calm and caring.
+    alt: Nuori lepää kotona sohvalla viltin alla lukien, ja läheinen katsoo ovelta ystävällisesti.
+
+  - id: il-te3-07-eettisen-analyysin-nakokulmat
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te3-07-eettisen-analyysin-nakokulmat
+    placement: header
+    decorative: true
+    prompt: >-
+      Seven students sit in a circle in a bright seminar room, each turned slightly differently as if seeing the
+      question from a different side; one speaks with an open hand, the others listen respectfully, one nods, one
+      thinks with a hand on the chin. Big windows, plants. Thoughtful and respectful.
+    alt: Seitsemän opiskelijaa keskustelee piirissä, ja jokainen näyttää pohtivan asiaa omalta kannaltaan.
+
+  - id: il-te3-08-hedelmoityshoidot-abortti-seulonnat-geenit
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te3-08-hedelmoityshoidot-abortti-seulonnat-geenit
+    placement: header
+    decorative: true
+    prompt: >-
+      Three upper secondary students in a bright science centre hall look up at a large smooth sculpture of a double
+      helix made of soft coloured spheres; one points at it, the others talk thoughtfully. Large windows, plants and
+      calm daylight. Curious, respectful and quiet.
+    alt: Kolme opiskelijaa katsoo tiedekeskuksessa suurta kaksoiskierreveistosta ja keskustelee.
+
+  - id: il-te3-09-elaman-loppu-potilaan-oikeudet-priorisointi
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te3-09-elaman-loppu-potilaan-oikeudet-priorisointi
+    placement: header
+    decorative: true
+    prompt: >-
+      An older person and a teenager sit side by side on a park bench in golden autumn light, talking calmly; the older
+      person gestures gently and the teenager listens. Falling yellow leaves, a winding path and a quiet pond. A
+      peaceful, warm and respectful mood between generations.
+    alt: Iäkäs ihminen ja nuori istuvat puiston penkillä syksyllä ja keskustelevat rauhallisesti.
+
+  - id: il-te3-10-terveyden-eriarvoisuus-ja-tulevaisuus
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te3-10-terveyden-eriarvoisuus-ja-tulevaisuus
+    placement: header
+    decorative: true
+    prompt: >-
+      A wide hopeful town square where people of many backgrounds, ages and abilities meet: a family with a stroller, a
+      group of teenagers, an older person with a walking stick, a person in a wheelchair. Behind them homes of
+      different sizes, trees, solar panels on roofs and wind turbines on a distant hill.
+    alt: Erilaiset ihmiset kohtaavat kaupungin aukiolla, taustalla koteja, puita ja tuulivoimaloita.

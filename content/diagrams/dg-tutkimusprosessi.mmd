@@ -1,0 +1,45 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#e3f0ee"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2f6f6a"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f7f9fb"
+    clusterBorder: "#6b7280"
+---
+flowchart TB
+  accTitle: Tutkimusprosessin kuusi vaihetta
+  accDescr: Tutkimus etenee kuudessa vaiheessa. Ensin tutkimuskysymys tarkennetaan mitattavaksi. Toiseksi valitaan asetelma ja suunnitelma eli tapa vastata, otos ja mittari. Kolmanneksi kerätään aineisto: tutkittavilta pyydetään suostumus, ja vastaukset käsitellään nimettöminä. Neljänneksi analyysi tiivistää aineiston tuloksiksi. Viidenneksi raportointi kertoo tulokset ja rajoitukset. Kuudenneksi asiantuntijat lukevat työn vertaisarvioinnissa, ja muut voivat toistaa tutkimuksen, jolloin kierros alkaa uudelleen tutkimuskysymyksestä.
+
+  K["`**1. Tutkimuskysymys**
+  tarkennetaan mitattavaksi`"]
+  A["`**2. Asetelma ja suunnitelma**
+  tapa vastata, otos ja mittari`"]
+  C["`**3. Aineiston keruu**
+  suostumus, nimettömät vastaukset`"]
+  N["`**4. Analyysi**
+  aineisto tiivistetään tuloksiksi`"]
+  R["`**5. Raportointi**
+  tulokset ja rajoitukset`"]
+  V["`**6. Vertaisarviointi ja toisto**
+  asiantuntijat lukevat työn`"]
+  K --> A --> C --> N --> R --> V
+  V -.->|"muut voivat toistaa"| K
+
+  classDef vaihe fill:#e3f0ee,stroke:#2f6f6a,color:#1a1a1a
+  classDef arvio fill:#e6eef8,stroke:#3d5f8a,color:#1a1a1a
+  class K,A,C,N,R vaihe
+  class V arvio

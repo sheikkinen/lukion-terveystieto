@@ -1,0 +1,41 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#e3f0ee"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2f6f6a"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f7f9fb"
+    clusterBorder: "#6b7280"
+---
+flowchart TB
+  accTitle: Absoluuttinen ja suhteellinen riski
+  accDescr: Kuvitteellinen esimerkki kahdesta ryhmästä. Altistumattomista tapahtuma sattuu kahdelle sadasta ja altistuneista neljälle sadasta; nämä ovat absoluuttisia riskejä. Kun ryhmiä verrataan, suhteellinen riski on neljä jaettuna kahdella eli kaksinkertainen. Absoluuttinen ero on neljä miinus kaksi eli kaksi sadasta. Suhteellinen riski on kaksinkertainen, vaikka ero on kaksi sadasta.
+
+  A["Absoluuttinen riski:<br/>altistumattomat<br/>2 sadasta"]
+  B["Absoluuttinen riski:<br/>altistuneet<br/>4 sadasta"]
+  A --> V["Ryhmien vertailu"]
+  B --> V
+  V --> S["Suhteellinen riski<br/>4 / 2 =<br/>kaksinkertainen"]
+  V --> E["Absoluuttinen ero<br/>4 - 2 =<br/>2 sadasta"]
+  S -.-> H(["Kaksinkertainen,<br/>vaikka ero on<br/>kaksi sadasta"])
+  E -.-> H
+
+  classDef ryhma fill:#e3f0ee,stroke:#2f6f6a,color:#1a1a1a
+  classDef vertailu fill:#e6eef8,stroke:#3d5f8a,color:#1a1a1a
+  classDef huom fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  class A,B ryhma
+  class V,S,E vertailu
+  class H huom

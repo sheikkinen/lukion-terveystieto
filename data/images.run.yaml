@@ -134,3 +134,403 @@
   sha256: 175b3197d441f4082287d998a02e48aa996155241f2cf742a6c857ef2986d724
   dollars: 0.005
   date: '2026-11-21'
+- id: il-te2
+  model: prunaai/p-image
+  prompt: 'A wide calm view of a green Finnish town by a river: a school, a library, a small workplace and homes, with bike lanes, trees and a park. Young people walk, cycle and talk in small groups; an older adult chats with a teenager on a bench. Soft morning light, many small figures, lots of open sky. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals,
+    injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1911809187
+  sha256: c70de126caaba7086cdd08c0cefa70dce2a4a2b82a969f0b81c377cf0590e9ec
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-01-tieto-ja-vinoumat
+  model: prunaai/p-image
+  prompt: Three upper secondary students sit at a library table comparing two closed books with plain covers; one holds a large magnifying glass over a blank card, another tilts her head thoughtfully, the third smiles and points. Tall shelves with plain spines and a big window with trees. Curious, calm and friendly. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment,
+    hospitals, injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 249960812
+  sha256: 3b9bcd7355d2424d6358f2c63185d073b01a26d48176367d7b8b7d9bb63c04bd
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-02-tutkimustieto
+  model: prunaai/p-image
+  prompt: 'Four students plan a small school survey at a round table in a bright classroom: one sketches simple abstract bar shapes on a blank sheet, two talk with open hand gestures, one holds a blank clipboard. Plants on the windowsill and soft daylight. A focused, cooperative and relaxed mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries
+    or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 460583268
+  sha256: 41594af91c9c0276326a3215bc14fc4a235d179d2715d93e99b0c0d359a66bc3
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-02-tutkimustieto
+  model: prunaai/p-image
+  prompt: 'Four students plan a small school survey at a round table in a bright classroom: one sketches simple abstract bar shapes on a blank sheet, two talk with open hand gestures, one holds a blank clipboard. Plants on the windowsill and soft daylight. A focused, cooperative and relaxed mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries
+    or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 460583268
+  sha256: 41594af91c9c0276326a3215bc14fc4a235d179d2715d93e99b0c0d359a66bc3
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-03-terveysviestinta
+  model: prunaai/p-image
+  prompt: Two friends sit on steps in a sunny town square looking together at a phone whose screen shows only soft abstract shapes; one points at it and both look thoughtful and calm. Behind them a large plain poster with simple coloured shapes and a few people walking past. An everyday mood of thinking about what one sees. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment,
+    hospitals, injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 1070055981
+  sha256: e01d2bd15c058858180297ef94b37412a3c928f481e6c688646020d3639407a1
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-03-terveysviestinta
+  model: prunaai/p-image
+  prompt: Two friends sit on steps in a sunny town square looking together at a phone whose screen shows only soft abstract shapes; one points at it and both look thoughtful and calm. Behind them a large plain poster with simple coloured shapes and a few people walking past. An everyday mood of thinking about what one sees. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment,
+    hospitals, injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 1070055981
+  sha256: e01d2bd15c058858180297ef94b37412a3c928f481e6c688646020d3639407a1
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-04-elinymparisto
+  model: prunaai/p-image
+  prompt: 'A green residential neighbourhood on a clear day: low apartment buildings with open windows, a park with tall trees, a clean stream with a small wooden bridge and a bike lane. A young person cycles, two friends walk and talk, a person in a wheelchair crosses the bridge with a friend. Fresh air and calm. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals,
+    injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 935765251
+  sha256: 8956e873cff8504eefec49a997c6b8be8987041c06207c5f1be51fd0b6f6e264
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-04-elinymparisto
+  model: prunaai/p-image
+  prompt: 'A green residential neighbourhood on a clear day: low apartment buildings with open windows, a park with tall trees, a clean stream with a small wooden bridge and a bike lane. A young person cycles, two friends walk and talk, a person in a wheelchair crosses the bridge with a friend. Fresh air and calm. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals,
+    injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 935765251
+  sha256: 8956e873cff8504eefec49a997c6b8be8987041c06207c5f1be51fd0b6f6e264
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-05-psykososiaalinen-ymparisto
+  model: prunaai/p-image
+  prompt: 'A warm school common room with sofas, plants and big windows: small groups of students talk and laugh, one student who was sitting alone is waved over to join a friendly group, one shows a friend a phone with a blank screen. Varied young people, a welcoming sense of belonging. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried
+    faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 2021652601
+  sha256: 360d5ec795b18487c233a110eb641377b13f07b37ae8fd5024dc7686306b77cc
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-06-kestava-kehitys
+  model: prunaai/p-image
+  prompt: 'Young people tend a community garden on a sunny day next to a school: two plant seedlings in raised wooden beds, one carries a watering can, one parks a bicycle. Solar panels on a low roof and a few small wind turbines far away on a hill. Hopeful, calm and cooperative. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried faces.
+    Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1098292354
+  sha256: b511a6a483dca248dafe8fa73bf8c2507e81e50f9e531ea15ae0e68606d27fba
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-05-psykososiaalinen-ymparisto
+  model: prunaai/p-image
+  prompt: 'A warm school common room with sofas, plants and big windows: small groups of students talk and laugh, one student who was sitting alone is waved over to join a friendly group, one shows a friend a phone with a blank screen. Varied young people, a welcoming sense of belonging. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried
+    faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 2021652601
+  sha256: 360d5ec795b18487c233a110eb641377b13f07b37ae8fd5024dc7686306b77cc
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-06-kestava-kehitys
+  model: prunaai/p-image
+  prompt: 'Young people tend a community garden on a sunny day next to a school: two plant seedlings in raised wooden beds, one carries a watering can, one parks a bicycle. Solar panels on a low roof and a few small wind turbines far away on a hill. Hopeful, calm and cooperative. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried faces.
+    Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1098292354
+  sha256: b511a6a483dca248dafe8fa73bf8c2507e81e50f9e531ea15ae0e68606d27fba
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-07-turvallisuus-ja-vakivalta
+  model: prunaai/p-image
+  prompt: 'A well-lit school entrance on a calm autumn afternoon: students walk out together in small groups, two cyclists wear helmets on a bike lane, a friendly adult stands by the open door smiling, lamps line a wide clear path with a pedestrian crossing. A safe, caring and ordinary everyday mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries
+    or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 833846155
+  sha256: 9a1f3d49fb50f02717bdba2c5def4d42d97ee1cd51e9bc13da080499db0645e8
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-07-turvallisuus-ja-vakivalta
+  model: prunaai/p-image
+  prompt: 'A well-lit school entrance on a calm autumn afternoon: students walk out together in small groups, two cyclists wear helmets on a bike lane, a friendly adult stands by the open door smiling, lamps line a wide clear path with a pedestrian crossing. A safe, caring and ordinary everyday mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries
+    or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 833846155
+  sha256: 9a1f3d49fb50f02717bdba2c5def4d42d97ee1cd51e9bc13da080499db0645e8
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-08-tyohyvinvointi
+  model: prunaai/p-image
+  prompt: A young summer worker shelves books in a bright public library while a friendly older colleague shows how the shelves are arranged; another young colleague pushes a book trolley and smiles. Plain coloured book spines, large windows, plants. A supportive, unhurried workplace. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried faces.
+    Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 928577618
+  sha256: 4a4226632eedbe00d1d699185787a9c9c509b8be0a88f2ede571bfb4c2c6055c
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-08-tyohyvinvointi
+  model: prunaai/p-image
+  prompt: A young summer worker shelves books in a bright public library while a friendly older colleague shows how the shelves are arranged; another young colleague pushes a book trolley and smiles. Plain coloured book spines, large windows, plants. A supportive, unhurried workplace. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried faces.
+    Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 928577618
+  sha256: 4a4226632eedbe00d1d699185787a9c9c509b8be0a88f2ede571bfb4c2c6055c
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-09-riippuvuuden-mekanismit
+  model: prunaai/p-image
+  prompt: 'Four friends play music together in a small bright rehearsal room: one plays an acoustic guitar, one a keyboard, one taps a small hand drum, one sings and laughs. Rugs, plants and a window with evening light. A sense of ordinary joy, friendship and a shared moment of success. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried
+    faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1510898316
+  sha256: 7881db8bfb8eaa7e184be0674f2a0ad3b1bc4b8e9448d576152ca2649fb06967
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-09-riippuvuuden-mekanismit
+  model: prunaai/p-image
+  prompt: 'Four friends play music together in a small bright rehearsal room: one plays an acoustic guitar, one a keyboard, one taps a small hand drum, one sings and laughs. Rugs, plants and a window with evening light. A sense of ordinary joy, friendship and a shared moment of success. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried
+    faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1510898316
+  sha256: 7881db8bfb8eaa7e184be0674f2a0ad3b1bc4b8e9448d576152ca2649fb06967
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-10-riippuvuudet
+  model: prunaai/p-image
+  prompt: 'A friendly youth centre in the evening: a few young people build a large jigsaw puzzle at a table, two others climb a low indoor bouldering wall while a smiling youth worker watches, one draws in a blank sketchbook on a sofa. Warm lamps, plants, a relaxed and welcoming mood. No screens, no games consoles. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment,
+    hospitals, injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1507536396
+  sha256: 4d5888d9f939c192d68c8fa7182bd983bbf0e319f5b3b5a3613e18f94d99f68f
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-10-riippuvuudet
+  model: prunaai/p-image
+  prompt: 'A friendly youth centre in the evening: a few young people build a large jigsaw puzzle at a table, two others climb a low indoor bouldering wall while a smiling youth worker watches, one draws in a blank sketchbook on a sofa. Warm lamps, plants, a relaxed and welcoming mood. No screens, no games consoles. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment,
+    hospitals, injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1507536396
+  sha256: 4d5888d9f939c192d68c8fa7182bd983bbf0e319f5b3b5a3613e18f94d99f68f
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3
+  model: prunaai/p-image
+  prompt: 'A wide calm view of a Finnish lakeside town where people of all ages share everyday life: children and a parent on a path, teenagers talking on a bench, an older couple walking arm in arm, a person in a wheelchair by the water. A library, homes and a park under a soft open sky. Many small figures. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals,
+    injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1625897041
+  sha256: e718887081f87b12f4af66167f0ca8e32267bf4ec1941e4af7938f715e5cd933
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3
+  model: prunaai/p-image
+  prompt: 'A wide calm view of a Finnish lakeside town where people of all ages share everyday life: children and a parent on a path, teenagers talking on a bench, an older couple walking arm in arm, a person in a wheelchair by the water. A library, homes and a park under a soft open sky. Many small figures. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals,
+    injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1625897041
+  sha256: e718887081f87b12f4af66167f0ca8e32267bf4ec1941e4af7938f715e5cd933
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-01-terveyskasitykset-ja-selitysmallit
+  model: prunaai/p-image
+  prompt: 'Students visit a calm local history museum: they look at an old wooden farmhouse model, a hand-drawn old town map and a row of simple framed landscape paintings from different centuries. One student points along the row while the others listen with interest. Soft gallery light. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried
+    faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 2034981312
+  sha256: da0a7d524089fbe01700266755c8af3f4d283e2d96b04cdfd227c028bc203ea9
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-01-terveyskasitykset-ja-selitysmallit
+  model: prunaai/p-image
+  prompt: 'Students visit a calm local history museum: they look at an old wooden farmhouse model, a hand-drawn old town map and a row of simple framed landscape paintings from different centuries. One student points along the row while the others listen with interest. Soft gallery light. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried
+    faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 2034981312
+  sha256: da0a7d524089fbe01700266755c8af3f4d283e2d96b04cdfd227c028bc203ea9
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-02-vaeston-terveyden-muutos
+  model: prunaai/p-image
+  prompt: 'A panoramic landscape that changes from left to right: on the left an old Finnish village with log houses, a well and a horse-drawn cart; in the middle a growing town with a school; on the right a modern town with apartment blocks, a clean water fountain, bike lanes and a park where families walk. Calm and bright. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment,
+    hospitals, injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1411516269
+  sha256: 5d9d4459f3d67a301c8535864d31499512101a353d6a092f5c01f2ba34727727
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-02-vaeston-terveyden-muutos
+  model: prunaai/p-image
+  prompt: 'A panoramic landscape that changes from left to right: on the left an old Finnish village with log houses, a well and a horse-drawn cart; in the middle a growing town with a school; on the right a modern town with apartment blocks, a clean water fountain, bike lanes and a park where families walk. Calm and bright. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment,
+    hospitals, injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1411516269
+  sha256: 5d9d4459f3d67a301c8535864d31499512101a353d6a092f5c01f2ba34727727
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-03-tarttumattomat-taudit
+  model: prunaai/p-image
+  prompt: 'A lakeside walking path on a crisp autumn morning: people of different ages move in everyday ways, a grandparent and a teenager walk together, two friends jog slowly, a middle-aged person cycles, someone uses walking poles. Benches, birch trees, calm water. A peaceful, ordinary mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or
+    worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1516783212
+  sha256: 0bfcd4a0b0761d3e18835dfaf6a76449c46ccb89fff5ac63148da56a173091c8
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-03-tarttumattomat-taudit
+  model: prunaai/p-image
+  prompt: 'A lakeside walking path on a crisp autumn morning: people of different ages move in everyday ways, a grandparent and a teenager walk together, two friends jog slowly, a middle-aged person cycles, someone uses walking poles. Benches, birch trees, calm water. A peaceful, ordinary mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or
+    worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1516783212
+  sha256: 0bfcd4a0b0761d3e18835dfaf6a76449c46ccb89fff5ac63148da56a173091c8
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-04-tartuntataudit-ja-rokotukset
+  model: prunaai/p-image
+  prompt: Students wash their hands and chat at a row of white sinks in a bright, clean school washroom with a window and a plant; soap bubbles on their hands, one dries her hands with a paper towel and laughs with a friend. A light, fresh, everyday mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried faces. Absolutely no text, letters,
+    numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 1128148112
+  sha256: b49bbd0cdba254039b40699136974b9109c99b707bb2d0b0caf4682fef6b693d
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-04-tartuntataudit-ja-rokotukset
+  model: prunaai/p-image
+  prompt: Students wash their hands and chat at a row of white sinks in a bright, clean school washroom with a window and a plant; soap bubbles on their hands, one dries her hands with a paper towel and laughs with a friend. A light, fresh, everyday mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried faces. Absolutely no text, letters,
+    numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 1128148112
+  sha256: b49bbd0cdba254039b40699136974b9109c99b707bb2d0b0caf4682fef6b693d
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-05-sosiaali-ja-terveyspalvelut
+  model: prunaai/p-image
+  prompt: A young person sits at a round table in a bright, homely school office with plants and a window, talking with a friendly adult counsellor who listens and smiles; on the wall a simple town map made of soft abstract shapes and paths. Two chairs, a cup on the table. A calm, welcoming and respectful mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals,
+    injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 457159845
+  sha256: f3279fbfad59c628950c8bd01cb28eec5534aed37a831dd4733585b08f7b0592
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-05-sosiaali-ja-terveyspalvelut
+  model: prunaai/p-image
+  prompt: A young person sits at a round table in a bright, homely school office with plants and a window, talking with a friendly adult counsellor who listens and smiles; on the wall a simple town map made of soft abstract shapes and paths. Two chairs, a cup on the table. A calm, welcoming and respectful mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals,
+    injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 457159845
+  sha256: f3279fbfad59c628950c8bd01cb28eec5534aed37a831dd4733585b08f7b0592
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-06-itsehoito-omahoito-ja-laakkeet
+  model: prunaai/p-image
+  prompt: A young person rests at home on a cosy sofa under a soft blanket on a rainy afternoon, reading a blank book, with a mug on the side table and a houseplant; a parent or older sibling looks in through the doorway with a kind smile. Rain on the window, warm lamp light, calm and caring. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried
+    faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 1254633638
+  sha256: 3071493561c1286a64d37073d59e04b0effeade9d65f42a83e69010e9c1753c7
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-06-itsehoito-omahoito-ja-laakkeet
+  model: prunaai/p-image
+  prompt: A young person rests at home on a cosy sofa under a soft blanket on a rainy afternoon, reading a blank book, with a mug on the side table and a houseplant; a parent or older sibling looks in through the doorway with a kind smile. Rain on the window, warm lamp light, calm and caring. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried
+    faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 1254633638
+  sha256: 3071493561c1286a64d37073d59e04b0effeade9d65f42a83e69010e9c1753c7
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-07-eettisen-analyysin-nakokulmat
+  model: prunaai/p-image
+  prompt: Seven students sit in a circle in a bright seminar room, each turned slightly differently as if seeing the question from a different side; one speaks with an open hand, the others listen respectfully, one nods, one thinks with a hand on the chin. Big windows, plants. Thoughtful and respectful. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries
+    or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 783237177
+  sha256: 7deb2353c6f5ae2b93c4afc9098b05d9f9cb2b7dce110be9113325508d393106
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-07-eettisen-analyysin-nakokulmat
+  model: prunaai/p-image
+  prompt: Seven students sit in a circle in a bright seminar room, each turned slightly differently as if seeing the question from a different side; one speaks with an open hand, the others listen respectfully, one nods, one thinks with a hand on the chin. Big windows, plants. Thoughtful and respectful. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries
+    or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 783237177
+  sha256: 7deb2353c6f5ae2b93c4afc9098b05d9f9cb2b7dce110be9113325508d393106
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-08-hedelmoityshoidot-abortti-seulonnat-geenit
+  model: prunaai/p-image
+  prompt: Three upper secondary students in a bright science centre hall look up at a large smooth sculpture of a double helix made of soft coloured spheres; one points at it, the others talk thoughtfully. Large windows, plants and calm daylight. Curious, respectful and quiet. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried faces. Absolutely
+    no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 479654545
+  sha256: 260665102cad9befd4b45521acf647076264ef7ebfb8733fc5216a753725d5f1
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-08-hedelmoityshoidot-abortti-seulonnat-geenit
+  model: prunaai/p-image
+  prompt: Three upper secondary students in a bright science centre hall look up at a large smooth sculpture of a double helix made of soft coloured spheres; one points at it, the others talk thoughtfully. Large windows, plants and calm daylight. Curious, respectful and quiet. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried faces. Absolutely
+    no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 479654545
+  sha256: 260665102cad9befd4b45521acf647076264ef7ebfb8733fc5216a753725d5f1
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-09-elaman-loppu-potilaan-oikeudet-priorisointi
+  model: prunaai/p-image
+  prompt: An older person and a teenager sit side by side on a park bench in golden autumn light, talking calmly; the older person gestures gently and the teenager listens. Falling yellow leaves, a winding path and a quiet pond. A peaceful, warm and respectful mood between generations. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried
+    faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 602583815
+  sha256: ebb925469d9b64bc89ad8278754309a0df32d455c21fec23db7bddb4af22f895
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-09-elaman-loppu-potilaan-oikeudet-priorisointi
+  model: prunaai/p-image
+  prompt: An older person and a teenager sit side by side on a park bench in golden autumn light, talking calmly; the older person gestures gently and the teenager listens. Falling yellow leaves, a winding path and a quiet pond. A peaceful, warm and respectful mood between generations. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried
+    faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 602583815
+  sha256: ebb925469d9b64bc89ad8278754309a0df32d455c21fec23db7bddb4af22f895
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-10-terveyden-eriarvoisuus-ja-tulevaisuus
+  model: prunaai/p-image
+  prompt: 'A wide hopeful town square where people of many backgrounds, ages and abilities meet: a family with a stroller, a group of teenagers, an older person with a walking stick, a person in a wheelchair. Behind them homes of different sizes, trees, solar panels on roofs and wind turbines on a distant hill. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals,
+    injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 102246126
+  sha256: 1b33450d83e58d04944cb90f0c07027fa201a1723c55cfdfe5be7d2d642c37fc
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-10-terveyden-eriarvoisuus-ja-tulevaisuus
+  model: prunaai/p-image
+  prompt: 'A wide hopeful town square where people of many backgrounds, ages and abilities meet: a family with a stroller, a group of teenagers, an older person with a walking stick, a person in a wheelchair. Behind them homes of different sizes, trees, solar panels on roofs and wind turbines on a distant hill. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals,
+    injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 102246126
+  sha256: 1b33450d83e58d04944cb90f0c07027fa201a1723c55cfdfe5be7d2d642c37fc
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-02-tutkimustieto
+  model: prunaai/p-image
+  prompt: 'Four students plan a small school survey at a round table in a bright classroom: one arranges a few coloured paper blocks on the table, two talk with open hand gestures, one holds a plain clipboard. Any paper on the table is completely blank and white, with no writing, marks, letters, numbers or symbols at all. Plants on the windowsill and soft daylight. A focused, cooperative and relaxed mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring
+    tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 460583270
+  sha256: c2903fefa9ac20435e7dcc2d48803489b97a5b79186f1df5883594db1ab3f78d
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-07-turvallisuus-ja-vakivalta
+  model: prunaai/p-image
+  prompt: 'A well-lit upper secondary school entrance on a calm autumn afternoon: older teenage students aged 16 to 19 in varied casual clothes (hoodies, jeans, jackets) walk out together in small groups, two cyclists wear helmets on a bike lane, a friendly adult in a casual sweater stands by the open door smiling, lamps line a wide clear path with a pedestrian crossing. No small children, no school uniforms, no ties, no shorts. A safe, caring and ordinary everyday mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional
+    people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 833846157
+  sha256: 5650749b11e783ef350e1d6d88f84d158bd521a2eb34f09ece08c6f9566ab755
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-10-riippuvuudet
+  model: prunaai/p-image
+  prompt: 'A friendly youth centre in the evening: a few young people build a large jigsaw puzzle at a table, two others climb a low indoor bouldering wall while a smiling youth worker watches, one draws in a blank sketchbook on a sofa. Warm lamps, plants, a relaxed and welcoming mood. No screens, no games consoles, no glasses, cups, bottles or drinks anywhere, the tables hold only the puzzle and paper. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring
+    tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1507536398
+  sha256: 7c959d685938ef66d4e8d5417e09e82db0959fb464e6138603cb3c9456827be9
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-06-itsehoito-omahoito-ja-laakkeet
+  model: prunaai/p-image
+  prompt: A young person rests at home on a cosy sofa under a soft blanket on a rainy afternoon, reading a blank book, with a houseplant and a small lamp on the side table; a parent or older sibling looks in through the doorway with a kind smile. An empty rainy window with raindrops and grey sky, nobody and no faces outside or reflected in the glass. No cups, mugs or glasses. Warm lamp light, calm and caring. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring
+    tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 1254633640
+  sha256: 2d6acf1dc9d96011bdddb62f0cff596810e46121dc496ea720d5da7b6b6be2b0
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-10-riippuvuudet
+  model: prunaai/p-image
+  prompt: 'A friendly youth centre in the evening: four young people build a large jigsaw puzzle on a bare wooden table that holds nothing except the puzzle pieces, two others climb a low indoor bouldering wall while a smiling youth worker watches, one draws in a blank sketchbook on a sofa. Warm lamps, plants, a relaxed and welcoming mood. No screens, no games consoles. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in
+    glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1507536399
+  sha256: 0c404a0b3d25efd2f681c2bc2b58f2c5d2876f1565b903f4419736d65907ab9b
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-06-itsehoito-omahoito-ja-laakkeet
+  model: prunaai/p-image
+  prompt: A young person rests at home on a cosy sofa under a soft blanket on a rainy afternoon, reading a blank book; the side table holds only a houseplant and a small lamp. One parent or older sibling looks in through the doorway with a kind smile. An empty rainy window with raindrops and grey sky, nobody and no faces outside or reflected in the glass. Warm lamp light, calm and caring. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food
+    portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 1254633641
+  sha256: 1f76bb1c7d5f633b4c918f00e4f9b8532faeecbc23e2da4db264a0a54ce24631
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te2-09-riippuvuuden-mekanismit
+  model: prunaai/p-image
+  prompt: 'Three friends play music together in a bright rehearsal room, each holding their own instrument: one plays an acoustic guitar, one a ukulele, one a small hand drum. All three smile broadly at each other. Rugs, plants and a window with evening light. A relaxed sense of joy and friendship. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries
+    or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1510898318
+  sha256: 29341497d44615268d80a00d28df1962df68a50396b9e248db2a0150454eab3a
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-04-tartuntataudit-ja-rokotukset
+  model: prunaai/p-image
+  prompt: Upper secondary students of about 17, nearly adult in size and style, wash their hands and chat at a row of white sinks in a bright, clean school washroom with a window and a plant; soap bubbles on their hands, one dries her hands with a paper towel and laughs with a friend. A light, fresh, everyday mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals,
+    injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.
+  seed: 1128148114
+  sha256: 67a1ac98fa99f4916c3db9993465d9dcb07ed8a9a2a565d56af8f30ad6103401
+  dollars: 0.005
+  date: '2026-11-22'

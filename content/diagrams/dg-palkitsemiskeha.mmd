@@ -1,0 +1,48 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#e3f0ee"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2f6f6a"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f7f9fb"
+    clusterBorder: "#6b7280"
+---
+flowchart TB
+  accTitle: Palkitsemisjärjestelmän kehä ja riippuvuus
+  accDescr: Mielihyvä on hyvältä tuntuva olo, jota voivat tuottaa esimerkiksi musiikki, nauru ystävän kanssa tai onnistuminen. Palkitsemisjärjestelmä oppii, mikä kannattaa toistaa. Dopamiini liittyy palkkion odotukseen. Odotus johtaa toistoon, ja toisto tuo taas mielihyvää, joten kehä jatkuu. Tavallisesti kehä on normaali ja tarpeellinen osa ihmistä. Ongelma syntyy, kun aine tai toiminta ohjaa kehää voimakkaammin kuin tavalliset palkinnot. Silloin sietokyky ja vieroitusoireet voivat pitää kehän yllä. Riippuvuus ei ole luonteenvika eikä valinta.
+
+  M["`**Mielihyvä**
+  esim. musiikki, nauru,
+  onnistuminen`"]
+  L["`**Palkitsemisjärjestelmä**
+  oppii, mikä kannattaa
+  toistaa`"]
+  O["`**Palkkion odotus**
+  dopamiini`"]
+  T["`**Toisto**`"]
+  M --> L --> O --> T
+  T -.-> M
+  T --> N["Tavallisesti normaali<br/>ja tarpeellinen"]
+  T --> X["Aine tai toiminta<br/>ohjaa kehää<br/>voimakkaammin"]
+  X --> R["Sietokyky ja<br/>vieroitusoireet<br/>pitävät kehän yllä"]
+  R -.-> H(["Riippuvuus ei ole<br/>luonteenvika<br/>eikä valinta"])
+
+  classDef kierto fill:#e3f0ee,stroke:#2f6f6a,color:#1a1a1a
+  classDef normaali fill:#e6eef8,stroke:#3d5f8a,color:#1a1a1a
+  classDef ongelma fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  class M,L,O,T kierto
+  class N,H normaali
+  class X,R ongelma

@@ -1,0 +1,49 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    rankSpacing: 2
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#e3f0ee"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2f6f6a"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f7f9fb"
+    clusterBorder: "#6b7280"
+---
+flowchart TB
+  accTitle: Työkykytalo
+  accDescr: Työkykytalossa on neljä kerrosta alhaalta ylös. Ensimmäinen kerros on terveys ja toimintakyky, toinen osaaminen, kolmas arvot, asenteet ja motivaatio, ja neljäs eli ylin kerros johtaminen, työyhteisö ja työolot. Talon katto on työkyky. Perhe, lähiyhteisö sekä yhteiskunnan arvot ja lait vaikuttavat taloon ulkopuolelta. Työkyky syntyy ihmisen ja työn yhteisvaikutuksesta.
+
+  T[/"Työkyky"\]
+  K4["`**4. kerros**
+  johtaminen, työyhteisö
+  ja työolot`"]
+  K3["`**3. kerros**
+  arvot, asenteet
+  ja motivaatio`"]
+  K2["`**2. kerros**
+  osaaminen`"]
+  K1["`**1. kerros**
+  terveys ja toimintakyky`"]
+  U(["Ulkopuolelta vaikuttavat:<br/>perhe, lähiyhteisö,<br/>yhteiskunnan arvot ja lait"])
+  T ~~~ K4 ~~~ K3 ~~~ K2 ~~~ K1 ~~~ U
+
+  classDef katto fill:#2f6f6a,stroke:#1f4f4b,color:#ffffff
+  classDef tyo fill:#e6eef8,stroke:#3d5f8a,color:#1a1a1a
+  classDef ihminen fill:#e3f0ee,stroke:#2f6f6a,color:#1a1a1a
+  classDef ulko fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  class T katto
+  class K4 tyo
+  class K1,K2,K3 ihminen
+  class U ulko

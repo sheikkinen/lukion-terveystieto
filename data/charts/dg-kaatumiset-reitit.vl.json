@@ -1,0 +1,122 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Kuvitteellinen aineisto koetehtävästä K4 (Taulukko 3): kaatumisia sataa kulkijaa kohti kahdella koulumatkareitillä kolmena talvena.",
+  "title": {
+    "text": "Kaatumisia reiteillä A ja B",
+    "subtitle": "Kuvitteellinen aineisto (Taulukko 3)",
+    "anchor": "start"
+  },
+  "width": 270,
+  "height": 260,
+  "background": "#ffffff",
+  "padding": 10,
+  "data": {
+    "values": [
+      {"talvi": 1, "reitti": "Reitti A, ei hiekoitettu", "kaatumisia": 4},
+      {"talvi": 2, "reitti": "Reitti A, ei hiekoitettu", "kaatumisia": 5},
+      {"talvi": 3, "reitti": "Reitti A, ei hiekoitettu", "kaatumisia": 3},
+      {"talvi": 1, "reitti": "Reitti B, hiekoitettu", "kaatumisia": 2},
+      {"talvi": 2, "reitti": "Reitti B, hiekoitettu", "kaatumisia": 2},
+      {"talvi": 3, "reitti": "Reitti B, hiekoitettu", "kaatumisia": 1}
+    ]
+  },
+  "mark": {
+    "type": "line",
+    "point": {"filled": true, "size": 90},
+    "strokeWidth": 3,
+    "aria": false
+  },
+  "encoding": {
+    "x": {
+      "field": "talvi",
+      "type": "quantitative",
+      "scale": {"domain": [0.8, 3.2], "nice": false},
+      "axis": {
+        "title": "Talvi",
+        "values": [1, 2, 3],
+        "format": "d",
+        "grid": false,
+        "aria": false
+      }
+    },
+    "y": {
+      "field": "kaatumisia",
+      "type": "quantitative",
+      "scale": {"domain": [0, 6], "nice": false},
+      "axis": {
+        "title": "Kaatumisia sataa kulkijaa kohti",
+        "values": [0, 1, 2, 3, 4, 5, 6],
+        "format": "d",
+        "grid": true,
+        "aria": false
+      }
+    },
+    "color": {
+      "field": "reitti",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Reitti A, ei hiekoitettu", "Reitti B, hiekoitettu"],
+        "range": ["#8a4b2a", "#2f6f6a"]
+      },
+      "legend": {
+        "title": null,
+        "orient": "bottom",
+        "direction": "vertical",
+        "labelFontSize": 15,
+        "symbolStrokeWidth": 3,
+        "aria": false
+      }
+    },
+    "strokeDash": {
+      "field": "reitti",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Reitti A, ei hiekoitettu", "Reitti B, hiekoitettu"],
+        "range": [[1, 0], [6, 4]]
+      },
+      "legend": null
+    },
+    "shape": {
+      "field": "reitti",
+      "type": "nominal",
+      "scale": {
+        "domain": ["Reitti A, ei hiekoitettu", "Reitti B, hiekoitettu"],
+        "range": ["circle", "square"]
+      },
+      "legend": null
+    },
+    "order": {"field": "talvi", "type": "quantitative"}
+  },
+  "config": {
+    "aria": false,
+    "font": "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif",
+    "locale": {
+      "number": {
+        "decimal": ",",
+        "thousands": " ",
+        "grouping": [3],
+        "currency": ["", " €"]
+      }
+    },
+    "axis": {
+      "labelColor": "#1a1a1a",
+      "titleColor": "#1a1a1a",
+      "labelFontSize": 15,
+      "titleFontSize": 15,
+      "gridColor": "#d5dbe3",
+      "domainColor": "#6b7280",
+      "tickColor": "#6b7280"
+    },
+    "legend": {
+      "labelColor": "#1a1a1a",
+      "labelLimit": 300
+    },
+    "title": {
+      "color": "#1a1a1a",
+      "subtitleColor": "#4a4f57",
+      "fontSize": 17,
+      "subtitleFontSize": 15
+    },
+    "view": {"stroke": null}
+  }
+}

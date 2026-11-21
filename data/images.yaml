@@ -228,3 +228,248 @@ images:
       - "ja niihin on apua"
     facts_from:
       - {topic: te1-09-stressi-ja-kriisit, section: "Opiskelijalle / Miten kuormitus kasautuu?"}
+
+  # ---------------------------------------------------------------- TE2 diagrams (brief 012, run 1)
+  # Same settings as brief 007: Mermaid sources in content/diagrams, the chart in data/charts, rendered by
+  # tools/render_diagrams.py to site-src/img/<id>.svg. Designed at 343 px first.
+
+  - id: dg-tutkimusprosessi
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "3:5"
+    page: te2-02-tutkimustieto
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-tutkimusprosessi.mmd, rendered to site-src/img/dg-tutkimusprosessi.svg."
+    alt: >-
+      Kaavio tutkimusprosessin kuudesta vaiheesta allekkain nuolin. 1. Tutkimuskysymys tarkennetaan mitattavaksi.
+      2. Asetelma ja suunnitelma: tapa vastata, otos ja mittari. 3. Aineiston keruu: suostumus ja nimettömät
+      vastaukset. 4. Analyysi: aineisto tiivistetään tuloksiksi. 5. Raportointi: tulokset ja rajoitukset.
+      6. Vertaisarviointi ja toisto: asiantuntijat lukevat työn. Viimeisestä vaiheesta katkoviivanuoli palaa
+      tutkimuskysymykseen merkinnällä muut voivat toistaa.
+    expected_labels:
+      - "muut voivat toistaa"
+      - "1. Tutkimuskysymys"
+      - "tarkennetaan mitattavaksi"
+      - "2. Asetelma ja suunnitelma"
+      - "tapa vastata, otos ja mittari"
+      - "3. Aineiston keruu"
+      - "suostumus, nimettömät vastaukset"
+      - "4. Analyysi"
+      - "aineisto tiivistetään tuloksiksi"
+      - "5. Raportointi"
+      - "tulokset ja rajoitukset"
+      - "6. Vertaisarviointi ja toisto"
+      - "asiantuntijat lukevat työn"
+    facts_from:
+      - {topic: te2-02-tutkimustieto, section: "Opiskelijalle / Tutkimus etenee vaiheittain"}
+
+  - id: dg-riski
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "1:1"
+    page: te2-02-tutkimustieto
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-riski.mmd, rendered to site-src/img/dg-riski.svg."
+    alt: >-
+      Kaavio absoluuttisesta ja suhteellisesta riskistä aiheen esimerkillä. Ylhäällä kaksi absoluuttista riskiä:
+      altistumattomista tapahtuma sattuu kahdelle sadasta, altistuneista neljälle sadasta. Ne johtavat ryhmien
+      vertailuun, josta seuraa kaksi tulosta: suhteellinen riski 4 / 2 eli kaksinkertainen ja absoluuttinen ero
+      4 - 2 eli kaksi sadasta. Alimpana yhteenveto: kaksinkertainen, vaikka ero on kaksi sadasta.
+    expected_labels:
+      - "Absoluuttinen riski:"
+      - "altistumattomat"
+      - "2 sadasta"
+      - "Absoluuttinen riski:"
+      - "altistuneet"
+      - "4 sadasta"
+      - "Ryhmien vertailu"
+      - "Suhteellinen riski"
+      - "4 / 2 ="
+      - "kaksinkertainen"
+      - "Absoluuttinen ero"
+      - "4 - 2 ="
+      - "2 sadasta"
+      - "Kaksinkertainen,"
+      - "vaikka ero on"
+      - "kaksi sadasta"
+    facts_from:
+      - {topic: te2-02-tutkimustieto, section: "Opiskelijalle / Riski (kaksi sadasta ja neljä sadasta)"}
+
+  - id: dg-kaatumiset-reitit
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "3:4"
+    page: te2-02-tutkimustieto
+    placement: Mallivastaukset
+    prompt: >-
+      Vega-Lite spec data/charts/dg-kaatumiset-reitit.vl.json (the fictional Taulukko 3 of exam task K4, marked
+      kuvitteellinen), rendered with vl-convert-python to site-src/img/dg-kaatumiset-reitit.svg, Vega's ARIA labels
+      off. It is the model answer to K4 a), so it sits in Mallivastaukset, not beside the task.
+    alt: >-
+      Viivakuvio kuvitteellisesta aineistosta, Taulukko 3: kaatumisia sataa kulkijaa kohti kahdella reitillä
+      kolmena talvena, pystyakseli 0–6. Reitti A, ei hiekoitettu, yhtenäinen ruskea viiva ja ympyrät: talvella 1
+      neljä, talvella 2 viisi ja talvella 3 kolme. Reitti B, hiekoitettu, katkoviiva ja neliöt: kaksi, kaksi ja
+      yksi. Viiva A on joka talvi viivan B yläpuolella.
+    expected_labels:
+      - "1"
+      - "2"
+      - "3"
+      - "Talvi"
+      - "0"
+      - "1"
+      - "2"
+      - "3"
+      - "4"
+      - "5"
+      - "6"
+      - "Kaatumisia sataa kulkijaa kohti"
+      - "Reitti A, ei hiekoitettu"
+      - "Reitti B, hiekoitettu"
+      - "Kaatumisia reiteillä A ja B"
+      - "Kuvitteellinen aineisto (Taulukko 3)"
+    facts_from:
+      - {topic: te2-02-tutkimustieto, section: "Koetehtävät / K4 (Taulukko 3) and Mallivastaukset / K4 a)"}
+
+  - id: dg-vaikutuskeinot
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "4:9"
+    page: te2-03-terveysviestinta
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-vaikutuskeinot.mmd, rendered to site-src/img/dg-vaikutuskeinot.svg."
+    alt: >-
+      Kaavio terveysviestinnän kuudesta tavallisesta vaikutuskeinosta allekkaisina laatikoina. Tunteisiin
+      vetoaminen: pelko, syyllisyys, ilo, ylpeys. Asiantuntijaan tai tunnettuun henkilöön vetoaminen: ”tohtori
+      suosittelee”. Sosiaalinen todiste: ”kaikki muutkin ovat jo mukana”. Niukkuus: ”vain tänään”. Tarina: yksi
+      koskettava esimerkki tutkimuksen sijaan. Luonnollisuus ja puhtaus: ei kerro tehosta eikä turvallisuudesta.
+      Alimpana huomio: ongelma syntyy, kun keino korvaa näytön.
+    expected_labels:
+      - "Vaikutuskeinot"
+      - "Tunteisiin vetoaminen"
+      - "pelko, syyllisyys, ilo, ylpeys"
+      - "Asiantuntijaan tai tunnettuun"
+      - "henkilöön vetoaminen"
+      - "”tohtori suosittelee”"
+      - "Sosiaalinen todiste"
+      - "”kaikki muutkin ovat jo mukana”"
+      - "Niukkuus"
+      - "”vain tänään”"
+      - "Tarina"
+      - "yksi koskettava esimerkki"
+      - "tutkimuksen sijaan"
+      - "Luonnollisuus ja puhtaus"
+      - "ei kerro tehosta eikä"
+      - "turvallisuudesta"
+      - "Ongelma syntyy, kun"
+      - "keino korvaa näytön"
+    facts_from:
+      - {topic: te2-03-terveysviestinta, section: "Opiskelijalle / Vaikutuskeinot"}
+
+  - id: dg-vakivallan-ehkaisy
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "9:16"
+    page: te2-07-turvallisuus-ja-vakivalta
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-vakivallan-ehkaisy.mmd, rendered to site-src/img/dg-vakivallan-ehkaisy.svg."
+    alt: >-
+      Kaavio väkivallan ehkäisystä kolmella tasolla allekkaisina laatikoina. Yksilö: tunne- ja
+      vuorovaikutustaidot, tieto omista oikeuksista, rohkeus puuttua sivusta. Koulu: selkeät säännöt,
+      kiusaamisen vastaiset toimintatavat, turvallisuussuunnitelma, aikuisten läsnäolo ja helposti lähestyttävä
+      opiskeluhuolto. Yhteiskunta: lait, palvelut ja viestintä, joka ei hyväksy väkivaltaa. Alimpana huomio:
+      monella tasolla yhtä aikaa ja jatkuvasti.
+    expected_labels:
+      - "Yksilö"
+      - "tunne- ja vuorovaikutustaidot,"
+      - "tieto omista oikeuksista,"
+      - "rohkeus puuttua sivusta"
+      - "Koulu"
+      - "selkeät säännöt, kiusaamisen"
+      - "vastaiset toimintatavat,"
+      - "turvallisuussuunnitelma,"
+      - "aikuisten läsnäolo,"
+      - "helposti lähestyttävä"
+      - "opiskeluhuolto"
+      - "Yhteiskunta"
+      - "lait, palvelut ja viestintä,"
+      - "joka ei hyväksy väkivaltaa"
+      - "Monella tasolla"
+      - "yhtä aikaa ja jatkuvasti"
+    facts_from:
+      - {topic: te2-07-turvallisuus-ja-vakivalta, section: "Opiskelijalle / Ehkäisy kolmella tasolla"}
+
+  - id: dg-tyokykytalo
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "3:5"
+    page: te2-08-tyohyvinvointi
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-tyokykytalo.mmd, rendered to site-src/img/dg-tyokykytalo.svg."
+    alt: >-
+      Kaavio työkykytalosta: neljä kerrosta päällekkäin ja ylimpänä katto, jossa lukee työkyky. Alhaalta ylös:
+      1. kerros terveys ja toimintakyky, 2. kerros osaaminen, 3. kerros arvot, asenteet ja motivaatio, 4. kerros
+      johtaminen, työyhteisö ja työolot. Talon alla: ulkopuolelta vaikuttavat perhe, lähiyhteisö sekä
+      yhteiskunnan arvot ja lait.
+    expected_labels:
+      - "Työkyky"
+      - "4. kerros"
+      - "johtaminen, työyhteisö"
+      - "ja työolot"
+      - "3. kerros"
+      - "arvot, asenteet"
+      - "ja motivaatio"
+      - "2. kerros"
+      - "osaaminen"
+      - "1. kerros"
+      - "terveys ja toimintakyky"
+      - "Ulkopuolelta vaikuttavat:"
+      - "perhe, lähiyhteisö,"
+      - "yhteiskunnan arvot ja lait"
+    facts_from:
+      - {topic: te2-08-tyohyvinvointi, section: "Opiskelijalle / Työkykytalo"}
+
+  - id: dg-palkitsemiskeha
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "1:2"
+    page: te2-09-riippuvuuden-mekanismit
+    placement: Opiskelijalle
+    prompt: >-
+      Mermaid source content/diagrams/dg-palkitsemiskeha.mmd, rendered to site-src/img/dg-palkitsemiskeha.svg.
+      Words only: no substance is named or pictured, no amounts.
+    alt: >-
+      Kaavio palkitsemisjärjestelmän kehästä. Nuolet etenevät: mielihyvä, esimerkiksi musiikki, nauru tai
+      onnistuminen; palkitsemisjärjestelmä oppii, mikä kannattaa toistaa; palkkion odotus, dopamiini; toisto.
+      Toistosta katkoviiva palaa mielihyvään. Toistosta lähtee kaksi polkua: tavallisesti kehä on normaali ja
+      tarpeellinen; jos aine tai toiminta ohjaa kehää voimakkaammin, sietokyky ja vieroitusoireet pitävät kehän
+      yllä. Lopussa huomio: riippuvuus ei ole luonteenvika eikä valinta.
+    expected_labels:
+      - "Mielihyvä"
+      - "esim. musiikki, nauru,"
+      - "onnistuminen"
+      - "Palkitsemisjärjestelmä"
+      - "oppii, mikä kannattaa"
+      - "toistaa"
+      - "Palkkion odotus"
+      - "dopamiini"
+      - "Toisto"
+      - "Tavallisesti normaali"
+      - "ja tarpeellinen"
+      - "Aine tai toiminta"
+      - "ohjaa kehää"
+      - "voimakkaammin"
+      - "Sietokyky ja"
+      - "vieroitusoireet"
+      - "pitävät kehän yllä"
+      - "Riippuvuus ei ole"
+      - "luonteenvika"
+      - "eikä valinta"
+    facts_from:
+      - {topic: te2-09-riippuvuuden-mekanismit, section: "Opiskelijalle / Mielihyvä ja palkitsemisjärjestelmä; Mitä riippuvuus on?; Riippuvuuden tunnusmerkit"}

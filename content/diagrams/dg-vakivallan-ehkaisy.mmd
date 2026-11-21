@@ -1,0 +1,52 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    rankSpacing: 14
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#e3f0ee"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2f6f6a"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f7f9fb"
+    clusterBorder: "#6b7280"
+---
+flowchart TB
+  accTitle: Väkivallan ehkäisy kolmella tasolla
+  accDescr: Väkivallan ehkäisy toimii parhaiten monella tasolla yhtä aikaa ja jatkuvasti. Yksilön tasolla siihen kuuluvat tunne- ja vuorovaikutustaidot, tieto omista oikeuksista ja rohkeus puuttua sivusta. Koulun tasolla siihen kuuluvat selkeät säännöt, kiusaamisen vastaiset toimintatavat, turvallisuussuunnitelma, aikuisten läsnäolo ja opiskeluhuolto, jota on helppo lähestyä. Yhteiskunnan tasolla siihen kuuluvat lait, palvelut ja viestintä, joka ei hyväksy väkivaltaa.
+
+  Y["`**Yksilö**
+  tunne- ja vuorovaikutustaidot,
+  tieto omista oikeuksista,
+  rohkeus puuttua sivusta`"]
+  K["`**Koulu**
+  selkeät säännöt, kiusaamisen
+  vastaiset toimintatavat,
+  turvallisuussuunnitelma,
+  aikuisten läsnäolo,
+  helposti lähestyttävä
+  opiskeluhuolto`"]
+  S["`**Yhteiskunta**
+  lait, palvelut ja viestintä,
+  joka ei hyväksy väkivaltaa`"]
+  H(["Monella tasolla<br/>yhtä aikaa ja jatkuvasti"])
+  Y ~~~ K ~~~ S ~~~ H
+
+  classDef yks fill:#e3f0ee,stroke:#2f6f6a,color:#1a1a1a
+  classDef kou fill:#e6eef8,stroke:#3d5f8a,color:#1a1a1a
+  classDef yhk fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  classDef huom fill:#ffffff,stroke:#6b7280,color:#1a1a1a
+  class Y yks
+  class K kou
+  class S yhk
+  class H huom

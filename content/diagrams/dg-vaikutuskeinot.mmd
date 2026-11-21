@@ -1,0 +1,52 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    rankSpacing: 10
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#e3f0ee"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2f6f6a"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f7f9fb"
+    clusterBorder: "#6b7280"
+---
+flowchart TB
+  accTitle: Terveysviestinnän vaikutuskeinot
+  accDescr: Vaikutuskeino on tapa, jolla viesti pyrkii saamaan lukijan ajattelemaan tai toimimaan tietyllä tavalla. Tavallisia keinoja on kuusi. Tunteisiin vetoaminen käyttää pelkoa, syyllisyyttä, iloa tai ylpeyttä. Asiantuntijaan tai tunnettuun henkilöön vetoaminen sanoo esimerkiksi tohtori suosittelee. Sosiaalinen todiste sanoo kaikki muutkin ovat jo mukana. Niukkuus sanoo vain tänään. Tarina tarjoaa yhden koskettavan esimerkin kokonaisen tutkimuksen sijaan. Luonnollisuus ja puhtaus kuulostavat hyvältä, mutta eivät kerro tehosta tai turvallisuudesta. Keino ei ole itsessään huono; ongelma syntyy, kun keino korvaa näytön.
+
+  V(["Vaikutuskeinot"])
+  A["`**Tunteisiin vetoaminen**
+  pelko, syyllisyys, ilo, ylpeys`"]
+  B["`**Asiantuntijaan tai tunnettuun**
+  **henkilöön vetoaminen**
+  ”tohtori suosittelee”`"]
+  C["`**Sosiaalinen todiste**
+  ”kaikki muutkin ovat jo mukana”`"]
+  D["`**Niukkuus**
+  ”vain tänään”`"]
+  E["`**Tarina**
+  yksi koskettava esimerkki
+  tutkimuksen sijaan`"]
+  F["`**Luonnollisuus ja puhtaus**
+  ei kerro tehosta eikä
+  turvallisuudesta`"]
+  G(["Ongelma syntyy, kun<br/>keino korvaa näytön"])
+  V ~~~ A ~~~ B ~~~ C ~~~ D ~~~ E ~~~ F ~~~ G
+
+  classDef keski fill:#2f6f6a,stroke:#1f4f4b,color:#ffffff
+  classDef keino fill:#e3f0ee,stroke:#2f6f6a,color:#1a1a1a
+  classDef huom fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  class V keski
+  class A,B,C,D,E,F keino
+  class G huom
