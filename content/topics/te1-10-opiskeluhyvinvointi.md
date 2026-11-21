@@ -142,7 +142,7 @@ Hyvä oppimistavoite on konkreettinen, aikataulutettu ja realistinen. Siinä on 
 
 ### Mistä tukea saa?
 
-Opiskeluhuolto tukee opiskelijan hyvinvointia ja oppimista. Siihen kuuluvat kuraattori, psykologi ja terveydenhoitaja sekä opiskeluterveydenhuollon lääkäri. Opiskelijalla on oikeus opiskeluhuoltoon. Syksystä 2026 kaikki toisen asteen opiskelijat täyttävät opiskeluterveydenhuollon digitaalisen terveyskyselyn, jonka perusteella arvioidaan terveystarkastuksen tarve (ks. [OPH:n uutinen](https://www.oph.fi/fi/uutiset/2026/digitaalinen-terveyskysely-kayttoon-kaikille-toisen-asteen-opiskelijoille)). Oppimisen tukea saa opettajalta ja koulun oppimisen tuesta. Palvelujen saatavuus vaihtelee alueittain, ja koulusi kertoo, miten aika varataan.
+Opiskeluhuolto tukee opiskelijan hyvinvointia ja oppimista. Siihen kuuluvat kuraattori, psykologi ja terveydenhoitaja sekä opiskeluterveydenhuollon lääkäri. Opiskelijalla on oikeus opiskeluhuoltoon. Opiskeluterveydenhuolto toteuttaa opintojen alussa digitaalisen terveyskyselyn, jonka toisen asteen opiskelijat täyttävät syksystä 2026 alkaen (ks. [OPH:n uutinen](https://www.oph.fi/fi/uutiset/2026/digitaalinen-terveyskysely-kayttoon-kaikille-toisen-asteen-opiskelijoille)). Oppimisen tukea saa opettajalta ja koulun oppimisen tuesta. Palvelujen saatavuus vaihtelee alueittain, ja koulusi kertoo, miten aika varataan.
 
 ## Tehtävät
 
@@ -150,7 +150,7 @@ Opiskeluhuolto tukee opiskelijan hyvinvointia ja oppimista. Siihen kuuluvat kura
 
 **Aika:** 15 min
 **Tarvitset:** paperia, kynän, alla olevan tapauksen
-**Ilman laitetta:** Tämä on paperitehtävä. Kopioi tapauksen tärkeimmät sanat paperille tai keksi oma kuvitteellinen opiskelija ja kirjoita hänestä viisi lausetta.
+**Ilman laitetta:** Tämä on paperitehtävä. Keksi paperille oma kuvitteellinen opiskelija ja kirjoita hänestä viisi lausetta: mitä vaatimuksia hänellä on, mitkä asiat tukevat häntä, mikä vaikeuttaa palautumista ja mihin hän voisi vaikuttaa itse. Tee sitten vaiheet 1–5 hänestä.
 **Harjoittelet:** Osaan 1 ja 2
 
 *Tapaus (kuvitteellinen):* **Sami** opiskelee lukion toista vuotta. Kursseja on paljon samaan aikaan, ja koeviikko lähestyy. Välipalat ja tauot jäävät usein väliin, koska Sami kiirehtii bussille. Hän opiskelee mieluiten ystävien kanssa, mutta kirjasto on kaukana. Opettaja antaa hyvää palautetta, jos sitä pyytää, mutta Sami ei halua vaivata. Kotona on rauhallista, mutta verkkoyhteys katkeilee.
@@ -165,7 +165,7 @@ Opiskeluhuolto tukee opiskelijan hyvinvointia ja oppimista. Siihen kuuluvat kura
 
 **Aika:** 20 min
 **Tarvitset:** paperia, kynän, alla olevan tapauksen
-**Ilman laitetta:** Tämä on paperitehtävä. Kopioi tapaus paperille tai keksi oma kuvitteellinen tilanne.
+**Ilman laitetta:** Tämä on paperitehtävä. Keksi paperille oma kuvitteellinen opiskelija, jolla on tärkeä koe parin viikon päästä ja joka on tähän asti opiskellut vain lukemalla muistiinpanot kerran läpi. Kirjoita tilanteesta kolme lausetta ja tee vaiheet 1–5.
 **Harjoittelet:** Osaan 3 ja 4
 
 *Tapaus (kuvitteellinen):* **Noor** valmistautuu kielikokeeseen, joka on parin viikon päästä. Hän on yleensä lukenut sanalistoja kerran läpi ja toivonut parasta. Kokeen jälkeen hän on usein huomannut, ettei muista sanoja. Noor haluaa kokeilla jotain muuta.
@@ -182,7 +182,7 @@ Opiskeluhuolto tukee opiskelijan hyvinvointia ja oppimista. Siihen kuuluvat kura
 
 **Aika:** 10 min
 **Tarvitset:** puhelimen tai tietokoneen, paperia
-**Ilman laitetta:** Kirjoita paperille lista tämän sivun osion *Mistä tukea saa?* palveluista ja kenelle kukin sopii. Ohita vaiheet 1–2 ja tee vaiheet 3–4.
+**Ilman laitetta:** Ohita vaiheet 1–2. Tee vaihe 3 paperille omasta tiedostasi: taulukko (palvelu, kenelle, mihin se auttaa), esimerkiksi kuraattorista, psykologista, terveydenhoitajasta ja opettajan antamasta oppimisen tuesta. Jos et ole varma, mihin palvelu auttaa, kirjoita kysymysmerkki ja selvitä asia myöhemmin. Tee sitten vaihe 4.
 **Harjoittelet:** Osaan 5
 
 1. Avaa [Opiskeluhuolto-sivu](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto) ja lue, millaisia ammattilaisia opiskeluhuoltoon kuuluu.
@@ -214,7 +214,7 @@ Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyyp
 
 ### K1: Virheiden tunnistaminen (20 p, 25 min)
 
-*Osa A20 · Harjoittelee: Osaan 1, 2, 3, 4, 5*
+*Osa A20 · Harjoittelee: Osaan 1, 3, 4, 5*
 
 Alla olevassa kuvitteellisessa blogitekstissä on viisi asiavirhettä. Tunnista virheet, selitä, miksi ne ovat virheitä, ja korjaa ne terveystiedon käsitteitä käyttäen.
 
@@ -377,7 +377,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka auttaa opiskelijaa jaksamaan ja oppimaan. | Kerää laput ja lue muutama ääneen. Ryhmittele ne taululle: yksilö, yhteisö, koulu. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 10 | Oikein vai väärin -väittämät pareittain: "Opiskelukyky on vain tahdonvoimaa." "Kaikille sopii sama oppimisen tapa." "Opiskeluhuoltoon voi mennä ilman erityistä syytä." | Käy väittämät läpi perustellen. Vastausvihjeet: väärin, väärin, oikein. Kytke ne lappujen ryhmiin. | Väittämät paperilla, opiskelija vastaa yksin. | Käsittele kaksi ensimmäistä. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: opiskeluhyvinvointi, opiskelukyky, voimavara, palautuminen, oppimisen tapa. | Näytä taululla vaatimukset ja voimavarat vaakakuppeina ja yksi esimerkki tavoitteesta. Kerro opiskeluhuollosta ja koulun käytännöistä. | Jaa käsitteet paperilla. | Siirrä tavoitteen asettaminen Työskentelyyn. |
+| Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: opiskeluhyvinvointi, opiskelukyky, voimavara, palautuminen, oppimisen tapa. | Näytä taululla vaatimukset ja voimavarat vaakakuppeina ja yksi esimerkki tavoitteesta. Nimeä oppimisen tavat: aktiivinen kertaus, jaksotettu kertaus, pilkkominen, palautteen käyttö, tauot. Kerro opiskeluhuollosta ja koulun käytännöistä. | Jaa käsitteet paperilla. | Siirrä tavoitteen asettaminen Työskentelyyn. |
 | Työskentely | 25 | Tehtävä 2 (20 min) yksin tai pareittain, sitten Tehtävän 1 vaiheet 1–2 (5 min). | Kierrä ja kysy: mistä Noor huomaa, että tavoite toteutui? Muistuta, että analysoidaan Nooraa, ei itseä. | Pari tekee yhteisen suunnitelman. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vertaavat suunnitelmia ja ehdottavat yhden keinon, jolla koulu voisi tukea opiskeluhyvinvointia. | Kokoa ehdotukset taululle tasoittain. Nosta esiin, että opiskeluhyvinvointi on myös yhteisön asia. | Yksin: kirjoita kaksi ehdotusta. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n virheet 1–2 yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit-lappu: yksi käsite, joka on vielä epäselvä. | Näytä K1:n pisteytys ja kysy: mistä 4 pistettä syntyy? | Paperilla. | Tarkistus kotona. |
@@ -389,7 +389,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 4 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka auttaa opiskelijaa jaksamaan ja oppimaan. | Lue muutama lappu ja ryhmittele taululle. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 6 | Kolme oikein vai väärin -väittämää pareittain: "Opiskelukyky on vain tahdonvoimaa." "Kaikille sopii sama oppimisen tapa." "Opiskeluhuoltoon voi mennä ilman erityistä syytä." | Vastausvihjeet: väärin, väärin, oikein. Perustele lyhyesti. | Väittämät paperilla. | Käsittele kaksi ensimmäistä. |
-| Lyhyt alustus | 8 | Opiskelijat kirjaavat käsitteet. | Näytä vaakakuppi ja yksi esimerkki tavoitteesta. | Jaa käsitteet paperilla. | Tavoite Työskentelyn lopussa. |
+| Lyhyt alustus | 8 | Opiskelijat kirjaavat käsitteet. | Näytä vaakakuppi ja yksi esimerkki tavoitteesta. Nimeä oppimisen tavat: aktiivinen kertaus, jaksotettu kertaus, pilkkominen, palautteen käyttö, tauot. | Jaa käsitteet paperilla. | Tavoite Työskentelyn lopussa. |
 | Työskentely | 25 | Tehtävä 2 (20 min), sitten Tehtävän 1 vaiheet 1–2 (5 min). | Kierrä ja kysy perusteluja oppimistavoille. | Pari tekee yhteisen suunnitelman. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit valitsevat yhden kuormittavan tekijän ja ehdottavat, miten koulu voisi vaikuttaa siihen. | Kokoa kolme ehdotusta taululle. | Yksin paperille. | Yksi yhteinen ehdotus. |
 | Koeharjoitus ja exit | 7 | K1:n virhe 1 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten 4 pistettä jakautuu. | Paperilla. | Tarkistus kotona. |
@@ -401,7 +401,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 2 | Kysymys ääneen: mikä auttaa opiskelijaa jaksamaan ja oppimaan? Muutama vastaus vapaaehtoisilta. | Kirjoita vastaukset taululle. | Opiskelijat kirjoittavat vastauksen itselleen. | – |
 | Aiemman tiedon aktivointi | 3 | Kaksi väittämää koko ryhmälle: "Kaikille sopii sama oppimisen tapa." "Opiskeluhuoltoon voi mennä ilman erityistä syytä." | Vastausvihjeet: väärin, oikein. | Väittämät paperilla. | Vain ensimmäinen väittämä. |
-| Lyhyt alustus | 7 | Opiskelijat kirjaavat käsitteet. | Näytä vaakakuppi ja yksi esimerkki tavoitteesta. | Jaa käsitteet paperilla. | Tavoite kotiin. |
+| Lyhyt alustus | 7 | Opiskelijat kirjaavat käsitteet. | Näytä vaakakuppi ja yksi esimerkki tavoitteesta. Nimeä oppimisen tavat: aktiivinen kertaus, jaksotettu kertaus, pilkkominen, palautteen käyttö, tauot. | Jaa käsitteet paperilla. | Näytä vain tapojen nimet ja esimerkkitavoite. |
 | Työskentely | 22 | Tehtävä 2 kokonaan (20 min). Lopuksi jokainen kirjoittaa yhden lauseen siitä, mikä tuki auttaisi (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Pari tekee yhteisen suunnitelman. | Lause kotiin. |
 | Pari- tai pienryhmäpohdinta | 5 | Koko ryhmä valitsee yhden kuormittavan tekijän ja ehdottaa keinon koululle. | Kirjoita ehdotus taululle ja kysy: miksi sen pitäisi vaikuttaa? | Yksin paperille. | Pohdinta kotiin. |
 | Koeharjoitus ja exit | 4 | Exit-lappu: yksi epäselvä käsite. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
@@ -461,8 +461,8 @@ Tällä sivulla opiskellaan opiskeluhyvinvointia yleisesti. Jos sinulla on omia 
 
 **Apua saat myös:**
 
-- [Opiskeluterveydenhuolto (luettu 21.11.2026)](https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto): tietoa siitä, mitä opiskeluterveydenhuoltoon kuuluu.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa kuraattori- ja psykologipalveluista.
+- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
+- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille.
 - [Nyyti ry (luettu 21.11.2026)](https://www.nyyti.fi/): opiskelijoiden hyvinvoinnin tuki.
 - [Opiskeluun liittyvän uupumuksen ehkäisyn omahoito-ohjelma (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/omahoito/opiskelu-uupumuksen-ehkaisyn-omahoito-ohjelma): omahoito-ohjelma opiskelijoille.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille.

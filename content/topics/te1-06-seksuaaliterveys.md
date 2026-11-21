@@ -18,6 +18,7 @@ official_links:
     url: "https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/"
     publisher: "Väestöliitto"
     read: 2026-11-21
+  - {title: "Väestöliitto: nuorten sivut", url: "https://www.vaestoliitto.fi/nuoret/", publisher: "Väestöliitto", read: 2026-11-21}
   - title: "Tunne rintasi"
     url: "https://tunnerintasi.fi/"
     publisher: "Tunne rintasi ry"
@@ -72,6 +73,7 @@ materials:
     licence: "Kaikki oikeudet pidätetään"
     audience: opiskelija
     read: 2026-11-21
+  - {title: "Väestöliitto: nuorten sivut", url: "https://www.vaestoliitto.fi/nuoret/", publisher: "Väestöliitto", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
   - title: "Rinnoista, menkoista ja gynejutuista"
     url: "https://aoe.fi/#/materiaali/3215"
     publisher: "Tunne rintasi ry ja Korento ry (aoe.fi)"
@@ -92,6 +94,13 @@ materials:
     licence_class: link-out
     licence: "Kaikki oikeudet pidätetään"
     audience: opettaja
+    read: 2026-11-21
+  - title: "Opinto-ohjaussivusto: Itsetuntemus, vahvuudet ja arvot"
+    url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/"
+    publisher: "Lukion opinto-ohjaus (sisarsivusto)"
+    licence_class: open-cc-by
+    licence: "CC BY 4.0"
+    audience: opiskelija ja opettaja
     read: 2026-11-21
 exam_tasks:
   - {id: K1, type: virheiden-tunnistaminen, part: A20, points: 20, minutes: 25, codes: [TE1.s5, TE1.t1, TE1.t3]}
@@ -156,6 +165,7 @@ Vaikutus kulkee usein ketjuna. Jos koulussa on vain vähän seksuaalikasvatusta,
 
 ### Mistä apua ja tietoa saa?
 
+Seksuaaliterveyden palveluja saa opiskeluterveydenhuollosta ja terveysasemilta. Tietoa ja neuvontaa antavat myös järjestöt, esimerkiksi [Väestöliitto](https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/). Nuorille on myös oma [Väestöliiton nuorten sivusto](https://www.vaestoliitto.fi/nuoret/), jossa on tietoa ja neuvontaa; ikärajat ja palvelujen tilanne ovat sivulla. Aihe ei ole liian pieni tai noloa. Lisää on sivulla *Apua ja tukea*.
 
 ## Tehtävät
 
@@ -163,7 +173,7 @@ Vaikutus kulkee usein ketjuna. Jos koulussa on vain vähän seksuaalikasvatusta,
 
 **Aika:** 18 min
 **Tarvitset:** paperia, kynän, alla olevan tapauksen
-**Ilman laitetta:** Tämä on paperitehtävä. Kopioi tapauksen tärkeimmät asiat paperille tai keksi oma kuvitteellinen nuori ja kirjoita hänen tilanteestaan kuusi lausetta.
+**Ilman laitetta:** Tämä on paperitehtävä. Keksi paperille oma kuvitteellinen nuori ja kirjoita hänen tilanteestaan kuusi lausetta: missä hän asuu, mistä hän saa tietoa, millainen koulun ilmapiiri on ja miten palveluihin pääsee. Tee sitten vaiheet 1–5 hänen tilanteestaan.
 **Harjoittelet:** Osaan 1 ja 2
 
 *Tapaus (kuvitteellinen):* **Kim** on 17-vuotias ja asuu maaseudulla isovanhempiensa kanssa. Koulun seksuaalikasvatus oli yläkoulussa yksi oppitunti. Kim kuulee kavereilta keskenään ristiriitaisia asioita ehkäisystä. Terveysasema on kaukana, ja bussi kulkee harvoin. Kim ei tiedä, että koululla on opiskeluterveydenhoitaja. Kim uskaltaa kysyä, kun jokin on epäselvää, ja ystävystyy helposti. Koulun käytävillä vitsaillaan usein toisten kustannuksella, myös seksuaalisuudesta.
@@ -178,7 +188,7 @@ Vaikutus kulkee usein ketjuna. Jos koulussa on vain vähän seksuaalikasvatusta,
 
 **Aika:** 10 min
 **Tarvitset:** Tehtävän 1 sarakkeet, paperia
-**Ilman laitetta:** Tämä on paperitehtävä. Jos et tehnyt Tehtävää 1, valitse tekijä tämän sivun kohdasta *Mikä vaikuttaa seksuaaliterveyteen?*
+**Ilman laitetta:** Tämä on paperitehtävä. Jos et tehnyt Tehtävää 1, valitse itse yksi tekijä, esimerkiksi koulun vähäinen seksuaalikasvatus, pitkä matka terveysasemalle tai ystävien virheellinen tieto, ja tee vaiheet 2–5 siitä.
 **Harjoittelet:** Osaan 3
 
 1. Valitse Kimin tapauksesta yksi yhteisöllinen tai yhteiskunnallinen tekijä.
@@ -191,7 +201,7 @@ Vaikutus kulkee usein ketjuna. Jos koulussa on vain vähän seksuaalikasvatusta,
 
 **Aika:** 15 min
 **Tarvitset:** puhelimen tai tietokoneen, paperia
-**Ilman laitetta:** Ohita vaihe 1. Käytä sivun osioita *Mitä seksuaaliterveys on?* ja *Mistä apua ja tietoa saa?* ja tee vaiheet 2–5.
+**Ilman laitetta:** Ohita vaihe 1. Kirjoita paperille, mitä seksuaaliterveyteen mielestäsi kuuluu. Keksi palvelut ja tietolähteet omasta tietämyksestäsi, esimerkiksi opiskeluterveydenhuolto ja koulun kuraattori, ja tee vaiheet 2–5.
 **Harjoittelet:** Osaan 4 ja 5
 
 1. Avaa [Väestöliiton seksuaaliterveyssivu](https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/) ja lue, mitä seksuaaliterveyteen sivun mukaan kuuluu.
@@ -300,10 +310,10 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|
 | Noor | Opiskeluterveydenhuolto (terveydenhoitaja tai lääkäri) | Ammattilainen kertoo menetelmistä ja siitä, mitkä suojaavat myös sukupuolitaudeilta, ja auttaa valinnassa. | Tieto palvelusta puuttuu tai aikaa joutuu odottamaan. |
 | Aaro | Opiskeluterveydenhuollon terveydenhoitaja; nuorille tarkoitettu tietosivusto | Terveydenhoitaja voi kertoa, että kehitys vaihtelee. Nuorten tietosivustoilta löytyy yleistä tietoa murrosiästä. | Asian kokeminen noloksi tai pelko siitä, että on "erilainen". |
-| Kim | Väestöliiton nimetön chat; Setan nuorille tarkoittama tuki; koulun kuraattori | Nimetön keskustelu madaltaa kynnystä. Seta ja kuraattori tuntevat seksuaalisen moninaisuuden ja kuuntelevat. | Pelko tuomitsemisesta tai syrjinnästä ja se, ettei tiedä palveluista. |
+| Kim | Väestöliiton nuorten sivut ja neuvonta; Setan nuorille tarkoittama tuki; koulun kuraattori | Nuorille suunnattu neuvonta madaltaa kynnystä. Seta ja kuraattori tuntevat seksuaalisen moninaisuuden ja kuuntelevat. | Pelko tuomitsemisesta tai syrjinnästä ja se, ettei tiedä palveluista. |
 | Veera | Opiskeluterveydenhuolto (terveydenhoitaja tai lääkäri) | Pitkään jatkunut kipu tutkitaan terveydenhuollossa. Oireisiin ei vastata nettitiedolla. | Pitkä matka, odotusaika tai ajatus, ettei kipu ole "tarpeeksi iso syy". |
 
-**Yhteiskunnan tason este:** Palvelujen saatavuus on yhteiskunnallinen tekijä, koska hyvinvointialue päättää vastaanottoaikojen määrästä ja sijainnista. Jos terveydenhoitajan ajat ovat vähissä, nuori joutuu odottamaan, eikä välttämättä hae apua lainkaan. Estettä voi vähentää lisäämällä vastaanottoaikoja, kertomalla palveluista koulussa ja tarjoamalla nimetön chat-apu.
+**Yhteiskunnan tason este:** Palvelujen saatavuus on yhteiskunnallinen tekijä, koska hyvinvointialue päättää vastaanottoaikojen määrästä ja sijainnista. Jos terveydenhoitajan ajat ovat vähissä, nuori joutuu odottamaan, eikä välttämättä hae apua lainkaan. Estettä voi vähentää lisäämällä vastaanottoaikoja, kertomalla palveluista koulussa ja tarjoamalla nuorille matalan kynnyksen neuvontaa.
 
 **Pisteytys**
 
@@ -473,9 +483,10 @@ Tällä sivulla opiskellaan seksuaaliterveyttä yleisesti. Jos sinulla on omia o
 
 **Apua saat myös:**
 
-- [Opiskeluterveydenhuolto (luettu 21.11.2026)](https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto): tietoa siitä, mitä opiskeluterveydenhuoltoon kuuluu, myös seksuaaliterveyspalveluista.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa kuraattori- ja psykologipalveluista.
-- [Väestöliitto: seksuaaliterveys (luettu 21.11.2026)](https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/): tietoa ja nuorille tarkoitettu chat-palvelu. Ikärajat ja aukioloajat ovat sivulla.
+- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
+- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille.
+- [Väestöliitto: seksuaaliterveys (luettu 21.11.2026)](https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/): tietoa seksuaaliterveydestä.
+- [Väestöliitto: nuorten sivut (luettu 21.11.2026)](https://www.vaestoliitto.fi/nuoret/): nuorille tarkoitettua tietoa ja seksuaalineuvontaa. Ikärajat ja palvelujen tilanne ovat sivulla.
 - [Seta (luettu 21.11.2026)](https://seta.fi/): tietoa ja tukea seksuaali- ja sukupuolivähemmistöihin kuuluville nuorille ja heidän läheisilleen.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
 - [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.

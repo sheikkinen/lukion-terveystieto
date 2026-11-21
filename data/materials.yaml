@@ -1,18 +1,8 @@
-# Linkitetyt materiaalit per TE1-aihe. Linkit, ei kopioita (CLAUDE.md sääntö 5).
+# Linkitetyt materiaalit per TE1-aihe. Linkit, ei kopioita (CLAUDE.md sääntö 5). Tuotettu front matterista; älä muokkaa käsin ilman uutta ajoa.
 checked: '2026-11-21'
-note: Jokainen osoite avattu 2026-11-21 (enintään kaksi yritystä); sama luettelo kattaa myös aiheiden official_links-osoitteet. aoe.fi-kohteet tarkistettu aoe.fi:n rajapinnasta
-  (sivu on selainsovellus). Lisenssit aoe.fi:n metatiedoista.
+note: 'Luettelo on tuotettu aiheiden front matterista: jokaisesta aiheesta kaikki osoitteet kentistä official_links, materials ja sibling_links, yksi merkintä per osoite (listed_in kertoo kentät), lisenssiluokka ja lukupäivä aiheen omasta merkinnästä. Jos osoitteella ei ole materials-merkintää, sibling_links-osoite on CC BY 4.0 (sisarsivusto) ja muu osoite link-out. Link-out-aineisto vain linkitetään (sääntö 5). Kenttä note on siirretty aiemmista merkinnöistä; vain niiden osoitteiden avaaminen 2026-11-21 (enintään kaksi yritystä), aoe.fi-rajapintatarkistus ja aoe.fi-metatietojen lisenssit on todennettu, joiden note sanoo niin. Luettelo ei kata aiheiden leipätekstin linkkejä. Lista excluded on pelkkä kirjaus eikä tule näkyviin.'
 topics:
   te1-01:
-  - &id007
-    title: Opiskeluhuolto (Opetushallitus)
-    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto
-    publisher: Opetushallitus
-    licence_class: link-out
-    licence: Kaikki oikeudet pidätetään
-    audience: opiskelija ja opettaja
-    read: '2026-11-21'
-    note: Osoite avattu (200) 2026-11-21; sisältöä ei luettu tarkasti.
   - title: Constitution of the World Health Organization
     url: https://www.who.int/about/governance/constitution
     publisher: World Health Organization
@@ -20,44 +10,108 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opettaja
     read: '2026-11-21'
+    listed_in:
+    - official_links
     note: Osoite avattu (200) 2026-11-21; englanninkielinen.
-  - &id002
-    title: Terveystiedon LOPS 2019 -tukimateriaali
-    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali
-    publisher: Opetushallitus
-    licence_class: link-out
-    licence: Kaikki oikeudet pidätetään
-    audience: opettaja
-    read: '2026-11-21'
-  - &id001
-    title: TE1 Terveys voimavarana (verkkokurssin runko)
-    url: https://aoe.fi/#/materiaali/1113
-    publisher: Schildtin lukio (aoe.fi)
-    licence_class: open-cc-by-sa
-    licence: CC BY-SA 4.0
-    audience: opettaja
-    read: '2026-11-21'
-    note: Moodle-varmuuskopio (.mbz). Linkitetään, ei muokata eikä upoteta (SA).
-  - &id003
-    title: Nuorten hyvinvointi (THL)
+  - title: Nuorten hyvinvointi (THL)
     url: https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi
     publisher: Terveyden ja hyvinvoinnin laitos (THL)
     licence_class: link-out
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
     note: Entinen osoite thl.fi/kouluterveyskysely/tulokset ei auennut curlilla (TLS-virhe, joka koskee kaikkia thl.fi-osoitteita curlilla, ei kuollut linkki); tilalle nykyinen sivu.
-  - title: 'Opinto-ohjaussivusto: Itsetuntemus'
+  - title: Opiskeluhuolto
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: "Osoite avattu 2026-11-21; turvatarkastaja luki sivun: se on kirjoitettu pääosin opetuksen järjestäjille, mutta kertoo opiskelijan oikeudesta kuraattori- ja psykologipalveluihin."
+  - title: 'Mielenterveystalo: nuoret'
+    url: https://www.mielenterveystalo.fi/fi/nuoret
+    publisher: Mielenterveystalo.fi
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: Muutokseen liittyvää omahoitoa. Avointa suomenkielistä lähdettä neljästä mallista ei löytynyt.
+  - title: Sekasin-chat
+    url: https://sekasin.fi/
+    publisher: Sekasin Kollektiivi
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+  - title: MIELI Kriisipuhelin
+    url: https://mieli.fi/tukea-ja-apua/kriisipuhelin/
+    publisher: MIELI Suomen Mielenterveys ry
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: Vanha osoite /tuki-ja-apu/kriisipuhelin/ ohjaa tähän.
+  - title: Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)
+    url: https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/
+    publisher: Lukion opinto-ohjaus -sivusto
+    licence_class: open-cc-by
+    licence: CC BY 4.0
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - sibling_links
+  - title: Terveystiedon LOPS 2019 -tukimateriaali
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+  - title: TE1 Terveys voimavarana (Moodle-opintojakson pohja)
+    url: https://aoe.fi/#/materiaali/1113
+    publisher: Schildtin lukio (aoe.fi)
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 4.0
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    note: Moodle-varmuuskopio (.mbz). Linkitetään, ei muokata eikä upoteta (SA).
+  - title: TE01 Terveys voimavarana, verkko-opintojakson suunnitelma
+    url: https://aoe.fi/#/materiaali/1852
+    publisher: Espoon aikuislukio, Omnia (aoe.fi)
+    licence_class: open-cc-by
+    licence: CC BY 4.0
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    note: Kurssirunkopohja (pptx). Mukaillaan vain tekijänimellä.
+  - title: Itsetuntemus, vahvuudet ja arvot (opinto-ohjaus, aihe 05)
     url: https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/
     publisher: Lukion opinto-ohjaus (sisarsivusto)
     licence_class: open-cc-by
     licence: CC BY 4.0
     audience: opiskelija ja opettaja
     read: '2026-11-21'
+    listed_in:
+    - sibling_links
   te1-02:
-  - *id007
-  - *id001
-  - *id002
   - title: Mielenterveystalo Nuoret
     url: https://www.mielenterveystalo.fi/fi/nuoret
     publisher: Mielenterveystalo.fi (HUS)
@@ -65,7 +119,78 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
     note: Muutokseen liittyvää omahoitoa. Avointa suomenkielistä lähdettä neljästä mallista ei löytynyt.
+  - title: Opiskeluterveydenhuolto
+    url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: "Sivu on kirjoitettu ammattilaisille (osoite thl.fi/ohjeita-ammattilaisille); taustatietoa, ei opiskelijan varausreittiä. Opiskelijalle reitti kerrotaan sanoin (koulu tai hyvinvointialue)."
+  - title: Opiskeluhuolto
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: "Osoite avattu 2026-11-21; turvatarkastaja luki sivun: se on kirjoitettu pääosin opetuksen järjestäjille, mutta kertoo opiskelijan oikeudesta kuraattori- ja psykologipalveluihin."
+  - title: Sekasin-chat
+    url: https://sekasin.fi/
+    publisher: Sekasin-kollektiivi
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+  - title: MIELI Kriisipuhelin
+    url: https://mieli.fi/tukea-ja-apua/kriisipuhelin/
+    publisher: MIELI Suomen Mielenterveys ry
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: Vanha osoite /tuki-ja-apu/kriisipuhelin/ ohjaa tähän.
+  - title: Itsetuntemus, vahvuudet ja arvot (opinto-ohjaus, aihe 05)
+    url: https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/
+    publisher: Lukion opinto-ohjaus -sivusto
+    licence_class: open-cc-by
+    licence: CC BY 4.0
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - sibling_links
+  - title: TE1 Terveys voimavarana (verkkokurssin runko)
+    url: https://aoe.fi/#/materiaali/1113
+    publisher: Schildtin lukio (aoe.fi)
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 4.0
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    note: Moodle-varmuuskopio (.mbz). Linkitetään, ei muokata eikä upoteta (SA).
+  - title: Terveystiedon LOPS 2019 -tukimateriaali
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
   - title: TE01 Terveys voimavarana, verkko-opintojakso
     url: https://aoe.fi/#/materiaali/1852
     publisher: Omnia, Espoon aikuislukio (aoe.fi)
@@ -73,9 +198,10 @@ topics:
     licence: CC BY 4.0
     audience: opettaja
     read: '2026-11-21'
+    listed_in:
+    - materials
     note: Kurssirunkopohja (pptx). Mukaillaan vain tekijänimellä.
   te1-03:
-  - *id007
   - title: Terveyskirjasto (Duodecim)
     url: https://www.terveyskirjasto.fi/
     publisher: Kustannus Oy Duodecim
@@ -83,6 +209,9 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
   - title: Terveyskylä
     url: https://www.terveyskyla.fi/
     publisher: Yliopistosairaalat
@@ -90,6 +219,58 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
+  - title: Opiskeluterveydenhuolto
+    url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: "Sivu on kirjoitettu ammattilaisille (osoite thl.fi/ohjeita-ammattilaisille); taustatietoa, ei opiskelijan varausreittiä. Opiskelijalle reitti kerrotaan sanoin (koulu tai hyvinvointialue)."
+  - title: Opiskeluhuolto
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: "Osoite avattu 2026-11-21; turvatarkastaja luki sivun: se on kirjoitettu pääosin opetuksen järjestäjille, mutta kertoo opiskelijan oikeudesta kuraattori- ja psykologipalveluihin."
+  - title: 'Mielenterveystalo: nuoret'
+    url: https://www.mielenterveystalo.fi/fi/nuoret
+    publisher: Mielenterveystalo.fi (HUS)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: Muutokseen liittyvää omahoitoa. Avointa suomenkielistä lähdettä neljästä mallista ei löytynyt.
+  - title: Sekasin-chat
+    url: https://sekasin.fi/
+    publisher: Sekasin-kollektiivi
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+  - title: MIELI Kriisipuhelin
+    url: https://mieli.fi/tukea-ja-apua/kriisipuhelin/
+    publisher: MIELI Suomen Mielenterveys ry
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: Vanha osoite /tuki-ja-apu/kriisipuhelin/ ohjaa tähän.
   - title: 'Opinto-ohjaussivusto: Tietolähteet'
     url: https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/08-tietolahteet/
     publisher: Lukion opinto-ohjaus (sisarsivusto)
@@ -97,9 +278,28 @@ topics:
     licence: CC BY 4.0
     audience: opiskelija ja opettaja
     read: '2026-11-21'
-  - *id002
+    listed_in:
+    - materials
+    - sibling_links
+  - title: Terveystiedon LOPS 2019 -tukimateriaali
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+  - title: REAALIAINEIDEN (GE, TE, BG) KOETEHTÄVIÄ
+    url: https://aoe.fi/#/materiaali/4704
+    publisher: Hankasalmen lukio / Pääpointti-hanke (aoe.fi)
+    licence_class: excluded
+    licence: CC BY 4.0 (metatiedoissa)
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - materials
   te1-04:
-  - *id007
   - title: Ravitsemus- ja ruokasuositukset
     url: https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravitsemus--ja-ruokasuositukset/
     publisher: Ruokavirasto
@@ -107,14 +307,20 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija ja opettaja
     read: '2026-11-21'
-  - *id003
-  - title: Mielenterveystalo Nuoret (apu)
-    url: https://www.mielenterveystalo.fi/fi/nuoret
-    publisher: Mielenterveystalo.fi (HUS)
+    listed_in:
+    - materials
+    - official_links
+  - title: Nuorten hyvinvointi (THL)
+    url: https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
     licence_class: link-out
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
+    note: Entinen osoite thl.fi/kouluterveyskysely/tulokset ei auennut curlilla (TLS-virhe, joka koskee kaikkia thl.fi-osoitteita curlilla, ei kuollut linkki); tilalle nykyinen sivu.
   - title: 'Syömishäiriöliitto-SYLI: tukipalvelut'
     url: https://syomishairioliitto.fi/tukea/tukea-sairastuneelle
     publisher: Syömishäiriöliitto-SYLI ry
@@ -122,9 +328,70 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
     note: Löydetty 2026-11-21 tiedossa olleen aukon tilalle. SYLI-chatin suositusikäraja 15+.
+  - title: Opiskeluterveydenhuolto
+    url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: "Sivu on kirjoitettu ammattilaisille (osoite thl.fi/ohjeita-ammattilaisille); taustatietoa, ei opiskelijan varausreittiä. Opiskelijalle reitti kerrotaan sanoin (koulu tai hyvinvointialue)."
+  - title: Opiskeluhuolto
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: "Osoite avattu 2026-11-21; turvatarkastaja luki sivun: se on kirjoitettu pääosin opetuksen järjestäjille, mutta kertoo opiskelijan oikeudesta kuraattori- ja psykologipalveluihin."
+  - title: Mielenterveystalo Nuoret (apu)
+    url: https://www.mielenterveystalo.fi/fi/nuoret
+    publisher: Mielenterveystalo.fi (HUS)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
+    note: Muutokseen liittyvää omahoitoa. Avointa suomenkielistä lähdettä neljästä mallista ei löytynyt.
+  - title: Sekasin-chat
+    url: https://sekasin.fi/
+    publisher: Sekasin-kollektiivi
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+  - title: MIELI Kriisipuhelin
+    url: https://mieli.fi/tukea-ja-apua/kriisipuhelin/
+    publisher: MIELI Suomen Mielenterveys ry
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: Vanha osoite /tuki-ja-apu/kriisipuhelin/ ohjaa tähän.
+  - title: Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)
+    url: https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/
+    publisher: Lukion opinto-ohjaus (sisarsivusto)
+    licence_class: open-cc-by
+    licence: CC BY 4.0
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - sibling_links
   te1-05:
-  - *id007
   - title: Liikkumisen suositukset
     url: https://ukkinstituutti.fi/liikkuminen/liikkumisen-suositukset/
     publisher: UKK-instituutti
@@ -132,7 +399,19 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija ja opettaja
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
     note: 'Vanha osoite /liikkumisensuositus/ ohjaa tähän. Lapsille ja nuorille (7-17 v) oma sivu: https://ukkinstituutti.fi/liikkuminen/liikkumisen-suositukset/lasten-ja-nuorten-liikkumissuositus/'
+  - title: Lasten ja nuorten liikkumissuositus
+    url: https://ukkinstituutti.fi/liikkuminen/liikkumisen-suositukset/lasten-ja-nuorten-liikkumissuositus/
+    publisher: UKK-instituutti
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
   - title: Kuinka paljon unta tarvitaan? (nuorten univaikeuksien omahoito)
     url: https://www.mielenterveystalo.fi/fi/omahoito/nuorten-univaikeuksien-omahoito-ohjelma/kuinka-paljon-unta-tarvitaan
     publisher: Mielenterveystalo.fi (HUS)
@@ -140,8 +419,99 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
     note: Ei virallinen suositus. Sivu antaa nuorille noin 8-10 tunnin ohjeen; päiväystä sivulla ei näy. Sivusto ei kopioi tuntimääriä.
-  - *id003
+  - title: Nuorten hyvinvointi (THL)
+    url: https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
+    note: Entinen osoite thl.fi/kouluterveyskysely/tulokset ei auennut curlilla (TLS-virhe, joka koskee kaikkia thl.fi-osoitteita curlilla, ei kuollut linkki); tilalle nykyinen sivu.
+  - title: Opiskeluterveydenhuolto
+    url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: "Sivu on kirjoitettu ammattilaisille (osoite thl.fi/ohjeita-ammattilaisille); taustatietoa, ei opiskelijan varausreittiä. Opiskelijalle reitti kerrotaan sanoin (koulu tai hyvinvointialue)."
+  - title: Opiskeluhuolto
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: "Osoite avattu 2026-11-21; turvatarkastaja luki sivun: se on kirjoitettu pääosin opetuksen järjestäjille, mutta kertoo opiskelijan oikeudesta kuraattori- ja psykologipalveluihin."
+  - title: 'Mielenterveystalo: nuoret'
+    url: https://www.mielenterveystalo.fi/fi/nuoret
+    publisher: Mielenterveystalo.fi (HUS)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: Muutokseen liittyvää omahoitoa. Avointa suomenkielistä lähdettä neljästä mallista ei löytynyt.
+  - title: Sekasin-chat
+    url: https://sekasin.fi/
+    publisher: Sekasin-kollektiivi
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+  - title: MIELI Kriisipuhelin
+    url: https://mieli.fi/tukea-ja-apua/kriisipuhelin/
+    publisher: MIELI Suomen Mielenterveys ry
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: Vanha osoite /tuki-ja-apu/kriisipuhelin/ ohjaa tähän.
+  - title: Terveystiedon LOPS 2019 -tukimateriaali
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+  - title: TE1 Terveys voimavarana (verkkokurssin runko)
+    url: https://aoe.fi/#/materiaali/1113
+    publisher: Schildtin lukio (aoe.fi)
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 4.0
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    note: Moodle-varmuuskopio (.mbz). Linkitetään, ei muokata eikä upoteta (SA).
+  - title: TE01 Terveys voimavarana, verkko-opintojakso
+    url: https://aoe.fi/#/materiaali/1852
+    publisher: Omnia, Espoon aikuislukio (aoe.fi)
+    licence_class: open-cc-by
+    licence: CC BY 4.0
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    note: Kurssirunkopohja (pptx). Mukaillaan vain tekijänimellä.
   - title: 'Opinto-ohjaussivusto: Ajankäyttö'
     url: https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/03-ajankaytto/
     publisher: Lukion opinto-ohjaus (sisarsivusto)
@@ -149,8 +519,19 @@ topics:
     licence: CC BY 4.0
     audience: opiskelija ja opettaja
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - sibling_links
+  - title: Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)
+    url: https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/
+    publisher: Lukion opinto-ohjaus (sisarsivusto)
+    licence_class: open-cc-by
+    licence: CC BY 4.0
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - sibling_links
   te1-06:
-  - *id007
   - title: Seksuaaliterveys (Väestöliitto)
     url: https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/
     publisher: Väestöliitto
@@ -158,15 +539,20 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
     note: Vanha osoite /seksuaaliterveys/ ohjaa tähän.
-  - title: Rinnoista, menkoista ja gynejutuista
-    url: https://aoe.fi/#/materiaali/3215
-    publisher: Tunne rintasi ry & Korento ry (aoe.fi)
-    licence_class: open-cc-by
-    licence: CC BY 4.0
-    audience: opettaja
+  - title: 'Väestöliitto: nuorten sivut'
+    url: https://www.vaestoliitto.fi/nuoret/
+    publisher: Väestöliitto
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
     read: '2026-11-21'
-    note: 'Tasot: yläkoulu ja lukio. Mukaillaan vain tekijänimellä.'
+    listed_in:
+    - materials
+    - official_links
   - title: Tunne rintasi
     url: https://tunnerintasi.fi/
     publisher: Tunne rintasi ry
@@ -174,24 +560,29 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija
     read: '2026-11-21'
-  - title: Sexpo
-    url: https://sexpo.fi/
-    publisher: Sexpo-säätiö
+    listed_in:
+    - materials
+    - official_links
+  - title: Opiskeluterveydenhuolto
+    url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
     licence_class: link-out
     licence: Kaikki oikeudet pidätetään
     audience: opettaja
     read: '2026-11-21'
-    note: Opettajan taustatuki, ei SeriE-palvelu.
-  te1-07:
-  - title: Rikosuhripäivystys
-    url: https://www.riku.fi/
-    publisher: Rikosuhripäivystys (RIKU)
+    listed_in:
+    - official_links
+    note: "Sivu on kirjoitettu ammattilaisille (osoite thl.fi/ohjeita-ammattilaisille); taustatietoa, ei opiskelijan varausreittiä. Opiskelijalle reitti kerrotaan sanoin (koulu tai hyvinvointialue)."
+  - title: Opiskeluhuolto
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto
+    publisher: Opetushallitus
     licence_class: link-out
     licence: Kaikki oikeudet pidätetään
-    audience: opiskelija
+    audience: opiskelija ja opettaja
     read: '2026-11-21'
-    note: Osoite avattu (200) 2026-11-21.
-  - *id007
+    listed_in:
+    - official_links
+    note: "Osoite avattu 2026-11-21; turvatarkastaja luki sivun: se on kirjoitettu pääosin opetuksen järjestäjille, mutta kertoo opiskelijan oikeudesta kuraattori- ja psykologipalveluihin."
   - title: Seta
     url: https://seta.fi/
     publisher: Seta ry
@@ -199,6 +590,107 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija
     read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: nuoret.seta.fi-sivustoa ei luettu.
+  - title: Sekasin-chat
+    url: https://sekasin.fi/
+    publisher: Sekasin-kollektiivi
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+  - title: MIELI Kriisipuhelin
+    url: https://mieli.fi/tukea-ja-apua/kriisipuhelin/
+    publisher: MIELI Suomen Mielenterveys ry
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: Vanha osoite /tuki-ja-apu/kriisipuhelin/ ohjaa tähän.
+  - title: Terveystiedon LOPS 2019 -tukimateriaali
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+  - title: TE1 Terveys voimavarana (verkkokurssin runko)
+    url: https://aoe.fi/#/materiaali/1113
+    publisher: Schildtin lukio (aoe.fi)
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 4.0
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    note: Moodle-varmuuskopio (.mbz). Linkitetään, ei muokata eikä upoteta (SA).
+  - title: TE01 Terveys voimavarana, verkko-opintojakso
+    url: https://aoe.fi/#/materiaali/1852
+    publisher: Omnia, Espoon aikuislukio (aoe.fi)
+    licence_class: open-cc-by
+    licence: CC BY 4.0
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    note: Kurssirunkopohja (pptx). Mukaillaan vain tekijänimellä.
+  - title: Rinnoista, menkoista ja gynejutuista
+    url: https://aoe.fi/#/materiaali/3215
+    publisher: Tunne rintasi ry ja Korento ry (aoe.fi)
+    licence_class: open-cc-by
+    licence: CC BY 4.0
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    note: 'Tasot: yläkoulu ja lukio. Mukaillaan vain tekijänimellä.'
+  - title: Sexpo
+    url: https://sexpo.fi/
+    publisher: Sexpo-säätiö
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    note: Opettajan taustatuki.
+  - title: 'Opinto-ohjaussivusto: Itsetuntemus, vahvuudet ja arvot'
+    url: https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/
+    publisher: Lukion opinto-ohjaus (sisarsivusto)
+    licence_class: open-cc-by
+    licence: CC BY 4.0
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    - sibling_links
+  - title: Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)
+    url: https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/
+    publisher: Lukion opinto-ohjaus (sisarsivusto)
+    licence_class: open-cc-by
+    licence: CC BY 4.0
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - sibling_links
+  te1-07:
+  - title: Seta
+    url: https://seta.fi/
+    publisher: Seta ry
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
     note: nuoret.seta.fi-sivustoa ei luettu.
   - title: Seksuaaliterveys (Väestöliitto)
     url: https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/
@@ -207,6 +699,88 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
+    note: Vanha osoite /seksuaaliterveys/ ohjaa tähän.
+  - title: Rikosuhripäivystys
+    url: https://www.riku.fi/
+    publisher: Rikosuhripäivystys (RIKU)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: Osoite avattu (200) 2026-11-21.
+  - title: Opiskeluterveydenhuolto
+    url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: "Sivu on kirjoitettu ammattilaisille (osoite thl.fi/ohjeita-ammattilaisille); taustatietoa, ei opiskelijan varausreittiä. Opiskelijalle reitti kerrotaan sanoin (koulu tai hyvinvointialue)."
+  - title: Opiskeluhuolto
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: "Osoite avattu 2026-11-21; turvatarkastaja luki sivun: se on kirjoitettu pääosin opetuksen järjestäjille, mutta kertoo opiskelijan oikeudesta kuraattori- ja psykologipalveluihin."
+  - title: Sekasin-chat
+    url: https://sekasin.fi/
+    publisher: Sekasin-kollektiivi
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+  - title: MIELI Kriisipuhelin
+    url: https://mieli.fi/tukea-ja-apua/kriisipuhelin/
+    publisher: MIELI Suomen Mielenterveys ry
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: Vanha osoite /tuki-ja-apu/kriisipuhelin/ ohjaa tähän.
+  - title: Terveystiedon LOPS 2019 -tukimateriaali
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+  - title: TE1 Terveys voimavarana (verkkokurssin runko)
+    url: https://aoe.fi/#/materiaali/1113
+    publisher: Schildtin lukio (aoe.fi)
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 4.0
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    note: Moodle-varmuuskopio (.mbz). Linkitetään, ei muokata eikä upoteta (SA).
+  - title: TE01 Terveys voimavarana, verkko-opintojakso
+    url: https://aoe.fi/#/materiaali/1852
+    publisher: Omnia, Espoon aikuislukio (aoe.fi)
+    licence_class: open-cc-by
+    licence: CC BY 4.0
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    note: Kurssirunkopohja (pptx). Mukaillaan vain tekijänimellä.
   - title: International technical guidance on sexuality education (UNESCO)
     url: https://www.unesco.org/en/articles/international-technical-guidance-sexuality-education-evidence-informed-approach
     publisher: UNESCO
@@ -214,9 +788,29 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opettaja
     read: '2026-11-21'
+    listed_in:
+    - materials
     note: Julkaistu 2018, sivu päivitetty 2024-12. Englanninkielinen.
+  - title: 'Opinto-ohjaussivusto: Itsetuntemus, vahvuudet ja arvot'
+    url: https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/
+    publisher: Lukion opinto-ohjaus (sisarsivusto)
+    licence_class: open-cc-by
+    licence: CC BY 4.0
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    - sibling_links
+  - title: Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)
+    url: https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/
+    publisher: Lukion opinto-ohjaus (sisarsivusto)
+    licence_class: open-cc-by
+    licence: CC BY 4.0
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - sibling_links
   te1-08:
-  - *id007
   - title: Mielenterveystalo Nuoret
     url: https://www.mielenterveystalo.fi/fi/nuoret
     publisher: Mielenterveystalo.fi (HUS)
@@ -224,6 +818,10 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
+    note: Muutokseen liittyvää omahoitoa. Avointa suomenkielistä lähdettä neljästä mallista ei löytynyt.
   - title: MIELI ry
     url: https://mieli.fi/
     publisher: MIELI Suomen Mielenterveys ry
@@ -231,23 +829,79 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija
     read: '2026-11-21'
-  - &id004
-    title: Kriisipuhelin
+    listed_in:
+    - materials
+    - official_links
+  - title: Kriisipuhelin
     url: https://mieli.fi/tukea-ja-apua/kriisipuhelin/
     publisher: MIELI Suomen Mielenterveys ry
     licence_class: link-out
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
     note: Vanha osoite /tuki-ja-apu/kriisipuhelin/ ohjaa tähän.
-  - &id005
-    title: Sekasin-chat
+  - title: Sekasin-chat
     url: https://sekasin.fi/
     publisher: Sekasin-kollektiivi
     licence_class: link-out
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
+  - title: Opiskeluhuolto
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: "Osoite avattu 2026-11-21; turvatarkastaja luki sivun: se on kirjoitettu pääosin opetuksen järjestäjille, mutta kertoo opiskelijan oikeudesta kuraattori- ja psykologipalveluihin."
+  - title: Opiskeluterveydenhuolto
+    url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: "Sivu on kirjoitettu ammattilaisille (osoite thl.fi/ohjeita-ammattilaisille); taustatietoa, ei opiskelijan varausreittiä. Opiskelijalle reitti kerrotaan sanoin (koulu tai hyvinvointialue)."
+  - title: Terveystiedon LOPS 2019 -tukimateriaali
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+  - title: TE1 Terveys voimavarana (verkkokurssin runko)
+    url: https://aoe.fi/#/materiaali/1113
+    publisher: Schildtin lukio (aoe.fi)
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 4.0
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    note: Moodle-varmuuskopio (.mbz). Linkitetään, ei muokata eikä upoteta (SA).
+  - title: TE01 Terveys voimavarana, verkko-opintojakso
+    url: https://aoe.fi/#/materiaali/1852
+    publisher: Omnia, Espoon aikuislukio (aoe.fi)
+    licence_class: open-cc-by
+    licence: CC BY 4.0
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    note: Kurssirunkopohja (pptx). Mukaillaan vain tekijänimellä.
   - title: 'Opinto-ohjaussivusto: Hyvinvointi ja opiskelukyky'
     url: https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/
     publisher: Lukion opinto-ohjaus (sisarsivusto)
@@ -255,8 +909,10 @@ topics:
     licence: CC BY 4.0
     audience: opiskelija ja opettaja
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - sibling_links
   te1-09:
-  - *id007
   - title: Mielenterveystalo Nuoret
     url: https://www.mielenterveystalo.fi/fi/nuoret
     publisher: Mielenterveystalo.fi (HUS)
@@ -264,17 +920,91 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija
     read: '2026-11-21'
-  - &id006
-    title: Nyyti ry
+    listed_in:
+    - materials
+    - official_links
+    note: Muutokseen liittyvää omahoitoa. Avointa suomenkielistä lähdettä neljästä mallista ei löytynyt.
+  - title: Nyyti ry
     url: https://www.nyyti.fi/
     publisher: Nyyti ry
     licence_class: link-out
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
     note: Opiskelijoiden hyvinvoinnin tuki.
-  - *id004
-  - *id005
+  - title: Kriisipuhelin
+    url: https://mieli.fi/tukea-ja-apua/kriisipuhelin/
+    publisher: MIELI Suomen Mielenterveys ry
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
+    note: Vanha osoite /tuki-ja-apu/kriisipuhelin/ ohjaa tähän.
+  - title: Sekasin-chat
+    url: https://sekasin.fi/
+    publisher: Sekasin-kollektiivi
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
+  - title: Opiskeluhuolto
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: "Osoite avattu 2026-11-21; turvatarkastaja luki sivun: se on kirjoitettu pääosin opetuksen järjestäjille, mutta kertoo opiskelijan oikeudesta kuraattori- ja psykologipalveluihin."
+  - title: Opiskeluterveydenhuolto
+    url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: "Sivu on kirjoitettu ammattilaisille (osoite thl.fi/ohjeita-ammattilaisille); taustatietoa, ei opiskelijan varausreittiä. Opiskelijalle reitti kerrotaan sanoin (koulu tai hyvinvointialue)."
+  - title: Terveystiedon LOPS 2019 -tukimateriaali
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+  - title: TE1 Terveys voimavarana (verkkokurssin runko)
+    url: https://aoe.fi/#/materiaali/1113
+    publisher: Schildtin lukio (aoe.fi)
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 4.0
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    note: Moodle-varmuuskopio (.mbz). Linkitetään, ei muokata eikä upoteta (SA).
+  - title: TE01 Terveys voimavarana, verkko-opintojakso
+    url: https://aoe.fi/#/materiaali/1852
+    publisher: Omnia, Espoon aikuislukio (aoe.fi)
+    licence_class: open-cc-by
+    licence: CC BY 4.0
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    note: Kurssirunkopohja (pptx). Mukaillaan vain tekijänimellä.
   - title: 'Opinto-ohjaussivusto: Opiskelutaidot'
     url: https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/02-opiskelutaidot/
     publisher: Lukion opinto-ohjaus (sisarsivusto)
@@ -282,17 +1012,29 @@ topics:
     licence: CC BY 4.0
     audience: opiskelija ja opettaja
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - sibling_links
+  - title: Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)
+    url: https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/
+    publisher: Lukion opinto-ohjaus (sisarsivusto)
+    licence_class: open-cc-by
+    licence: CC BY 4.0
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - sibling_links
   te1-10:
-  - *id007
-  - *id006
-  - title: Opiskeluun liittyvän uupumuksen ehkäisyn omahoito-ohjelma
-    url: https://www.mielenterveystalo.fi/fi/omahoito/opiskelu-uupumuksen-ehkaisyn-omahoito-ohjelma
-    publisher: Mielenterveystalo.fi (HUS)
+  - title: Opiskeluhuolto
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto
+    publisher: Opetushallitus
     licence_class: link-out
     licence: Kaikki oikeudet pidätetään
-    audience: opiskelija
+    audience: opiskelija ja opettaja
     read: '2026-11-21'
-    note: Vanha osoite ohjaa tähän.
+    listed_in:
+    - official_links
+    note: "Osoite avattu 2026-11-21; turvatarkastaja luki sivun: se on kirjoitettu pääosin opetuksen järjestäjille, mutta kertoo opiskelijan oikeudesta kuraattori- ja psykologipalveluihin."
   - title: Digitaalinen terveyskysely käyttöön kaikille toisen asteen opiskelijoille (uutinen 28.4.2026)
     url: https://www.oph.fi/fi/uutiset/2026/digitaalinen-terveyskysely-kayttoon-kaikille-toisen-asteen-opiskelijoille
     publisher: Opetushallitus
@@ -300,6 +1042,99 @@ topics:
     licence: Kaikki oikeudet pidätetään
     audience: opiskelija ja opettaja
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
+  - title: Opiskeluterveydenhuolto
+    url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: "Sivu on kirjoitettu ammattilaisille (osoite thl.fi/ohjeita-ammattilaisille); taustatietoa, ei opiskelijan varausreittiä. Opiskelijalle reitti kerrotaan sanoin (koulu tai hyvinvointialue)."
+  - title: Nyyti ry
+    url: https://www.nyyti.fi/
+    publisher: Nyyti ry
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
+    note: Opiskelijoiden hyvinvoinnin tuki.
+  - title: Opiskeluun liittyvän uupumuksen ehkäisyn omahoito-ohjelma
+    url: https://www.mielenterveystalo.fi/fi/omahoito/opiskelu-uupumuksen-ehkaisyn-omahoito-ohjelma
+    publisher: Mielenterveystalo.fi (HUS)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    - official_links
+    note: Vanha osoite ohjaa tähän.
+  - title: 'Mielenterveystalo: nuoret'
+    url: https://www.mielenterveystalo.fi/fi/nuoret
+    publisher: Mielenterveystalo.fi (HUS)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: Muutokseen liittyvää omahoitoa. Avointa suomenkielistä lähdettä neljästä mallista ei löytynyt.
+  - title: Sekasin-chat
+    url: https://sekasin.fi/
+    publisher: Sekasin-kollektiivi
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+  - title: MIELI Kriisipuhelin
+    url: https://mieli.fi/tukea-ja-apua/kriisipuhelin/
+    publisher: MIELI Suomen Mielenterveys ry
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    note: Vanha osoite /tuki-ja-apu/kriisipuhelin/ ohjaa tähän.
+  - title: Terveystiedon LOPS 2019 -tukimateriaali
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali
+    publisher: Opetushallitus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+  - title: TE1 Terveys voimavarana (verkkokurssin runko)
+    url: https://aoe.fi/#/materiaali/1113
+    publisher: Schildtin lukio (aoe.fi)
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 4.0
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    note: Moodle-varmuuskopio (.mbz). Linkitetään, ei muokata eikä upoteta (SA).
+  - title: TE01 Terveys voimavarana, verkko-opintojakso
+    url: https://aoe.fi/#/materiaali/1852
+    publisher: Omnia, Espoon aikuislukio (aoe.fi)
+    licence_class: open-cc-by
+    licence: CC BY 4.0
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - materials
+    note: Kurssirunkopohja (pptx). Mukaillaan vain tekijänimellä.
   - title: 'Opinto-ohjaussivusto: Hyvinvointi ja opiskelukyky'
     url: https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/
     publisher: Lukion opinto-ohjaus (sisarsivusto)
@@ -307,6 +1142,9 @@ topics:
     licence: CC BY 4.0
     audience: opiskelija ja opettaja
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - sibling_links
   - title: 'Opinto-ohjaussivusto: HOPS'
     url: https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/06-hops/
     publisher: Lukion opinto-ohjaus (sisarsivusto)
@@ -314,6 +1152,9 @@ topics:
     licence: CC BY 4.0
     audience: opiskelija ja opettaja
     read: '2026-11-21'
+    listed_in:
+    - materials
+    - sibling_links
 excluded:
 - title: REAALIAINEIDEN (GE, TE, BG) KOETEHTÄVIÄ
   url: https://aoe.fi/#/materiaali/4704
@@ -322,8 +1163,7 @@ excluded:
   licence: CC BY 4.0 (metatiedoissa)
   audience: opiskelija
   read: '2026-11-21'
-  note: Kuvauksen mukaan vanhoja ylioppilaskokeen tehtäviä (YTL); YTL:n sisältöä ei voi vapaasti lisensoida. Ei
-    linkitetä opiskelijasivuilta eikä mukailla.
+  note: Kuvauksen mukaan vanhoja ylioppilaskokeen tehtäviä (YTL); YTL:n sisältöä ei voi vapaasti lisensoida. Ei linkitetä opiskelijasivuilta eikä mukailla.
 - title: aoe 3486 (Amnesty)
   url: https://aoe.fi/#/materiaali/3486
   publisher: Amnesty (aoe.fi)

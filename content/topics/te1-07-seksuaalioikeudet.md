@@ -86,6 +86,13 @@ materials:
     licence: "Kaikki oikeudet pidätetään"
     audience: opettaja
     read: 2026-11-21
+  - title: "Opinto-ohjaussivusto: Itsetuntemus, vahvuudet ja arvot"
+    url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/"
+    publisher: "Lukion opinto-ohjaus (sisarsivusto)"
+    licence_class: open-cc-by
+    licence: "CC BY 4.0"
+    audience: opiskelija ja opettaja
+    read: 2026-11-21
 exam_tasks:
   - {id: K1, type: oikein-vaarin, part: A20, points: 20, minutes: 25, codes: [TE1.s5, TE1.t1]}
   - {id: K2, type: vertailu, part: B20, points: 20, minutes: 35, codes: [TE1.s5, TE1.t1]}
@@ -147,11 +154,11 @@ Esimerkki ketjusta: jos koulussa ei puhuta moninaisuudesta, nuori voi kokea olev
 
 ### Eettinen kysymys
 
-Eettinen kysymys syntyy, kun arvot ovat ristiriidassa eikä yksi oikea vastaus ole ilmeinen. Esimerkiksi nuoren oikeus tietoon ja huoltajan vakaumus voivat olla eri mieltä. Eettisessä analyysissä selvitetään, ketä asia koskee, mitkä arvot ovat vastakkain ja mitä perusteluja kullakin puolella on. Lopuksi esitetään oma perusteltu kanta. Perustelu on tärkeämpi kuin se, kumman puolelle asettuu.
+Eettinen kysymys syntyy, kun arvot ovat ristiriidassa eikä yksi oikea vastaus ole ilmeinen. Esimerkiksi nuoren oikeus tietoon ja huoltajan toive saada tietoa ja olla mukana voivat vetää eri suuntiin siinä, miten asiasta kerrotaan. Eettisessä analyysissä selvitetään, ketä asia koskee, mitkä arvot ovat vastakkain ja mitä perusteluja kullakin puolella on. Lopuksi esitetään oma perusteltu kanta. Perustelu on tärkeämpi kuin se, kumman puolelle asettuu.
 
 ### Mistä apua saa?
 
-Seksuaaliterveyden palveluja saa [opiskeluterveydenhuollosta](https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto). Tietoa ja tukea antavat esimerkiksi [Seta](https://seta.fi/) ja [Väestöliitto](https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/). Rikoksen kokeneita tukee [Rikosuhripäivystys](https://www.riku.fi/). Lisää on sivulla *Apua ja tukea*.
+Seksuaaliterveyden palveluja saa opiskeluterveydenhuollosta. Tietoa ja tukea antavat esimerkiksi [Seta](https://seta.fi/) ja [Väestöliitto](https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/). Rikoksen kokeneita tukee [Rikosuhripäivystys](https://www.riku.fi/). Lisää on sivulla *Apua ja tukea*.
 
 ## Tehtävät
 
@@ -159,7 +166,7 @@ Seksuaaliterveyden palveluja saa [opiskeluterveydenhuollosta](https://thl.fi/ohj
 
 **Aika:** 15 min
 **Tarvitset:** paperia, kynän, alla olevan tapauksen
-**Ilman laitetta:** Tämä on paperitehtävä. Kopioi tapaus paperille tai keksi oma kuvitteellinen tilanne, jossa joku pyytää toista toistuvasti jotakin, mihin toinen on jo vastannut ei.
+**Ilman laitetta:** Tämä on paperitehtävä. Keksi paperille oma kuvitteellinen tilanne, jossa joku pyytää toista toistuvasti jotakin, mihin toinen on jo vastannut ei. Kirjoita tilanteesta neljä lausetta ja tee sitten vaiheet 1–5.
 **Harjoittelet:** Osaan 2
 
 *Tapaus (kuvitteellinen):* **Veera** pyytää **Kimiä** treffeille. Kim sanoo, ettei halua. Veera kysyy uudestaan seuraavana päivänä ja sanoo, että "kaikki muutkin menevät". Kolmannella kerralla Veera sanoo, että Kim on tylsä, jos ei lähde. Kim sanoo yhä ei, mutta alkaa vältellä Veeraa. Kimin kaverit huomaavat, että Kim on hiljainen.
@@ -174,20 +181,22 @@ Seksuaaliterveyden palveluja saa [opiskeluterveydenhuollosta](https://thl.fi/ohj
 
 **Aika:** 10 min
 **Tarvitset:** paperia ja kynän
-**Ilman laitetta:** Tämä on paperitehtävä. Käytä tämän sivun osiota *Seksuaalinen ja sukupuolen moninaisuus*.
+**Ilman laitetta:** Tämä on paperitehtävä. Tee vaiheet 1–5 paperilla.
 **Harjoittelet:** Osaan 3
 
 1. Kirjoita paperille viisi käsitettä: seksuaalinen suuntautuminen, sukupuoli-identiteetti, sukupuolen ilmaisu, sukupuolen moninaisuus, syrjintä.
-2. Peitä sivun teksti ja kirjoita jokaiselle selitys omin sanoin.
-3. Tarkista selitykset sivun tekstistä ja korjaa.
+2. Peitä tarkistusrivi ja kirjoita jokaiselle selitys omin sanoin.
+3. Tarkista selitykset tarkistusriviltä ja korjaa.
 4. Kirjoita kuvitteellinen esimerkki syrjinnästä koulussa ja ketju, jolla se vaikuttaa hyvinvointiin.
 5. Kirjoita yksi tapa, jolla koulu voisi estää tämän ketjun.
+
+*Tarkistusrivi (peitä se kirjoittaessasi):* seksuaalinen suuntautuminen = keneen ihminen ihastuu tai tuntee kiinnostusta; sukupuoli-identiteetti = kokemus omasta sukupuolesta; sukupuolen ilmaisu = tapa ilmaista sukupuolta, esimerkiksi pukeutumisella tai puhetavalla; sukupuolen moninaisuus = sukupuolta koetaan ja ilmaistaan monin tavoin; syrjintä = huonompi kohtelu esimerkiksi suuntautumisen tai sukupuolen vuoksi.
 
 ### Tehtävä 3: Tutki oikeuksia ja tasoja
 
 **Aika:** 20 min
 **Tarvitset:** puhelimen tai tietokoneen, paperia
-**Ilman laitetta:** Ohita vaihe 1. Käytä sivun osioita *Mitä seksuaalioikeudet ovat?* ja *Mikä vaikuttaa oikeuksien toteutumiseen?* ja tee vaiheet 2–5.
+**Ilman laitetta:** Ohita vaihe 1. Valitse yksi oikeus, esimerkiksi oikeus tietoon, oikeus päättää omasta kehostaan tai oikeus yhdenvertaiseen kohteluun, ja tee vaiheet 2–5 paperilla. Tasot ovat yksilölliset, yhteisölliset, yhteiskunnalliset ja globaalit tekijät.
 **Harjoittelet:** Osaan 1 ja 4
 
 1. Avaa [Setan sivusto](https://seta.fi/) ja katso, millaista tietoa ja tukea nuorille on tarjolla.
@@ -245,14 +254,14 @@ Vertaile kahta koulua neljästä näkökulmasta: a) ilmapiiri ja turvallisuus, b
 
 ### K3: Eettinen analyysi (30 p, 50 min)
 
-*Osa C30 · Harjoittelee: Osaan 1, 4, 5*
+*Osa C30 · Harjoittelee: Osaan 1, 3, 5*
 
 *Aineisto (kuvitteellinen koulun keskustelu):*
 
-> **Moninaisuudesta puhuminen jakaa mielet.** Osa Pajulan lukion huoltajista on pyytänyt, ettei terveystiedon tunneilla käsiteltäisi sukupuolen ja seksuaalisen suuntautumisen moninaisuutta. Heidän mukaansa asia kuuluu kotiin ja perheen vakaumukseen. Terveystiedon opettaja sanoo, että aihe kuuluu opetukseen, koska tieto suojaa kaikkia opiskelijoita ja vähentää syrjintää. Opiskelija Noor kertoo, että tieto auttaisi ymmärtämään myös kavereita ja perheenjäseniä. Rehtori haluaa löytää ratkaisun, joka kunnioittaa sekä huoltajia että opiskelijoita.
+> **Miten huoltajille kerrotaan moninaisuudesta?** Pajulan lukiossa sukupuolen ja seksuaalisen suuntautumisen moninaisuus kuuluu terveystiedon opetukseen, ja rehtori vahvistaa, että sisältö opetetaan kaikille. Osa huoltajista haluaisi, että koulu kertoo etukäteen laajasti, mitä tunneilla sanotaan, ja että he pääsevät keskustelemaan sisällöstä ennen tunteja. Heidän mukaansa asia liittyy perheen vakaumukseen. Opettaja sanoo, että tavallinen tiedote riittää, kuten muistakin aiheista, koska sisältö perustuu opetussuunnitelmaan ja koulun yhdenvertaisuustehtävään. Opiskelija Noor kertoo, että tieto auttaisi ymmärtämään myös kavereita ja perheenjäseniä. Rehtori haluaa löytää tavan, joka kunnioittaa sekä huoltajia että opiskelijoita.
 
 a) Erittele, ketä asia koskee ja mitkä arvot ovat aineistossa vastakkain. (8 p)
-b) Esitä perusteluja ainakin kahdelle eri kannalle ja arvioi niiden vahvuuksia. (10 p)
+b) Esitä perusteluja ainakin kahdelle eri kannalle siitä, miten huoltajille tiedotetaan ja heitä osallistetaan, ja arvioi niiden vahvuuksia. (10 p)
 c) Tee perusteltu ratkaisuehdotus ja arvioi, miten se vaikuttaisi nuorten hyvinvointiin ja terveyseroihin. (12 p)
 
 ## Mallivastaukset
@@ -332,14 +341,14 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** Asia koskee opiskelijoita, huoltajia, opettajaa, rehtoria ja koko koulun yhteisöä. Vastakkain ovat huoltajan oikeus kasvattaa lapsensa vakaumuksensa mukaan ja nuoren oikeus tietoon sekä turvalliseen kouluun. Myös yhdenvertaisuus ja syrjinnän ehkäisy ovat mukana: tieto voi suojata moninaisuuteen kuuluvia opiskelijoita, ja kunnioitus koskee myös huoltajien vakaumusta. Koulun tehtävä ja yksityisyys ovat aineistossa jännitteessä.
+**a)** Asia koskee opiskelijoita, huoltajia, opettajaa, rehtoria ja koko koulun yhteisöä. Aineistossa sisällön opettaminen ei ole kysymys: moninaisuus kuuluu opetussuunnitelman seksuaalioikeuksia koskevaan sisältöön ja koulun yhdenvertaisuusvelvoitteeseen, joten se opetetaan kaikille. Kiistan aihe on se, miten huoltajille kerrotaan ja miten heidät otetaan mukaan. Vastakkain ovat huoltajien toive tietää ja vaikuttaa siihen, mitä lapselle opetetaan, ja koulun tehtävä antaa kaikille tasapuolisesti tietoa sekä suojata opiskelijoita syrjinnältä. Mukana on myös nuoren oma oikeus tietoon.
 
-**b)** *Kanta 1: moninaisuudesta puhutaan tunneilla.* Perustelut: tieto vähentää ennakkoluuloja ja pilkkaa, ja se suojaa niitä opiskelijoita, jotka kuuluvat moninaisuuteen tai joiden läheiset kuuluvat. Opiskelija ei voi tietää, mitä ei ole opetettu. Vahvuus: perustuu kaikkien oikeuteen tietoon ja syrjimättömyyteen. Heikkous: huoltajien huoli voi jäädä kuulematta, jos asiasta ei keskustella.
-*Kanta 2: aihe jätetään kodin asiaksi.* Perustelut: perheillä on oikeus omaan vakaumukseensa, ja koulun on kunnioitettava sitä. Vahvuus: huoltajien luottamus koulua kohtaan säilyy. Heikkous: ne nuoret, joille tieto olisi tärkeää, jäävät ilman, ja kotiin vietävä tieto vaihtelee. Aiheen vaikeneminen voi lisätä yksinäisyyttä ja syrjintää.
-Yksi esimerkki perustellusta kannasta: jos painotetaan sitä, että tieto koskee kaikkien turvallisuutta ja hyvinvointia, ensimmäinen kanta voi vaikuttaa vahvemmalta. Yhtä hyvin voi perustella toisen kannan painoarvoa, esimerkiksi huoltajien luottamuksella ja perheen vakaumuksen kunnioittamisella, kunhan perustelut nojaavat aineistoon ja heikkoudet myönnetään.
+**b)** *Kanta 1: koulu tiedottaa laajasti ja keskustelee huoltajien kanssa etukäteen.* Perustelut: avoimuus lisää luottamusta, huoltajat voivat tukea nuorta kotona ja huoli tulee kuulluksi ennen kuin siitä tulee riita. Vahvuus: kunnioittaa huoltajien asemaa kasvattajina. Heikkous: vie opettajien aikaa, ja keskustelu voi muuttua vaatimukseksi sisällön muuttamisesta, vaikka sisältö ei ole neuvoteltavissa.
+*Kanta 2: koulu tiedottaa tavalliseen tapaan kuten muistakin aiheista.* Perustelut: sisältö perustuu opetussuunnitelmaan, ja erityiskohtelu antaisi ymmärtää, että moninaisuus on poikkeuksellinen tai ongelmallinen aihe. Vahvuus: kohtelee aihetta kuten muita ja välttää leimaamista. Heikkous: huoltajat voivat kokea tulleensa ohitetuiksi, ja luottamus koulua kohtaan voi heiketä.
+Kumpi tahansa kanta voi olla perusteltu, kunhan perustelut nojaavat aineistoon, heikkoudet myönnetään eikä sisällön opettamista esitetä vapaaehtoisena.
 
-**c)** *Ehdotus:* Koulu käsittelee moninaisuutta neutraalisti ja asiallisesti osana terveystietoa. Koulu kertoo etukäteen huoltajille, mitä tunneilla käsitellään, ja kutsuu heidät keskustelemaan opettajan ja rehtorin kanssa. Opettaja ei kehota ketään muuttamaan vakaumustaan vaan antaa tietoa ja korostaa kunnioitusta. Tämä kunnioittaa molempia puolia: nuori saa tiedon ja huoltajat tietävät, mitä opetetaan.
-*Vaikutus:* tieto ja turvallinen ilmapiiri tukevat kaikkien opiskelijoiden hyvinvointia ja voivat vähentää yksinäisyyttä ja pilkkaa. Moninaisuuteen kuuluvat nuoret hyötyvät eniten, koska he usein kokevat syrjintää. Terveyserot kaventuvat, kun kaikki saavat saman tiedon riippumatta kodista. Riskinä on, että huoltajat kokevat tulleensa ohitetuiksi, jos tiedotus ja keskustelu laiminlyödään.
+**c)** *Ehdotus:* Moninaisuus opetetaan kaikille osana terveystietoa neutraalisti ja asiallisesti. Koulu kertoo etukäteen kaikissa aiheissa, mitä tunneilla käsitellään, ja järjestää huoltajille halutessaan yhteisen infotilaisuuden, jossa opettaja ja rehtori kertovat sisällöstä ja perusteista. Opettaja ei kehota ketään muuttamaan vakaumustaan vaan antaa tietoa ja korostaa kunnioitusta. Tämä kunnioittaa molempia puolia: kaikki opiskelijat saavat saman tiedon ja huoltajat tietävät, mitä opetetaan.
+*Vaikutus:* tieto ja turvallinen ilmapiiri tukevat kaikkien opiskelijoiden hyvinvointia ja voivat vähentää yksinäisyyttä ja pilkkaa. Moninaisuuteen kuuluvat nuoret hyötyvät eniten, koska he voivat kokea syrjintää. Terveyserot kaventuvat, kun kaikki saavat saman tiedon riippumatta kodista. Riskinä on, että huoltajat kokevat tulleensa ohitetuiksi, jos tiedotus ja keskustelu laiminlyödään.
 
 **Pisteytys**
 
@@ -364,6 +373,7 @@ Tehtävänannon osapisteet (a 8 p, b 10 p, c 12 p) sisältävät sekä sisällö
 - Vastaus on oma mielipide, jossa toista kantaa vain moititaan.
 - Arvoristiriitaa ei nimetä: vastaus toteaa vain, että "mielipiteet eroavat".
 - Huoltajien huoli sivuutetaan tai sitä pilkataan.
+- Sisällön opettaminen esitetään valinnaisena tai kodin päätettävänä, vaikka kiista koskee vain tiedottamista ja osallistamista.
 - Ehdotus ei kerro, kuka toimii ja miten.
 - Vaikutus nuorten terveyteen jää mainitsematta.
 
@@ -425,10 +435,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita suostumuksen neljä piirrettä taululle valmiiksi.
-- Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
-- Selvitä koulun yhdenvertaisuussuunnitelma, kiusaamisen ja häirinnän vastaiset käytännöt sekä opiskeluterveydenhuollon ja kuraattorin yhteystiedot (esimerkki).
-- Tutustu halutessasi UNESCOn seksuaalikasvatuksen ohjeeseen ja Opetushallituksen tukimateriaaliin (linkitetyt materiaalit). Älä kopioi niiden tehtäviä.
+- Kirjoita suostumuksen neljä piirrettä taululle valmiiksi ja varaa nimettömiä lappuja virittäytymiseen ja exitiin.
+- Selvitä koulun yhdenvertaisuussuunnitelma, kiusaamisen ja häirinnän vastaiset käytännöt sekä opiskeluterveydenhuollon ja kuraattorin yhteystiedot (esimerkki). Tutustu halutessasi UNESCOn seksuaalikasvatuksen ohjeeseen ja Opetushallituksen tukimateriaaliin (linkitetyt materiaalit). Älä kopioi niiden tehtäviä.
 
 ### Avoimet kysymykset
 
@@ -436,7 +444,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Miksi vastuu suostumuksen varmistamisesta on sillä, joka haluaa edetä?
 - Miten painostus eroaa suostumuksesta?
 - Miten syrjintä voi kuormittaa terveyttä?
-- Miten koulun ilmapiiri vaikuttaa siihen, uskaltaako hakea apua?
 - Miten eettistä kysymystä analysoidaan, kun molemmilla puolilla on hyviä perusteluja?
 
 ### Pelisäännöt ja oletusten tarkistus
@@ -476,10 +483,10 @@ Jos sinua on kohdeltu väärin tai pakotettu johonkin, se ei ole sinun syysi. Vo
 
 **Apua saat myös:**
 
-- [Opiskeluterveydenhuolto (luettu 21.11.2026)](https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto): tietoa siitä, mitä opiskeluterveydenhuoltoon kuuluu, myös seksuaaliterveyspalveluista.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa kuraattori- ja psykologipalveluista.
+- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
+- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille.
 - [Rikosuhripäivystys (luettu 21.11.2026)](https://www.riku.fi/): tukea ja neuvoja rikoksen kokeneille puhelimessa, verkossa ja kasvokkain. Sivustolla on tietoa myös seksuaalirikoksista. Aukioloajat ovat sivulla.
-- [Väestöliitto: seksuaaliterveys (luettu 21.11.2026)](https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/): tietoa ja nuorille tarkoitettu chat-palvelu. Ikärajat ja aukioloajat ovat sivulla.
+- [Väestöliitto: seksuaaliterveys (luettu 21.11.2026)](https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/): tietoa seksuaaliterveydestä. Ikärajat ja aukioloajat ovat sivulla.
 - [Seta (luettu 21.11.2026)](https://seta.fi/): tietoa ja tukea seksuaali- ja sukupuolivähemmistöihin kuuluville nuorille ja heidän läheisilleen.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
 - [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.

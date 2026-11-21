@@ -37,13 +37,17 @@ official_links:
     url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/"
     publisher: "MIELI Suomen Mielenterveys ry"
     read: 2026-11-21
+  - title: "Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)"
+    url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/"
+    publisher: "Lukion opinto-ohjaus -sivusto"
+    read: 2026-11-21
 yearly_facts: [kouluterveyskysely, opiskeluterveydenhuolto, kriisipuhelimet]
 materials:
   - title: "Terveystiedon LOPS 2019 -tukimateriaali"
     url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali"
     publisher: "Opetushallitus"
     licence_class: link-out
-    licence: "Ei avointa lisenssiä sivulla"
+    licence: "Kaikki oikeudet pidätetään"
     audience: opettaja
     read: 2026-11-21
   - title: "TE1 Terveys voimavarana (Moodle-opintojakson pohja)"
@@ -64,7 +68,7 @@ materials:
     url: "https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi"
     publisher: "Terveyden ja hyvinvoinnin laitos (THL)"
     licence_class: link-out
-    licence: "Ei avointa lisenssiä tarkistettu; linkitetään"
+    licence: "Kaikki oikeudet pidätetään"
     audience: opiskelija
     read: 2026-11-21
 exam_tasks:
@@ -135,7 +139,7 @@ Terveyden edistäminen tarkoittaa toimia, jotka vahvistavat voimavaroja ja paran
 
 **Aika:** 20 min
 **Tarvitset:** paperia, kynän, alla olevan tapauksen
-**Ilman laitetta:** Tämä on paperitehtävä. Kopioi tapauksen tärkeimmät sanat paperille tai keksi oma kuvitteellinen nuori ja kirjoita hänestä viisi lausetta.
+**Ilman laitetta:** Tehtävä tehdään paperilla ilman tätä sivua. Keksi kuvitteellinen nuori ja kirjoita hänestä viisi lausetta: missä hän asuu, mitä hän harrastaa, mitä arjessa on vaikeaa, mikä häntä auttaa ja mikä on perheen tai paikkakunnan tilanne. Tee vaiheet 1–5 hänestä.
 **Harjoittelet:** Osaan 2 ja 3
 
 *Tapaus (kuvitteellinen):* **Veera** on 17-vuotias ja asuu isänsä ja pikkuveljensä kanssa pienellä paikkakunnalla. Hän pelaa salibandyä joukkueessa, jossa on hyvä henki. Koulumatka kestää bussilla kauan, eikä iltaisin kulje bussia. Veera osaa suunnitella aikaansa ja kysyy, kun ei ymmärrä jotain. Isän työpaikka on epävarma, koska tehtaan tilaukset ulkomailta ovat vähentyneet, ja perheen talous on tiukka. Lähellä on metsää ja ulkoilureittejä.
@@ -150,7 +154,7 @@ Terveyden edistäminen tarkoittaa toimia, jotka vahvistavat voimavaroja ja paran
 
 **Aika:** 10 min
 **Tarvitset:** Tehtävän 1 kehät, paperia
-**Ilman laitetta:** Tämä on paperitehtävä. Jos et tehnyt Tehtävää 1, valitse tekijä tämän sivun kohdasta *Terveyden taustatekijät*.
+**Ilman laitetta:** Tehtävä tehdään paperilla ilman tätä sivua. Jos sinulla ei ole Tehtävän 1 kehiä, valitse yksi näistä tekijöistä: koulumatkan pituus, perheen toimeentulo, koulun kerhotoiminta, lähikaupan valikoima tai ilmastonmuutos. Tee vaiheet 2–5 valitsemastasi tekijästä.
 **Harjoittelet:** Osaan 1 ja 4
 
 1. Valitse kehiltä yksi yhteisöllinen tai yhteiskunnallinen tekijä.
@@ -210,7 +214,7 @@ Alla olevassa kuvitteellisessa blogitekstissä on viisi asiavirhettä. Tunnista 
 
 *Aineisto (kuvitteellinen):* **Aaro** on 16 ja muutti perheensä kanssa uudelle paikkakunnalle, koska vanhemman työ siirtyi sinne. Hän ikävöi vanhoja ystäviään. Uudessa lukiossa on aktiivinen opiskelijakunta, ja kouluruoka on maksuton. Aaro on hyvä ratkaisemaan ongelmia, mutta hänen on vaikea tutustua uusiin ihmisiin. Kunnassa on nuorisotila, mutta Aaro ei vielä tiedä siitä. Uutisten mukaan maailmanlaajuinen ilmastonmuutos on lisännyt helleaaltoja myös Suomessa.
 
-Täydennä taulukko vastausarkille. Valitse jokaiselle tasolle yksi aineiston tekijä. Lisäksi selitä lyhyesti, miten kaksi taulukon tekijää voivat vaikuttaa toisiinsa.
+Täydennä taulukko vastausarkille. Valitse jokaiselle tasolle yksi tai kaksi aineiston tekijää. Lisäksi selitä lyhyesti, miten kaksi taulukon tekijää voivat vaikuttaa toisiinsa.
 
 | Taso | Tekijä aineistosta | Suojaava vai kuormittava? | Vaikutusmekanismi Aaron terveyteen |
 |---|---|---|---|
@@ -444,7 +448,7 @@ Tällä sivulla opiskellaan terveyttä yleisesti. Jos sinulla on omia oireita ta
 
 **Apua saat myös:**
 
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluterveydenhuollosta sekä kuraattori- ja psykologipalveluista.
+- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
 - [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.

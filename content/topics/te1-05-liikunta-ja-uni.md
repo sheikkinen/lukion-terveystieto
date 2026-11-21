@@ -150,7 +150,7 @@ Lepo on muutakin kuin nukkumista. **Palautuminen** tarkoittaa sitä, että keho 
 
 Unen aikana aivot käsittelevät opittua, keho palautuu ja tunteiden säätely helpottuu. Jos unta on pitkään liian vähän, keskittyminen, muisti ja mieliala voivat heikentyä. **Vuorokausirytmi** on elimistön sisäinen kello, joka ohjaa vireyttä ja väsymystä. Se voi olla eri ihmisillä erilainen: joku vireystyy aikaisin ja väsyy illalla, toinen vireystyy myöhemmin ja väsyy vasta myöhään. Silloin aamulla nouseminen voi tuntua raskaalta, vaikka koulu alkaisi samaan aikaan kaikille.
 
-Unen tarve vaihtelee ihmisestä toiseen, ja se muuttuu iän mukana: lapsuudesta lähtien unen tarve vähenee iän myötä. Tämä sivusto ei anna tuntimääriä. Aiheesta voit lukea [Mielenterveystalon sivulta](https://www.mielenterveystalo.fi/fi/omahoito/nuorten-univaikeuksien-omahoito-ohjelma/kuinka-paljon-unta-tarvitaan).
+Unen tarve vaihtelee ihmisestä toiseen. Tämä sivusto ei anna tuntimääriä. Aiheesta voit lukea [Mielenterveystalon sivulta](https://www.mielenterveystalo.fi/fi/omahoito/nuorten-univaikeuksien-omahoito-ohjelma/kuinka-paljon-unta-tarvitaan).
 
 ### Mikä ohjaa liikkumista ja nukkumista?
 
@@ -168,7 +168,7 @@ Jos uni ei pitkään onnistu tai liikkuminen tuottaa kipua, ota yhteyttä opiske
 
 **Aika:** 20 min
 **Tarvitset:** paperia, kynän, alla olevan tapauksen
-**Ilman laitetta:** Tämä on paperitehtävä. Kopioi tapauksen tärkeimmät asiat paperille tai keksi oma kuvitteellinen nuori ja kirjoita hänen arjestaan kuusi lausetta.
+**Ilman laitetta:** Tämä on paperitehtävä. Keksi kuvitteellinen nuori ja kirjoita hänen arjestaan kuusi lausetta: koulumatka, harrastus, ajatus siitä mitä liikunta on, illan ajankäyttö, koulun tarjoama toiminta ja yksi asia, jonka hän haluaa jaksaa. Tee sitten vaiheet 1–5 keksimälläsi henkilöllä.
 **Harjoittelet:** Osaan 2 ja 3
 
 *Tapaus (kuvitteellinen):* **Noor** on lukiolainen ja asuu maaseudulla. Bussi lähtee kotoa aikaisin aamulla ja tuo koulusta takaisin vasta iltapäivän lopulla. Noor soittaa bändissä, joka harjoittelee myöhään illalla. Hän ajattelee, että liikunta tarkoittaa kuntosalia ja juoksua, joten hän ei koe liikkuvansa. Silti hän kävelee pitkän matkan pysäkille ja kulkee koulun rappusia. Illalla Noor on puhelimella pitkään, koska ystävät ovat silloin verkossa. Koulu ei järjestä iltapäivisin ohjattua toimintaa. Noor haluaa jaksaa harjoituksissa ja kokeissa.
@@ -183,7 +183,7 @@ Jos uni ei pitkään onnistu tai liikkuminen tuottaa kipua, ota yhteyttä opiske
 
 **Aika:** 12 min
 **Tarvitset:** Tehtävän 1 taulukon, paperia
-**Ilman laitetta:** Tämä on paperitehtävä. Jos et tehnyt Tehtävää 1, valitse tekijä tämän sivun kohdasta *Mikä ohjaa liikkumista ja nukkumista?*
+**Ilman laitetta:** Tämä on paperitehtävä. Jos et tehnyt Tehtävää 1, valitse tekijäksi yksi näistä: pitkä bussimatka, käsitys ettei liikunta ole liikuntaa ilman urheilua, ystävien ilta-aika verkossa tai se, ettei koulussa ole iltapäivän toimintaa.
 **Harjoittelet:** Osaan 4
 
 1. Valitse Noorin tapauksesta yksi tekijä, joka vaikuttaa liikkumiseen, lepoon tai uneen.
@@ -196,7 +196,7 @@ Jos uni ei pitkään onnistu tai liikkuminen tuottaa kipua, ota yhteyttä opiske
 
 **Aika:** 15 min
 **Tarvitset:** puhelimen tai tietokoneen, paperia
-**Ilman laitetta:** Ohita vaihe 1. Kirjoita paperille, mitä sivun osiot *Liikkuminen* ja *Uni* kertovat suosituksista, ja tee vaiheet 2–5.
+**Ilman laitetta:** Ohita vaihe 1. Kirjoita paperille tämä muistisääntö: virallisilla suosituksilla on julkaisija, ne on tehty eri ikäryhmille ja niiden luvut päivittyvät, joten luvut luetaan aina viralliselta sivulta. Tee sitten vaiheet 2–5.
 **Harjoittelet:** Osaan 1 ja 5
 
 1. Avaa [UKK-instituutin nuorten liikkumissuositus](https://ukkinstituutti.fi/liikkuminen/liikkumisen-suositukset/lasten-ja-nuorten-liikkumissuositus/) ja katso, kenelle se on tarkoitettu ja miten se on jäsennelty. Älä kirjoita lukuja muistiin äläkä vertaa niitä itseesi.
@@ -400,7 +400,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka voi palauttaa ihmistä kuormittavan päivän jälkeen. | Kerää laput ja lue muutama. Ryhmittele taululle: keho, mieli, ihmiset, ympäristö. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 10 | Oikein vai väärin -väittämät pareittain: "Lepo on samaa kuin nukkuminen." "Vain urheilu on liikkumista." "Koulumatka voi olla liikkumista." "Liikkumiseen vaikuttaa vain motivaatio." | Vastausvihjeet: väärin, väärin, oikein, väärin. Perustele ja kytke lappujen ryhmiin. | Väittämät paperilla, opiskelija vastaa yksin. | Käsittele kaksi ensimmäistä. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: liikkuminen, lepo, palautuminen, uni, vuorokausirytmi. | Piirrä taululle taulukko Noorin tapauksen kolmella sarakkeella. Näytä yksi esimerkki ohjaavasta tekijästä. | Jaa käsitteet paperilla. | Vuorokausirytmi siirretään työskentelyn jälkeen. |
+| Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: liikkuminen, lepo, palautuminen, uni, vuorokausirytmi. | Piirrä taululle taulukko Noorin tapauksen kolmella sarakkeella. Näytä yksi esimerkki ohjaavasta tekijästä; ohjaavat tekijät: tarve, käsitys, asenne, arvo, olosuhde; tasot Y, Yh, Yk. | Jaa käsitteet paperilla. | Vuorokausirytmi siirretään työskentelyn jälkeen. |
 | Työskentely | 25 | Tehtävä 1 (20 min) yksin tai pareittain, sitten Tehtävän 2 vaiheet 1–3 (5 min). | Kierrä ja kysy: onko tämä tarve, käsitys, asenne, arvo vai olosuhde? Muistuta, että analysoidaan Nooria, ei itseä. | Pari tekee yhteisen taulukon. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät valitsevat yhden olosuhteen, jota Noor ei voi muuttaa, ja ehdottavat keinon, jolla koulu tai kunta voisi tukea. | Kokoa ehdotukset taululle tasoittain. Nosta esiin eri näkökulmat, kuten aikataulut ja kustannukset. | Yksin: kirjoita kaksi ehdotusta. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n väittämät 1–5 yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten 2 pistettä syntyy väittämästä. | Paperilla. | Tarkistus kotona. |
@@ -412,7 +412,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 4 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka voi palauttaa kuormittavan päivän jälkeen. | Lue muutama lappu ja ryhmittele taululle. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 6 | Kolme väittämää pareittain: "Lepo on samaa kuin nukkuminen." "Vain urheilu on liikkumista." "Liikkumiseen vaikuttaa vain motivaatio." | Vastausvihjeet: väärin, väärin, väärin. Perustele lyhyesti. | Väittämät paperilla. | Käsittele kaksi ensimmäistä. |
-| Lyhyt alustus | 8 | Opiskelijat kirjaavat käsitteet. | Piirrä taulukko ja näytä yksi ohjaava tekijä. | Jaa käsitteet paperilla. | Vuorokausirytmi työskentelyn jälkeen. |
+| Lyhyt alustus | 8 | Opiskelijat kirjaavat käsitteet. | Piirrä taulukko ja näytä yksi ohjaava tekijä; ohjaavat tekijät: tarve, käsitys, asenne, arvo, olosuhde; tasot Y, Yh, Yk. | Jaa käsitteet paperilla. | Vuorokausirytmi työskentelyn jälkeen. |
 | Työskentely | 25 | Tehtävä 1 (20 min), sitten Tehtävän 2 vaiheet 1–3 (5 min). | Kierrä ja kysy perusteluja tekijöiden luokitteluun. | Pari tekee yhteisen taulukon. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit valitsevat yhden kuormittavan olosuhteen ja ehdottavat koululle tai kunnalle keinon. | Kokoa kolme ehdotusta taululle. | Yksin paperille. | Yksi yhteinen ehdotus. |
 | Koeharjoitus ja exit | 7 | K1:n väittämät 1–3 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä pisteytys. | Paperilla. | Tarkistus kotona. |
@@ -424,7 +424,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 2 | Kysymys ääneen: mikä voi palauttaa ihmistä kuormittavan päivän jälkeen? Muutama vastaus. | Kirjoita vastaukset taululle ryhmiin. | Opiskelijat kirjoittavat vastauksen itselleen. | – |
 | Aiemman tiedon aktivointi | 3 | Kaksi väittämää: "Vain urheilu on liikkumista." "Koulumatka voi olla liikkumista." | Vastausvihjeet: väärin, oikein. | Väittämät paperilla. | Vain ensimmäinen väittämä. |
-| Lyhyt alustus | 7 | Opiskelijat kirjaavat käsitteet ja taulukon sarakkeet. | Piirrä taulukko ja näytä yksi ohjaava tekijä. | Jaa käsitteet paperilla. | Esimerkki kotiin. |
+| Lyhyt alustus | 7 | Opiskelijat kirjaavat käsitteet ja taulukon sarakkeet. | Piirrä taulukko ja näytä yksi ohjaava tekijä; ohjaavat tekijät: tarve, käsitys, asenne, arvo, olosuhde; tasot Y, Yh, Yk. | Jaa käsitteet paperilla. | Esimerkki kotiin. |
 | Työskentely | 22 | Tehtävä 1 kokonaan (20 min). Lopuksi jokainen kirjoittaa yhden ketjun Tehtävän 2 mallilla (2 min). | Kierrä ja kysy perusteluja. Tehtävä 1 tehdään kokonaan, ei lyhennetä. | Pari tekee yhteisen taulukon. | Ketju kotiin. |
 | Pari- tai pienryhmäpohdinta | 5 | Koko ryhmä valitsee yhden olosuhteen ja ehdottaa keinon koululle tai kunnalle. | Kirjoita ehdotus taululle ja kysy: miksi sen pitäisi vaikuttaa? | Yksin paperille. | Pohdinta kotiin. |
 | Koeharjoitus ja exit | 4 | Exit-lappu: yksi epäselvä käsite. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
@@ -482,8 +482,8 @@ Tällä sivulla opiskellaan liikkumista, lepoa ja unta yleisesti. Jos sinulla on
 
 **Apua saat myös:**
 
-- [Opiskeluterveydenhuolto (luettu 21.11.2026)](https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto): tietoa siitä, mitä opiskeluterveydenhuoltoon kuuluu.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa kuraattori- ja psykologipalveluista.
+- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
+- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille, myös nukkumiseen.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
 - [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.

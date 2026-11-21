@@ -63,7 +63,7 @@ facts:
     saatavuus vaihtelee alueittain.'
 - key: terveyskysely_opiskeluterveydenhuolto
   rule: Syksystä 2026 kaikki toisen asteen opiskelijat täyttävät opiskeluterveydenhuollon digitaalisen terveyskyselyn
-    opintojen alussa. Sen perusteella arvioidaan terveystarkastuksen tarve.
+    opintojen alussa.
   url: https://www.oph.fi/fi/uutiset/2026/digitaalinen-terveyskysely-kayttoon-kaikille-toisen-asteen-opiskelijoille
   publisher: Opetushallitus
   read: '2026-11-21'
@@ -89,7 +89,7 @@ facts:
   url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
   publisher: Terveyden ja hyvinvoinnin laitos (THL)
   read: '2026-11-21'
-    sisältöä ei luettu. Ehkäisypalvelun maksuttomuus ja ikärajat vaihtelevat alueittain: ei kirjoiteta, vain linkki.'
+  note: 'Sivu avattu (200), sisältöä ei luettu tarkasti. Sexpon erillinen palvelu ei ole nuorille tarkoitettu, eikä sitä saa linkittää nuorten apuna. Ehkäisypalvelun maksuttomuus ja ikärajat vaihtelevat alueittain: ei kirjoiteta, vain linkki.'
 - key: kouluterveyskysely
   rule: THL toteuttaa Kouluterveyskyselyn parittomina vuosina keväällä; lukion 1. ja 2. vuoden opiskelijat vastaavat
     kyselyyn. Tulokset linkitetään, lukuja ei kopioida.

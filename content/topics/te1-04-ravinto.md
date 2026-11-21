@@ -140,7 +140,7 @@ Syömishäiriöt ovat vakavia sairauksia, joihin voi sairastua kuka tahansa iäs
 
 **Aika:** 20 min
 **Tarvitset:** paperia, kynän, alla olevan tapauksen
-**Ilman laitetta:** Tämä on paperitehtävä. Jos et halua käyttää tapausta, keksi oma kuvitteellinen nuori ja kirjoita hänen arjestaan viisi lausetta.
+**Ilman laitetta:** Tehtävä tehdään paperilla ilman tätä sivua. Keksi kuvitteellinen nuori ja kirjoita hänen arjestaan viisi lausetta: kuinka paljon koulupäivässä on aikaa syödä, millainen on koulun ruokailu, miten kotona tai kavereiden kanssa syödään, mitä ruokaan on varaa ja mitä ruoasta puhutaan somessa. Tee vaiheet 1–5 hänestä.
 **Harjoittelet:** Osaan 2
 
 *Tapaus (kuvitteellinen):* **Sami** on 17-vuotias ja opiskelee lukiossa. Koulu alkaa aikaisin, ja päivässä on vain lyhyt ruokatauko. Kouluruoka on maksutonta, mutta ruokalan jono on pitkä. Samin perheessä ruoka on tärkeä yhteinen hetki ja kotona kokataan yhdessä. Perheellä on vähän rahaa, ja lähikaupan hinnat ovat korkeita. Sami on hyvä laittamaan ruokaa. Kavereiden kesken puhutaan paljon some-videoista, joissa ruokaa ylistetään tai moititaan. Ilmastonmuutos on nostanut joidenkin ruokien hintaa.
@@ -155,7 +155,7 @@ Syömishäiriöt ovat vakavia sairauksia, joihin voi sairastua kuka tahansa iäs
 
 **Aika:** 10 min
 **Tarvitset:** paperia ja kynän
-**Ilman laitetta:** Tämä on paperitehtävä.
+**Ilman laitetta:** Tehtävä tehdään paperilla ilman tätä sivua. Keksi kolme kuvitteellista ruokapuheen kommenttia: yksi, joka jakaa ruoat hyviin ja huonoihin, yksi, joka yhdistää terveyden ulkonäköön, ja yksi, joka on kannustava ja kehoja arvostava. Tee vaiheet 1–5 niistä.
 **Harjoittelet:** Osaan 3 ja 4
 
 *Kuvitteellisia kommentteja:*
@@ -173,7 +173,7 @@ Syömishäiriöt ovat vakavia sairauksia, joihin voi sairastua kuka tahansa iäs
 
 **Aika:** 15 min
 **Tarvitset:** puhelimen tai tietokoneen, paperia
-**Ilman laitetta:** Kirjoita paperille kuvitteellinen lyhyt ruokasuositus-sivu, jossa on otsikko, julkaisija ja päiväys. Tee sitten vaiheet 3–5 siitä.
+**Ilman laitetta:** Tehtävä tehdään paperilla ilman verkkoa. Kirjoita paperille kuvitteellinen lyhyt ruokasuositus-sivu, jossa on otsikko, julkaisija, päiväys ja yksi teema, esimerkiksi monipuolinen ruoka. Tee sitten vaiheet 3–5 siitä.
 **Harjoittelet:** Osaan 1 ja 5
 
 1. Avaa [Ruokaviraston ravitsemus- ja ruokasuositukset](https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravitsemus--ja-ruokasuositukset/) ja kirjoita ylös, kuka sivun julkaisee ja milloin se on päivitetty.
@@ -216,7 +216,7 @@ Alla olevassa kuvitteellisessa tekstissä on viisi asiavirhettä. Tunnista virhe
 
 ### K2: Vertailu näkökulmittain (20 p, 35 min)
 
-*Osa B20 · Harjoittelee: Osaan 1, 3, 4*
+*Osa B20 · Harjoittelee: Osaan 3, 4*
 
 *Aineisto (kuvitteellinen):* Kaksi nuorille suunnattua verkkosivua puhuu terveydestä ja ruoasta. **Sivu A** kertoo, että terveys näkyy painosta, ja ehdottaa, että ihmisen pitää pyrkiä tiettyyn ulkonäköön. **Sivu B** kertoo, että terveys syntyy monesta asiasta, kuten ruokailusta, levosta, liikkumisesta, ihmissuhteista ja jaksamisesta, ja että kehot ovat erilaisia.
 
@@ -230,7 +230,7 @@ e) Kumpaa sivua pidät luotettavampana ja miksi?
 
 ### K3: Aineiston analyysi (30 p, 50 min)
 
-*Osa C30 · Harjoittelee: Osaan 1, 2, 3, 5*
+*Osa C30 · Harjoittelee: Osaan 1, 2, 5*
 
 *Aineisto (kuvitteellinen paikallisuutinen):*
 
@@ -458,8 +458,8 @@ Tällä sivulla käsitellään syömistä ja painoa yleisesti. Jos syöminen, ru
 **Apua saat myös:**
 
 - [Syömishäiriöliitto-SYLI: tukipalvelut (luettu 21.11.2026)](https://syomishairioliitto.fi/tukea/tukea-sairastuneelle): tietoa tuesta ja palveluista syömishäiriöihin. Palvelut ja ikärajat ovat sivulla.
-- [Opiskeluterveydenhuolto (luettu 21.11.2026)](https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto): tietoa siitä, mitä opiskeluterveydenhuolto tarjoaa.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa kuraattori- ja psykologipalveluista.
+- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
+- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
 - [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.

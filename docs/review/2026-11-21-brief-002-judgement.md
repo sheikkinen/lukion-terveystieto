@@ -69,3 +69,68 @@ students, and one data claim is false. All three are small edits.
 - One model answer suggests teaching about sexual and gender diversity is optional. It is being reworded.
 - The materials list in data/ claims to be complete but is not. A script will regenerate it.
 - Nothing is committed. After this fix round I expect to accept.
+
+## Re-judgement 2026-11-21
+
+**Judge:** Opus, workflow agent. I wrote nothing in this project. **Ruled from files only:** CLAUDE.md, the brief,
+the contract, the style guide, the first judgement above, the working-tree diff, `data/`, and the three checkers'
+records of this round. I opened no web page; where a ruling rests on what a page says, it rests on a checker's
+record or on the URL itself. **Read in full:** te1-06, te1-07, te1-05 and te1-10. Spot-read te1-02, te1-03 and te1-09
+for the label and plan items. Script: line counts, a SeriE grep over `content/` and `data/`, a grep for the help URLs,
+and a grep for local paths.
+
+### Verdict: accept with minors
+
+The three blockers are fixed. What is left is mechanical: an honest relabel of two help links, one self-contained
+offline line, one line-limit trim, and quality fixes to plans and labels. None needs a new source, a new page read or
+a new judgement. The producer applies items 1-3 of the list below and confirms them by grep and line count before the
+commit. Items 4-6 may go in the same pass or the next brief.
+
+| # | Item | Real? | Blocks? | Ruling |
+|---|---|---|---|---|
+| B1 | te1-06: SeriE link and anonymity sentence | Fixed | – | No `serie` anywhere in `content/` or `data/`. The only Sexpo link is the root, audience opettaja. The new youth source (Väestöliitto nuoret) is in the body, help box, official_links and materials, and promises no chat. |
+| B2 | te1-07 K3: diversity teaching treated as optional | Fixed | – | Material, sub-questions and model answer now say the content belongs to the curriculum and the equality duty; the dispute is how guardians are informed and involved. "voivat kokea" is in. A typical-error bullet guards against the old framing. |
+| B3 | materials.yaml does not match the front matter | Fixed | – | Regenerated per topic from the three front-matter fields; the note no longer claims body-link coverage. The generator lives outside the project, so the file goes stale when front matter changes; record that in the diary. |
+| 1 | THL "Opiskeluterveydenhuolto" glossed as student help | Yes | Fix before commit | The URL itself is `thl.fi/ohjeita-ammattilaisille/...`, so the files alone show the page is written for professionals. Not unsafe, but mislabelled. Relabel, do not replace. In the help box of te1-02 to te1-10 the bullet becomes: "[Opiskeluterveydenhuolto, tietoa ammattilaisille (luettu 21.11.2026)](url): taustatietoa siitä, mitä opiskeluterveydenhuoltoon kuuluu. Oman ajan varaat koulusi tai hyvinvointialueesi kautta." In te1-07 line 161 unlink the word *opiskeluterveydenhuollosta*, as te1-06 already does. In the front matter and materials set the audience to opettaja or add a note. The student route stays in the help-box sentence ("Koulusi kertoo, miten aika varataan"). |
+| 1b | OPH "Opiskeluhuolto" gloss | Yes | Fix before commit | The data note says the content was not read closely; the safety checker opened it and records that it is mainly for education providers but states students' right to kuraattori and psykologi. Gloss in te1-01 to te1-10: "tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille." Update the materials note to cite that reading. Tehtävä 3 step 1 in te1-08 and te1-10 ("millaisia ammattilaisia opiskeluhuoltoon kuuluu") fits the page and can stay. |
+| 2 | te1-07 Tehtävä 2 offline line not self-contained | Yes | Fix before commit | Same defect as item 12 of the first judgement. Step 2 becomes "Peitä tarkistusrivi ja kirjoita jokaiselle selitys omin sanoin." Step 3 becomes "Tarkista selitykset tarkistusriviltä ja korjaa." Add under the steps: "*Tarkistusrivi (peitä se kirjoittaessasi):* seksuaalinen suuntautuminen = keneen ihminen ihastuu tai tuntee kiinnostusta; sukupuoli-identiteetti = kokemus omasta sukupuolesta; sukupuolen ilmaisu = tapa ilmaista sukupuolta, esimerkiksi pukeutumisella tai puhetavalla; sukupuolen moninaisuus = sukupuolta koetaan ja ilmaistaan monin tavoin; syrjintä = huonompi kohtelu esimerkiksi suuntautumisen tai sukupuolen vuoksi." The offline line then reads "Tämä on paperitehtävä. Tee vaiheet 1–5 paperilla." The writer's objection that this defeats the self-check does not hold: covering the line is the self-check. |
+| 3 | te1-07 is 501 lines (new) | Yes | Fix before commit | CLAUDE.md rule 8 and style guide section 13: no file over 500 lines. The checkers did not catch it. Item 2 adds one line, so cut at least two: drop one of the six Avoimet kysymykset (5-8 allowed) and merge the Valmistelu line on UNESCO and OPH into the line above it. te1-06 is exactly 500, which passes rule 8 but not the style guide's "under 500"; anything added there needs a matching cut. Do not remove the content_note blockquotes; that stays with the engine brief. |
+| 4 | te1-10 plans: the alustus names no learning way | Yes | No | Goal Tehtävä 2 step 1 needs the five ways. In all three plans the Lyhyt alustus teacher cell names them (aktiivinen kertaus, jaksotettu kertaus, pilkkominen, palautteen käyttö, tauot) next to the goal example. Replace the 45-minute fallback "Tavoite kotiin" with "Näytä vain tapojen nimet ja esimerkkitavoite." |
+| 5 | te1-05 plans: factor kinds and levels not named | Partly | No | The 75-minute Työskentely teacher cell names the five kinds; the levels Y, Yh and Yk appear in no plan, and the 45-minute plan names neither. Add to the alustus teacher cell in all three plans: "ohjaavat tekijät: tarve, käsitys, asenne, arvo, olosuhde; tasot Y, Yh, Yk". Same quality class as first-judgement item 14. |
+| 6 | te1-09 75 and 60-minute plans: crisis types not named; contradictory fallback | Yes | No | Add "kehityskriisi ja traumaattinen kriisi" to the alustus of both plans. Replace the 75-minute fallback "Siirrä kriisin vaiheet Tehtävään 2" and the 60-minute "Kriisin vaiheet kotiin" with "Näytä vaiheet nimillä ilman esimerkkejä." |
+| 7 | Harjoittelee labels | Yes | No | te1-02 K1: drop Osaan 2 and 3 (the true/false set only describes). te1-03 K1: drop 5 (row 5 defines, it does not judge reliability). te1-03 K2: drop 3 (no medicalisation). te1-07 K3: drop 4 and add 3 (part c is the syrjintä-and-support chain); keep 1, since part a names rights. Coverage stays complete: in te1-02, 2 and 3 are carried by K2 and K3; in te1-03, 5 by K2; in te1-07, 4 by Tehtävä 3. |
+| 8 | Other minors from the checkers | Yes | No | te1-07 help box: the "nuorille tarkoitettu chat-palvelu" gloss sits on the seksuaaliterveys link, but the youth counselling is on vaestoliitto.fi/nuoret; gloss the first link as "tietoa seksuaaliterveydestä" or point it to the nuoret page. `data/yearly-facts.yaml`, key terveyskysely_opiskeluterveydenhuolto: cut "Sen perusteella arvioidaan terveystarkastuksen tarve", which the note does not support. te1-05 Tehtävä 1 offline: "omalla henkilölläsi" becomes "keksimälläsi henkilöllä". The mismatch between an invented person offline and the named case in the steps (te1-01, 03, 05, 06, 07, 08, 09), te1-06 tunnerintasi.fi and a RIKU link in te1-06, and the other checker minors may go to the next brief, within item 3's line budget. |
+| 9 | Local path in a committed research file (new to this list) | Yes | Blocks the push, not this commit | `docs/research/2026-11-21-scouting.json` names a local folder path three times (around lines 823 and 866-867). Public hygiene forbids it. Scrub it before the first push and run the pre-publish scan over all tracked files. |
+| 10 | content_note duplication | – | – | Left for the engine brief, as before. |
+
+### Done-when lines
+
+| Line | Ruling |
+|---|---|
+| All ten topics complete to the contract | **Met** once items 1-3 are applied. The checkers confirmed structure, plan totals, points and the fixed line; te1-07's line count is the one hard-limit breach. |
+| ...with linked existing materials | **Met.** |
+| ...exam-style tasks and model answers | **Met.** The labels in item 7 overclaim, but coverage holds without them. |
+| The style guide is ready | **Met.** |
+| The data files are ready | **Met.** One sentence in yearly-facts to cut (item 8). |
+| The judge accepts | **Accepted with minors**, on condition that items 1-3 are applied before the commit. |
+
+### Remaining (in order)
+
+1. Before commit: relabel the THL help link as background for professionals in te1-02 to te1-10, unlink it in te1-07
+   line 161 and adjust its front matter and materials entry; reword the OPH Opiskeluhuolto gloss in te1-01 to te1-10
+   and its data note.
+2. Before commit: te1-07 Tehtävä 2 gets a self-check line with the five definitions, and its offline line becomes
+   self-contained.
+3. Before commit: te1-07 at or under 500 lines (cut at least two lines after item 2); keep te1-06 at or under 500.
+4. Plans in te1-10, te1-05 and te1-09: name in the Lyhyt alustus rows what the goal task needs (items 4-6).
+5. Harjoittelee labels in te1-02 K1, te1-03 K1 and K2, and te1-07 K3 (item 7).
+6. te1-07 Väestöliitto chat gloss; the yearly-facts terveyskysely sentence; te1-05 "omalla henkilölläsi".
+7. Before the first push: scrub the local path from the scouting JSON and run the pre-publish scan.
+8. Engine brief: render content_note, then delete the blockquotes in te1-06 and te1-07.
+
+### For the operator
+
+- Accepted with small fixes. The three problems from the first review are gone.
+- Two help links lead to pages written for professionals and schools. They stay, but get honest labels.
+- One page is a line over the length limit, and one task still needs the page to check answers. Both are quick edits.
+- Nothing is committed or pushed. A research file holds a local folder path that must go before the first push.

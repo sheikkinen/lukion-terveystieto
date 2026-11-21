@@ -147,7 +147,7 @@ Ensimmäinen askel on usein puhua jollekulle. Koulussa apua antavat opiskeluhuol
 
 **Aika:** 20 min
 **Tarvitset:** paperia, kynän, alla olevan tapauksen
-**Ilman laitetta:** Tämä on paperitehtävä. Kopioi tapauksen tärkeimmät sanat paperille tai keksi oma kuvitteellinen nuori ja kirjoita hänestä kuusi lausetta.
+**Ilman laitetta:** Tämä on paperitehtävä. Keksi paperille oma kuvitteellinen nuori ja kirjoita hänestä kuusi lausetta: missä hän asuu, keitä hänen ympärillään on, mikä häntä tukee, mikä kuormittaa, mitä apua koulussa on ja mitä hän jättää kysymättä. Tee sitten vaiheet 1–5 hänestä.
 **Harjoittelet:** Osaan 2 ja 3
 
 *Tapaus (kuvitteellinen):* **Noor** aloitti lukion toisella paikkakunnalla ja asuu opiskelija-asunnossa. Hän tuntee vähän ihmisiä, mutta liittyi koulun piirtokerhoon. Kerhon ohjaaja kysyy aina kuulumiset. Noor ei halua vaivata muita ja jättää usein kysymättä, kun jokin on epäselvää. Koulussa on kuraattori, mutta Noor ei tiedä, miten hänelle varataan aika. Osa luokasta vitsailee mielenterveydestä, ja se saa Noorin hiljaiseksi.
@@ -162,7 +162,7 @@ Ensimmäinen askel on usein puhua jollekulle. Koulussa apua antavat opiskeluhuol
 
 **Aika:** 10 min
 **Tarvitset:** paperia, kynän
-**Ilman laitetta:** Tämä on paperitehtävä. Kopioi lauseet paperille tai keksi itse kolme leimaavaa lausetta.
+**Ilman laitetta:** Tämä on paperitehtävä. Keksi itse viisi kuvitteellista leimaavaa lausetta, joita mielenterveydestä tai avun hakemisesta voitaisiin sanoa (esimerkiksi "apua hakeva on heikko"), ja tee vaiheet 1–5 niistä.
 **Harjoittelet:** Osaan 1 ja 4
 
 Lauseet ovat kuvitteellisia kuultuja kommentteja:
@@ -182,7 +182,7 @@ Lauseet ovat kuvitteellisia kuultuja kommentteja:
 
 **Aika:** 15 min
 **Tarvitset:** puhelimen tai tietokoneen, paperia
-**Ilman laitetta:** Tee taulukko paperille tämän sivun osion *Mistä apua saa?* ja osion *Apua ja tukea* palveluista. Ohita vaiheet 1–3 ja tee vaiheet 4–5.
+**Ilman laitetta:** Ohita vaiheet 1–3. Kirjoita paperille neljän palvelun taulukko omasta tiedostasi, esimerkiksi kuraattori, psykologi, terveydenhoitaja ja hätänumero 112 (sarakkeet: palvelu, kenelle, miten siihen otetaan yhteys). Jos et tiedä, miten koulusi palveluihin otetaan yhteys, kirjoita sarakkeeseen kysymysmerkki ja selvitä asia myöhemmin. Tee sitten vaihe 5.
 **Harjoittelet:** Osaan 5
 
 1. Avaa [Opiskeluhuolto-sivu](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto) ja lue, millaisia ammattilaisia opiskeluhuoltoon kuuluu.
@@ -476,8 +476,8 @@ Jos huolestut ystävästäsi, kuuntele häntä rauhallisesti ja kerro, että vä
 
 **Apua saat myös:**
 
-- [Opiskeluterveydenhuolto (luettu 21.11.2026)](https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto): tietoa siitä, mitä opiskeluterveydenhuoltoon kuuluu.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa kuraattori- ja psykologipalveluista.
+- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
+- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia ja tietoa nuorille.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
 - [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.

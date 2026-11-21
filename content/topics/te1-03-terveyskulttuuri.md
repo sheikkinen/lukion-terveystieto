@@ -132,7 +132,7 @@ Yhteiskunta voi pyrkiä vaikuttamaan elintapoihin laeilla, veroilla, ikärajoill
 
 ### Terveystiedon lukutaito
 
-Tiedon luotettavuuden arviointi on osa terveyslukutaitoa. Katso, kuka tiedon on kirjoittanut, mihin se perustuu, milloin se on päivitetty ja onko sillä kaupallista tarkoitusta. Luotettava sivusto kertoo kirjoittajan ja lähteet. Esimerkkejä ovat [Terveyskirjasto](https://www.terveyskirjasto.fi/) ja [Terveyskylä](https://www.terveyskyla.fi/).
+Tiedon luotettavuuden arviointi on osa terveyslukutaitoa. Katso, kuka tiedon on kirjoittanut, mihin se perustuu, milloin se on päivitetty ja onko sillä kaupallista tarkoitusta. Luotettava sivusto kertoo kirjoittajan ja lähteet. Esimerkkejä ovat [Terveyskirjasto](https://www.terveyskirjasto.fi/) ja [Terveyskylä](https://www.terveyskyla.fi/). Tässä aiheessa harjoitellaan lyhyttä tarkistuslistaa. Lähteiden järjestelmällinen vertailu syvenee TE2-moduulissa.
 
 ## Tehtävät
 
@@ -140,7 +140,7 @@ Tiedon luotettavuuden arviointi on osa terveyslukutaitoa. Katso, kuka tiedon on 
 
 **Aika:** 20 min
 **Tarvitset:** paperia, kynän, alla olevan tapauksen
-**Ilman laitetta:** Tämä on paperitehtävä. Jos et halua käyttää tapausta, keksi oma kuvitteellinen asuinalue ja kirjoita siitä viisi lausetta terveyteen liittyvistä tavoista.
+**Ilman laitetta:** Tehtävä tehdään paperilla ilman tätä sivua. Keksi kuvitteellinen asuinalue ja kirjoita siitä viisi lausetta: mitä alueella pidetään terveydessä tärkeänä, mitä siellä tavallisesti tehdään vaivojen kanssa, mikä arjessa vaikeuttaa terveellisiä tapoja ja mitä naapurit neuvovat toisilleen. Tee vaiheet 1–5 alueesta.
 **Harjoittelet:** Osaan 1 ja 2
 
 *Tapaus (kuvitteellinen):* **Hiekkaharjun** kaupunginosassa pidetään tärkeänä, että lapset ja nuoret ulkoilevat. Talvella järjestetään yhteisiä hiihtotapahtumia. Lähikauppa on ainoa kauppa, bussi kulkee harvoin, ja moni vanhempi tekee vuorotyötä. Alueella ajatellaan, että pieni vaiva paranee itsestään eikä lääkäriin mennä turhaan. Viime aikoina naapurit ovat alkaneet jakaa vinkkejä "kuurihoidoista". Kaikki sanovat arvostavansa terveyttä, mutta pyörätiet ovat huonossa kunnossa ja harrastukset maksavat.
@@ -155,7 +155,7 @@ Tiedon luotettavuuden arviointi on osa terveyslukutaitoa. Katso, kuka tiedon on 
 
 **Aika:** 15 min
 **Tarvitset:** puhelimen tai tietokoneen, paperia, alla olevan mainoksen
-**Ilman laitetta:** Kirjoita paperille lähteen arviointilista: kirjoittaja, perusteet, päivämäärä, tarkoitus. Arvioi sillä vain alla oleva kuvitteellinen mainos.
+**Ilman laitetta:** Tehtävä tehdään paperilla ilman tätä sivua. Kirjoita paperille lähteen arviointilista: kirjoittaja, perusteet, päivämäärä, tarkoitus. Keksi kaksi kuvitteellista terveysväitettä, toinen kirjoitettu asiantuntijan sävyyn ja toinen mainoksen sävyyn, ja arvioi molemmat listan avulla. Tee vaiheet 3–5 niistä.
 **Harjoittelet:** Osaan 5
 
 *Mainos (kuvitteellinen):* "**KirkasMieli-kuuri** puhdistaa kehon myrkyistä ja parantaa kaikki vaivat muutamassa päivässä. Tuhannet ovat kokeneet muutoksen. Lopeta turhat lääkkeet ja luota luontoon!"
@@ -170,7 +170,7 @@ Tiedon luotettavuuden arviointi on osa terveyslukutaitoa. Katso, kuka tiedon on 
 
 **Aika:** 10 min
 **Tarvitset:** paperia ja kynän
-**Ilman laitetta:** Tämä on paperitehtävä.
+**Ilman laitetta:** Tehtävä tehdään paperilla ilman tätä sivua. Keksi kolme kuvitteellista tilannetta, joissa tavallista elämää selitetään sairautena tai terveysongelmana, ja kirjoita ne allekkain. Tee sitten vaiheet 2–4 niistä.
 **Harjoittelet:** Osaan 3
 
 *Kuvitteellisia tilanteita:*
@@ -207,7 +207,7 @@ Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyyp
 
 ### K1: Taulukon täydentäminen (20 p, 25 min)
 
-*Osa A20 · Harjoittelee: Osaan 1, 2, 3, 4, 5*
+*Osa A20 · Harjoittelee: Osaan 2, 3, 4*
 
 Täydennä taulukko vastausarkille. Kirjoita jokaiselle ilmiölle selitys omin sanoin, esimerkki, yksi hyöty tai suojaava puoli ja yksi haitta tai kuormittava puoli. Jokaisesta rivistä saa 4 p.
 
@@ -221,7 +221,7 @@ Täydennä taulukko vastausarkille. Kirjoita jokaiselle ilmiölle selitys omin s
 
 ### K2: Aineiston analyysi (20 p, 35 min)
 
-*Osa B20 · Harjoittelee: Osaan 3, 5*
+*Osa B20 · Harjoittelee: Osaan 5*
 
 *Aineisto (kuvitteellinen verkkoteksti):*
 
@@ -452,8 +452,8 @@ Tällä sivulla opiskellaan terveyttä ja terveyskulttuuria yleisesti. Jos sinul
 
 **Apua saat myös:**
 
-- [Opiskeluterveydenhuolto (luettu 21.11.2026)](https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto): tietoa siitä, mitä opiskeluterveydenhuolto tarjoaa.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa kuraattori- ja psykologipalveluista.
+- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
+- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
 - [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.

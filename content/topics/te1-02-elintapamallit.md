@@ -33,6 +33,10 @@ official_links:
     url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/"
     publisher: "MIELI Suomen Mielenterveys ry"
     read: 2026-11-21
+  - title: "Itsetuntemus, vahvuudet ja arvot (opinto-ohjaus, aihe 05)"
+    url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/"
+    publisher: "Lukion opinto-ohjaus -sivusto"
+    read: 2026-11-21
 yearly_facts: [opiskeluterveydenhuolto, kriisipuhelimet]
 materials:
   - title: "TE1 Terveys voimavarana (verkkokurssin runko)"
@@ -146,7 +150,7 @@ Mallit auttavat suunnittelemaan viestintää ja tukea, koska ne näyttävät, mi
 
 **Aika:** 20 min
 **Tarvitset:** paperia, kynän, alla olevan tapauksen
-**Ilman laitetta:** Tämä on paperitehtävä. Jos et halua käyttää tapausta, keksi oma kuvitteellinen nuori ja jokin tavallinen arkitoiminta, kuten pyöräily kouluun, ja kirjoita siitä viisi lausetta.
+**Ilman laitetta:** Tehtävä tehdään paperilla ilman tätä sivua. Keksi kuvitteellinen nuori ja jokin tavallinen arkitoiminta, kuten pyöräily kouluun. Kirjoita viisi lausetta: mitä nuori ajattelee toiminnasta, mitä hänen läheisensä tekevät ja odottavat, mikä toiminnassa on helppoa tai vaikeaa, ja mitä hän aikoo tehdä. Tee vaiheet 1–5 hänestä.
 **Harjoittelet:** Osaan 1 ja 2
 
 *Tapaus (kuvitteellinen):* **Kim** on 16-vuotias ja haluaisi käyttää kuulosuojaimia konserteissa. Hän pitää ajatusta järkevänä ja on kuullut, että kova musiikki voi rasittaa kuuloa. Kimin ystävät eivät käytä suojaimia, ja yksi heistä on naureskellut asialle. Suojaimet maksavat, eikä Kim tiedä, mistä niitä saa. Hän on kuitenkin päättänyt kysyä niistä musiikkikaupasta.
@@ -161,7 +165,7 @@ Mallit auttavat suunnittelemaan viestintää ja tukea, koska ne näyttävät, mi
 
 **Aika:** 10 min
 **Tarvitset:** paperia ja kynän
-**Ilman laitetta:** Tämä on paperitehtävä.
+**Ilman laitetta:** Tehtävä tehdään paperilla ilman tätä sivua. Keksi paperille viisi lyhyttä kuvitteellista ajatusta, esimerkiksi "Olen onnistunut tässä ennenkin" tai "Kaverit ovat jo kokeilleet". Tee sitten vaiheet 1–4 omilla ajatuksillasi.
 **Harjoittelet:** Osaan 1 ja 3
 
 *Kuvitteellisia ajatuksia:*
@@ -180,7 +184,7 @@ Mallit auttavat suunnittelemaan viestintää ja tukea, koska ne näyttävät, mi
 
 **Aika:** 15 min
 **Tarvitset:** puhelimen tai tietokoneen, paperia
-**Ilman laitetta:** Keksi paperilla kuvitteellinen omahoito-opas, jossa on viisi lyhyttä vaihetta. Tee sitten vaiheet 3–5 omasta oppaastasi.
+**Ilman laitetta:** Tehtävä tehdään paperilla ilman verkkoa. Keksi kuvitteellinen omahoito-opas, jossa on viisi lyhyttä vaihetta, ja kirjoita ne paperille. Kirjoita viereen muutosvaihemallin vaiheet: esiharkinta, harkinta, valmistautuminen, toiminta ja ylläpito. Tee sitten vaiheet 3–5 omasta oppaastasi.
 **Harjoittelet:** Osaan 4 ja 5
 
 1. Avaa [Mielenterveystalo: nuoret](https://www.mielenterveystalo.fi/fi/nuoret) ja valitse yksi omahoito-ohjelma tai aihe. Älä tee ohjelmaa, vaan katso vain sen rakennetta.
@@ -213,7 +217,7 @@ Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyyp
 
 ### K1: Oikein vai väärin -väittämät (20 p, 25 min)
 
-*Osa A20 · Harjoittelee: Osaan 1, 2, 3, 4, 5*
+*Osa A20 · Harjoittelee: Osaan 1, 4, 5*
 
 Päätä jokaisesta väittämästä, onko se oikein vai väärin. Perustele valintasi yhdellä lauseella. Jos väittämä on väärin, korjaa se. Jokaisesta väittämästä saa 2 p: oikea valinta 1 p ja perustelu tai korjaus 1 p.
 
@@ -472,8 +476,8 @@ Tällä sivulla opiskellaan terveyttä ja elintapoja yleisesti. Jos sinulla on o
 
 **Apua saat myös:**
 
-- [Opiskeluterveydenhuolto (luettu 21.11.2026)](https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto): tietoa siitä, mitä opiskeluterveydenhuolto tarjoaa.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa kuraattori- ja psykologipalveluista.
+- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
+- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
 - [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.

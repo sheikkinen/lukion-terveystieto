@@ -150,7 +150,7 @@ Jos ystäväsi puhuu siitä, ettei jaksa tai ettei halua elää, kuuntele hänt�
 
 **Aika:** 15 min
 **Tarvitset:** paperia, kynän, alla olevan tapauksen
-**Ilman laitetta:** Tämä on paperitehtävä. Kopioi tapauksen tärkeimmät sanat paperille tai keksi oma kuvitteellinen tilanne ja kirjoita siitä viisi lausetta.
+**Ilman laitetta:** Tämä on paperitehtävä. Keksi paperille oma kuvitteellinen opiskelija ja kirjoita hänen tilanteestaan viisi lausetta: mitä vaatimuksia hänellä on, mitä voimavaroja hänellä on ja mitä hän ajattelee jaksamisestaan. Tee sitten vaiheet 1–5 hänestä.
 **Harjoittelet:** Osaan 1 ja 2
 
 *Tapaus (kuvitteellinen):* **Aaro** opiskelee lukion toista vuotta. Koeviikko alkaa pian, ja samalla iltaisin on kerhon kokouksia ja kotona on isompi remontti. Aaro ajattelee, ettei ehdi tehdä mitään kunnolla. Hän ei halua kysyä apua, koska muillakin on kiire. Opettaja on kertonut, että koeaikatauluja voi tarvittaessa tasata.
@@ -165,7 +165,7 @@ Jos ystäväsi puhuu siitä, ettei jaksa tai ettei halua elää, kuuntele hänt�
 
 **Aika:** 20 min
 **Tarvitset:** paperia, kynän, alla olevat tapaukset
-**Ilman laitetta:** Tämä on paperitehtävä. Kopioi tapaukset ja kuvaukset paperille.
+**Ilman laitetta:** Tämä on paperitehtävä. Keksi kolme kuvitteellista tilannetta: yksi elämänvaiheeseen kuuluva muutos, yksi äkillinen tapahtuma kodissa ja yksi läheisen menetys. Kirjoita paperille kriisin neljä vaihetta (sokki, reaktio, käsittely, uudelleensuuntautuminen) ja keksi jokaiselle vaiheelle yksi kuvitteellinen lause, jonka henkilö voisi sanoa. Tee sitten vaiheet 1–5.
 **Harjoittelet:** Osaan 3 ja 5
 
 *Tapaukset (kuvitteellisia):*
@@ -179,13 +179,13 @@ Jos ystäväsi puhuu siitä, ettei jaksa tai ettei halua elää, kuuntele hänt�
 2. Yhdistä reaktiot (1)–(4) kriisin vaiheisiin: sokki, reaktio, käsittely ja uudelleensuuntautuminen.
 3. Kirjoita yksi lause siitä, miksi vaiheet eivät aina etene suoraan.
 4. Valitse yksi tapaus ja ehdota yksi yhteisön tuki ja yksi yhteiskunnan palvelu.
-5. Kirjoita, mistä apua saa, kun kriisi on äkillinen. Käytä apuna tämän sivun osiota *Apua ja tukea*.
+5. Kirjoita, mistä apua saa, kun kriisi on äkillinen. Mainitse ainakin hätänumero 112 ja yksi koulun tai hyvinvointialueen palvelu.
 
 ### Tehtävä 3: Etsi kuormituksen hallinnan keinoja
 
 **Aika:** 12 min
 **Tarvitset:** puhelimen tai tietokoneen, paperia
-**Ilman laitetta:** Tee taulukko paperille tämän sivun osion *Keinoja kuormituksen hallintaan* pohjalta. Ohita vaiheet 1–2 ja tee vaiheet 3–5.
+**Ilman laitetta:** Ohita vaiheet 1–2. Kirjoita paperille kuusi kuormituksen hallinnan keinoa omasta tiedostasi (esimerkiksi tehtävien jakaminen osiin, puhuminen ystävälle, hengähdystauko, aikataulun tasaaminen opettajan kanssa, liikunta, avun pyytäminen). Luokittele ne ongelmakeskeisiksi, tunnekeskeisiksi tai sosiaaliseksi tueksi ja tee vaiheet 4–5.
 **Harjoittelet:** Osaan 4 ja 5
 
 1. Avaa [Nyyti ry](https://www.nyyti.fi/) ja katso, millaista tukea opiskelijoille tarjotaan.
@@ -381,7 +381,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka auttaa ihmistä jaksamaan kiireessä yleisesti. | Kerää laput ja lue muutama ääneen. Ryhmittele ne taululle: tilanne, tunteet, toiset ihmiset. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 10 | Oikein vai väärin -väittämät pareittain: "Stressi on aina haitallista." "Kriisi on aina äkillinen." "Apua voi pyytää jo ennen kuin tilanne on vaikea." | Käy väittämät läpi perustellen. Vastausvihjeet: väärin, väärin, oikein. Kytke ne lappujen ryhmiin. | Väittämät paperilla, opiskelija vastaa yksin. | Käsittele kaksi ensimmäistä. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: stressi, kuormitus, palautuminen, kriisi, selviytymiskeino. | Piirrä stressin ketju taululle ja näytä kriisin neljä vaihetta. Kerro osiosta *Apua ja tukea* ja koulun palveluista. | Jaa käsitteet paperilla. | Siirrä kriisin vaiheet Tehtävään 2. |
+| Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: stressi, kuormitus, palautuminen, kriisi, selviytymiskeino. | Piirrä stressin ketju taululle ja näytä kriisin neljä vaihetta sekä kehityskriisi ja traumaattinen kriisi. Kerro osiosta *Apua ja tukea* ja koulun palveluista. | Jaa käsitteet paperilla. | Näytä vaiheet nimillä ilman esimerkkejä. |
 | Työskentely | 25 | Tehtävä 1 (15 min) yksin tai pareittain, sitten Tehtävän 2 vaiheet 1–2 (10 min). | Kierrä ja kysy: mikä kohta ketjusta voisi katketa? Muistuta, että analysoidaan Aaroa, ei itseä. | Pari tekee yhteisen ketjun. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vertaavat ketjuja ja ehdottavat yhden keinon, jolla koulu voisi tasata kuormitusta. | Kokoa ehdotukset taululle. Nosta esiin, että yhtä oikeaa keinoa ei ole. | Yksin: kirjoita kaksi ehdotusta. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n rivit 1–2 yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit-lappu: yksi käsite, joka on vielä epäselvä. | Näytä, miten 4 pistettä jakautuu riville. | Paperilla. | Tarkistus kotona. |
@@ -393,7 +393,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 4 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka auttaa ihmistä jaksamaan kiireessä. | Lue muutama lappu ja ryhmittele taululle. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 6 | Kolme oikein vai väärin -väittämää pareittain: "Stressi on aina haitallista." "Kriisi on aina äkillinen." "Apua voi pyytää jo ennen kuin tilanne on vaikea." | Vastausvihjeet: väärin, väärin, oikein. Perustele lyhyesti. | Väittämät paperilla. | Käsittele kaksi ensimmäistä. |
-| Lyhyt alustus | 8 | Opiskelijat kirjaavat käsitteet. | Piirrä ketju ja kerro kriisin vaiheista lyhyesti. Mainitse koulun palvelut. | Jaa käsitteet paperilla. | Kriisin vaiheet kotiin. |
+| Lyhyt alustus | 8 | Opiskelijat kirjaavat käsitteet. | Piirrä ketju ja kerro kriisin vaiheista lyhyesti sekä kehityskriisi ja traumaattinen kriisi. Mainitse koulun palvelut. | Jaa käsitteet paperilla. | Näytä vaiheet nimillä ilman esimerkkejä. |
 | Työskentely | 25 | Tehtävä 1 (15 min), sitten Tehtävän 2 vaiheet 1–2 (10 min). | Kierrä ja kysy perusteluja. | Pari tekee yhteisen ketjun. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit valitsevat yhden ketjun kohdan ja ehdottavat, miten koulu voisi vaikuttaa siihen. | Kokoa kolme ehdotusta taululle. | Yksin paperille. | Yksi yhteinen ehdotus. |
 | Koeharjoitus ja exit | 7 | K1:n rivi 1 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä pisteytys. | Paperilla. | Tarkistus kotona. |
@@ -406,7 +406,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Virittäytyminen | 2 | Kysymys ääneen: mikä auttaa ihmistä jaksamaan kiireessä? Muutama vastaus vapaaehtoisilta. | Kirjoita vastaukset taululle. | Opiskelijat kirjoittavat vastauksen itselleen. | – |
 | Aiemman tiedon aktivointi | 3 | Kaksi väittämää koko ryhmälle: "Stressi on aina haitallista." "Apua voi pyytää jo ennen kuin tilanne on vaikea." | Vastausvihjeet: väärin, oikein. | Väittämät paperilla. | Vain ensimmäinen väittämä. |
 | Lyhyt alustus | 7 | Opiskelijat kirjaavat käsitteet. | Piirrä ketju ja mainitse koulun palvelut. | Jaa käsitteet paperilla. | Ketju kotiin. |
-| Työskentely | 22 | Tehtävä 1 kokonaan (15 min). Sen jälkeen jokainen kirjoittaa yhden lauseen kriisin vaiheesta (7 min). | Kierrä ja kysy perusteluja. Tehtävä 1 tehdään kokonaan, ei lyhennetä. | Pari tekee yhteisen ketjun. | Lause kotiin. |
+| Työskentely | 22 | Tehtävä 1 kokonaan (15 min). Sen jälkeen jokainen kirjoittaa yhden lauseen siitä, mikä stressin ketjussa auttaisi katkaisemaan kuormituksen kasautumisen (7 min). | Kierrä ja kysy perusteluja. Tehtävä 1 tehdään kokonaan, ei lyhennetä. | Pari tekee yhteisen ketjun. | Lause kotiin. |
 | Pari- tai pienryhmäpohdinta | 5 | Koko ryhmä valitsee yhden kohdan ketjusta ja ehdottaa keinon koululle. | Kirjoita ehdotus taululle ja kysy: miksi sen pitäisi vaikuttaa? | Yksin paperille. | Pohdinta kotiin. |
 | Koeharjoitus ja exit | 4 | Exit-lappu: yksi epäselvä käsite. K1 kotiin. | Kerro, että mallivastaukset ja sivun lopun apu ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
 | Puskuri | 2 | Kysymykset. | Muistuta avun reiteistä. | – | – |
@@ -468,8 +468,8 @@ Jos huolestut ystävästäsi, kuuntele häntä rauhallisesti ja kerro, että vä
 
 **Apua saat myös:**
 
-- [Opiskeluterveydenhuolto (luettu 21.11.2026)](https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto): tietoa siitä, mitä opiskeluterveydenhuoltoon kuuluu.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa kuraattori- ja psykologipalveluista.
+- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
+- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille.
 - [Nyyti ry (luettu 21.11.2026)](https://www.nyyti.fi/): opiskelijoiden hyvinvoinnin tuki.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
