@@ -1,0 +1,952 @@
+{
+ "research": [
+  {
+   "key": "curriculum",
+   "summary": "Read the ePerusteet API for peruste 6828810 (Lukion opetussuunnitelman perusteet 2019, OPH-2263-2019, tila valmis, in force from 2021-08-01, decision 2019-11-06, publication revision 22, latest publish about May 2026) directly via curl; the full 4.3 MB JSON parsed cleanly. Terveystieto is oppiaine id 6834386, koodi TE, under lops2019/oppiaineet[15] (no oppimaarat). It has three modules, each 2 op: TE1 Terveys voimavarana (id 6834847, pakollinen), TE2 Terveys ja ympäristö (id 6834848, valtakunnallinen valinnainen) and TE3 Terveys ja yhteiskunta (id 6834849, valtakunnallinen valinnainen). Objectives, key content, tehtävä, laaja-alainen osaamin and arviointi were read in full from the API and are summarised below (paraphrased; exact wording is fetched by id). Subject-level arviointi has no numeric criteria text. The numeric scale 4-10 is in the general part (Numeroarvosanat ja suoritusmerkinnät). Law: Lukiolaki 714/2018 read from Finlex open data (consolidated 2025-12-22); Terveydenhuoltolaki 1326/2010 § 17 was read only in a 2016-era version, because the open-data API returned only old versions and the Finlex web page is JavaScript-only; the current wording is unverified.",
+   "findings": [
+    {
+     "claim": "Peruste 6828810: name Lukion opetussuunnitelman perusteet 2019, diaarinumero OPH-2263-2019, tila valmis, voimassaoloAlkaa 2021-08-01 (epoch 1627765200000), paatospvm 2019-11-06, julkaisuRevisio 22, muutosmaaraykset has 1 entry (Lukion opetussuunnitelman perusteiden 2019 muuttaminen). Content tree is d.lops2019 with keys laajaAlainenOsaaminen, oppiaineet, sisalto.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Oppiaine Terveystieto: oppiaine id 6834386; koodi arvo TE; koodi uri oppiaineetjaoppimaaratlops2021_te (koodisto oppiaineetjaoppimaaratlops2021, koodi id 7389594); nimi fi Terveystieto, sv Hälsokunskap, en Health education; oppimaarat empty; it is d.lops2019.oppiaineet[15] (index may change with revisions, so look up by koodi.arvo == TE). Subject fields: tehtava.kuvaus, arviointi.kuvaus, laajaAlaisetOsaamiset.kuvaus, tavoitteet.tavoitealueet[0] (nimi 'Terveystiedon opetuksen tavoitteena on, että', kohde 'opiskelija', 5 tavoitetta). opiskeluymparistoTyotavat, pakollisetModuulitKuvaus and valinnaisetModuulitKuvaus are all null.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Modules (all laajuus 2 op): TE1 id 6834847, pakollinen=true, koodi uri moduulikoodistolops2021_te1 (koodi id 6866133), nimi fi 'Terveys voimavarana' (the API string has a trailing space; trim it), en 'Health as a resource', sv 'Hälsan som resurs'. TE2 id 6834848, pakollinen=false, uri moduulikoodistolops2021_te2 (koodi id 6834991), 'Terveys ja ympäristö', en 'Health and the environment'. TE3 id 6834849, pakollinen=false, uri moduulikoodistolops2021_te3 (koodi id 6866134), 'Terveys ja yhteiskunta', en 'Health and society'. Module ids and koodi ids differ; the build should key on koodi.arvo and keep both. Each module object has keys id, nimi, pakollinen, koodi, laajuus, kuvaus, tavoitteet{kohde,tavoitteet[]}, sisallot[{kohde,sisallot[]}].",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Subject tehtävä (paraphrase): terveystieto is a multidisciplinary subject whose task is to develop the student's health competence (knowledge and concepts, health skills, independent critical thinking, self-knowledge, ethical responsibility). Health is understood as physical, psychological and social wellbeing and functional capacity. The value base is respect for life, a dignified life under human rights, equality, non-discrimination, responsibility and active citizenship. Teaching treats health, safety, health promotion and disease prevention at individual, community, societal and global levels and guides students to see health as a resource. It also covers critical evaluation of health information and communication, analysing the factors behind one's own choices, ethical and legal questions, and the student's own ways of learning. Text in tehtava.kuvaus.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Subject general objectives (yleiset tavoitteet), 5 items in order, ids 9560073-9560077; the student: (1) builds a holistic picture of health and its individual/communal/societal/global preconditions, proposes justified ways to maintain or promote own, others' and the environment's health and safety, uses concepts correctly; (2) searches, applies and analyses health information from various sources, evaluates reliability and validity, understands the difference between scientific and everyday knowledge, justifies views with research evidence; (3) analyses how own needs, perceptions, experiences, attitudes and values steer health choices, and the effects of own lifestyle and consumption on health and environment; (4) analyses ethical questions on health and illness and the preconditions and health effects of sustainable development; (5) chooses suitable ways of learning, sets learning goals and assesses their attainment realistically.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "TE1 Terveys voimavarana, kuvaus (paraphrase): builds an overall picture of human resources, health promotion and the determinants of health, their connections and mechanisms; deepens and widens the lower-secondary understanding of the importance of lifestyle for health; the student assesses how the preconditions of health are realised in own life, family and close communities.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "TE1 tavoitteet (header 'Moduulin tavoitteena on, että opiskelija'), 3 items in order, ids 9560130, 9560131, 9560132: (1) describes and structures key human resources and determinants of health, analyses their links and mechanisms of action; (2) explains how health-culture phenomena arise and evaluates their significance for health, and applies key social-psychology models and theories to explaining how ways of living are adopted; (3) identifies factors affecting own lifestyle, evaluates the significance of lifestyle choices for own and close-environment health, and gives justified suggestions on maintaining health-promoting and preventing harmful ways of living.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "TE1 keskeiset sisällöt, in API order. Group 1 kohde 'Terveyden kokonaisvaltaisuus': 9560120 key determinants of health and their mechanisms; 9560121 social-psychology theories and models of health and lifestyle, explicitly the theory of planned behaviour, social-cognitive theory, health belief model, transtheoretical model (suunnitellun käyttäytymisen teoria, sosiaalis-kognitiivinen teoria, terveysuskomusmalli, muutosvaihemalli); 9560122 health-culture phenomena: conflict between valuing health and behaviour, medicalisation and 'getting ill from health' (the Swedish text names orthorexia), intervention in ways of living, alternative treatments (uskomus- eli vaihtoehtohoidot). Group 2 kohde 'Kehon ja mielen hyvinvoinnin keskeiset perusteet': 9560125 health-promoting nutrition, physical activity, rest, sleep and weight management (painonhallinta); 9560126 sexuality, sexual health, sexual rights; 9560127 individual, communal and societal factors protecting mental health, stress and crises as strains, ways to manage strain; 9560128 opiskeluhyvinvointi (wellbeing of the students). Ids 9560123-9560124 do not appear (not in the API).",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Notable for the plan: substances and dependence are NOT in TE1; they are in TE2 (group 'Mielihyvä ja riippuvuus'). Health information, critical evaluation of sources and health communication are also TE2, not TE1. TE1 content on health literacy is only implied by subject-level objective 2 and the health-culture content. Health-culture content includes 'alternative treatments'; weight management appears in the nutrition item (weight sensitivity needs safe-messaging care).",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "TE2 Terveys ja ympäristö: kuvaus covers critical evaluation of health information and communication, principles of obtaining research evidence, health effects of the media and other living environments and one's own choices, and dependence. Tavoitteet (ids 9560155-9560159): research-evidence principles and research process stages; finding information and comparing source reliability; forms and means of influence of health communication and its significance; physical and psychosocial environment links to health and own consumption's significance; forms of addiction, factors in their development, health and other harms. Sisällöt: group 'Terveyteen liittyvän tiedon hankinta, arviointi ja tulkinta' (9560142 scientific vs everyday knowledge, cognitive biases, research stages, evaluating research reliability; 9560143 forms of health communication and means of influence, evaluating its significance and reliability); group 'Ympäristön terveellisyys ja turvallisuus' (9560146 built, natural and psychosocial environment; 9560147 sustainable development and health; 9560148 safety of environments and violence prevention; 9560149 work wellbeing); group 'Mielihyvä ja riippuvuus' (9560152 biological, psychological, social mechanisms of addiction; 9560153 key substance and behavioural addictions, causes, prevention, harms).",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "TE3 Terveys ja yhteiskunta: kuvaus covers historical lines in health promotion and disease prevention, future challenges, key non-communicable and communicable diseases, social and health services, self-care and self-management, ethical questions, global health challenges. Tavoitteet (ids 9560256-9560259): societal conditions, policy, science and technology and public health; risk factors of key non-communicable and communicable diseases and prevention; which services an individual can seek, critical view of service organisation, significance of self-care; ethical questions, health inequalities in Finland and globally. Sisällöt: group 'Terveyden edistäminen ja sairauksien ehkäisy eri aikakausina' (9560217 health conceptions and disease explanation models; 9560218 societal, scientific and technological factors affecting population health; 9560219 future health challenges and opportunities); 'Sairaudet ja hoito' (9560222 epidemiological transition, key non-communicable and communicable diseases; 9560223 organisation, provision and use of services; 9560224 self-care and self-management); 'Eettiset kysymykset' (9560227 perspectives of ethical analysis; 9560228 ethical and legal questions incl. fertility treatment, abortion, freedom and responsibility in lifestyle, screening, genetic technology, euthanasia; 9560229 ethical principles of health care, patient rights, prioritisation; 9560230 health and inequality in Finland and globally).",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Subject-level arviointi (oppiaine id 6834386, arviointi.kuvaus, one text; no module-level criteria and no grade-by-grade criteria table in the API for terveystieto): assessment supports learning and informs progress, rests on criteria derived from the objectives, is varied and includes self- and peer assessment, criteria opened to students at course start. It targets mastery of facts and exact use of concepts, information-seeking skills, ability to apply, analyse, evaluate and combine health information and build justifications, ability to consider ethical questions, and ability to set learning goals and assess them. It must NOT target the student's values, attitudes, health behaviour or other personal characteristics as such; it focuses on skills to analyse, evaluate and justify views and different health habits. This directly supports the site's no-self-disclosure rule.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Numeric grade: general part section 'Numeroarvosanat ja suoritusmerkinnät' (sisalto node id 6828927, perusteenOsa 6828691) states scale 4-10: 5 välttävä, 6 kohtalainen, 7 tyydyttävä, 8 hyvä, 9 kiitettävä, 10 erinomainen; failed performance is marked 4; cites Valtioneuvoston asetus 810/2018 § 17. Compulsory and national optional studies get numeric grades (only opinto-ohjaus gets S/H); other optional studies may get numeric or S/H as the local curriculum decides. Lukiolaki § 37(3) gives the right to demonstrate competence again, and the student may raise a grade; the best grade counts. The section 'Oppiaineen oppimäärän arviointi' (id 6828933) says compulsory subjects get a numeric grade per Asetus 810/2018.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Laaja-alainen osaaminen for terveystieto (laajaAlaisetOsaamiset.kuvaus, paraphrase by the competence names used in the text): hyvinvointiosaaminen (conditions of wellbeing, promoting own and others' health, self-knowledge, strengths, identity); vuorovaikutusosaaminen (emotional and interaction skills, collaborative knowledge building); monitieteinen ja luova osaaminen (combining knowledge from several disciplines, critical interpretation, regulating one's own learning); yhteiskunnallinen osaaminen (safe environment, health inequality, consequences of lifestyle choices, a just and sustainable future); eettisyys ja ympäristöosaaminen (health effects of environments, analysing own consumption, ethical questions); globaali- ja kulttuuriosaaminen (health cultures, global health issues). Note: the subject text has no explicit per-module laaja-alainen mapping; there is also a top-level d.lops2019.laajaAlainenOsaaminen list, not read in detail.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Lukiolaki 714/2018 (Finlex open data, consolidated 2025-12-22): § 2 purpose (support growth into good, balanced, educated people and active citizens); § 11 oppimäärän sisältö (lists oppiaineryhmät; the subjects themselves are set in Valtioneuvoston asetus 810/2018 per § 11(4)); § 12 opetussuunnitelma (OPH sets objectives and core contents in the perusteet; the provider drafts the local curriculum); § 13 studies organised so the oppimäärä can be completed in three years; § 32 opiskelijahuolto (governed by oppilas- ja opiskelijahuoltolaki 1287/2013; the curriculum must be drafted with the municipal social and health authorities); § 40 right to a safe study environment (protection from bullying, violence and harassment); § 37(3) chance to show competence again. The words terveystieto and opiskeluterveydenhuolto do not occur in the act. Note: the act uses 'opiskelijahuolto', not 'opiskeluhuolto'.",
+     "confidence": "verified",
+     "source_url": "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2018/714/fin@"
+    },
+    {
+     "claim": "Terveydenhuoltolaki 1326/2010 § 17 Opiskeluterveydenhuolto, as read in a 2015-2016 consolidated version (the open data API returned only fin@20151511, fin@20160552, fin@20161232): primary health care must organise student health care for students of lukio, vocational institutions and higher education; it includes promotion and monitoring of the study environment and community every three years, monitoring and promoting students' health and ability to study including two scheduled health checks for lukio and vocational students, health and medical care including mental health and substance work, sexual health promotion and oral health, and early identification of need for support and referral. It is part of opiskelijahuolto. The 2016 text names municipalities; that duty has since moved to wellbeing services counties (hyvinvointialue) in 2023.",
+     "confidence": "likely",
+     "source_url": "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2010/1326"
+    },
+    {
+     "claim": "Current wording of § 17 not read. A search snippet says the wellbeing services county now organises it; a Government bill HE 118/2025 proposed that routine checks for students over 18 would be done only as needed. Whether it was enacted and the exact current text are unverified, so the site must link Finlex and not state the number of checks.",
+     "confidence": "unverified",
+     "source_url": "https://www.eduskunta.fi/pdf/HE+118/2025"
+    }
+   ],
+   "recommendations": [
+    "Have the build fetch https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki and select by koodi.arvo (TE, TE1, TE2, TE3) at lops2019.oppiaineet[*] and its moduulit[*]; do not hardcode the array index 15. Keep both the module id (6834847, 6834848, 6834849) and the koodi uri (moduulikoodistolops2021_te1 etc.); strip the trailing space from TE1's name. Use sisallot[*].sisallot[*]._id and tavoitteet.tavoitteet[*]._id (e.g. 9560130-9560132, 9560120-9560128) as stable codes: TE1 objectives are O1-O3 by order, content items follow the API order in two groups.",
+    "The curriculum codes the topics can cite: subject objectives 9560073-9560077, TE1 objectives 9560130/31/32 and TE1 contents 9560120, 9560121, 9560122 (group 'Terveyden kokonaisvaltaisuus'), 9560125, 9560126, 9560127, 9560128 (group 'Kehon ja mielen hyvinvoinnin keskeiset perusteet'). The expected-answer in prompt 001 was refined: TE1 does NOT cover substances/dependence or health literacy/sources as content areas; those belong to TE2 (substances, health communication, evaluating research reliability). TE1 does name four social-psychology theories, health-culture phenomena (incl. medicalisation, alternative treatments) and opiskeluhyvinvointi. Plan TE1 topics around the 7 listed content items and mention cross-links to TE2 only as optional previews, without presenting them as TE1 requirements (rule 3).",
+    "Because the subject text forbids assessing values, attitudes and health behaviour, self-reflection tasks must be framed as analysing models and factors, with no disclosure of the student's own health information; this matches the privacy rule and should be cited in the contract.",
+    "No grade-criteria table exists for terveystieto in ePerusteet; the 4-10 scale is general-part text. Model-answer scoring guides on the site should state they are the site's own, not official criteria. If local criteria matter, note that schools set them in their own curriculum (OPS).",
+    "For the law section cite Lukiolaki § 11, 12, 32, 40 and Terveydenhuoltolaki § 17 as links to Finlex and give a read date; do not state the number or timing of health checks until the current § 17 text (and the fate of HE 118/2025) is read from Finlex or the Sosiaali- ja terveysministeriö / THL pages. Also the student-care act (oppilas- ja opiskelijahuoltolaki 1287/2013) is the main law for opiskelijahuolto.",
+    "Not read: Valtioneuvoston asetus 810/2018 itself (the subject list and the compulsory terveystieto module count; the API confirms TE1 is the only compulsory module and the rest are national optional), the top-level laajaAlainenOsaaminen list, the study-structure table of total compulsory credits, and the current Finlex page text of the two laws (JavaScript-only; WebFetch returned navigation only)."
+   ],
+   "versus_expected": "Expected answer 1 is mostly right: TE1 is the one compulsory module (2 op), TE2 and TE3 are national optional (2 op each), numeric grade 4-10, the TE1 name is exactly 'Terveys voimavarana'. Refined or wrong: TE2 is 'Terveys ja ympäristö' (health information and evaluation, health communication, environment health, dependence; not 'health, the environment and society'), and TE3 is 'Terveys ja yhteiskunta' (history of public health, diseases, services, self-care, ethics, inequality; not research and global health). Wrong: substances and dependence, and health literacy and sources, are in TE2 not TE1 (TE1 has no substances content). Right: TE1 covers determinants of health, nutrition/activity/rest/sleep/weight, sexual health, mental health and stress, and study wellbeing. Added: TE1 explicitly lists four social-psychology theories (TPB, social-cognitive, health belief model, transtheoretical model) and health-culture phenomena (medicalisation, alternative treatments); there are no module-level assessment criteria; assessment may not target values, attitudes or health behaviour. Law: confirmed the Lukiolaki sections but the terveystieto subject itself is set by the asetus, and § 17 current wording is unverified.\""
+  },
+  {
+   "key": "materials-to-link",
+   "summary": "Read 20+ pages and the aoe.fi search API on 2026-11-21. Almost every publisher is link-out (rights reserved or no licence statement); the only openly licensed, lukio-shaped TE material is on aoe.fi. Adaptable (CC BY / CC BY-SA, credit required): 1113 TE1 Terveys voimavarana (Schildtin lukio, CC BY-SA 4.0, 2021, Moodle course), 1852 TE01 online-course plan (Omnia/Espoon aikuislukio, CC BY 4.0, 2021), 4704 REAALIAINEIDEN (GE, TE, BG) KOETEHTÄVIÄ (Hankasalmen lukio, CC BY 4.0, 2025, exam-style tasks), 2046 Stressi ja sen hallinta (Karan koulu, CC BY 4.0, 2022), 3215 Rinnoista, menkoista ja gynejutuista (Tunne rintasi ry & Korento ry, CC BY 4.0, 2024, lesson package), 4170 Terveystieteiden avoimet aineistot (Helsingin yliopisto, CC BY 4.0, 2026). Link-out only: OPH support material, THL, Ruokavirasto, UKK, Mielenterveystalo, MIELI, Nyyti, Sekasin, Väestöliitto, Sexpo, Seta, EHYT, Päihdelinkki, Terveyskirjasto, Terveyskylä, Tunne rintasi's own site. Failed reads: 6 dead URL guesses (THL kouluterveyskysely paths, Ruokavirasto top-level paths, OPH LOPS-perusteet path) and the aoe.fi per-material API (returned non-JSON); each was tried once or twice, then replaced by a working URL or marked could_not_read.",
+   "findings": [
+    {
+     "claim": "OPH 'Terveystiedon LOPS 2019 -tukimateriaali': OPH support material covering health literacy (5 areas), general objectives, assessment principles, TE1 Terveys voimavarana (2 op, compulsory), and national optional TE2 'Terveys ja ympäristö' and TE3 'Terveys ja yhteiskunta' (2 op each). Page shows '© Opetushallitus 2026' and no CC licence, so link-out. States its examples are not normative. No exam tasks on the page. PDF (dated 2020-11-27 in filename) at https://www.oph.fi/sites/default/files/documents/LOPS-tukimateriaali-terveystieto_2020-11-27.pdf. Audience: teachers. URL stability: good (oph.fi permanent path) but PDF filename is dated, so link the page, not the PDF. Quality: authoritative, the right anchor for curriculum fidelity.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali"
+    },
+    {
+     "claim": "Correction to the brief's expected answer: TE2 is 'Terveys ja ympäristö' and TE3 is 'Terveys ja yhteiskunta' (OPH page), not health research / health in the world.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali"
+    },
+    {
+     "claim": "aoe.fi id 1113 'TE1 Terveys voimavarana' by Tuulevi Piesanen, Schildtin lukio: licence CC BY-SA 4.0; created 2021-01-06, updated 2021-01-08; lukio level; roles teacher and learner; types exercise, text, video; Moodle course for online or independent study, usable in contact teaching; has downloadable files; tagged to TE1 objectives and contents (health determinants, sleep/exercise/nutrition, sexuality, study wellbeing, mental health protective factors, social-psychological models, health-culture phenomena). Open class: adaptable with credit and share-alike (the site is CC BY 4.0, so adapting text from it would force CC BY-SA on the derived part; safer to link out and write original text). Stability: aoe.fi ids are persistent; material is about 5 years old and written for the 2019 curriculum, so facts inside may be dated. Quality: by a school teacher, not peer reviewed; I did not open the Moodle files (the per-material API call failed), so internal quality is unverified.",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/#/materiaali/1113"
+    },
+    {
+     "claim": "aoe.fi id 1852 'TE01, Terveys voimavarana, Verkko-opintojakso' by Anna Bono, Omnia / Espoon aikuislukio: CC BY 4.0, 2021-12-20, a presentation of an online-course plan, audience teachers/professionals. Open class (CC BY, compatible with the site's CC BY 4.0). Content not opened; likely a course plan only.",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/#/materiaali/1852"
+    },
+    {
+     "claim": "aoe.fi id 4704 'REAALIAINEIDEN (GE, TE, BG) KOETEHTÄVIÄ' by Hankasalmen lukio: CC BY 4.0, updated 2025-04-11, tagged TE modules Terveys voimavarana, Terveys ja ympäristö, Terveys ja yhteiskunta. Exam-style tasks, so it is a candidate for linking or for inspiring original tasks; contents not opened. Note rule 5 in CLAUDE.md: no copying of YTL exam tasks, so check that these tasks are not YTL excerpts before adapting.",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/#/materiaali/4704"
+    },
+    {
+     "claim": "aoe.fi id 2046 'Stressi ja sen hallinta' by Karan koulu: CC BY 4.0, 2022-04-22, subject Terveystieto. Karan koulu is likely a basic-education (peruskoulu) school, so the level is probably below lukio (unverified); only the metadata was read.",
+     "confidence": "likely",
+     "source_url": "https://aoe.fi/#/materiaali/2046"
+    },
+    {
+     "claim": "aoe.fi id 3215 'Rinnoista, menkoista ja gynejutuista' by Tunne rintasi ry & Korento ry: CC BY 4.0, 2024-02-21, tagged Terveystieto and TE modules Terveys voimavarana and Terveys ja yhteiskunta. Tunne rintasi's own site describes the same lesson package as aimed at lower and upper secondary students. Open class; useful for sexual and reproductive health, with a health-literacy angle. Contents not opened.",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/#/materiaali/3215"
+    },
+    {
+     "claim": "Other aoe.fi items seen via search (all metadata only): 4170 Terveystieteiden avoimet aineistot (Helsingin yliopisto, CC BY 4.0, 2026-05-04, university level); 5798 Hyvinvointia mittaamalla yläkoulu (Jyväskylän normaalikoulu, CC BY 4.0, 2026-04-27, yläkoulu); 2284 Kestävää tulevaisuutta lukiolaisille! and 2319 (Helsingin kaupunki, CC BY-SA 4.0, tagged Terveys voimavarana, sustainability focus); 5409 Elvytys ja hätätilanteiden opetusta (Laurea, CC BY-SA 4.0, first aid); 5736 Opetustoimen elvytyskoulutus-materiaali (Vaasan AMK, CC BY 4.0). Excluded or link-out on licence: 3486 Suostumus ja sateenkaari koulussa (Amnesty Suomi, CC BY-NC-ND 4.0), 4638 Väestöliiton Hyvinvointi Oy online course (CC BY-NC-ND, commercial arm), 5126 TAMK resuscitation (CC BY-NC-ND), 3860 Terveyden lukutaito -osaamismerkki (Seinäjoen AMK, CC BY-NC-ND), 4619 BMOL lecture series (CC BY-NC-ND), 505 Media Coach EDU (CC BY-NC-ND), 5600 Hyvinvointikalenteri (CC BY-ND). Their NC and ND terms make adaptation impossible, so link only. NC items also cannot be mixed into a CC BY 4.0 site.",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/api/v2/search"
+    },
+    {
+     "claim": "The aoe.fi search API (POST https://aoe.fi/api/v2/search with JSON keywords/from/size) works without authentication. 'TE1 Terveys voimavarana' gives 325 hits but only about 4 are lukio-TE specific. A search for 'terveystieto' returns the first 40 of 40 hits. The per-material endpoint /api/v2/materials/{id} returned non-JSON, so files and versions could not be listed (not retried).",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/api/v2/search"
+    },
+    {
+     "claim": "UKK-instituutti 'Liikkumisen suositukset': updated 31.1.2025; covers recommendations for under school age, 7-17-year-olds, 18-64, 65+, reduced mobility, pregnancy and postpartum. Publisher UKK-instituutti (foundation, funded partly by the ministries). Audience professionals and public. Footer 'All rights reserved'. Link-out. Notes that some older recommendations (under school age, sitting) have not been updated to the 2019 international evidence reviews. Youth band is 7-17, which includes lukio ages. URL looks stable but the recommendation is a changing fact, so link with date read 2026-11-21.",
+     "confidence": "verified",
+     "source_url": "https://www.ukkinstituutti.fi/liikkumisensuositus/"
+    },
+    {
+     "claim": "Ruokavirasto 'Ravitsemus- ja ruokasuositukset': updated 16.1.2026; carries the Valtion ravitsemusneuvottelukunta (VRN) logo; lists recommendations for adults, infants and children, school-age children, young adults/students, pregnancy and breastfeeding, older adults, vegan diets and special diets; based on 'Kestävää terveyttä ruoasta 2024' and NNR2023. No licence statement, link-out. The 2024 recommendations PDF is hosted on ruokavirasto.fi/globalassets (long path, less stable than the topic page). Link the topic page. Audience general public and professionals; not youth-specific, but the 'koululaiset' and 'nuoret aikuiset' subpages are the closest fit for lukio.",
+     "confidence": "verified",
+     "source_url": "https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravitsemus--ja-ruokasuositukset/"
+    },
+    {
+     "claim": "THL 'Nuorten hyvinvointi' (Kouluterveyskysely findings): page last updated 2026-06-09; survey is every second year, latest spring 2025, next update September 2027; surveys 8-9 grade pupils and 1st/2nd-year lukio and vocational students under 21; links a time-series data cube including lukio and a Julkari report (URN:NBN:fi-fe2025091596210). Topics: school lunch, sleep, physical activity, breakfast, bullying, talking with parents. No licence stated on the page. Link-out (THL's licence for statistics was not verified on this page). Statistics change, so link with date. Official results service is reported as thl.fi/kouluterveyskysely/tulokset (the fetch of that URL returned the Nuorten hyvinvointi page, so it appears to redirect or resolve there).",
+     "confidence": "verified",
+     "source_url": "https://thl.fi/kouluterveyskysely/tulokset"
+    },
+    {
+     "claim": "The 2025 Kouluterveyskysely results were published 17.9.2025 according to a municipal summary; a national lukio response rate of 70% is quoted by Vantaa. Both are secondary citations, so use only as a pointer and take any figure from THL itself.",
+     "confidence": "likely",
+     "source_url": "https://www.kokkola.fi/tiedostot/kouluterveyskyselyn-tulokset-kokkola-2025/"
+    },
+    {
+     "claim": "Mielenterveystalo 'Nuoret': content aimed at upper-secondary-age and older youth and their parents; self-help programmes for study burnout prevention, sleep difficulties, concentration, speech anxiety, 'Suorittajalle', Chillaa app, internet therapy for social anxiety, and a 'Keskittymistaitojen tunti, ohjeet opettajalle' lesson guide. HUS logo in footer, publisher not named in the fetched text (service is run by HUS). No licence note, link-out. Strong fit for study wellbeing and mental health in TE1. Some programmes may need login; the information pages are open. URL mielenterveystalo.fi/fi/nuoret is stable.",
+     "confidence": "verified",
+     "source_url": "https://mielenterveystalo.fi/fi/nuoret"
+    },
+    {
+     "claim": "MIELI Suomen Mielenterveys ry (mieli.fi): crisis line 24 h on 09 2525 0111 (Finnish), child and youth mental health section, Mielenterveyden ensiapu training, youth-focused campaign. No licence statement, link-out. The fetch did not confirm Sekasin as a MIELI service. The crisis line number must be re-checked before it is printed on pages.",
+     "confidence": "verified",
+     "source_url": "https://www.mieli.fi/"
+    },
+    {
+     "claim": "Nyyti ry (nyyti.fi): national non-profit for student mental health since 1984; covers study ability, anxiety, stress, loneliness, sleep; online peer groups, mindfulness, Discord community, self-help tools, guides and training materials for people working with students; free for students. '© 2026 Nyyti ry' only, so link-out. Good fit for lukio students and teachers.",
+     "confidence": "verified",
+     "source_url": "https://www.nyyti.fi/"
+    },
+    {
+     "claim": "Sekasin-chat (sekasin.fi; sekasin247.fi redirects with 301): run by Sekasin Kollektiivi, anonymous free chat for ages 12-29, open every day of the year (weekdays 9-24, weekends 15-24 as read), powered by Ninchat. '© 2026 Sekasin Kollektiivi', no licence, link-out. Opening hours change, so link rather than copy them. Use sekasin.fi as the canonical URL.",
+     "confidence": "verified",
+     "source_url": "https://sekasin.fi/"
+    },
+    {
+     "claim": "Väestöliitto seksuaaliterveys page: WHO-framed definition of sexual health, free sexual health counselling chat for ages 13-28, 'Hyvä kysymys' service for youth, professional pages for turvataitokasvatus, youth sexuality education (incl. Kumita condom materials for 8th graders and lesson plans). '© 2024 Väestöliitto', no open licence, link-out. Note that Väestöliitto's commercial arm (Väestöliiton Hyvinvointi Oy) publishes CC BY-NC-ND courses on aoe.fi. Some pieces are aimed at the 8th grade, not lukio.",
+     "confidence": "verified",
+     "source_url": "https://www.vaestoliitto.fi/seksuaaliterveys/"
+    },
+    {
+     "claim": "Sexpo (sexpo.fi): Sexpo-säätiö, sexual counselling by sexologists (appointment, phone, chat), SeriE service for people with sexual interest in children (prevention), articles, blog, podcast, sexual rights; partly funded by two ministries. No youth-specific material on the home page and no licence ('© 2026 Sexpo'), so link-out. The SeriE service should not be linked from student-facing pages without teacher framing. Check Sexpo's youth-relevant articles before linking.",
+     "confidence": "verified",
+     "source_url": "https://sexpo.fi/"
+    },
+    {
+     "claim": "Seta ry (seta.fi): human-rights organisation; Sateenkaaritieto (glossary, gender diversity, sexual orientation), support and counselling, a section for basic and upper secondary education (rainbow network for school staff, video collection), youth site nuoret.seta.fi and Loiste online youth centre, and an easy-read glossary. No licence statement ('check with Seta'), link-out. Good for inclusion in sexual health and relationships topics.",
+     "confidence": "verified",
+     "source_url": "https://seta.fi/"
+    },
+    {
+     "claim": "EHYT ry (ehyt.fi): prevention of harm from alcohol, nicotine, drugs and gambling; free anonymous 24/7 helpline Päihdeneuvonta 0800 900 45; BuenoTalk.fi gathers youth content on substances, gambling, relationships and mental health; ehytkouluttaa.fi online courses (some free); school training. '© EHYT ry 2026', no licence, link-out. Helpline number must be re-verified before it is printed. Nuortennetti was not seen on the page.",
+     "confidence": "verified",
+     "source_url": "https://www.ehyt.fi/"
+    },
+    {
+     "claim": "Päihdelinkki (paihdelinkki.fi, https redirects to http://paihdelinkki.fi/ as read): run by A-klinikkasäätiö, supported by STEA; alcohol, drugs and medicines, gambling, sex and porn addiction; self-assessment tests, 24/7 written advice, chat, peer support, forum; anonymous and free. No youth section on the page itself; it links to the sister service Nuortenlinkki. '© 2026 A-klinikkasäätiö', no licence, link-out. Aimed at people with their own use or at relatives, so it is a help link, not a teaching resource. Verify the https canonical URL before linking.",
+     "confidence": "verified",
+     "source_url": "http://paihdelinkki.fi/"
+    },
+    {
+     "claim": "Duodecim Terveyskirjasto (terveyskirjasto.fi): published by Kustannus Oy Duodecim, over 10,000 expert-written articles with sections for adults, children and young people; seems to be free to the public, but the page does not state the price or the terms, which sit under 'Käyttöehdot'. Copyright line, no open licence. Company is commercial (publisher), but it is the standard Finnish public health-information source. Link-out; check the terms and the article date before each link.",
+     "confidence": "verified",
+     "source_url": "https://www.terveyskirjasto.fi/"
+    },
+    {
+     "claim": "Terveyskylä.fi: public web service developed by the Finnish university hospitals; 32 themed 'houses', self-help programmes (exercise, smoking, weight), Omapolku (login) and TerveyskyläPRO for professionals. Registered trademarks are mentioned and no licence is stated, so link-out. Audience is mainly patients and professionals; not youth-specific. Use only for single health-topic pages, not as teaching material.",
+     "confidence": "verified",
+     "source_url": "https://www.terveyskyla.fi/"
+    },
+    {
+     "claim": "Tunne rintasi ry (tunnerintasi.fi): non-profit public-health organisation; breast health and screening; free downloadable school material, lesson package 'Oppituntipaketti: rinnoista, menkoista ja gynejutuista' for lower and upper secondary; e-course; 'Tule terveyskouluttajaksi!'. No licence on the main site (terms under 'Käyttöehdot'), but the same lesson package is CC BY 4.0 on aoe.fi (id 3215). Link to the aoe.fi item for the open licence, to the site for updates.",
+     "confidence": "verified",
+     "source_url": "https://tunnerintasi.fi/"
+    }
+   ],
+   "could_not_read": [
+    "https://thl.fi/aiheet/tutkimukset-ja-hankkeet/tutkimukset-ja-hankkeet/kouluterveyskysely (404)",
+    "https://thl.fi/aiheet/lapset-nuoret-ja-perheet/tutkimukset-ja-hankkeet/kouluterveyskysely (404)",
+    "https://www.ruokavirasto.fi/ruokavalion-suositukset/ (404)",
+    "https://www.ruokavirasto.fi/ruokavalio-ja-ravitsemus/ (404)",
+    "https://www.oph.fi/fi/koulutus-ja-tutkinnot/lukion-opetussuunnitelman-perusteet (404)",
+    "https://aoe.fi/api/v2/materials/{1113,3215,2046,4704} (non-JSON response, so no file lists, versions or detailed metadata)",
+    "The aoe.fi item pages (SPA) and the Moodle/file content of 1113, 1852, 4704 were not opened, so quality of their content is unverified",
+    "Not opened this session: Sexpo, Seta, Väestöliitto, EHYT and Mielenterveystalo subpages (only the front/section pages), THL non-school-survey pages (sleep, mental health, sexual health, substances), Mielenterveystalo licence/terms page, Terveyskirjasto Käyttöehdot, Tunne rintasi Käyttöehdot, nuoret.seta.fi, buenotalk.fi, Nuortenlinkki, kouluterveyskysely open-data licence, YTL"
+   ],
+   "recommendations": [
+    "Treat all publisher sites as link-out: none of the 15 sites read states an open licence, and 'no statement' means all rights reserved under Finnish law (rule 5). Only the aoe.fi items with CC BY or CC BY-SA are open.",
+    "Prefer linking aoe.fi 1113 (CC BY-SA) and not adapting its text, because share-alike would infect the site's CC BY 4.0. Use CC BY items 1852, 4704, 3215 and 4170 where adaptation is useful, with credit. Skip every CC BY-NC, -ND and -NC-ND item.",
+    "Anchor the curriculum links on the OPH support page (link the page, not the dated PDF), and correct the TE2 and TE3 names in the plan: Terveys ja ympäristö and Terveys ja yhteiskunta.",
+    "Per TE1 area, first-choice links: health as a whole and literacy, OPH support page; sleep/exercise/nutrition, THL Nuorten hyvinvointi, UKK liikkumisen suositukset, Ruokavirasto ravitsemus- ja ruokasuositukset (koululaiset, nuoret aikuiset) plus Mielenterveystalo sleep programme; mental health and study wellbeing, Mielenterveystalo Nuoret, Nyyti, MIELI, Sekasin; sexual health and relationships, Väestöliitto (13-28 chat), Seta, Sexpo, aoe.fi 3215; substances, EHYT/BuenoTalk, Päihdelinkki/Nuortenlinkki; health literacy, Terveyskirjasto and Terveyskylä as examples of reliable sources, plus aoe.fi 4704 for exam-style practice.",
+    "Never copy phone numbers, opening hours or recommendation figures: link and date-stamp them (read 2026-11-21). Re-verify the MIELI crisis line and EHYT helpline numbers at build time.",
+    "Build a link-check step with a table (URL, publisher, licence class, date read) so the licence-class column the contract needs is data, not prose. Redirects to normalise: sekasin247.fi to sekasin.fi, paihdelinkki.fi https to http as served.",
+    "Follow-up reads still needed before the inventory is final: Terveyskirjasto and Tunne rintasi terms of use, THL's licence for Kouluterveyskysely statistics, open the aoe.fi files of 1113 and 4704 for quality and for any YTL-sourced tasks, and the THL sleep, mental health and sexual health pages that the aspect list named."
+   ],
+   "versus_expected": "The expected answer holds: official and NGO material is plentiful and almost all link-out, and the CC BY-SA TE1 shell by Schildtin lukio exists (aoe.fi 1113, CC BY-SA 4.0, 2021). Refinements: (1) there are more open lukio-relevant items than expected, namely a second TE01 plan (CC BY), a lukio exam-style task set (CC BY, 2025) and an open lesson package from Tunne rintasi (CC BY), but they are few and metadata-only so far; (2) TE2 and TE3 are Terveys ja ympäristö and Terveys ja yhteiskunta, not what the brief guessed; (3) THL pages and Ruokavirasto top-level paths moved, so URLs must be taken from the working ones above; (4) commercial and NC/ND material sits next to open material on aoe.fi (e.g. Väestöliiton Hyvinvointi Oy), so the licence must be read per item; (5) OPH's support page has no exam tasks and no CC licence statement.",
+   "sources_or_tools": [
+    {
+     "name": "aoe.fi search API",
+     "what": "Open educational resources library of the Finnish National Agency for Education; metadata for TE1 items",
+     "url": "https://aoe.fi/api/v2/search",
+     "access": "Open, POST JSON, no auth",
+     "licence": "Per item (CC BY, CC BY-SA, NC and ND variants)"
+    },
+    {
+     "name": "OPH Terveystiedon LOPS 2019 -tukimateriaali",
+     "what": "Curriculum support for TE1-TE3",
+     "url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali",
+     "access": "Open",
+     "licence": "Link-out (© OPH, no CC statement seen)"
+    },
+    {
+     "name": "THL Nuorten hyvinvointi (Kouluterveyskysely)",
+     "what": "Youth and lukio health statistics",
+     "url": "https://thl.fi/kouluterveyskysely/tulokset",
+     "access": "Open",
+     "licence": "Link-out (not stated)"
+    },
+    {
+     "name": "Ruokavirasto ravitsemus- ja ruokasuositukset",
+     "what": "National nutrition recommendations",
+     "url": "https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravitsemus--ja-ruokasuositukset/",
+     "access": "Open",
+     "licence": "Link-out"
+    },
+    {
+     "name": "UKK-instituutti liikkumisen suositukset",
+     "what": "Physical activity recommendations by age group",
+     "url": "https://www.ukkinstituutti.fi/liikkumisensuositus/",
+     "access": "Open",
+     "licence": "Link-out (all rights reserved)"
+    },
+    {
+     "name": "Mielenterveystalo Nuoret",
+     "what": "Youth mental health information and self-help",
+     "url": "https://mielenterveystalo.fi/fi/nuoret",
+     "access": "Open (some programmes may need login)",
+     "licence": "Link-out"
+    },
+    {
+     "name": "Nyyti, MIELI, Sekasin",
+     "what": "Student and youth mental health and crisis support",
+     "url": "https://www.nyyti.fi/",
+     "access": "Open",
+     "licence": "Link-out"
+    },
+    {
+     "name": "Väestöliitto, Sexpo, Seta",
+     "what": "Sexual health, relationships and inclusion",
+     "url": "https://www.vaestoliitto.fi/seksuaaliterveys/",
+     "access": "Open",
+     "licence": "Link-out"
+    },
+    {
+     "name": "EHYT, Päihdelinkki",
+     "what": "Substances and dependence",
+     "url": "https://www.ehyt.fi/",
+     "access": "Open",
+     "licence": "Link-out"
+    },
+    {
+     "name": "Duodecim Terveyskirjasto, Terveyskylä",
+     "what": "General health information",
+     "url": "https://www.terveyskirjasto.fi/",
+     "access": "Open, terms not read",
+     "licence": "Link-out (Duodecim is a commercial publisher)"
+    }
+   ]
+  },
+  {
+   "key": "facts-and-services",
+   "summary": "Research on 'facts-and-services' for TE1: most items were read on official pages, but many official URLs (UKK page, THL alcohol/Kouluterveyskysely pages, Finlex Tupakkalaki) returned 404 or no text, so those rest on search results and are graded accordingly. Stable rules can be stated for activity (via UKK PDFs), alcohol age limits, nicotine pouch possession ban, Kriisipuhelin, Sekasin and Myrkytystietokeskus. One big 2026 change was found, the digital health survey in student health care from autumn 2026. Sleep (no official THL/UKK source found), the drug law, sexual health testing and Mielenterveystalo remain unverified, and a 2026 alcohol-act amendment is pending.",
+   "findings": [
+    {
+     "claim": "Nutrition: current national recommendations are 'Sustainable Health from Food - National Nutrition Recommendations 2024' (Valtion ravitsemusneuvottelukunta VRN with THL/Ruokavirasto), food-based guidelines as pyramid and plate; audience-specific guidance (school-age and teens, vegan diets etc.) is linked from the Ruokavirasto overview. Stable rule: eat per the 2024 food-based guidelines; link, do not copy figures. Changes: group-specific guides (e.g. student dining) still being drafted/updated.",
+     "confidence": "verified",
+     "source_url": "https://www.ruokavirasto.fi/en/foodstuffs/healthy-diet/nutrition-and-food-recommendations/"
+    },
+    {
+     "claim": "Physical activity, 7-17-year-olds: UKK 'Kouluikaisten liikkumissuositus 2021' (one age band 7-17, no separate 13-17). PDF text read: mostly endurance-type activity, varied activity covering fitness areas, less is still useful if the hour is not reached, break up long sitting, sleep enough. The exact hours/frequency figures were not read from the PDF text extract in full; widely reported as at least 60 min/day plus muscle/bone strengthening three times a week (this part via a Helsinki city page, secondary).",
+     "confidence": "likely",
+     "source_url": "https://ukkinstituutti.fi/wp-content/uploads/2022/02/Kouluikaisten-liikkumissuositus-2021.pdf"
+    },
+    {
+     "claim": "Physical activity, 18-64: UKK weekly recommendation published October 2019 ('Viikoittainen liikkumisen suositus 18-64-vuotiaille'); PDF read for sleep, breaks from sitting and light daily movement; the numeric core (minutes per week, muscle and balance twice a week) was not extracted from the PDF and comes from a search summary. The old liikuntapiirakka is superseded.",
+     "confidence": "likely",
+     "source_url": "https://ukkinstituutti.fi/wp-content/uploads/2022/02/Liikkumisen-suositus-aikuiset-2019-1.pdf"
+    },
+    {
+     "claim": "The UKK landing page https://ukkinstituutti.fi/liikkuminen/liikuntasuositukset/ returned 404 (guessed URL); the stable links should be the PDF URLs above or a page found by browsing ukkinstituutti.fi.",
+     "confidence": "verified",
+     "source_url": "https://ukkinstituutti.fi/liikkuminen/liikuntasuositukset/"
+    },
+    {
+     "claim": "Sleep: no official THL/UKK sleep recommendation page was found. The UKK 7-17 PDF says to sleep enough and gives wind-down tips. Secondary sources (Helsinki city page) say teenagers need 8-10 hours; an MTV article attributes 8-9 hours to THL, which conflicts. Do not state a number without a primary source; link a THL/Terveyskylä/Mielenterveystalo sleep page after a check.",
+     "confidence": "unverified",
+     "source_url": "https://www.hel.fi/fi/sosiaali-ja-terveyspalvelut/lasten-ja-perheiden-palvelut/lapsiperheiden-helsinki/nuoren-kanssa/nuoren-uni"
+    },
+    {
+     "claim": "Alcohol: Alcohol Act 1102/2017 in force 1 March 2018; retail sale age 18 for mild drinks and 20 for strong (over 22% ethanol); possession of strong drinks under 20 is a petty offence with a fixed fine of EUR 40 (search summary of Finlex). Stable rule: 18 for mild, 20 for strong; link Finlex, state no fine figures. Changes: a 2026 bill/Riksdag response (RSv 118/2026) amends sections 2-5 (home delivery of retail alcohol with age checks); status not confirmed, so check the consolidated Finlex text. The THL alcohol-law page URL tried returned 404.",
+     "confidence": "likely",
+     "source_url": "https://data.finlex.fi/en/legislation/2017/1102"
+    },
+    {
+     "claim": "Tobacco and nicotine: Tupakkalaki 549/2016; sale age 18; THL and working groups have proposed 20 but not enacted as far as read. Since 1 Aug 2025 possession and import by under-18s is banned for nicotine pouches and other tobacco substitutes (energy snus, nicotine-free vapes in OPH guidance); tobacco use is banned in schools and institutions. Flavour limits/warnings were planned for 1 Feb 2026 and packaging for 1 Aug 2026 (not verified as implemented). Bill HE 221/2024, committee report StVM 9/2025. Finlex page returned no act text via the fetcher.",
+     "confidence": "likely",
+     "source_url": "https://valtioneuvosto.fi/-/1271139/nikotiinipussien-myyntia-ja-markkinointia-saannellaan-jatkossa-tiukemmin"
+    },
+    {
+     "claim": "OPH guidance (prepared with THL and Valvira, 2025) on the tobacco act banning tobacco product use in schools and institutions exists and confirms the 1.8.2025 expansion; found in search results only, page not opened.",
+     "confidence": "likely",
+     "source_url": "https://www.oph.fi/fi/uutiset/2025/tupakkalaki-kieltaa-tupakkatuotteiden-kayton-kouluissa-ja-oppilaitoksissa-ohje"
+    },
+    {
+     "claim": "Drugs: no source was read on the Narcotics Act (Huumausainelaki 373/2008) or Criminal Code chapter 50 provisions. Rule to state only after check: use and possession of narcotics are criminal; link Finlex and THL/Paihdelinkki. Unverified here.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "Wellbeing services counties and student health care: OPH news says student health care (opiskeluterveydenhuolto) is reformed from autumn 2026; all upper-secondary students (including lukio) complete a digital health survey at the start of studies, carried out by student health care at each institution, with two versions (compulsory-age and adult 19+). Compulsory-age students get a health check in year 1 or 2; adult students as needed; students can always contact student health care themselves. From 2027 the Defence Forces pre-service health check is combined into the doctor's check, run by the wellbeing services county. Education provider must inform students and guardians; THL provided message templates. Legal basis: legislative amendments, not named on the page. The county where the institution is located organises health checks (via a school notice and OPH, secondary). Stable rule: lukio students are entitled to student health care from their wellbeing services county (since 1 Jan 2023); do not state exact check schedules.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/uutiset/2026/digitaalinen-terveyskysely-kayttoon-kaikille-toisen-asteen-opiskelijoille"
+    },
+    {
+     "claim": "Mental health services for young people: service is local and varies by wellbeing services county (VTV audit 15/2024 reports large regional differences; Helsinki's youth therapy guarantee began 1.5.2025). Mielenterveystalo.fi was not read; stable rule: first contact is student health care/school psychologist or curator, then the county's basic-level mental health services; link Mielenterveystalo and county pages.",
+     "confidence": "likely",
+     "source_url": "https://vtv.fi/app/uploads/2024/12/VTV-Tarkastus-15-2024-Nuorten-mielenterveys-ja-paihdepalvelut-hyvinvointialueilla.pdf"
+    },
+    {
+     "claim": "Kriisipuhelin (MIELI ry): 09 2525 0111, open 24 hours every day, anonymous and confidential, in Finnish and Swedish (Swedish page separate).",
+     "confidence": "verified",
+     "source_url": "https://mieli.fi/tuki-ja-apu/kriisipuhelin/"
+    },
+    {
+     "claim": "Sekasin: anonymous free chat for 12-29-year-olds, open every day (weekdays 9-24, weekends 15-24 as read; hours change), coordinated by Sekasin Kollektiivi (Mieli ry referenced via Kollektiivi in sources, not confirmed on page); Apuu-chat for under-16s with a trusted adult daily 9-22; Nettiturvis video appointments via the Red Cross. Link, do not copy the hours.",
+     "confidence": "verified",
+     "source_url": "https://sekasin.fi/"
+    },
+    {
+     "claim": "Myrkytystietokeskus (HUS): 0800 147 111 (free) and 09 471 977, open 24/7, for acute poisoning advice to the public and professionals; life-threatening situations go to 112. The page noted a phone-system update delaying answers and recommended using Maisa. Not for general medicine advice.",
+     "confidence": "verified",
+     "source_url": "https://www.hus.fi/potilaalle/sairaalat-ja-toimipisteet/myrkytystietokeskus"
+    },
+    {
+     "claim": "112 emergency number: not read on a page in this run; well-known stable rule that 112 is the national emergency number, confirmed only in the Myrkytystietokeskus page text for life-threatening cases.",
+     "confidence": "likely",
+     "source_url": "https://www.hus.fi/potilaalle/sairaalat-ja-toimipisteet/myrkytystietokeskus"
+    },
+    {
+     "claim": "Sexual health: THL coordinated a free contraception trial 2022-2023 (under 25, also STI prevention and counselling); most counties continue free contraception for under-25s but ages vary (North Ostrobothnia to 20; South Ostrobothnia reduced to under 20 from Aug 2025). THL proposes national under-25 coverage. Free STI testing rules for youth were not found. Stable rule: contraception, STI testing and counselling are available through student health care or county sexual health services; eligibility and cost vary by county, so link the county page. Sources are news (Yle, MTV), not THL.",
+     "confidence": "likely",
+     "source_url": "https://yle.fi/a/74-20105728"
+    },
+    {
+     "claim": "Kouluterveyskysely: THL's national survey; the 2025 round was done in spring 2025 and results published 17 Sept 2025; lukio years 1-2 national response about 70% (via a Vantaa summary); results open at thl.fi/kouluterveyskysely/tulokset with school, municipality, county and national levels; school-level results not published with fewer than 20 respondents per question (Forssa summary); survey runs every two years (2023, 2025). The THL topic page tried returned 404 and the results page was not opened. Context: from autumn 2026 the digital health survey for new students is a separate, individual health-check tool.",
+     "confidence": "likely",
+     "source_url": "https://www.sttinfo.fi/tiedote/71453701/kouluterveyskysely-2025-lapset-ja-nuoret-tarvitsevat-aikuisten-tukea-terveellisiin-elintapoihin-yha-useampi-voi-puhua-asioistaan-vanhempiensa-kanssa?lang=fi"
+    }
+   ],
+   "recommendations": [
+    "Link, do not copy, for every item; store a read-date per link. Rules safe to state in original words: alcohol 18 (mild) and 20 (strong); under-18 possession ban covers nicotine pouches since 1.8.2025; Kriisipuhelin 24/7; Sekasin ages 12-29; Myrkytystietokeskus 24/7 and 112 for life danger; student health care is the wellbeing services county's service.",
+    "Before the build brief, re-fetch with browser or a second try the failed primary pages: Finlex 549/2016 and 1102/2017 consolidated texts (check the 2026 alcohol amendment and flavour/packaging dates), THL's alcohol, Kouluterveyskysely and sexual health pages, Mielenterveystalo, Ruokavirasto's teen page, and UKK's recommendations landing page.",
+    "Do not print numeric thresholds (activity minutes, sleep hours, fines) on pages until read from the primary document; use 'see the recommendation' links. Sleep needs a primary source; avoid stating 8-10 h until one is found.",
+    "Add a 'what changes' watch-list to the content contract: alcohol act amendments (2026), tobacco act phases (1.2.2026, 1.8.2026), student health care reform (autumn 2026, pre-service check 2027), county-level contraception age limits, Sekasin/Apuu hours, Kouluterveyskysely every two years (next 2027 expected, unverified).",
+    "Teach 'ask your own county's opiskeluterveydenhuolto page' since services and rules vary by wellbeing services county; Myrkytystietokeskus page notes it may redirect to Maisa during system updates, so link both and avoid promising response times."
+   ],
+   "versus_expected": "Expected answer 3 (facts that change are linked with dates, services after the 2023 reform) is confirmed and refined: the biggest new change is the autumn-2026 student health care reform with a digital health survey and the 2027 pre-service check, which the brief did not anticipate. Nicotine pouch possession ban (1.8.2025) and the pending 2026 alcohol-act amendment are also new. Nutrition (2024) and UKK (2019 adult, 2021 7-17) are as expected; there is no separate 13-17 recommendation. Gaps against expectations: sleep guidance, drugs law and Mielenterveystalo are unverified, and several official URLs failed."
+  },
+  {
+   "key": "exam-tasks",
+   "summary": "Terveystieto YO exam (2024, 2026 grading docs read): 120 points, 9 tasks in 3 parts (choose 1 of three 20-p tasks; 2 of three 20-p tasks; 2 of three 30-p tasks). Many tasks are material-based (text/figures/tables), digital (Abitti). Scoring splits task-specific content points from a shared information-processing rubric (concepts, application, analysis, evaluation, argumentation, structure), plus deductions. YTL states past tasks are NOT openly licensed: Examina is teacher-login only; publishing needs rights-holder permission. So the site must link to YTL pages and write only ORIGINAL tasks mirroring structure, never copying. Current exam-structure detail comes only from the 2024 and 2026 hyvän vastauksen piirteet pages; no dedicated YTL terveystieto exam page was found (404s).",
+   "findings": [
+    {
+     "claim": "Spring 2026 terveystieto exam totals 120 points: Part 1 (choose 1, 20 p each): task 1 five-part error-identification (4 p each), task 2 cancer-prevention table completion with material, task 3 definition of health (5+15 p). Part 2 (choose 2, 20 p): social-cognitive theory analysis with text, socioeconomic health differences with two figures, fertility explanation. Part 3 (choose 2, 30 p): health in all policies with text, ethics of food choices, research plan on perceived functional capacity.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2026-03-20_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Spring 2024 exam had the same 3-part, 120-point skeleton, with task variety: 20 true/false statements at 1 p, a five-aspect comparison (4 p each), ordering four explanatory models (5 p per model); Part 2 and 3 tasks on radon, sexual rights, biobank, mushroom foraging, obesity prevalence.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-03-22_TE_fi_vi/grading-instructions.html"
+    },
+    {
+     "claim": "Scoring: content mastery (asiasisällön hallinta) is scored with task-specific criteria, often point bands tied to the number of required elements/perspectives; information processing (tiedonkäsittely) uses a shared rubric (concept use, application, analysis, evaluation, creation, argumentation, structure). In 2024 the split is 10+10 for 20-p tasks and 15+15 for 30-p tasks; one 30-p task had a fixed 15-p information-processing score. Deductions: small errors (up to 3-5 p), one fundamental error (up to 5-8 p), irrelevant content (up to 5 p), exceeding length limits, ignoring format, not referring to the material (typically 3-5 p). Split and deduction values are read from the pages but may change per sitting.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2026-03-20_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "General good-answer features (paraphrased): structured, logically progressing, on topic, fluent language; relevant perspectives chosen; precise concepts; material used and referred to; causes and interactions analysed; claims justified with theory/research and examples; nuanced, critical conclusions; experiential knowledge must be analysed through theory or research.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2026-03-20_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Old exams and materials are in Examina (teachers log in via MPASSid); for teaching, a teacher may copy exam content (e.g. into course exams); no open licence is described; hyvän vastauksen piirteet are in Examina and on a public section of the YTL site per exam session. Research use needs a research permit.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/tietopalvelut/vanhat-kokeet-examina"
+    },
+    {
+     "claim": "YTL's publishing page: exam tasks may include third-party works; law permits reproduction in matriculation-exam contexts, but for other uses the publisher must clear rights with rights holders; earlier publication permissions have expired; the page does not mention CC BY. Consequence: past exam tasks and their materials are not openly licensed and must not be copied into a CC BY site; only link-out. YTL's wording that its exam questions carry no copyright as official statements is not a licence for the third-party materials in them, so the safe rule is link-only.",
+     "confidence": "verified",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/tietopalvelut/koesuoritusten-ja-koetehtavien-julkaiseminen-ja-opetuskaytto"
+    },
+    {
+     "claim": "CC BY 4.0 appears on YTL pages only for a third-party article in the preparatory material (valmistava näyttö) and for Abitti software components, not for exam tasks. This is from a search summary, not a page read.",
+     "confidence": "likely",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/tutkinnon-toimeenpano/taito-ja-taideaineiden-ylioppilaskokeet/valmistava-naytto"
+    },
+    {
+     "claim": "The exam is digital (since 2019, Abitti; Abitti 2 introduced from autumn 2026), which allows material in text, figures and tables and typed answers with length limits. Digital format details are from search summaries only; the length-limit point is also visible in the scoring guide's deduction for exceeding limits.",
+     "confidence": "likely",
+     "source_url": "https://www.ylioppilastutkinto.fi/fi/tutkinnon-toimeenpano/abitti-2-ylioppilastutkinnon-uusi-koejarjestelma"
+    },
+    {
+     "claim": "Task design differs by sitting (the 2024 tasks differ from 2026), so the site should mirror task TYPES (true/false set, compare-on-aspects, order-and-describe, table completion, theory application, figure analysis, explain-and-justify, ethical analysis, research plan, policy explanation with examples), not the topics or wording of particular exams.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-03-22_TE_fi_vi/grading-instructions.html"
+    }
+   ],
+   "recommendations": [
+    "Link, do not copy: list YTL's public hyvän vastauksen piirteet pages per sitting (e.g. the 2026 and 2024 pages) and the Examina entry page as link-out, class 'link-out, all rights reserved / Examina terms'. Do not reproduce task texts, materials, figures or point tables; describe the structure in own words with a date read.",
+    "Write original tasks in three tiers mirroring Part 1/2/3: (A) 20-p style with a short original material (own text or a figure from open data such as a linked THL/Tilastokeskus statistic, with licence checked, or a self-made table); (B) 20-p analysis with material; (C) 30-p essay/ethics/research-plan. Create own materials (invented short texts, own tables) instead of quoting articles; use only open or self-made data and never invent statistics presented as real: label fictional material as such.",
+    "Per task provide: task text, required elements, a model answer (concise, original wording, cites recommendation sources by link), and a scoring guide in the YTL pattern: content points by number of elements plus an information-processing rubric (concepts, application, analysis, evaluation, argumentation, structure) with the same 50/50 split, and a short list of common deductions. State clearly that the site's scoring is practice guidance, not YTL's official scoring.",
+    "Volume per TE1 topic (model-only proposal, grade M): 3 tasks per topic: one short 20-p-style (often with material), one 30-p-style essay or analysis for the topics suited to it, plus 1 quick check (true/false set or error-identification of 5 items for 4 p each). For ~8-9 topics this gives ~24-27 tasks; add 2 mixed full-exam rehearsal sets later (9 tasks, 120 p) that reuse them, after review by a terveystieto teacher.",
+    "Safety and privacy in tasks: no task asks students to disclose own health information; avoid method, weight or calorie numbers in eating, self-harm and substance tasks (CLAUDE.md safe messaging); use fictional case persons; keep sexuality-education tasks to evidence-based, inclusive framing.",
+    "Mirror cognitive command words (explain, compare, justify, evaluate, plan a study) and the habit of requiring reference to material and theory, since the scoring guides penalise missing material references and experience-only answers. Include the TE1 curriculum codes and objectives each task serves (resolved from ePerusteet).",
+    "Human check: a terveystieto teacher must review tasks and scoring guides before wider use, as CLAUDE.md already requires; also check each fact against its dated official link.",
+    "Unresolved: Examina's own terms of use (login page) were not readable; confirm with YTL before any reuse beyond link-out. The brief's phrase 'link-only for a CC BY site' is consistent with what was read: no YTL licence permits adaptation."
+   ],
+   "versus_expected": "Expected answer (material-based tasks, short concept tasks, essays; YTL past exams linkable not copyable; original tasks with model answers and scoring guide suit the site) is largely right but refined. The current exam has no separate 'short concept tasks' category: it is 120 p in three parts with a choice (1 of 3, 2 of 3, 2 of 3) of 20-p and 30-p tasks, with some variety within tasks (true/false, table, comparison). Hyvän vastauksen piirteet are public, task-by-task scoring guides with a content/information-processing split, not just general descriptions. Past exams themselves are not openly accessible (Examina teacher login) and are explicitly not openly licensed. Count per topic was not expected and is proposed here.",
+   "could_not_read": [
+    "https://www.ylioppilastutkinto.fi/ylioppilastutkinto/kokeet/terveystieto (404)",
+    "https://www.ylioppilastutkinto.fi/fi/ylioppilastutkinto/kokeet/terveystieto (404)",
+    "https://www.ylioppilastutkinto.fi/ylioppilastutkinto/tehtavat-ja-hyvan-vastauksen-piirteet (404)",
+    "https://tiedostot.ylioppilastutkinto.fi/kokeet/2026-03-20_TE_fi/ (403)",
+    "Examina terms of use (login-protected, not attempted)",
+    "YTL digital-exam FAQ and Abitti 2 pages were seen only in search results, not read"
+   ],
+   "sources_or_tools": [
+    {
+     "name": "YTL hyvän vastauksen piirteet, terveystieto kevät 2026",
+     "what": "Task structure, points, scoring guides",
+     "url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2026-03-20_TE_fi/grading-instructions.html",
+     "access": "public",
+     "licence": "not stated; treat as link-out"
+    },
+    {
+     "name": "YTL hyvän vastauksen piirteet, terveystieto kevät 2024",
+     "what": "Same structure, different tasks",
+     "url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-03-22_TE_fi_vi/grading-instructions.html",
+     "access": "public",
+     "licence": "not stated; treat as link-out"
+    },
+    {
+     "name": "YTL Vanhat kokeet (Examina)",
+     "what": "Teacher-only archive of past exams",
+     "url": "https://www.ylioppilastutkinto.fi/fi/tietopalvelut/vanhat-kokeet-examina",
+     "access": "login via MPASSid for the archive; info page public",
+     "licence": "all rights reserved; Examina terms"
+    },
+    {
+     "name": "YTL Koesuoritusten ja koetehtävien julkaiseminen ja opetuskäyttö",
+     "what": "Publishing and reuse rules for exam tasks",
+     "url": "https://www.ylioppilastutkinto.fi/fi/tietopalvelut/koesuoritusten-ja-koetehtavien-julkaiseminen-ja-opetuskaytto",
+     "access": "public",
+     "licence": "link-out"
+    },
+    {
+     "name": "Older hyvän vastauksen piirteet PDFs (2013-2020) on info.ylioppilastutkinto.fi",
+     "what": "Historic scoring guides, seen only in search",
+     "url": "https://info.ylioppilastutkinto.fi/hvp/final/2020_k_te.pdf",
+     "access": "public",
+     "licence": "not stated; link-out"
+    }
+   ]
+  },
+  {
+   "key": "safety-inclusion",
+   "summary": "Safety and inclusion research for terveystieto TE1. Coverage is partial because many primary Finnish pages were not readable. Verified: WHO 2023 media guidance on suicide reporting (page summary only), UNESCO 2018 guidance existence and framing, Scottish What Works review on fear-arousal ineffectiveness, EHYT school-programme design (anonymous voting, no forced personal disclosure). Likely: Finnish suicide-reporting norms (JSN, journalists' union with THL), Mieli toolkit, WHO Europe standards structure. Not found at primary level: Syömishäiriöliitto writing guidance, THL sexuality education guidance for LGBTQ+ inclusion, current Kriisipuhelin details. The rules below separate what is source-backed from what is a model-derived design rule the producer should mark M.",
+   "findings": [
+    {
+     "claim": "WHO 2023 resource for media professionals on reporting suicide (35 pages): stories of recovery from suicidal crisis are linked to fewer suicides; widely circulating stories of suicide deaths can be followed by more suicides; digital/social media carry specific risks. The detailed do/don't list is only in the PDF, which was not read.",
+     "confidence": "verified",
+     "source_url": "https://www.who.int/publications/i/item/9789240076846"
+    },
+    {
+     "claim": "IASP ties responsible communication about suicide to promoting hope and help-seeking, and points to a Language Guidelines resource; its principles were cut off in the fetch.",
+     "confidence": "likely",
+     "source_url": "https://www.iasp.info/resources/Media_Professionals/"
+    },
+    {
+     "claim": "Finnish media norm (JSN recommendation, per a Kaleva column and a Yle article via search snippets): avoid method, time and place details unless there is a specific reason, avoid dramatising or normalising, and name support services. Not read on a primary page.",
+     "confidence": "likely",
+     "source_url": "https://www.kaleva.fi/pelko-ei-saa-estaa-keskustelua-itsemurhista/11743575"
+    },
+    {
+     "claim": "Mieli ry has a communication toolkit ('Kuinka viestiä mielenterveydestä ja sen häiriöistä', section on suicide), cited by Orygen #chatsafe as the Finnish source; the toolkit itself was not found on mieli.fi/en and was not read.",
+     "confidence": "likely",
+     "source_url": "https://orygen.org.au/chatsafe/Resources/International-guidelines/finland-flag"
+    },
+    {
+     "claim": "Mieli English page lists Crisis Centre Helsinki 09 4135 0510 and general phone 09 615 516 only; it gave no dedicated crisis line number. Kriisipuhelin and Mielenterveystalo URLs I guessed returned 404, so current crisis-line numbers and hours must be read from the official page before use (rule 4 requires dated links).",
+     "confidence": "verified",
+     "source_url": "https://mieli.fi/en/"
+    },
+    {
+     "claim": "Eating disorders: no Syömishäiriöliitto (SYLI) writing guideline on weights or numbers was found. Related reads (search snippets only): SYLI urges parents to watch how they talk about their own appearance; SYLI runs the Älä laihduta campaign; SYLI's director links fear of obesity and stigmatising talk to eating disorder onset; a Finnish government-funded stigma project exists. The 'no numbers, no body comparison' rule in CLAUDE.md is therefore a model-derived design rule, not source-backed.",
+     "confidence": "unverified",
+     "source_url": "https://www.jyu.fi/fi/uutinen/lihavuuden-stigma-vaikuttaa-kaikilla-elamanalueilla-laajakantoisin-seurauksin"
+    },
+    {
+     "claim": "Scottish Government 'What Works' drug education review: fear-based approaches including scared-straight programmes are ineffective at reducing drug use; UNODC lists fear-arousal information among approaches with no or harmful effect; ACMD and EDPQS advise not funding them, as some may increase the behaviour.",
+     "confidence": "verified",
+     "source_url": "https://www.gov.scot/publications/works-drug-education-prevention/pages/7/"
+    },
+    {
+     "claim": "EHYT guidance (per search snippets): substance education should be truthful and not scaremongering; interactive methods are said to work better; EHYT says ex-user/personal experience stories have not been shown to have desired effects on youth attitudes or later use. EHYT lesson 'Hubu' (grades 7-9) uses an anonymous interactive voting system for questions about own use and attitudes, and 'Juteltaisko?' uses fictional stories so pupils need not reveal personal experiences.",
+     "confidence": "likely",
+     "source_url": "https://ehyt.fi/wp-content/uploads/2025/10/Paihdekasvatus_kouluissa_ja_oppilaitoksissa_verkkoon_2026.pdf"
+    },
+    {
+     "claim": "UNESCO International Technical Guidance on Sexuality Education (2018, with UNAIDS, UNFPA, UNICEF, UN Women, WHO): grounded in human rights and gender equality, evidence-informed, positive and affirming. The page does not report specific outcomes, age bands or LGBTQ+ content; the full text (unesdoc) returned 403.",
+     "confidence": "verified",
+     "source_url": "https://www.unesco.org/en/articles/international-technical-guidance-sexuality-education-evidence-informed-approach"
+    },
+    {
+     "claim": "WHO Regional Office for Europe and BZgA, Standards for Sexuality Education in Europe (2010): framework with a matrix by age band (0-4, 4-6, 6-9, 9-12, 12-15, 15+) and information, skills and attitudes columns. Content cells not read.",
+     "confidence": "likely",
+     "source_url": "https://www.icmec.org/wp-content/uploads/2016/06/WHOStandards-for-Sexuality-Ed-in-Europe.pdf"
+    },
+    {
+     "claim": "Finnish sexuality education sources: Väestöliitto offers school sexuality-education lesson templates and materials (Tuntipohjia seksuaalikasvatukseen; Nuorten seksuaalikasvatus; Turvataitokasvatus for lukio). Whether they cover sexual and gender diversity was not confirmed. No official THL school guidance on LGBTQ+ inclusion was found. A lead: the Amnesty-led OPH-funded project 'Suostumus ja sateenkaari koulussa' with THL's Tasa-arvotiedon keskus as partner.",
+     "confidence": "likely",
+     "source_url": "https://www.vaestoliitto.fi/tuntipohjia-seksuaalikasvatukseen/"
+    },
+    {
+     "claim": "Privacy and trigger warnings: no primary source was read. The rules for no disclosure of own health data, browser-only storage and content notes are derived from CLAUDE.md and standard practice (design rules, grade M), with EHYT's anonymous-vote and fictional-story methods as a Finnish precedent.",
+     "confidence": "unverified"
+    }
+   ],
+   "recommendations": [
+    "WRITING RULES, suicide and self-harm: no method, place, time or note details; no dramatic, romanticised or 'reason' explanations; do not present suicide as a solution or as common-by-numbers inside lesson material; foreground recovery, coping and help-seeking; put a help box (112 for emergencies, Kriisipuhelin, student health care, school counsellor, with dated official links) on every page that touches mental health; use neutral wording ('kuoli itsemurhaan', not 'onnistui' or 'epäonnistui'). Mark as M until the Mieli toolkit, JSN recommendation and WHO PDF are read.",
+    "WRITING RULES, eating disorders: no weights, BMI targets, calories, portion amounts for restriction, or before/after body images; no named diets or 'clean eating' framing; teach recognition (preoccupation, control, secrecy), that eating disorders affect every gender and body size, and where to seek help; do not describe behaviours step by step. Treat as M; get SYLI or Syömishäiriökeskus wording read before build. Use the stigma and 'no weight talk' material as framing for weight neutrality.",
+    "WRITING RULES, substances: factual, proportionate, non-moralising; no fear-arousal, no horror images, no 'scared straight' ex-user testimonies as the main tool (evidence: Scottish review, EHYT). Prefer interactive tasks: myths vs facts, norm perception, refusal and social-influence skills, decision cases with fictional characters, law and services links. Never ask a student to state their own use; use fictional cases or anonymous, browser-only checks.",
+    "WRITING RULES, sexuality education: frame as positive, rights-based and evidence-informed (UNESCO 2018, WHO Europe 2010); cover consent, relationships, pleasure-neutral health (contraception, STI testing, services), sexual diversity and gender diversity as ordinary content, not a special-topic box; use gender-neutral language and examples with varied relationships; no heteronormative defaults; no fear- or abstinence-only framing. Before build, read the UNESCO full PDF (try a different mirror), the WHO Europe matrix 15+ row, and Väestöliitto's diversity pages; ask the human reviewers to check inclusion.",
+    "WRITING RULES, body positivity and weight neutrality: talk about health behaviours and resources, not body size; no 'ideal' body images or comparisons; avoid 'lihavuusepidemia' framing and stigmatising wording; do not use weight as a proxy for health; show varied bodies and abilities in images.",
+    "PRIVACY RULES: no task asks students to disclose their own health, family, sexual orientation, substance use or mental-health status to the site or class; use fictional characters, anonymous polls, and private reflection stored only in the browser; make every reflective task skippable with an alternative; no accounts, analytics or forms (CLAUDE.md). State in the teacher notes that students may always pass.",
+    "CONTENT NOTES: put a short content note at the top of any page covering suicide, self-harm, eating disorders, substances, violence or sexuality (what the page covers, that students may step out or skip the task, where help is), without graphic detail; keep the same help box at the bottom. Sequence heavy topics so they are not the last item before a break. Treat the exact wording as M.",
+    "LESSON-PLAN RULES: teacher notes list 'before the lesson' (check the help box, tell students about school health services, set ground rules: no personal disclosures, respect, right to pass), 'if a student discloses' (do not probe in class, take it privately, follow school student-welfare procedure and the child-protection duty in Finnish law, to be read from Finlex/OPH), and 'if a discussion goes off track'. Do not ask for a show of hands on sensitive items. Use anonymous or fictional prompts. Offer a quiet alternative task.",
+    "BEFORE BUILD: read the primary pages that failed or were only seen in snippets: WHO PDF (do/don't list), Mieli toolkit, JSN recommendation, THL/journalists' checklist, SYLI guidance, UNESCO PDF, WHO Europe matrix 15+, current Kriisipuhelin and Mielenterveystalo help page, Väestöliitto diversity pages. Add a human reviewer for safe messaging (a mental-health professional) alongside the teacher and health professional already planned.",
+    "Record in the brief that the CLAUDE.md rule 'no numbers that invite comparison' is a model-derived design rule where no source states it, and cite the closest sources (WHO media guidance, SYLI stigma/appearance-talk material) as supporting, not as proof."
+   ],
+   "versus_expected": "Expected answer 5 (safe messaging for suicide, self-harm and eating disorders; UNESCO and THL or Väestöliitto for sexuality education; scare tactics fail) is partly confirmed. Confirmed on primary pages: WHO 2023 suicide-reporting resource, UNESCO 2018 guidance, and that fear arousal fails in substance education (Scottish review). Refined: the Finnish suicide and eating-disorder guidance could not be read on primary pages (found only via snippets, or not at all), no THL guidance on LGBTQ+ inclusion in sexuality education was found, and the Finnish source for ineffective scare tactics is only EHYT snippets, so the claim rests on the international review. Crisis-line details and URLs need re-reading before use."
+  },
+  {
+   "key": "base-site",
+   "summary": "The opinto-ohjaus (OP) site is a clean base for terveystieto, with two caveats. First, the engine is not extracted yet. lukio-runko does not exist, and brief 008 is only a written plan (the pipeline still hard-codes OP1/OP2, peruste 6828810, S/H and the OP site name in about 23 places in 8 files). Second, an OP topic has no section for exam-style tasks or model answers. TE1 must therefore follow brief 008's planned numeric assessment type (adds ## Koetehtävät and ## Mallivastaukset, build-checked), or temporarily fork the contract. Everything else (front matter, fixed sections, 75/60/45 lesson tables, dated-link rule, yearly-facts, localStorage-only progress path, print pages, no-external-resources check, CC BY footer) can be reused as is. The diaries and judgements give concrete traps to avoid from day one, listed below. Topic 04-hyvinvointi shows the form and the safety posture, but its content is a guidance-counselling view of wellbeing, so TE1 needs its own deeper health-knowledge topics and should link to it rather than restate it. All sources are local files read on 2026-11-21 under lukion-opinto-ohjaus and lukion-terveystieto.",
+   "findings": [
+    {
+     "claim": "OP site rules that apply unchanged to terveystieto: written-before briefs; decision grades O/A/M; curriculum fidelity; dated facts; judge outside the author; diary with a Seed after every brief; code limits (500 lines, ruff, offline tests); privacy (no accounts, analytics or forms, progress only in localStorage); inclusive and neutral; WCAG 2.1 AA; original text only. The terveystieto CLAUDE.md already copies these and adds health and safety rules (no medical advice, safe messaging, no scare tactics, privacy for health information).",
+     "confidence": "verified",
+     "source_url": "lukion-opinto-ohjaus\\CLAUDE.md"
+    },
+    {
+     "claim": "Content contract, reusable as is: topic file content/topics/NN-slug.md with YAML front matter (id, module, order, title, summary, curriculum codes, law, suggested_timing, role, duration_options [45,60,75], self_study_minutes, prerequisites, official_links with read dates, yearly_facts, school_adapts, materials, accessibility, last_reviewed). Fixed H2 order: Opiskelijalle (300-600 words, opens with 'Osaan' outcomes), Tehtävät (1-3 tasks, 5 numbered steps max, offline alternative), Pohdinta (with self-assessment on a four-step scale), Itseopiskelun askel, Tuntisuunnitelma (75 min) with ### 60 min and ### 45 min tables whose Min column the build sums, Eriyttäminen, Milloin opinto-ohjaajalle, Lähteet (generated).",
+     "confidence": "verified",
+     "source_url": "lukion-opinto-ohjaus\\docs\\content-contract.md"
+    },
+    {
+     "claim": "Build checks that fail the build and carry over: unknown curriculum code; objective or content area not covered by any topic; missing or out-of-order section; plan minutes not adding to the stated length; link with no read date or older than 12 months; a yearly figure (date, euro, percentage, year from 2025) next to a yearly fact; any external resource that is not a plain link; an external body link not listed in official_links. LOO_TODAY sets the date for the age check; build --partial is for development only.",
+     "confidence": "verified",
+     "source_url": "lukion-opinto-ohjaus\\docs\\content-contract.md"
+    },
+    {
+     "claim": "Data layer: data/curriculum.yaml is fetched from the ePerusteet API by pipeline/fetch_curriculum.py with codes like OP1.t1..t9, OP1.s1..s8, OP.yt1..yt11, so topic files never type curriculum wording and the build resolves codes. Subject-specific constants there: PERUSTE_ID 6828810, MODULE_IDS {OP1: 6835293, OP2: 6835294}, EXPECTED_COUNTS, and a group map {OP1:1, OP2:2, OP:0}. TE1 needs the same fetcher with the terveystieto oppiaine and TE1-TE3 module ids and counts, which the curriculum researcher must supply from ePerusteet.",
+     "confidence": "verified",
+     "source_url": "lukion-opinto-ohjaus\\pipeline\\fetch_curriculum.py"
+    },
+    {
+     "claim": "Subject-specific code spots that brief 008 says move into subject.yaml: pipeline/models.py (MODULES=('OP1','OP2'), CODE_PATTERN for OP1/OP2/OP.yt), pipeline/checks.py ('must be OP1 or OP2'), pipeline/build.py (loop over OP1, OP2), pipeline/layout.py (op1/op2 routes), pipeline/views_site.py (module lists, token module_codes:OP1/OP2, ePerusteet source line), templates/base.html (site name and CC BY credit line naming the OP site and its Pages address). Brief 008 plans: site name, short name, address; ePerusteet ids and codes; assessment type sh or numeric; contract sections per assessment type; licence line; module routes; a golden byte-identical build check and a two-topic numeric test subject.",
+     "confidence": "verified",
+     "source_url": "lukion-opinto-ohjaus\\prompts\\008-shared-engine.md"
+    },
+    {
+     "claim": "State of the shared engine: the src folder has no lukio-runko folder, and lukion-terveystieto holds only CLAUDE.md, LICENSE, decisions, docs, prompts, templates, tmp and .claude/workflows. Brief 008 is a written plan; I found no evidence it has run. TE1 content cannot build until 008 is done, or the producer chooses to build the engine as part of the first terveystieto build brief.",
+     "confidence": "likely",
+     "source_url": "lukion-opinto-ohjaus\\prompts\\008-shared-engine.md"
+    },
+    {
+     "claim": "The OP pipeline is small and reusable: build.py 145 lines, checks.py 402 (limit 500, so adding numeric checks needs a split), loaders.py 110, models.py 136, views_topic.py 279, views_site.py 300, plan.py 55, sitemap.py 54, markdown_render.py 84, site_checks.py 149, images.py 255. Tests: 87 pass, no network (ruff clean). Workflow scripts (scout.js, build-site.js, fix-content.js, images.js) take the root as a required argument, as the diary demands.",
+     "confidence": "verified",
+     "source_url": "lukion-opinto-ohjaus\\docs\\review\\2026-11-21-brief-005-judgement.md"
+    },
+    {
+     "claim": "What a graded subject must add. OP has no model answers because OP is assessed S/H (the contract says 'No model answers'). Terveystieto is graded 4-10 and is a matriculation exam subject, so each topic needs: ## Koetehtävät (original exam-style tasks, with stated type, e.g. material-based, concept, essay) and ## Mallivastaukset (model answer plus a scoring guide, per task). The sections must be checked by the build under assessment: numeric. The contract's rule 'No model answers' must become 'model answers required' for this subject, and a fixed place for them in the section order must be set. Brief 008 already names the two headings.",
+     "confidence": "verified",
+     "source_url": "lukion-opinto-ohjaus\\prompts\\008-shared-engine.md"
+    },
+    {
+     "claim": "Proposed contract additions for numeric assessment (my design, not yet decided): (1) front matter: assessment_objectives mapping each exam task to curriculum codes, exam_task_types, and a licence-class list for linked materials (open, link-out, excluded) per the terveystieto CLAUDE.md rule 5; (2) Koetehtävät: 2-4 tasks with points and time, using only original text and linked, not copied, sources for the material; (3) Mallivastaukset: for each task a model answer, a scoring guide in points with the features that earn them, and a note on common wrong answers; (4) a build check that every Koetehtävä has a model answer and a score total, and that no task text matches YTL wording; (5) a 'reviewed by' status line, since CLAUDE.md says the site must state that no teacher or health professional has reviewed it yet; (6) a no-numbers rule check for safe-messaging pages.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "The contract's no-figure rule (yearly facts, linked not typed) fits terveystieto well, but needs new yearly-facts keys. OP keys are YTL dates, fees, Kela etc. Terveystieto needs, for example: nutrition recommendations, physical activity recommendations, sleep recommendations, alcohol, tobacco and nicotine, and drug laws, student health care and the wellbeing services counties, crisis lines, Kouluterveyskysely results. The stable_figures exemption exists for rare cases. Exam-score numbers and health thresholds (hours of sleep, minutes of activity, units of alcohol) must be treated as yearly-style figures or stated only as links, and the figure scanner must be reviewed for health numbers.",
+     "confidence": "likely",
+     "source_url": "lukion-opinto-ohjaus\\docs\\content-contract.md"
+    },
+    {
+     "claim": "Style guide to reuse: 'sinä' voice to the student, collegial to the counsellor (here the teacher; rename role strings: 'Ohjaajan rooli' becomes 'Opettajan rooli', 'Milloin opinto-ohjaajalle' becomes a health-help section); plain Finnish (sentences under 15 words); glossary of official forms; 'Osaan' outcomes mirroring curriculum meaning without copying wording; tasks as H3 with bold Aika, Tarvitset, Ilman laitetta lines and at most 5 single-action steps; fictional mixed neutral names marked kuvitteellinen; lesson table columns Vaihe|Min|Toiminta|Ohjaajan rooli|Vaihtoehto|Jos aika loppuu with the template 5/10/10/25/10/10/5; Valmistelu, Avoimet kysymykset (5-8), Pelisäännöt ja oletusten tarkistus; no stereotyping; every route equal. The glossary must be replaced by a terveystieto glossary (terveys, toimintakyky, terveyden determinantit, terveyslukutaito, opiskeluterveydenhuolto, etc.).",
+     "confidence": "verified",
+     "source_url": "lukion-opinto-ohjaus\\docs\\style-guide.md"
+    },
+    {
+     "claim": "Topic 04-hyvinvointi (overlaps TE1) is the safety model: it states stable ideas (hyvinvointi, toimintakyky, opiskelukyky, voimavarat, kuorma), avoids numbers and diagnoses, puts help links with read dates, a 112 line, MIELI Kriisipuhelin, Sekasin-chat, Mielenterveystalo and Ohjaamo, says asking for help is normal, uses fictional cases (Veeti, Aino, Jonna) and tells students to keep health information in their own notes, not in the shared HOPS. Its tasks (wellbeing map 15 min, find help 10 min, three fictional cases 10 min) have fixed times typical of the 'same times everywhere' trap. It carries no health facts about sleep, nutrition, activity, substances, sexuality or health literacy, so TE1 is not duplicated by it, but it stands in for the 'mental health' content area at guidance depth.",
+     "confidence": "verified",
+     "source_url": "lukion-opinto-ohjaus\\content\\topics\\04-hyvinvointi.md"
+    },
+    {
+     "claim": "Lesson 1 from the build diary: writers copied the sample topic's fixed task times (15/10/10) into every topic; the diary's seed asks whether the sample should carry three different task lengths. Apply: write the TE1 sample topic first, with deliberately different task times, plan phases and task counts, and tell writers to copy the reasoning, not the numbers.",
+     "confidence": "verified",
+     "source_url": "lukion-opinto-ohjaus\\docs\\diary\\2026-11-21-build-site.md"
+    },
+    {
+     "claim": "Lesson 2: the judge ruled on the round-0 items while the last checker round still had open items. Apply: give the judge the final recheck's open items as the list it must rule on; do not accept on an earlier round. The brief 004 judge did this and accepted with minors; two open items were wrong statements about the curriculum and the law, one-line fixes that must be made before a push.",
+     "confidence": "verified",
+     "source_url": "lukion-opinto-ohjaus\\docs\\review\\2026-11-21-brief-004-judgement.md"
+    },
+    {
+     "claim": "Lesson 3: 'offline alternative' that still says 'read the cases on this page' is not offline. Heuristic: imagine the student with only paper and the printed lesson, nothing else. Apply: every Ilman laitetta line must say how to copy the case first or to invent one; no task needs a counsellor's printer or the page. Known issues still list this in the OP topics.",
+     "confidence": "verified",
+     "source_url": "lukion-opinto-ohjaus\\docs\\diary\\2026-11-21-lesson-quality.md"
+    },
+    {
+     "claim": "Lesson 4: HOPS privacy. HOPS is a document shared with the school, so prompts that could disclose a support need or health data were a must-fix item. Every OP topic now says 'koulun kanssa jaettu' (3-6 times each) and tells students to write only what they want to share and to keep health matters in their own notes. For terveystieto, where nearly every task touches health, this is more important: no task, HOPS line, exit slip or group task asks for one's own health, sleep, eating, substance, sexuality or mood information; group work uses fictional cases; exit slips are anonymous or optional. Link TE1 to OP topic 06 (HOPS) for this reason.",
+     "confidence": "verified",
+     "source_url": "lukion-opinto-ohjaus\\docs\\review\\2026-11-21-brief-004-judgement.md"
+    },
+    {
+     "claim": "Lesson 5: plan lengths must keep the goal task or name what a shorter plan leaves out; 45-minute plans repeatedly contradicted their own goal (topics 13, 15, 14, 18, 09), and brief 005 had to fix the 45-minute HOPS row (topic 18 at 9 minutes). Apply: the build should check, or a checker should verify, that Tavoite, plan rows, 'Jos aika loppuu' and task steps agree for each length. Open known issue: bundled actions in one task step against the style guide's one-action rule.",
+     "confidence": "verified",
+     "source_url": "lukion-opinto-ohjaus\\docs\\known-issues.md"
+    },
+    {
+     "claim": "Lesson 6: outcomes that no required task practises (03, 04, 05, 06, 18) were found twice; the diary seed asks for a build check that every 'Osaan' outcome is named in a task step. Apply from the start to TE1; also because exam-style tasks give a natural way to practise each outcome.",
+     "confidence": "verified",
+     "source_url": "lukion-opinto-ohjaus\\docs\\diary\\2026-11-21-lesson-quality.md"
+    },
+    {
+     "claim": "Lesson 7: legal and curriculum wording errors survived to the final recheck (the 'syventävät ja soveltavat' split from LOPS 2015, the yo-exam structure). Apply: facts checker on every legal and curriculum statement against the live Finlex or ePerusteet page, and 'poikeuksista katso ...' wording for rules with exceptions. For terveystieto the same risk sits in alcohol, tobacco, drug and sexual-health law and in nutrition and activity recommendations.",
+     "confidence": "verified",
+     "source_url": "lukion-opinto-ohjaus\\docs\\review\\2026-11-21-brief-004-judgement.md"
+    },
+    {
+     "claim": "Lesson 8, publishing hygiene: local paths in workflow scripts, prompts and the image tool, and game-engine details in briefs, had to be fixed before a push; the repository went public before the last scan (D-010). Apply: the pre-publish scan (grep for a drive letter and a user folder) before the first push, root as a required argument, no default paths, no machine details (drive, pid, port) in diaries. The terveystieto CLAUDE.md already has the rule; this brief's own text names the src folder paths, so it should be swept before commit.",
+     "confidence": "verified",
+     "source_url": "lukion-opinto-ohjaus\\docs\\diary\\2026-11-21-polish-and-publish.md"
+    },
+    {
+     "claim": "Lesson 9, images: p-image turns 'four scenes' into six; ask for one scene per image and put counts in diagrams, where the checker can read them. A full scratch drive stopped klein, and illustrations were made on p-image at $0.005 each; total spend $0.47 of the EUR 10 grant. For terveystieto, avoid pictures of bodies, food quantities, scales and substances; prefer neutral scenes and diagrams, and check the 'no people on a gender role' rule. Terveystieto CLAUDE.md sets money at EUR 0 apart from images within a budget the operator sets, so a budget must be asked for.",
+     "confidence": "verified",
+     "source_url": "lukion-opinto-ohjaus\\docs\\diary\\2026-11-21-images.md"
+    },
+    {
+     "claim": "Known open issues in the OP site that terveystieto should not inherit: print shows all three lengths one after another (about 13 pages; want one length per print); 'Tuntisuunnitelma (75 min)' followed by bare '60 min' and '45 min' headings; lesson-view links do not mark the current page; polku page without JavaScript shows dead buttons; mixed date formats; Topic 09 'Varusmiespalvelus' vs 'Asepalvelus'. These fit as engine-level fixes before the second site, because a fix in the engine reaches both sites.",
+     "confidence": "verified",
+     "source_url": "lukion-opinto-ohjaus\\docs\\known-issues.md"
+    },
+    {
+     "claim": "The site structure to inherit: / with two doors (here Opettajalle and Opiskelijalle), /te1/ module pages with exact objectives and a coverage matrix, /te1/NN-slug/ student view and /tunti/ lesson view, /polku/ self-study path with localStorage key (loo:v1, to be renamed per subject, e.g. te:v1, so two sites on different origins do not matter but a copied script would), /tulosta/te1/, /opetussuunnitelma/, /lahteet/, /tietosuoja/, /saavutettavuus/. Terveystieto adds a place for exam tasks (inside each topic, plus an index page /koetehtavat/ is my suggestion) and a safe-messaging and review-status page.",
+     "confidence": "likely",
+     "source_url": "lukion-opinto-ohjaus\\docs\\content-contract.md"
+    },
+    {
+     "claim": "Which OP topics TE1 should link to (cross-site links to https://sheikkinen.github.io/lukion-opinto-ohjaus/, to be built as plain links with read dates): 04-hyvinvointi (study wellbeing, help routes; the closest overlap); 03-ajankaytto (time use, recovery, sleep in daily rhythm); 02-opiskelutaidot (learning to learn, stress before exams); 06-hops (privacy of the shared HOPS and where to put a wellbeing line); 08-tietolahteet (source criticism, online discussion, finding reliable information, for health literacy); 05-itsetuntemus (strengths, values, for 'health as a resource'); 07-ylioppilastutkinto and 10-suunnitelmien-paivitys (the exam plan; the terveystieto exam is a reaaliaine and spreading exams over sessions); 17-talous-ja-asuminen (money and housing as health factors, cautiously). OP topics for later TE2/TE3: 12-tyoelama-ja-ennakointi (working life and health), 16-kansainvalisyys. Topics 09, 11, 13-15 and 18 are not linked.",
+     "confidence": "likely",
+     "source_url": "lukion-opinto-ohjaus\\content\\topics"
+    },
+    {
+     "claim": "Cross-site linking has a build-check implication: the contract requires every external body link to be in official_links with a read date, and links to the OP site are external for the terveystieto build. They should be listed with publisher 'Lukion opinto-ohjaus' and a read date, or the engine should accept a sibling-site link type. The OP topic ids may change, so link only to topic page addresses and record the read date.",
+     "confidence": "likely",
+     "source_url": "lukion-opinto-ohjaus\\docs\\content-contract.md"
+    },
+    {
+     "claim": "The OP research already recorded: terveystieto 14,567 matriculation registrations in 2026; a TE1 course shell under CC BY-SA (aoe.fi); the pilot scope (8-9 topics, original exam-style tasks and model answers, about 40 agents and 5 million tokens, reviewed by a teacher, a health professional and an inclusivity check); YTL exam tasks cannot be copied into CC BY material, only linked; and items not verified (Finlex 1214/2020, aoe.fi not searchable). The earlier figures are from the OP repository's research report, not re-read here.",
+     "confidence": "likely",
+     "source_url": "lukion-opinto-ohjaus\\docs\\research\\2026-11-21-cc-by-need.md"
+    },
+    {
+     "claim": "Roles and models carry over: Haiku for rule-based checks, Sonnet for research, writing and checks, Opus for design and the judge; builders own separate files; checkers and the judge wrote nothing they check. The terveystieto CLAUDE.md adds human reviewers (a terveystieto teacher and a health professional) and says the site states the lack of review until then; the OP site had no such step.",
+     "confidence": "verified",
+     "source_url": "lukion-terveystieto\\CLAUDE.md"
+    }
+   ],
+   "recommendations": [
+    "Start with the engine: run brief 008 first (or fold it into the first terveystieto build brief), because nothing builds until lukio-runko exists with subject.yaml and assessment: numeric. Run the golden byte-identical check on the OP site, and fix the engine-level known issues (print one length only, headings, no-JS buttons) while the code is open.",
+    "Split pipeline/checks.py (402 of 500 lines) before adding the numeric checks (Koetehtävät and Mallivastaukset present, points add up, every outcome named in a task step, no task text copied from YTL).",
+    "Write the TE1 contract addendum before any topic: add Koetehtävät and Mallivastaukset (with scoring guide and common wrong answers) after Tehtävät, rename counsellor roles to teacher roles, add a licence class (open, link-out, excluded) per linked material, a reviewed-by status line, a safe-messaging flag on topics about suicide, self-harm, eating disorders and substance use (no methods or numbers, help links on the page), and a health-figures rule so sleep hours, activity minutes and alcohol units are linked and not typed.",
+    "Write the sample topic first (suggest the health-as-a-whole topic, which has no safe-messaging risk), with three clearly different task times, offline alternatives tested against paper only, one exam-style task of each type, and a worked scoring guide. Have all writers copy its reasoning, not its numbers.",
+    "Use topic 04-hyvinvointi in OP only as a link target and a safety template. Do not copy its text (it is CC BY and could be adapted with credit, but it is guidance-counsellor-shaped); TE1's mental-health topic should go deeper on health knowledge and link to it for study wellbeing and help routes.",
+    "Apply the HOPS privacy line to every TE1 task and exit slip: only fictional cases in groups; nothing about the student's own health goes into the shared HOPS; exit questions optional or anonymous. Link to OP topic 06.",
+    "Give the judge the final recheck's open items, not the first round's; ask the facts checker to read every law and recommendation page live, and make legal rules say 'poikeuksista katso ...' where exceptions exist.",
+    "Before the first push, run the pre-publish scan for drive letters, user folders and machine details, and sweep this research brief and its workflow arguments for drive-letter paths; keep the root as a required argument.",
+    "Link to these OP topics from TE1 (as plain, dated external links): 04, 03, 02, 06, 08, 05, 07, 10, and 17 with care; later 12 and 16 for TE2/TE3. Create the site-to-site link type in the engine so the read-date check does not fail.",
+    "Ask the operator for an image budget before any illustrations (CLAUDE.md allows it only within a budget the operator sets), and prefer diagrams with counts that a checker can read, and neutral scenes without bodies, food quantities or substances."
+   ],
+   "versus_expected": "The brief's expected answer for this aspect (item 6 and the cross-cutting notes: topic structure, 75/60/45 plan, tasks, reflection, exam-style tasks with model answers, linked materials with licence class) is right in outline but refined in three ways. (1) The engine does not exist yet: brief 008 is only a plan and lukio-runko is missing, so the TE1 build depends on it. (2) The contract has no slot for model answers (it forbids them for OP) and the numeric assessment sections exist only as names in brief 008, so the TE1 addendum must define Koetehtävät, Mallivastaukset and the scoring-guide format and their checks. (3) The OP site gives a stronger list of traps than the brief assumed (fixed task times, fake-offline tasks, 45-minute plans that miss their goal, uncovered outcomes, wrong legal statements, local paths, judge ruling on the wrong round), all listed above for use from the first brief. I could not check from local files whether a live sibling-site link passes the read-date check, nor the real ePerusteet ids for terveystieto, which belong to the curriculum researcher.",
+   "sources_or_tools": [
+    {
+     "name": "lukion-opinto-ohjaus CLAUDE.md, content contract, style guide, known issues",
+     "what": "Rules, contract, voice and open defects of the base site",
+     "url": "lukion-opinto-ohjaus\\docs",
+     "access": "local read",
+     "licence": "CC BY 4.0 (D-008)"
+    },
+    {
+     "name": "Topic 04-hyvinvointi",
+     "what": "Sample wellbeing topic, safety and privacy model, overlaps TE1",
+     "url": "lukion-opinto-ohjaus\\content\\topics\\04-hyvinvointi.md",
+     "access": "local read",
+     "licence": "CC BY 4.0"
+    },
+    {
+     "name": "Briefs 002-005 judgements and diaries",
+     "what": "Lessons from the build, quality, images and publish rounds",
+     "url": "lukion-opinto-ohjaus\\docs\\review",
+     "access": "local read",
+     "licence": "CC BY 4.0"
+    },
+    {
+     "name": "Brief 008 shared engine",
+     "what": "Plan for subject.yaml, numeric assessment, golden check, lukio-runko",
+     "url": "lukion-opinto-ohjaus\\prompts\\008-shared-engine.md",
+     "access": "local read",
+     "licence": "CC BY 4.0"
+    },
+    {
+     "name": "pipeline/ (fetch_curriculum, models, checks, build, layout, views_site)",
+     "what": "Subject-specific constants and the code the engine will take over",
+     "url": "lukion-opinto-ohjaus\\pipeline",
+     "access": "local read",
+     "licence": "CC BY 4.0"
+    }
+   ],
+   "could_not_read": [
+    "lukio-runko (does not exist; the shared engine has not been extracted)",
+    "docs/review/*.md judgements were read only up to their first 5000 characters each (briefs 002-005); the full text of the brief 002 open-items JSON was not read",
+    "Full text of the OP topics other than 04 (only front matter and titles of 01-03, 05-12 were read)",
+    "pipeline/checks.py, build.py, views_*.py were read only by grep for subject-specific lines, not line by line"
+   ]
+  }
+ ],
+ "critic": {
+  "gaps": [
+   "UNVERIFIED, matters for TE1 topic 05 (liikunta, lepo, uni): no primary source for a sleep recommendation. Secondary sources conflict (8-10 h vs 8-9 h attributed to THL). The site must state no hours until THL, Terveyskylä or Mielenterveystalo is read.",
+   "UNVERIFIED/LIKELY: the activity figures for ages 7-17 and 18-64 were not extracted from the UKK PDFs, only from secondary or search summaries. Link the UKK page https://www.ukkinstituutti.fi/liikkumisensuositus/ (which one researcher read, updated 31.1.2025) and type no minutes.",
+   "CONTRADICTION, resolved: the facts researcher got a 404 on the guessed UKK landing page, while the materials researcher read https://www.ukkinstituutti.fi/liikkumisensuositus/. Use the second.",
+   "CONTRADICTION, resolved by spot-check: the safety researcher found no crisis line on mieli.fi/en and got 404 on guessed URLs. The facts researcher read https://mieli.fi/tuki-ja-apu/kriisipuhelin/. I re-read it on 2026-11-21: 09 2525 0111, 24/7, Finnish and Swedish.",
+   "UNVERIFIED: the current text of Terveydenhuoltolaki 1326/2010 § 17 (only a 2016 version was read) and the fate of HE 118/2025. The OPH news item of 28.4.2026, which I read, confirms the outcome without naming the law: the autumn-2026 digital health survey, health checks for compulsory-age students in year 1 or 2, checks for adults (19+) as needed. Cite the OPH page; link Finlex without a section summary until it is read.",
+   "UNVERIFIED: the drug law (Huumausainelaki 373/2008, rikoslaki ch. 50) was not read by anyone. Little TE1 impact (substances are TE2), but the health-culture and sexual-health topics must not state legal rules on drugs.",
+   "LIKELY only: alcohol ages 18/20 and the 2026 alcohol-act amendment (RSv 118/2026, status unknown); the tobacco act's flavour and packaging phases (1.2.2026, 1.8.2026). Finlex consolidated text not read. Low TE1 impact; it matters for TE2.",
+   "UNVERIFIED: the do/don't list of the WHO 2023 suicide-reporting guide (PDF not read), the Mieli communication toolkit, the JSN recommendation and any Syömishäiriöliitto writing guidance. The CLAUDE.md rule 'no numbers that invite comparison' is a model-derived design rule [M], not source-backed. It is the main safe-messaging gap for topics 04 (nutrition and weight management, item 9560125) and 08-09 (mental health).",
+   "UNVERIFIED: no THL guidance on LGBTQ+ inclusion in sexuality education was found. The UNESCO full PDF returned 403 and the WHO Europe 15+ matrix cells were not read. The sexuality topics (06, 07) rest on page-level summaries only.",
+   "Content of the open aoe.fi items was not opened (1113, 1852, 4704, 3215): quality, factual currency and whether 4704 contains YTL-derived tasks are unknown. Their licences I re-verified via the aoe.fi search API.",
+   "Correction from my spot-check: aoe.fi 2046 'Stressi ja sen hallinta' is tagged educationalLevel 'perusopetus' (now verified, not likely). It is below lukio level and should not be in the TE1 inventory. aoe.fi 3215's first educational levels are 'perusopetuksen vuosiluokat 7-9' and '10-luokka'. Lukio fit rests on the publisher's own site, so keep it, framed as a basis.",
+   "Health literacy: TE1 has no content item named terveyslukutaito. Source evaluation sits in TE2 (9560142, 9560143). In TE1 it serves only subject objective TE.yt2 (9560074) and the health-culture item 9560122. The topic list must not present source criticism as a TE1 content requirement (rule 3).",
+   "Substances: no TE1 content item. The OP-derived plan's 'substances' topic must not exist in TE1. At most a link preview to TE2.",
+   "Not read: Valtioneuvoston asetus 810/2018 (the subject list) and the top-level LOPS laaja-alainen osaaminen list. Not needed for TE1 codes, which come from the API.",
+   "The YTL publishing page (re-read): exam tasks are YTL's official statements without copyright and may be reproduced in matriculation-related contexts; third-party materials inside them need clearance. No Creative Commons licence. So a CC BY site still must not copy tasks: they come bundled with third-party material, and the CC BY relicensing is not granted. Link-only stands.",
+   "Engine: lukio-runko does not exist (confirmed by listing the src folder). OP prompts go up to 008, which is a plan only. No TE1 build is possible before 008 runs or is folded into the first build brief.",
+   "Unverified figures from the OP repository (14,567 terveystieto registrations in 2026). Do not reuse without reading the YTL statistics.",
+   "THL Kouluterveyskysely: the results URL thl.fi/kouluterveyskysely/tulokset was reported as resolving to the 'Nuorten hyvinvointi' page; the THL licence for the statistics was not read. Link only, with no figures.",
+   "The OP sibling-site base URL https://sheikkinen.github.io/lukion-opinto-ohjaus/ is taken from the base-site researcher's report and was not fetched by me."
+  ],
+  "spot_checks": [
+   {
+    "claim": "TE has exactly three 2-op modules: TE1 'Terveys voimavarana' (id 6834847, pakollinen, name with trailing space), TE2 'Terveys ja ympäristö' (6834848), TE3 'Terveys ja yhteiskunta' (6834849). Subject id 6834386, five general objectives 9560073-9560077.",
+    "result": "VERIFIED. I fetched kaikki.json (4.28 MB) and selected by koodi.arvo == TE. All ids, names, pakollinen flags and laajuus 2 match. The trailing space in the TE1 name is confirmed.",
+    "url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+   },
+   {
+    "claim": "TE1 objectives 9560130-9560132 and contents in two groups: 9560120, 9560121, 9560122 ('Terveyden kokonaisvaltaisuus') and 9560125, 9560126, 9560127, 9560128 ('Kehon ja mielen hyvinvoinnin keskeiset perusteet'). No substances in TE1; dependence is TE2 9560152/9560153.",
+    "result": "VERIFIED. The ids, groups and order match. 9560122 names medicalisation, 'terveyteen sairastuminen' and uskomus- eli vaihtoehtohoidot. 9560127 names protective factors, stress and crises, and ways to manage strain. TE2 has the group 'Mielihyvä ja riippuvuus'.",
+    "url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+   },
+   {
+    "claim": "Subject assessment must not target the student's values, attitudes or health behaviour.",
+    "result": "VERIFIED in arviointi.kuvaus. Paraphrase: assessment may not target values, attitudes, health behaviour or other personal characteristics as such. It focuses on the ability to analyse.",
+    "url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+   },
+   {
+    "claim": "Licences on aoe.fi: 1113 TE1 Terveys voimavarana CC BY-SA 4.0 (lukio); 1852 TE01 CC BY 4.0 (lukio); 4704 CC BY 4.0; 3215 CC BY 4.0; 2046 CC BY 4.0, level 'probably below lukio'.",
+    "result": "VERIFIED via POST https://aoe.fi/api/v2/search: 1113 CCBYSA4.0, lukiokoulutus; 1852 CCBY4.0, lukiokoulutus; 4704 CCBY4.0; 3215 CCBY4.0 (levels listed: 7-9, 10th grade); 2046 CCBY4.0, educationalLevel 'perusopetus'. The 2046 level is now verified as basic education. The search also lists 5775, an ammatillinen CC BY-SA linkkikirjasto (not lukio).",
+    "url": "https://aoe.fi/api/v2/search"
+   },
+   {
+    "claim": "YTL past exam tasks are not openly licensed; third-party material needs clearance; link-only for a CC BY site.",
+    "result": "VERIFIED with nuance. No CC licence is mentioned. YTL treats exam questions as its official statements without copyright, reproducible in matriculation-related contexts. Earlier permissions have lapsed. Third-party works inside the tasks need clearance with the rights holders for other uses. The link-only rule stands.",
+    "url": "https://www.ylioppilastutkinto.fi/fi/tietopalvelut/koesuoritusten-ja-koetehtavien-julkaiseminen-ja-opetuskaytto"
+   },
+   {
+    "claim": "From autumn 2026 all second-degree students complete a digital health survey; compulsory-age students get a check in year 1 or 2, adults as needed; from 2027 the pre-conscription check is combined into the doctor's check.",
+    "result": "VERIFIED, news dated 28.4.2026. Adults are defined as 19 or older. The law is not named.",
+    "url": "https://www.oph.fi/fi/uutiset/2026/digitaalinen-terveyskysely-kayttoon-kaikille-toisen-asteen-opiskelijoille"
+   },
+   {
+    "claim": "Kriisipuhelin 09 2525 0111, open 24/7, Finnish and Swedish.",
+    "result": "VERIFIED. 24 h every day, Finnish and Swedish. 112 for emergencies. 09 615 516 is the switchboard, not a crisis line, so the safety researcher's listing of it must not appear in help boxes.",
+    "url": "https://mieli.fi/tuki-ja-apu/kriisipuhelin/"
+   },
+   {
+    "claim": "The shared engine lukio-runko does not exist yet.",
+    "result": "VERIFIED locally: no lukio-runko under the src folder. The OP prompts go up to 008-shared-engine.md. The terveystieto repo holds CLAUDE.md, LICENSE, decisions/INDEX.md, docs (diary, goals.md, research, review), prompts, templates and tmp.",
+    "url": "local: the src folder"
+   }
+  ],
+  "versus_expected": [
+   {
+    "aspect": "1. Curriculum",
+    "verdict": "refined",
+    "note": "Right: one compulsory module, TE1 'Terveys voimavarana' (2 op), two national optional 2-op modules, grades 4-10. Wrong on content: TE1 has no substances or dependence and no health-literacy/sources content item (both are TE2). TE2 is 'Terveys ja ympäristö' and TE3 is 'Terveys ja yhteiskunta', not as guessed. TE1 adds four named social-psychology models and health-culture phenomena."
+   },
+   {
+    "aspect": "2. Existing materials",
+    "verdict": "refined",
+    "note": "Right: the publishers are plentiful and almost all link-out, and the CC BY-SA TE1 shell (aoe.fi 1113) exists. Refined: a few more open lukio items exist (1852 and 4704 CC BY; 3215 CC BY at lower-secondary level). 1113 should be linked, not adapted, because share-alike would spread to the site's CC BY. OPH support material is link-out."
+   },
+   {
+    "aspect": "3. Facts that change",
+    "verdict": "refined",
+    "note": "Confirmed: link with dates; services belong to the wellbeing services counties. New: the autumn-2026 student health care reform (digital health survey, 2027 pre-conscription check), the nicotine-pouch possession ban for under-18s from 1.8.2025, and a pending 2026 alcohol amendment. Sleep and drug-law sources remain unread."
+   },
+   {
+    "aspect": "4. Exam tasks",
+    "verdict": "refined",
+    "note": "No separate 'short concept task' category: 120 points in three parts (choose 1 of 3 at 20 p, 2 of 3 at 20 p, 2 of 3 at 30 p), with variety inside tasks. Hyvän vastauksen piirteet are public per-task scoring guides with a content and information-processing split. Old exams sit in Examina behind a teacher login, with no open licence, so the site links them and writes original tasks."
+   },
+   {
+    "aspect": "5. Safety",
+    "verdict": "refined",
+    "note": "Confirmed on primary pages: the WHO 2023 suicide-reporting resource, the UNESCO 2018 guidance, and that fear arousal fails (Scottish review). Not confirmed: the Finnish safe-messaging sources (Mieli toolkit, JSN, SYLI) and THL sexuality-education inclusion guidance. The 'no comparison numbers' rule is model-derived [M]. Extra support from the curriculum: assessment may not target values, attitudes or health behaviour."
+   },
+   {
+    "aspect": "6. TE1 plan",
+    "verdict": "refined",
+    "note": "The shape is right: topics as lesson plus self-study, a 75/60/45 plan, tasks, reflection, exam tasks with model answers, linked materials with a licence class. But the topics must follow the 7 TE1 content items, not the guessed list (10 topics proposed, none on substances or source criticism). The contract has no slot for model answers yet, and the engine (brief 008) does not exist."
+   }
+  ],
+  "proposal": [
+   {
+    "task": "a",
+    "title": "TE1 topic list with ePerusteet codes; TE2 and TE3 outlines",
+    "detail": "Code scheme for data/curriculum.yaml, assigned by API order and resolved at build: TE.yt1-yt5 = 9560073-9560077; TE1.t1 = 9560130, TE1.t2 = 9560131, TE1.t3 = 9560132; TE1.s1 = 9560120, TE1.s2 = 9560121, TE1.s3 = 9560122 (group 1, Terveyden kokonaisvaltaisuus); TE1.s4 = 9560125, TE1.s5 = 9560126, TE1.s6 = 9560127, TE1.s7 = 9560128 (group 2, Kehon ja mielen hyvinvoinnin keskeiset perusteet). Look modules up by koodi.arvo, not by index.\n\nTE1 topics (10):\n01-terveys-voimavarana 'Mitä terveys on? Voimavarat ja terveyden taustatekijät': TE1.t1, TE1.s1, TE.yt1. Suggested sample topic, with no safe-messaging risk.\n02-elintapamallit 'Miksi toimimme niin kuin toimimme? Elintapoja selittävät mallit': TE1.t2, TE1.s2 (TPB, social-cognitive theory, health belief model, transtheoretical model), TE.yt3.\n03-terveyskulttuuri 'Terveyskulttuurin ilmiöt: ristiriidat, medikalisaatio ja vaihtoehtohoidot': TE1.t2, TE1.s3, TE.yt2 and TE.yt4. Health-literacy practice lives here, without claiming TE2 content.\n04-ravinto 'Ravinto, syöminen ja painonhallinta terveyden näkökulmasta': TE1.t3, TE1.t1, TE1.s4 (ravinto, painonhallinta). Safe-messaging flag: eating disorders.\n05-liikunta-ja-uni 'Liikunta, lepo ja uni': TE1.t3, TE1.s4 (liikunta, lepo, uni), TE.yt3.\n06-seksuaaliterveys 'Seksuaalisuus ja seksuaaliterveys': TE1.t1, TE1.t3, TE1.s5 (seksuaalisuus, seksuaaliterveys).\n07-seksuaalioikeudet 'Seksuaalioikeudet, suostumus ja moninaisuus': TE1.t1, TE1.s5 (seksuaalioikeudet), TE.yt4. Content note.\n08-mielenterveys 'Mielenterveyttä suojaavat tekijät': TE1.t1, TE1.s6 (individual, communal and societal protective factors). Safe-messaging flag.\n09-stressi-ja-kriisit 'Stressi, kriisit ja kuormituksen hallinta': TE1.t3, TE1.t1, TE1.s6 (stress and crises, managing strain). Safe-messaging flag and help box.\n10-opiskeluhyvinvointi 'Opiskeluhyvinvointi ja oma oppiminen': TE1.t3, TE1.s7, TE.yt5. Links to the OP site's topic 04.\n\nCoverage check: t1 in 01, 04, 06, 07, 08, 09; t2 in 02, 03; t3 in 04, 05, 06, 09, 10; s1-s7 each in at least one topic; yt1-yt5 all covered. Not TE1 topics: substances, source criticism and health communication (TE2), at most 'preview' links.\n\nTE2 'Terveys ja ympäristö' outline: (1) Tieteellinen tieto, arkitieto ja ajattelun vinoumat; (2) Tutkimusprosessi ja tutkimustiedon luotettavuus; (3) Terveysviestintä ja sen vaikutuskeinot; (4) Rakennettu, luonnon- ja psykososiaalinen ympäristö; (5) Kestävä kehitys ja terveys; (6) Turvallisuus ja väkivallan ehkäisy; (7) Työhyvinvointi; (8) Riippuvuuden mekanismit; (9) Aine- ja toiminnalliset riippuvuudet ja niiden ehkäisy (codes 9560142-9560159).\n\nTE3 'Terveys ja yhteiskunta' outline: (1) Terveyskäsitykset ja sairauksien selitysmallit eri aikoina; (2) Yhteiskunta, tiede ja teknologia kansanterveyden muuttajina; (3) Tulevaisuuden terveyshaasteet; (4) Epidemiologinen siirtymä ja tarttumattomat taudit; (5) Tartuntataudit; (6) Sosiaali- ja terveyspalvelut; (7) Itsehoito ja omahoito; (8) Eettisen analyysin välineet; (9) Eettiset ja oikeudelliset kysymykset; (10) Potilaan oikeudet, priorisointi ja terveyden eriarvoisuus (codes 9560217-9560259).",
+    "sources": [
+     "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    ]
+   },
+   {
+    "task": "b",
+    "title": "Content-contract additions for a graded subject",
+    "detail": "Front matter additions:\n- curriculum: codes as in (a).\n- assessment: numeric (from subject.yaml).\n- safety_flags: subset of [suicide_selfharm, eating, substances, sexuality, violence].\n- content_note: required when any flag is set.\n- materials: list of {url, title, publisher, licence_class: open-cc-by | open-cc-by-sa | link-out | excluded, licence (exact), audience, read (date)}. 'excluded' entries are kept for the record but never rendered.\n- exam_tasks: list of {id, type, part (A20 | B20 | C30), points, minutes, codes}.\n- review_status: {teacher: none | date, health_professional: none | date, safe_messaging: none | date}.\n- sibling_links: links to the OP site, with read dates.\n\nSection order (H2): Opiskelijalle; Tehtävät; Pohdinta; Koetehtävät; Mallivastaukset; Itseopiskelun askel; Tuntisuunnitelma (75/60/45); Eriyttäminen; Apua ja tukea (replaces 'Milloin opinto-ohjaajalle'); Linkitetyt materiaalit (generated from materials, with licence class); Lähteet (generated).\n\nKoetehtävät: 2-3 original tasks per topic in the YTL task types (true/false set, error identification of 5 items at 4 p each, comparison on aspects, table completion, theory application, figure or material analysis, ethical analysis, research plan). Each task heading carries points and minutes. Material is self-written and labelled kuvitteellinen, or a linked open or official source; never quoted text from publishers or YTL.\n\nMallivastaukset: per task:\n- a model answer in original wording;\n- Pisteytys: content points by required elements plus an information-processing rubric (concepts, application, analysis, evaluation, argumentation, structure) split 50/50;\n- Tyypilliset virheet;\n- a fixed line saying the scoring is the site's own practice guidance, not YTL's.\n\nBuild checks (fail the build):\n1. Every Koetehtävä id has a matching Mallivastaus with a points total equal to the task's points.\n2. Every exam_tasks code exists, and every TE1 objective and content code is covered by at least one topic and at least one exam task.\n3. Every 'Osaan' outcome is named in a task step or exam task.\n4. Every materials entry has a licence_class and a read date under 12 months old. open-cc-by-sa and link-out content is never inlined (the existing external-resource check).\n5. No n-gram overlap with YTL task text (a check against a locally stored hash list of the linked hvp pages, optional and later).\n6. If safety_flags is non-empty: a content_note is present, an 'Apua ja tukea' section has 112 plus the official help links with dates, and a health-figure scanner blocks kg, kcal, BMI, grams, portions, doses, promille and units, and hours or minutes next to sleep or activity words. Exemptions are whitelisted per line with a reason, as stable_figures is now.\n7. A privacy linter flags task prompts in first-person health disclosure forms ('kerro oma', 'kuinka paljon sinä', 'nosta käsi jos') for checker review (warning, not fail).\n8. The review_status banner renders on every page while any reviewer field is none (the CLAUDE.md requirement).\n9. Yearly-facts keys added: ravitsemussuositus, liikkumissuositus, unisuositus, alkoholilaki, tupakkalaki, huumausainelaki, opiskeluterveydenhuolto, kriisipuhelimet, kouluterveyskysely.\n\nChecker-only rules (not automatable): no method details, neutral suicide wording, no fear arousal, inclusive examples, fictional cases in groups, and a 'pass' option on reflective tasks. Rules from safety research that are model-derived must be marked [M] in the contract.",
+    "sources": [
+     "lukion-opinto-ohjaus/docs/content-contract.md",
+     "lukion-opinto-ohjaus/prompts/008-shared-engine.md",
+     "https://tiedostot.ylioppilastutkinto.fi/kokeet/2026-03-20_TE_fi/grading-instructions.html"
+    ]
+   },
+   {
+    "task": "c",
+    "title": "Link inventory per TE1 topic (licence class; read dates from research 2026-11-21 unless noted)",
+    "detail": "All topics:\n- OPH Terveystiedon LOPS 2019 -tukimateriaali, https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali (Opetushallitus, link-out; teacher view).\n- aoe.fi 1113 TE1 Terveys voimavarana, https://aoe.fi/#/materiaali/1113 (Schildtin lukio, open CC BY-SA 4.0: link, do not adapt).\n- aoe.fi 1852, https://aoe.fi/#/materiaali/1852 (Omnia/Espoon aikuislukio, open CC BY 4.0; teacher view).\n\n01 Terveys voimavarana: OPH support page (link-out); aoe 1113 (CC BY-SA); THL Nuorten hyvinvointi, https://thl.fi/kouluterveyskysely/tulokset (THL, link-out); OP site 05-itsetuntemus, https://sheikkinen.github.io/lukion-opinto-ohjaus/ (open CC BY, sibling).\n\n02 Elintapamallit: aoe 1113 (CC BY-SA, tagged social-psychological models); OPH support page (link-out); Mielenterveystalo Nuoret, https://mielenterveystalo.fi/fi/nuoret (HUS, link-out; change-related self-help). A gap: no open Finnish source on the four models was found.\n\n03 Terveyskulttuuri: Duodecim Terveyskirjasto, https://www.terveyskirjasto.fi/ (Kustannus Oy Duodecim, link-out); Terveyskylä, https://www.terveyskyla.fi/ (university hospitals, link-out); OP site 08-tietolahteet (open CC BY, sibling); aoe 4704, https://aoe.fi/#/materiaali/4704 (Hankasalmen lukio, open CC BY 4.0; check for YTL-derived tasks first).\n\n04 Ravinto: Ruokavirasto ravitsemus- ja ruokasuositukset, https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravitsemus--ja-ruokasuositukset/ (Ruokavirasto/VRN, link-out); THL Nuorten hyvinvointi (link-out); Mielenterveystalo Nuoret (link-out, help). An eating-disorder help link is still to be found: Syömishäiriöliitto was not read.\n\n05 Liikunta, lepo, uni: UKK Liikkumisen suositukset, https://www.ukkinstituutti.fi/liikkumisensuositus/ (UKK-instituutti, link-out, all rights reserved); Mielenterveystalo Nuoret (sleep programme, link-out); THL Nuorten hyvinvointi (link-out); OP site 03-ajankaytto (open CC BY, sibling). A sleep source is still to be read.\n\n06 Seksuaaliterveys: Väestöliitto seksuaaliterveys, https://www.vaestoliitto.fi/seksuaaliterveys/ (Väestöliitto, link-out); aoe 3215 Rinnoista, menkoista ja gynejutuista, https://aoe.fi/#/materiaali/3215 (Tunne rintasi ry & Korento ry, open CC BY 4.0); Tunne rintasi, https://tunnerintasi.fi/ (link-out); Sexpo, https://sexpo.fi/ (Sexpo-säätiö, link-out; teacher framing, not the SeriE service).\n\n07 Seksuaalioikeudet: Seta, https://seta.fi/ (Seta ry, link-out; nuoret.seta.fi not read); Väestöliitto (link-out); UNESCO guidance page, https://www.unesco.org/en/articles/international-technical-guidance-sexuality-education-evidence-informed-approach (UNESCO, link-out; teacher view). aoe 3486 (Amnesty, CC BY-NC-ND) is link-out only, not adaptable.\n\n08 Mielenterveys: Mielenterveystalo Nuoret (link-out); MIELI, https://mieli.fi/ (MIELI ry, link-out); Kriisipuhelin, https://mieli.fi/tuki-ja-apu/kriisipuhelin/ (link-out, re-read 2026-11-21); Sekasin, https://sekasin.fi/ (Sekasin Kollektiivi, link-out); OP site 04-hyvinvointi (open CC BY, sibling).\n\n09 Stressi ja kriisit: Mielenterveystalo Nuoret (link-out); Nyyti, https://www.nyyti.fi/ (Nyyti ry, link-out); Kriisipuhelin (link-out); Sekasin (link-out); OP site 02-opiskelutaidot (open CC BY, sibling).\n\n10 Opiskeluhyvinvointi: Nyyti (link-out); Mielenterveystalo Nuoret (study-burnout programme, link-out); OPH digital health survey news, https://www.oph.fi/fi/uutiset/2026/digitaalinen-terveyskysely-kayttoon-kaikille-toisen-asteen-opiskelijoille (OPH, link-out, read 2026-11-21); OP site 04-hyvinvointi and 06-hops (open CC BY, sibling).\n\nExcluded (not linked from student pages): aoe 2046 (perusopetus level), NC/ND items for adaptation, Päihdelinkki and EHYT (TE2 scope; help links only if substances come up).",
+    "sources": [
+     "https://aoe.fi/api/v2/search",
+     "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali",
+     "https://mieli.fi/tuki-ja-apu/kriisipuhelin/",
+     "https://www.oph.fi/fi/uutiset/2026/digitaalinen-terveyskysely-kayttoon-kaikille-toisen-asteen-opiskelijoille"
+    ]
+   },
+   {
+    "task": "d",
+    "title": "Expert review plan",
+    "detail": "Reviewers (all human, recruited by the operator [O]; the agents only prepare packets):\n(1) A terveystieto teacher (lukio, ideally a YO grader): curriculum fidelity per topic code, whether the exam tasks match YTL task types and difficulty, the model answers and scoring guides, the 75/60/45 lesson feasibility, and the TE2 preview links.\n(2) A health professional (e.g. a student health care nurse or doctor): every health fact, recommendation link, service description (wellbeing services counties, opiskeluterveydenhuolto after the autumn-2026 reform) and help box. Checks that nothing reads as medical advice.\n(3) A safe-messaging reviewer (a mental-health professional, e.g. MIELI-trained, or an eating-disorder specialist): topics 04, 08, 09, plus any page with safety_flags; the content notes and help boxes.\n(4) An inclusion and sexuality-education reviewer (e.g. Seta or Väestöliitto trained): topics 06, 07 and the images.\n(5) Optional: a student panel (2-3 lukio students, anonymous feedback, no health disclosure) for readability.\n\nProcess:\nThe producer generates one review packet per reviewer: the rendered pages, the print version, a checklist mapped to contract rules, and the list of [M] rules. Reviewers return findings in a plain table (topic id, section, severity must/should/nit, claim, suggested fix, source). The operator chooses the channel: e-mail or a GitHub issue template; no personal data is committed, and reviewers are credited only by role unless they opt in.\nThe producer turns the table into a fix brief (written-before). Builders fix; a checker who did not write the fix verifies; the judge rules on the final round's open items.\nreview_status front matter is set per topic only when all must-items for that reviewer are closed. The banner disappears only when the teacher and the health professional have both signed off. A diary entry records it.\nRe-review is triggered when a yearly fact changes or a topic's text changes by more than a set threshold.",
+    "sources": [
+     "lukion-terveystieto/CLAUDE.md"
+    ]
+   },
+   {
+    "task": "e",
+    "title": "Differences from the opinto-ohjaus build and what waits for brief 008",
+    "detail": "Differences:\n(1) Assessment is numeric (4-10), not S/H: Koetehtävät and Mallivastaukset sections with scoring guides; the OP contract's 'no model answers' rule is reversed.\n(2) One module now (TE1), later TE2 and TE3: routes /te1/, /te2/, /te3/; the code pattern is TE.yt, TE1.t, TE1.s; codes resolve from ePerusteet ids 6834386 and 6834847-6834849 by koodi.arvo.\n(3) Role strings: Opettajan rooli instead of Ohjaajan rooli; 'Apua ja tukea' instead of 'Milloin opinto-ohjaajalle'; a new terveystieto glossary.\n(4) Safety layer: safety_flags, content notes, a help box with 112 and dated official links, the health-figure scanner, the privacy linter.\n(5) Licence classes per linked material, with a generated 'Linkitetyt materiaalit' list; a sibling-site link type for OP links.\n(6) A review-status banner and the human review loop (absent in OP).\n(7) New yearly-facts keys (nutrition, activity, sleep, laws, services, crisis lines, Kouluterveyskysely).\n(8) An exam-tasks index page (/koetehtavat/) and later full rehearsal sets (9 tasks, 120 p).\n(9) The localStorage key renamed (e.g. te:v1).\n(10) Images: no bodies, food quantities, scales or substances; an image budget must be asked from the operator.\n(11) Avoid OP traps from the start: varied task times in the sample topic, paper-only offline alternatives, 45-minute plans that keep the goal, every outcome practised, live checks of law and curriculum text, the judge ruling on the final round, and the pre-publish path scan.\n\nWaits for brief 008 (lukio-runko does not exist yet): subject.yaml (name, ids, codes, routes, licence line, assessment type); the generic fetch_curriculum with per-subject expected counts; numeric-assessment sections and checks in the engine; splitting checks.py (402/500 lines) before adding checks; the sibling-link type; engine-level fixes of OP known issues (print one length, plan headings, no-JS buttons); and a golden byte-identical OP build. Can be done before 008: the TE1 contract addendum, the curriculum.yaml data for TE, the link inventory and table, the sample topic text, the exam-task templates, and the review packets. Content can then be written ahead of the engine, under 'build --partial' semantics.",
+    "sources": [
+     "lukion-opinto-ohjaus/prompts/008-shared-engine.md",
+     "lukion-opinto-ohjaus/docs/known-issues.md",
+     "lukion-opinto-ohjaus/docs/content-contract.md"
+    ]
+   }
+  ]
+ }
+}
