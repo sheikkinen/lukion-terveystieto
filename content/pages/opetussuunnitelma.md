@@ -21,7 +21,7 @@ Jokaisen tavoitteen ja sisällön vieressä näkyy, mitkä sivuston aiheet sitä
 
 ## Terveystieto lyhyesti
 
-- Terveystiedossa on lukiossa yksi pakollinen moduuli, TE1 *Terveys voimavarana*, ja kaksi valtakunnallista valinnaista moduulia, TE2 ja TE3. Sivustolla on nyt TE1.
+- Terveystiedossa on lukiossa yksi pakollinen moduuli, TE1 *Terveys voimavarana*, ja kaksi valtakunnallista valinnaista moduulia, TE2 ja TE3. Sivustolla on kaikki kolme moduulia.
 - Terveystieto arvioidaan numeroarvosanalla, ja siinä voi osallistua ylioppilaskokeeseen. Sivuston koetehtävät ja niiden pisteytys ovat sivuston omia harjoitusohjeita, eivät ylioppilastutkintolautakunnan.
 - Arviointi kohdistuu tietoihin ja taitoihin. Opiskelijan omia elintapoja, arvoja tai terveyttä ei arvioida.
 - Opetushallitus on julkaissut opettajille [terveystiedon tukimateriaalin](https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali). Sivusto linkittää sen eikä kopioi sitä.
@@ -89,3 +89,11 @@ Jokaisen mallivastauksen pisteytyksessä on kaksi puolta. *Sisältö* luettelee 
 ## Moduuli TE1
 
 {{module_codes:TE1}}
+
+## Moduuli TE2
+
+{{module_codes:TE2}}
+
+## Moduuli TE3
+
+{{module_codes:TE3}}

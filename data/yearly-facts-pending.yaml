@@ -1,5 +1,14 @@
 # Muuttuvat tiedot, joiden lähdesivua ei ole vielä luettu (status: ei-luettu, read: null).
 # lukio-runko vaatii jokaiselle tiedolle lukupäivän, joten ne on siirretty pois tiedostosta data/yearly-facts.yaml.
-# Tyhjä 2026-11-21: alkoholilaki, tupakkalaki ja huumausainelaki luettiin TE2-ajossa ja siirrettiin tiedostoon data/yearly-facts.yaml.
+# 2026-11-21: seulontaohjelmat ja kela_hedelmoityshoito siirrettiin tiedostoon data/yearly-facts.yaml, kun niiden lähdesivut luettiin. Alkoholilaki, tupakkalaki ja huumausainelaki luettiin TE2-ajossa ja siirrettiin tiedostoon data/yearly-facts.yaml.
 checked: '2026-11-21'
-facts: []
+facts:
+- key: eutanasia_oikeudellinen_asema
+  rule: Eutanasia ei ole Suomessa sallittu, ja sen tulkitaan rikoslain mukaan olevan rangaistava teko. Sivusto kirjoittaa
+    tämän vasta, kun virallinen lähde on luettu.
+  url: https://valtioneuvosto.fi/en/-/1271139/expert-working-group-proposes-changes-to-palliative-care-no-shared-view-on-the-legalisation-of-euthanasia
+  publisher: Sosiaali- ja terveysministeriö / valtioneuvosto
+  read: null
+  note: 'status: ei-luettu. Kriitikon mukaan tila perustuu hakutulosotteisiin ja Lääkäriliiton PDF:ään, jota ei
+    luettu; ETENEn 2017 lausunto ei auennut. Kansalaisaloite KAA 4/2024 on tiedossa vain uutisesta (MTV 5.10.2026);
+    eduskunnan sivua ei luettu. Terveydenhuollon ammattilaisen tai juristin tarkistettava.'

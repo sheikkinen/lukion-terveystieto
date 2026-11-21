@@ -344,3 +344,43 @@ table or a council news item with a framework (04–06); a school safety plan su
   as *myös*-links with their stated audience, never called youth services. Each link carries its read date.
 - Debate tasks (substance policy, gambling markets) keep both sides; the model answer says prevention is curriculum
   content, not optional, and states the legal status as it is today, with a dated link.
+
+## 16. TE3 *Terveys ja yhteiskunta*: additions (brief 010, 2026-11-21)
+
+Sample topic: `content/topics/01-terveyskasitykset-ja-selitysmallit.md` (`module: TE3`). §1–15 apply. Files `NN-slug.md`,
+`id: te3-NN-slug`, `order: 20 + NN`. Slugs from the critic (`2026-11-21-te3-scouting.json`): 01 terveyskasitykset-ja-selitysmallit,
+02 vaeston-terveyden-muutos, 03 tarttumattomat-taudit, 04 tartuntataudit-ja-rokotukset, 05 sosiaali-ja-terveyspalvelut,
+06 itsehoito-omahoito-ja-laakkeet, 07 eettisen-analyysin-nakokulmat, 08 hedelmoityshoidot-abortti-seulonnat-geenit,
+09 elaman-loppu-potilaan-oikeudet-priorisointi, 10 terveyden-eriarvoisuus-ja-tulevaisuus. Link TE1 and TE2 pages only from
+Opiskelijalle and Tehtävät (`../../te1/…`); the lesson view sits one level deeper, so Eriyttäminen and plans name them in words.
+
+**TE3 glossary** (§3 rules apply):
+
+| Use | Not | Note |
+|---|---|---|
+| terveyskäsitys; maallikon ja tieteen; biolääketieteellinen, biopsykososiaalinen, salutogeeninen | lääketieteellinen malli (alone) | Salutogeeninen eli terveyslähtöinen; *koherenssin tunne*: ymmärrettävyys, hallittavuus, merkityksellisyys. |
+| selitysmalli: yliluonnollinen (demonologinen), humoraalioppi, miasmateoria, mikrobiteoria, monisyinen malli | taikausko, "alkeellinen" | Each with its cause and its treatment; past people are not mocked. |
+| epidemiologinen siirtymä; väestöllinen siirtymä; kuolleisuus, syntyvyys | väestöräjähdys (as a term) | Phases and curves named in the task. |
+| tarttumaton tauti; tartuntatauti; tartuntatie; rokotusohjelma; laumasuoja; mikrobilääkeresistenssi | elintapasairaus, superbakteeri | *Riskitekijä*, never *syy* alone; *henkilö, jolla on …*, never *sairastaja*, *uhri*, *oma syy*. |
+| ilmaantuvuus; esiintyvyys; ikävakioitu | yleisyys (for both) | Ilmaantuvuus new cases, esiintyvyys all cases. |
+| hyvinvointialue; julkinen, yksityinen, kolmas sektori; itsehoito; omahoito | sote-alue, itselääkitys | Itsehoito on one's own, omahoito planned with a professional. Fees linked only. |
+| eettisen analyysin näkökulmat: arvot, normit, hyveet, seuraukset, oikeudet, velvollisuudet, motiivit | moraali (for all) | Plus actors: yksilö, ammattilainen, organisaatio, yhteiskunta, globaali. |
+| raskaudenkeskeytys; raskaana oleva; hedelmöityshoito; seulonta; palliatiivinen hoito; hoitotahto; eutanasia; priorisointi | suunnittelijavauva, kuolemanapu, armomurha | Statutory or clinical term, defined once. |
+
+**TE3 task templates** (beside §7a and §15). `mallien-jarjestaminen` (A20 or B20): fictional voices A–E, one per model; a
+table *järjestys, kuvaus, malli, syy, hoito*; 4 p a row (model, cause, treatment, place). `kuvaajan-vaiheet` (C30): a
+transition or trend described in words, one content point per curve per phase. `eettinen-analyysi` (C30): content
+4/7/10/13 p for 1–4 viewpoints plus 2 p for a weighed conclusion, never a verdict asked. `lyhytvastaus-merkkirajalla`
+(A20, B20): four to six parts, each with points and a character limit in the task. `taydennys` (A20): a cloze, right 2 p,
+wrong −1 p, empty 0 p, never below 0. `palveluohjaus` (B20): fictional situations; the service, why, and the next step.
+Material is qualitative or invented and labelled; real figures only as a dated link.
+
+**TE3 safety rules** (the critic's R1–R13): law first on ethics pages (a *Mitä laki sanoo* block, each statement a dated
+Finlex, STM or THL link; statutory figures other than the verified 12-week rule linked, not typed); two or more positions
+per issue in their holders' words, equal in length and tone, no group named as holding a view; the page never concludes
+for the student; fictional third-person cases only; fertility text states only what the law allows, abortion text never
+judges reasons; on 09 the `suicide_selfharm` flag, content note and help box, no method, means or case story, the
+euthanasia debate anchored on the dated 2021 working-group release; disease pages add structural and genetic factors and
+say people with no risk factor also fall ill, no weights, BMI or calories; vaccines by the THL programme without false
+balance; no dosing; screening on a neutral benefit–harm frame; prioritisation without age or disability ranking. Content
+notes on 03, 08 and 09; help links only from the critic's youth-verified list, each with its read date.

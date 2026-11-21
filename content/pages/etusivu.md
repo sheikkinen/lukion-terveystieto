@@ -10,7 +10,7 @@ Jokainen aihe toimii kahdella tavalla. Opettaja voi opettaa sen omana tuntinaan.
 
 ## Moduulit
 
-Ensimmäisenä on valmis pakollinen moduuli TE1 *Terveys voimavarana*. Valtakunnalliset moduulit TE2 ja TE3 tulevat myöhemmin. Aiheita on nyt {{topic_count}}. Moduulin sivulla näkyy tarkasti, mitkä opetussuunnitelman tavoitteet ja sisällöt kukin aihe kattaa.
+Sivustolla on pakollinen moduuli TE1 *Terveys voimavarana* ja valtakunnalliset valinnaiset moduulit TE2 *Terveys ja ympäristö* ja TE3 *Terveys ja yhteiskunta*. Aiheita on nyt {{topic_count}}. Moduulin sivulla näkyy tarkasti, mitkä opetussuunnitelman tavoitteet ja sisällöt kukin aihe kattaa.
 
 {{module_cards}}
 

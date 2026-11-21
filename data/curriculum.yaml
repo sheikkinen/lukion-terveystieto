@@ -28,6 +28,12 @@ modules:
     credits: 2
     mandatory: false
     objectives_lead: Moduulin tavoitteena on, että opiskelija
+  TE3:
+    id: 6834849
+    name: Terveys ja yhteiskunta
+    credits: 2
+    mandatory: false
+    objectives_lead: Moduulin tavoitteena on, että opiskelija
 codes:
   TE.yt1:
     kind: yleinen_tavoite
@@ -141,3 +147,59 @@ codes:
     kind: sisalto
     module: TE2
     text: keskeiset aine- ja toiminnalliset riippuvuudet, riippuvuuksien syitä ja ehkäisykeinoja, riippuvuuksien aiheuttamia haittoja
+  TE3.t1:
+    kind: tavoite
+    module: TE3
+    text: osaa kuvata ja analysoida yhteiskunnallisten olosuhteiden, sosiaali- ja terveyspolitiikan ja muun yhteiskuntapolitiikan, tieteen sekä teknologian muutosta, kehitystä ja yhteyksiä väestön terveyteen
+  TE3.t2:
+    kind: tavoite
+    module: TE3
+    text: pystyy erittelemään keskeisten tarttumattomien ja tartuntatautien riskitekijöitä, esittämään perusteltuja ratkaisuja näiden ehkäisemiseksi sekä arvioimaan sairauksien ja tautien merkitystä yksilölle ja yhteiskunnalle sekä elintapojen vaikutuksia tarttumattomien ja tartuntatautien näkökulmasta
+  TE3.t3:
+    kind: tavoite
+    module: TE3
+    text: osaa esitellä perustellen, mihin sosiaali- tai terveyspalveluihin yksilö voi hakeutua erilaisissa tilanteissa, arvioida kriittisesti palvelujen järjestämistä ja tuottamista sekä arvioida sosiaali- ja terveyspalvelujen, itsehoidon ja omahoidon merkitystä terveydelle
+  TE3.t4:
+    kind: tavoite
+    module: TE3
+    text: osaa analysoida terveyteen ja sairauksiin liittyviä eettisiä kysymyksiä, kuvata ja arvioida terveyteen ja terveyden eriarvoisuuteen vaikuttavia tekijöitä Suomessa ja globaalisti sekä analysoida terveyserojen kaventamiseen vaikuttavia tekijöitä.
+  TE3.s1:
+    kind: sisalto
+    module: TE3
+    text: terveyskäsityksiä ja sairauksien selitysmalleja
+  TE3.s2:
+    kind: sisalto
+    module: TE3
+    text: keskeisiä väestöjen terveyteen vaikuttaneita yhteiskunnallisia, tieteeseen ja teknologiaan liittyviä tekijöitä
+  TE3.s3:
+    kind: sisalto
+    module: TE3
+    text: tulevaisuuden terveyshaasteita ja mahdollisuuksia
+  TE3.s4:
+    kind: sisalto
+    module: TE3
+    text: epidemiologinen siirtymä, keskeiset tarttumattomat ja tartuntataudit
+  TE3.s5:
+    kind: sisalto
+    module: TE3
+    text: sosiaali- ja terveyspalvelujen järjestäminen, tuottaminen ja käyttäminen
+  TE3.s6:
+    kind: sisalto
+    module: TE3
+    text: itsehoito ja omahoito
+  TE3.s7:
+    kind: sisalto
+    module: TE3
+    text: 'eettisen analysoinnin näkökulmia: hyveet, seuraukset, oikeudet, velvollisuudet, motiivit, arvot ja normit'
+  TE3.s8:
+    kind: sisalto
+    module: TE3
+    text: keskeisiä terveyteen ja sairauksiin liittyviä eettisiä ja oikeudellisia kysymyksiä kuten hedelmöityshoidot, abortti, elintapoihin liittyvä vapaus ja vastuu, seulonnat, geeniteknologia, eutanasia
+  TE3.s9:
+    kind: sisalto
+    module: TE3
+    text: terveydenhuollon eettiset periaatteet, potilaan oikeudet, priorisointi
+  TE3.s10:
+    kind: sisalto
+    module: TE3
+    text: terveys ja terveyden eriarvoisuus Suomessa ja globaalisti sekä niihin vaikuttaminen

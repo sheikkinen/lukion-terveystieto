@@ -1,4 +1,4 @@
-"""Regenerate the te2-NN blocks of data/materials.yaml from the TE2 topic front matter.
+"""Regenerate the te2-NN and te3-NN blocks of data/materials.yaml from the TE2 and TE3 topic front matter.
 
 Run from anywhere: python tools/sync_te2_materials.py [--root PROJECT_ROOT]
 Licence class, licence, audience and note are kept from the existing entry for the
@@ -33,7 +33,7 @@ def build(root):
     out = {}
     for fn in sorted((root / "content" / "topics").glob("*.md")):
         fm = front(fn)
-        if fm.get("module") != "TE2":
+        if fm.get("module") not in ("TE2", "TE3"):
             continue
         tid = fm["id"][:6]
         prev = {i["url"]: i for i in old.get(tid, [])}
@@ -58,7 +58,7 @@ def build(root):
                 row["note"] = note
             items.append({k: row[k] for k in KEYS if k in row})
         out[tid] = items
-    return mat_path, text, out
+    return mat_path, text, dict(sorted(out.items()))
 
 
 def main():
@@ -66,7 +66,7 @@ def main():
     ap.add_argument("--root", default=str(Path(__file__).resolve().parent.parent))
     root = Path(ap.parse_args().root)
     mat_path, text, out = build(root)
-    start = text.index("  te2-01:\n")
+    start = re.search(r"^  te[23]-[0-9]{2}:\n", text, re.M).start()
     end = text.index("\nexcluded:")
     block = yaml.safe_dump({"topics": out}, allow_unicode=True, sort_keys=False, width=100000)
     block = block.split("topics:\n", 1)[1]

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Fetch the terveystieto (TE) curriculum from ePerusteet into data/curriculum.yaml.
+"""Fetch the terveystieto (TE) curriculum from ePerusteet into data/curriculum-te1-te3.yaml (the engine writes data/curriculum.yaml itself with lukio-runko fetch-curriculum).
 
-Usage: python tools/fetch_curriculum.py [--out data/curriculum.yaml] [--from-file saved.json]
+Usage: python tools/fetch_curriculum.py [--out data/curriculum-te1-te3.yaml] [--from-file saved.json]
 
 Codes follow docs/content-contract.md, assigned by API order and resolved by
 koodi.arvo (never by list index): TE.yt1-5 for the subject's general objectives,
@@ -131,7 +131,7 @@ def build(data):
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    ap.add_argument("--out", default=str(Path(__file__).resolve().parent.parent / "data" / "curriculum.yaml"))
+    ap.add_argument("--out", default=str(Path(__file__).resolve().parent.parent / "data" / "curriculum-te1-te3.yaml"))
     ap.add_argument("--from-file", help="read a saved API response instead of fetching")
     args = ap.parse_args()
     if args.from_file:

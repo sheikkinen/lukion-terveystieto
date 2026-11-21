@@ -339,3 +339,281 @@ facts:
   read: '2026-11-21'
   note: 'Sivu päivitetty 22.6.2026 klo 16.05 (luettu). Mini-interventio: THL:n ammattilaisohje Alkoholi (luettu 2026-11-21, päiväystä
     ei näy). Sivu ei mainitse varoitusmerkintöjä, joten niitä ei kirjoiteta keinoksi ennen kuin päivätty virallinen lähde nimeää ne.'
+- key: potilaslaki
+  rule: 'Potilaslaki (785/1992) antaa potilaalle oikeuden hyvään hoitoon, tiedonsaantiin ja itsemääräämiseen: hoito
+    perustuu potilaan suostumukseen, ja potilas voi kieltäytyä hoidosta. Alaikäisen mielipide otetaan huomioon hänen
+    kehitystasonsa mukaan, ja hoitoon liittyvät tiedot ovat salassa pidettäviä. Potilas voi tehdä muistutuksen hoidostaan.
+    Sivusto ei kirjoita pykälien yksityiskohtia, vaan linkittää lain.'
+  url: https://www.finlex.fi/fi/lainsaadanto/1992/785
+  publisher: Finlex
+  read: '2026-11-21'
+  note: 'Tutkija luki lain ajantasaisen version (14.4.2023) Finlexin avoimesta rajapinnasta (pykälät 6-10: sopimus
+    ja kieltäytyminen, alaikäinen 7 §, kiireellinen hoito 8 §, alaikäisen salassapito 9 §, muistutus 10 §). Tämä
+    ajo avasi vain Finlexin sivun (200). Kirjoittaja linkittää pykälät eikä kirjoita niiden sanamuotoja.'
+- key: raskaudenkeskeytyslaki
+  rule: Raskaus voidaan keskeyttää yksin raskaana olevan pyynnöstä kahdennentoista raskausviikon loppuun saakka,
+    eikä siihen tarvita perustetta eikä kahden lääkärin lausuntoa. Sen jälkeen keskeytys on pääsääntöisesti mahdollista
+    lupaviranomaisen luvalla; lupa-asioita käsittelee 1.1.2026 alkaen Lupa- ja valvontavirasto (LVV:n sivu luettu 2026-11-21, osoite lvv.fi/sosiaali-ja-terveydenhuolto/raskauden-keskeyttaminen). Raskauden keskeytystä pyytävällä tai harkitsevalla on oikeus psykososiaaliseen tukeen. Sivusto
+    ei kirjoita muita raskausviikkorajoja vaan linkittää lain.
+  url: https://valtioneuvosto.fi/-/1271139/aborttilain-muutokset-tulevat-voimaan
+  publisher: Sosiaali- ja terveysministeriö (STM) / valtioneuvosto
+  read: '2026-11-21'
+  note: 'Tiedote 1.9.2023 (111/2023) luettu kokonaan tässä ajossa: 12 viikon sääntö, Valviran lupa sen jälkeen,
+    psykososiaalinen tuki, yksityisten ei tarvitse hakea erillislupaa. Tutkija mainitsi lisäksi lain 762/2025 voimaan
+    1.1.2026; sitä ei luettu, eikä sen sisältöä kirjoiteta. Laki 239/1970: https://www.finlex.fi/fi/lainsaadanto/1970/239
+    (sivu avattu, 200; tekstiä ei luettu). Muut rajat linkitetään, kunnes tarkistaja lukee voimassa olevan Finlex-tekstin.'
+- key: raskaudenkeskeytys_tilastot
+  rule: Raskaudenkeskeytysten määrät ja ikäjakaumat julkaisee THL tilastoina. Sivusto ei kirjoita lukuja vaan linkittää
+    tilaston.
+  url: https://thl.fi/en/data-and-statistics/sexual-and-reproductive-health/induced-abortions
+  publisher: Terveyden ja hyvinvoinnin laitos (THL)
+  read: '2026-11-21'
+  note: Sivu päivitetty 15.6.2026 (tutkija luki; tarkistajat lukivat sivun uudelleen 2026-11-21); englanninkielinen. Tämä ajo avasi sivun (200). Luvut vaihtuvat
+    vuosittain.
+- key: hedelmoityshoitolaki
+  rule: 'Hedelmöityshoitolaki (1237/2006) säätää hedelmöityshoitojen edellytyksistä: hoitoon tarvitaan suostumus,
+    ja lahjoittajan on oltava täysi-ikäinen. Lahjoitetuilla sukusoluilla syntynyt voi täysi-ikäisenä saada tiedon
+    lahjoittajasta. Sivusto kuvaa, kenelle hoitoa voi antaa, vain lain nykyisen sanamuodon mukaan ja linkittää lain.'
+  url: https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2006/1237
+  publisher: Finlex
+  read: '2026-11-21'
+  note: 'Tutkija luki ajantasaisen version (27.6.2025) Finlexin avoimesta rajapinnasta: suostumus, lahjoittaja 18
+    vuotta, oikeus tietoon 18-vuotiaana. Tämä ajo avasi vain sivun (200). Lakia 547/2025 ei luettu; kirjoittaja
+    ei esitä sitä voimassa olevana sääntönä.'
+- key: rokotusohjelma
+  rule: Kansallisen rokotusohjelman rokotteet ovat vapaaehtoisia ja maksuttomia. Sosiaali- ja terveysministeriö
+    päättää ohjelman sisällöstä, hyvinvointialueet järjestävät rokotukset ja THL ohjeistaa ja seuraa niitä. Mitä
+    rokotteita missäkin iässä annetaan, muuttuu, joten sivusto linkittää taulukon eikä kirjoita ikärajoja.
+  url: https://thl.fi/en/our-view/it-s-important-to-keep-vaccination-coverage-high/finnish-national-vaccination-programme-which-vaccines-are-recommended-for-different-age-groups-
+  publisher: Terveyden ja hyvinvoinnin laitos (THL)
+  read: '2026-11-21'
+  note: 'Sivu päivitetty 9.10.2026 (luettu tässä ajossa): vapaaehtoinen ja maksuton, STM päättää sisällöstä, hyvinvointialueet
+    järjestävät, rokotteet rahoitetaan valtion budjetista, 13 tautia lapsilla ja nuorilla. Englanninkielinen.'
+- key: rokotuskattavuus
+  rule: Rokotuskattavuus kertoo, kuinka suuri osa väestöstä on saanut rokotuksen; laumasuojan taso riippuu taudista.
+    Sivusto ei kirjoita kattavuuslukuja tai tavoitelukuja vaan linkittää THL:n tilaston.
+  url: https://thl.fi/en/data-and-statistics/vaccinations/vaccination-coverage-among-children
+  publisher: Terveyden ja hyvinvoinnin laitos (THL)
+  read: '2026-11-21'
+  note: Sivu 30.6.2026 (tutkija luki; tarkistajat lukivat sivun uudelleen 2026-11-21); tämä ajo avasi sivun (200). Tutkija mainitsi tuhkarokko-sikotauti-vihurirokko-rokotteen
+    tavoitteen 95 %; lukua ei kirjoiteta.
+- key: tbe_rokotusalueet
+  rule: Puutiaisaivotulehdusrokote kuuluu kansalliseen rokotusohjelmaan THL:n määrittelemillä riskialueilla, ja
+    alueet muuttuvat. Rokote suojaa puutiaisaivotulehdukselta mutta ei borrelioosilta (Lymen taudilta), joka on
+    eri sairaus. Sivusto ei lue riskialueita vaan linkittää THL:n sivun.
+  url: https://thl.fi/ohjeita-ammattilaisille/tbe-rokote
+  publisher: Terveyden ja hyvinvoinnin laitos (THL)
+  read: '2026-11-21'
+  note: 'Sivu avattu (200); vanha osoite thl.fi/aiheet/infektiotaudit-ja-rokotukset/rokotteet-a-o/tbe-rokote-eli-punkkirokote
+    ohjaa tähän. Tutkija: päiväys 2.7.2026. Alasivu TBE tautina (luettu tässä ajossa) sanoo, että punkit levittävät
+    myös borrelioosia, joka on eri sairaus kuin puutiaisaivotulehdus; rokotteen suojan rajaus lukee sen sijaan vain
+    tutkijan muistiinpanoissa.'
+- key: puutiaistaudit_tilastot
+  rule: Puutiaisaivotulehduksen ja borrelioosin tapausmäärät tulevat THL:n tartuntatautirekisteristä ja vaihtelevat
+    vuosittain. Sivusto ei kirjoita tapausmääriä vaan linkittää THL:n sivun.
+  url: https://thl.fi/ohjeita-ammattilaisille/tbe-rokote/tbe-tautina
+  publisher: Terveyden ja hyvinvoinnin laitos (THL)
+  read: '2026-11-21'
+  note: Sivu TBE tautina luettu tässä ajossa (tauti esiintyy Suomessa etenkin rannikolla, riskialueilla keskimäärin
+    1-2 % punkeista kantaa virusta; päiväystä ei poimittu). Kriitikon antama sivu puutiaisaivotulehduksen esiintyvyydestä
+    antoi HTTP 404 kaksi kertaa, joten sitä ei käytetä (sampo.thl.fi-rekisteriä ei avattu).
+- key: vesi_ja_ruokavalitteiset_epidemiat
+  rule: Vesi- ja ruokavälitteiset epidemiat ovat tartuntatauteja, jotka leviävät saastuneen veden tai ruoan kautta;
+    THL seuraa niitä ja julkaisee tiedot. Sivusto ei kirjoita epidemioiden määriä vaan linkittää THL:n sivun.
+  url: https://thl.fi/en/data-and-statistics/infectious-diseases/food-and-waterborne-infections
+  publisher: Terveyden ja hyvinvoinnin laitos (THL)
+  read: '2026-11-21'
+  note: Sivu 30.9.2026 (tutkija luki; tarkistajat lukivat sivun uudelleen 2026-11-21); tämä ajo avasi sivun (200). Englanninkielinen. Vedenkäsittelystä ei ole luettua
+    erillistä sivua, joten vedenpuhdistuksen vaiheet kirjoitetaan yleisinä käsitteinä (arvio, M) tai jätetään linkittämättä.
+- key: seksitaudit_tilastot
+  rule: Seksitautien ilmoitetut tapaukset ja muu seksuaali- ja lisääntymisterveyden tilasto ovat THL:n sivuilla.
+    Sivusto ei kirjoita lukuja vaan linkittää tilaston.
+  url: https://thl.fi/data-ja-tilastot/seksuaali-ja-lisaantymisterveys
+  publisher: Terveyden ja hyvinvoinnin laitos (THL)
+  read: '2026-11-21'
+  note: Sivu päivitetty 5.11.2026 (tutkija luki; tarkistajat lukivat sivun uudelleen 2026-11-21); vanha osoite thl.fi/fi/tilastot-ja-data/tilastot-aiheittain/seksuaali-ja-lisaantymisterveys
+    ohjaa tähän. Tämä ajo avasi sivun (200). Seksitautien ilmoitusluokat kuuluvat TE1-aiheeseen 06.
+- key: mikrobilaakeresistenssi
+  rule: Mikrobilääkeresistenssi tarkoittaa, että mikrobi ei enää reagoi lääkkeeseen, jolla sitä ennen voitiin hoitaa.
+    Antibioottien tarpeeton käyttö nopeuttaa resistenssin kehittymistä, ja siksi lääkkeitä käytetään vain tarpeeseen
+    ja ohjeen mukaan. Resistenssin tilanne ja luvut vaihtuvat, joten sivusto linkittää THL:n ja WHO:n sivut.
+  url: https://thl.fi/en/data-and-statistics/infectious-diseases/antimicrobial-resistance
+  publisher: Terveyden ja hyvinvoinnin laitos (THL)
+  read: '2026-11-21'
+  note: THL-sivu 23.10.2026 ja WHO:n tietosivu 16.7.2026 (https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance)
+    tutkijan lukemia; molemmat avattu tässä ajossa (200). Lisäksi Ruokaviraston sivu https://www.ruokavirasto.fi/teemat/mikrobilaakeresistenssi-amr
+    (avattu, 200; vanha osoite ilman www ohjaa tähän).
+- key: syopatilastot
+  rule: Syöpien ilmaantuvuus ja ennuste vaihtelevat syövän mukaan, ja Suomen Syöpärekisteri julkaisee tilastot.
+    Sivusto ei kirjoita ilmaantuvuuslukuja vaan linkittää tilastosivun.
+  url: https://cancerregistry.fi/statistics/
+  publisher: Suomen Syöpärekisteri
+  read: '2026-11-21'
+  note: Englanninkielinen sivu luettu (päiväystä ei näy); tämä ajo avasi sivun (200). Suomenkielinen sivusto antoi
+    tutkijalle 403, eikä sitä käytetä.
+- key: hyvinvointialueet
+  rule: 'Sosiaali- ja terveyspalvelujen järjestämisvastuu on hyvinvointialueilla: niitä on 21, Helsingin kaupunki
+    vastaa palveluista omalla alueellaan, ja HUS-yhtymä hoitaa erikseen säädetyt vaativan erikoissairaanhoidon tehtävät.
+    Vastuu siirtyi kunnilta vuoden 2023 alussa. Alueet saavat rahoituksensa pääosin valtiolta eikä niillä ole verotusoikeutta.
+    Ohjaus ja rahoitus muuttuvat, joten sivusto linkittää STM:n ja väliarvioinnin.'
+  url: https://stm.fi/hyvinvointialueet
+  publisher: Sosiaali- ja terveysministeriö (STM)
+  read: '2026-11-21'
+  note: 'Sivu luettu tässä ajossa (päiväystä ei näy): 21 aluetta, Uudenmaan maakunta neljään alueeseen, Helsinki
+    ja HUS erikseen, siirto 2023 alussa, ei verotusoikeutta. Väliarviointi 10.12.2025: https://valtioneuvosto.fi/-/1271139/hyvinvointialueuudistuksen-valiarviointi-uudistus-etenee-tavoitteiden-saavuttaminen-edellyttaa-korjauksia
+    (tutkija luki; tarkistajat lukivat sivun uudelleen 2026-11-21; alueelliset erot).'
+- key: asiakasmaksut_maksukatto
+  rule: Julkisista terveyspalveluista peritään asiakasmaksuja, ja maksukatto rajoittaa vuoden aikana maksettavien
+    maksujen määrää; kun katto ylittyy, palvelut ovat maksuttomia kyseisiltä maksuilta. Alle 18-vuotiaan maksut
+    lasketaan yhteen huoltajan maksujen kanssa. Summat muuttuvat, joten sivusto ei kirjoita euroja vaan linkittää
+    STM:n sivun.
+  url: https://stm.fi/terveydenhuollon-maksukatto
+  publisher: Sosiaali- ja terveysministeriö (STM)
+  read: '2026-11-21'
+  note: 'Sivu luettu tässä ajossa (päiväystä ei näy): alle 18-vuotiaiden maksut lasketaan yhteen huoltajan kanssa,
+    katon täyttyessä palvelut ovat maksuttomia mukaan lasketuille. Tutkija mainitsi asiakasmaksulakiin liittyvän
+    muutoksen 1.3.2027 odottavan; sitä ei luettu eikä kirjoiteta.'
+- key: kela_laakekorvaukset
+  rule: Kela korvaa osan sairauden hoitoon määrättyjen reseptilääkkeiden kustannuksista, ja korvauksen suuruus riippuu
+    korvausluokasta; lisäksi on vuosittainen omavastuu ja kuluva vuosiomavastuu. Euromäärät ja luokat muuttuvat
+    (2026 ja 2027 eroavat), joten sivusto linkittää Kelan sivut eikä kirjoita summia.
+  url: https://www.kela.fi/laakkeet
+  publisher: Kela
+  read: '2026-11-21'
+  note: 'Sivu päivitetty 10.11.2026 (tutkija luki; tarkistajat lukivat sivun uudelleen 2026-11-21; sivun otsikko Lääkekorvaukset). Selkokielinen sivu: https://www.kela.fi/web/selkokieli/laakekorvaukset
+    (26.9.2026). Molemmat avattu tässä ajossa (200); korvausluokkien tarkkaa sisältöä ei kopioitu.'
+- key: itsehoitolaakkeet
+  rule: Itsehoitolääkkeet ovat lääkkeitä, jotka saa apteekista ilman reseptiä; osa niistä vaatii apteekissa lisäneuvontaa,
+    ja lääkkeen myyntipäällyksessä kerrotaan sen käyttö ja varoitukset. Sivusto ei anna annoksia, ja omissa oireissa
+    ohjataan opiskeluterveydenhuoltoon, lääkäriin tai apteekkiin.
+  url: https://fimea.fi/apteekit/lisaneuvontaa-vaativat-itsehoitolaakkeet
+  publisher: Fimea
+  read: '2026-11-21'
+  note: 'Sivu avattu (200); päiväystä ei näy; kirjoitettu apteekeille. Fimean kansalaisille suunnattu sivu: https://fimea.fi/en/for_public/correct-use-of-medicines
+    (avattu, 200). Itsehoitolääke-merkinnän sanamuotoa ei luettu, joten rule on yleisellä tasolla (M, tarkistettava).'
+- key: hoitotahto
+  rule: Hoitotahdossa ihminen voi etukäteen kieltäytyä tietyistä hoidoista tilanteessa, jossa hän ei itse pysty
+    päättämään hoidostaan; terveydenhuollon on otettava se huomioon. Hoitotahdon voi kirjata Omakantaan. Sivusto
+    linkittää ohjeen eikä anna yksittäisiä ohjeita.
+  url: https://www.terveyskirjasto.fi/dlk00809
+  publisher: Duodecim (Terveyskirjasto)
+  read: '2026-11-21'
+  note: Sivu 22.6.2026 (tutkija luki; tarkistajat lukivat sivun uudelleen 2026-11-21); tämä ajo avasi sivun (200). Omakanta-maininta on tutkijan muistiinpanosta;
+    lopullinen tarkistus Terveyskirjaston tekstistä kuuluu tarkistajalle.
+- key: elinluovutus
+  rule: 'Kudoslain 9 §:n mukaan kuolleelta voidaan irrottaa elimiä, jos hänen tahtonsa ei ole tiedossa eikä ole syytä
+    olettaa hänen vastustaneen. Eläessään tehtyä kieltoa noudatetaan. Elinluovutustahdon voi kertoa läheisille ja kirjata.'
+  url: https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2001/101
+  publisher: Finlex (oikeusministeriö)
+  read: '2026-11-21'
+  note: 'Ajantasainen kudoslaki 101/2001 luettu Finlexin avoimesta rajapinnasta 2026-11-21 (9 §). Taustaksi STM:n tiedote
+    24.8.2010 (https://stm.fi/-/elinluovutustahto-kannattaa-kertoa-laheisille-ja-kirjata-paperille) kertoo oletetun
+    suostumuksen tulleen voimaan 1.8.2010.'
+- key: palliatiivinen_hoito_lakiesitys
+  rule: Palliatiivinen hoito ja saattohoito ovat hyvinvointialueen järjestämisvastuulla olevia palveluja. STM on
+    valmistellut lakimuutosta, joka täsmentää säätelyä ja määrittelee käsitteet. Muutos on luonnos eikä voimassa
+    oleva laki, ja sivusto kertoo sen luonnoksena.
+  url: https://valtioneuvosto.fi/-/1271139/lausuntopyynto-hyvinvointialueiden-velvoitetta-jarjestaa-palliatiivinen-hoito-ja-saattohoito-ehdotetaan-tasmennettavaksi
+  publisher: Sosiaali- ja terveysministeriö (STM) / valtioneuvosto
+  read: '2026-11-21'
+  note: 'Lausuntopyyntö 25.2.2026 luettu tässä ajossa: palliatiivinen hoito ja saattohoito ovat jo nyt hyvinvointialueen
+    järjestettäviä, ehdotus täsmentäisi ja määrittelisi ne. Tavoitteena olevaa voimaantuloa (1.1.2027) ei vahvistettu.'
+- key: eutanasia_tilanne
+  rule: 'Eutanasian laillistamisesta ei ole yhteistä näkemystä: sosiaali- ja terveysministeriön asiantuntijaryhmä
+    totesi vuonna 2021, ettei sen jäsenillä ole yhteistä kantaa. Sivusto esittää eri näkemykset tasapuolisesti eikä
+    ota kantaa. Lain tulkinta ja kansalaisaloitteen tilanne tarkistetaan viimeisimmästä lähteestä.'
+  url: https://valtioneuvosto.fi/en/-/1271139/expert-working-group-proposes-changes-to-palliative-care-no-shared-view-on-the-legalisation-of-euthanasia
+  publisher: Sosiaali- ja terveysministeriö (STM) / valtioneuvosto
+  read: '2026-11-21'
+  note: Tiedote 31.8.2021 (tutkija luki, kriitikko tarkisti). Englanninkielinen; vanha, joten nykytila on erikseen.
+    Eutanasian oikeudellista asemaa ja kansalaisaloite KAA 4/2024:n tilaa ei luettu virallisesta lähteestä (jälkimmäinen
+    vain uutisesta); ne ovat yearly-facts-pending.yaml:ssa.
+- key: etene_periaatteet
+  rule: ETENE eli sosiaali- ja terveysalan eettinen neuvottelukunta on julkaissut sosiaali- ja terveysalan eettiset
+    periaatteet, jotka kokoavat alan arvopohjan ja tukevat eettistä harkintaa; ne eivät anna valmiita vastauksia
+    kaikkiin tilanteisiin. Sivusto ei luettele periaatteita vaan linkittää tiedotteen ja asiakirjan.
+  url: https://etene.fi/-/etene-on-julkistanut-sosiaali-ja-terveysalan-eettiset-periaatteet
+  publisher: Sosiaali- ja terveysalan eettinen neuvottelukunta (ETENE)
+  read: '2026-11-21'
+  note: Tiedote 13.3.2026 luettu tässä ajossa (uudistetut periaatteet; periaatteet eivät tarjoa valmiita vastauksia).
+    Periaatteiden asiakirjaa ei avattu, joten periaatteiden sisältöä ei kirjoiteta.
+- key: palko_priorisointi
+  rule: Palveluvalikoimaneuvosto (Palko) määrittelee, mitkä terveyspalvelut kuuluvat julkiseen palveluvalikoimaan;
+    tavoitteena ovat vaikuttavat, turvalliset ja kustannuksiltaan hyväksyttävät palvelut. Valinnassa punnitaan palvelun
+    vaikuttavuutta, turvallisuutta ja kustannusten hyväksyttävyyttä. Sivusto selittää periaatteet käsitteinä ja
+    linkittää Palkon sivun.
+  url: https://palveluvalikoima.fi/1.-johdanto
+  publisher: Palveluvalikoimaneuvosto (Palko)
+  read: '2026-11-21'
+  note: 'Sivu luettu tässä ajossa (päiväystä ei näy): Palko seuraa, määrittelee ja arvioi palveluvalikoimaa; tavoitteena
+    vaikuttavuus, turvallisuus ja kustannusten hyväksyttävyys. Palkon neljä priorisointiperustetta (tarve, hyöty,
+    tasa-arvo, kustannusvaikuttavuus) ovat kriitikon muistiinpanosta; niitä ei lue luetussa katkelmassa, joten kirjoittaja
+    ei esitä niitä sivun sanomina ennen kuin sivu on luettu kokonaan.'
+- key: terveyserot_tilastot
+  rule: Terveyserot väestöryhmien välillä (esimerkiksi koulutuksen, tulojen ja asuinalueen mukaan) näkyvät THL:n
+    väestön hyvinvointitiedoissa ja Hyvinvointikatsauksessa 2025. Sivusto ei kirjoita lukuja vaan linkittää THL:n
+    sivut.
+  url: https://thl.fi/data-ja-tilastot/vaeston-hyvinvointi
+  publisher: Terveyden ja hyvinvoinnin laitos (THL)
+  read: '2026-11-21'
+  note: 'Sivu avattu (200); vanha osoite thl.fi/tilastot-ja-data/tilastot-aiheittain/sairastavuus-ja-tapaturmat
+    ohjaa tähän. Hyvinvointikatsaus 2025 -uutinen 7.4.2026 (tutkija luki; tarkistajat lukivat sivun uudelleen 2026-11-21): https://thl.fi/en/our-view/there-are-persistent-inequalities-in-health-and-well-being-in-finland/thl-report-presents-116-recommendations-to-address-current-challenges-in-wellbeing-and-health'
+- key: kuolleet_elinajanodote
+  rule: Elinajanodote ja kuolemansyyt julkaisee Tilastokeskus; elinajanodote kertoo, kuinka kauan keskimäärin eletään
+    kuolleisuuden tietyllä tasolla. Sivusto ei kirjoita lukuja vaan linkittää tilaston.
+  url: https://stat.fi/fi/tilasto/kuol
+  publisher: Tilastokeskus
+  read: '2026-11-21'
+  note: Sivu päivitetty 24.4.2026 (tutkija luki; tarkistajat lukivat sivun uudelleen 2026-11-21); vanha osoite stat.fi/tilasto/kuol ohjaa tähän. Tämä ajo avasi
+    sivun (200). Käyttöehtoja ei luettu.
+- key: who_ncd
+  rule: Tarttumattomat taudit ovat maailmanlaajuisesti suurin kuolemansyyryhmä; WHO julkaisee niistä tietosivun
+    ja ehkäisyn toimintalinjat. Sivusto ei kirjoita globaaleja lukuja vaan linkittää WHO:n sivun.
+  url: https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases
+  publisher: Maailman terveysjärjestö (WHO)
+  read: '2026-11-21'
+  note: Tietosivu 25.9.2025 (tutkija luki; tarkistajat lukivat sivun uudelleen 2026-11-21); englanninkielinen; tämä ajo avasi sivun (200). Väite "suurin kuolemansyyryhmä"
+    on yleistieto (M), jonka tarkistaja varmistaa sivulta.
+- key: who_sdh
+  rule: WHO:n tietosivun mukaan korkeammin koulutetuilla on väestötasolla parempi terveys ja pidempi elinikä, eliniänodote
+    vaihtelee maiden sisälläkin asuinalueen mukaan, ja työ- ja asumisolot kuuluvat terveyteen vaikuttaviin tekijöihin;
+    WHO julkaisee aiheesta tietosivun. Sivusto ei kirjoita lukuja vaan linkittää sivun.
+  url: https://www.who.int/news-room/fact-sheets/detail/social-determinants-of-health
+  publisher: Maailman terveysjärjestö (WHO)
+  read: '2026-11-21'
+  note: Tietosivu 6.5.2025 (tutkija luki; tarkistajat lukivat sivun uudelleen 2026-11-21); englanninkielinen; tämä ajo avasi sivun (200). Sanamuoto "suuren osan" ja "asuinolot" ei ole sivulla, joten sitä ei käytetä; sivu mainitsee koulutuksen, tulojen epätasaisuuden, eliniän vaihtelun ja "decent housing and working conditions".
+- key: hiap_helsinki_2013
+  rule: Terveys kaikissa politiikoissa (Health in All Policies, HiAP) tarkoittaa, että terveysvaikutukset otetaan
+    huomioon kaikilla politiikan aloilla, ei vain terveydenhuollossa. Aiheesta järjestettiin WHO:n 8. kansainvälinen
+    terveyden edistämisen konferenssi Helsingissä kesäkuussa 2013.
+  url: https://stm.fi/sv/-/suomi-nayttaa-esimerkkia-terveyden-viemisessa-poliittiseen-paatoksentekoon
+  publisher: Sosiaali- ja terveysministeriö (STM)
+  read: '2026-11-21'
+  note: 'STM:n tiedote 14.6.2013 (sivu avattu tässä ajossa, 200; otsikko luettu). Konferenssin ajankohta 10.-14.6.2013
+    on tutkijan muistiinpanosta (ei vahvistettu sivulta). HiAP-käsitteen sivu: https://research.tuni.fi/centre-for-hiap-and-sdh/hiap-approach/
+    (avattu, 200).'
+- key: mll_116111
+  rule: Lasten ja nuorten puhelin 116 111 on MLL:n palvelu, joka on tarkoitettu alle 25-vuotiaille; se on maksuton
+    ja nimetön. Aukioloajat ja tarkemmat ehdot ovat palvelun omalla sivulla, eikä niitä kopioida.
+  url: https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/
+  publisher: Mannerheimin Lastensuojeluliitto (MLL), Nuortennetti
+  read: '2026-11-21'
+  note: Sivu päivitetty 23.9.2026 (tutkija luki, kriitikko ja tarkistajat tarkistivat); tämä ajo avasi sivun (200). Hätätilanteessa
+    soitetaan 112.
+- key: seulontaohjelmat
+  rule: Suomessa on väestöpohjaisia syöpäseulontaohjelmia, joihin kutsutaan ihmisiä; ohjelmia ovat rintasyövän,
+    kohdunkaulansyövän ja suolistosyövän seulonta. Sivusto ei kirjoita ikärajoja eikä seulontavälejä.
+  url: https://www.syopajarjestot.fi/uutinen/syopaseulontoihin-osallistumisessa-merkittavia-eroja-vaestoryhmien-valilla/
+  publisher: Syöpäjärjestöt
+  read: '2026-11-21'
+  note: 'Uutinen 21.5.2026 luettu 2026-11-21. Sivu mainitsee suolistosyövän seulontaohjelman (alkoi 2022, kutsuttiin 2024)
+    ja rintasyövän 50-69 vuoden ikärajan sekä kutsuttujen osallistumisen. Sivu ei sano osallistumisen olevan vapaaehtoista,
+    eikä sitä väitetä. Ikärajat ja välit tarkistetaan THL:n tai Syöpäjärjestöjen seulontasivulta ennen kuin ne kirjoitetaan.'
+- key: kela_hedelmoityshoito
+  rule: Kela korvaa osan yksityisessä terveydenhuollossa tehdyistä hedelmöityshoidoista, jos lapsettomuus johtuu sairaudesta.
+    Sivusto ei kirjoita korvauksen ehtoja tarkemmin eikä summia.
+  url: https://www.kela.fi/yhteistyokumppanit-terveydenhuolto-sairaanhoitokorvaukset-hedelmoityshoito
+  publisher: Kela
+  read: '2026-11-21'
+  note: 'Sivu Sairaanhoitokorvaus hedelmöityshoidosta, päivitetty 29.12.2025, luettu 2026-11-21. Sivu on kirjoitettu
+    ammattilaisille (yhteistyökumppanit). Summat ja ikärajat vaihtuvat, joten niitä ei kopioida.'

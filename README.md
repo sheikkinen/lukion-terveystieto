@@ -5,8 +5,8 @@
 > lääkäriltä, ja hätätilanteessa soita 112.
 
 Avoin, CC BY 4.0 -lisensoitu materiaali lukion terveystietoon. Se seuraa lukion opetussuunnitelman perusteita 2019.
-Valmiina ovat pakollinen moduuli TE1 *Terveys voimavarana* ja valinnainen TE2 *Terveys ja ympäristö* (kumpikin
-10 aihetta); TE3 tulee myöhemmin. Jokainen aihe toimii kahdella tavalla: itsenäisenä oppituntina opettajalle (tuntisuunnitelma 75, 60 ja
+Valmiina ovat pakollinen moduuli TE1 *Terveys voimavarana* ja valtakunnalliset valinnaiset TE2 *Terveys ja ympäristö*
+ja TE3 *Terveys ja yhteiskunta* (kukin 10 aihetta). Jokainen aihe toimii kahdella tavalla: itsenäisenä oppituntina opettajalle (tuntisuunnitelma 75, 60 ja
 45 minuutille) ja itseopiskelun askeleena opiskelijalle. Jokaisessa aiheessa on ylioppilaskokeen tehtävätyyppejä
 mukailevia omia harjoitustehtäviä mallivastauksineen sekä linkit olemassa oleviin materiaaleihin (THL, Ruokavirasto,
 UKK-instituutti, Mielenterveystalo, MIELI ry, Nyyti, Väestöliitto, Seta ja muut) ja niiden lisenssit.
@@ -39,6 +39,16 @@ Markdown-tiedostoina:
 | TE2 8. Työhyvinvointi | [te2-08-tyohyvinvointi](content/topics/08-tyohyvinvointi.md) |
 | TE2 9. Mielihyvä ja riippuvuuden mekanismit | [te2-09-riippuvuuden-mekanismit](content/topics/09-riippuvuuden-mekanismit.md) |
 | TE2 10. Aine- ja toiminnalliset riippuvuudet: syyt, haitat ja ehkäisy | [te2-10-riippuvuudet](content/topics/10-riippuvuudet.md) |
+| TE3 1. Terveyskäsitykset ja sairauksien selitysmallit historiassa | [te3-01-terveyskasitykset-ja-selitysmallit](content/topics/01-terveyskasitykset-ja-selitysmallit.md) |
+| TE3 2. Miten yhteiskunta, tiede ja teknologia ovat muuttaneet väestön terveyttä | [te3-02-vaeston-terveyden-muutos](content/topics/02-vaeston-terveyden-muutos.md) |
+| TE3 3. Tarttumattomat kansantaudit: riskitekijät, ilmaantuvuus ja ehkäisy | [te3-03-tarttumattomat-taudit](content/topics/03-tarttumattomat-taudit.md) |
+| TE3 4. Tartuntataudit, rokotukset ja mikrobilääkeresistenssi | [te3-04-tartuntataudit-ja-rokotukset](content/topics/04-tartuntataudit-ja-rokotukset.md) |
+| TE3 5. Sosiaali- ja terveyspalvelut: järjestäminen, tuottaminen ja käyttäminen | [te3-05-sosiaali-ja-terveyspalvelut](content/topics/05-sosiaali-ja-terveyspalvelut.md) |
+| TE3 6. Itsehoito, omahoito ja lääkkeet | [te3-06-itsehoito-omahoito-ja-laakkeet](content/topics/06-itsehoito-omahoito-ja-laakkeet.md) |
+| TE3 7. Eettisen analyysin näkökulmat | [te3-07-eettisen-analyysin-nakokulmat](content/topics/07-eettisen-analyysin-nakokulmat.md) |
+| TE3 8. Eettiset ja oikeudelliset kysymykset: hedelmöityshoidot, raskaudenkeskeytys, seulonnat ja geeniteknologia | [te3-08-hedelmoityshoidot-abortti-seulonnat-geenit](content/topics/08-hedelmoityshoidot-abortti-seulonnat-geenit.md) |
+| TE3 9. Elämän loppu, elintapojen vapaus ja vastuu, potilaan oikeudet ja priorisointi | [te3-09-elaman-loppu-potilaan-oikeudet-priorisointi](content/topics/09-elaman-loppu-potilaan-oikeudet-priorisointi.md) |
+| TE3 10. Terveyden eriarvoisuus Suomessa ja maailmalla sekä tulevaisuuden haasteet | [te3-10-terveyden-eriarvoisuus-ja-tulevaisuus](content/topics/10-terveyden-eriarvoisuus-ja-tulevaisuus.md) |
 
 **Lisenssi:** CC BY 4.0, katso [LICENSE](LICENSE). Opetussuunnitelman tekstit ovat Opetushallituksen (ePerusteet), ja
 linkitetyillä materiaaleilla on omat ehtonsa. Ylioppilaskokeiden tehtäviä ei ole kopioitu: harjoitustehtävät ovat
@@ -54,6 +64,10 @@ omia, ja niiden pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintola
 - [ ] **Content notes** appear in the front matter of every flagged page, and in topics 06 and 07 also as a blockquote
   in the text. The site build will render them once, and the blockquotes will be removed.
 - [ ] **Offline tasks:** several topics invent a person on paper offline, while the online steps use a named case.
+- [ ] **TE3 exam coverage:** a re-mapping put full coverage of TE3-touching exam points at about 67% (partial 31%,
+  none 2%, before the second fix round). Still missing: carcinogen classes, rheumatic diseases, water treatment,
+  autoimmune disease, travel health, ordered child-mortality measures, screening ages, and euthanasia's legal status
+  (pending law, left as a link). See `docs/review/2026-11-21-brief-010-judgement.md`.
 - [ ] **Matriculation exam coverage:** TE1 is the main subject of about 28% of exam points; our topics cover its TE1 content mostly partly. Additions per topic are in `docs/research/2026-11-21-exam-cross-check.md`.
 
 - [ ] **Live check minors (2026-11-21):** the crisis-line number is written in the text, although changing figures
