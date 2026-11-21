@@ -27,7 +27,7 @@ official_links:
   - {title: "Miten tunnetaitoja opitaan? (Mielenterveystalo)", url: "https://www.mielenterveystalo.fi/fi/omahoito/nuorten-haastavan-kaytoksen-omahoito-ohjelma/miten-tunnetaitoja-opitaan", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
   - {title: "Miksi sosiaalinen media koukuttaa? (Mielenterveystalo)", url: "https://www.mielenterveystalo.fi/fi/digihaitat/miksi-sosiaalinen-media-koukuttaa", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
   - {title: "Mitä yksinäisyys on? (Mielenterveystalo)", url: "https://www.mielenterveystalo.fi/fi/omahoito/yksinaisyyden-omahoito-ohjelma/mita-yksinaisyys", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
-  - {title: "Ilmastoahdistus ja sen kanssa eläminen (MIELI)", url: "https://mieli.fi/tukea-ja-apua/ilmastoahdistus/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
+  - {title: "Ilmastoahdistus ja sen kanssa eläminen (MIELI)", url: "https://mieli.fi/materiaali/ilmastoahdistus-ja-sen-kanssa-elaminen/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
   - {title: "Alkoholi (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/alkoholi", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Nikotiinituotteet (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
 yearly_facts: [kriisipuhelimet, opiskeluterveydenhuolto]
@@ -44,7 +44,7 @@ linked_materials:
   - {title: "Mielenterveystalo: tunnetaidot", url: "https://www.mielenterveystalo.fi/fi/omahoito/nuorten-haastavan-kaytoksen-omahoito-ohjelma/miten-tunnetaitoja-opitaan", publisher: "Mielenterveystalo.fi (HUS)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
   - {title: "Mielenterveystalo: sosiaalinen media", url: "https://www.mielenterveystalo.fi/fi/digihaitat/miksi-sosiaalinen-media-koukuttaa", publisher: "Mielenterveystalo.fi (HUS)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
   - {title: "Mielenterveystalo: yksinäisyys", url: "https://www.mielenterveystalo.fi/fi/omahoito/yksinaisyyden-omahoito-ohjelma/mita-yksinaisyys", publisher: "Mielenterveystalo.fi (HUS)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
-  - {title: "MIELI: ilmastoahdistus", url: "https://mieli.fi/tukea-ja-apua/ilmastoahdistus/", publisher: "MIELI Suomen Mielenterveys ry", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
+  - {title: "MIELI: ilmastoahdistus", url: "https://mieli.fi/materiaali/ilmastoahdistus-ja-sen-kanssa-elaminen/", publisher: "MIELI Suomen Mielenterveys ry", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
 exam_tasks:
   - {id: K1, type: oikein-vaarin, part: A20, points: 20, minutes: 20, codes: [TE1.t1, TE1.s6]}
   - {id: K2, type: vertailu, part: B20, points: 20, minutes: 30, codes: [TE1.t1, TE1.s6]}
@@ -105,7 +105,7 @@ Asiallinen, kunnioittava puhe madaltaa kynnystä pyytää apua. Vitsailu mielent
 - **Tunnetaidot:** tunteen tunnistaminen, nimeäminen, ilmaiseminen ja säätely ovat opittavia taitoja, jotka vahvistuvat harjoittelulla ja turvallisessa ympäristössä ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/omahoito/nuorten-haastavan-kaytoksen-omahoito-ohjelma/miten-tunnetaitoja-opitaan)). Tunteen piilottaminen ei poista sitä.
 - **Sosiaalinen media:** se tukee yhteyttä, mutta sovellukset on suunniteltu pitämään käyttäjä mukana ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/digihaitat/miksi-sosiaalinen-media-koukuttaa)). Vertailu toisten kuvattuun elämään, jäämisen pelko ja verkkokiusaaminen voivat kuormittaa. Käyttötapa ratkaisee.
 - **Yksinäisyys:** pitkään jatkuva kokemus läheisyyden puutteesta, eri asia kuin valittu yksinolo. Se voi vahvistaa itseään, kun se muuttaa tapaa ajatella itsestä ja toisista ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/omahoito/yksinaisyyden-omahoito-ohjelma/mita-yksinaisyys)).
-- **Ilmastoahdistus:** ymmärrettävä reaktio ympäristön tilaan, ei sairaus. Jos se lamaannuttaa, siitä kannattaa puhua, ja tieto ja yhteinen toiminta voivat muuttaa sen voimaksi ([MIELI](https://mieli.fi/tukea-ja-apua/ilmastoahdistus/)).
+- **Ilmastoahdistus:** ymmärrettävä reaktio ympäristön tilaan, ei sairaus. Jos se lamaannuttaa, siitä kannattaa puhua, ja tieto ja yhteinen toiminta voivat muuttaa sen voimaksi ([MIELI](https://mieli.fi/materiaali/ilmastoahdistus-ja-sen-kanssa-elaminen/)).
 - **Alkoholi ja nikotiini** ovat elintapatekijöitä, jotka vaikuttavat terveyteen ([THL: alkoholi](https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/alkoholi), [THL: nikotiinituotteet](https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet)). Niitä käsitellään tarkemmin moduulissa [TE2](../../opetussuunnitelma/).
 
 Jos jokin näistä painaa mieltä, lue osio *Apua ja tukea*.

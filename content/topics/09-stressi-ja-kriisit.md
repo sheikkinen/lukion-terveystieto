@@ -229,11 +229,11 @@ Tämä tehtävä käsittelee ystävän huolta. Voit ohittaa sen, jos aihe tuntuu
 
 *Aineisto (kuvitteellinen):* **Kim** ja **Noor** ovat olleet ystäviä pitkään. Noor on viime aikoina vetäytynyt ja vaikuttaa hyvin uupuneelta, ja hän on sanonut asioita, jotka huolestuttavat Kimiä. Kim on päättänyt, että asiaan tarvitaan aikuinen. Hän pohtii, miten asian voi tehdä niin, että Noorin luottamus säilyy. Kim pelkää, että Noor suuttuu ja ystävyys päättyy. Koulussa on opiskeluhuolto, jossa Kim voisi käydä.
 
-a) Tunnista tilanteen osapuolet ja eettiset arvot ja periaatteet, jotka ovat vastakkain. (8 p)
+a) Tunnista tilanteen osapuolet ja eettiset arvot ja periaatteet, jotka ovat vastakkain. (10 p)
 
 b) Esitä kaksi vaihtoehtoista tapaa, joilla Kim voi ottaa aikuisen mukaan, ja punnitse niiden seurauksia. (12 p)
 
-c) Perustele kannanotto siitä, miten Kimin kannattaa toimia, ja kerro, miten koulu ja yhteiskunta voivat tukea sekä Nooria että Kimiä. (10 p)
+c) Perustele kannanotto siitä, miten Kimin kannattaa toimia, ja kerro, miten koulu ja yhteiskunta voivat tukea sekä Nooria että Kimiä. (8 p)
 
 ## Mallivastaukset
 
@@ -324,9 +324,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 *Sisältö 15 p:*
 
-- a) Osapuolet tunnistettu 1 p; vähintään kolme arvoa tai periaatetta nimetty 1 p; vastakkainasettelu selitetty 1 p. Yhteensä 3 p.
+- a) Osapuolet tunnistettu 1 p; vähintään kolme arvoa tai periaatetta nimetty 2 p; vastakkainasettelu selitetty 1 p. Yhteensä 4 p.
 - b) Kaksi toimintatapaa esitetty 1 p kumpikin; kummallekin etu ja haitta punnittu 2 p kumpikin. Yhteensä 6 p.
-- c) Kannanotto esitetty ja perusteltu arvoilla 2 p; konkreettinen toimintatapa (avoimuus Nooralle, aikuinen, 112 tarvittaessa) 2 p; koulun ja yhteiskunnan tuki 2 p. Yhteensä 6 p.
+- c) Kannanotto esitetty ja perusteltu arvoilla 2 p; konkreettinen toimintatapa (avoimuus Nooralle, aikuinen, 112 tarvittaessa) 2 p; koulun ja yhteiskunnan tuki 1 p. Yhteensä 5 p.
 
 *Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); kokonaisarvio viiden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
@@ -334,7 +334,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 6–11 p: sisältö on pääosin oikein, mutta arvoja ei nimetä tai vaihtoehtoja punnitaan yksipuolisesti.
 - 0–5 p: vastaus antaa vain neuvon ilman arvoja ja perusteluja tai ei käytä aineistoa.
 
-Tehtävänannon osapisteet (a 8 p, b 12 p, c 10 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+Tehtävänannon osapisteet (a 10 p, b 12 p, c 8 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
 - Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 

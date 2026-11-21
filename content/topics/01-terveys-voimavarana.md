@@ -264,9 +264,10 @@ Lauseet 2, 4 ja 7 ovat oikein.
 
 - Jokainen viidestä virheestä 4 p: virheen tunnistaminen ja selitys, miksi se on väärin, 2 p; täsmällinen korjaus käsitteineen 2 p. Yhteensä 5 × 4 p = 20 p.
 - Oikean lauseen merkitseminen virheeksi: −1 p kerrallaan (ei alle nollan tehtävästä).
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 *Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (terveys, voimavara, taustatekijä, terveyden edistäminen), soveltaminen (esimerkit), analysointi (miksi väite on liian kapea), arviointi ja argumentointi (selkeä rakenne virhe kerrallaan).
+
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 20 p
 
@@ -342,9 +343,10 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 12–15 p: ehdotukset liittyvät Järvelän tapauksen yksityiskohtiin; b punnitsee toteutettavuutta, kustannuksia ja tavoittavuutta; c erottaa käsitteet täsmällisesti; vastaus etenee toiminta-alue kerrallaan.
 - 6–11 p: ehdotukset ovat oikein mutta yleisiä, arvio on yksipuolinen tai luokittelu jää perustelematta.
 - 0–5 p: vastaus luettelee toiminta-alueita ilman ehdotuksia tai ei käytä aineistoa.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 15 p, b 8 p, c 7 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 30 p
 

@@ -211,11 +211,11 @@ Nimeä jokaisesta kuvitteellisesta tapauksesta ilmiö tai käsite, jonka se kuva
 2. Kunta laskee nopeusrajoitusta koulun ympäristössä, jotta kulkeminen olisi turvallisempaa.
 3. Aaro tarkistaa terveyssovellusta jatkuvasti, ahdistuu pienistä asioista ja jättää harrastuksia väliin terveyden nimissä.
 4. Tavallista ujoutta aletaan kutsua hoitoa vaativaksi häiriöksi.
-5. Noorin tarkastuksessa löytyy pieni muutos, joka ei olisi koskaan aiheuttanut oireita. Hän saa lisätutkimuksia ja kärsii turhasta huolesta.
+5. Noorin tarkastuksessa löytyy pieni muutos, joka ei olisi koskaan aiheuttanut oireita. Muutokselle annetaan sairauden nimi, ja Noori alkaa murehtia sitä.
 6. Sami saa lievään vaivaan hoitoa, josta ei ole hänelle hyötyä ja jonka haitat ovat hankalia.
-7. Hoito lupaa parantaa kaikki vaivat, eikä siitä ole tutkimusta.
+7. Rami käyttää hoitoa, jonka tehoa ei ole tutkittu, lääkärin suosittaman hoidon sijasta.
 8. Mainoksessa lukee: "Tuhannet ovat olleet tyytyväisiä."
-9. Kim tarkistaa kirjoittajan ja lähteet ennen kuin uskoo terveysväitteeseen ja miettii, mitä tieto merkitsee muille.
+9. Kim tarkistaa kirjoittajan, lähteet ja päivityspäivän ennen kuin uskoo terveysväitteeseen.
 10. Alueella ajatellaan, että pieni vaiva paranee itsestään eikä lääkäriin mennä turhaan. Naapurit neuvovat toisiaan.
 
 ### K2: Aineiston analyysi, 35 min (20 p)
@@ -254,11 +254,11 @@ c) Arvioi, mikä on perusteltu ratkaisu, ja ehdota lievempi keino, joka tavoitta
 2. **Elintapoihin puuttuminen:** kunta ohjaa kulkemista päätöksellä, joka rajoittaa vapautta mutta suojaa.
 3. **Terveyteen sairastuminen:** terveyden tavoittelu on muuttunut itsetarkoitukseksi ja haittaa elämää.
 4. **Medikalisaatio:** tavallinen persoonallisuuden piirre selitetään sairautena.
-5. **Ylidiagnostiikka:** löydetään muutos, joka ei olisi aiheuttanut oireita, ja siitä seuraa lisätutkimuksia ja huolta.
-6. **Ylihoito:** hoidosta ei ole hyötyä tai sen haitat ylittävät hyödyt.
-7. **Uskomus- eli vaihtoehtohoito:** hoito lupaa kaiken ilman tutkimusnäyttöä.
+5. **Ylidiagnostiikka:** löydetään ja nimetään muutos, joka ei olisi aiheuttanut oireita, ja siitä seuraa huolta.
+6. **Ylihoito:** annettu hoito ei hyödytä tai sen haitat ylittävät hyödyt.
+7. **Uskomus- eli vaihtoehtohoito:** hoidon teho ei perustu tutkimusnäyttöön, ja se korvaa tutkitun hoidon.
 8. **Mainonnan keino, kokemustarina:** tyytyväisten määrä kuulostaa todisteelta mutta kertoo mielipiteen eikä vaikutusta.
-9. **Terveysosaaminen:** Kim käyttää kriittistä ajattelua ja eettistä vastuullisuutta.
+9. **Terveyslukutaito:** Kim arvioi tiedon luotettavuutta tarkistamalla kirjoittajan ja lähteet.
 10. **Terveyskulttuuri:** yhteisön tavat ja uskomukset ohjaavat, milloin hoitoon mennään ja keneltä neuvoa kysytään.
 
 **Pisteytys**
@@ -267,9 +267,11 @@ c) Arvioi, mikä on perusteltu ratkaisu, ja ehdota lievempi keino, joka tavoitta
 
 - Jokainen tapaus 2 p: oikea käsite 1 p (sanastossa mainitut synonyymit käyvät) ja perustelu, joka yhdistää tapauksen käsitteeseen, 1 p. Yhteensä 10 × 2 p = 20 p.
 - Sama käsite kahdesti: toinen vastaus 0 p. Perustelu ilman oikeaa käsitettä ei tuota pistettä.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
+- Tapaus 5 on ylidiagnostiikkaa (nimi ja huoli, ei hoitoa), tapaus 6 ylihoitoa (hoito ilman hyötyä); tapaus 7 on vaihtoehtohoitoa (tutkimusnäytön puute), tapaus 8 mainonnan kokemustarina. Tapaus 9: terveyslukutaito 1 p; myös terveysosaaminen kelpaa, kun perustelu nimeää kriittisen ajattelun tai lähteiden arvioinnin.
 
 *Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (läheisten käsitteiden ero, esimerkiksi medikalisaatio ja ylidiagnostiikka), soveltaminen (tapauksen yksityiskohta perustelussa), analysointi, arviointi ja argumentointi (perustelu kertoo, miksi käsite sopii).
+
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 20 p
 
@@ -343,9 +345,10 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 12–15 p: eettiset käsitteet ovat täsmällisiä; kummankin puolen perustelut ovat oikeudenmukaisia; arvio punnitsee ja kanta perustellaan; ehdotus on realistinen; vastaus etenee kohdittain.
 - 6–11 p: sisältö on pääosin oikein, mutta toinen puoli jää ohueksi, arvio on yleinen tai kanta jää perustelematta.
 - 0–5 p: vastaus on mielipide ilman perusteluja tai ei käytä aineistoa.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 10 p, b 10 p, c 10 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 30 p
 

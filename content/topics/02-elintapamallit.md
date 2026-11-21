@@ -250,9 +250,9 @@ c) Selitä kuvion ja mallin avulla, millaista tukea kampanja antaisi kahdelle su
 
 Koulu harkitsee kampanjaa.
 
-a) Analysoi aineiston avulla, mitä suunnitellun käyttäytymisen teorian käsitteitä siinä näkyy. (8 p)
+a) Analysoi aineiston avulla, mitä suunnitellun käyttäytymisen teorian käsitteitä siinä näkyy. (9 p)
 
-b) Selitä sosiaalis-kognitiivisen teorian tai terveysuskomusmallin avulla kaksi aineiston ajatusta. (10 p)
+b) Selitä sosiaalis-kognitiivisen teorian tai terveysuskomusmallin avulla kaksi aineiston ajatusta. (9 p)
 
 c) Arvioi, mitä mallit eivät aineiston tilanteessa selitä, ja tee kaksi perusteltua ehdotusta kampanjaksi. Ota huomioon, että opiskelijat ovat eri muutosvaiheissa. (12 p)
 
@@ -360,9 +360,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 12–15 p: käsitteet ovat täsmällisiä; analyysi nojaa aineiston lainauksiin; mallien rajat arvioidaan; ehdotukset ovat realistisia ja perusteltuja; vastaus etenee kohdittain.
 - 6–11 p: sisältö on pääosin oikein, mutta aineistoon viitataan vähän, arvio on yleinen tai ehdotukset jäävät perustelematta.
 - 0–5 p: vastaus luettelee käsitteitä, jää yleiselle tasolle tai ei käytä aineistoa.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
+Tehtävänannon osapisteet (a 9 p, b 9 p, c 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
-Tehtävänannon osapisteet (a 8 p, b 10 p, c 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 30 p
 

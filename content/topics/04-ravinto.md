@@ -189,9 +189,9 @@ Syömishäiriöt ovat vakavia sairauksia, joihin voi sairastua kuka tahansa. Nii
 **Ilman laitetta:** Tehtävä tehdään paperilla ilman verkkoa. Kirjoita paperille kuvitteellinen lyhyt ruokasuositus-sivu, jossa on otsikko, julkaisija, päiväys ja yksi teema, esimerkiksi monipuolinen ruoka. Tee sitten vaiheet 3–5 siitä.
 **Harjoittelet:** Osaan 1 ja 5
 
-1. Avaa [Ruokaviraston ravitsemus- ja ruokasuositukset](https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravitsemus--ja-ruokasuositukset/) ja kirjoita ylös, kuka sivun julkaisee ja milloin se on päivitetty.
-2. Valitse yksi sivun teema ja lue sen kohta.
-3. Kirjoita omin sanoin yksi lause siitä, miksi tämä asia tukee terveyttä ja jaksamista. Älä kopioi lukuja.
+1. Avaa [Ruokaviraston terveyttä edistävän ruokavalion sivu](https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/) ja kirjoita ylös, kuka sivun julkaisee ja milloin se on päivitetty.
+2. Valitse tämän sivun taulukosta Ravintoaineet: tehtävät ja ruokalähteet yksi ravintoaine ja tarkista sen tehtävä Ruokaviraston sivulta [Ravintoaineet](https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravintoaineet/).
+3. Kirjoita omin sanoin yksi lause siitä, miksi tämä ravintoaine tukee terveyttä ja jaksamista. Älä kopioi lukuja.
 4. Kirjoita yksi lause siitä, mikä tekijä voi estää ihmistä toimimaan suosituksen mukaan.
 5. Ehdota yksi keino, jolla koulu tai kunta voisi tukea tätä, ja perustele yhdellä lauseella.
 
@@ -404,7 +404,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka vaikuttaa siihen, mitä ihmiset syövät. | Kerro tunnin alussa sisältöhuomautus: tunnilla käsitellään syömistä ja painoa, lukuja ei käytetä. Lue lappuja ja ryhmittele: yksilö, yhteisö, yhteiskunta, maailma. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 10 | Oikein vai väärin -väittämät pareittain: "Ruokavalinnat riippuvat vain tahdonvoimasta." "Ruoka vaikuttaa jaksamiseen ja keskittymiseen." "Kehot ovat erilaisia." | Vastausvihjeet: väärin, oikein, oikein. Perustele. Kytke lappuihin. | Väittämät paperilla. | Käsittele kaksi ensimmäistä. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: ravinto, taustatekijä, painonhallinta, ruokapuhe. | Esittele ravinnon tehtävät ja neljä tasoa. Selitä, että painonhallinta tarkoittaa hyvinvointia, ei lukuja. Älä käytä esimerkkejä painosta tai ruokamääristä. | Jaa käsitteet paperilla. | Esittele vain ravinnon tehtävät ja tasot. |
+| Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: ravinto, taustatekijä, painonhallinta, ruokapuhe. | Esittele ravinnon tehtävät ja neljä tasoa. Selitä, että painonhallinta tarkoittaa hyvinvointia, ei lukuja. Älä käytä esimerkkejä painosta tai ruokamääristä. | Jaa käsitteet paperilla. Tai: parit yhdistävät sivun ravintoaine-taulukosta ravintoaineen sen tehtävään ja ruokalähteeseen. | Esittele vain ravinnon tehtävät ja tasot. |
 | Työskentely | 25 | Tehtävä 1 (20 min) yksin tai pareittain, sitten Tehtävän 2 vaiheet 1–2 (5 min). | Kierrä ja kysy: miksi tämä tekijä on tällä kehällä? Muistuta, että analysoidaan Samia, ei itseä. | Pari tekee yhteiset kehät. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät valitsevat kaksi tekijää, joihin koulu tai kunta voisi vaikuttaa, ja ehdottavat keinon. | Kokoa ehdotukset taululle tasoittain. Nosta esiin, että ruokailun oloihin voi vaikuttaa. | Yksin: kirjoita kaksi ehdotusta. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n kohdat 1–5 yksin (7 min) ja tarkistus (3 min). Exit-lappu: yksi käsite, joka on vielä epäselvä. | Näytä K1:n pisteytys ja kysy: mitä väärä vastaus maksaa? | Paperilla. | Tarkistus kotona. |

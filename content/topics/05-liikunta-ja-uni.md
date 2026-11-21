@@ -26,7 +26,7 @@ official_links:
   - {title: "Uni on korvaamatonta, varsinkin aivojen palautumiselle", url: "https://www.ttl.fi/tyopiste/uni-on-korvaamatonta-varsinkin-aivojen-palautumiselle", publisher: "Työterveyslaitos", read: 2026-11-21}
   - {title: "Unettomuus (unen vaiheet ja univaihesyklit)", url: "https://www.terveyskirjasto.fi/dlk00534", publisher: "Terveyskirjasto (Duodecim)", read: 2026-11-21}
   - {title: "Terveysliikunta", url: "https://www.terveyskirjasto.fi/dlk00934", publisher: "Terveyskirjasto (Duodecim)", read: 2026-11-21}
-  - {title: "Liikunta ja mielen hyvinvointi", url: "https://ukkinstituutti.fi/liike-laakkeena/liikunta-ja-mielen-hyvinvointi/", publisher: "UKK-instituutti", read: 2026-11-21}
+  - {title: "Liikunta ja mielen hyvinvointi", url: "https://ukkinstituutti.fi/elintapaohjaus/liikkuminen-ja-hyvinvointi/liikunta-ja-mielen-hyvinvointi/", publisher: "UKK-instituutti", read: 2026-11-21}
   - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
   - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", read: 2026-11-21}
   - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", read: 2026-11-21}
@@ -179,7 +179,7 @@ Jos uni ei pitkään onnistu tai liikkuminen tuottaa kipua, ota yhteyttä opiske
 2. Kirjoita tekijä paperin vasempaan reunaan ja sana *jaksaminen* oikeaan reunaan.
 3. Kirjoita väliin kaksi tai kolme välittävää tekijää nuolin.
 4. Kirjoita, mikä muuttuisi Noorin lähiympäristössä, esimerkiksi bändissä tai koulussa, jos Noorin jaksaminen muuttuisi.
-5. Kirjoita ketju yhdeksi tai kahdeksi lauseeksi.
+5. Kirjoita ketju yhdeksi tai kahdeksi lauseeksi. Jos ketju koskee unta, nimeä siinä yksi univaihe (esimerkiksi N3 syvä uni) ja sen tehtävä.
 
 ### Tehtävä 3: Tutki viralliset suositukset ja tee ehdotus Noorin koululle
 
@@ -407,7 +407,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka voi palauttaa ihmistä kuormittavan päivän jälkeen. | Kerää laput ja lue muutama. Ryhmittele taululle: keho, mieli, ihmiset, ympäristö. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 10 | Oikein vai väärin -väittämät pareittain: "Lepo on samaa kuin nukkuminen." "Vain urheilu on liikkumista." "Koulumatka voi olla liikkumista." "Liikkumiseen vaikuttaa vain motivaatio." | Vastausvihjeet: väärin, väärin, oikein, väärin. Perustele ja kytke lappujen ryhmiin. | Väittämät paperilla, opiskelija vastaa yksin. | Käsittele kaksi ensimmäistä. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: liikkuminen, lepo, palautuminen, uni, vuorokausirytmi. | Piirrä taululle taulukko Noorin tapauksen kolmella sarakkeella. Näytä yksi esimerkki ohjaavasta tekijästä; ohjaavat tekijät: tarve, käsitys, asenne, arvo, olosuhde; tasot Y, Yh, Yk. | Jaa käsitteet paperilla. | Vuorokausirytmi siirretään työskentelyn jälkeen. |
+| Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: liikkuminen, lepo, palautuminen, uni, vuorokausirytmi. | Piirrä taululle taulukko Noorin tapauksen kolmella sarakkeella. Näytä yksi esimerkki ohjaavasta tekijästä; ohjaavat tekijät: tarve, käsitys, asenne, arvo, olosuhde; tasot Y, Yh, Yk. | Jaa käsitteet paperilla. Tai: parit yhdistävät unen vaiheet N1–REM niiden tehtäviin tekstin taulukosta. | Vuorokausirytmi siirretään työskentelyn jälkeen. |
 | Työskentely | 25 | Tehtävä 1 (20 min) yksin tai pareittain, sitten Tehtävän 2 vaiheet 1–3 (5 min). | Kierrä ja kysy: onko tämä tarve, käsitys, asenne, arvo vai olosuhde? Muistuta, että analysoidaan Nooria, ei itseä. | Pari tekee yhteisen taulukon. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät valitsevat yhden olosuhteen, jota Noor ei voi muuttaa, ja ehdottavat keinon, jolla koulu tai kunta voisi tukea. | Kokoa ehdotukset taululle tasoittain. Nosta esiin eri näkökulmat, kuten aikataulut ja kustannukset. | Yksin: kirjoita kaksi ehdotusta. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n väittämät 1–5 yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten 2 pistettä syntyy väittämästä. | Paperilla. | Tarkistus kotona. |

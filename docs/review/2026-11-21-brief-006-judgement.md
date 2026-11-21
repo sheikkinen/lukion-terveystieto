@@ -74,3 +74,57 @@ The brief's expectation that some topics would be split did not happen: all fit 
 3. Four small teaching faults are still open: repeated point splits, one ambiguous answer key, one table with numbers on a sensitive page, and new facts not yet in the lessons.
 4. One short fix round on those four, then a quick recheck, and it can be committed and published.
 5. Nothing has been committed or pushed.
+
+## Re-judgement 2026-11-21
+
+**Judge:** Opus, workflow agent. I wrote nothing in this project, and I edited no topic in this round.
+**Ruled from files only:** `CLAUDE.md`, `prompts/006-te1-exam-drive.md`, `docs/style-guide.md` (§7, §7a), this
+judgement, the three fixer reports and the two checker reports.
+**What I did myself:** I built into my own `--out` folder: "0 errors, 0 warnings". I counted lines: 01 478, 02 493,
+03 480, 04 498, 05 500, 06 489, 07 459, 08 481, 09 473, 10 450 (none over 500). I listed the ten C30 splits from the
+task lines and the "osapisteet"/"Yhteensä" lines. I read 03 K1 (cases, key and Pisteytys), 04 Tehtävä 3 and the 75
+min alustus row, 05 Tehtävä 2 step 5, 06 Tehtävä 3 step 6 and the 75 min alustus row, and 06 K3 (material, task,
+model answer a-c).
+
+### Verdict: reject (two one-line edits, then accept)
+
+Items 1, 2 and 4 are fixed, and item 3 is fixed for 05 and 06. Two small faults remain. Both are one-line edits that
+need no new lines, so the 500-line limit is not touched.
+
+### Items
+
+| # | Item | Status | Blocks? | Ruling |
+|---|---|---|---|---|
+| 1 | Shared C30 splits | Fixed | No | 01 15/8/7, 02 9/9/12, 03 10/10/10, 04 10/8/12, 05 12/8/10, 06 6/12/12, 07 5/15/10, 08 8/12/10, 09 10/12/8, 10 12/6/12. All ten differ. 04, 05, 08 and 09 reuse the numbers 8, 10 and 12 in other orders: within §7 read literally, thin variety, not a fault. |
+| 2 | 03 K1 keys | Fixed | No | Case 9 is keyed Terveyslukutaito, matching line 128; terveysosaaminen is accepted with a named reason. Case 5 has no extra tests (ylidiagnostiikka), 6 is ylihoito, 7 is vaihtoehtohoito without overpromise wording, 8 is kokemustarina. The Pisteytys states each key. "Samaa käsitettä ei käytetä kahdesti" still works. |
+| 3a | 05 and 06 new content in a task and a lesson cell | Fixed | No | 05 Tehtävä 2 step 5 names a sleep stage and its function; 06 Tehtävä 3 step 6 uses the THL three-class list; both have a 75 min Vaihtoehto cell. |
+| 3b | 04 nutrient table in a task step | **Open, confirmed** | **Yes** | Step 1 opens the general Ruokavirasto page; step 2 offers "ruokakolmio tai yksi ravintoaine" on Ruokavirasto's own page, as an option, and step 3 asks why it supports health, not its function or food source. The page's table "Ravintoaineet: tehtävät ja ruokalähteet" is used only in the 75 min Vaihtoehto cell. Retarget step 2 in place (no line added). |
+| 4 | Figures in 06 K3 | Fixed | No | The table uses osa / useimmat / noin puolet / harvat; a) asks for changes "luokkineen"; scoring a 3 + b 8 + c 4 = 15 p; "laski vain vähän" is gone. |
+| 5 | 06 K3 model answer a) reads a change the table does not show | **New, confirmed** | **Yes** | Line 337 ends "Se ei myöskään kerro, miksi terveydenhoitajan maininnat vähenivät." The table row Terveydenhoitaja is harvat / harvat, so no fall can be read. It is a leftover from the counts version (30/17). A student who reads the table right contradicts the model answer. Replace the sentence in place. |
+| 6 | Minors from the first judgement (rubric section in the diary, "eikä vaurio korjaudu" in 10, lautasmalli wording, deduction placement 01-06 vs 07-10, Opiskelijalle near 600 words) | Open | No | As ruled before. The thl.fi alcohol and nicotine pages were opened in a browser by the safety-facts checker and return 200, so that pre-push item is done. |
+| 7 | New cells in 05 and 06 only in the 75 min plan | Open | No | Optional; the 60 and 45 min plans may follow later. |
+
+### Remaining
+
+1. `content/topics/04-ravinto.md`, Tehtävä 3 step 2 (line 193): replace in place, for example "Valitse sivun
+   ravintoaine-taulukosta yksi ravintoaine. Kirjoita sen tehtävä ja yksi ruokalähde, ja tarkista
+   [Ruokaviraston Ravintoaineet-sivulta](https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravintoaineet/),
+   että tehtävä täsmää." Keep step 3 working with it ("miksi tämä ravintoaine tukee ..."). The file stays at 498 lines.
+2. `content/topics/06-seksuaaliterveys.md`, K3 model answer a) (line 337): replace the last sentence, for example
+   "Se ei myöskään kerro, vaikuttiko vastaanottoaikojen väheneminen siihen, että terveydenhoitajan mainitsi yhä vain
+   harva." No line added.
+3. Then rebuild (0 errors, 0 warnings) and recount 04 and 06. A judge reading those two lines is enough.
+4. Non-blocking, before or after the push: the diary note on the rubric section (item 5 of the first judgement) and
+   "eikä vaurio korjaudu" in 10 (suggested "voi jäädä pysyväksi").
+
+### For the operator
+
+1. Three of the four teaching faults are fixed: point splits now all differ, the answer key is clear, and the sensitive table has no numbers.
+2. Two one-line faults are left: one nutrition task does not yet use the page's nutrient table, and one model answer reads a change the table does not show.
+3. The site builds clean, every topic is within 500 lines, and all links open, including the THL pages checked in a browser.
+4. After those two edits and a quick recheck it can be committed; nothing has been committed or pushed.
+
+## Final ruling 2026-11-21
+
+**Verdict: accept with minors.** Both edits are correct Finnish and match the task and scoring: 04 Tehtävä 3 step 2 uses the page's table "Ravintoaineet: tehtävät ja ruokalähteet" and step 3 follows it, and 06 K3 a) reads only class changes and no longer claims a fall for Terveydenhoitaja; no figures were added, the build gives "0 errors, 0 warnings", and all ten files are at most 500 lines (04 498, 06 489).
+Before the commit, with no new judging: put back `exam_tasks` and `review_status` in the 06 front matter (taken out against HEAD, which the contract requires; 06 goes to 493), and in 06 K3 b) change "terveydenhoitajan luvun muutos" to "terveydenhoitajan maininnat", since the table has no number and no change there.

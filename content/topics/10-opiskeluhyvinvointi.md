@@ -24,8 +24,6 @@ official_links:
   - {title: "Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
   - {title: "HOPS (opinto-ohjaus, aihe 06)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/06-hops/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
   - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
-  - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", read: 2026-11-21}
-  - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", read: 2026-11-21}
   - {title: "Melu (Kuuloliitto)", url: "https://www.kuuloliitto.fi/tietoa/melu/", publisher: "Kuuloliitto ry", read: 2026-11-21}
   - {title: "Alkoholi (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/alkoholi", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Nikotiinituotteet (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
@@ -88,7 +86,7 @@ Elintavat vaikuttavat jaksamiseen ja oppimiseen, mutta ne ovat vain yksi tekijä
 
 ### Melu ja kuulo
 
-Melu on ääntä, joka häiritsee tai kuormittaa. Opiskeluympäristössä sitä tulee esimerkiksi käytävältä, ruokalasta, kotoa ja kuulokkeista. Melu voi häiritä keskittymistä, joten rauhallinen opiskelupaikka on ulkoinen voimavara. Kova melu voi myös vahingoittaa kuuloa, eikä vaurio korjaudu ([Kuuloliitto](https://www.kuuloliitto.fi/tietoa/melu/)). Kuuloa suojaavat esimerkiksi kuulosuojaimet kovissa tapahtumissa, kohtuullinen kuulokkeiden äänenvoimakkuus ja kuuntelutauot. Jos kuulo tuntuu heikentyneen, ota yhteys opiskeluterveydenhuoltoon. Koulu voi vähentää melua hiljaisilla tiloilla, äänieristyksellä ja yhteisillä pelisäännöillä.
+Melu on ääntä, joka häiritsee tai kuormittaa. Opiskeluympäristössä sitä tulee esimerkiksi käytävältä, ruokalasta, kotoa ja kuulokkeista. Melu voi häiritä keskittymistä, joten rauhallinen opiskelupaikka on ulkoinen voimavara. Kova melu voi myös vahingoittaa kuuloa, ja vaurio voi jäädä pysyväksi ([Kuuloliitto](https://www.kuuloliitto.fi/tietoa/melu/)). Kuuloa suojaavat esimerkiksi kuulosuojaimet kovissa tapahtumissa, kohtuullinen kuulokkeiden äänenvoimakkuus ja kuuntelutauot. Jos kuulo tuntuu heikentyneen, ota yhteys opiskeluterveydenhuoltoon. Koulu voi vähentää melua hiljaisilla tiloilla, äänieristyksellä ja yhteisillä pelisäännöillä.
 
 ### Oppimisen tavat
 
