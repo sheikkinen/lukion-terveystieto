@@ -42,7 +42,7 @@ omia, ja niiden pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintola
 - [ ] **Content notes** appear in the front matter of every flagged page, and in topics 06 and 07 also as a blockquote
   in the text. The site build will render them once, and the blockquotes will be removed.
 - [ ] **Offline tasks:** several topics invent a person on paper offline, while the online steps use a named case.
-- [ ] **Matriculation exam coverage** is being cross-checked; findings go into the next brief.
+- [ ] **Matriculation exam coverage:** TE1 is the main subject of about 28% of exam points; our topics cover its TE1 content mostly partly. Additions per topic are in `docs/research/2026-11-21-exam-cross-check.md`.
 
 The process: briefs written before the work in `prompts/`, decisions in `decisions/INDEX.md`, rulings in
 `docs/review/`, research in `docs/research/`, diary lines in `docs/diary/`.
