@@ -23,6 +23,8 @@ official_links:
   - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
   - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
+  - {title: "Ilmastoahdistus: mistä on kyse? (Mielenterveystalo)", url: "https://www.mielenterveystalo.fi/fi/omahoito/ilmastoahdistuksen-omahoito-ohjelma/1-mista-kyse", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
+  - {title: "Luonto elvyttää, rauhoittaa ja lievittää stressiä (MIELI)", url: "https://mieli.fi/vahvista-mielenterveyttasi/ymparisto-vaikuttaa-mieleen/luonto-elvyttaa-rauhoittaa-ja-lievittaa-stressia/", publisher: "Suomen Mielenterveys ry (MIELI)", read: 2026-11-21}
 yearly_facts: [ilmanlaatu, opiskeluterveydenhuolto, sekasin_chat]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
@@ -69,7 +71,7 @@ linked_materials:
     audience: opettaja (taustatieto)
     read: 2026-11-21
 exam_tasks:
-  - {id: K1, type: luettele-ja-luokittele, part: A20, points: 20, minutes: 25, codes: [TE2.s4, TE2.t4]}
+  - {id: K1, type: maarittele-ja-esimerkki, part: A20, points: 20, minutes: 25, codes: [TE2.s4, TE2.t4]}
   - {id: K2, type: aineiston-analyysi, part: B20, points: 20, minutes: 35, codes: [TE2.s4, TE2.t4]}
   - {id: K3, type: eettinen-analyysi, part: C30, points: 30, minutes: 55, codes: [TE2.s4, TE2.t4]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
@@ -93,8 +95,9 @@ last_reviewed: 2026-11-21
 3. Osaan analysoida kulutusvalinnan vaikutuksia ympäristöön ja terveyteen ja erottaa, mikä on yksilön, yhteisön ja yhteiskunnan vastuulla.
 4. Osaan selittää, mitä tarkoittavat terveys kaikissa politiikoissa ja sukupolvien välinen oikeudenmukaisuus, ja arvioida päätöksen terveysvaikutuksia.
 5. Osaan tunnistaa viherpesua ja arvioida ympäristöväitteen luotettavuutta.
+6. Osaan selittää, mitä ilmastoahdistus on ja miten sitä lievitetään yksilön, yhteisön ja yhteiskunnan tasolla.
 
-Opetussuunnitelmassa kestävä kehitys ja terveys on sisältöalue ilman omaa tavoitetta. Lähin tavoite on TE2.t4, joka koskee ympäristön ja terveyden yhteyksiä.
+Sisältöalueella ei ole omaa tavoitetta. Lähin on TE2.t4 (ympäristön ja terveyden yhteydet).
 
 ### Mitä kestävä kehitys tarkoittaa?
 
@@ -131,9 +134,11 @@ Ympäristöväitteitä esitetään usein mainoksissa. **Viherpesu** tarkoittaa, 
 
 **Terveys kaikissa politiikoissa** tarkoittaa, että päättäjät arvioivat kaikkien alojen päätösten terveysvaikutukset, esimerkiksi liikenteen, kaavoituksen, energian ja koulutuksen. Terveyteen vaikuttavat monet tekijät, eikä terveydenhuolto yksin voi korjata niitä. Se jatkaa Ottawan asiakirjan ensimmäistä toiminta-aluetta, terveyttä edistävää yhteiskuntapolitiikkaa, jonka tunnet TE1-aiheesta [Mitä terveys on?](../../te1/01-terveys-voimavarana/).
 
-**Sukupolvien välinen oikeudenmukaisuus** tarkoittaa, että päätökset otetaan huomioon myös niiden kannalta, jotka eivät vielä voi vaikuttaa: nuoret ja lapset, jotka eivät ole vielä syntyneet. THL kuvaa ihmisen ja ympäristön terveyden yhteyttä sivulla [Ihmisen ja ympäristön terveys kulkevat käsi kädessä](https://thl.fi/nakemyksemme/ihmisen-ja-ympariston-terveys-kulkevat-kasi-kadessa).
+**Sukupolvien välinen oikeudenmukaisuus** tarkoittaa, että päätökset otetaan huomioon myös niiden kannalta, jotka eivät vielä voi vaikuttaa: nuoret ja lapset, jotka eivät ole vielä syntyneet.
 
-Ympäristöasiat voivat huolestuttaa. Huoli on ymmärrettävä reaktio todelliseen asiaan. Sitä auttavat tieto, yhdessä tekeminen ja muistaminen, ettei yksi ihminen kanna vastuuta yksin. Jos huoli kuormittaa, voit puhua siitä opiskeluterveydenhuollossa.
+### Ilmastoahdistus
+
+**Ilmastoahdistus** on ahdistusta ilmastonmuutoksesta ja siitä kertovista uutisista. Se on osa laajempaa ympäristöahdistusta, ei sairaus vaan ymmärrettävä reaktio uhkaan ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/omahoito/ilmastoahdistuksen-omahoito-ohjelma/1-mista-kyse)). Se syntyy, kun uutiset herättävät huolta ja voimattomuutta. Lievittää voi kolmella tasolla. **Yksilö** tunnistaa tunteensa ja valitsee itselleen sopivia tekoja. **Yhteisö** antaa vertaistukea ja yhteistä tekemistä ([MIELI](https://mieli.fi/vahvista-mielenterveyttasi/ymparisto-vaikuttaa-mieleen/luonto-elvyttaa-rauhoittaa-ja-lievittaa-stressia/)). **Yhteiskunta** tekee päätöksiä, jotka pienentävät uhkaa. Jos huoli kuormittaa, voit puhua opiskeluterveydenhuollossa.
 
 ## Tehtävät
 
@@ -171,8 +176,8 @@ Ympäristöasiat voivat huolestuttaa. Huoli on ymmärrettävä reaktio todellise
 
 **Aika:** 12 min
 **Tarvitset:** paperia ja kynän; vaiheeseen 5 puhelimen tai tietokoneen
-**Ilman laitetta:** Ohita vaihe 5 ja kirjoita sen sijaan yksi oma esimerkki ympäristötoimesta, joka tukee myös terveyttä.
-**Harjoittelet:** Osaan 3 ja 5
+**Ilman laitetta:** Ohita vaihe 5 ja kirjoita sen sijaan kolme keinoa lievittää ilmastohuolta: yksi yksilön, yksi yhteisön ja yksi yhteiskunnan tasolla.
+**Harjoittelet:** Osaan 3, 5 ja 6
 
 *Samin puhelin (kuvitteellinen):* Samin puhelin hajoaa. Hän harkitsee uutta puhelinta, korjausta tai käytettyä puhelinta. Samalla hän näkee mainoksen: *Vihreä Aalto -kuulokkeet: täysin ympäristöystävälliset, hyvää kaikelle luonnolle!*
 
@@ -180,7 +185,7 @@ Ympäristöasiat voivat huolestuttaa. Huoli on ymmärrettävä reaktio todellise
 2. Kirjoita kolme asiaa, jotka voivat rajata Samin valintaa, esimerkiksi tulot tai korjauspalvelun saatavuus.
 3. Alleviivaa mainoksen epätarkat sanat ja kirjoita kolme kysymystä, joilla väitettä voisi tarkistaa.
 4. Kirjoita, kuka muu kuin Sami voi vaikuttaa siihen, millaisia tuotteita on tarjolla: valmistaja, kauppa vai valtio.
-5. Avaa [THL:n sivu ihmisen ja ympäristön terveydestä](https://thl.fi/nakemyksemme/ihmisen-ja-ympariston-terveys-kulkevat-kasi-kadessa) ja etsi yksi esimerkki, jossa ympäristö ja terveys kulkevat yhdessä. Kirjoita se omin sanoin.
+5. Avaa [Mielenterveystalon ilmastoahdistussivu](https://www.mielenterveystalo.fi/fi/omahoito/ilmastoahdistuksen-omahoito-ohjelma/1-mista-kyse) ja kirjoita omin sanoin, mitä ilmastoahdistus on ja miksi se ei ole sairaus.
 
 ## Pohdinta
 
@@ -197,6 +202,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 3. Osaan analysoida kulutusvalinnan vaikutuksia ympäristöön ja terveyteen ja erottaa, mikä on yksilön, yhteisön ja yhteiskunnan vastuulla.
 4. Osaan selittää, mitä tarkoittavat terveys kaikissa politiikoissa ja sukupolvien välinen oikeudenmukaisuus, ja arvioida päätöksen terveysvaikutuksia.
 5. Osaan tunnistaa viherpesua ja arvioida ympäristöväitteen luotettavuutta.
+6. Osaan selittää, mitä ilmastoahdistus on ja miten sitä lievitetään yksilön, yhteisön ja yhteiskunnan tasolla.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
@@ -204,15 +210,22 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE2 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE3-moduuleista.
 
-### K1: Luettele ja luokittele, 25 min (20 p)
+### K1: Määrittele ja anna esimerkki, 25 min (20 p)
 
-*Osa A20 · Harjoittelee: Osaan 1, 2, 4*
+*Osa A20 · Harjoittelee: Osaan 2, 5, 6*
 
-Luettele kahdeksan toimenpidettä, jotka edistävät kestävää kehitystä ja vaikuttavat terveyteen. Luokittele ne kestävän kehityksen neljään ulottuvuuteen ja perustele luokka lyhyesti. Kustakin ulottuvuudesta tulee olla vähintään yksi toimenpide. Kerro lopuksi yhdellä esimerkillä, miten kaksi ulottuvuutta liittyvät toisiinsa. (16 p + 4 p)
+Määrittele käsitteet A–D ja anna kustakin terveyteen liittyvä esimerkki kuvitteellisesta tilanteesta. Kerro lisäksi, miten käsite eroaa lähikäsitteestä.
+
+A) ilmastoahdistus
+B) yhteishyöty
+C) viherpesu
+D) terveyserot
+
+Jokaisesta käsitteestä 5 p: määritelmä 2 p, esimerkki 2 p, ero lähikäsitteeseen 1 p (20 p). Vastaa kuhunkin käsitteeseen enintään 400 merkillä välilyönteineen. Rajan ylittävästä käsitteen vastauksesta vähennetään 1 p.
 
 ### K2: Aineiston analyysi, 35 min (20 p)
 
-*Osa B20 · Harjoittelee: Osaan 2, 4*
+*Osa B20 · Harjoittelee: Osaan 1, 2, 4*
 
 *Aineisto (kuvitteellinen uutinen):* Vihreälahden kaupunki päättää muuttaa Satamakadun kävelykaduksi ja vähentää pysäköintipaikkoja. Päätös tulee voimaan keväällä. Kaupunki kertoo, että katu on ruuhkainen ja ilmanlaatu heikkenee ruuhka-aikoina. Kauppiasyhdistys pelkää asiakkaiden vähenemistä. Eläkeläisjärjestö huomauttaa, että kaikki eivät jaksa kävellä kadulle, ja pyytää penkkejä ja lähipysäköintiä liikuntarajoitteisille. Nuorisovaltuusto pitää päätöstä hyvänä, koska kadulle voi järjestää tapahtumia. Kaupunki aikoo seurata ilmanlaatua ja kauppojen kävijöitä vuoden ajan.
 
@@ -238,42 +251,36 @@ c) Esitä perusteltu kanta: kenen vastuulla ympäristön ja terveyden suojelu en
 
 ## Mallivastaukset
 
-### K1: Luettele ja luokittele, 25 min (20 p)
+### K1: Määrittele ja anna esimerkki, 25 min (20 p)
 
-**Malliksi kelpaava vastaus**
+**Malliksi kelpaava vastaus** (jokainen alle 400 merkkiä)
 
-| Toimenpide | Ulottuvuus | Perustelu |
-|---|---|---|
-| Pyöräteiden rakentaminen | ekologinen | Vähentää liikenteen päästöjä ja ilmansaasteita, mikä tukee hengitystä ja arkiliikuntaa. |
-| Edullinen joukkoliikenne | sosiaalinen | Kaikki pääsevät työhön, kouluun ja palveluihin tuloista riippumatta. |
-| Paikalliset työpaikat uusiutuvassa energiassa | taloudellinen | Työ ja toimeentulo tukevat turvallista elämää. |
-| Luonnonsuojelualueiden säilyttäminen | ekologinen | Suojelee monimuotoisuutta ja antaa mahdollisuuden palautua luonnossa. |
-| Paikallisten tapahtumien ja perinteiden ylläpito | kulttuurinen | Yhteiset tavat luovat kuulumista ja vähentävät yksinäisyyttä. |
-| Yhdenvertaiset palvelut kaikille asuinalueille | sosiaalinen | Pienentää terveyseroja, koska kaikki saavat palvelut. |
-| Korjaus- ja kirpputoritoiminnan tukeminen | taloudellinen | Pitää tavarat edullisina ja vähentää jätettä. |
-| Kaupunkien viheralueiden lisääminen | ekologinen | Viilentää helteellä ja parantaa ilmanlaatua. |
+**A) Ilmastoahdistus** on ahdistusta ilmastonmuutoksesta ja siitä kertovista uutisista. Esimerkiksi Ilmari (kuvitteellinen) tuntee uutisten jälkeen voimattomuutta ja huolta. Se eroaa ahdistuneisuushäiriöstä: se on ymmärrettävä reaktio uhkaan, ei sairaus.
 
-*Yhteys ulottuvuuksien välillä:* edullinen joukkoliikenne on sosiaalinen toimi, mutta se vähentää myös päästöjä, joten se kuuluu myös ekologiseen ulottuvuuteen. Terveys paranee, kun sekä oikeudenmukaisuus että ilmanlaatu toteutuvat.
+**B) Yhteishyöty** on ratkaisu, joka auttaa sekä ympäristöä että terveyttä. Esimerkiksi kaupunki rakentaa pyöräteitä (kuvitteellinen), jolloin päästöt vähenevät ja arkiliikunta lisääntyy. Se eroaa ympäristötoimesta, jolla ei ole terveysvaikutusta.
+
+**C) Viherpesu** tarkoittaa, että tuote esitetään ympäristöystävällisemmäksi kuin se on. Esimerkiksi mainos väittää kuulokkeita "täysin ympäristöystävällisiksi" ilman perustetta (kuvitteellinen). Se eroaa tarkistettavasta ja täsmällisestä ympäristöväitteestä.
+
+**D) Terveyserot** ovat eroja siinä, miten terveys jakautuu ihmisryhmien välillä. Esimerkiksi helteellä ylimmän kerroksen varjottomassa asunnossa asuva kuormittuu enemmän kuin viileän puiston lähellä asuva (kuvitteellinen). Erot johtuvat olosuhteista, ei yksilön valinnoista, ja siksi ne eroavat yksittäisistä terveysvalinnoista.
 
 **Pisteytys**
 
 *Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
 
-- Jokainen erillinen toimenpide oikeassa ulottuvuudessa perusteluineen 2 p (toimenpide 1 p, luokka ja perustelu 1 p), enintään kahdeksan toimenpidettä. Yhteensä 8 × 2 p = 16 p.
-- Toistot ja ylimääräiset toimenpiteet 0 p. Toimenpide, joka sopii useaan luokkaan, kelpaa, jos perustelu tukee valittua luokkaa.
-- Yhteys kahden ulottuvuuden välillä perusteltu 4 p.
-- Pisteet eivät mene alle nollan.
+- Jokaisesta käsitteestä 5 p: määritelmä, jossa on olennaiset piirteet, 2 p; sopiva esimerkki 2 p; ero lähikäsitteeseen 1 p. Yhteensä 4 × 5 p = 20 p.
+- Merkkirajan ylittävästä käsitteen vastauksesta −1 p. Pisteet eivät mene alle nollan.
 
-*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (neljä ulottuvuutta oikein), soveltaminen (perustelu liittyy terveyteen), analysointi (yhteys ulottuvuuksien välillä), arviointi ja argumentointi (perustelu lyhyt ja selkeä).
+*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (määritelmä nimeää olennaiset piirteet eikä toista sanaa), soveltaminen (esimerkki sopii käsitteeseen), analysointi (ero lähikäsitteeseen), arviointi ja argumentointi (tiivis, selkeä vastaus).
 
 **Yhteensä:** 20 p
 
 **Tyypilliset virheet**
 
-- Luetellaan toimenpiteitä, mutta perustelusta puuttuu terveysyhteys.
-- Jokin ulottuvuus jää kokonaan puuttumaan, tavallisimmin kulttuurinen.
-- Toimenpide on yksilön elämäntapaneuvo ("syö paikallista"), eikä siinä näy yhteisön tai yhteiskunnan toimi.
-- Yhteydeksi kirjoitetaan vain, että ulottuvuudet "liittyvät toisiinsa", ilman esimerkkiä.
+- Määritelmä on synonyymi tai esimerkki ("viherpesu on valehtelua").
+- Ilmastoahdistus esitetään sairautena tai heikkoutena.
+- Esimerkki kuvaa yksilön valintaa, vaikka käsite (terveyserot, yhteishyöty) koskee olosuhteita.
+- Ero lähikäsitteeseen puuttuu tai on pelkkä "ne ovat eri asioita".
+- Vastaus ylittää merkkirajan.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -378,7 +385,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Opiskelijat kirjaavat neljä ulottuvuutta, yhteishyödyn, terveyserot ja viherpesun. | Selitä jokainen yhdellä esimerkillä. Korosta, että valinnat tehdään olosuhteiden sisällä. | Käsitteet paperilla. | Viherpesu kotiin. |
 | Työskentely | 25 | Tehtävä 1 kokonaan pareittain (20 min), sitten Tehtävän 2 vaiheet 1–2 (5 min). | Kierrä ja kysy: kuka hyötyy ja kuka kantaa haitat? | Yksin paperilla. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vastaavat Tehtävän 1 vaiheeseen 5: miten terveys näkyy päätöksessä? | Kokoa vastaukset taululle ja linkitä ne Ottawan ensimmäiseen toiminta-alueeseen. | Yksin: kaksi ehdotusta. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 10 | K1:n neljä ensimmäistä riviä yksin (7 min), tarkistus (3 min). Exit-lappu: yksi ulottuvuus ja terveysyhteys. | Näytä K1:n pisteytys: mistä 2 pistettä syntyy? | Paperilla. | Tarkistus kotona. |
+| Koeharjoitus ja exit | 10 | K1:n kaksi käsitettä yksin (7 min), tarkistus (3 min). Exit-lappu: yksi ulottuvuus ja terveysyhteys. | Näytä K1:n pisteytys: mistä 5 pistettä syntyy? | Paperilla. | Tarkistus kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat harjoituksia kotiin tai kertaukseen. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -390,7 +397,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Opiskelijat kirjaavat neljä ulottuvuutta ja terveyserot. | Selitä esimerkillä. | Käsitteet paperilla. | Terveyserot kotiin. |
 | Työskentely | 25 | Tehtävä 1 kokonaan (20 min), sitten Tehtävän 2 vaiheet 1–2 (5 min). | Kierrä ja kysy hyötyjistä ja haitankantajista. | Yksin paperilla. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit vastaavat Tehtävän 1 vaiheeseen 5. | Linkitä vastaukset toiminta-alueeseen. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 7 | K1:n kaksi riviä yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten 2 pistettä jakautuu. | Paperilla. | Tarkistus kotona. |
+| Koeharjoitus ja exit | 7 | K1:n yksi käsite yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten 5 pistettä jakautuu. | Paperilla. | Tarkistus kotona. |
 | Puskuri | 2 | Kysymykset. | Kerro K1–K3:sta kotiharjoituksina. | – | – |
 
 ### Tuntisuunnitelma (45 min)
@@ -430,7 +437,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Eriyttäminen
 
-**Helpompi polku:** Tee Tehtävässä 1 vain kaksi ensimmäistä ulottuvuutta ja käytä apulausetta: *Tämä vaikuttaa terveyteen, koska …*. Tee Tehtävässä 2 vain vaiheet 1–3. Koetehtävistä K1:n neljä ensimmäistä riviä riittävät.
+**Helpompi polku:** Tee Tehtävässä 1 vain kaksi ensimmäistä ulottuvuutta ja käytä apulausetta: *Tämä vaikuttaa terveyteen, koska …*. Tee Tehtävässä 2 vain vaiheet 1–3. Koetehtävistä K1:n kaksi ensimmäistä käsitettä riittävät.
 
 **Syvempi polku:** Tutustu aoe.fi-aineistoon [Kestävän kehityksen käsikirja lukioille](https://aoe.fi/#/materiaali/4038) ja etsi kohta, jossa terveysyhteys voisi näkyä. Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn viiden kriteerin avulla. Vertaa [Ympäristöministeriön](https://ym.fi/etusivu) ja [Sitran](https://www.sitra.fi/) näkökulmia kestävään kehitykseen: kenelle ne ovat kirjoitettuja?
 
@@ -444,11 +451,12 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *terveyserot = erot siinä, miten terveys jakautuu ihmisryhmien välillä*
 - *elinkaari = tuotteen koko matka raaka-aineesta jätteeksi*
 - *viherpesu = tuote esitetään ympäristöystävällisemmäksi kuin se on*
+- *ilmastoahdistus = ahdistus ilmastonmuutoksesta; ei sairaus*
 - *terveys kaikissa politiikoissa = päätöksen terveysvaikutukset arvioidaan ennen päätöstä*
 
 **Lukeminen, keskittyminen ja jännitys:** Lue Koivusaaren suunnitelma lause kerrallaan ja peitä muut. Taulukon rivit voi täyttää yksi kerrallaan. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
 
-**Ilman laitetta:** Kaikki tehtävät, koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 vaihe 5 on korvattu omalla esimerkillä.
+**Ilman laitetta:** Kaikki tehtävät, koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 vaihe 5 on korvattu kolmella keinolla.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 

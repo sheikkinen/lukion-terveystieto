@@ -21,6 +21,8 @@ official_links:
   - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
   - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
+  - {title: "Mitä yksinäisyys on? (Mielenterveystalo)", url: "https://www.mielenterveystalo.fi/fi/omahoito/yksinaisyyden-omahoito-ohjelma/mita-yksinaisyys", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
+  - {title: "Miten vähentää somenkäyttöä? (Mielenterveystalo)", url: "https://www.mielenterveystalo.fi/fi/digihaitat/miten-vahentaa-somenkayttoa", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
   - {title: "Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
 yearly_facts: [opiskeluterveydenhuolto, kouluterveyskysely, sekasin_chat]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
@@ -56,7 +58,7 @@ linked_materials:
 exam_tasks:
   - {id: K1, type: kasitteiden-nimeaminen, part: A20, points: 20, minutes: 25, codes: [TE2.s3, TE2.t4, TE2.t3]}
   - {id: K2, type: aineiston-lukeminen, part: B20, points: 20, minutes: 35, codes: [TE2.s3, TE2.t4]}
-  - {id: K3, type: viitekehyksen-soveltaminen, part: C30, points: 30, minutes: 50, codes: [TE2.s3, TE2.t4, TE2.t3]}
+  - {id: K3, type: viitekehyksen-soveltaminen, part: C30, points: 30, minutes: 55, codes: [TE2.s3, TE2.t4, TE2.t3]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links:
   - title: "Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)"
@@ -97,7 +99,11 @@ Ihminen tarvitsee toisia ihmisiä. Terveyttä tukevat ennen kaikkea nämä kolme
 - **Sosiaalinen tuki** tarkoittaa, että toiselta saa kuuntelua, neuvoja tai konkreettista apua.
 - **Yhteisön normi** eli pelisääntö on yhteinen sääntö siitä, miten toisia kohdellaan.
 
-Ketju voi kulkea näin. Hyväksyvä ilmapiiri tuo turvallisuuden tunteen. Turvallisessa yhteisössä uskaltaa kysyä ja pyytää apua. Silloin kuormitus ei kasaudu yksin kannettavaksi, ja jaksaminen paranee. Ketju toimii myös toisin päin: pilkka, **syrjintä** (huonompi kohtelu jonkin ominaisuuden vuoksi) ja ulkopuolelle jättäminen lisäävät kuormitusta ja voivat heikentää mielialaa ja jaksamista. **Kiusaaminen** on toistuvaa, tarkoituksellista pahan mielen aiheuttamista, ja vastuu siitä on aina sillä, joka kiusaa. Stressin perusteet kertasit TE1-aiheessa [Stressi, kriisit ja kuormituksen hallinta](../../te1/09-stressi-ja-kriisit/). Yhteisön ilmapiiri on yksi tekijä, joka voi lisätä tai vähentää kuormitusta.
+Ketju voi kulkea näin. Hyväksyvä ilmapiiri tuo turvallisuuden tunteen. Turvallisessa yhteisössä uskaltaa kysyä ja pyytää apua. Silloin kuormitus ei kasaudu yksin kannettavaksi, ja jaksaminen paranee. Ketju toimii myös toisin päin: pilkka, **syrjintä** (huonompi kohtelu jonkin ominaisuuden vuoksi) ja ulkopuolelle jättäminen lisäävät kuormitusta ja voivat heikentää mielialaa ja jaksamista. **Kiusaaminen** on toistuvaa, tarkoituksellista pahan mielen aiheuttamista, ja vastuu siitä on aina sillä, joka kiusaa. Stressin perusteet kertasit TE1-aiheessa [Stressi ja kriisit](../../te1/09-stressi-ja-kriisit/).
+
+### Yksinäisyys ja FOMO
+
+**Yksinäisyys** on kokemus siitä, että ihmissuhteita on liian vähän tai ne eivät ole tarpeeksi läheisiä. Se on eri asia kuin yksinolo, joka on itse valittua. Se voi olla **sosiaalista** (verkostoja puuttuu) tai **emotionaalista** (läheinen suhde puuttuu) ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/omahoito/yksinaisyyden-omahoito-ohjelma/mita-yksinaisyys)). **FOMO** (fear of missing out) on pelko jäädä paitsi siitä, mitä muut tekevät. Se voi saada pysymään jatkuvasti ajan tasalla ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/digihaitat/miten-vahentaa-somenkayttoa)).
 
 ### Digitaalinen ympäristö elinympäristönä
 
@@ -245,17 +251,23 @@ b) Selitä psykososiaalisen ympäristön käsittein, miksi kuuluminen ja luottam
 
 c) Arvioi, mitä aineisto ei voi kertoa. (6 p)
 
-### K3: Viitekehyksen soveltaminen, 50 min (30 p)
+### K3: Viitekehyksen soveltaminen, 55 min (30 p)
 
-*Osa C30 · Harjoittelee: Osaan 1, 2, 5*
+*Osa C30 · Harjoittelee: Osaan 1, 2, 3, 5*
 
 *Viitekehys (omin sanoin, [WHO:n Ottawan asiakirja](https://www.who.int/publications/i/item/ottawa-charter-for-health-promotion)):* terveyden edistämisellä on viisi toiminta-aluetta. Ne ovat terveyttä edistävä yhteiskuntapolitiikka, terveyttä tukevat ympäristöt, yhteisön toiminta, henkilökohtaiset taidot ja terveyspalvelujen suuntaaminen uudelleen.
 
-*Aineisto (kuvitteellinen): Pajalan lukio.* Pajalan lukio on iso, ja opiskelijat tulevat sinne monesta yläkoulusta. Ensimmäisen vuoden aikana ryhmäytymistä on vähän. Opiskelijat viettävät tauot pienissä porukoissa. Vuosikurssin viestiryhmissä pilkkaaminen on yleistä, ja aikuiset eivät tiedä niistä. Opiskelijakunta kertoo, että osa opiskelijoista ei uskalla sanoa tunnilla mielipidettään. Rehtori haluaa kehittää koulun ilmapiiriä.
+*Aineisto 1 (kuvitteellinen): Pajalan lukio.* Pajalan lukio on iso, ja opiskelijat tulevat sinne monesta yläkoulusta. Ensimmäisen vuoden aikana ryhmäytymistä on vähän. Opiskelijat viettävät tauot pienissä porukoissa. Vuosikurssin viestiryhmissä pilkkaaminen on yleistä, ja aikuiset eivät tiedä niistä. Opiskelijakunta kertoo, että osa opiskelijoista ei uskalla sanoa tunnilla mielipidettään. Rehtori haluaa kehittää koulun ilmapiiriä.
 
-a) Tee kustakin viidestä toiminta-alueesta yksi perusteltu ehdotus Pajalan lukiolle. Kerro, mitä tehdään, kuka toimii ja miten toimi vaikuttaa terveyteen. (18 p)
+*Aineisto 2 (kuvaus videosta, kuvitteellinen):* Kaksiminuuttisen videon on tehnyt tuntematon sisällöntuottaja Mimi. Hän puhuu kameralle nopean musiikin säestyksellä: "Jos et ole koko ajan mukana, jäät paitsi kaikesta, ja silloin olet yksin." Kuvassa vaihtuvat nopeasti juhlakuvat, joissa kaikki hymyilevät. Lopussa Mimi kehottaa lataamaan hänen sovelluksensa, joka "pitää sinut aina ajan tasalla". Videossa ei kerrota lähteitä eikä esitetä lukuja.
 
-b) Arvioi ehdotuksiasi: mitkä ovat helpoimmin toteutettavissa, ketkä ne tavoittavat ja mikä ehdotuksista olisi tärkein ja miksi. (12 p)
+a) Tee kustakin viidestä toiminta-alueesta yksi perusteltu ehdotus Pajalan lukiolle. Kerro, mitä tehdään, kuka toimii ja miten toimi vaikuttaa terveyteen. (15 p)
+
+b) Arvioi ehdotuksiasi: mitkä ovat helpoimmin toteutettavissa, ketkä ne tavoittavat ja mikä ehdotuksista olisi tärkein ja miksi. (9 p)
+
+c) Vertaa aineistoja 1 ja 2: mitä ne kertovat yksinäisyydestä ja FOMOsta ja kumpaa voi pitää luotettavampana? Käytä käsitteitä yksinäisyys, FOMO ja vaikutuskeino. (6 p)
+
+Vastauksen enimmäispituus on 4 000 merkkiä välilyönteineen. Rajan ylittävästä vastauksesta vähennetään 1 p ja selvästä ylityksestä 2 p.
 
 ## Mallivastaukset
 
@@ -332,47 +344,51 @@ Tehtävänannon osapisteet (a 6 p, b 8 p, c 6 p) sisältävät sekä sisällön 
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K3: Viitekehyksen soveltaminen, 50 min (30 p)
+### K3: Viitekehyksen soveltaminen, 55 min (30 p)
 
-**Malliksi kelpaava vastaus**
+**Malliksi kelpaava vastaus** (noin 2 500 merkkiä)
 
-**a)** **Terveyttä edistävä yhteiskuntapolitiikka:** kunta ja koulutuksen järjestäjä kirjaavat koulun turvallisuussuunnitelmaan, että jokaisen ryhmän ryhmäyttämiseen ja kiusaamisen ehkäisyyn varataan ajankohta ja rahoitus. Päättäjä vaikuttaa siihen, että ilmapiiristä huolehditaan koko koulussa. Vaikutus terveyteen syntyy siten, että selkeä vastuu pienentää kiusaamisen ja ulkopuolisuuden kuormitusta.
+**a)** **Terveyttä edistävä yhteiskuntapolitiikka:** kunta ja koulutuksen järjestäjä kirjaavat koulun turvallisuussuunnitelmaan, että jokaisen ryhmän ryhmäyttämiseen ja kiusaamisen ehkäisyyn varataan ajankohta ja rahoitus. Selkeä vastuu pienentää kiusaamisen ja ulkopuolisuuden kuormitusta.
 
-**Terveyttä tukevat ympäristöt:** rehtori ja opettajat sopivat yhteiset pelisäännöt myös viestiryhmille ja nimeävät aikuisen, jolle ryhmät voivat kertoa ongelmista. Pelisäännöt tekevät ilmapiiristä turvallisemman, jolloin uskaltaa sanoa mielipiteensä ja pyytää apua.
+**Terveyttä tukevat ympäristöt:** rehtori ja opettajat sopivat yhteiset pelisäännöt myös viestiryhmille ja nimeävät aikuisen, jolle ongelmista voi kertoa. Turvallisessa ilmapiirissä uskaltaa sanoa mielipiteensä ja pyytää apua.
 
 **Yhteisön toiminta:** opiskelijakunta ja vertaistukijat järjestävät ryhmäytymistapahtumia ja avoimia taukotuokioita. Yhdessä tekeminen luo kuulumista, ja kuuluminen suojaa yksinäisyydeltä ja kuormitukselta.
 
-**Henkilökohtaiset taidot:** opiskelijat harjoittelevat tunnilla, miten kiusaamiseen puututaan sivusta ja miten viestiryhmässä voi olla kohtelias ja kertoa ongelmista. Taidot vahvistavat toimintakykyä ja rohkeutta puuttua.
+**Henkilökohtaiset taidot:** opiskelijat harjoittelevat tunnilla, miten kiusaamiseen puututaan sivusta ja miten viestiryhmässä voi kertoa ongelmista. Taidot vahvistavat toimintakykyä ja rohkeutta puuttua.
 
-**Terveyspalvelujen suuntaaminen uudelleen:** opiskeluterveydenhuolto ja kuraattori käyvät ryhmissä kertomassa palveluistaan ja ovat helposti tavoitettavissa, esimerkiksi tietyllä vakiopaikalla. Kun palvelu on tuttu, apua haetaan aiemmin eikä kuormitus ehdi kasaantua.
+**Terveyspalvelujen suuntaaminen uudelleen:** opiskeluterveydenhuolto ja kuraattori käyvät ryhmissä kertomassa palveluistaan ja ovat tavoitettavissa vakiopaikalla. Kun palvelu on tuttu, apua haetaan aiemmin.
 
-**b)** Helpoimmin toteutettavissa ovat pelisäännöt ja palveluiden esittely, koska ne maksavat vähän ja onnistuvat koulun omin voimin. Ne tavoittavat kaikki opiskelijat. Ryhmäytymistapahtumat tavoittavat ne, jotka osallistuvat, joten ujoimmat voivat jäädä ulkopuolelle. Yhteiskuntapolitiikan muutos on hitain ja kallein, mutta sen vaikutus on laajin ja pysyvin. Tärkeimpänä pitäisin pelisääntöjä ja aikuisen läsnäoloa viestiryhmissä, koska ongelma näyttää liittyvän juuri niihin ja koska niitä voi muuttaa nopeasti. Parhaiten toimii yhdistelmä: taidot ja palvelut eivät riitä, jos ympäristö pysyy samana.
+**b)** Helpoimmin toteutettavissa ovat pelisäännöt ja palveluiden esittely, koska ne maksavat vähän ja onnistuvat koulun omin voimin. Ne tavoittavat kaikki opiskelijat. Ryhmäytymistapahtumat tavoittavat osallistujat, joten ujoimmat voivat jäädä ulkopuolelle. Yhteiskuntapolitiikan muutos on hitain ja kallein, mutta sen vaikutus on laajin. Tärkeimpänä pitäisin pelisääntöjä ja aikuisen läsnäoloa viestiryhmissä, koska ongelma näyttää liittyvän juuri niihin ja niitä voi muuttaa nopeasti. Parhaiten toimii yhdistelmä: taidot ja palvelut eivät riitä, jos ympäristö pysyy samana.
+
+**c)** Aineisto 1 kuvaa koulun ilmapiiriä: ryhmäytymistä on vähän ja osa ei uskalla puhua, mikä viittaa kuulumisen puutteeseen eli sosiaaliseen yksinäisyyteen, jossa verkostoja puuttuu. Aineisto 2 esittää yksinäisyyden seurauksena siitä, ettei ole koko ajan mukana. Se käyttää FOMOa eli pelkoa jäädä paitsi vaikutuskeinona: pelko, kiire ja hymyilevät juhlakuvat saavat tuntemaan, että muilla on aina enemmän. Lopun sovellusmainos näyttää, että viestin tarkoitus on kaupallinen. Yksinäisyys ei kuitenkaan johdu siitä, ettei ole koko ajan mukana, vaan ihmissuhteiden puutteesta tai etäisyydestä. Aineisto 1 on luotettavampi, koska se kuvaa koulun tilannetta, vaikka se on yhden kuvauksen varassa. Aineisto 2:n tekijä on tuntematon, lähteitä ei ole eikä väitettä voi tarkistaa.
 
 **Pisteytys**
 
 *Sisältö 15 p:*
 
-- a) Jokaisesta viidestä toiminta-alueesta 3 p: konkreettinen toimi 1 p, kuka toimii 1 p, selitys, miten toimi vaikuttaa terveyteen 1 p. Yhteensä 5 × 3 p = 15 p.
-- Ehdotuksen on liityttävä aineiston asiaan (ryhmäytyminen, viestiryhmät, uskaltaminen). Yleinen ehdotus ilman yhteyttä aineistoon: enintään 1 p.
+- a) Jokaisesta viidestä toiminta-alueesta 1 p: konkreettinen toimi, toimija ja selitys, miten toimi vaikuttaa terveyteen. Yhteensä 5 p. Ehdotuksen on liityttävä aineiston 1 asiaan (ryhmäytyminen, viestiryhmät, uskaltaminen); yleinen ehdotus: 0 p.
+- b) Toteutettavuus ja kustannus arvioitu 1 p; kenet ehdotukset tavoittavat 1 p; vähintään kaksi ehdotusta verrattu keskenään 1 p; tärkein ehdotus valittu 1 p; valinta perusteltu 1 p. Yhteensä 5 p.
+- c) Yksinäisyys määritelty tai käytetty oikein 1 p; FOMO 1 p; videon vaikutuskeino nimetty ja perusteltu 1 p; aineistojen ero (koulun kuvaus ja kaupallinen video) 1 p; luotettavuus perusteltu (tekijä, lähteet, tarkistettavuus) 1 p. Yhteensä 5 p.
 
 *Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
-- 12–15 p: kaikki viisi toiminta-aluetta on tunnistettu ja erotettu toisistaan; ehdotukset sidotaan aineiston yksityiskohtiin; arviointi punnitsee toteutettavuutta, kustannusta ja tavoitettavia ryhmiä; paras ehdotus valitaan perustellusti ja vastaus huomioi, ettei yksi toimi riitä.
-- 6–11 p: ehdotukset ovat oikeita mutta luettelomaisia, tai arviointi jää toteamukseksi.
-- 0–5 p: viitekehys jää käyttämättä, ehdotukset ovat yleisiä tai arviointi puuttuu.
+- 12–15 p: kaikki viisi toiminta-aluetta on erotettu; ehdotukset sidotaan aineiston yksityiskohtiin; b punnitsee toteutettavuutta, kustannusta ja tavoitettavia ryhmiä ja valitsee parhaan; c vertaa aineistoja perustellusti ja erottaa yksinäisyyden ja FOMOn toisistaan.
+- 6–11 p: ehdotukset ovat oikeita mutta luettelomaisia, tai b ja c ovat ohuita.
+- 0–5 p: viitekehys jää käyttämättä, aineistoa 2 ei käsitellä tai arviointi puuttuu.
 - Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
+- Merkkirajan ylitys: −1 p, selvä ylitys −2 p.
 
-Tehtävänannon osapisteet (a 18 p, b 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+Tehtävänannon osapisteet (a 15 p, b 9 p, c 6 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
 **Yhteensä:** 30 p
 
 **Tyypilliset virheet**
 
-- Ehdotukset kohdistuvat vain yksilöön ("opiskelijoiden pitää olla ystävällisempiä") ja toiminta-alueet jäävät käyttämättä.
-- Toimi kuvataan, mutta ei kerrota, kuka sen tekee.
-- Terveysvaikutus jää selittämättä: toimi kuvataan hyväksi sanomatta, miten se vaikuttaa jaksamiseen.
-- Arviointi toteaa kaiken hyväksi tai ei vertaile ehdotuksia keskenään.
-- Vastaus syyllistää pilkkaajia tai pilkattuja ryhmänä eikä käsittele ympäristön tekijöitä.
+- Ehdotukset kohdistuvat vain yksilöön ("opiskelijoiden pitää olla ystävällisempiä").
+- Toimi kuvataan, mutta ei kerrota, kuka sen tekee tai miten se vaikuttaa terveyteen.
+- Yksinäisyys ja yksinolo tai yksinäisyys ja FOMO sekoitetaan.
+- Videota pidetään yhtä luotettavana kuin koulun kuvausta, koska siinä on tunteita ja kuvia.
+- Vastaus syyllistää pilkkaajia, pilkattuja tai somen käyttäjiä ryhmänä.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -415,8 +431,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Opiskelijat kirjaavat viisi käsitettä. | Selitä jokainen esimerkillä. | Käsitteet paperilla. | Tehtävä 1 kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (20 min), sitten Tehtävän 3 vaiheet 1–3 (5 min). | Kierrä ja kysy välittävästä tekijästä. | Yksin paperilla. | Tehtävä 3 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit vastaavat Tehtävän 2 vaiheeseen 5. | Luokittele ehdotukset toiminta-alueille. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 7 | K1:n kohdat 6–10 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten 2 pistettä jakautuu. | Paperilla. | Tarkistus kotona. |
-| Puskuri | 2 | Kysymykset. | Kerro K1–K3:sta kotiharjoituksina. | – | – |
+| Koeharjoitus ja exit | 9 | K1:n kohdat 6–10 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. Kysymykset (2 min). | Näytä, miten 2 pistettä jakautuu. Kerro K1–K3:sta kotiharjoituksina. | Paperilla. | Tarkistus kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -427,30 +442,24 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 7 | Opiskelijat kirjaavat kuuluminen, vertaistuki ja algoritmi. | Selitä esimerkillä. Muut käsitteet jäävät kotiin. | Käsitteet paperilla. | Kaksi käsitettä esimerkein. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain (20 min). Lopuksi jokainen kirjoittaa yhden ketjun (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | Ketju kotiin. |
 | Pari- tai pienryhmäpohdinta | 5 | Koko ryhmä vastaa Tehtävän 2 vaiheeseen 5. | Luokittele vastaukset toiminta-alueille taululla. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 4 | Exit-lappu: yksi käsite omin sanoin. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
-| Puskuri | 2 | Kysymykset. | – | – | – |
+| Koeharjoitus ja exit | 6 | Exit-lappu: yksi käsite omin sanoin. K1 kotiin. Kysymykset. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
 
 ### Valmistelu
 
-- Kirjoita taululle viisi käsitettä ja Ottawan toiminta-alueet tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita.
-- Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
+- Kirjoita taululle viisi käsitettä ja Ottawan toiminta-alueet tai jaa ne paperilla. Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Tutustu halutessasi Mediataitokoulun materiaalipankkiin (ks. Lähteet). Se on link-out-aineistoa: linkitä, älä kopioi.
 - Selvitä koulun kiusaamisen vastaiset toimintatavat ja opiskeluhuollon yhteystiedot (esimerkki).
 
 ### Avoimet kysymykset
 
 - Mikä erottaa koulun ilmapiirin yksittäisten oppilaiden välisistä väleistä?
-- Voiko verkossa kuulua johonkin yhtä vahvasti kuin kasvokkain?
-- Kenen tehtävä on tehdä viestiryhmästä turvallinen?
 - Miksi sama sovellus voi tukea yhtä ja kuormittaa toista?
-- Miten ilmapiiriä voi mitata ilman, että kenenkään tarvitsee kertoa omista asioistaan?
 - Miksi kyselyn tulos ei yksin kerro, miksi ihmiset vastasivat niin?
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Puhutaan ilmiöistä ja kuvitteellisista tapauksista, ei opiskelijoiden omista kokemuksista. Ketään ei pyydetä kertomaan omasta somen käytöstä, kavereistaan tai kokemastaan kiusaamisesta.
+- Puhutaan ilmiöistä ja kuvitteellisista tapauksista, ei opiskelijoiden omista kokemuksista. Ketään ei pyydetä kertomaan omasta somen käytöstä, kavereistaan, yksinäisyydestään tai kokemastaan kiusaamisesta. Älä käytä luokan omia viestiryhmiä esimerkkeinä tavalla, joka osoittaa jonkun.
 - Jos opiskelija kertoo tunnilla omasta tai toisen kokemasta kiusaamisesta, kuuntele ja kiitä luottamuksesta. Keskustele asiasta erikseen ja ohjaa opiskeluhuoltoon. Koulun kiusaamisen vastaiset toimintatavat kertovat, mitä aikuisen on tehtävä.
-- Älä käytä luokan omia viestiryhmiä tai oikeita sovelluksia esimerkkeinä tavalla, joka osoittaa jonkun.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että kaikilla on kavereita, älypuhelin tai nopea verkko? Oletanko, että somessa vietetty aika on aina huono asia? Liitänkö esimerkit tiettyyn sukupuoleen tai taustaan? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -466,13 +475,10 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *kuuluminen = tunne, että kuuluu joukkoon*
 - *osallisuus = mahdollisuus vaikuttaa yhteisiin asioihin*
 - *sosiaalinen tuki = toisen antama kuuntelu, neuvo tai apu*
-- *vertaistuki = tuki ihmisiltä, jotka ovat kokeneet saman*
 - *algoritmi = ohjelma, joka valitsee, mitä näet palvelussa*
-- *kiusaaminen = toistuva tarkoituksellinen pahan mielen aiheuttaminen*
+- *yksinäisyys = kokemus, että ihmissuhteita on liian vähän tai ne eivät ole läheisiä; FOMO = pelko jäädä paitsi*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue Kimin päivä kohta kerrallaan ja peitä muut. Taulukko voi olla rivi kerrallaan. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
-
-**Ilman laitetta:** Kaikki tehtävät, koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 vaihe 5 on valinnainen.
+**Lukeminen, keskittyminen ja jännitys:** Lue Kimin päivä kohta kerrallaan ja peitä muut. Taulukko voi olla rivi kerrallaan. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa. Kaikki tehtävät ja koetehtävät toimivat paperilla; Tehtävän 3 vaihe 5 on valinnainen.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 

@@ -12,58 +12,39 @@ duration_options: [45, 60, 75]
 self_study_minutes: 70
 prerequisites: [te1-08-mielenterveys, te1-09-stressi-ja-kriisit]
 safety_flags: [substances]
-content_note: "Tällä sivulla käsitellään mielihyvää ja sitä, miten riippuvuus voi syntyä, yleisellä tasolla. Sivulla ei ole lukuja eikä tietoa aineiden tai toimintojen käytöstä, kenenkään ei tarvitse kertoa omasta elämästään, tehtävän voi jättää väliin, ja lopussa on tietoa avusta."
+content_note: "Tällä sivulla käsitellään mielihyvää ja sitä, miten riippuvuus voi syntyä, yleisellä tasolla. Sivulla ei ole lukuja eikä tietoa käyttömääristä tai käyttötavoista, aineiden haitoista kerrotaan vain sanoin, kenenkään ei tarvitse kertoa omasta elämästään, tehtävän voi jättää väliin, ja lopussa on tietoa avusta."
 official_links:
   - {title: "Nuortenlinkki", url: "https://nuortenlinkki.fi/", publisher: "A-klinikkasäätiö", read: 2026-11-21}
   - {title: "Päihdekasvatus (EHYT)", url: "https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/", publisher: "Ehkäisevä päihdetyö EHYT ry", read: 2026-11-21}
   - {title: "Ehkäisevä päihdetyö kouluissa ja oppilaitoksissa (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "BuenoTalk", url: "https://buenotalk.fi/", publisher: "Ehkäisevä päihdetyö EHYT ry", read: 2026-11-21}
   - {title: "Päihdelinkki", url: "https://paihdelinkki.fi/", publisher: "A-klinikkasäätiö", read: 2026-11-21}
+  - {title: "Nuorten päihteiden käyttö (Mielenterveystalo)", url: "https://www.mielenterveystalo.fi/fi/paihteet/nuorten-paihteiden-kaytto", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
+  - {title: "Alkoholin terveyshaitat (Terveyskirjasto, päivitetty 8.3.2026)", url: "https://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk01120", publisher: "Duodecim (Terveyskirjasto)", read: 2026-11-21}
+  - {title: "Raskaus ja tupakka, alkoholi sekä huumeet (Terveyskirjasto, 20.9.2024)", url: "https://www.terveyskirjasto.fi/dlk00984", publisher: "Duodecim (Terveyskirjasto)", read: 2026-11-21}
+  - {title: "Alkoholin käytön aiheuttamia sikiövaurioita voidaan ehkäistä (THL-blogi, tammikuu 2020)", url: "https://blogi.thl.fi/alkoholin-kayton-aiheuttamia-sikiovaurioita-voidaan-ehkaista-kulutusta-mittaava-verikoe-pitaisi-ottaa-osaksi-aitiysneuvoloiden-seulontatutkimuksia/", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Nikotiinituotteet (THL, ammattilaisohje)", url: "https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
   - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
-yearly_facts: [nuortenlinkki, sekasin_chat, opiskeluterveydenhuolto]
+yearly_facts: [paihteet_kehittyva_aivo, raskaus_alkoholi_fasd, nuortenlinkki, sekasin_chat, opiskeluterveydenhuolto]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
-  - title: "Nuortenlinkki"
-    url: "https://nuortenlinkki.fi/"
-    publisher: "A-klinikkasäätiö"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija
-    read: 2026-11-21
-  - title: "Päihdekasvatus (EHYT)"
-    url: "https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/"
-    publisher: "Ehkäisevä päihdetyö EHYT ry"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja (ammattilaiset)
-    read: 2026-11-21
-  - title: "Ehkäisevä päihdetyö kouluissa ja oppilaitoksissa (THL)"
-    url: "https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa"
-    publisher: "Terveyden ja hyvinvoinnin laitos (THL)"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja (ammattilaiset)
-    read: 2026-11-21
-  - title: "BuenoTalk"
-    url: "https://buenotalk.fi/"
-    publisher: "Ehkäisevä päihdetyö EHYT ry"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja (Ammattilaisille-välilehti), opettaja lukee sivun ennen käyttöä
-    read: 2026-11-21
-  - title: "Päihdelinkki"
-    url: "https://paihdelinkki.fi/"
-    publisher: "A-klinikkasäätiö"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja (aikuiset ja läheiset)
-    read: 2026-11-21
+  - {"title": "Nuortenlinkki", "url": "https://nuortenlinkki.fi/", "publisher": "A-klinikkasäätiö", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija", "read": 2026-11-21}
+  - {"title": "Päihdekasvatus (EHYT)", "url": "https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/", "publisher": "Ehkäisevä päihdetyö EHYT ry", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja (ammattilaiset)", "read": 2026-11-21}
+  - {"title": "Ehkäisevä päihdetyö kouluissa ja oppilaitoksissa (THL)", "url": "https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa", "publisher": "Terveyden ja hyvinvoinnin laitos (THL)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja (ammattilaiset)", "read": 2026-11-21}
+  - {"title": "BuenoTalk", "url": "https://buenotalk.fi/", "publisher": "Ehkäisevä päihdetyö EHYT ry", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja (Ammattilaisille-välilehti), opettaja lukee sivun ennen käyttöä", "read": 2026-11-21}
+  - {"title": "Nuorten päihteiden käyttö (Mielenterveystalo)", "url": "https://www.mielenterveystalo.fi/fi/paihteet/nuorten-paihteiden-kaytto", "publisher": "Mielenterveystalo.fi (HUS)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija ja opettaja", "read": 2026-11-21}
+  - {"title": "Alkoholin terveyshaitat (Terveyskirjasto, päivitetty 8.3.2026)", "url": "https://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk01120", "publisher": "Duodecim (Terveyskirjasto)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija ja opettaja", "read": 2026-11-21}
+  - {"title": "Raskaus ja tupakka, alkoholi sekä huumeet (Terveyskirjasto, 20.9.2024)", "url": "https://www.terveyskirjasto.fi/dlk00984", "publisher": "Duodecim (Terveyskirjasto)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija ja opettaja", "read": 2026-11-21}
+  - {"title": "Alkoholin käytön aiheuttamia sikiövaurioita voidaan ehkäistä (THL-blogi, tammikuu 2020)", "url": "https://blogi.thl.fi/alkoholin-kayton-aiheuttamia-sikiovaurioita-voidaan-ehkaista-kulutusta-mittaava-verikoe-pitaisi-ottaa-osaksi-aitiysneuvoloiden-seulontatutkimuksia/", "publisher": "Terveyden ja hyvinvoinnin laitos (THL)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja ja ammattilaiset", "read": 2026-11-21}
+  - {"title": "Nikotiinituotteet (THL, ammattilaisohje)", "url": "https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet", "publisher": "Terveyden ja hyvinvoinnin laitos (THL)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja ja ammattilaiset", "read": 2026-11-21}
+  - {"title": "Päihdelinkki", "url": "https://paihdelinkki.fi/", "publisher": "A-klinikkasäätiö", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja (aikuiset ja läheiset)", "read": 2026-11-21}
 exam_tasks:
   - {id: K1, type: kasitteiden-nimeaminen, part: A20, points: 20, minutes: 25, codes: [TE2.s7, TE2.t5]}
   - {id: K2, type: piirtaminen, part: B20, points: 20, minutes: 35, codes: [TE2.s7, TE2.t5]}
   - {id: K3, type: aineiston-analyysi, part: C30, points: 30, minutes: 55, codes: [TE2.s7, TE2.t5]}
+  - {id: K4, type: oikein-vaarin, part: B20, points: 20, minutes: 30, codes: [TE2.s7, TE2.t5]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
 school_adapts:
@@ -81,7 +62,7 @@ last_reviewed: 2026-11-21
 **Tämän aiheen jälkeen**
 
 1. Osaan selittää, mitä mielihyvä ja palkitsemisjärjestelmä ovat ja miksi ne kuuluvat ihmisen tavalliseen toimintaan.
-2. Osaan erottaa riippuvuuteen vaikuttavat biologiset, psyykkiset ja sosiaaliset mekanismit ja selittää, miten ne yhdessä voivat johtaa riippuvuuteen.
+2. Osaan erottaa riippuvuuteen vaikuttavat biologiset, psyykkiset ja sosiaaliset mekanismit ja selittää, miten ne yhdessä voivat johtaa riippuvuuteen ja miksi alkoholi ja nikotiini ovat erityisen haitallisia kehittyvälle aivolle ja sikiölle.
 3. Osaan nimetä riippuvuuden tunnusmerkit (sietokyky, vieroitusoireet, kontrollin menetys, repsahdus) ja tunnistaa ne kuvitteellisista tapauksista.
 4. Osaan erottaa aineriippuvuuden ja toiminnallisen riippuvuuden ja selittää, miksi riippuvuus on terveydentila eikä luonteenvika.
 5. Osaan kertoa, mitkä tekijät suojaavat riippuvuudelta ja mitkä kuormittavat, ja mistä nuori saa apua.
@@ -108,6 +89,12 @@ Riippuvuutta ei selitä yksi syy. Siihen vaikuttavat samaan aikaan kolme mekanis
 - **Vieroitusoireet:** epämiellyttäviä oireita, kun aine tai toiminta jää pois. Ne helpottavat usein, kun siihen palaa, joten kehä pysyy yllä. Lopettamisen tuki kuuluu ammattilaisille.
 - **Kontrollin menetys:** ei pysty pysähtymään tai pitämään omaa päätöstään.
 - **Repsahdus:** paluu entiseen lopettamisen jälkeen. Se on yleinen osa toipumista eikä epäonnistuminen.
+
+### Kehittyvät aivot ja sikiö
+
+Nuoren aivot kehittyvät vielä, ja ne ovat herkempiä päihteiden haitoille. Alkoholi on hermomyrkky, ja alaikäisen käyttöä pidetään aina riskikäyttönä ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/paihteet/nuorten-paihteiden-kaytto), [Terveyskirjasto](https://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk01120)). Nikotiini aiheuttaa riippuvuutta, ja nuorena aloittaminen lisää pitkäaikaisen riippuvuuden todennäköisyyttä ([THL](https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet)).
+
+Alkoholi kulkee istukan läpi sikiölle ja haittaa sen kasvua ja keskushermoston kehitystä raskauden kaikissa vaiheissa. **FASD** on nimitys sikiöaikaisen alkoholialtistuksen vaurioille. Ne ovat suurelta osin pysyviä, ja turvallista määrää ei tunneta ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00984)). Nikotiini heikentää istukan verenkiertoa ja vaikuttaa sikiön aivojen kehitykseen ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00984)). Moni vaurio jää huomaamatta tai havaitaan myöhään, ja varhainen tuki auttaa ([THL-blogi](https://blogi.thl.fi/alkoholin-kayton-aiheuttamia-sikiovaurioita-voidaan-ehkaista-kulutusta-mittaava-verikoe-pitaisi-ottaa-osaksi-aitiysneuvoloiden-seulontatutkimuksia/)). Tieto ei syyllistä ketään: tukea antavat neuvola ja terveydenhuolto.
 
 ### Mikä suojaa ja mikä kuormittaa?
 
@@ -169,7 +156,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
 
 1. Osaan selittää, mitä mielihyvä ja palkitsemisjärjestelmä ovat ja miksi ne kuuluvat ihmisen tavalliseen toimintaan.
-2. Osaan erottaa riippuvuuteen vaikuttavat biologiset, psyykkiset ja sosiaaliset mekanismit ja selittää, miten ne yhdessä voivat johtaa riippuvuuteen.
+2. Osaan erottaa riippuvuuteen vaikuttavat biologiset, psyykkiset ja sosiaaliset mekanismit ja selittää, miten ne yhdessä voivat johtaa riippuvuuteen ja miksi alkoholi ja nikotiini ovat erityisen haitallisia kehittyvälle aivolle ja sikiölle.
 3. Osaan nimetä riippuvuuden tunnusmerkit (sietokyky, vieroitusoireet, kontrollin menetys, repsahdus) ja tunnistaa ne kuvitteellisista tapauksista.
 4. Osaan erottaa aineriippuvuuden ja toiminnallisen riippuvuuden ja selittää, miksi riippuvuus on terveydentila eikä luonteenvika.
 5. Osaan kertoa, mitkä tekijät suojaavat riippuvuudelta ja mitkä kuormittavat, ja mistä nuori saa apua.
@@ -217,6 +204,18 @@ a) Erittele aineiston 2 avulla riippuvuuden syntyyn vaikuttavat mekanismit ja se
 b) Arvioi kriittisesti aineiston 1 väitettä "riippuvuus on heikkoa tahtoa": mitä siinä on ymmärrettävää, mitä siitä puuttuu ja miten se voi vaikuttaa avun hakemiseen. (8 p)
 
 c) Perustele, miten tieto mekanismeista auttaa ehkäisyssä ja hoitoon hakeutumisessa. Anna yksi esimerkki yksilön, yhteisön ja yhteiskunnan tasolta ja arvioi, mikä niistä on tärkein. (11 p)
+
+### K4: Oikein vai väärin, 30 min (20 p)
+
+*Osa B20 · Harjoittelee: Osaan 2, 4*
+
+*Aineisto (kuvitteellinen kampanjateksti, ei lukuja):* (1) "Nuoren aivot ovat jo valmiit, joten päihteet haittaavat niitä vähemmän kuin aikuisen." (2) "Nikotiini voi aiheuttaa riippuvuutta, ja nuorena aloittaminen lisää pitkäaikaisen riippuvuuden todennäköisyyttä." (3) "Raskauden aikana alkoholista ei ole haittaa, jos juo vain vähän." (4) "FASD:n vauriot ovat suurelta osin pysyviä." (5) "Sikiövaurioita ehkäistään parhaiten moittimalla raskaana olevia."
+
+a) Arvioi kukin väite oikeaksi tai virheelliseksi ja perustele tiedon avulla. (10 p)
+
+b) Selitä, miksi alkoholi voi haitata sikiön kehitystä ja miksi nuoren aivot ovat herkkiä päihteiden haitoille. (6 p)
+
+c) Kirjoita kampanjan tekijälle viesti, joka korjaa yhden väitteen syyllistämättä ketään. Enintään 500 merkkiä välilyönteineen. (4 p)
 
 ## Mallivastaukset
 
@@ -343,6 +342,43 @@ Tehtävänannon osapisteet (a 11 p, b 8 p, c 11 p) sisältävät sekä sisällö
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
+### K4: Oikein vai väärin, 30 min (20 p)
+
+**Malliksi kelpaava vastaus**
+
+**a)** (1) Virheellinen: nuoren aivot kehittyvät vielä ja ovat herkempiä päihteiden haitoille. (2) Oikein: nikotiini aiheuttaa riippuvuutta, ja nuorena aloittaminen lisää pitkäaikaisen riippuvuuden todennäköisyyttä. (3) Virheellinen: turvallista määrää ei tunneta, koska alkoholi kulkee istukan läpi ja haittaa sikiön kasvua ja keskushermostoa kaikissa vaiheissa. (4) Oikein: FASD:n keskushermoston vauriot ovat suurelta osin pysyviä. (5) Virheellinen: syyllistäminen vaikeuttaa avun hakemista, kun taas syyttelemätön tuki auttaa hakemaan apua ajoissa.
+
+**b)** Alkoholi siirtyy äidin verestä istukan läpi sikiöön, ja sikiö poistaa sitä hitaasti. Sikiön aivot ja keskushermosto kehittyvät koko raskauden ajan, joten häiriö voi osua mihin vaiheeseen tahansa. Seuraus on FASD, jonka haitat ovat usein pysyviä. Nuoren aivot kehittyvät vielä: palkitsemisjärjestelmä on valmis oppimaan, mutta itsehillintää tukevat alueet kypsyvät myöhemmin, joten päihteet voivat muuttaa kehitystä ja lisätä riippuvuuden riskiä.
+
+**c)** Esimerkki: "Väite 5 on virheellinen. Sikiövaurioita ehkäisee alkoholin välttäminen raskauden aikana, ja turvallista määrää ei tunneta. Neuvola ja terveydenhuolto tukevat syyttelemättä, jotta apua uskaltaa pyytää ajoissa. Syyllistäminen saa ihmisen vaikenemaan, joten teksti kannattaa kirjoittaa tuen tarjoamisena: apua saa, eikä kukaan joudu sitä häpeämään." (noin 345 merkkiä)
+
+**Pisteytys**
+
+*Sisältö 10 p:*
+
+- a) Jokainen väite arvioitu oikein ja perusteltu tiedolla: 5 × 1 p = 5 p.
+- b) Alkoholi kulkee sikiölle ja haittaa kehitystä 1 p; FASD nimetty ja haitat pysyviä 1 p; nuoren aivojen herkkyys perusteltu kehityksellä 1 p. Yhteensä 3 p.
+- c) Korjattu väite ja tuki syyllistämisen sijaan 2 p. Yli 500 merkin viestistä ylimenevää osaa ei pisteytetä.
+
+*Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
+
+- 8–10 p: väitteet arvioidaan yksitellen aineistosta lainaten ja perustellaan mekanismilla; osittain oikea väite erotetaan virheellisestä; viesti on tiivis ja syyllistämätön.
+- 4–7 p: arviot ovat oikein, mutta perustelut ovat yleisiä tai viesti jää neuvoksi.
+- 0–3 p: vastaus toistaa väitteitä arvioimatta tai syyllistää.
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
+
+Tehtävänannon osapisteet (a 10 p, b 6 p, c 4 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+
+**Yhteensä:** 20 p
+
+**Tyypilliset virheet**
+
+- Väitteen 3 hyväksytään arvaamalla "turvallinen määrä", vaikka sellaista ei tunneta.
+- FASD kuvataan ohimeneväksi tai sen syy pannaan raskaana olevan syyksi, tai väite 1 hylätään ilman kehityksen selitystä.
+- Viestissä moralisoidaan tai pelotellaan.
+
+Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
+
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää riippuvuuden kolme mekanismia, nimetä tunnusmerkit ja kertoa, miksi riippuvuus on terveydentila eikä luonteenvika.
@@ -353,7 +389,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 1. **Lue** osio Opiskelijalle (8 min).
 2. **Tee** Tehtävä 1 (15 min) ja Tehtävä 2 (10 min). Tehtävä 3 on lisätehtävä (20 min).
-3. **Harjoittele** koetehtävä K1 (25 min) ja tarkista vastauksesi mallivastauksella. K2 ja K3 sopivat kertaukseen.
+3. **Harjoittele** koetehtävä K1 (25 min) ja tarkista vastauksesi mallivastauksella. K2–K4 sopivat kertaukseen.
 4. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 5. **Seuraava askel:** aihe 10 *Aine- ja toiminnalliset riippuvuudet: syyt, haitat ja ehkäisy*. Siinä sovellat mekanismeja tiettyihin riippuvuuksiin ja ehkäisyyn.
 
@@ -367,7 +403,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka ihmisestä yleensä tuntuu hyvältä (esimerkiksi musiikki, nauru, onnistuminen). | Kerää laput ja ryhmittele taululle. Totea: mielihyvä on normaalia. | Nimetön sähköinen seinä. | Lue kolme lappua. |
 | Aiemman tiedon aktivointi | 10 | Parit muistelevat TE1:n stressin ja mielenterveyttä suojaavien tekijöiden asioita ja kirjoittavat kaksi suojaavaa tekijää. | Kirjoita suojaavat tekijät taululle. Linkitä TE1-aiheisiin 08 ja 09. | Yksin paperille. | Yksi yhteinen lista. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat palkitsemisjärjestelmän, kolme mekanismia ja neljä tunnusmerkkiä. | Piirrä kolme laatikkoa. Korosta: riippuvuus on terveydentila, ei luonteenvika. Älä kuvaile aineita. | Jaa käsitteet paperilla. | Tunnusmerkit kotiin; alusta vain mekanismit. |
+| Lyhyt alustus | 10 | Opiskelijat kirjaavat palkitsemisjärjestelmän, kolme mekanismia ja neljä tunnusmerkkiä. | Piirrä kolme laatikkoa. Korosta: riippuvuus on terveydentila, ei luonteenvika. Älä kuvaile käyttötapoja. | Jaa käsitteet paperilla. | Tunnusmerkit kotiin; alusta vain mekanismit. |
 | Työskentely | 25 | Tehtävä 1 kokonaan pareittain (15 min), sitten Tehtävä 2 (10 min). | Kierrä ja kysy: mikä kohta kuuluu mihinkin laatikkoon? Pidä kieli mekanismeissa. | Yksin paperilla. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vastaavat Tehtävän 1 vaiheeseen 5 ja keksivät yhden yhteisön suojaavan tekijän. | Kokoa taululle ja nosta esiin, että yhteisö voi suojata. | Yksin: kirjoita kaksi suojaavaa tekijää. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n kohdat 1–3 yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit: yksi käsite omin sanoin. | Näytä, mistä K1:n neljä pistettä syntyy. | Paperilla. | Tarkistus kotona. |
@@ -379,7 +415,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 4 | Nimetön lappu: yksi asia, joka tuntuu hyvältä. | Ryhmittele taululle. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 6 | Koko ryhmä nimeää suojaavia tekijöitä TE1:stä. | Kirjoita taululle. | Lista paperille. | Vain kaksi tekijää. |
-| Lyhyt alustus | 8 | Opiskelijat kirjaavat mekanismit ja tunnusmerkit. | Piirrä laatikot. Älä kuvaile aineita. | Jaa käsitteet paperilla. | Tunnusmerkit kotiin. |
+| Lyhyt alustus | 8 | Opiskelijat kirjaavat mekanismit ja tunnusmerkit. | Piirrä laatikot. Älä kuvaile käyttötapoja. | Jaa käsitteet paperilla. | Tunnusmerkit kotiin. |
 | Työskentely | 25 | Tehtävä 1 kokonaan pareittain (15 min), sitten Tehtävä 2 (10 min). | Kierrä ja kysy laatikoista. | Yksin paperilla. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit vastaavat vaiheeseen 5. | Kokoa taululle. | Yksin paperille. | Yksi yhteinen vastaus. |
 | Koeharjoitus ja exit | 7 | K1:n kohdat 1–2 yksin (4 min) ja tarkistus (3 min). Exit: yksi epäselvä käsite. | Näytä pisteytys. | Paperilla. | Tarkistus kotona. |
@@ -391,7 +427,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 2 | Kysymys ääneen: mikä tuntuu ihmisestä yleensä hyvältä? | Kirjoita pari vastausta taululle. | Opiskelijat kirjoittavat itselleen. | – |
 | Aiemman tiedon aktivointi | 3 | Koko ryhmä nimeää yhden suojaavan tekijän. | Kirjoita taululle. | Paperille. | Yksi tekijä. |
-| Lyhyt alustus | 7 | Opiskelijat kirjaavat kolme mekanismia ja tunnusmerkit. | Piirrä laatikot. Älä kuvaile aineita. | Jaa käsitteet paperilla. | Vain mekanismit. |
+| Lyhyt alustus | 7 | Opiskelijat kirjaavat kolme mekanismia ja tunnusmerkit. | Piirrä laatikot. Älä kuvaile käyttötapoja. | Jaa käsitteet paperilla. | Vain mekanismit. |
 | Työskentely | 22 | Tehtävä 1 kokonaan pareittain (15 min). Sitten Tehtävän 2 lauseet A ja B (7 min). | Kierrä ja kysy. Tehtävä 1 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 5 | Koko ryhmä vastaa vaiheeseen 5. | Kirjoita vastaukset taululle. | Yksin paperille. | Pohdinta kotiin. |
 | Koeharjoitus ja exit | 4 | Exit: yksi mekanismi omin sanoin. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
@@ -399,8 +435,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Piirrä kolme laatikkoa taululle tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita.
-- Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
+- Piirrä kolme laatikkoa taululle tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita. Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Lue EHYTin ja THL:n sivut ehkäisevästä päihdetyöstä ennen tuntia (ks. Lähteet). Lue myös BuenoTalk itse ennen kuin suosittelet sitä: sivulla on avoin vertaischat ja laskuri, joita ei käytetä luokassa.
 - Älä käytä pelaamisen tai käytön testejä, kokemuspuheenvuoroja tai vierailijoita, jotka kertovat pahimman tapauksensa.
 - Selvitä koulun opiskeluterveydenhuollon ja opiskeluhuoltotiimin yhteystiedot (esimerkki).
@@ -416,7 +451,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Analysoidaan kuvitteellisia tapauksia ja mekanismeja. Älä pyydä opiskelijoita kertomaan omasta tai läheisten käytöstä, pelaamisesta tai kokemuksista. Älä käytä nosta käsi -kysymyksiä. Älä kuvaile aineita, määriä tai käyttötapoja.
+- Analysoidaan kuvitteellisia tapauksia ja mekanismeja. Älä pyydä opiskelijoita kertomaan omasta tai läheisten käytöstä, pelaamisesta tai kokemuksista. Älä käytä nosta käsi -kysymyksiä. Älä kuvaile määriä tai käyttötapoja. Haitoista puhutaan sanoin ja ilman pelottelua.
 - Kerro tunnin alussa, että aihe voi herättää tunteita, että tauon voi pitää ja että tehtävän voi jättää väliin. Ketään ei pakoteta puhumaan.
 - Kerro, että terveydenhoitaja ja opiskeluhuoltotiimi ovat käytettävissä. Jos opiskelija kertoo huolestaan, kuuntele, kiitä luottamuksesta ja ohjaa terveydenhoitajalle tai opiskeluhuoltoon. Koulun henkilökunnalla, kuten opettajalla, terveydenhoitajalla ja kuraattorilla, on ohjeet siitä, miten toimitaan, kun alaikäisen avun tarve tulee tietoon; tarkista koulusi ohjeista, milloin ja miten tehdään esimerkiksi lastensuojeluilmoitus, jonka tarkoitus on saada tuki. Kerro asia neutraalisti.
 - Sarja tunteja toimii paremmin kuin yksittäinen tunti ([THL](https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa), [EHYT](https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/)). Liitä tämä aihe aiheeseen 10.

@@ -16,6 +16,7 @@ content_note: "Tällä sivulla käsitellään väkivaltaa ja turvallisuutta ylei
 official_links:
   - {title: "Väkivalta (THL)", url: "https://thl.fi/data-ja-tilastot/vakivalta", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Uusi seksuaalirikoslaki (oikeusministeriö)", url: "https://oikeusministerio.fi/seksuaalirikoslaki", publisher: "Oikeusministeriö", read: 2026-11-21}
+  - {title: "Turvallinen mikroliikenne edellyttää sääntöjä ja vastuuta (liikenne- ja viestintäministeriö, 25.2.2026)", url: "https://valtioneuvosto.fi/-/1410829/turvallinen-mikroliikenne-edellyttaa-saantoja-ja-vastuuta", publisher: "Liikenne- ja viestintäministeriö (valtioneuvosto)", read: 2026-11-21}
   - {title: "Nuoret ja rikollisuus (Poliisi)", url: "https://poliisi.fi/nuoret-ja-rikollisuus", publisher: "Poliisi", read: 2026-11-21}
   - {title: "Nettiturvakoti: Olen lapsi tai nuori", url: "https://nettiturvakoti.fi/", publisher: "Ensi- ja turvakotien liitto", read: 2026-11-21}
   - {title: "Rikosuhripäivystys RIKU: Lapsi ja nuori rikoksen uhrina", url: "https://www.riku.fi/rikoksen-uhrina/lapsi-ja-nuori-rikoksen-uhrina/", publisher: "Rikosuhripäivystys (RIKU)", read: 2026-11-21}
@@ -23,51 +24,16 @@ official_links:
   - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
   - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
-yearly_facts: [vakivalta_tilastot, seksuaalirikoslaki, nettiturvakoti, rikosuhripaivystys, nollalinja, sekasin_chat, opiskeluterveydenhuolto]
+yearly_facts: [vakivalta_tilastot, mikroliikenne, seksuaalirikoslaki, nettiturvakoti, rikosuhripaivystys, nollalinja, sekasin_chat, opiskeluterveydenhuolto]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
-  - title: "Väkivalta (THL)"
-    url: "https://thl.fi/data-ja-tilastot/vakivalta"
-    publisher: "Terveyden ja hyvinvoinnin laitos (THL)"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja ja ammattilaiset
-    read: 2026-11-21
-  - title: "Uusi seksuaalirikoslaki (oikeusministeriö)"
-    url: "https://oikeusministerio.fi/seksuaalirikoslaki"
-    publisher: "Oikeusministeriö"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija ja opettaja
-    read: 2026-11-21
-  - title: "Nuoret ja rikollisuus (Poliisi)"
-    url: "https://poliisi.fi/nuoret-ja-rikollisuus"
-    publisher: "Poliisi"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija (sivun mukaan noin 12-18-vuotiaille)
-    read: 2026-11-21
-  - title: "Nettiturvakoti: Olen lapsi tai nuori"
-    url: "https://nettiturvakoti.fi/"
-    publisher: "Ensi- ja turvakotien liitto"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija (osio alle 18-vuotiaille); muuten kaikki ja ammattilaiset
-    read: 2026-11-21
-  - title: "Rikosuhripäivystys RIKU: Lapsi ja nuori rikoksen uhrina"
-    url: "https://www.riku.fi/rikoksen-uhrina/lapsi-ja-nuori-rikoksen-uhrina/"
-    publisher: "Rikosuhripäivystys (RIKU)"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: "opiskelija (osion oma puhuttelu: lapsi tai nuori)"
-    read: 2026-11-21
-  - title: "Nollalinja 116 016"
-    url: "https://nollalinja.fi/"
-    publisher: "Nollalinja"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja (naisiin kohdistuvaa ja lähisuhdeväkivaltaa tai sen uhkaa kokeneille, sukupuolesta riippumatta; ikärajaa ei mainita)
-    read: 2026-11-21
+  - {"title": "Väkivalta (THL)", "url": "https://thl.fi/data-ja-tilastot/vakivalta", "publisher": "Terveyden ja hyvinvoinnin laitos (THL)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja ja ammattilaiset", "read": 2026-11-21}
+  - {"title": "Uusi seksuaalirikoslaki (oikeusministeriö)", "url": "https://oikeusministerio.fi/seksuaalirikoslaki", "publisher": "Oikeusministeriö", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija ja opettaja", "read": 2026-11-21}
+  - {"title": "Turvallinen mikroliikenne edellyttää sääntöjä ja vastuuta (liikenne- ja viestintäministeriö, 25.2.2026)", "url": "https://valtioneuvosto.fi/-/1410829/turvallinen-mikroliikenne-edellyttaa-saantoja-ja-vastuuta", "publisher": "Liikenne- ja viestintäministeriö (valtioneuvosto)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija ja opettaja", "read": 2026-11-21}
+  - {"title": "Nuoret ja rikollisuus (Poliisi)", "url": "https://poliisi.fi/nuoret-ja-rikollisuus", "publisher": "Poliisi", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija (sivun mukaan noin 12-18-vuotiaille)", "read": 2026-11-21}
+  - {"title": "Nettiturvakoti: Olen lapsi tai nuori", "url": "https://nettiturvakoti.fi/", "publisher": "Ensi- ja turvakotien liitto", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija (osio alle 18-vuotiaille); muuten kaikki ja ammattilaiset", "read": 2026-11-21}
+  - {"title": "Rikosuhripäivystys RIKU: Lapsi ja nuori rikoksen uhrina", "url": "https://www.riku.fi/rikoksen-uhrina/lapsi-ja-nuori-rikoksen-uhrina/", "publisher": "Rikosuhripäivystys (RIKU)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija (osion oma puhuttelu: lapsi tai nuori)", "read": 2026-11-21}
+  - {"title": "Nollalinja 116 016", "url": "https://nollalinja.fi/", "publisher": "Nollalinja", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja (naisiin kohdistuvaa ja lähisuhdeväkivaltaa tai sen uhkaa kokeneille, sukupuolesta riippumatta; ikärajaa ei mainita)", "read": 2026-11-21}
 exam_tasks:
   - {id: K1, type: virheiden-tunnistaminen, part: A20, points: 20, minutes: 25, codes: [TE2.s5, TE2.t4]}
   - {id: K2, type: taulukon-taydentaminen, part: B20, points: 20, minutes: 35, codes: [TE2.s5, TE2.t4]}
@@ -89,16 +55,16 @@ last_reviewed: 2026-11-21
 **Tämän aiheen jälkeen**
 
 1. Osaan kuvata, mitä turvallisuus ja väkivalta tarkoittavat, ja nimetä väkivallan muotoja yleisellä tasolla, kuten kiusaaminen, lähisuhdeväkivalta ja digitaalinen väkivalta.
-2. Osaan selittää, miten fyysisen, psykososiaalisen ja digitaalisen ympäristön piirteet tukevat tai heikentävät turvallisuutta, myös tapaturmien ehkäisyssä.
+2. Osaan selittää, miten fyysisen, psykososiaalisen ja digitaalisen ympäristön piirteet tukevat tai heikentävät turvallisuutta, myös tapaturmien ehkäisyssä esimerkiksi liikenteessä.
 3. Osaan erottaa väkivallan riskitekijöitä ja suojaavia tekijöitä ja selittää, miksi vastuu väkivallasta on aina sillä, joka sitä käyttää.
 4. Osaan selittää, mitä ovat vapaaehtoisuus ja suostumus ja miten sanat eroavat laissa ja arjessa.
 5. Osaan suunnitella väkivallan ehkäisyä yksilön, koulun ja yhteiskunnan tasolla ja kertoa, mistä apua saa.
 
-Opetussuunnitelmassa ympäristöjen turvallisuus ja väkivallan ehkäisy on sisältöalue ilman omaa tavoitetta. Lähin tavoite on TE2.t4, joka koskee fyysisen ja psykososiaalisen ympäristön yhteyksiä terveyteen.
+Tämä sisältöalue ei ole opetussuunnitelmassa oma tavoitteensa; lähin on TE2.t4 (ympäristön yhteydet terveyteen).
 
 ### Turvallisuus on osa ympäristöä
 
-**Turvallisuus** tarkoittaa, että ihmistä ei uhkaa vahinko ja että hän voi luottaa saavansa tarvittaessa apua. Siinä on kaksi puolta: todellinen turvallisuus ja kokemus turvallisuudesta. Molemmat vaikuttavat terveyteen ja jaksamiseen.
+**Turvallisuus** tarkoittaa, että ihmistä ei uhkaa vahinko ja että hän voi luottaa saavansa tarvittaessa apua. Siinä on kaksi puolta: todellinen turvallisuus ja kokemus turvallisuudesta.
 
 Turvallisuus syntyy ympäristöistä:
 
@@ -108,20 +74,24 @@ Turvallisuus syntyy ympäristöistä:
 
 **Tapaturmia** voi ehkäistä, koska ne eivät ole pelkkää sattumaa. Keinoja ovat ympäristön suunnittelu (esimerkiksi hyvä valaistus), säännöt ja valvonta, tuotteiden turvallisuus sekä taidot, kuten ensiapu ja hätänumeroon 112 soittaminen.
 
+### Liikenne soveltavana esimerkkinä
+
+Liikenteessä kolme ympäristöä toimivat yhdessä. Fyysinen ympäristö on kulkuväylät, pysäköintialueet ja käyttöalueiden rajaus. Psykososiaalinen ympäristö on ryhmän paine ja se, että kypärä jää usein käyttämättä, vaikka sen merkitys tunnetaan. Kevyillä sähköajoneuvoilla, kuten sähköpotkulaudoilla, on oma ajokuntoraja. Jalkakäytävällä ajaminen ja matkustajan kuljettaminen ovat kiellettyjä, ja kunnat voivat rajata nopeuksia ja käyttöalueita ([liikenne- ja viestintäministeriö, 25.2.2026](https://valtioneuvosto.fi/-/1410829/turvallinen-mikroliikenne-edellyttaa-saantoja-ja-vastuuta)). Tarkista säännöt viranomaiselta.
+
 ### Mitä väkivalta on?
 
-**Väkivalta** on toisen ihmisen vahingoittamista tai sillä uhkaamista. Se voi olla fyysistä, psyykkistä, seksuaalista tai taloudellista. Se voi olla myös uhkailua, pelottelua tai toisen elämän kontrollointia. Tällä sivulla muotoja käsitellään vain yleisellä tasolla:
+**Väkivalta** on toisen ihmisen vahingoittamista tai sillä uhkaamista. Se voi olla fyysistä, psyykkistä, seksuaalista tai taloudellista. Se voi olla myös uhkailua, pelottelua tai toisen elämän kontrollointia. Muotoja käsitellään vain yleisellä tasolla:
 
 - **kiusaaminen:** toistuvaa, tarkoituksellista pahan mielen aiheuttamista
 - **lähisuhdeväkivalta:** väkivalta nykyisen tai entisen kumppanin tai perheenjäsenen taholta. Sitä tapahtuu kaikenlaisissa parisuhteissa ja perheissä, sukupuolesta ja suuntautumisesta riippumatta
 - **digitaalinen väkivalta:** häirintä, uhkailu ja toisen seuraaminen verkossa sekä kuvien jakaminen ilman lupaa
 - **seksuaalinen väkivalta:** suostumus ja sen puuttuminen käsiteltiin TE1-aiheessa [Seksuaalioikeudet, suostumus ja moninaisuus](../../te1/07-seksuaalioikeudet/)
 
-**Vastuu väkivallasta on aina sillä, joka sitä käyttää.** Väkivallan kokenut ei ole syyllinen, vaikka hän ei olisi puolustautunut tai kertonut heti. Väkivalta voi kuormittaa mieltä ja kehoa ja heikentää luottamusta toisiin. Tuki ja apu auttavat, ja moni toipuu. Väkivallan yleisyydestä kertovat THL:n [väkivaltatilastot](https://thl.fi/data-ja-tilastot/vakivalta). Luvut muuttuvat vuosittain, joten niitä ei kirjoiteta tähän.
+**Vastuu väkivallasta on aina sillä, joka sitä käyttää.** Väkivallan kokenut ei ole syyllinen, vaikka hän ei olisi puolustautunut tai kertonut heti. Väkivalta voi kuormittaa mieltä ja kehoa ja heikentää luottamusta toisiin. Tuki ja apu auttavat, ja moni toipuu. Väkivallan yleisyydestä kertovat THL:n [väkivaltatilastot](https://thl.fi/data-ja-tilastot/vakivalta).
 
 ### Vapaaehtoisuus ja suostumus
 
-Seksuaalirikoslaki uudistui, ja uusi laki on voimassa vuoden 2023 alusta. Oikeusministeriön mukaan raiskauksen määritelmä perustuu siihen, osallistuuko ihminen vapaaehtoisesti ([oikeusministeriö](https://oikeusministerio.fi/seksuaalirikoslaki)). Laissa puhutaan **vapaaehtoisuudesta**, arjessa **suostumuksesta**. Molemmissa kysytään, onko ihminen mukana omasta tahdostaan. Lapsi ei voi suostua seksuaaliseen tekoon aikuisen kanssa, ja alle 16-vuotiaan suojasta on omat säännöksensä. Rangaistuksia tai pykäliä ei kirjoiteta tähän: ne ovat oikeusministeriön sivulla.
+Oikeusministeriön mukaan raiskauksen määritelmä perustuu siihen, osallistuuko ihminen vapaaehtoisesti ([oikeusministeriö](https://oikeusministerio.fi/seksuaalirikoslaki)). Laissa puhutaan **vapaaehtoisuudesta**, arjessa **suostumuksesta**. Molemmissa kysytään, onko ihminen mukana omasta tahdostaan. Lapsi ei voi suostua seksuaaliseen tekoon aikuisen kanssa, ja alle 16-vuotiaan suojasta on omat säännöksensä.
 
 ### Riskitekijät ja suojaavat tekijät
 
@@ -134,13 +104,13 @@ Seksuaalirikoslaki uudistui, ja uusi laki on voimassa vuoden 2023 alusta. Oikeus
 
 ### Ehkäisy kolmella tasolla
 
-Ehkäisy toimii parhaiten, kun sitä tehdään samaan aikaan monella tasolla ja jatkuvasti, ei kertaluonteisesti:
+Ehkäisy toimii parhaiten monella tasolla yhtä aikaa ja jatkuvasti:
 
-- **Yksilö:** tunne- ja vuorovaikutustaidot, tieto omista oikeuksista ja rohkeus puuttua sivusta, esimerkiksi kertomalla aikuiselle.
+- **Yksilö:** tunne- ja vuorovaikutustaidot, tieto omista oikeuksista ja rohkeus puuttua sivusta.
 - **Koulu:** selkeät säännöt, kiusaamisen vastaiset toimintatavat, turvallisuussuunnitelma, aikuisten läsnäolo ja opiskeluhuolto, jota on helppo lähestyä.
 - **Yhteiskunta:** lait, palvelut ja viestintä, joka ei hyväksy väkivaltaa.
 
-Jos joku kertoo sinulle huolestaan, kuuntele ja usko häntä. Kerro, ettei asia ole hänen syynsä, ja ohjaa hänet aikuisen luo. Sinun ei tarvitse ratkaista asiaa yksin. Poliisin sivu [Nuoret ja rikollisuus](https://poliisi.fi/nuoret-ja-rikollisuus) on tarkoitettu nuorille. Sivun testejä ei käytetä luokassa. Apua ja tukea -osiossa on palveluita, joihin voi ottaa yhteyttä.
+Jos joku kertoo sinulle huolestaan, kuuntele ja usko häntä. Kerro, ettei asia ole hänen syynsä, ja ohjaa hänet aikuisen luo. Apua ja tukea -osiossa on palveluita, joihin voi ottaa yhteyttä.
 
 ## Tehtävät
 
@@ -161,9 +131,10 @@ Tehtävissä on kuvitteellisia tapauksia, joissa ei kuvata väkivaltaa. Voit jä
 4. Koulun säännöissä sanotaan, mistä apua saa, jos kiusataan.
 5. Pyöräpysäköinti on pimeässä nurkassa.
 6. Opiskelijat saavat kertoa huolistaan nimettömästi laatikkoon.
+7. Koulun pihassa kevyet sähköajoneuvot saa jättää minne tahansa, eikä kypärän käytöstä ole puhuttu.
 
 1. Piirrä taulukko: ympäristö (fyysinen, psykososiaalinen, digitaalinen) | tukee turvallisuutta | heikentää turvallisuutta.
-2. Sijoita jokainen piirre taulukkoon. Yksi piirre voi kuulua tapaturmien ehkäisyyn: merkitse se.
+2. Sijoita jokainen piirre taulukkoon. Kaksi piirrettä liittyy tapaturmien ehkäisyyn, myös liikenteessä: merkitse ne.
 3. Kirjoita jokaiselle heikentävälle piirteelle yksi parannusehdotus ja se, kuka sen toteuttaa.
 4. Kirjoita yksi lause: miksi turvallisuus ei synny pelkästä rakennuksesta?
 
@@ -212,7 +183,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
 
 1. Osaan kuvata, mitä turvallisuus ja väkivalta tarkoittavat, ja nimetä väkivallan muotoja yleisellä tasolla, kuten kiusaaminen, lähisuhdeväkivalta ja digitaalinen väkivalta.
-2. Osaan selittää, miten fyysisen, psykososiaalisen ja digitaalisen ympäristön piirteet tukevat tai heikentävät turvallisuutta, myös tapaturmien ehkäisyssä.
+2. Osaan selittää, miten fyysisen, psykososiaalisen ja digitaalisen ympäristön piirteet tukevat tai heikentävät turvallisuutta, myös tapaturmien ehkäisyssä esimerkiksi liikenteessä.
 3. Osaan erottaa väkivallan riskitekijöitä ja suojaavia tekijöitä ja selittää, miksi vastuu väkivallasta on aina sillä, joka sitä käyttää.
 4. Osaan selittää, mitä ovat vapaaehtoisuus ja suostumus ja miten sanat eroavat laissa ja arjessa.
 5. Osaan suunnitella väkivallan ehkäisyä yksilön, koulun ja yhteiskunnan tasolla ja kertoa, mistä apua saa.
@@ -257,13 +228,13 @@ b) Perustele, miksi ehkäisyn pitäisi toimia usealla tasolla yhtä aikaa. (8 p)
 
 *Osa C30 · Harjoittelee: Osaan 2, 3, 5*
 
-*Aineisto 1 (kuvitteellinen turvallisuussuunnitelman tiivistelmä):* Koivurannan lukion turvallisuussuunnitelmassa sanotaan: Kiusaamiseen puututaan aina, kun siitä saadaan tieto. Käytävillä on valvontakamerat. Opiskelijoiden viestiryhmiä koulu ei seuraa, koska ne ovat opiskelijoiden omia. Tapaturmista vastaa rehtori. Opiskeluhuollon kuraattori on tavattavissa tiistaisin. Suunnitelma esitellään opiskelijoille syksyn alussa.
+*Aineisto 1 (kuvitteellinen turvallisuussuunnitelman tiivistelmä):* Koivurannan lukion turvallisuussuunnitelmassa sanotaan: Kiusaamiseen puututaan aina, kun siitä saadaan tieto. Käytävillä on valvontakamerat. Opiskelijoiden viestiryhmiä koulu ei seuraa, koska ne ovat opiskelijoiden omia. Tapaturmista vastaa rehtori. Opiskeluhuollon kuraattori on tavattavissa tiistaisin. Pihalla kevyiden sähköajoneuvojen pysäköintiä ei ole ohjattu. Suunnitelma esitellään opiskelijoille syksyn alussa.
 
 *Aineisto 2 (kuvitteellinen opiskelijakunnan aloite):* Opiskelijakunta toivoo, että aikuinen on tavoitettavissa joka päivä, viestiryhmille sovitaan yhteiset säännöt, kiusaamisesta voi kertoa nimettömästi ja turvallisuusasioista puhutaan useammin kuin kerran vuodessa.
 
-a) Arvioi suunnitelman vahvuuksia ja puutteita turvallisuuden eri ympäristöjen (fyysinen, psykososiaalinen, digitaalinen) ja tapaturmien ehkäisyn kannalta. (10 p)
+a) Arvioi suunnitelman vahvuuksia ja puutteita turvallisuuden eri ympäristöjen (fyysinen, psykososiaalinen, digitaalinen) ja tapaturmien ehkäisyn kannalta. (9 p)
 
-b) Arvioi opiskelijakunnan aloitetta ja täydennä suunnitelmaa ehdotuksilla yksilön, koulun ja yhteiskunnan tasolla. (12 p)
+b) Arvioi opiskelijakunnan aloitetta ja täydennä suunnitelmaa ehdotuksilla yksilön, koulun ja yhteiskunnan tasolla. (13 p)
 
 c) Perustele, miksi ehkäisyn ja avun saatavuuden kuuluu olla yhdessä ja miksi ehkäisyn pitäisi olla jatkuvaa. (8 p)
 
@@ -342,9 +313,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** *Fyysinen ympäristö:* valvontakamerat voivat estää joitakin tapauksia käytävillä, mutta ne eivät ehkäise kiusaamista tai häirintää. Suunnitelma ei mainitse valaistusta tai muita fyysisiä piirteitä. *Psykososiaalinen ympäristö:* vahvuus on, että kiusaamiseen puututaan aina kun tieto saadaan. Puute on, että tieto saadaan vasta, kun joku kertoo. Aikuinen, jonka luo voi mennä, on saatavilla vain tiistaisin, mikä voi olla liian harvoin. *Digitaalinen ympäristö:* koulu ei seuraa viestiryhmiä, vaikka suuri osa kiusaamisesta ja häirinnästä voi tapahtua niissä. Suunnitelma ei sano, miten digitaaliseen väkivaltaan puututaan. *Tapaturmat:* vastuu on rehtorilla, mikä on selkeää, mutta suunnitelma ei kerro, miten tapaturmia ehkäistään. Suunnitelman esittely syksyn alussa on hyvä, mutta kertaluonteinen.
+**a)** *Fyysinen ympäristö:* valvontakamerat voivat estää joitakin tapauksia käytävillä, mutta ne eivät ehkäise kiusaamista tai häirintää. Suunnitelma ei mainitse valaistusta eikä sitä, että pihalla kevyiden sähköajoneuvojen pysäköintiä ei ole ohjattu, mikä voi aiheuttaa vaaratilanteita. *Psykososiaalinen ympäristö:* vahvuus on, että kiusaamiseen puututaan aina kun tieto saadaan. Puute on, että tieto saadaan vasta, kun joku kertoo. Aikuinen, jonka luo voi mennä, on saatavilla vain tiistaisin, mikä voi olla liian harvoin. *Digitaalinen ympäristö:* koulu ei seuraa viestiryhmiä, vaikka suuri osa kiusaamisesta ja häirinnästä voi tapahtua niissä. Suunnitelma ei sano, miten digitaaliseen väkivaltaan puututaan. *Tapaturmat:* vastuu on rehtorilla, mikä on selkeää, mutta suunnitelma ei kerro, miten tapaturmia ehkäistään, esimerkiksi liikenteessä: kypärän käytöstä ja ajoneuvojen käytöstä ei ole ohjetta. Suunnitelman esittely syksyn alussa on hyvä, mutta kertaluonteinen.
 
-**b)** Opiskelijakunnan aloite täydentää suunnitelmaa hyvin. Joka päivä tavoitettava aikuinen madaltaa kynnystä kertoa, ja nimetön kertominen auttaa niitä, jotka pelkäävät. Viestiryhmien säännöt täyttävät digitaalisen puutteen. Useammin toistuva turvallisuuskeskustelu tekee ehkäisystä jatkuvaa. Aloitteesta puuttuvat fyysinen ympäristö ja tapaturmat. *Ehdotukset:* yksilön tasolla opiskelijat harjoittelevat puuttumista sivusta ja kertomista. Koulun tasolla suunnitelmaan lisätään valaistuksen ja kulkuväylien tarkastus, viestiryhmien säännöt ja ylläpitäjät sekä aikuisen päivittäinen läsnäolo. Yhteiskunnan tasolla koulu tukeutuu lakiin, joka suojaa häirinnältä, ja palveluihin, joihin voi ohjata, kuten opiskeluterveydenhuolto ja auttavat palvelut.
+**b)** Opiskelijakunnan aloite täydentää suunnitelmaa hyvin. Joka päivä tavoitettava aikuinen madaltaa kynnystä kertoa, ja nimetön kertominen auttaa niitä, jotka pelkäävät. Viestiryhmien säännöt täyttävät digitaalisen puutteen. Useammin toistuva turvallisuuskeskustelu tekee ehkäisystä jatkuvaa. Aloitteesta puuttuvat fyysinen ympäristö ja tapaturmat. *Ehdotukset:* yksilön tasolla opiskelijat harjoittelevat puuttumista sivusta ja kertomista. Koulun tasolla suunnitelmaan lisätään valaistuksen ja kulkuväylien tarkastus, pysäköintipaikat kevyille sähköajoneuvoille, kypärän käytön ohje, viestiryhmien säännöt ja ylläpitäjät sekä aikuisen päivittäinen läsnäolo. Yhteiskunnan tasolla koulu tukeutuu lakiin, joka suojaa häirinnältä, ja liikennesääntöihin ([liikenne- ja viestintäministeriö](https://valtioneuvosto.fi/-/1410829/turvallinen-mikroliikenne-edellyttaa-saantoja-ja-vastuuta)), ja palveluihin, joihin voi ohjata, kuten opiskeluterveydenhuolto ja auttavat palvelut.
 
 **c)** Ehkäisy ja avun saatavuus kuuluvat yhteen, koska ehkäisy ei estä kaikkea väkivaltaa. Kun jotain tapahtuu, avun pitää olla helposti saatavilla, ja tieto avusta pienentää haittoja. Toisaalta jos apu on helposti saatavilla, ihmiset uskaltavat kertoa ajoissa, mikä ehkäisee asioiden pahenemista. Ehkäisyn pitäisi olla jatkuvaa, koska asenteet ja ryhmät muuttuvat: uudet opiskelijat tulevat, ja kertaluonteinen esitys unohtuu. Vastuu väkivallasta on aina sillä, joka sitä käyttää, joten ehkäisyssä ei tule syyllistää kokijaa vaan muuttaa ympäristöä.
 
@@ -363,7 +334,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 0–5 p: vastaus kuvaa aineistoja ilman arviota tai antaa yleisiä turvallisuusohjeita.
 - Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
-Tehtävänannon osapisteet (a 10 p, b 12 p, c 8 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+Tehtävänannon osapisteet (a 9 p, b 13 p, c 8 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
 **Yhteensä:** 30 p
 

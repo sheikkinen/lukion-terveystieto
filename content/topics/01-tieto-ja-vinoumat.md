@@ -19,61 +19,29 @@ official_links:
   - {title: "Faktabaari EDU", url: "https://faktabaari.fi/edu/", publisher: "Avoin Yhteiskunta ry", read: 2026-11-21}
   - {title: "Argumenttikortit argumenttien luotettavuuden arviointiin", url: "https://aoe.fi/#/materiaali/3554", publisher: "Tampereen yliopisto (aoe.fi)", read: 2026-11-21}
   - {title: "Tietolähteet ja ohjauspalvelut (opinto-ohjaus, aihe 08)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/08-tietolahteet/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
+  - {title: "Dunning-Kruger-efekti selittää netin amatööriepidemiologien itsevarmuutta", url: "https://yle.fi/aihe/artikkeli/2020/06/30/valheenpaljastaja-dunning-kruger-efekti-selittaa-netin-amatooriepidemiologien", publisher: "Yle", read: 2026-11-21}
+  - {title: "Tuuppausyksikkö löysi jättisäästöt brittien ajattelun oikoteistä", url: "https://yle.fi/aihe/artikkeli/2015/02/26/tuuppausyksikko-loysi-jattisaastot-brittien-ajattelun-oikoteista", publisher: "Yle", read: 2026-11-21}
+  - {title: "lume (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/ltt01972", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
   - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi", read: 2026-11-21}
   - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
-yearly_facts: [opiskeluterveydenhuolto]
+yearly_facts: [opiskeluterveydenhuolto, lumevaikutus, ajattelun_vinoumat]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
-  - title: "Käypä hoito -suositukset"
-    url: "https://www.kaypahoito.fi/"
-    publisher: "Suomalainen Lääkäriseura Duodecim"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija ja opettaja
-    read: 2026-11-21
-  - title: "Terveyskirjasto"
-    url: "https://www.terveyskirjasto.fi/"
-    publisher: "Suomalainen Lääkäriseura Duodecim"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija
-    read: 2026-11-21
-  - title: "Tieto (Tieteen termipankki)"
-    url: "https://tieteentermipankki.fi/wiki/Filosofia:tieto"
-    publisher: "Tieteen termipankki"
-    licence_class: open-cc-by-sa
-    licence: "CC BY-SA 3.0"
-    audience: opettaja ja syventävä opiskelija
-    read: 2026-11-21
-  - title: "Faktabaari EDU"
-    url: "https://faktabaari.fi/edu/"
-    publisher: "Avoin Yhteiskunta ry"
-    licence_class: link-out
-    licence: "Creative Commons, versio ei ilmoitettu; käsitellään link-out-aineistona"
-    audience: opettaja ja opiskelija
-    read: 2026-11-21
-  - title: "Argumenttikortit argumenttien luotettavuuden arviointiin"
-    url: "https://aoe.fi/#/materiaali/3554"
-    publisher: "Tampereen yliopisto (aoe.fi)"
-    licence_class: link-out
-    licence: "CC BY-NC-ND 4.0"
-    audience: opettaja
-    read: 2026-11-21
+  - {title: "Käypä hoito -suositukset", url: "https://www.kaypahoito.fi/", publisher: "Suomalainen Lääkäriseura Duodecim", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija ja opettaja, read: 2026-11-21}
+  - {title: "Terveyskirjasto", url: "https://www.terveyskirjasto.fi/", publisher: "Suomalainen Lääkäriseura Duodecim", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
+  - {title: "Tieto (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:tieto", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0", audience: opettaja ja syventävä opiskelija, read: 2026-11-21}
+  - {title: "Faktabaari EDU", url: "https://faktabaari.fi/edu/", publisher: "Avoin Yhteiskunta ry", licence_class: link-out, licence: "Creative Commons, versio ei ilmoitettu; käsitellään link-out-aineistona", audience: opettaja ja opiskelija, read: 2026-11-21}
+  - {title: "Argumenttikortit argumenttien luotettavuuden arviointiin", url: "https://aoe.fi/#/materiaali/3554", publisher: "Tampereen yliopisto (aoe.fi)", licence_class: link-out, licence: "CC BY-NC-ND 4.0", audience: opettaja, read: 2026-11-21}
 exam_tasks:
   - {id: K1, type: maarittele-ja-esimerkki, part: A20, points: 20, minutes: 25, codes: [TE2.s1, TE2.t1]}
   - {id: K2, type: viestinnan-analyysi, part: B20, points: 20, minutes: 35, codes: [TE2.s1, TE2.t1]}
   - {id: K3, type: tutkimustiedon-arviointi, part: C30, points: 30, minutes: 55, codes: [TE2.t1, TE2.t2, TE2.s1]}
+  - {id: K4, type: oikein-vaarin, part: A20, points: 20, minutes: 25, codes: [TE2.t1, TE2.t3, TE2.s1, TE2.s3, TE2.s5, TE2.s7]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links:
-  - title: "Tietolähteet ja ohjauspalvelut (opinto-ohjaus, aihe 08)"
-    url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/08-tietolahteet/"
-    read: 2026-11-21
-school_adapts:
-  - "Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"
-accessibility:
-  - "Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; aineistot on kirjoitettu tehtäviin."
-  - "Tehtävissä arvioidaan kuvitteellisia väitteitä ja henkilöitä; omasta terveydestä ei tarvitse kertoa kenellekään."
-  - "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."
+  - {title: "Tietolähteet ja ohjauspalvelut (opinto-ohjaus, aihe 08)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/08-tietolahteet/", read: 2026-11-21}
+school_adapts: ["Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"]
+accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; aineistot on kirjoitettu tehtäviin.", "Tehtävissä arvioidaan kuvitteellisia väitteitä ja henkilöitä; omasta terveydestä ei tarvitse kertoa kenellekään.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-21
 ---
 
@@ -85,6 +53,7 @@ last_reviewed: 2026-11-21
 2. Osaan tunnistaa ajattelun vinoumia esimerkeistä ja selittää, miten ne johtavat harhaan.
 3. Osaan vertailla kahden terveystiedon lähteen luotettavuutta perustellen.
 4. Osaan arvioida, millainen näyttö riittää terveysväitteen tueksi ja miksi yksi tutkimus ei vielä riitä.
+5. Osaan selittää lumevaikutuksen ja kertoa, miksi kokeessa tarvitaan vertailuryhmä.
 
 ### Kolme tapaa tietää
 
@@ -93,8 +62,6 @@ Terveydestä kuulee joka päivä väitteitä: kaverilta, mainoksista, somesta ja
 - **Arkitieto** on yhteistä, opittua tietoa, kuten sanontoja ja tapoja. Se on usein hyödyllistä, mutta sitä ei ole tarkistettu järjestelmällisesti.
 - **Kokemustieto** syntyy omasta tai toisen kokemuksesta. Se kertoo, miltä jokin tuntuu, ja on arvokasta esimerkiksi palvelujen kehittämisessä. Yksi kokemus ei kuitenkaan näytä, mikä asian aiheutti.
 - **Tieteellinen tieto** syntyy tutkimuksella, jonka menetelmät kerrotaan avoimesti. Muut tutkijat voivat arvioida ja toistaa sen.
-
-Tieto-käsitteen filosofisesta taustasta voit lukea [Tieteen termipankista](https://tieteentermipankki.fi/wiki/Filosofia:tieto).
 
 ### Miten tieteellinen tieto syntyy?
 
@@ -111,8 +78,17 @@ Yksi tutkimus ei vielä riitä. Tulos voi johtua sattumasta, pienestä joukosta 
 - **auktoriteettiharha:** uskoo väitteen, koska tunnettu henkilö sanoo sen, vaikka hän ei ole alan asiantuntija
 - **yleistäminen yksittäistapauksesta:** päättelee yhden ihmisen tarinasta, että asia pätee kaikkiin
 - **jälkeen–siksi-päätelmä:** olettaa, että jokin aiheutti muutoksen, koska se tapahtui ensin
+- **Dunning–Kruger-ilmiö:** taidossa vasta alkuvaiheessa oleva arvioi osaamisensa usein todellista paremmaksi, koska puutteet näkyvät vasta osaamisen kasvaessa ([Yle](https://yle.fi/aihe/artikkeli/2020/06/30/valheenpaljastaja-dunning-kruger-efekti-selittaa-netin-amatooriepidemiologien)). Itsevarmuus ei siis todista asiantuntemusta.
+- **optimismivinouma:** uskoo, että huonot asiat sattuvat pikemmin muille kuin itselle
+- **nykyharha:** pitää heti saatavaa hyötyä tärkeämpänä kuin myöhemmin tulevaa
+- **kehystysvaikutus:** sama tieto saa eri painon sen mukaan, miten se esitetään: "yhdeksän kymmenestä selviää" tai "yksi kymmenestä ei selviä" ([Yle](https://yle.fi/aihe/artikkeli/2015/02/26/tuuppausyksikko-loysi-jattisaastot-brittien-ajattelun-oikoteista))
+- **laumaharha:** seuraa enemmistöä, koska kaikki muutkin näyttävät toimivan niin
 
 Kun kaksi asiaa esiintyy yhdessä, kyse on **yhteydestä** eli korrelaatiosta. Yhteys ei vielä kerro syy-seuraussuhteesta. Taustalla voi olla kolmas asia.
+
+### Lumevaikutus ja vertailuryhmä
+
+**Lumevaikutus** tarkoittaa, että pelkkä odotus hoidosta voi muuttaa koettua oloa, vaikka hoidossa ei ole vaikuttavaa ainetta. Siksi kokeissa verrataan hoitoa **lumeeseen** eli valmisteeseen ilman vaikuttavaa ainetta ([Terveyskirjasto](https://www.terveyskirjasto.fi/ltt01972)). Kun kumpikaan ryhmä ei tiedä, kumman sai, koe on **sokkoutettu**. Olo myös vaihtelee itsestään, joten ilman vertailuryhmää paraneminen hoidon jälkeen ei kerro hoidon tehosta. Kokemus on silti todellinen. Se ei vain ole näyttöä tehosta.
 
 ### Kun vertaat lähteitä
 
@@ -147,7 +123,7 @@ Terveystiedon lukutaidon perusteet opit TE1-aiheessa [Terveyskulttuurin ilmiöt]
 **Aika:** 20 min
 **Tarvitset:** paperia ja kynän
 **Ilman laitetta:** Tämä on paperitehtävä: keskustelu on tehtävässä. Jos et voi tulostaa sitä, kirjoita jokaisen viestin alkusana paperille ja tee vaiheet 1–5.
-**Harjoittelet:** Osaan 2 ja 4
+**Harjoittelet:** Osaan 2, 4 ja 5
 
 *Aineisto (kuvitteellinen ryhmächat):* Kuvitteellista *Keskittymispanta*-tuotetta mainostetaan näin: "Panta parantaa keskittymistä ja koenumeroita."
 
@@ -161,7 +137,7 @@ Terveystiedon lukutaidon perusteet opit TE1-aiheessa [Terveyskulttuurin ilmiöt]
 2. Nimeä jokaisen viestin vinouma Opiskelijalle-osion luettelosta.
 3. Kirjoita jokaisen viestin viereen, miksi päätelmä ei pidä: mitä siitä puuttuu?
 4. Kirjoita jokaiselle yksi kysymys, joka auttaisi arvioimaan väitettä paremmin, esimerkiksi *Miten kävi niille, jotka eivät käyttäneet pantaa?*
-5. Kirjoita lopuksi, millainen näyttö saisi sinut uskomaan, että panta todella toimii.
+5. Kirjoita lopuksi, millainen näyttö saisi sinut uskomaan, että panta todella toimii. Selitä, miksi kokeessa tarvittaisiin ryhmä, joka saa lumepannan.
 
 ### Tehtävä 3: Rakenna näytön portaat
 
@@ -183,8 +159,7 @@ Terveystiedon lukutaidon perusteet opit TE1-aiheessa [Terveyskulttuurin ilmiöt]
 Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
 
 1. Miksi ihmiset uskovat usein tarinaa helpommin kuin tilastoa? Mitä hyvää ja mitä huonoa siinä on?
-2. Millaisessa tilanteessa kokemustieto on yhtä tärkeää kuin tutkimustieto, esimerkiksi palvelujen suunnittelussa?
-3. Miten koulu, media tai some-palvelu voisi auttaa ihmisiä tunnistamaan vinoumia?
+2. Miten koulu, media tai some-palvelu voisi auttaa ihmisiä tunnistamaan vinoumia?
 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
 
@@ -192,6 +167,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 2. Osaan tunnistaa ajattelun vinoumia esimerkeistä ja selittää, miten ne johtavat harhaan.
 3. Osaan vertailla kahden terveystiedon lähteen luotettavuutta perustellen.
 4. Osaan arvioida, millainen näyttö riittää terveysväitteen tueksi ja miksi yksi tutkimus ei vielä riitä.
+5. Osaan selittää lumevaikutuksen ja kertoa, miksi kokeessa tarvitaan vertailuryhmä.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
@@ -205,13 +181,7 @@ Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyyp
 
 Määrittele käsitteet a–d ja anna kustakin terveyteen liittyvä esimerkki. Kerro myös, miten käsite eroaa sille läheisestä käsitteestä. Kirjoita kustakin käsitteestä enintään noin 500 merkkiä.
 
-a) arkitieto (5 p)
-
-b) tieteellinen tieto (5 p)
-
-c) vahvistusvinouma (5 p)
-
-d) vertaisarviointi (5 p)
+a) arkitieto (5 p), b) tieteellinen tieto (5 p), c) vahvistusvinouma (5 p), d) vertaisarviointi (5 p)
 
 ### K2: Viestinnän analyysi, 35 min (20 p)
 
@@ -225,13 +195,13 @@ d) vertaisarviointi (5 p)
 > - (4) **Kirjoittaja D:** Etsin netistä "Puhti auttaa flunssaan" ja löysin heti viisi kehuvaa juttua. Asia on siis selvä.
 > - (5) **Kirjoittaja E:** Puhti on luonnollinen, joten se on turvallisempi kuin mikään apteekin tuote.
 
-a) Nimeä neljästä viestistä se ajattelun vinouma tai päättelyn virhe, joka viestissä näkyy, ja selitä, miksi päätelmä ei ole luotettava. (12 p)
+a) Valitse viidestä viestistä neljä ja nimeä kustakin se ajattelun vinouma tai päättelyn virhe, joka viestissä näkyy, ja selitä, miksi päätelmä ei ole luotettava. (12 p)
 
 b) Kuvaa, millaisella tutkimuksella väitteen "Puhti lyhentää flunssaa" voisi selvittää luotettavasti. (8 p)
 
 ### K3: Tutkimustiedon arviointi, 55 min (30 p)
 
-*Osa C30 · Harjoittelee: Osaan 1, 3, 4*
+*Osa C30 · Harjoittelee: Osaan 1, 3, 4, 5*
 
 *Aineisto 1 (kuvitteellinen mainos):* "Keskittymispanta paransi oppimista – yhdeksän käyttäjää kymmenestä suosittelee! Tutkitusti tehokas."
 
@@ -251,6 +221,33 @@ a) Vertaile tutkimusten A ja B luotettavuutta neljästä taulukon näkökulmasta
 b) Selitä, miksi tutkimuksessa B myös ilman toimintoa olevan pannan saaneet kokivat keskittyvänsä paremmin, ja mitä tämä kertoo tutkimuksen A tuloksesta. (7 p)
 
 c) Arvioi aineiston 1 väitettä "tutkitusti tehokas" taulukon 1 perusteella. Kirjoita kuvitteelliselle Kimille, joka harkitsee pannan ostamista, perusteltu vastaus siitä, mitä tutkimuksista voi päätellä. (9 p)
+
+### K4: Oikein vai väärin, 20 väittämää, 25 min (20 p)
+
+*Osa A20 · Harjoittelee: Osaan 1, 2, 5 sekä koko TE2-moduulin käsitteitä*
+
+Päätä jokaisesta väittämästä, onko se oikein vai väärin. Oikea vastaus 1 p, väärä −1 p, tyhjä 0 p. Tehtävän pisteet eivät mene alle nollan. Vastaa pelkällä numerolla ja sanalla *oikein* tai *väärin*.
+
+1. Vahvistusvinoumassa huomaa ja muistaa erityisesti tiedon, joka tukee omaa käsitystä.
+2. Kokemustieto on tieteellistä tietoa, koska se perustuu todelliseen kokemukseen.
+3. Vertaisarviointi takaa, että tutkimuksen tulos on varmasti oikea.
+4. Poikkileikkaustutkimus seuraa samaa ihmisjoukkoa pitkän ajan.
+5. Otos on edustava, kun siinä on eri ryhmiä samassa suhteessa kuin perusjoukossa.
+6. Kahden asian yhteys osoittaa aina, että toinen aiheuttaa toisen.
+7. Vaikuttajan tuotesuosituksesta pitää kertoa selvästi, jos siihen liittyy yhteistyö yrityksen kanssa.
+8. Misinformaatio on tarkoituksella levitettyä väärää tietoa.
+9. Elinympäristöä voi tarkastella rakennetun, luonnon-, psykososiaalisen ja mediaympäristön kautta.
+10. Yksin oleminen ja yksinäisyyden kokemus ovat sama asia.
+11. Kestävällä kehityksellä on ekologinen, taloudellinen, sosiaalinen ja kulttuurinen ulottuvuus.
+12. Terveys kaikissa politiikoissa tarkoittaa, että terveydenhuolto päättää muiden alojen politiikasta.
+13. Väkivallasta vastaa aina se, joka sitä käyttää.
+14. Työn voimavarat poistavat työn vaatimukset kokonaan.
+15. Riippuvuus on luonteen heikkoutta eikä terveydentila.
+16. Sietokyvyn kasvaessa saman vaikutuksen saamiseen tarvitaan ajan mittaan enemmän ainetta.
+17. Haittojen vähentäminen tarkoittaa toimia, jotka pienentävät haittoja silloinkin, kun käyttö ei lopu.
+18. Lumevaikutuksessa pelkkä odotus hoidosta voi muuttaa koettua oloa.
+19. Dunning–Kruger-ilmiössä taidossa heikko arvioi osaamisensa usein todellista huonommaksi.
+20. Kehystysvaikutuksessa sama tieto voi saada eri painon sen mukaan, miten se esitetään.
 
 ## Mallivastaukset
 
@@ -280,7 +277,6 @@ c) Arvioi aineiston 1 väitettä "tutkitusti tehokas" taulukon 1 perusteella. Ki
 **Tyypilliset virheet**
 
 - Määritelmä on pelkkä synonyymi tai esimerkki ilman yleistä selitystä.
-- Arkitieto esitetään aina vääränä, vaikka se voi olla oikeaa mutta testaamatonta.
 - Tieteellinen tieto kuvataan lopullisena totuutena eikä itseään korjaavana.
 - Vertaisarviointi sekoitetaan siihen, että tulos olisi varmasti oikea.
 
@@ -294,7 +290,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 *Viesti 2, yleistäminen yksittäistapauksesta:* yhden ihmisen terveys ei kerro juomasta mitään, koska terveyteen vaikuttavat monet muut tekijät, kuten perimä ja elinolot. Tarinasta puuttuvat myös ne, jotka joivat juomaa ja sairastivat.
 *Viesti 3, auktoriteettiharha:* jalkapalloilija on urheilun asiantuntija, ei flunssan tutkija. Mainostaja saa lisäksi palkkaa, joten suosituksella on kaupallinen tarkoitus.
 *Viesti 4, vahvistusvinouma:* hakusanat oli muotoiltu niin, että ne löytävät kehuvaa tietoa. Kriittisiä tai neutraaleja lähteitä ei etsitty, eikä viidessä jutussa välttämättä ole yhtään tutkimusta.
-(Viesti 5 vetoaa luonnollisuuteen: luonnollinen ei tarkoita tehokasta tai turvallista. Sen voi valita yhdeksi neljästä.)
 
 **b)** Luotettava tutkimus olisi satunnaistettu koe. Flunssaan sairastuneet osallistujat jaettaisiin arpomalla kahteen ryhmään. Toinen ryhmä saisi Puhtia ja toinen samanmakuista juomaa ilman vaikuttavaa ainetta, eikä kumpikaan ryhmä tietäisi, kumman sai. Arpominen tekee ryhmistä samanlaiset, joten ero voidaan liittää juomaan. Sokkoutus estää odotuksia vaikuttamasta tulokseen. Paranemisaika mitattaisiin samalla tavalla molemmista. Osallistujia tarvitaan riittävästi, jotta tulos ei johdu sattumasta, ja tutkimuksen tekijä olisi riippumaton juoman valmistajasta. Tulos julkaistaisiin vertaisarvioituna, ja vasta toistetut tutkimukset vahvistaisivat näyttöä.
 
@@ -302,7 +297,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 *Sisältö 10 p:*
 
-- a) Neljä viestiä, joista kunkin vinouma on nimetty oikein 1 p. Yhteensä 4 p.
+- a) Neljä viestiä, joista kunkin vinouma on nimetty oikein 1 p. Yhteensä 4 p. Mikä tahansa neljä viidestä kelpaa; viesti 5 vetoaa luonnollisuuteen, vaikka "luonnollinen" ei kerro turvallisuudesta tai tehosta.
 - b) Luotettavan tutkimuksen piirteet: vertailuryhmä, satunnaistaminen, sokkoutus, riittävä osallistujamäärä, riippumaton tekijä, yhtenäinen mittari. Kaksi piirrettä selitettynä 3 p, neljä 5 p, kuusi 6 p.
 
 *Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
@@ -319,7 +314,6 @@ Tehtävänannon osapisteet (a 12 p, b 8 p) sisältävät sekä sisällön että 
 **Tyypilliset virheet**
 
 - Vinoumat nimetään, mutta vastaus ei kerro, miksi päätelmä ei pidä.
-- Viestit 2 ja 1 sekoitetaan: yleistäminen koskee yhtä ihmistä, jälkeen–siksi-päätelmä ajallista järjestystä.
 - Vastaus väittää Puhdin olevan tehoton, vaikka aineisto ei kerro sitä; tehtävä koskee päättelyä, ei juomaa.
 - Tutkimussuunnitelmasta puuttuu vertailuryhmä, jolloin paranemisen syy jää auki.
 
@@ -365,15 +359,50 @@ Tehtävänannon osapisteet (a 14 p, b 7 p, c 9 p) sisältävät sekä sisällön
 
 - Vertailu kertoo vain tutkimuksesta B eikä vertaa näkökulmaa molempiin.
 - Vastausprosentin ja valikoitumisen merkitystä ei huomata: suuri luku näyttää vakuuttavalta.
-- Lumevaikutus sekoitetaan siihen, että osallistujat valehtelivat.
 - B esitetään lopullisena totuutena, vaikka se on yksi tutkimus.
-- Vastaus Kimille moralisoi tai neuvoo, mitä hänen pitää tehdä, sen sijaan että kertoisi, mitä tutkimuksista voi päätellä.
+
+Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
+
+### K4: Oikein vai väärin, 20 väittämää, 25 min (20 p)
+
+**Malliksi kelpaava vastaus**
+
+**Oikein:** 1, 5, 7, 9, 11, 13, 16, 17, 18, 20.
+
+**Väärin ja korjaus:**
+
+- 2: kokemustieto kertoo kokemuksesta, tieteellistä tietoa on avoimin menetelmin tutkittu tieto.
+- 3: vertaisarviointi tarkistaa menetelmät, mutta ei tee tuloksesta varmaa.
+- 4: poikkileikkaus mittaa kerran, seuranta seuraa.
+- 6: yhteyden taustalla voi olla sekoittava tekijä.
+- 8: tarkoituksella levitetty väärä tieto on disinformaatiota.
+- 10: yksin voi olla ilman yksinäisyyttä, ja yksinäisyys on kokemus.
+- 12: terveysvaikutukset huomioidaan kaikilla politiikan aloilla.
+- 14: voimavarat tukevat jaksamista, mutta vaatimukset eivät katoa.
+- 15: riippuvuus on terveydentila, jonka syyt ovat biologisia, psyykkisiä ja sosiaalisia.
+- 19: taidossa heikko arvioi osaamisensa usein liian korkeaksi.
+
+**Pisteytys**
+
+*Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
+
+- Oikea vastaus 1 p, väärä −1 p, tyhjä 0 p. Kaksikymmentä väittämää yhteensä enintään 20 p; pisteet eivät mene alle nollan.
+
+*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (väittämät 1, 8, 15–20 testaavat määritelmiä), soveltaminen ja analysointi (2–4, 6, 12–14 erottavat läheisiä käsitteitä), arviointi ja argumentointi (arvaaminen ei kannata, joten tyhjä on perusteltu valinta).
+
+**Yhteensä:** 20 p
+
+**Tyypilliset virheet**
+
+- Mis- ja disinformaatio sekä tieteellinen ja kokemustieto menevät sekaisin.
+- Yhteydestä päätellään syy.
+- Riippuvuus esitetään luonteenpiirteenä.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Itseopiskelun askel
 
-**Tavoite:** Osaat erottaa tiedon lajit ja tunnistaa viisi ajattelun vinoumaa kuvitteellisista viesteistä.
+**Tavoite:** Osaat erottaa tiedon lajit ja tunnistaa ajattelun vinoumia ja lumevaikutuksen kuvitteellisista viesteistä.
 
 **Aikaa kuluu:** noin 75 minuuttia.
 
@@ -395,57 +424,49 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden terveysväitteen, jonka ovat kuulleet somessa tai mainoksessa. | Kerää laput ja lue muutama ääneen. Kysy: mistä tietäisimme, pitääkö väite paikkansa? | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 10 | Parit muistelevat TE1:n lähteen arvioinnin neljä kysymystä ja soveltavat niitä yhteen lappujen väitteeseen. | Kirjoita kysymykset taululle: kuka, mihin perustuu, milloin, mikä tarkoitus. Lisää viides: millaista näyttöä? | Yksin paperille. | Käsittele yksi väite yhdessä. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat kolme tiedon lajia ja viisi vinoumaa. | Näytä Tehtävän 1 kolme saraketta ja kerro jokaisesta vinoumasta yksi arkinen esimerkki. Korosta, että vinoumat koskevat kaikkia. | Jaa käsitteet paperilla. | Tehtävä 1 kotiin; alusta vain vinoumat. |
+| Lyhyt alustus | 10 | Opiskelijat kirjaavat kolme tiedon lajia ja vinoumat. | Näytä Tehtävän 1 kolme saraketta ja kerro vinoumista arkisia esimerkkejä. Korosta, että vinoumat koskevat kaikkia. | Jaa käsitteet paperilla. | Tehtävä 1 kotiin; alusta vain vinoumat. |
 | Työskentely | 25 | Tehtävä 2 kokonaan pareittain (20 min), sitten Tehtävän 1 väitteet 1–3 (5 min). | Kierrä ja kysy: mitä tästä päätelmästä puuttuu? Pyydä muotoilemaan vinouma kysymykseksi. | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vastaavat Tehtävän 2 vaiheeseen 5: millainen näyttö saisi uskomaan pantaan? | Kokoa vastaukset taululle ja järjestä ne heikoimmasta vahvimpaan. Siirry näin näytön portaisiin. | Yksin: kirjoita kaksi näytön tasoa. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n kohdat a ja c yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit-lappu: yksi vinouma, jonka tunnistaisit uutisesta. | Näytä K1:n pisteytys ja kysy: mistä 5 pistettä syntyy? | Paperilla. | Tarkistus kotona. |
-| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat harjoituksia kotiin tai kertaukseen. | – | – |
+| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K4 ovat harjoituksia kotiin tai kertaukseen. | – | – |
 
 ### Tuntisuunnitelma (60 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 4 | Nimetön lappu: yksi kuultu terveysväite. | Lue muutama lappu ja kysy, miten väitteen voisi tarkistaa. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
-| Aiemman tiedon aktivointi | 6 | Koko ryhmä kertaa TE1:n lähteen arvioinnin kysymykset. | Kirjoita ne taululle ja lisää kysymys näytöstä. | Kysymykset paperilla. | Vain näyttökysymys. |
-| Lyhyt alustus | 8 | Opiskelijat kirjaavat tiedon lajit ja vinoumat. | Kerro jokaisesta vinoumasta yksi esimerkki. | Jaa käsitteet paperilla. | Tiedon lajit kotiin. |
+| Virittäytyminen ja aiemman tiedon aktivointi | 10 | Nimetön lappu: yksi kuultu terveysväite. Koko ryhmä kertaa TE1:n lähteen arvioinnin kysymykset. | Lue muutama lappu, kirjoita kysymykset taululle ja lisää kysymys näytöstä. | Nimetön sähköinen seinä; kysymykset paperilla. | Lue kaksi lappua. |
+| Lyhyt alustus | 8 | Opiskelijat kirjaavat tiedon lajit ja vinoumat. | Kerro vinoumista esimerkkejä. | Jaa käsitteet paperilla. | Tiedon lajit kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (20 min), sitten Tehtävän 1 väitteet 1–3 (5 min). | Kierrä ja kysy, mitä päätelmästä puuttuu. | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit vastaavat Tehtävän 2 vaiheeseen 5. | Järjestä vastaukset taululle näytön vahvuuden mukaan. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 7 | K1:n kohta c yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten 5 pistettä jakautuu. | Paperilla. | Tarkistus kotona. |
-| Puskuri | 2 | Kysymykset. | Kerro K1–K3:sta kotiharjoituksina. | – | – |
+| Koeharjoitus ja exit | 9 | K1:n kohta c yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. Kysymykset. | Näytä, miten 5 pistettä jakautuu. Kerro K1–K4:stä kotiharjoituksina. | Paperilla. | Tarkistus kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 2 | Kysymys ääneen: mistä tiedät, että terveysväite pitää paikkansa? | Kirjoita pari vastausta taululle. | Opiskelijat kirjoittavat vastauksen itselleen. | – |
-| Aiemman tiedon aktivointi | 3 | Koko ryhmä nimeää TE1:n lähteen arvioinnin kysymyksiä. | Lisää kysymys: millaista näyttöä? | Kysymykset paperilla. | Vain näyttökysymys. |
-| Lyhyt alustus | 7 | Opiskelijat kirjaavat viisi vinoumaa. | Kerro jokaisesta yksi esimerkki. Tiedon lajit jäävät kotiin. | Jaa käsitteet paperilla. | Kaksi vinoumaa esimerkein, muut listana. |
+| Virittäytyminen ja aiemman tiedon aktivointi | 5 | Kysymys ääneen: mistä tiedät, että terveysväite pitää paikkansa? Koko ryhmä nimeää TE1:n lähteen arvioinnin kysymyksiä. | Kirjoita vastauksia taululle ja lisää kysymys: millaista näyttöä? | Kirjoita vastaus itselle; kysymykset paperilla. | Vain näyttökysymys. |
+| Lyhyt alustus | 7 | Opiskelijat kirjaavat vinoumat. | Kerro vinoumista esimerkkejä. Tiedon lajit jäävät kotiin. | Jaa käsitteet paperilla. | Viisi vinoumaa esimerkein, muut listana. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain (20 min). Lopuksi jokainen kirjoittaa yhden kysymyksen, joka paljastaa vinouman (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | Kysymys kotiin. |
 | Pari- tai pienryhmäpohdinta | 5 | Koko ryhmä vastaa Tehtävän 2 vaiheeseen 5. | Kirjoita vastaukset taululle näytön vahvuuden mukaan. | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 4 | Exit-lappu: yksi vinouma omin sanoin. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
-| Puskuri | 2 | Kysymykset. | – | – | – |
+| Koeharjoitus ja exit | 6 | Exit-lappu: yksi vinouma omin sanoin. Kysymykset. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
 
 ### Valmistelu
 
-- Kirjoita taululle viisi vinoumaa tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita.
-- Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
+- Kirjoita taululle vinoumat tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita. Varaa nimettömiä lappuja ja selvitä koulun opiskeluterveydenhuollon yhteystiedot (esimerkki).
 - Tutustu halutessasi Tampereen yliopiston argumenttikortteihin ja Faktabaari EDU:n materiaaleihin (ks. Lähteet). Ne ovat link-out-aineistoa: linkitä, älä kopioi.
-- Selvitä koulun opiskeluterveydenhuollon yhteystiedot (esimerkki).
 
 ### Avoimet kysymykset
 
 - Miksi yksi vakuuttava tarina voi tuntua uskottavammalta kuin tutkimus?
 - Voiko arkitieto olla oikeaa? Miten sen voisi testata?
 - Miksi tutkijatkaan eivät ole vapaita vinoumista, ja miten tiede suojautuu niiltä?
-- Mitä eroa on sillä, että tutkimus on tehty, ja sillä, että asia on tutkitusti totta?
 - Miksi muuttuva suositus ei tarkoita, että tieteeseen ei voisi luottaa?
 - Kenellä on vastuu terveysväitteistä: kirjoittajalla, alustalla vai lukijalla?
 
 ### Pelisäännöt ja oletusten tarkistus
 
 - Arvioidaan väitteitä ja päättelyä, ei ihmisiä. Kukaan ei ole tyhmä siksi, että on uskonut väitteen: vinoumat koskevat kaikkia.
-- Älä pyydä opiskelijoita kertomaan, mitä tuotteita he käyttävät tai mihin he itse uskovat terveydessä.
-- Jos opiskelija kysyy omasta terveydestään, ohjaa opiskeluterveydenhuoltoon. Tunnilla ei arvioida kenenkään omia oireita.
+- Älä pyydä opiskelijoita kertomaan, mitä tuotteita he käyttävät tai mihin he itse uskovat. Jos opiskelija kysyy omasta terveydestään, ohjaa opiskeluterveydenhuoltoon.
 - **Oletusten tarkistus ennen tuntia:** Pilkkaanko jonkun ryhmän uskomuksia? Esitänkö kokemustiedon arvottomana? Liitänkö esimerkit tiettyyn sukupuoleen, kehoon tai taustaan? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -454,15 +475,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Syvempi polku:** Keksi Tehtävän 2 keskusteluun kuudes viesti, jossa näkyy yhteyden ja syy-seuraussuhteen sekoittaminen, ja selitä, mikä kolmas tekijä voisi olla taustalla. Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn viiden kriteerin avulla. Lue [Tieteen termipankin tieto-artikkeli](https://tieteentermipankki.fi/wiki/Filosofia:tieto) ja vertaa sen tiedon lajeja tämän aiheen kolmeen lajiin. Vertaa lähteiden arviointia [opinto-ohjauksen tietolähdeaiheeseen](https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/08-tietolahteet/).
 
-**S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 2. Sarakkeisiin voi kirjoittaa omalla kielellä; koetehtävissä harjoitellaan suomenkielisiä käsitteitä.
-
-- *arkitieto = tieto, jonka moni tietää, mutta jota ei ole tutkittu*
-- *kokemustieto = tieto, joka tulee omasta tai toisen kokemuksesta*
-- *tieteellinen tieto = tieto, joka on saatu tutkimalla avoimin menetelmin*
-- *vinouma = ajattelun oikopolku, joka johtaa harhaan*
-- *näyttö = tutkimustulokset, jotka tukevat väitettä*
-- *vertaisarviointi = toiset tutkijat tarkistavat tutkimuksen ennen julkaisua*
-- *katsaus = tutkimus, joka kokoaa yhteen monta tutkimusta*
+**S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 2. Sarakkeisiin voi kirjoittaa omalla kielellä; koetehtävissä harjoitellaan suomenkielisiä käsitteitä. *arkitieto = tieto, jonka moni tietää mutta jota ei ole tutkittu; kokemustieto = tieto omasta tai toisen kokemuksesta; tieteellinen tieto = tutkimalla avoimin menetelmin saatu tieto; vinouma = ajattelun oikopolku, joka johtaa harhaan; näyttö = tutkimustulokset, jotka tukevat väitettä; vertaisarviointi = toiset tutkijat tarkistavat tutkimuksen ennen julkaisua; katsaus = tutkimus, joka kokoaa yhteen monta tutkimusta; lumevaikutus = odotus muuttaa koettua oloa*
 
 **Lukeminen, keskittyminen ja jännitys:** Lue keskustelu viesti kerrallaan ja peitä muut. Merkitse vinoumat värein tai symbolein. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
 
@@ -478,8 +491,7 @@ Tällä sivulla arvioidaan terveystietoa yleisesti. Netistä, somesta tai tekoä
 
 **Apua saat myös:**
 
-- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
+- Opiskeluterveydenhuolto ja opiskeluhuolto (kuraattori, psykologi): ajan varaat koulusi tai hyvinvointialueesi kautta.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): tietoa ja omahoito-ohjelmia nuorille.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille. Ikäraja ja aukioloajat ovat sivulla.
 

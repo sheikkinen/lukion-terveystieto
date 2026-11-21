@@ -1209,6 +1209,33 @@ topics:
     listed_in:
     - official_links
     - sibling_links
+  - title: Dunning-Kruger-efekti selittää netin amatööriepidemiologien itsevarmuutta
+    url: https://yle.fi/aihe/artikkeli/2020/06/30/valheenpaljastaja-dunning-kruger-efekti-selittaa-netin-amatooriepidemiologien
+    publisher: Yle
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: ''
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+  - title: Tuuppausyksikkö löysi jättisäästöt brittien ajattelun oikoteistä
+    url: https://yle.fi/aihe/artikkeli/2015/02/26/tuuppausyksikko-loysi-jattisaastot-brittien-ajattelun-oikoteista
+    publisher: Yle
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: ''
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+  - title: lume (Terveyskirjasto)
+    url: https://www.terveyskirjasto.fi/ltt01972
+    publisher: Suomalainen Lääkäriseura Duodecim
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: ''
+    read: '2026-11-21'
+    listed_in:
+    - official_links
   - title: 'Mielenterveystalo: nuoret'
     url: https://www.mielenterveystalo.fi/fi/nuoret
     publisher: Mielenterveystalo.fi
@@ -1261,6 +1288,36 @@ topics:
     - official_links
     - linked_materials
     note: 'Osoite avattu 2026-11-21. Vertailulähde lähteiden arviointiin: toinen lähde on esimerkiksi tutkimusuutinen, toinen Terveyskirjaston artikkeli.'
+  - title: 'Käypä hoito: outoja sanoja ja terminologiaa'
+    url: https://www.kaypahoito.fi/khk00061
+    publisher: Suomalainen Lääkäriseura Duodecim
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Mixed methods (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Nimitys:mixed_methods
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0
+    audience: opettaja ja syventävä opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Empiiriset tieteet (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:empiiriset_tieteet
+    publisher: Tieteen termipankki
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 3.0
+    audience: opettaja ja syventävä opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
   - title: THL:n avoin data
     url: https://thl.fi/tutkimus/avoin-data
     publisher: Terveyden ja hyvinvoinnin laitos (THL)
@@ -1367,6 +1424,24 @@ topics:
     - official_links
     - linked_materials
     note: Osoite avattu 2026-11-21. Tekoälyvastausten arviointiin (chatbot-vastaus viestintäesimerkkinä). Opettajan linkki.
+  - title: Ravitsemus- ja terveysväitteet (Ruokavirasto)
+    url: https://www.ruokavirasto.fi/yritykset/elintarvikeala/valmistus/elintarvikkeista-annettavat-tiedot/ravitsemus--ja-terveysvaitteet/
+    publisher: Ruokavirasto
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: ''
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+  - title: Omatestaus, kotitestaus ja itsetestaaminen (Terveyskirjasto)
+    url: https://www.terveyskirjasto.fi/dlk01400
+    publisher: Suomalainen Lääkäriseura Duodecim
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: ''
+    read: '2026-11-21'
+    listed_in:
+    - official_links
   - title: Opiskeluterveydenhuolto (THL)
     url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
     publisher: Terveyden ja hyvinvoinnin laitos (THL)
@@ -1450,6 +1525,51 @@ topics:
     - official_links
     - linked_materials
     note: Osoite avattu 2026-11-21. Sivu käsittelee sisäilman laatua ja siihen vaikuttavia tekijöitä; ei kirjoitettu opiskelijoille.
+  - title: Radon aiheuttaa keuhkosyöpää (STUK)
+    url: https://stuk.fi/radon-aiheuttaa-keuhkosyopaa
+    publisher: Säteilyturvakeskus (STUK)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: ''
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+  - title: Radonkorjaukset (STUK)
+    url: https://stuk.fi/radonkorjaukset
+    publisher: Säteilyturvakeskus (STUK)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: ''
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+  - title: Radonin lähteet (STUK)
+    url: https://stuk.fi/radonin-lahteet
+    publisher: Säteilyturvakeskus (STUK)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: ''
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+  - title: 'Mökkikausi lähestyy: onhan kaivosi kunnossa? (THL-blogi)'
+    url: https://blogi.thl.fi/mokkikausi-lahestyy-onhan-kaivosi-kunnossa/
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: ''
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+  - title: Terveyttä luonnosta -ohjelma (THL)
+    url: https://thl.fi/ajankohtaista/hallitusohjelmaratkaisut/terveytta-luonnosta-ohjelma
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: ''
+    read: '2026-11-21'
+    listed_in:
+    - official_links
   - title: Ihmisen ja ympäristön terveys kulkevat käsi kädessä (THL)
     url: https://thl.fi/nakemyksemme/ihmisen-ja-ympariston-terveys-kulkevat-kasi-kadessa
     publisher: Terveyden ja hyvinvoinnin laitos (THL)
@@ -1582,6 +1702,24 @@ topics:
     read: '2026-11-21'
     listed_in:
     - official_links
+  - title: Mitä yksinäisyys on? (Mielenterveystalo)
+    url: https://www.mielenterveystalo.fi/fi/omahoito/yksinaisyyden-omahoito-ohjelma/mita-yksinaisyys
+    publisher: Mielenterveystalo.fi (HUS)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: ''
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+  - title: Miten vähentää somenkäyttöä? (Mielenterveystalo)
+    url: https://www.mielenterveystalo.fi/fi/digihaitat/miten-vahentaa-somenkayttoa
+    publisher: Mielenterveystalo.fi (HUS)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: ''
+    read: '2026-11-21'
+    listed_in:
+    - official_links
   - title: Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)
     url: https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/
     publisher: Lukion opinto-ohjaus -sivusto
@@ -1698,6 +1836,24 @@ topics:
     read: '2026-11-21'
     listed_in:
     - official_links
+  - title: 'Ilmastoahdistus: mistä on kyse? (Mielenterveystalo)'
+    url: https://www.mielenterveystalo.fi/fi/omahoito/ilmastoahdistuksen-omahoito-ohjelma/1-mista-kyse
+    publisher: Mielenterveystalo.fi (HUS)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: ''
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+  - title: Luonto elvyttää, rauhoittaa ja lievittää stressiä (MIELI)
+    url: https://mieli.fi/vahvista-mielenterveyttasi/ymparisto-vaikuttaa-mieleen/luonto-elvyttaa-rauhoittaa-ja-lievittaa-stressia/
+    publisher: Suomen Mielenterveys ry (MIELI)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: ''
+    read: '2026-11-21'
+    listed_in:
+    - official_links
   te2-07:
   - title: Väkivalta (THL)
     url: https://thl.fi/data-ja-tilastot/vakivalta
@@ -1721,6 +1877,16 @@ topics:
     - official_links
     - linked_materials
     note: 'Osoite avattu 2026-11-21: laki voimassa 1.1.2023, raiskauksen määritelmä perustuu suostumukseen eli osallistumisen vapaaehtoisuuteen. Vakaa sääntö linkitettynä; yksityiskohtia ei kirjoiteta sivustolle.'
+  - title: Turvallinen mikroliikenne edellyttää sääntöjä ja vastuuta (liikenne- ja viestintäministeriö, 25.2.2026)
+    url: https://valtioneuvosto.fi/-/1410829/turvallinen-mikroliikenne-edellyttaa-saantoja-ja-vastuuta
+    publisher: Liikenne- ja viestintäministeriö (valtioneuvosto)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
   - title: Nuoret ja rikollisuus (Poliisi)
     url: https://poliisi.fi/nuoret-ja-rikollisuus
     publisher: Poliisi
@@ -1842,10 +2008,11 @@ topics:
     publisher: Työterveyslaitos
     licence_class: link-out
     licence: Kaikki oikeudet pidätetään
-    audience: ''
+    audience: opiskelija ja opettaja
     read: '2026-11-21'
     listed_in:
     - official_links
+    - linked_materials
   - title: Viisi askelta tasapainoisempaan työelämään -verkkokurssi (aoe.fi 4638)
     url: https://aoe.fi/#/materiaali/4638
     publisher: Väestöliiton Hyvinvointi Oy (aoe.fi)
@@ -1857,6 +2024,26 @@ topics:
     - official_links
     - linked_materials
     note: 'Osoite avattu 2026-11-21; lisenssi aoe.fi-rajapinnasta 2026-11-21. Ei muokattavissa (ND): vain linkki.'
+  - title: Ikääntyneiden yrittäjyys on lisääntynyt (Tilastokeskus, 12.12.2011)
+    url: https://stat.fi/artikkelit/2011/art_2011-12-12_001.html
+    publisher: Tilastokeskus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Työelämän pitkä kaari (Tilastokeskus, 1.10.2015)
+    url: https://stat.fi/tietotrendit/artikkelit/2015/tyoelaman-pitka-kaari-tyoolot-yha-riippuvaisempia-kansainvalisesta-kehityksesta
+    publisher: Tilastokeskus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
   - title: Opiskeluterveydenhuolto
     url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
     publisher: Terveyden ja hyvinvoinnin laitos (THL)
@@ -1952,6 +2139,56 @@ topics:
     - official_links
     - linked_materials
     note: 'Osoite avattu 2026-11-21: aikuisille ja läheisille, nuoria ohjataan Nuortenlinkkiin; vain taustalinkki opettajalle, ei opiskelijan avunlinkki.'
+  - title: Nuorten päihteiden käyttö (Mielenterveystalo)
+    url: https://www.mielenterveystalo.fi/fi/paihteet/nuorten-paihteiden-kaytto
+    publisher: Mielenterveystalo.fi (HUS)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Alkoholin terveyshaitat (Terveyskirjasto, päivitetty 8.3.2026)
+    url: https://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk01120
+    publisher: Duodecim (Terveyskirjasto)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Raskaus ja tupakka, alkoholi sekä huumeet (Terveyskirjasto, 20.9.2024)
+    url: https://www.terveyskirjasto.fi/dlk00984
+    publisher: Duodecim (Terveyskirjasto)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Alkoholin käytön aiheuttamia sikiövaurioita voidaan ehkäistä (THL-blogi, tammikuu 2020)
+    url: https://blogi.thl.fi/alkoholin-kayton-aiheuttamia-sikiovaurioita-voidaan-ehkaista-kulutusta-mittaava-verikoe-pitaisi-ottaa-osaksi-aitiysneuvoloiden-seulontatutkimuksia/
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja ja ammattilaiset
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Nikotiinituotteet (THL, ammattilaisohje)
+    url: https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja ja ammattilaiset
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
   - title: Opiskeluterveydenhuolto
     url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
     publisher: Terveyden ja hyvinvoinnin laitos (THL)
@@ -2102,6 +2339,86 @@ topics:
     read: '2026-11-21'
     listed_in:
     - official_links
+  - title: Alkoholin terveyshaitat (Terveyskirjasto, päivitetty 8.3.2026)
+    url: https://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk01120
+    publisher: Duodecim (Terveyskirjasto)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Tupakan käytön aiheuttamat sairaudet (Käypä hoito, tarkastettu 30.8.2023)
+    url: https://www.kaypahoito.fi/nix00256
+    publisher: Suomalainen Lääkäriseura Duodecim (Käypä hoito)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Nikotiinituotteet (THL, ammattilaisohje)
+    url: https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja ja ammattilaiset
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Kannabiksen terveysvaikutukset ja riippuvuus (Terveyskirjasto, 20.5.2026)
+    url: https://www.terveyskirjasto.fi/dlk01324
+    publisher: Duodecim (Terveyskirjasto)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: 7 faktaa alkoholista ja syövästä (Syöpäjärjestöt, 28.2.2023)
+    url: https://www.syopajarjestot.fi/uutinen/7-faktaa-alkoholista-ja-syovasta/
+    publisher: Syöpäjärjestöt
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Alkoholipolitiikka (STM, päivitetty 22.6.2026)
+    url: https://stm.fi/alkoholipolitiikka
+    publisher: Sosiaali- ja terveysministeriö
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: 'Alkoholi: mini-interventio (THL, ammattilaisohje)'
+    url: https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/alkoholi
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja ja ammattilaiset
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Nuorten päihteiden käyttö (Mielenterveystalo)
+    url: https://www.mielenterveystalo.fi/fi/paihteet/nuorten-paihteiden-kaytto
+    publisher: Mielenterveystalo.fi (HUS)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
   - title: Opiskeluterveydenhuolto
     url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
     publisher: Terveyden ja hyvinvoinnin laitos (THL)

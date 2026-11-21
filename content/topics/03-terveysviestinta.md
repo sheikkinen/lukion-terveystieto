@@ -16,45 +16,26 @@ official_links:
   - {title: "Faktabaari EDU", url: "https://faktabaari.fi/edu/", publisher: "Avoin Yhteiskunta ry (Faktabaari)", read: 2026-11-21}
   - {title: "Mediataitokoulu: mainonta", url: "https://mediataitokoulu.fi/avainsanat/mainonta/", publisher: "Kuvi (Taide- ja kulttuurivirasto), Mediataitokoulu", read: 2026-11-21}
   - {title: "Mediataitokoulu: tekoäly", url: "https://mediataitokoulu.fi/avainsanat/tekoaly/", publisher: "Kuvi (Taide- ja kulttuurivirasto), Mediataitokoulu", read: 2026-11-21}
+  - {title: "Ravitsemus- ja terveysväitteet (Ruokavirasto)", url: "https://www.ruokavirasto.fi/yritykset/elintarvikeala/valmistus/elintarvikkeista-annettavat-tiedot/ravitsemus--ja-terveysvaitteet/", publisher: "Ruokavirasto", read: 2026-11-21}
+  - {title: "Omatestaus, kotitestaus ja itsetestaaminen (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk01400", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
   - {title: "Opiskeluterveydenhuolto (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi", read: 2026-11-21}
   - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
-yearly_facts: [opiskeluterveydenhuolto]
+yearly_facts: [opiskeluterveydenhuolto, elintarvikevaitteet, kotitestit]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
-  - title: "Faktabaari EDU"
-    url: "https://faktabaari.fi/edu/"
-    publisher: "Avoin Yhteiskunta ry (Faktabaari)"
-    licence_class: link-out
-    licence: "Creative Commons, versiota ei mainita (kohdellaan link-outina)"
-    audience: opettaja ja opiskelija
-    read: 2026-11-21
-  - title: "Mediataitokoulu: mainonta"
-    url: "https://mediataitokoulu.fi/avainsanat/mainonta/"
-    publisher: "Kuvi (Taide- ja kulttuurivirasto), Mediataitokoulu"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja (mediakasvattajat)
-    read: 2026-11-21
-  - title: "Mediataitokoulu: tekoäly"
-    url: "https://mediataitokoulu.fi/avainsanat/tekoaly/"
-    publisher: "Kuvi (Taide- ja kulttuurivirasto), Mediataitokoulu"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja (mediakasvattajat)
-    read: 2026-11-21
+  - {title: "Faktabaari EDU", url: "https://faktabaari.fi/edu/", publisher: "Avoin Yhteiskunta ry (Faktabaari)", licence_class: link-out, licence: "Creative Commons, versiota ei mainita (kohdellaan link-outina)", audience: opettaja ja opiskelija, read: 2026-11-21}
+  - {title: "Mediataitokoulu: mainonta", url: "https://mediataitokoulu.fi/avainsanat/mainonta/", publisher: "Kuvi (Taide- ja kulttuurivirasto), Mediataitokoulu", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja (mediakasvattajat), read: 2026-11-21}
+  - {title: "Mediataitokoulu: tekoäly", url: "https://mediataitokoulu.fi/avainsanat/tekoaly/", publisher: "Kuvi (Taide- ja kulttuurivirasto), Mediataitokoulu", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja (mediakasvattajat), read: 2026-11-21}
 exam_tasks:
   - {id: K1, type: kasitteiden-nimeaminen, part: A20, points: 20, minutes: 25, codes: [TE2.s2, TE2.t3]}
   - {id: K2, type: eettinen-analyysi, part: B20, points: 20, minutes: 35, codes: [TE2.s2, TE2.t3, TE2.t2]}
   - {id: K3, type: aineiston-analyysi, part: C30, points: 30, minutes: 60, codes: [TE2.s2, TE2.t3, TE2.t2]}
+  - {id: K4, type: viestinnan-analyysi, part: B20, points: 20, minutes: 35, codes: [TE2.s2, TE2.t3, TE2.t2]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
-school_adapts:
-  - "Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"
-accessibility:
-  - "Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; aineistot on kirjoitettu tehtäviin."
-  - "Tehtävissä analysoidaan kuvitteellisia viestejä; omasta terveydestä tai omista valinnoista ei tarvitse kertoa kenellekään."
-  - "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."
+school_adapts: ["Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"]
+accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; aineistot on kirjoitettu tehtäviin.", "Tehtävissä analysoidaan kuvitteellisia viestejä; omasta terveydestä tai omista valinnoista ei tarvitse kertoa kenellekään.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-21
 ---
 
@@ -67,6 +48,7 @@ last_reviewed: 2026-11-21
 3. Osaan analysoida, miten terveysviestintä voi muokata ihmisten terveyskäsityksiä ja terveyttä hyvässä ja pahassa.
 4. Osaan arvioida terveysviestin luotettavuutta ja erottaa misinformaation, disinformaation ja viherpesun, myös tekoälyn vastauksissa.
 5. Osaan arvioida terveysviestinnän eettisyyttä esimerkiksi totuudenmukaisuuden, avoimuuden ja yksityisyyden kannalta.
+6. Osaan arvioida pakkauksen terveysväitettä ja kotitestin lupauksia: onko väite sallittu ja mitä tulos ei kerro.
 
 ### Kuka viestii ja miksi?
 
@@ -102,6 +84,14 @@ Se, mitä ihminen näkee usein, alkaa tuntua normaalilta. Viestit voivat antaa i
 ### Väärä tieto ja sen muodot
 
 **Misinformaatio** on virheellistä tietoa, jota levittäjä pitää totena. **Disinformaatio** on tarkoituksella levitettyä väärää tietoa. **Viherpesu** tarkoittaa, että tuote tai yritys esitetään ympäristöystävällisemmäksi kuin se todellisuudessa on. Luotettavuuden tarkistamiseen auttavat tutut kysymykset: kuka viestii, mihin tieto perustuu, onko kaupallista yhteyttä? [Faktabaari EDU](https://faktabaari.fi/edu/) kokoaa vinkkejä tiedon tarkistamiseen.
+
+### Pakkauksen väitteet
+
+Elintarvikkeen pakkauksessa ja markkinoinnissa saa käyttää vain EU:ssa hyväksyttyjä väitteitä. **Ravitsemusväite** kertoo, mitä tuotteessa on, ja **terveysväite**, miten se vaikuttaa terveyteen. Elintarvikkeesta ei saa väittää, että se ehkäisee, hoitaa tai parantaa sairauksia. Säännöt koskevat myös somea ja vaikuttajia. Ruokavirasto ei hyväksy väitteitä etukäteen, ja vastuu on yrityksellä ([Ruokavirasto](https://www.ruokavirasto.fi/yritykset/elintarvikeala/valmistus/elintarvikkeista-annettavat-tiedot/ravitsemus--ja-terveysvaitteet/)).
+
+### Kotitestit
+
+**Kotitesti** on testi, jonka ihminen tekee itse. Näytteenotto vaikuttaa tulokseen, ja tulos voi olla väärä kumpaankin suuntaan. Negatiivinen tulos ei poissulje testattua asiaa ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk01400)). Mainos, joka lupaa varman tuloksen tai sanoo lääkärin olevan turha, on epäluotettava.
 
 ### Tekoäly ja etiikka
 
@@ -175,6 +165,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 3. Osaan analysoida, miten terveysviestintä voi muokata ihmisten terveyskäsityksiä ja terveyttä hyvässä ja pahassa.
 4. Osaan arvioida terveysviestin luotettavuutta ja erottaa misinformaation, disinformaation ja viherpesun, myös tekoälyn vastauksissa.
 5. Osaan arvioida terveysviestinnän eettisyyttä esimerkiksi totuudenmukaisuuden, avoimuuden ja yksityisyyden kannalta.
+6. Osaan arvioida pakkauksen terveysväitettä ja kotitestin lupauksia: onko väite sallittu ja mitä tulos ei kerro.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
@@ -224,6 +215,20 @@ a) Vertaile aineistoja neljästä näkökulmasta: viestinnän muoto, lähettäj�
 b) Analysoi, miten kumpikin viesti voi vaikuttaa ihmisten käsityksiin turvallisuudesta ja terveydestä. (10 p)
 
 c) Arvioi, kumpi viesti on luotettavampi, ja muotoile aineisto 2 uudelleen niin, että se on luotettavampi ja avoimempi. (8 p)
+
+### K4: Viestinnän analyysi, 35 min (20 p)
+
+*Osa B20 · Harjoittelee: Osaan 2, 4, 6*
+
+*Aineisto 1 (kuvitteellinen pakkausteksti):* "*Pirtsakka*-juoma: luonnollinen, tukee vastustuskykyä ja ehkäisee flunssaa. Yhdeksän kymmenestä suosittelee!"
+
+*Aineisto 2 (kuvitteellinen verkkomainos):* "*Selvä*-kotitesti kertoo minuutissa, onko sinulla ruoka-aineallergia. Tulos on varma, joten lääkärillä käynti on turhaa."
+
+a) Nimeä aineistoista kolme vaikutuskeinoa tai harhaanjohtavaa piirrettä ja kirjoita rivi, jossa kukin näkyy. (6 p)
+
+b) Selitä, miksi lause "ehkäisee flunssaa" ei saa olla elintarvikkeen pakkauksessa ja mitä kotitestin lupaus "tulos on varma" jättää kertomatta. (8 p)
+
+c) Kirjoita kuvitteelliselle Samille, joka harkitsee molempia, lyhyt vastaus: miten hän voi arvioida väitteitä? Kirjoita enintään noin 500 merkkiä. (6 p)
 
 ## Mallivastaukset
 
@@ -336,6 +341,43 @@ Tehtävänannon osapisteet (a 12 p, b 10 p, c 8 p) sisältävät sekä sisällö
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
+### K4: Viestinnän analyysi, 35 min (20 p)
+
+**Malliksi kelpaava vastaus**
+
+**a)** *"luonnollinen":* luonnollisuuteen vetoaminen, joka ei kerro tehosta tai turvallisuudesta. *"Yhdeksän kymmenestä suosittelee":* sosiaalinen todiste, josta ei kerrota, ketä kysyttiin. *"Tulos on varma":* varmuuden lupaus, jota testi ei voi antaa. Myös "tukee vastustuskykyä" on kysyttävä väite: mihin se perustuu?
+
+**b)** Elintarvikkeesta ei saa antaa kuvaa, että se ehkäisee, hoitaa tai parantaa sairauksia, joten "ehkäisee flunssaa" ei kuulu pakkaukseen. Ruokavirasto ei hyväksy väitteitä etukäteen, vaan vastuu on yrityksellä. Kotitestissä näytteenotto vaikuttaa tulokseen, ja tulos voi olla väärä kumpaankin suuntaan. Negatiivinen tulos ei poissulje testattua asiaa, joten "varma" ja "lääkäri on turha" johtavat harhaan: väärästä tuloksesta voi tehdä väärän päätelmän.
+
+**c)** Hei Sami! Kysy väitteestä: kuka sen on tehnyt, mihin se perustuu ja onko se sallittu tuotteesta kerrottavaksi. "Ehkäisee sairautta" on elintarvikkeesta kielletty väite. Kotitesti ei korvaa tutkimuksia, ja negatiivinenkin tulos voi olla väärä. Jos sinulla on oireita tai huolia, ota yhteyttä opiskeluterveydenhuoltoon. Luotettavaa tietoa löydät esimerkiksi Ruokaviraston ja Terveyskirjaston sivuilta.
+
+**Pisteytys**
+
+*Sisältö 10 p:*
+
+- a) Kolme vaikutuskeinoa tai piirrettä oikein nimetty 3 p.
+- b) Lääkkeellinen väite kielletty 1 p; vastuu yrityksellä, ei etukäteishyväksyntää 1 p; näytteenotto ja väärät tulokset 1 p; negatiivinen tulos ei poissulje 1 p.
+- c) Kysymykset (kuka, mihin perustuu, sallittu) 1 p; kotitesti ei korvaa tutkimuksia 1 p; ohjaus opiskeluterveydenhuoltoon tai luotettavaan lähteeseen 1 p.
+
+*Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
+
+- 8–10 p: jokainen piirre liitetään aineiston riviin ja sen mekanismiin, b-kohta erottaa säännön ja testin rajat, ja viesti Samille on selkeä, ytimekäs ja kunnioittava.
+- 4–7 p: käsitteet on nimetty, mutta selitykset ovat yleisiä tai viesti jää listaksi.
+- 0–3 p: vastaus toteaa vain, että mainokset ovat epäluotettavia.
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
+
+Tehtävänannon osapisteet (a 6 p, b 8 p, c 6 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+
+**Yhteensä:** 20 p
+
+**Tyypilliset virheet**
+
+- Vastaus nimeää keinon mutta ei lainaa riviä, jossa se näkyy.
+- Kotitestiä tai juomaa väitetään tehottomaksi, vaikka aineisto ei sitä kerro: arvioidaan väitettä, ei tuotetta.
+- Viesti Samille neuvoo ostamaan tai olemaan ostamatta sen sijaan, että kertoisi, miten väitteen arvioi.
+
+Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
+
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat tunnistaa viestin muodon ja vaikutuskeinot ja arvioida viestin luotettavuutta ja eettisyyttä.
@@ -346,7 +388,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 1. **Lue** osio Opiskelijalle (10 min).
 2. **Tee** Tehtävä 2 (20 min) ja Tehtävä 1 (15 min). Tehtävä 3 on lisätehtävä (10 min).
-3. **Harjoittele** koetehtävä K1 (25 min) ja tarkista vastauksesi mallivastauksella. K2 ja K3 sopivat kertaukseen.
+3. **Harjoittele** koetehtävä K1 (25 min) ja tarkista vastauksesi mallivastauksella. K2–K4 sopivat kertaukseen.
 4. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 5. **Seuraava askel:** aihe 04 *Rakennettu ja luonnonympäristö ja terveys*. Siellä siirrytään viestinnästä ympäristöön.
 
@@ -364,7 +406,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Työskentely | 25 | Tehtävä 2 kokonaan pareittain (20 min), sitten Tehtävän 1 taulukko viesteistä A–C (5 min). | Kierrä ja kysy: mitä viestistä puuttuu? Pyydä nimeämään kaupallinen yhteys. | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vastaavat: milloin vaikutuskeino on perusteltu? | Kokoa vastaukset taululle kahteen sarakkeeseen: perusteltu ja harhaanjohtava. | Yksin: kirjoita yksi esimerkki kummastakin. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n kohdat 1–5 yksin (7 min) ja tarkistus (3 min). Exit-lappu: yksi vaikutuskeino, jonka tunnistaisit mainoksesta. | Näytä K1:n pisteytys ja kysy: mistä 2 pistettä syntyy? | Paperilla. | Tarkistus kotona. |
-| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat harjoituksia kotiin tai kertaukseen. | – | – |
+| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K4 ovat harjoituksia kotiin tai kertaukseen. | – | – |
 
 ### Tuntisuunnitelma (60 min)
 
@@ -376,7 +418,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Työskentely | 25 | Tehtävä 2 kokonaan (20 min), sitten Tehtävän 1 viestit A–C (5 min). | Kierrä ja kysy, mitä viestistä puuttuu. | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit vastaavat: milloin keino on perusteltu? | Järjestä vastaukset taululle. | Yksin paperille. | Yksi yhteinen vastaus. |
 | Koeharjoitus ja exit | 7 | K1:n kohdat 1–3 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten kaksi pistettä kohdasta syntyy. | Paperilla. | Tarkistus kotona. |
-| Puskuri | 2 | Kysymykset. | Kerro K1–K3:sta kotiharjoituksina. | – | – |
+| Puskuri | 2 | Kysymykset. | Kerro K1–K4:stä kotiharjoituksina. | – | – |
 
 ### Tuntisuunnitelma (45 min)
 

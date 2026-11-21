@@ -12,7 +12,7 @@ duration_options: [45, 60, 75]
 self_study_minutes: 80
 prerequisites: [te2-09-riippuvuuden-mekanismit, te1-02-elintapamallit]
 safety_flags: [substances]
-content_note: "Tällä sivulla käsitellään aineita, rahapelaamista ja pelaamista yleisellä tasolla. Sivulla ei ole lukuja, määriä eikä käyttötapoja, kenenkään ei tarvitse kertoa omasta tai läheistensä elämästä, tehtävän voi jättää väliin, ja lopussa on tietoa avusta."
+content_note: "Tällä sivulla käsitellään aineita, rahapelaamista ja pelaamista yleisellä tasolla. Sivulla ei ole lukuja, määriä eikä käyttötapoja, aineiden haitat kerrotaan vain sanoin, kenenkään ei tarvitse kertoa omasta tai läheistensä elämästä, tehtävän voi jättää väliin, ja lopussa on tietoa avusta."
 official_links:
   - {title: "Nuortenlinkki", url: "https://nuortenlinkki.fi/", publisher: "A-klinikkasäätiö", read: 2026-11-21}
   - {title: "Päihdehaittojen ja riippuvuuksien ehkäisy (STM)", url: "https://stm.fi/paihdehaittojen-ehkaisy", publisher: "Sosiaali- ja terveysministeriö", read: 2026-11-21}
@@ -26,72 +26,41 @@ official_links:
   - {title: "Päihdekasvatus (EHYT)", url: "https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/", publisher: "Ehkäisevä päihdetyö EHYT ry", read: 2026-11-21}
   - {title: "Ehkäisevä päihdetyö kouluissa ja oppilaitoksissa (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Ottawa Charter for Health Promotion (WHO)", url: "https://www.who.int/publications/i/item/ottawa-charter-for-health-promotion", publisher: "World Health Organization", read: 2026-11-21}
+  - {title: "Alkoholin terveyshaitat (Terveyskirjasto, päivitetty 8.3.2026)", url: "https://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk01120", publisher: "Duodecim (Terveyskirjasto)", read: 2026-11-21}
+  - {title: "Tupakan käytön aiheuttamat sairaudet (Käypä hoito, tarkastettu 30.8.2023)", url: "https://www.kaypahoito.fi/nix00256", publisher: "Suomalainen Lääkäriseura Duodecim (Käypä hoito)", read: 2026-11-21}
+  - {title: "Nikotiinituotteet (THL, ammattilaisohje)", url: "https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Kannabiksen terveysvaikutukset ja riippuvuus (Terveyskirjasto, 20.5.2026)", url: "https://www.terveyskirjasto.fi/dlk01324", publisher: "Duodecim (Terveyskirjasto)", read: 2026-11-21}
+  - {title: "7 faktaa alkoholista ja syövästä (Syöpäjärjestöt, 28.2.2023)", url: "https://www.syopajarjestot.fi/uutinen/7-faktaa-alkoholista-ja-syovasta/", publisher: "Syöpäjärjestöt", read: 2026-11-21}
+  - {title: "Alkoholipolitiikka (STM, päivitetty 22.6.2026)", url: "https://stm.fi/alkoholipolitiikka", publisher: "Sosiaali- ja terveysministeriö", read: 2026-11-21}
+  - {title: "Alkoholi: mini-interventio (THL, ammattilaisohje)", url: "https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/alkoholi", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Nuorten päihteiden käyttö (Mielenterveystalo)", url: "https://www.mielenterveystalo.fi/fi/paihteet/nuorten-paihteiden-kaytto", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
   - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
   - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
-yearly_facts: [alkoholilaki, alkoholilaki_muutos_2026, tupakkalaki, nikotiinipussit, huumausainelaki, rahapelilaki, nuortenlinkki, sekasin_chat, peluuri, opiskeluterveydenhuolto]
+yearly_facts: [aineiden_haitat, alkoholipolitiikka, alkoholilaki, alkoholilaki_muutos_2026, tupakkalaki, nikotiinipussit, huumausainelaki, rahapelilaki, nuortenlinkki, sekasin_chat, peluuri, opiskeluterveydenhuolto]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
-  - title: "Nuortenlinkki"
-    url: "https://nuortenlinkki.fi/"
-    publisher: "A-klinikkasäätiö"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija
-    read: 2026-11-21
-  - title: "Päihdehaittojen ja riippuvuuksien ehkäisy (STM)"
-    url: "https://stm.fi/paihdehaittojen-ehkaisy"
-    publisher: "Sosiaali- ja terveysministeriö"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja ja suuri yleisö
-    read: 2026-11-21
-  - title: "Uudistettu alkoholilaki (valtioneuvoston tiedote 25.6.2026)"
-    url: "https://valtioneuvosto.fi/-/1271139/uudistettu-alkoholilaki-mahdollistaa-alkoholijuomien-toimitukset-asiakkaille-ja-sallii-vakevien-verkkomainonnan-"
-    publisher: "Sosiaali- ja terveysministeriö (valtioneuvosto)"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja
-    read: 2026-11-21
-  - title: "Nikotiinipussien myyntiä ja markkinointia säännellään (valtioneuvoston tiedote 22.5.2025)"
-    url: "https://valtioneuvosto.fi/-/1271139/nikotiinipussien-myyntia-ja-markkinointia-saannellaan-jatkossa-tiukemmin"
-    publisher: "Sosiaali- ja terveysministeriö (valtioneuvosto)"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja
-    read: 2026-11-21
-  - title: "Rahapelien järjestäminen avataan osittain kilpailulle (valtioneuvoston tiedote 15.1.2026)"
-    url: "https://valtioneuvosto.fi/-/1410869/rahapelien-jarjestaminen-avataan-osittain-kilpailulle"
-    publisher: "Sisäministeriö (valtioneuvosto)"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja
-    read: 2026-11-21
-  - title: "Peluuri"
-    url: "https://www.peluuri.fi/"
-    publisher: "Peluuri"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja (ikärajaa tai nuorten ohjeita ei mainita)
-    read: 2026-11-21
-  - title: "Päihdekasvatus (EHYT)"
-    url: "https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/"
-    publisher: "Ehkäisevä päihdetyö EHYT ry"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja (ammattilaiset)
-    read: 2026-11-21
-  - title: "Ehkäisevä päihdetyö kouluissa ja oppilaitoksissa (THL)"
-    url: "https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa"
-    publisher: "Terveyden ja hyvinvoinnin laitos (THL)"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja (ammattilaiset)
-    read: 2026-11-21
+  - {"title": "Nuortenlinkki", "url": "https://nuortenlinkki.fi/", "publisher": "A-klinikkasäätiö", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija", "read": 2026-11-21}
+  - {"title": "Päihdehaittojen ja riippuvuuksien ehkäisy (STM)", "url": "https://stm.fi/paihdehaittojen-ehkaisy", "publisher": "Sosiaali- ja terveysministeriö", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja ja suuri yleisö", "read": 2026-11-21}
+  - {"title": "Uudistettu alkoholilaki (valtioneuvoston tiedote 25.6.2026)", "url": "https://valtioneuvosto.fi/-/1271139/uudistettu-alkoholilaki-mahdollistaa-alkoholijuomien-toimitukset-asiakkaille-ja-sallii-vakevien-verkkomainonnan-", "publisher": "Sosiaali- ja terveysministeriö (valtioneuvosto)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja", "read": 2026-11-21}
+  - {"title": "Nikotiinipussien myyntiä ja markkinointia säännellään (valtioneuvoston tiedote 22.5.2025)", "url": "https://valtioneuvosto.fi/-/1271139/nikotiinipussien-myyntia-ja-markkinointia-saannellaan-jatkossa-tiukemmin", "publisher": "Sosiaali- ja terveysministeriö (valtioneuvosto)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja", "read": 2026-11-21}
+  - {"title": "Rahapelien järjestäminen avataan osittain kilpailulle (valtioneuvoston tiedote 15.1.2026)", "url": "https://valtioneuvosto.fi/-/1410869/rahapelien-jarjestaminen-avataan-osittain-kilpailulle", "publisher": "Sisäministeriö (valtioneuvosto)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja", "read": 2026-11-21}
+  - {"title": "Alkoholin terveyshaitat (Terveyskirjasto, päivitetty 8.3.2026)", "url": "https://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk01120", "publisher": "Duodecim (Terveyskirjasto)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija ja opettaja", "read": 2026-11-21}
+  - {"title": "Tupakan käytön aiheuttamat sairaudet (Käypä hoito, tarkastettu 30.8.2023)", "url": "https://www.kaypahoito.fi/nix00256", "publisher": "Suomalainen Lääkäriseura Duodecim (Käypä hoito)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija ja opettaja", "read": 2026-11-21}
+  - {"title": "Nikotiinituotteet (THL, ammattilaisohje)", "url": "https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet", "publisher": "Terveyden ja hyvinvoinnin laitos (THL)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja ja ammattilaiset", "read": 2026-11-21}
+  - {"title": "Kannabiksen terveysvaikutukset ja riippuvuus (Terveyskirjasto, 20.5.2026)", "url": "https://www.terveyskirjasto.fi/dlk01324", "publisher": "Duodecim (Terveyskirjasto)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija ja opettaja", "read": 2026-11-21}
+  - {"title": "7 faktaa alkoholista ja syövästä (Syöpäjärjestöt, 28.2.2023)", "url": "https://www.syopajarjestot.fi/uutinen/7-faktaa-alkoholista-ja-syovasta/", "publisher": "Syöpäjärjestöt", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija ja opettaja", "read": 2026-11-21}
+  - {"title": "Alkoholipolitiikka (STM, päivitetty 22.6.2026)", "url": "https://stm.fi/alkoholipolitiikka", "publisher": "Sosiaali- ja terveysministeriö", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija ja opettaja", "read": 2026-11-21}
+  - {"title": "Alkoholi: mini-interventio (THL, ammattilaisohje)", "url": "https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/alkoholi", "publisher": "Terveyden ja hyvinvoinnin laitos (THL)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja ja ammattilaiset", "read": 2026-11-21}
+  - {"title": "Nuorten päihteiden käyttö (Mielenterveystalo)", "url": "https://www.mielenterveystalo.fi/fi/paihteet/nuorten-paihteiden-kaytto", "publisher": "Mielenterveystalo.fi (HUS)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija ja opettaja", "read": 2026-11-21}
+  - {"title": "Peluuri", "url": "https://www.peluuri.fi/", "publisher": "Peluuri", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja (ikärajaa tai nuorten ohjeita ei mainita)", "read": 2026-11-21}
+  - {"title": "Päihdekasvatus (EHYT)", "url": "https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/", "publisher": "Ehkäisevä päihdetyö EHYT ry", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja (ammattilaiset)", "read": 2026-11-21}
+  - {"title": "Ehkäisevä päihdetyö kouluissa ja oppilaitoksissa (THL)", "url": "https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa", "publisher": "Terveyden ja hyvinvoinnin laitos (THL)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja (ammattilaiset)", "read": 2026-11-21}
 exam_tasks:
   - {id: K1, type: monivalinta, part: A20, points: 20, minutes: 25, codes: [TE2.s8, TE2.t5]}
   - {id: K2, type: viestinnan-analyysi, part: B20, points: 20, minutes: 35, codes: [TE2.s8, TE2.t5]}
   - {id: K3, type: viitekehyksen-soveltaminen, part: C30, points: 30, minutes: 55, codes: [TE2.s8, TE2.t5]}
+  - {id: K4, type: kasitteiden-nimeaminen, part: A20, points: 20, minutes: 25, codes: [TE2.s8, TE2.t5]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
 school_adapts:
@@ -110,23 +79,21 @@ last_reviewed: 2026-11-21
 
 1. Osaan kertoa keskeiset aine- ja toiminnalliset riippuvuudet ja erottaa ne toisistaan.
 2. Osaan selittää riippuvuuksien syitä ja tunnistaa pelien ja sovellusten suunnitteluratkaisuja, jotka ohjaavat toistamaan.
-3. Osaan erottaa riippuvuuksien suorat ja epäsuorat haitat yksilön, yhteisön ja yhteiskunnan tasolla.
-4. Osaan selittää, mitä ehkäisevä päihdetyö, haittojen vähentäminen ja hoitoon hakeutuminen tarkoittavat, ja ehdottaa ehkäisykeinoja Ottawan viiden toiminta-alueen avulla.
+3. Osaan erottaa riippuvuuksien suorat ja epäsuorat haitat yksilön, yhteisön ja yhteiskunnan tasolla ja kuvata keskeisten aineiden haittoja sanoin.
+4. Osaan selittää, mitä ehkäisevä päihdetyö, haittojen vähentäminen ja hoitoon hakeutuminen tarkoittavat, ja ehdottaa ehkäisykeinoja Ottawan viiden toiminta-alueen avulla sekä nimetä alkoholipolitiikan keinoja.
 5. Osaan kertoa, mitkä lait ja ikärajat säätelevät aineita ja rahapelejä, mistä ajantasaisen tiedon löytää ja miksi lait muuttuvat.
 
 ### Keskeiset riippuvuudet
 
-**Aineriippuvuuksia** voivat aiheuttaa esimerkiksi alkoholi, nikotiinituotteet, kannabis ja muut huumeet sekä lääkkeet. **Toiminnallinen riippuvuus** liittyy toimintaan. Selkeimmin tunnettu on rahapelaaminen. Pelaamisen ja sosiaalisen median käytön kohdalla asiantuntijoiden näkemykset ja diagnoosit vaihtelevat, eikä pelaaminen ole oletuksena riippuvuutta. Ratkaisevia ovat kontrollin menetys ja haitat, eivät pelkkä kiinnostus tai ajankäyttö. Sivulla ei kuvata aineita, määriä eikä käyttötapoja.
+**Aineriippuvuuksia** voivat aiheuttaa esimerkiksi alkoholi, nikotiinituotteet, kannabis ja muut huumeet sekä lääkkeet. **Toiminnallinen riippuvuus** liittyy toimintaan, selkeimmin rahapelaamiseen. Pelaamisen kohdalla näkemykset vaihtelevat, eikä pelaaminen ole oletuksena riippuvuutta: ratkaisevat ovat kontrollin menetys ja haitat.
 
 ### Syyt: miksi riippuvuus voi syntyä?
 
-Riippuvuuden taustalla ovat aiheessa 09 käsitellyt biologiset, psyykkiset ja sosiaaliset mekanismit. Lisäksi vaikuttavat saatavuus, markkinointi, ryhmän tavat ja ikä. Asenteet ja ryhmän normit selittävät käyttäytymistä myös TE1:n [elintapamalleissa](../../te1/02-elintapamallit/).
-
-Peleissä ja sovelluksissa on suunnitteluratkaisuja, jotka vahvistavat toistamista. Tunnetuimpia ovat **vaihteleva palkkio** (palkkio tulee arvaamatta), **läheltä piti -efekti** (melkein voitto saa yrittämään uudelleen) ja **yllätyslaatikko** eli loot box. Myös ajastimet ja ilmoitukset ohjaavat palaamaan. Ne eivät tee kenestäkään riippuvaista, mutta ne ovat mediakasvatuksen asia: kun ratkaisun tunnistaa, sen vaikutus heikkenee.
+Taustalla ovat aiheen 09 mekanismit sekä saatavuus, markkinointi, ryhmän tavat ja ikä. Asenteet ja normit selittävät käyttäytymistä myös TE1:n [elintapamalleissa](../../te1/02-elintapamallit/). Peleissä on suunnitteluratkaisuja, jotka vahvistavat toistamista: **vaihteleva palkkio**, **läheltä piti -efekti**, **yllätyslaatikko** (loot box), ajastimet ja ilmoitukset. Ne eivät tee kenestäkään riippuvaista, mutta ne ovat mediakasvatuksen asia: kun ratkaisun tunnistaa, sen vaikutus heikkenee.
 
 ### Haitat: suorat ja epäsuorat
 
-**Suorat haitat** johtuvat aineesta tai toiminnasta itsestään. **Epäsuorat haitat** ovat seurauksia elämässä. Haitat koskevat yksilöä, yhteisöä ja yhteiskuntaa.
+**Suorat haitat** johtuvat aineesta tai toiminnasta itsestään. **Epäsuorat haitat** ovat seurauksia elämässä.
 
 | Taso | Suora haitta | Epäsuora haitta |
 |---|---|---|
@@ -134,13 +101,24 @@ Peleissä ja sovelluksissa on suunnitteluratkaisuja, jotka vahvistavat toistamis
 | Yhteisö | läheisten huoli ja kuormittuminen | luottamuksen heikkeneminen, ihmissuhderistiriidat |
 | Yhteiskunta | tapaturmat ja onnettomuudet | palvelujen kustannukset, työkyvyn menetys |
 
+### Aineiden haitat sanoin
+
+- **Alkoholi:** maksa, aivot ja hermosto, sydän ja verenkierto, syövät, mielenterveys ja riippuvuus ([Terveyskirjasto](https://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk01120)).
+- **Tupakointi:** keuhkoahtaumatauti (COPD), keuhkosyöpä ja muut syövät sekä sydän- ja verisuonitaudit ([Käypä hoito](https://www.kaypahoito.fi/nix00256)).
+- **Sähkösavukkeet ja nikotiinipussit:** haitallisia ja riippuvuutta aiheuttavia, ja kaikkea tupakkatuotteiden käyttöä pidetään riskikäyttönä ([THL](https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet)).
+- **Kannabis:** nuorilla psykoosin ja muiden mielenterveyden häiriöiden riski kasvaa, ja oppiminen ja muisti voivat heikentyä ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk01324)).
+
+**Karsinogeeni** on syöpää aiheuttava aine. IARC-tutkimuskeskus luokittelee aineet sen mukaan, kuinka vahva näyttö on: ensimmäinen luokka kertoo vahvimmasta näytöstä, ei suurimmasta riskistä. Alkoholi kuuluu siihen, ja tupakoinnin yhdistäminen alkoholiin lisää riskiä ([Syöpäjärjestöt](https://www.syopajarjestot.fi/uutinen/7-faktaa-alkoholista-ja-syovasta/)). Alaikäisen alkoholinkäyttöä pidetään aina riskikäyttönä, koska aivot kehittyvät vielä ja ovat herkempiä haitoille ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/paihteet/nuorten-paihteiden-kaytto)).
+
 ### Lait ja ikärajat
 
-Lait muuttuvat, joten tarkista ajantasainen tieto virallisesta lähteestä. Vakaa sääntö on, että alaikäiselle ei saa myydä alkoholia, tupakkatuotteita eikä nikotiinipusseja ([alkoholilaki](https://www.finlex.fi/fi/lainsaadanto/2017/1102), [tupakkalaki](https://www.finlex.fi/fi/lainsaadanto/2016/549)). Alkoholilakia ja nikotiinituotteiden säätelyä on uudistettu ([alkoholilaki, tiedote](https://valtioneuvosto.fi/-/1271139/uudistettu-alkoholilaki-mahdollistaa-alkoholijuomien-toimitukset-asiakkaille-ja-sallii-vakevien-verkkomainonnan-), [nikotiinipussit, tiedote](https://valtioneuvosto.fi/-/1271139/nikotiinipussien-myyntia-ja-markkinointia-saannellaan-jatkossa-tiukemmin)). Rahapelaamiseen on ikäraja ja vahva tunnistautuminen, ja rahapelilaki uudistuu ([tiedote](https://valtioneuvosto.fi/-/1410869/rahapelien-jarjestaminen-avataan-osittain-kilpailulle)). Huumausaineiden käyttö, hallussapito ja kauppa ovat kiellettyjä ja rangaistavia ([STM](https://stm.fi/huumausaineiden-valvonta)). Käytön rangaistavuudesta käydään keskustelua, mutta voimassa on tämä laki.
+Lait muuttuvat, joten tarkista ajantasainen tieto virallisesta lähteestä. Vakaa sääntö on, että alaikäiselle ei saa myydä alkoholia, tupakkatuotteita eikä nikotiinipusseja ([alkoholilaki](https://www.finlex.fi/fi/lainsaadanto/2017/1102), [tupakkalaki](https://www.finlex.fi/fi/lainsaadanto/2016/549)). Alkoholilakia ja nikotiinituotteiden säätelyä on uudistettu, joten tarkista tilanne tiedotteista (ks. Lähteet). Rahapelaamiseen on ikäraja ja vahva tunnistautuminen ([tiedote](https://valtioneuvosto.fi/-/1410869/rahapelien-jarjestaminen-avataan-osittain-kilpailulle)). Huumausaineiden käyttö, hallussapito ja kauppa ovat kiellettyjä ja rangaistavia ([STM](https://stm.fi/huumausaineiden-valvonta)). Käytön rangaistavuudesta keskustellaan, mutta voimassa on tämä laki.
 
-### Ehkäisy ja hoitoon hakeutuminen
+### Ehkäisy, alkoholipolitiikka ja hoitoon hakeutuminen
 
-**Ehkäisevä päihdetyö** pyrkii estämään haittoja ennen kuin ne syntyvät. Ammattilaiset eivät suosittele pelottelua tai pahimman tapauksen kertomista, koska niiden ei ole osoitettu toimivan ([EHYT](https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/), [THL](https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa)). Ehkäisyä voi ajatella Ottawan viiden toiminta-alueen kautta ([TE1-aihe 01](../../te1/01-terveys-voimavarana/)): lait ja ikärajat, turvalliset ympäristöt, yhteisön toiminta, henkilökohtaiset taidot ja palvelut. **Haittojen vähentäminen** tarkoittaa toimia, jotka vähentävät haittoja myös silloin, kun käyttö jatkuu. Sen yksityiskohdat kuuluvat palveluihin, eivät luokkaan. **Hoitoon hakeutuminen** on tavallista, ja siihen on matala kynnys.
+**Ehkäisevä päihdetyö** pyrkii estämään haittoja ennen kuin ne syntyvät. Ammattilaiset eivät suosittele pelottelua tai pahimman tapauksen kertomista, koska niiden ei ole osoitettu toimivan (EHYT ja THL, ks. Lähteet). Ehkäisyä voi ajatella Ottawan viiden toiminta-alueen kautta ([TE1-aihe 01](../../te1/01-terveys-voimavarana/)): lait ja ikärajat, turvalliset ympäristöt, yhteisön toiminta, henkilökohtaiset taidot ja palvelut. **Haittojen vähentäminen** tarkoittaa toimia, jotka vähentävät haittoja myös silloin, kun käyttö jatkuu; sen yksityiskohdat kuuluvat palveluihin. **Hoitoon hakeutuminen** on tavallista.
+
+**Alkoholipolitiikka** on julkisen vallan toimia alkoholihaittojen ehkäisemiseksi. Keinoja ovat verotus ja hinta, Alkon vähittäismyynnin yksinoikeus sekä myyntiaikojen ja mainonnan rajoittaminen. Ne kohdistuvat koko väestöön, ja tutkimuksen mukaan ne vähentävät haittoja ([STM](https://stm.fi/alkoholipolitiikka)). Yksilön tasolla toimii **mini-interventio**: lyhyt keskustelu, joka vähentää riskikäyttöä ([THL](https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/alkoholi)).
 
 ## Tehtävät
 
@@ -199,8 +177,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 1. Osaan kertoa keskeiset aine- ja toiminnalliset riippuvuudet ja erottaa ne toisistaan.
 2. Osaan selittää riippuvuuksien syitä ja tunnistaa pelien ja sovellusten suunnitteluratkaisuja, jotka ohjaavat toistamaan.
-3. Osaan erottaa riippuvuuksien suorat ja epäsuorat haitat yksilön, yhteisön ja yhteiskunnan tasolla.
-4. Osaan selittää, mitä ehkäisevä päihdetyö, haittojen vähentäminen ja hoitoon hakeutuminen tarkoittavat, ja ehdottaa ehkäisykeinoja Ottawan viiden toiminta-alueen avulla.
+3. Osaan erottaa riippuvuuksien suorat ja epäsuorat haitat yksilön, yhteisön ja yhteiskunnan tasolla ja kuvata keskeisten aineiden haittoja sanoin.
+4. Osaan selittää, mitä ehkäisevä päihdetyö, haittojen vähentäminen ja hoitoon hakeutuminen tarkoittavat, ja ehdottaa ehkäisykeinoja Ottawan viiden toiminta-alueen avulla sekä nimetä alkoholipolitiikan keinoja.
 5. Osaan kertoa, mitkä lait ja ikärajat säätelevät aineita ja rahapelejä, mistä ajantasaisen tiedon löytää ja miksi lait muuttuvat.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen. Tätä itsearviointia ei pisteytetä eikä se mittaa omaa elämääsi.
@@ -246,9 +224,26 @@ c) Ehdota suunnittelijalle kolme muutosta, jotka tekisivät sovelluksesta vähem
 
 *Viitekehys:* Ottawan asiakirjan viisi toiminta-aluetta ovat terveyttä edistävä yhteiskuntapolitiikka, terveyttä tukevat ympäristöt, yhteisön toiminta, henkilökohtaiset taidot ja terveyspalvelujen suuntaaminen uudelleen ([WHO](https://www.who.int/publications/i/item/ottawa-charter-for-health-promotion); ks. myös TE1-aihe 01).
 
-a) Tee kustakin viidestä toiminta-alueesta yksi perusteltu ehdotus kunnan suunnitelmaan. Kerro, kuka toimii, ja selitä, miten ehdotus ehkäisee riippuvuuksia. (18 p)
+a) Tee kustakin viidestä toiminta-alueesta yksi perusteltu ehdotus kunnan suunnitelmaan. Kerro, kuka toimii, ja selitä, miten ehdotus ehkäisee riippuvuuksia. (16 p)
 
-b) Esitä rajoitusten puolesta ja niitä vastaan esitetyt perustelut, arvioi, kumpi on painavampi, ja valitse ehdotuksistasi tärkein. (12 p)
+b) Esitä rajoitusten puolesta ja niitä vastaan esitetyt perustelut, arvioi, kumpi on painavampi, ja valitse perustellen ehdotuksistasi tärkein. (14 p)
+
+### K4: Käsitteiden nimeäminen, 25 min (20 p)
+
+*Osa A20 · Harjoittelee: Osaan 3, 4*
+
+Nimeä kustakin kuvitteellisesta tapauksesta käsite ja perustele valintasi yhdellä lauseella, enintään 150 merkillä välilyönteineen. Käsitteet: karsinogeeni, verotus ja hinta, myyntiyksinoikeus, myyntiaikojen rajoittaminen, mainonnan rajoittaminen, mini-interventio, alaikäisen riskikäyttö, psykoosiriski, nikotiinituotteen riippuvuus, keuhkoahtaumatauti. Kukin käsite sopii yhteen kohtaan. (10 × 2 p)
+
+1. Veera (kuvitteellinen) lukee, että aineen syöpävaarallisuudesta on vahvin tutkimusnäyttö.
+2. Valtio korottaa alkoholijuomien veroa, ja hinnat nousevat.
+3. Vähittäismyynti on vain yhden valtion omistaman yhtiön myymälöissä.
+4. Myymälöiden aukioloaikoja lyhennetään illalla.
+5. Juomien mainostamista sosiaalisessa mediassa rajataan.
+6. Terveydenhoitaja käy opiskelijan kanssa lyhyen keskustelun juomisen riskeistä ja tukee muutosta.
+7. Alaikäinen Aaro (kuvitteellinen) kuulee, että hänen ikäistensä alkoholinkäyttöä pidetään aina terveysriskinä.
+8. Kim (kuvitteellinen) lukee, että aine voi laukaista vakavan mielenterveyden häiriön alttiilla nuorella.
+9. Sami (kuvitteellinen) luulee, ettei pussi ole haitallinen, koska siinä ei ole tupakkaa, mutta nikotiini voi silti aiheuttaa riippuvuuden.
+10. Pitkään jatkunut tupakointi voi aiheuttaa pysyvän keuhkosairauden, jossa hengittäminen vaikeutuu.
 
 ## Mallivastaukset
 
@@ -340,7 +335,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 *Sisältö 15 p:*
 
-- Jokainen viidestä toiminta-alueesta 3 p: konkreettinen keino 1 p, toimija 1 p, mekanismi riippuvuuden ehkäisyyn 1 p. Yhteensä 5 × 3 p = 15 p.
+- a) Jokainen viidestä toiminta-alueesta 2 p: konkreettinen keino ja toimija 1 p, mekanismi riippuvuuden ehkäisyyn 1 p. Yhteensä 10 p. b) Rajoitusten puolesta esitetty perustelu 1 p, vastaan esitetty perustelu 1 p, punninta 1 p, tärkein ehdotus valittu 1 p, valinta perusteltu aineiston avulla 1 p. Yhteensä 5 p.
 
 *Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
@@ -349,7 +344,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 0–5 p: vastaus luettelee toiminta-alueita ilman ehdotuksia tai ei käytä aineistoa.
 - Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
-Tehtävänannon osapisteet (a 18 p, b 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+Tehtävänannon osapisteet (a 16 p, b 14 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
 **Yhteensä:** 30 p
 
@@ -363,6 +358,40 @@ Tehtävänannon osapisteet (a 18 p, b 12 p) sisältävät sekä sisällön että
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
+### K4: Käsitteiden nimeäminen, 25 min (20 p)
+
+**Malliksi kelpaava vastaus**
+
+1. **karsinogeeni:** luokan perusteena on vahva näyttö siitä, että aine aiheuttaa syöpää.
+2. **verotus ja hinta:** vero nostaa hintaa, ja kallistuminen vähentää kulutusta ja haittoja.
+3. **myyntiyksinoikeus:** vain yksi toimija saa myydä, mikä rajoittaa saatavuutta ja houkuttelevuutta.
+4. **myyntiaikojen rajoittaminen:** lyhyempi saatavuusaika vähentää ostamista ja haittoja.
+5. **mainonnan rajoittaminen:** vähemmän mainoksia vähentää houkutusta ja altistumista.
+6. **mini-interventio:** lyhyt keskustelu, joka tukee riskikäytön vähentämistä.
+7. **alaikäisen riskikäyttö:** alaikäisen alkoholinkäyttöä pidetään aina riskikäyttönä, koska aivot kehittyvät vielä.
+8. **psykoosiriski:** kannabis voi laukaista psykoosin alttiilla, ja riski kasvaa nuorena aloitettaessa.
+9. **nikotiinituotteen riippuvuus:** pussikin sisältää nikotiinia, joka aiheuttaa riippuvuuden.
+10. **keuhkoahtaumatauti (COPD):** tupakoinnin aiheuttama pysyvä keuhkosairaus.
+
+**Pisteytys**
+
+*Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
+
+- Jokainen kymmenestä kohdasta 2 p: käsite 1 p (sanastossa hyväksytyt synonyymit kelpaavat), perustelu yhdistää tapauksen ja käsitteen 1 p. Yhteensä 10 × 2 p = 20 p.
+- Yli 150 merkin perustelusta ylimenevää osaa ei pisteytetä. Perustelu ilman käsitettä: 0 p.
+
+*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (lähikäsitteet erotetaan: verotus ja myyntiyksinoikeus), soveltaminen (tapaus yhdistetään käsitteeseen), analysointi (perustelu kertoo mekanismin), arviointi ja argumentointi (tiivis perustelu), rakenne (numerointi säilyy).
+
+**Yhteensä:** 20 p
+
+**Tyypilliset virheet**
+
+- Hinta, saatavuus ja mainonta sekoitetaan keskenään.
+- Karsinogeenin luokka tulkitaan suurimmaksi riskiksi vahvimman näytön sijaan.
+- Perustelu toistaa tapauksen sanoja tai syyllistää käyttäjää, eikä kerro mekanismia.
+
+Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
+
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat kertoa keskeiset riippuvuudet, erottaa haittojen tasot, tunnistaa ohjailevia suunnitteluratkaisuja ja ehdottaa ehkäisykeinoja.
@@ -373,7 +402,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 1. **Lue** osio Opiskelijalle (8 min).
 2. **Tee** Tehtävä 1 (20 min) ja Tehtävä 2 (10 min). Tehtävä 3 on lisätehtävä (15 min).
-3. **Harjoittele** koetehtävä K1 (25 min) ja tarkista vastauksesi mallivastauksella. K2 ja K3 sopivat kertaukseen.
+3. **Harjoittele** koetehtävä K1 (25 min) ja tarkista vastauksesi mallivastauksella. K2–K4 sopivat kertaukseen.
 4. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 5. **Seuraava askel:** TE2 on valmis. Kertaa moduulin aiheet 01–10 ja harjoittele koetehtäviä eri aiheista.
 
@@ -381,13 +410,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (haittakartta) tehdään kokonaan kaikissa tuntimalleissa. Kaikki tapaukset ovat kuvitteellisia, eikä aineita tai käyttötapoja kuvata. Ketään ei pyydetä kertomaan omasta tai läheisten käytöstä, pelaamisesta tai kokemuksista.
+**Tavoitetehtävä:** Tehtävä 1 (haittakartta) tehdään kokonaan kaikissa tuntimalleissa. Kaikki tapaukset ovat kuvitteellisia, eikä käyttötapoja kuvata. Ketään ei pyydetä kertomaan omasta tai läheisten käytöstä, pelaamisesta tai kokemuksista.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jonka mainos tai sovellus tekee houkuttelevaksi (ei omaa käyttöä). | Kerää laput ja ryhmittele: ulkonäkö, palkinto, kaverit, kiire. | Nimetön sähköinen seinä. | Lue kolme lappua. |
 | Aiemman tiedon aktivointi | 10 | Parit kertaavat aiheen 09 kolme mekanismia ja neljä tunnusmerkkiä. | Piirrä laatikot taululle. Linkitä aiheeseen 09. | Yksin paperille. | Vain mekanismit. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat keskeiset riippuvuudet, haittojen tasot ja Ottawan viisi toiminta-aluetta. | Piirrä haittataulukko. Korosta: pelaaminen ei ole oletuksena riippuvuutta. Älä kuvaile aineita. | Jaa käsitteet paperilla. | Toiminta-alueet kotiin. |
+| Lyhyt alustus | 10 | Opiskelijat kirjaavat keskeiset riippuvuudet, haittojen tasot ja Ottawan viisi toiminta-aluetta. | Piirrä haittataulukko. Korosta: pelaaminen ei ole oletuksena riippuvuutta. Älä kuvaile käyttötapoja. | Jaa käsitteet paperilla. | Toiminta-alueet kotiin. |
 | Työskentely | 25 | Tehtävä 1 kokonaan pareittain (20 min), sitten Tehtävän 2 vaiheet 1–3 (5 min). | Kierrä ja kysy perusteluja. Hyväksy kaksi perusteltua paikkaa samalle haitalle. | Yksin paperilla. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät keksivät yhden ehkäisykeinon kullekin toiminta-alueelle. Pohdinnan kysymys 1 yhdessä. | Kerro: ehkäisy kuuluu opetussuunnitelmaan. Keskustelussa punnitaan keinoja kahdelta puolelta. | Yksin: kolme keinoa. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n kohdat 1, 4, 5 ja 8 yksin (7 min) ja tarkistus (3 min). Exit: yksi uusi asia. | Näytä, mistä pisteet ja vähennys syntyvät. | Paperilla. | Tarkistus kotona. |
@@ -399,7 +428,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 4 | Nimetön lappu: yksi asia, jonka mainos tai sovellus tekee houkuttelevaksi. | Ryhmittele taululle. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 6 | Koko ryhmä kertaa aiheen 09 mekanismit. | Piirrä laatikot taululle. | Paperille. | Vain kolme mekanismia. |
-| Lyhyt alustus | 8 | Opiskelijat kirjaavat riippuvuuden muodot, haittojen tasot ja toiminta-alueet. | Piirrä taulukko. Älä kuvaile aineita. | Jaa käsitteet paperilla. | Toiminta-alueet kotiin. |
+| Lyhyt alustus | 8 | Opiskelijat kirjaavat riippuvuuden muodot, haittojen tasot ja toiminta-alueet. | Piirrä taulukko. Älä kuvaile käyttötapoja. | Jaa käsitteet paperilla. | Toiminta-alueet kotiin. |
 | Työskentely | 25 | Tehtävä 1 kokonaan pareittain (20 min), sitten Tehtävän 2 vaiheet 1–3 (5 min). | Kierrä ja kysy perusteluja. | Yksin paperilla. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit keksivät ehkäisykeinon kolmelle toiminta-alueelle. | Kokoa taululle. | Yksin paperille. | Yksi yhteinen vastaus. |
 | Koeharjoitus ja exit | 7 | K1:n kohdat 1 ja 4 yksin (4 min) ja tarkistus (3 min). Exit: yksi epäselvä käsite. | Näytä pisteytys. | Paperilla. | Tarkistus kotona. |
@@ -411,7 +440,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 2 | Kysymys ääneen: miksi mainos tai sovellus voi houkutella? | Kirjoita pari vastausta taululle. | Opiskelijat kirjoittavat itselleen. | – |
 | Aiemman tiedon aktivointi | 3 | Koko ryhmä nimeää yhden mekanismin aiheesta 09. | Kirjoita taululle. | Paperille. | Yksi mekanismi. |
-| Lyhyt alustus | 7 | Opiskelijat kirjaavat haittojen tasot ja toiminta-alueet. | Piirrä haittataulukko. Älä kuvaile aineita. | Jaa käsitteet paperilla. | Vain taulukko. |
+| Lyhyt alustus | 7 | Opiskelijat kirjaavat haittojen tasot ja toiminta-alueet. | Piirrä haittataulukko. Älä kuvaile käyttötapoja. | Jaa käsitteet paperilla. | Vain taulukko. |
 | Työskentely | 22 | Tehtävä 1 kokonaan pareittain (20 min). Lopuksi jokainen kirjoittaa yhden ehkäisykeinon (2 min). | Kierrä ja kysy perusteluja. Tehtävä 1 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | Keino kotiin. |
 | Pari- tai pienryhmäpohdinta | 5 | Koko ryhmä punnitsee kahden minuutin ajan yhtä ehkäisykeinoa molemmilta puolilta. | Kirjoita perustelut taululle. | Yksin paperille. | Pohdinta kotiin. |
 | Koeharjoitus ja exit | 4 | Exit: yksi suora ja yksi epäsuora haitta. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
@@ -419,16 +448,11 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Piirrä haittataulukko taululle tai jaa se paperilla. Tehtävät toimivat ilman tulosteita.
-- Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
-- Lue EHYTin ja THL:n sivut ehkäisevästä päihdetyöstä ja lainsäädäntölinkit etukäteen (ks. Lähteet). Lait uudistuvat: tarkista ajantasainen tieto.
-- Älä käytä testejä, kokemuspuheenvuoroja tai vierailijoita, jotka kertovat pahimman tapauksensa. Älä käytä Peluurin sivun pelaamistestejä luokassa.
-- Peluuri (peluuri.fi) on auttava puhelin peliongelmiin, myös läheisille. Sivu ei kerro, että se on tarkoitettu nuorille, joten se on opettajan tiedoksi eikä opiskelijoiden apulinkki; aukioloajat ovat sivulla.
-- Selvitä koulun opiskeluterveydenhuollon ja opiskeluhuoltotiimin yhteystiedot (esimerkki).
+- Piirrä haittataulukko taululle tai jaa se paperilla. Tehtävät toimivat ilman tulosteita. Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
+- Lue EHYTin ja THL:n sivut ehkäisevästä päihdetyöstä ja lainsäädäntölinkit etukäteen (ks. Lähteet). Lait uudistuvat: tarkista ajantasainen tieto. Älä käytä testejä, kokemuspuheenvuoroja tai vierailijoita, jotka kertovat pahimman tapauksensa. Älä käytä Peluurin sivun pelaamistestejä luokassa. Peluuri (peluuri.fi) on auttava puhelin peliongelmiin, myös läheisille. Sivu ei kerro, että se on tarkoitettu nuorille, joten se on opettajan tiedoksi eikä opiskelijoiden apulinkki; aukioloajat ovat sivulla. Selvitä koulun opiskeluterveydenhuollon ja opiskeluhuoltotiimin yhteystiedot (esimerkki).
 
 ### Avoimet kysymykset
 
-- Miksi pelaaminen ei ole oletuksena riippuvuutta?
 - Miksi haitat koskevat muitakin kuin riippuvuudesta kärsivää?
 - Mitä eroa on ehkäisyllä ja haittojen vähentämisellä?
 - Miksi pelottelun ei ole osoitettu toimivan?
@@ -437,11 +461,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Analysoidaan kuvitteellisia tapauksia ja yleistä tietoa. Älä pyydä opiskelijoita kertomaan omasta tai läheisten käytöstä, pelaamisesta tai kokemuksista. Älä käytä nosta käsi -kysymyksiä. Älä kuvaile aineita, määriä, hintoja tai käyttötapoja.
-- Kerro tunnin alussa, että aihe voi herättää tunteita, että tauon voi pitää ja että tehtävän voi jättää väliin.
-- Kerro, että terveydenhoitaja ja opiskeluhuoltotiimi ovat käytettävissä. Jos opiskelija kertoo huolestaan, kuuntele, kiitä luottamuksesta ja ohjaa terveydenhoitajalle tai opiskeluhuoltoon. Koulun henkilökunnalla, kuten opettajalla, terveydenhoitajalla ja kuraattorilla, on ohjeet siitä, miten toimitaan, kun alaikäisen avun tarve tulee tietoon; tarkista koulusi ohjeista, milloin ja miten tehdään esimerkiksi lastensuojeluilmoitus, jonka tarkoitus on saada tuki. Kerro asia neutraalisti.
-- Sarja tunteja toimii paremmin kuin yksittäinen tunti ([THL](https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa), [EHYT](https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/)).
-- Pidä molemmat näkökulmat esillä keskustelussa rajoituksista. Ehkäisy ja haitat ovat opetussuunnitelman sisältöä eivätkä valinnaisia: keskustellaan keinoista, ei siitä, pitääkö ehkäistä.
+- Analysoidaan kuvitteellisia tapauksia ja yleistä tietoa. Älä pyydä opiskelijoita kertomaan omasta tai läheisten käytöstä, pelaamisesta tai kokemuksista. Älä käytä nosta käsi -kysymyksiä. Älä kuvaile määriä, hintoja tai käyttötapoja. Haitoista puhutaan sanoin ja ilman pelottelua.
+- Kerro tunnin alussa, että aihe voi herättää tunteita, että tauon voi pitää ja että tehtävän voi jättää väliin. Kerro, että terveydenhoitaja ja opiskeluhuoltotiimi ovat käytettävissä. Jos opiskelija kertoo huolestaan, kuuntele, kiitä luottamuksesta ja ohjaa terveydenhoitajalle tai opiskeluhuoltoon. Koulun henkilökunnalla, kuten opettajalla, terveydenhoitajalla ja kuraattorilla, on ohjeet siitä, miten toimitaan, kun alaikäisen avun tarve tulee tietoon; tarkista koulusi ohjeista, milloin ja miten tehdään esimerkiksi lastensuojeluilmoitus, jonka tarkoitus on saada tuki. Kerro asia neutraalisti.
+- Sarja tunteja toimii paremmin kuin yksittäinen tunti ([THL](https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa), [EHYT](https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/)). Pidä molemmat näkökulmat esillä keskustelussa rajoituksista. Ehkäisy ja haitat ovat opetussuunnitelman sisältöä eivätkä valinnaisia: keskustellaan keinoista, ei siitä, pitääkö ehkäistä.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että riippuvuus koskee vain aineita? Oletanko, ettei kenelläkään ryhmässä ole läheistä, jolla on riippuvuus? Käytänkö sanoja, jotka leimaavat (esimerkiksi henkilö, jolla on päihderiippuvuus)? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -452,14 +474,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Vastaukset voi kirjoittaa omalla kielellä; koetehtävissä harjoitellaan suomenkielisiä käsitteitä.
 
-- *aineriippuvuus = riippuvuus aineeseen*
-- *toiminnallinen riippuvuus = riippuvuus toimintaan*
-- *suora haitta = haitta, joka johtuu aineesta tai toiminnasta itsestään*
-- *epäsuora haitta = haitta, joka syntyy elämän seurauksena*
-- *ehkäisevä päihdetyö = toimet, jotka estävät haittoja ennen kuin ne syntyvät*
-- *haittojen vähentäminen = toimet, jotka vähentävät haittoja, vaikka käyttö jatkuu*
-- *hoitoon hakeutuminen = avun hakeminen terveydenhuollosta*
-- *vaihteleva palkkio = palkkio, joka tulee arvaamatta*
+*aineriippuvuus = riippuvuus aineeseen; toiminnallinen riippuvuus = riippuvuus toimintaan; suora haitta = haitta, joka johtuu aineesta tai toiminnasta itsestään; epäsuora haitta = haitta, joka syntyy elämän seurauksena; ehkäisevä päihdetyö = toimet, jotka estävät haittoja ennen kuin ne syntyvät; haittojen vähentäminen = toimet, jotka vähentävät haittoja, vaikka käyttö jatkuu; hoitoon hakeutuminen = avun hakeminen terveydenhuollosta; vaihteleva palkkio = palkkio, joka tulee arvaamatta; karsinogeeni = syöpää aiheuttava aine; mini-interventio = lyhyt keskustelu riskikäytön vähentämiseksi*
 
 **Lukeminen, keskittyminen ja jännitys:** Lue aineisto kappale kerrallaan ja alleviivaa kohdat värein. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa. Tehtävän voi jättää väliin, jos aihe tuntuu raskaalta.
 

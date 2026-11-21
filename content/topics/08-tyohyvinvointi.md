@@ -19,45 +19,27 @@ official_links:
   - {title: "Työhyvinvointi ja työkyky (Työterveyslaitos)", url: "https://www.ttl.fi/teemat/tyohyvinvointi-ja-tyokyky", publisher: "Työterveyslaitos", read: 2026-11-21}
   - {title: "Työkyky (Työterveyslaitos)", url: "https://www.ttl.fi/teemat/tyohyvinvointi-ja-tyokyky/tyokyky", publisher: "Työterveyslaitos", read: 2026-11-21}
   - {title: "Viisi askelta tasapainoisempaan työelämään -verkkokurssi (aoe.fi 4638)", url: "https://aoe.fi/#/materiaali/4638", publisher: "Väestöliiton Hyvinvointi Oy (aoe.fi)", read: 2026-11-21}
+  - {title: "Ikääntyneiden yrittäjyys on lisääntynyt (Tilastokeskus, 12.12.2011)", url: "https://stat.fi/artikkelit/2011/art_2011-12-12_001.html", publisher: "Tilastokeskus", read: 2026-11-21}
+  - {title: "Työelämän pitkä kaari (Tilastokeskus, 1.10.2015)", url: "https://stat.fi/tietotrendit/artikkelit/2015/tyoelaman-pitka-kaari-tyoolot-yha-riippuvaisempia-kansainvalisesta-kehityksesta", publisher: "Tilastokeskus", read: 2026-11-21}
   - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi", read: 2026-11-21}
   - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
   - {title: "Työelämätaidot ja työnhaku: kesätyö, hakemus, haastattelu (opinto-ohjaus, aihe 13)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op2/13-tyonhaku/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
-yearly_facts: [nuoret_tyontekijat, tyoterveyshuolto, opiskeluterveydenhuolto, sekasin_chat]
+yearly_facts: [nuoret_tyontekijat, tyoelaman_muutos, tyokykytalo, tyoterveyshuolto, opiskeluterveydenhuolto, sekasin_chat]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
-  - title: "Nuori työntekijä (Työsuojelu.fi)"
-    url: "https://tyosuojelu.fi/tyosuhde/nuori-tyontekija"
-    publisher: "Työsuojeluhallinto (Lupa- ja valvontavirasto)"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija (nuori työntekijä) ja työnantaja
-    read: 2026-11-21
-  - title: "Laki nuorista työntekijöistä 998/1993 (Finlex)"
-    url: "https://www.finlex.fi/fi/lainsaadanto/1993/998"
-    publisher: "Finlex (oikeusministeriö)"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja
-    read: 2026-11-21
-  - title: "Työhyvinvointi ja työkyky (Työterveyslaitos)"
-    url: "https://www.ttl.fi/teemat/tyohyvinvointi-ja-tyokyky"
-    publisher: "Työterveyslaitos"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja (työpaikat)
-    read: 2026-11-21
-  - title: "Viisi askelta tasapainoisempaan työelämään -verkkokurssi (aoe.fi 4638)"
-    url: "https://aoe.fi/#/materiaali/4638"
-    publisher: "Väestöliiton Hyvinvointi Oy (aoe.fi)"
-    licence_class: link-out
-    licence: "CC BY-NC-ND 4.0 (aoe.fi-metatiedot)"
-    audience: opettaja ja opiskelija (lukio, ammatillinen)
-    read: 2026-11-21
+  - {"title": "Nuori työntekijä (Työsuojelu.fi)", "url": "https://tyosuojelu.fi/tyosuhde/nuori-tyontekija", "publisher": "Työsuojeluhallinto (Lupa- ja valvontavirasto)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija (nuori työntekijä) ja työnantaja", "read": 2026-11-21}
+  - {"title": "Laki nuorista työntekijöistä 998/1993 (Finlex)", "url": "https://www.finlex.fi/fi/lainsaadanto/1993/998", "publisher": "Finlex (oikeusministeriö)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja", "read": 2026-11-21}
+  - {"title": "Työhyvinvointi ja työkyky (Työterveyslaitos)", "url": "https://www.ttl.fi/teemat/tyohyvinvointi-ja-tyokyky", "publisher": "Työterveyslaitos", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja (työpaikat)", "read": 2026-11-21}
+  - {"title": "Ikääntyneiden yrittäjyys on lisääntynyt (Tilastokeskus, 12.12.2011)", "url": "https://stat.fi/artikkelit/2011/art_2011-12-12_001.html", "publisher": "Tilastokeskus", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija ja opettaja", "read": 2026-11-21}
+  - {"title": "Työelämän pitkä kaari (Tilastokeskus, 1.10.2015)", "url": "https://stat.fi/tietotrendit/artikkelit/2015/tyoelaman-pitka-kaari-tyoolot-yha-riippuvaisempia-kansainvalisesta-kehityksesta", "publisher": "Tilastokeskus", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija ja opettaja", "read": 2026-11-21}
+  - {"title": "Työkyky (Työterveyslaitos)", "url": "https://www.ttl.fi/teemat/tyohyvinvointi-ja-tyokyky/tyokyky", "publisher": "Työterveyslaitos", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija ja opettaja", "read": 2026-11-21}
+  - {"title": "Viisi askelta tasapainoisempaan työelämään -verkkokurssi (aoe.fi 4638)", "url": "https://aoe.fi/#/materiaali/4638", "publisher": "Väestöliiton Hyvinvointi Oy (aoe.fi)", "licence_class": "link-out", "licence": "CC BY-NC-ND 4.0 (aoe.fi-metatiedot)", "audience": "opettaja ja opiskelija (lukio, ammatillinen)", "read": 2026-11-21}
 exam_tasks:
   - {id: K1, type: luettele-ja-luokittele, part: A20, points: 20, minutes: 25, codes: [TE2.s6, TE2.t4]}
   - {id: K2, type: kuvion-tulkinta, part: B20, points: 20, minutes: 35, codes: [TE2.s6, TE2.t4]}
   - {id: K3, type: aineiston-analyysi, part: C30, points: 30, minutes: 55, codes: [TE2.s6, TE2.t4]}
+  - {id: K4, type: maarittele-ja-esimerkki, part: A20, points: 20, minutes: 25, codes: [TE2.s6, TE2.t4]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links:
   - title: "Työelämätaidot ja työnhaku: kesätyö, hakemus, haastattelu (opinto-ohjaus, aihe 13)"
@@ -77,7 +59,7 @@ last_reviewed: 2026-11-21
 
 **Tämän aiheen jälkeen**
 
-1. Osaan kuvata, mitä työhyvinvointi on ja mistä tekijöistä se muodostuu.
+1. Osaan kuvata, mitä työhyvinvointi on ja mistä tekijöistä se muodostuu, ja kertoa, miten työelämä on muuttunut ja mitä työkykytalo kuvaa.
 2. Osaan selittää, miten työn fyysinen ja psykososiaalinen ympäristö vaikuttavat terveyteen ja toimintakykyyn.
 3. Osaan analysoida kuvitteellisen työtilanteen vaatimuksia ja voimavaroja ja ehdottaa perusteltuja keinoja työhyvinvoinnin tukemiseen.
 4. Osaan lukea työpaikan kyselyn tuloksia ja arvioida, mitä ne kertovat ja mitä eivät.
@@ -85,9 +67,9 @@ last_reviewed: 2026-11-21
 
 ### Mitä työhyvinvointi on?
 
-**Työhyvinvointi** tarkoittaa, että työ on turvallista, terveellistä ja mielekästä ja että ihminen jaksaa ja pystyy tekemään sitä. Se syntyy työn, työyhteisön ja työntekijän yhteisvaikutuksesta. Käsite koskee kesätyötä, sivutyötä ja myöhempää ammattia. Työhyvinvointi ei ole sama asia kuin hyvä mieli joka päivä.
+**Työhyvinvointi** tarkoittaa, että työ on turvallista, terveellistä ja mielekästä ja että ihminen jaksaa ja pystyy tekemään sitä. Se syntyy työn, työyhteisön ja työntekijän yhteisvaikutuksesta. Käsite koskee kesätyötä, sivutyötä ja myöhempää ammattia.
 
-Opetussuunnitelmassa työhyvinvointi on sisältöalue, jolla ei ole omaa tavoitetta. Lähin tavoite on TE2.t4, joka käsittelee ympäristöjen yhteyksiä terveyteen. Työpaikka on ympäristö, jossa moni viettää suuren osan arjestaan.
+Työhyvinvointi on opetussuunnitelmassa sisältöalue ilman omaa tavoitetta; lähin on TE2.t4 (ympäristöjen yhteydet terveyteen).
 
 ### Työn vaatimukset ja voimavarat
 
@@ -101,7 +83,15 @@ Tekijän vaikutus terveyteen kulkee usein välittävän tekijän kautta. Jatkuva
 
 ### Kuka vastaa mistä?
 
-Työnantajalla on vastuu työn turvallisuudesta ja terveellisyydestä. Työpaikalla voi olla työsuojeluvaltuutettu, joka edustaa työntekijöitä turvallisuusasioissa. **Työterveyshuolto** ehkäisee työstä johtuvia terveyshaittoja ja tukee työkykyä, ja työnantajan on järjestettävä se työntekijöilleen ([työterveyshuoltolaki](https://www.finlex.fi/fi/lainsaadanto/2001/1383)). **Nuorella työntekijällä** eli alle 18-vuotiaalla on lisäksi erityinen suoja: laki rajoittaa esimerkiksi työaikoja ja vaarallista työtä ([Työsuojelu.fi](https://tyosuojelu.fi/tyosuhde/nuori-tyontekija)). Rajat muuttuvat ja riippuvat työstä, joten ne luetaan aina viranomaisen sivulta. Kesätyön käytännöistä on lisää [opinto-ohjauksen aiheessa](https://sheikkinen.github.io/lukion-opinto-ohjaus/op2/13-tyonhaku/).
+Työnantajalla on vastuu työn turvallisuudesta ja terveellisyydestä. Työpaikalla voi olla työsuojeluvaltuutettu, joka edustaa työntekijöitä turvallisuusasioissa. **Työterveyshuolto** ehkäisee työstä johtuvia terveyshaittoja ja tukee työkykyä, ja työnantajan on järjestettävä se työntekijöilleen ([työterveyshuoltolaki](https://www.finlex.fi/fi/lainsaadanto/2001/1383)). **Nuorella työntekijällä** eli alle 18-vuotiaalla on lisäksi erityinen suoja: laki rajoittaa esimerkiksi työaikoja ja vaarallista työtä ([Työsuojelu.fi](https://tyosuojelu.fi/tyosuhde/nuori-tyontekija)). Rajat muuttuvat ja riippuvat työstä, joten ne luetaan aina viranomaisen sivulta.
+
+### Työelämä on muuttunut
+
+Vielä 1950-luvulla maatalous oli Suomen pääelinkeino, ja suurin osa tiloista oli pieniä. Sen jälkeen työ siirtyi teollisuuteen ja palveluihin, ja palkkatyö yleistyi ([Tilastokeskus, 2011](https://stat.fi/artikkelit/2011/art_2011-12-12_001.html)). Myöhemmin julkiset palvelut loivat työpaikkoja, naisten työllisyys kasvoi, koulutustaso nousi ja tietotekniikka yleistyi. Samalla kiire ja epävarmuus, esimerkiksi määräaikaiset työsuhteet, lisääntyivät ([Tilastokeskus, 2015](https://stat.fi/tietotrendit/artikkelit/2015/tyoelaman-pitka-kaari-tyoolot-yha-riippuvaisempia-kansainvalisesta-kehityksesta)). Fyysisen työn väheneminen ja tietotyön lisääntyminen ovat tehneet mielen jaksamisesta aiempaa tärkeämmän ([Työterveyslaitos](https://www.ttl.fi/teemat/tyohyvinvointi-ja-tyokyky/tyokyky)).
+
+### Työkykytalo
+
+**Työkykytalo** on Työterveyslaitoksen käyttämä kuva työkyvystä. Siinä on neljä kerrosta alhaalta ylös: terveys ja toimintakyky, osaaminen, arvot, asenteet ja motivaatio sekä johtaminen, työyhteisö ja työolot. Perhe, lähiyhteisö ja yhteiskunnan arvot ja lait vaikuttavat taloon ulkopuolelta. Kuva muistuttaa, että työkyky syntyy ihmisen ja työn yhteisvaikutuksesta.
 
 ### Työhyvinvoinnin tukeminen ja kyselyn lukeminen
 
@@ -162,7 +152,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
 
-1. Osaan kuvata, mitä työhyvinvointi on ja mistä tekijöistä se muodostuu.
+1. Osaan kuvata, mitä työhyvinvointi on ja mistä tekijöistä se muodostuu, ja kertoa, miten työelämä on muuttunut ja mitä työkykytalo kuvaa.
 2. Osaan selittää, miten työn fyysinen ja psykososiaalinen ympäristö vaikuttavat terveyteen ja toimintakykyyn.
 3. Osaan analysoida kuvitteellisen työtilanteen vaatimuksia ja voimavaroja ja ehdottaa perusteltuja keinoja työhyvinvoinnin tukemiseen.
 4. Osaan lukea työpaikan kyselyn tuloksia ja arvioida, mitä ne kertovat ja mitä eivät.
@@ -222,6 +212,14 @@ a) Kuvaa aineiston 1 avulla, mitä työn vaatimuksia ja voimavaroja kyselyssä n
 b) Arvioi aineiston 2 päätelmää aineiston 1 perusteella: mitä kysely osoittaa ja mitä se ei osoita? (10 p)
 
 c) Ehdota kolme toimenpidettä: yksi työn organisointiin, yksi työyhteisöön ja johtamiseen sekä yksi nuoren työntekijän tietoon ja tukeen. Perustele ne ja arvioi, kuka toimii ja mikä niistä on tärkein. (12 p)
+
+### K4: Määrittele ja anna esimerkki, 25 min (20 p)
+
+*Osa A20 · Harjoittelee: Osaan 1, 2*
+
+Määrittele käsitteet A–D ja anna kustakin työhyvinvointiin liittyvä esimerkki. Kirjoita kunkin käsitteen määritelmä, esimerkki ja ero lähikäsitteeseen kustakin käsitteestä enintään 300 merkkiä välilyönteineen. (4 × 5 p)
+
+A) työkykytalo, B) työkykytalon kerros *johtaminen, työyhteisö ja työolot*, C) tietotyö, D) työelämän rakennemuutos.
 
 ## Mallivastaukset
 
@@ -344,6 +342,35 @@ Tehtävänannon osapisteet (a 8 p, b 10 p, c 12 p) sisältävät sekä sisällö
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
+### K4: Määrittele ja anna esimerkki, 25 min (20 p)
+
+**Malliksi kelpaava vastaus**
+
+1. **Työkykytalo:** kuva, joka näyttää työkyvyn nelikerroksisena talona: terveys ja toimintakyky, osaaminen, arvot ja motivaatio sekä johtaminen ja työolot. Esimerkki: Veera (kuvitteellinen) jaksaa kesätyössä, kun osaa työn ja esihenkilö tukee. Malli kuvaa työkykyä, ei mittaa sitä.
+2. **Johtaminen, työyhteisö ja työolot:** talon ylin kerros, johon kuuluvat esihenkilötyö, työyhteisön kulttuuri ja työn järjestelyt. Esimerkki: selkeä perehdytys ja työpari. Ero: yksilön osaaminen on alempi kerros.
+3. **Tietotyö:** työ, jossa tietoa käsitellään ja tuotetaan eikä tehdä pääosin fyysistä työtä. Esimerkki: toimistotyö. Se kuormittaa usein mieltä, kun fyysinen työ kuormittaa enemmän kehoa.
+4. **Työelämän rakennemuutos:** työn siirtyminen alalta toiselle, esimerkiksi maataloudesta teollisuuteen ja palveluihin. Esimerkki: kyläkaupan töitä siirtyy verkkokauppaan. Ero: yksittäisen työpaikan vaihto ei ole rakennemuutos.
+
+**Pisteytys**
+
+*Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
+
+- Jokaisesta käsitteestä 5 p: ydinmääritelmä 2 p, sopiva esimerkki 2 p, ero lähikäsitteeseen 1 p. Yhteensä 4 × 5 p = 20 p.
+- Kustakin käsitteestä yli 300 merkin ylimenevää osaa ei pisteytetä. Pisteet eivät mene alle nollan.
+
+*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (määritelmä nimeää olennaiset piirteet, ei synonyymiä), soveltaminen (esimerkki on työelämästä), analysointi (ero lähikäsitteeseen), arviointi ja argumentointi (tiivis ilmaisu), rakenne (A–D järjestyksessä).
+
+**Yhteensä:** 20 p
+
+**Tyypilliset virheet**
+
+- Määritelmä toistaa käsitteen nimen ("työkykytalo on talo, jossa on työkykyä").
+- Esimerkki ei liity työhön tai on liian yleinen.
+- Työelämän rakennemuutos sekoitetaan yksittäiseen työpaikan vaihtoon.
+- Käsitteen vastaus ylittää 300 merkin rajan, jolloin loppu jää huomiotta.
+
+Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
+
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat kuvata työn vaatimukset ja voimavarat, erottaa fyysisen ja psykososiaalisen työympäristön ja kertoa, mistä nuori työntekijä saa tietoa turvastaan.
@@ -354,11 +381,11 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 1. **Lue** osio Opiskelijalle (8 min).
 2. **Tee** Tehtävä 1 (20 min) ja Tehtävä 2 (15 min). Tehtävä 3 on lisätehtävä (10 min).
-3. **Harjoittele** koetehtävä K1 (25 min) ja tarkista vastauksesi mallivastauksella. K2 ja K3 sopivat kertaukseen.
+3. **Harjoittele** koetehtävä K1 (25 min) ja tarkista vastauksesi mallivastauksella. K2–K4 sopivat kertaukseen.
 4. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 5. **Seuraava askel:** aihe 09 *Mielihyvä ja riippuvuuden mekanismit*. Siinä opit, miten mielihyvä ja oppiminen liittyvät riippuvuuden syntyyn.
 
-**Muistiinpanoihin:** Säilytä Tehtävän 1 vaaka, Tehtävän 3 vaikutusketjut ja Tehtävän 2 tietolähteen osoite lukupäivineen. Kirjoita lisäksi K2:n kuvion kuusi osaa: otsikko, kaksi akselia, asteikko, pylväät ja lähde.
+**Muistiinpanoihin:** Säilytä Tehtävän 1 vaaka, Tehtävän 3 vaikutusketjut ja Tehtävän 2 tietolähteen osoite lukupäivineen. Kirjoita lisäksi työkykytalon neljä kerrosta ja K2:n kuvion kuusi osaa: otsikko, kaksi akselia, asteikko, pylväät ja lähde.
 
 ## Tuntisuunnitelma (75 min)
 
@@ -372,7 +399,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Työskentely | 25 | Tehtävä 1 kokonaan pareittain (20 min), sitten Tehtävän 3 ensimmäinen ketju (5 min). | Kierrä ja kysy: kumpi puoli on painavampi ja mistä näet sen? | Yksin paperilla. | Tehtävä 3 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vertaavat keinoja (vaihe 5) ja valitsevat sen, joka kohdistuu useimpiin. | Järjestä keinot taululle tasoittain ja kysy, kuka toimii. | Yksin: valitse yksi keino. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n luokittelu neljästä tekijästä yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit: yksi uusi asia. | Näytä, mistä K1:n kaksi pistettä syntyy. | Paperilla. | Tarkistus kotona. |
-| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
+| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K4 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
 
@@ -436,6 +463,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *nuori työntekijä = alle 18-vuotias työntekijä*
 - *työsuojeluvaltuutettu = työntekijöiden edustaja turvallisuusasioissa*
 - *henkilöstökysely = työpaikan kysely työntekijöiden kokemuksista*
+- *työkykytalo = kuva, jossa työkyky on neljän kerroksen talo*
+- *tietotyö = työ, jossa käsitellään pääasiassa tietoa*
 
 **Lukeminen, keskittyminen ja jännitys:** Lue tapaus kahdessa osassa ja merkitse vaatimukset ja voimavarat eri väreillä tai merkeillä. Taulukko voi olla helpompi lukea, kun peität muut rivit. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
 

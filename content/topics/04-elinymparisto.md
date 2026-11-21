@@ -18,6 +18,11 @@ official_links:
   - {title: "Ilmansaasteiden terveysvaikutukset (Ilmatieteen laitos)", url: "https://www.ilmatieteenlaitos.fi/saasteet-ja-terveys", publisher: "Ilmatieteen laitos", read: 2026-11-21}
   - {title: "Asuntojen radonia koskevat viitearvot ja määräykset (STUK)", url: "https://stuk.fi/asuntojen-radonia-koskevat-viitearvot-ja-maaraykset", publisher: "Säteilyturvakeskus (STUK)", read: 2026-11-21}
   - {title: "Sisäilma (Työterveyslaitos)", url: "https://www.ttl.fi/teemat/tyohyvinvointi-ja-tyokyky/sisailma", publisher: "Työterveyslaitos", read: 2026-11-21}
+  - {title: "Radon aiheuttaa keuhkosyöpää (STUK)", url: "https://stuk.fi/radon-aiheuttaa-keuhkosyopaa", publisher: "Säteilyturvakeskus (STUK)", read: 2026-11-21}
+  - {title: "Radonkorjaukset (STUK)", url: "https://stuk.fi/radonkorjaukset", publisher: "Säteilyturvakeskus (STUK)", read: 2026-11-21}
+  - {title: "Radonin lähteet (STUK)", url: "https://stuk.fi/radonin-lahteet", publisher: "Säteilyturvakeskus (STUK)", read: 2026-11-21}
+  - {title: "Mökkikausi lähestyy: onhan kaivosi kunnossa? (THL-blogi)", url: "https://blogi.thl.fi/mokkikausi-lahestyy-onhan-kaivosi-kunnossa/", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Terveyttä luonnosta -ohjelma (THL)", url: "https://thl.fi/ajankohtaista/hallitusohjelmaratkaisut/terveytta-luonnosta-ohjelma", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Ihmisen ja ympäristön terveys kulkevat käsi kädessä (THL)", url: "https://thl.fi/nakemyksemme/ihmisen-ja-ympariston-terveys-kulkevat-kasi-kadessa", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Ottawa Charter for Health Promotion (WHO)", url: "https://www.who.int/publications/i/item/ottawa-charter-for-health-promotion", publisher: "World Health Organization", read: 2026-11-21}
   - {title: "Opiskeluterveydenhuolto (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
@@ -63,7 +68,7 @@ linked_materials:
     read: 2026-11-21
 exam_tasks:
   - {id: K1, type: luettele-ja-luokittele, part: A20, points: 20, minutes: 25, codes: [TE2.s3, TE2.t4]}
-  - {id: K2, type: taulukon-taydentaminen, part: B20, points: 20, minutes: 35, codes: [TE2.s3, TE2.t4]}
+  - {id: K2, type: aineiston-lukeminen, part: B20, points: 20, minutes: 35, codes: [TE2.s3, TE2.t4]}
   - {id: K3, type: viitekehyksen-soveltaminen, part: C30, points: 30, minutes: 55, codes: [TE2.s3, TE2.t4]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
@@ -84,50 +89,67 @@ last_reviewed: 2026-11-21
 1. Osaan kuvata rakennetun ympäristön, luonnonympäristön ja psykososiaalisen ympäristön ja selittää, miten ne yhdessä vaikuttavat terveyteen.
 2. Osaan nimetä ympäristön altisteita ja selittää yleisellä tasolla, miten altiste vaikuttaa terveyteen.
 3. Osaan selittää, miksi ympäristön terveysvaikutukset jakautuvat eri ryhmille eri tavoin.
-4. Osaan arvioida kuvitteellisten esimerkkien avulla, miten elintavat ja kulutustottumukset vaikuttavat ympäristöön ja sen kautta terveyteen, ja mikä jää yksilön ulottumattomiin.
-5. Osaan ehdottaa toimia, jotka tekevät ympäristöstä terveydelle suosiollisemman, Ottawan asiakirjan viiden toiminta-alueen avulla.
+4. Osaan arvioida kuvitteellisten esimerkkien avulla, miten elintavat ja kulutus vaikuttavat ympäristöön ja terveyteen ja mikä jää yksilön ulottumattomiin.
+5. Osaan ehdottaa toimia, jotka tekevät ympäristöstä terveydelle suosiollisemman, Ottawan viiden toiminta-alueen avulla.
 
 ### Kolme ympäristöä
 
 **Ympäristöterveys** tarkoittaa sitä, miten ympäristö vaikuttaa terveyteen. Ympäristöjä on kolme, ja ne vaikuttavat toisiinsa.
 
-- **Rakennettu ympäristö** on ihmisen tekemä: rakennukset, tiet, pihat, sisätilat ja liikenneverkko.
+- **Rakennettu ympäristö** on ihmisen tekemä: rakennukset, tiet ja sisätilat.
 - **Luonnonympäristö** on ilma, vesi, maaperä, kasvillisuus ja ilmasto.
-- **Psykososiaalinen ympäristö** on ihmissuhteet, yhteisöt ja ilmapiiri. Siihen syvennytään aiheessa 05.
+- **Psykososiaalinen ympäristö** on ihmissuhteet ja ilmapiiri. Siihen syvennytään aiheessa 05.
 
-Ympäristö voi suojata tai kuormittaa. Puisto voi rauhoittaa, mutta hyvä puisto edellyttää, että sinne pääsee turvallisesti. Tämä on TE1-aiheessa [Terveys voimavarana](../../te1/01-terveys-voimavarana/) esitetyn kehämallin uloin kerros: yhteiskunnalliset ja globaalit tekijät vaikuttavat siihen, mitä ympärillä on.
+Ympäristö voi suojata tai kuormittaa. Se on TE1:n [kehämallin](../../te1/01-terveys-voimavarana/) uloin kerros.
 
 ### Altiste ja vaikutusmekanismi
 
-**Altiste** on ympäristössä oleva tekijä, jolle ihminen altistuu. Altisteen vaikutus kulkee ketjussa: altiste → mekanismi → vaikutus terveyteen. Tässä tärkeimmät.
+**Altiste** on ympäristön tekijä, jolle ihminen altistuu. Vaikutus kulkee ketjussa altiste → mekanismi → vaikutus.
 
-- **Ilmansaasteet.** Pienhiukkaset kulkeutuvat hengitysilman mukana elimistöön ja ärsyttävät hengitysteitä. Hiukkaset voivat vaikuttaa erityisesti herkkiin ryhmiin. [Ilmatieteen laitoksen ilmanlaatuindeksi](https://www.ilmatieteenlaitos.fi/ilmanlaatuindeksi) kertoo ilmanlaadun sanallisina luokkina, ja sivu [Ilmansaasteiden terveysvaikutukset](https://www.ilmatieteenlaitos.fi/saasteet-ja-terveys) selittää vaikutukset.
-- **Melu.** Jatkuva voimakas ääni pitää elimistön valmiustilassa. Se häiritsee keskittymistä ja unta ja voi lisätä kuormitusta.
-- **Sisäilma.** Riittämätön ilmanvaihto ja kosteusvauriot voivat heikentää sisäilman laatua. Se voi aiheuttaa epämukavuutta ja oireita. [Työterveyslaitoksen sivu](https://www.ttl.fi/teemat/tyohyvinvointi-ja-tyokyky/sisailma) kertoo, mikä sisäilmaan vaikuttaa.
-- **Radon.** Radon on maaperästä sisäilmaan tuleva radioaktiivinen kaasu. Pitkäaikainen altistuminen lisää keuhkosairauksien riskiä. Sisäilman radonille on viitearvot, ja pitoisuuden voi mitata. [STUKin sivu](https://stuk.fi/asuntojen-radonia-koskevat-viitearvot-ja-maaraykset) kertoo ajantasaiset arvot.
-- **Vesi.** Puhdas juomavesi on terveyden perusedellytys. Vesilaitokset valvovat veden laatua.
-- **Lämpö.** Helteet kuormittavat erityisesti kaupungeissa, joissa asfaltti ja rakennukset varastoivat lämpöä.
-- **Viheralueet** ovat suojaava tekijä: ne tarjoavat paikan liikkua, rauhoittua ja viilentää ympäristöä.
+- **Ilmansaasteet:** pienhiukkaset kulkeutuvat hengitysteihin ja ärsyttävät niitä, erityisesti herkillä. [Ilmanlaatuindeksi](https://www.ilmatieteenlaitos.fi/ilmanlaatuindeksi) kertoo ilmanlaadun sanoin.
+- **Melu:** jatkuva voimakas ääni pitää elimistön valmiustilassa ja häiritsee keskittymistä ja unta.
+- **Lämpö:** helle kuormittaa kaupungeissa, joissa asfaltti ja rakennukset varastoivat lämpöä.
 
-Pitoisuuksia ja raja-arvoja ei kirjoiteta tähän, koska ne muuttuvat. Ne löytyvät linkitetyiltä sivuilta.
+Pitoisuuksia ei kirjoiteta tähän, koska ne muuttuvat.
+
+### Sisäilma
+
+[Työterveyslaitos](https://www.ttl.fi/teemat/tyohyvinvointi-ja-tyokyky/sisailma) kertoo sisäilman lähteistä. Ilmanvaihdon puute voimistaa muiden haittoja.
+
+| Altiste | Lähde | Mahdollinen vaikutus |
+|---|---|---|
+| kosteus- ja homevaurio | kostunut rakenne | hengitystieoireet |
+| pienhiukkaset | liikenne, energiantuotanto | hengitysteiden ärsytys |
+| tupakansavu | lähellä tupakointi | ärsytys, haitta sivullisille |
+| haihtuvat yhdisteet | rakennus- ja sisustusmateriaalit | haju, oireet |
+| siivousaineiden päästöt | siivous | haju, ärsytys |
+| pöly ja kuidut | rakenteet, ilmanvaihto | nenän ja silmien ärsytys |
+| siitepöly | ulkoilma | allergiaoireet |
+| radon | maaperä | keuhkosyövän riski |
+| ilmanvaihdon puute | tukkoinen ilma | tunkkaisuus, epämukavuus |
+| kuuma, kylmä, kuiva tai vetoinen ilma | lämmitys, ilmanvaihto | epämukavuus |
+
+### Radon
+
+**Radon** on maaperästä rakennukseen tulevaa radioaktiivista kaasua, jota ei haista eikä näe. Hengitettynä sen säteily osuu keuhkoihin, ja pitkä altistus lisää **keuhkosyövän** riskiä. Radon on tupakoinnin jälkeen toiseksi tärkein keuhkosyövän syy. Radon lisää riskiä sekä tupakoivilla että tupakoimattomilla, mutta tupakoivilla se lisää absoluuttista keuhkosyöpäriskiä enemmän, koska heidän perusriskinsä on jo suurempi, ja useimmat radonin aiheuttamat keuhkosyövät todetaan tupakoivilla ([STUK](https://stuk.fi/radon-aiheuttaa-keuhkosyopaa)). Tulos koskee ryhmiä: yksittäisen ihmisen riskiä on vaikea ennustaa. Pitoisuuteen vaikuttavat maaperän geologia, rakennuksen tiiveys ja ilmanvaihto, sillä alipaine imee kaasua perustan halkeamista ([STUK](https://stuk.fi/radonin-lahteet)). Mittaus kestää vähintään kaksi kuukautta, ja kunnan terveydensuojeluviranomainen vastaa radonkysymyksiin ([STUK](https://stuk.fi/asuntojen-radonia-koskevat-viitearvot-ja-maaraykset)). Korjaus onnistuu esimerkiksi radonputkella ja puhaltimella tai tiivistämällä ([STUK](https://stuk.fi/radonkorjaukset)).
+
+### Vesi ja luonto
+
+**Vesi.** Puhdas juomavesi on terveyden perusedellytys. Kaivon omistaja vastaa itse kaivovedestä: kirkas vesi voi sisältää mikrobeja tai kemikaaleja, joten se tutkitaan säännöllisesti. Viemärivuoto ja pintavesi voivat pilata kaivon, ja kunnan terveydensuojeluviranomainen neuvoo ongelmissa ([THL](https://blogi.thl.fi/mokkikausi-lahestyy-onhan-kaivosi-kunnossa/)).
+
+**Luonto** on voimavara ja riski. Lähiluonto lievittää stressiä, kannustaa liikkumaan ja viilentää ([THL](https://thl.fi/ajankohtaista/hallitusohjelmaratkaisut/terveytta-luonnosta-ohjelma)). Riski on esimerkiksi tulva tai kuivuus, joka uhkaa vesilähteitä, ja ympäristön tuhoutumisen aiheuttama ahdistus.
 
 ### Vaikutukset eivät jakaudu tasan
 
-Samalle altisteelle altistuvat kaikki eivät saa samaa vaikutusta. Altistumisen määrään vaikuttaa, missä asuu, opiskelee tai työskentelee. Herkkyyteen vaikuttavat ikä ja aiemmat terveysasiat. Esimerkiksi hengitysilmaan liittyvät haitat ovat herkille ryhmille todennäköisempiä. Lisäksi kaikilla ei ole mahdollisuutta valita asuinpaikkaa tai korjata tilaa. Tätä kutsutaan **terveyden eriarvoisuudeksi**. [THL:n näkemys](https://thl.fi/nakemyksemme/ihmisen-ja-ympariston-terveys-kulkevat-kasi-kadessa) kuvaa, miten ihmisen ja ympäristön terveys liittyvät toisiinsa.
+Herkkyys (ikä, sairaudet) ja altistumisen määrä (missä asuu, opiskelee, työskentelee) vaihtelevat, eikä kaikilla ole mahdollisuutta valita asuinpaikkaa tai korjata tilaa. Tätä kutsutaan **terveyden eriarvoisuudeksi**.
 
-### Elintavat, kulutus ja ympäristö
+### Elintavat ja ympäristö
 
-Ihmisen valinnat vaikuttavat ympäristöön. Kulkutapa, kuluttaminen ja jätteet muuttavat ilmanlaatua, melua ja luonnonvarojen kulutusta. Ympäristö vaikuttaa takaisin terveyteen. Valinnat tehdään kuitenkin olosuhteissa: bussiyhteyksiä, pyöräteitä ja korjattavia tuotteita ei ole kaikkialla. Siksi yksilön valinnat ovat tärkeitä, mutta ne eivät yksin riitä. Aihe jatkuu aiheessa [Kestävä kehitys ja terveys](../../te2/06-kestava-kehitys/).
+Kulkutapa, kuluttaminen ja jätteet muuttavat ilmanlaatua, melua ja luonnonvarojen kulutusta, ja ympäristö vaikuttaa takaisin terveyteen. Valinnat tehdään olosuhteissa, ja siksi yksilön valinnat eivät yksin riitä. Aihe jatkuu aiheessa [Kestävä kehitys ja terveys](../../te2/06-kestava-kehitys/).
 
-### Miten ympäristöä voi tehdä terveydelle suosiollisemmaksi?
+### Miten ympäristöä parannetaan?
 
-WHO:n Ottawan asiakirjan ([WHO](https://www.who.int/publications/i/item/ottawa-charter-for-health-promotion)) viisi toiminta-aluetta tunnet jo aiheesta [Terveys voimavarana](../../te1/01-terveys-voimavarana/). Ympäristöön ne soveltuvat näin:
-
-- **Terveyttä edistävä yhteiskuntapolitiikka:** päättäjät arvioivat kaavoituksen ja liikenteen terveysvaikutukset.
-- **Terveyttä tukevat ympäristöt:** koulun, työpaikan ja asuinalueen tilat suunnitellaan terveyttä tukeviksi.
-- **Yhteisön toiminta:** asukkaat ja opiskelijat osallistuvat suunnitteluun.
-- **Henkilökohtaiset taidot:** ihminen osaa havaita ongelman ja kertoa siitä oikealle taholle.
-- **Terveyspalvelujen suuntaaminen uudelleen:** palvelut huomaavat ympäristön yhteyden oireisiin.
+Ottawan asiakirjan ([WHO](https://www.who.int/publications/i/item/ottawa-charter-for-health-promotion)) viisi toiminta-aluetta ympäristössä: terveyttä edistävä yhteiskuntapolitiikka (päättäjät arvioivat kaavoituksen terveysvaikutukset), terveyttä tukevat ympäristöt (tilat suunnitellaan terveyttä tukeviksi), yhteisön toiminta (asukkaat osallistuvat suunnitteluun), henkilökohtaiset taidot (ongelman havaitseminen ja kertominen oikealle taholle) ja terveyspalvelujen suuntaaminen uudelleen (palvelut huomaavat ympäristön ja oireiden yhteyden).
 
 ## Tehtävät
 
@@ -196,32 +218,35 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE2 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE3-moduuleista.
 
-### K1: Luettele ja luokittele, 25 min (20 p)
+### K1: Luettele sisäilman altisteet, 25 min (20 p)
 
-*Osa A20 · Harjoittelee: Osaan 1, 2*
+*Osa A20 · Harjoittelee: Osaan 2*
 
-Luettele kahdeksan ympäristön terveyteen vaikuttavaa tekijää ja luokittele ne rakennettuun ympäristöön, luonnonympäristöön tai psykososiaaliseen ympäristöön. Perustele luokka lyhyesti (kahdeksan tekijää, 16 p). Kirjoita lisäksi yksi lause siitä, miten kaksi eri luokan tekijää vaikuttavat toisiinsa (4 p).
+Luettele kymmenen sisäilman terveyteen vaikuttavaa tekijää. Kerro kustakin lähde ja mahdollinen vaikutus. Tekijä 1 p ja lähde sekä vaikutus yhdessä 1 p, enintään kymmenen altistetta (20 p). Vastauksen enimmäispituus on 1 200 merkkiä välilyönteineen. Rajan ylittävästä vastauksesta vähennetään 1 p ja selvästä ylityksestä 2 p.
 
-### K2: Taulukon täydentäminen, 35 min (20 p)
+### K2: Aineiston lukeminen, 35 min (20 p)
 
-*Osa B20 · Harjoittelee: Osaan 1, 2, 3*
+*Osa B20 · Harjoittelee: Osaan 2, 3*
 
-*Aineisto (kuvitteellinen koulun tilakysely):* Kuusirannan lukion opiskelijat kuvasivat tiloja. Taulukon ensimmäinen rivi on täytetty esimerkiksi.
+*Aineisto (kuvitteellinen kuvaus kartasta):* Koivuniemen kunnan radonkartta jakaa kunnan viiteen alueeseen. Väri kertoo, kuinka todennäköisesti asuntojen sisäilman radon ylittää viitearvon: vihreä on pieni, keltainen kohtalainen ja punainen suuri todennäköisyys. Kartan alareunassa lukee: *Kartta kuvaa alueita, ei yksittäisiä taloja. Oman talon pitoisuuden saa selville vain mittaamalla.*
 
-*Taulukko 1 (kuvitteellinen): Tilakysely*
+*Taulukko 1 (kuvitteellinen): Koivuniemen alueet*
 
-| Tila | Opiskelijoiden havainto | Altiste tai tekijä | Mekanismi | Mahdollinen vaikutus |
+| Alue | Maaperä | Talot | Kartan väri | Mittauksia |
 |---|---|---|---|---|
-| Liikuntasali | kaikuu ja on kovaääninen | melu | jatkuva kova ääni pitää elimistön valmiustilassa ja vaikeuttaa kuulemista | keskittymisen vaikeus ja väsymys |
-| Luokka 12 | tunkkainen, katossa kosteuden jälki | ? | ? | ? |
-| Piha | kovaa asfalttia, ei varjoa, vilkas tie vieressä | ? | ? | ? |
-| Ruokala | hälinäinen, mutta siellä tapaa kavereita | ? | ? | ? |
+| Harjukylä | läpäisevä sora | vanhoja omakotitaloja | punainen | paljon |
+| Kallioranta | halkeillut kallio | kerrostaloja ja omakotitaloja | punainen | vähän |
+| Savitasanko | tiivis savi | uusia tiiviitä taloja | vihreä | vähän |
+| Keskusta | täyttömaa | kerrostaloja, hyvä ilmanvaihto | keltainen | ei yhtään |
+| Rantakaista | hiekka | vanhoja, tiivistämättömiä taloja | keltainen | vähän |
 
-a) Täydennä taulukon kolme viimeistä riviä: altiste tai tekijä, mekanismi ja mahdollinen vaikutus. (9 p)
+a) Kuvaile, mitä kartta ja taulukko näyttävät alueittain. (6 p)
 
-b) Selitä, miksi sama tila voi vaikuttaa eri opiskelijoihin eri tavoin. (6 p)
+b) Selitä, miten radon vaikuttaa terveyteen, miksi pitoisuus eroaa alueiden ja talojen välillä ja miksi riski ei ole kaikille sama. (8 p)
 
-c) Valitse yksi tila, jonka parantaminen aloitetaan ensin, ja perustele valinta. (5 p)
+c) Arvioi kartan rajoja ja kerro, mitä asukas ja kunta voivat tehdä. (6 p)
+
+Vastauksen enimmäispituus on 3 000 merkkiä välilyönteineen. Rajan ylittävästä vastauksesta vähennetään 1 p ja selvästä ylityksestä 2 p.
 
 ### K3: Viitekehyksen soveltaminen, 55 min (30 p)
 
@@ -239,82 +264,78 @@ c) Kirjoita, mitä opiskelijoiden yksittäiset kulutus- ja kulkuvalinnat voivat 
 
 ## Mallivastaukset
 
-### K1: Luettele ja luokittele, 25 min (20 p)
+### K1: Luettele sisäilman altisteet, 25 min (20 p)
 
-**Malliksi kelpaava vastaus**
+**Malliksi kelpaava vastaus** (noin 600 merkkiä)
 
-| Tekijä | Luokka | Perustelu |
-|---|---|---|
-| ilmansaasteet | luonnonympäristö | ilma on osa luontoa, ja pienhiukkaset kulkeutuvat hengitysteihin |
-| radon | luonnonympäristö | kaasu tulee maaperästä sisätiloihin |
-| juomavesi | luonnonympäristö | veden laatu on terveyden perusedellytys |
-| viheralueet | luonnonympäristö | tarjoavat paikan liikkua ja rauhoittua |
-| melu | rakennettu ympäristö | liikenne ja rakennukset tuottavat tai vahvistavat ääntä |
-| sisäilma | rakennettu ympäristö | ilmanvaihto ja kosteusvauriot ovat rakennuksen ominaisuuksia |
-| ystävyyssuhteet | psykososiaalinen ympäristö | tuki ja kuuluminen suojaavat jaksamista |
-| kouluyhteisön ilmapiiri | psykososiaalinen ympäristö | luottamus tai kiusaaminen vaikuttaa jaksamiseen |
-
-*Yhteys:* Vilkas tie (rakennettu) lisää ilmansaasteita (luonto) ja melua, joka voi heikentää ilmapiiriä (psykososiaalinen), kun kaikilla on kiire ja väsymystä.
+1. kosteus- ja homevaurio: kostunut rakenne; hengitystieoireet
+2. pienhiukkaset: liikenne ja energiantuotanto; hengitysteiden ärsytys
+3. tupakansavu: lähellä tupakointi; ärsytys ja haitta sivullisille
+4. haihtuvat yhdisteet: rakennus- ja sisustusmateriaalit; haju ja oireet
+5. siivousaineiden päästöt: siivous; haju ja ärsytys
+6. pöly ja kuidut: rakenteet ja ilmanvaihto; nenän ja silmien ärsytys
+7. siitepöly: ulkoilma; allergiaoireet
+8. radon: maaperä; keuhkosyövän riski
+9. ilmanvaihdon puute: tukkoinen ilma; tunkkaisuus ja epämukavuus
+10. kuiva, kylmä tai vetoinen ilma: lämmitys ja ilmanvaihto; epämukavuus
 
 **Pisteytys**
 
 *Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
 
-- Jokainen erillinen tekijä oikeassa luokassa ja perusteluineen 2 p (tekijä 1 p, luokka ja perustelu 1 p), enintään kahdeksan tekijää eli 16 p. Toistot ja ylimääräiset tekijät 0 p.
-- Yksi lause kahden eri luokan tekijän yhteydestä 4 p: kaksi tekijää nimetty 1 p, yhteys selitetty 3 p.
+- Jokainen erillinen sisäilman tekijä 1 p ja siihen kuuluva lähde sekä vaikutus yhdessä 1 p, enintään kymmenen tekijää eli 20 p. Toistot ja ylimääräiset tekijät 0 p.
+- Merkkirajan ylitys: −1 p, selvä ylitys −2 p. Pisteet eivät mene alle nollan.
 
-*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (luokat oikein), soveltaminen (perustelu sitoo tekijän luokkaan), analysointi (yhteys luokkien välillä), arviointi ja argumentointi (selkeä rakenne).
+*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (tekijä, lähde ja vaikutus erotettu), soveltaminen (sisäilman tekijät eikä ulkoympäristö), analysointi (vaikutus perustuu mekanismiin), arviointi ja argumentointi (tiivis, selkeä lista).
 
 **Yhteensä:** 20 p
 
 **Tyypilliset virheet**
 
-- Sama tekijä mainitaan kahteen kertaan eri sanoin, ja se lasketaan yhdeksi.
-- Luokittelu on oikein, mutta perustelu puuttuu.
-- Kaikki tekijät ovat samasta luokasta, esimerkiksi vain luonnosta.
-- Yhteys-lause kertoo vain, että tekijät "vaikuttavat toisiinsa", ilman ketjua.
+- Sama altiste lasketaan kahdesti eri sanoin, esimerkiksi home ja kosteusvaurio.
+- Luetellaan tekijä ilman lähdettä tai vaikutusta.
+- Mukaan otetaan melu tai muu ulkoympäristön tekijä, joka ei vaikuta sisäilmaan. Sisäilman terveyteen vaikuttava tekijä voi olla epäpuhtaus tai ilmanlaatuun liittyvä olosuhde, kuten puutteellinen ilmanvaihto tai kuiva ilma.
+- Vaikutus esitetään varmana kaikille ("radon aiheuttaa syövän"), vaikka riski kasvaa altistuksen mukana.
+- Vastaus ylittää merkkirajan, koska jokaista altistetta selitetään pitkästi.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K2: Taulukon täydentäminen, 35 min (20 p)
+### K2: Aineiston lukeminen, 35 min (20 p)
 
-**Malliksi kelpaava vastaus**
+**Malliksi kelpaava vastaus** (noin 1 500 merkkiä)
 
-**a)**
+**a)** Kartan mukaan Harjukylä ja Kallioranta ovat punaisia: niissä viitearvon ylitys on todennäköisin. Keskusta ja Rantakaista ovat keltaisia ja Savitasanko vihreä. Taulukon 1 mukaan punaisilla alueilla maaperä on läpäisevää soraa tai halkeillutta kalliota, ja vihreällä alueella se on tiivistä savea. Keskustasta ei ole yhtään mittausta, ja Kalliorannassakin niitä on vähän.
 
-| Tila | Altiste tai tekijä | Mekanismi | Mahdollinen vaikutus |
-|---|---|---|---|
-| Luokka 12 | sisäilma: riittämätön ilmanvaihto ja kosteusvaurio | hengitysilman laatu heikkenee, ja kosteus voi lisätä ärsyttäviä aineita | epämukavuus, oireet ja keskittymisen heikkeneminen |
-| Piha | kuumuus ja ilmansaasteet | asfaltti varastoi lämpöä, varjoa ei ole, ja tien liikenne lisää pienhiukkasia | kuormittuminen helteellä, hengitysteiden ärsytys ja piha jää käyttämättä |
-| Ruokala | melu (kuormittava) ja yhteisö (suojaava) | hälinä kuormittaa kuuloa, mutta kavereiden tapaaminen tukee kuulumisen tunnetta | väsymys ja samalla tuki jaksamiseen |
+**b)** Radon on maaperästä sisään tulevaa radioaktiivista kaasua. Hengitettynä sen säteily osuu keuhkoihin, ja pitkä altistus lisää keuhkosyövän riskiä. Pitoisuus riippuu maaperästä: läpäisevä sora ja halkeillut kallio päästävät kaasua enemmän kuin tiivis savi. Siihen vaikuttavat myös talo ja ilmanvaihto: alipaine imee kaasua perustan halkeamista, ja tiivistämätön vanha talo päästää sitä sisään. Riski ei ole kaikille sama, koska se kasvaa altistuksen määrän ja keston mukana ja koska radon lisää absoluuttista keuhkosyöpäriskiä tupakoivilla enemmän kuin tupakoimattomilla: tupakoivien perusriski on jo suurempi, ja useimmat radonin aiheuttamat keuhkosyövät ovat tupakoivilla. Tulos koskee ryhmiä, joten yksittäisen ihmisen riskiä on vaikea ennustaa.
 
-**b)** Sama tila ei vaikuta kaikkiin samoin. Herkkyys vaihtelee: hengitysilmaan liittyvät haitat ovat todennäköisempiä niille, joilla on jo hengitysteiden herkkyyttä. Altistumisen määrä vaihtelee: joku viettää tilassa koko päivän ja toinen vain tunnin. Myös tilojen merkitys vaihtelee. Hälinäinen ruokala voi olla ahdistava toiselle ja tärkeä kohtaamispaikka toiselle.
-
-**c)** Aloittaisin Luokka 12:sta, koska sisäilma vaikuttaa kaikkiin, jotka siellä opiskelevat, ja altistuminen kestää koko oppitunnin. Korjaus (ilmanvaihto ja kosteusvaurion selvitys) kohdistuu syyhyn eikä vain oireisiin. Piha tulisi toiseksi, koska sen varjostus vaatii suunnittelua. Ruokalan melua voi vähentää nopeasti ja edullisesti vaimentimilla.
+**c)** Kartta kertoo todennäköisyyden alueelle eikä yhden talon pitoisuutta, ja samallakin alueella pitoisuudet vaihtelevat taloittain. Keskustasta ei ole mittauksia, joten sen väri on arvio. Kartta ei myöskään kerro, kuka alueella asuu tai ketkä tupakoivat. Asukas voi mitata asuntonsa radonin vähintään kahden kuukauden mittauksella ja korjata tarvittaessa esimerkiksi radonputkella ja puhaltimella. Kunta voi tiedottaa, kannustaa mittaamaan ja neuvoa radonkysymyksissä.
 
 **Pisteytys**
 
 *Sisältö 10 p:*
 
-- Kuusi näkökohtaa selitettynä: (1) luokan sisäilma ja mekanismi, (2) pihan lämpö tai ilmansaasteet ja mekanismi, (3) ruokalan melu ja suojaava yhteisö, (4) yksilöiden herkkyyserot, (5) altistumisen määrä tai tilan merkitys, (6) perusteltu priorisointi. Kaksi selitettyä 3 p, neljä 6 p, kuusi 9 p. Yhteys näkökohtien välillä (esimerkiksi ruokalan melu ja yhteisö samassa tilassa) +1 p.
+- a) Kolme aluetta tai väriä luettu oikein aineistoon viitaten 1 p kustakin. Yhteensä 3 p.
+- b) Radonin mekanismi ja keuhkosyöpä 2 p; tupakoivilla radon lisää absoluuttista riskiä enemmän, koska perusriski on jo suurempi 1 p; kaksi syytä pitoisuuden eroille (maaperän geologia, talon tiiveys tai ilmanvaihto) 1 p kummastakin. Yhteensä 5 p.
+- c) Kartan raja (alue ei talo, vähän mittauksia) 1 p; mittaus tai korjaus nimetty 1 p. Yhteensä 2 p.
 
 *Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
-- 8–10 p: altiste, mekanismi ja vaikutus on yhdistetty taulukon havaintoihin, herkkyys- ja altistumiserot on selitetty, ja priorisointi punnitsee vaikutusta, kestoa ja kustannusta.
-- 4–7 p: taulukko on oikein, mutta b tai c on yleisellä tasolla.
-- 0–3 p: vastaus toistaa havaintoja nimeämättä altistetta tai mekanismia.
+- 8–10 p: kartta ja taulukko yhdistetään alueiden eroihin, mekanismi selitetään ketjuna, ryhmätason tieto erotetaan yksittäisen riskistä ja toimet perustellaan aineiston rajoilla.
+- 4–7 p: aineisto luetaan oikein, mutta selitykset tai rajat jäävät yleiselle tasolle.
+- 0–3 p: vastaus toistaa värejä tai toteaa radonin vaaralliseksi ilman mekanismia.
 - Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
+- Merkkirajan ylitys: −1 p, selvä ylitys −2 p.
 
-Tehtävänannon osapisteet (a 9 p, b 6 p, c 5 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+Tehtävänannon osapisteet (a 6 p, b 8 p, c 6 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
 **Yhteensä:** 20 p
 
 **Tyypilliset virheet**
 
-- Altiste nimetään, mutta mekanismi puuttuu ("melu on huono").
-- Vaikutukset esitetään varmoina kaikille, vaikka ne riippuvat altistuksesta ja herkkyydestä.
-- Ruokalasta nähdään vain haitta tai vain hyöty.
-- Valinta c perustellaan sillä, että tila on "pahin", ilman vertailua.
+- Kartan väriä luetaan talon tuloksena: "punaisella alueella kaikilla on liikaa radonia".
+- Radonin vaikutus mainitaan, mutta tupakoinnin ja radonin yhteys unohtuu, tai sanotaan radonin kertovan riskin "moninkertaiseksi" tupakoivilla ilman eroa suhteellisen ja absoluuttisen riskin välillä.
+- Pitoisuuden eroja selitetään vain maaperällä, vaikka talon tiiveys ja ilmanvaihto vaikuttavat.
+- Vastaus pelottelee eikä kerro, että mittaus ja korjaus ovat mahdollisia.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -332,7 +353,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 *Sisältö 15 p:*
 
-- Jokaisesta viidestä toiminta-alueesta yksi ehdotus: konkreettinen toimi 1 p, kuka toimii 1 p, vaikutus terveyteen 1 p. Yhteensä 5 × 3 p = 15 p.
+- a) Jokaisesta viidestä toiminta-alueesta 2 p: konkreettinen toimi ja toimija 1 p, vaikutus terveyteen 1 p. Yhteensä 10 p. b) Laajimmin tavoittava ehdotus perusteltu 1 p, nopein perusteltu 1 p, ero tavoittavuuden ja nopeuden välillä 1 p. c) Mitä yksilön valinnat voivat muuttaa 1 p, mitä ne eivät voi muuttaa (rakenteet, päättäjät) 1 p. Yhteensä 15 p.
 
 *Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
