@@ -19,7 +19,7 @@ teacher:
   role_column: Opettajan rooli          # the teacher's column in every lesson plan table
 
 # ePerusteet: the core curriculum (peruste), the subject (oppiaine) and its modules.
-# TE2 (6834848) and TE3 (6834849) are added when their topics exist.
+# TE3 (6834849) is added when its topics exist.
 curriculum:
   peruste_id: 6828810
   oppiaine_id: 6834386
@@ -27,10 +27,13 @@ curriculum:
   general_aims_route: opetussuunnitelma # the page that lists the general objectives
   modules:
     - {code: TE1, id: 6834847, route: te1}
+    - {code: TE2, id: 6834848, route: te2}
   expected_counts:                      # the fetch fails if ePerusteet has a different number of codes
     TE.yt: 5
     TE1.t: 3
     TE1.s: 7
+    TE2.t: 5
+    TE2.s: 8
 
 topics:
   max_order: 30

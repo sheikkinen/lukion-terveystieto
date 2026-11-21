@@ -22,6 +22,12 @@ modules:
     credits: 2
     mandatory: true
     objectives_lead: Moduulin tavoitteena on, että opiskelija
+  TE2:
+    id: 6834848
+    name: Terveys ja ympäristö
+    credits: 2
+    mandatory: false
+    objectives_lead: Moduulin tavoitteena on, että opiskelija
 codes:
   TE.yt1:
     kind: yleinen_tavoite
@@ -83,3 +89,55 @@ codes:
     kind: sisalto
     module: TE1
     text: opiskeluhyvinvointi
+  TE2.t1:
+    kind: tavoite
+    module: TE2
+    text: tietää tutkimustiedon hankkimisen periaatteista ja tutkimusprosessin vaiheista sekä osaa soveltaa näitä tietoja ja kuvata perustellen, miten terveyteen, terveyskäyttäytymiseen ja toimintakykyyn liittyvistä aiheista voidaan saada luotettavaa ja monipuolista tutkimustietoa
+  TE2.t2:
+    kind: tavoite
+    module: TE2
+    text: osaa hakea tietoa ja pystyy vertailemaan eri lähteiden luotettavuutta
+  TE2.t3:
+    kind: tavoite
+    module: TE2
+    text: osaa kuvata terveysviestinnän muotoja ja vaikutuskeinoja sekä analysoida terveysviestinnän merkitystä ihmisten terveyskäsityksille ja terveydelle
+  TE2.t4:
+    kind: tavoite
+    module: TE2
+    text: osaa esitellä ja analysoida fyysisen ja psykososiaalisen ympäristön yhteyksiä ja vaikutuksia terveydelle sekä arvioida omien elintapojen ja kulutustottumusten merkitystä ympäristön terveydelle ja terveellisyydelle
+  TE2.t5:
+    kind: tavoite
+    module: TE2
+    text: osaa eritellä riippuvuuden muotoja ja niiden syntyyn vaikuttavia tekijöitä sekä analysoida riippuvuuksiin liittyviä terveys- ja muita haittoja.
+  TE2.s1:
+    kind: sisalto
+    module: TE2
+    text: tieteellinen tieto ja arkitieto, ajattelun vinoumia, tutkimusprosessin vaiheet, tutkimustiedon luotettavuuden arviointi
+  TE2.s2:
+    kind: sisalto
+    module: TE2
+    text: terveysviestinnän muotoja ja vaikutuskeinoja, terveysviestinnän merkityksen ja luotettavuuden arviointi
+  TE2.s3:
+    kind: sisalto
+    module: TE2
+    text: rakennetun ympäristön, luonnonympäristön ja psykososiaalisen ympäristön yhteyksiä ja vaikutuksia terveyteen
+  TE2.s4:
+    kind: sisalto
+    module: TE2
+    text: kestävä kehitys ja terveys
+  TE2.s5:
+    kind: sisalto
+    module: TE2
+    text: ympäristöjen turvallisuus ja väkivallan ehkäisy
+  TE2.s6:
+    kind: sisalto
+    module: TE2
+    text: työhyvinvointi
+  TE2.s7:
+    kind: sisalto
+    module: TE2
+    text: riippuvuuteen vaikuttavat biologiset, psyykkiset ja sosiaaliset mekanismit
+  TE2.s8:
+    kind: sisalto
+    module: TE2
+    text: keskeiset aine- ja toiminnalliset riippuvuudet, riippuvuuksien syitä ja ehkäisykeinoja, riippuvuuksien aiheuttamia haittoja

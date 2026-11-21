@@ -268,3 +268,79 @@ Recommended on every page, required on flagged pages. Three parts, in order:
 - Never copy text, pictures or tasks from publishers, YTL, OPH or aoe.fi; never reword a past YTL task.
 - Never name real private people; never write a local path, a key or a personal e-mail.
 - Never embed images, scripts, fonts or iframes from other hosts; plain links only.
+
+## 15. TE2 *Terveys ja ympäristö*: additions (brief 004, 2026-11-21)
+
+Sample topic: `content/topics/01-tieto-ja-vinoumat.md` (`module: TE2`). §1–14 apply; this section adds to them.
+
+**Files and order.** `content/topics/NN-slug.md`, `id: te2-NN-slug`. `order` is unique across the site, so TE2 uses
+`order: 10 + NN` (01 → 11). Slugs, unless the brief says otherwise: 01 tieto-ja-vinoumat, 02 tutkimustieto,
+03 terveysviestinta, 04 elinymparisto, 05 psykososiaalinen-ymparisto, 06 kestava-kehitys, 07 turvallisuus-ja-vakivalta,
+08 tyohyvinvointi, 09 riippuvuuden-mekanismit, 10 riippuvuudet. For s4–s6 the page says once that the content area has
+no own objective and TE2.t4 is the nearest. Link TE1 by page (`../../te1/03-terveyskulttuuri/`); never re-teach it.
+
+**TE2 glossary** (§3 rules apply):
+
+| Use | Not | Note |
+|---|---|---|
+| tieteellinen tieto; arkitieto; kokemustieto | maalaisjärki (as a term), "tiede sanoo" | Kokemustieto is valuable but is not näyttö of a cause. |
+| vinouma; vahvistusvinouma, saatavuusharha, auktoriteettiharha | ajatusvirhe (as umbrella), bias | Also *yleistäminen yksittäistapauksesta*, *jälkeen–siksi-päätelmä*. |
+| tutkimusasetelma; poikkileikkaus-, seuranta-, interventio- | koeasetelma (for all) | *satunnaistettu koe*; *tapaus-verrokkitutkimus*. |
+| otos; edustavuus; korrelaatio eli yhteys; syy-seuraussuhde | "todistaa", "tutkitusti" | A link is not a cause; name the sekoittava tekijä. |
+| luotettavuus (reliabiliteetti); pätevyys (validiteetti) | paikkansapitävyys (as a term) | Gloss the Latin forms once. |
+| vertaisarviointi; järjestelmällinen katsaus; meta-analyysi; hoitosuositus | "tutkimus osoitti" for one study | Näytön kokonaisuus outweighs one study. |
+| rekisteritieto; kyselytieto | tilasto (for both) | |
+| terveysviestintä; vaikutuskeino; kaupallinen viestintä; vaikuttajamarkkinointi | propaganda (as a term) | |
+| misinformaatio; disinformaatio; viherpesu | valeuutinen (as a term) | Dis- is deliberate, mis- is not. |
+| rakennettu, luonnon-, psykososiaalinen ja mediaympäristö; altiste; ympäristöterveys | saaste (for every altiste) | |
+| kestävä kehitys: ekologinen, taloudellinen, sosiaalinen, kulttuurinen; terveys kaikissa politiikoissa | | Four dimensions. |
+| turvallisuus; väkivalta; lähisuhdeväkivalta; digitaalinen väkivalta; kiusaaminen | perheriita (for violence) | *vapaaehtoisuus* is the law's word; *suostumus* the everyday one. |
+| työhyvinvointi; työn vaatimukset ja voimavarat; työterveyshuolto; nuori työntekijä | työssäjaksaminen (as a term) | |
+| mielihyvä; palkitsemisjärjestelmä; aineriippuvuus; toiminnallinen riippuvuus | addiktio, koukku (as terms) | |
+| sietokyky (toleranssi); vieroitusoireet; kontrollin menetys; repsahdus | "retkahdus" as failure | |
+| suorat ja epäsuorat haitat; ehkäisevä päihdetyö; haittojen vähentäminen; hoitoon hakeutuminen | | Harm reduction defined only; its detail belongs to services. |
+| henkilö, jolla on päihderiippuvuus; henkilö, joka käyttää; väkivaltaa kokenut; väkivaltaa käyttävä | narkkari, alkoholisti, addikti, juoppo, puhdas, uhri (as a label) | Person first; never *mitä hänellä oli päällä*. |
+
+**Material-based tasks.** TE2 tasks are mostly material-based: in a topic of three, at least two carry material; one
+concept task without material (A20, `maarittele-ja-esimerkki` or `kasitteiden-nimeaminen`) is kept across the module.
+New type slugs beside §7a:
+- `tutkimustiedon-arviointi` (B20 or C30): two fictional studies in one table (who, purpose, asetelma, otos with n and
+  response rate, mittari, result, where published). Shares go in words (*yhdeksän kymmenestä*): the build rejects
+  `%`. a) compare on named aspects, b) explain a result with a concept, c) judge what a claim may conclude. *Pisteytys:* each aspect compared both ways 2 p; the concept named 1 p and
+  explained 1–2 p; the verdict tied to the table.
+- `viestinnan-analyysi` (B20 or C30): a fictional advert, post, news snippet or chatbot answer to a non-medical
+  question. a) name the vaikutuskeinot or vinoumat with the line they appear in, b) explain how each misleads,
+  c) rewrite or answer the asker. *Pisteytys:* per item 2 p (name 1 p, quoted line and mechanism 1 p).
+- `kuvion-tulkinta` (B20 or C30): a fictional table turned into a described chart, or the reverse; as `piirtaminen`
+  plus `aineiston-lukeminen`.
+
+Content ladder (B20 content half): 2 / 4 / 6 aspects explained = 3 / 6 / 9 p, +1 p for a link between them. C30
+content half: 1–4 perspectives = 4 / 7 / 10 / 13 p, +2 p for a weighed conclusion. Referring to at least one
+material is enough to avoid the 5 p deduction (§8). Every table is a Markdown table with its data in the task, so the
+offline line can read *Tämä on paperitehtävä: aineisto on tehtävässä.* Material forms by topic: results tables
+(01, 02, 04, 08); two data sources compared (02); advert, post or chatbot answer (03); a school indoor-air or noise
+table or a council news item with a framework (04–06); a school safety plan summary or a non-graphic fictional case
+(07); a workplace survey and memo (08); a qualitative leaflet, campaign or interview excerpt with no amounts (09, 10).
+
+**TE2 safety rules** (pages flagged `violence` or `substances`: 07, 09, 10; §10–11 apply in full):
+- `content_note`: what the page covers, that the student may step out, and that nobody has to share anything.
+- No invented statistics on flagged pages: qualitative fictional material, or linked, dated official figures. A
+  social-norms line (*useimmat nuoret eivät …*) only with a linked, dated survey, else left out.
+- No amounts, doses, routes, prices, mixing, ingredients or how-to; no stakes, odds or losses; no methods,
+  perpetrator tactics or graphic detail beyond recognising coercion. No testimonies, shock stories or guest speakers
+  who tell their worst case.
+- Dependence is a health condition with biological, psychological and social causes; never weakness or a choice of
+  character. Gaming is not a dependence by default. Design features (vaihteleva palkkio, läheltä piti, loot box) are
+  taught as media literacy. No scoring self-test.
+- Violence: the responsibility is always with the person who uses it. Every gender, same-sex relationships, every
+  family form; digital violence included. Use the law's wording with its dated link; sexual violence links te1-07.
+- Cases are fictional third-person, end in a non-violent step and a route to help, and never ask about the student's
+  own or family's use, gambling or experience of violence.
+- The lesson plan's *Pelisäännöt* says: the school nurse and student welfare team are available; a disclosure leads
+  to an adult's duty to act, and the child-welfare report for under-18s is explained neutrally; a series of lessons
+  works better than a single one.
+- Help box from the audience-verified youth list only (112, opiskeluterveydenhuolto, Sekasin and Apuu, Nuortenlinkki
+  with its hours, Nettiturvakoti under 18, Nettiturvis, Väestöliitto chat under 29). Nollalinja, RIKU and Peluuri only
+  as *myös*-links with their stated audience, never called youth services. Each link carries its read date.
+- Debate tasks (substance policy, gambling markets) keep both sides; the model answer says prevention is curriculum
+  content, not optional, and states the legal status as it is today, with a dated link.

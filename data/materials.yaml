@@ -1,6 +1,6 @@
 # Linkitetyt materiaalit per TE1-aihe. Linkit, ei kopioita (CLAUDE.md sääntö 5). Tuotettu front matterista; älä muokkaa käsin ilman uutta ajoa.
 checked: '2026-11-21'
-note: 'Luettelo on tuotettu aiheiden front matterista: jokaisesta aiheesta kaikki osoitteet kentistä official_links, materials ja sibling_links, yksi merkintä per osoite (listed_in kertoo kentät), lisenssiluokka ja lukupäivä aiheen omasta merkinnästä. Jos osoitteella ei ole materials-merkintää, sibling_links-osoite on CC BY 4.0 (sisarsivusto) ja muu osoite link-out. Link-out-aineisto vain linkitetään (sääntö 5). Kenttä note on siirretty aiemmista merkinnöistä; vain niiden osoitteiden avaaminen 2026-11-21 (enintään kaksi yritystä), aoe.fi-rajapintatarkistus ja aoe.fi-metatietojen lisenssit on todennettu, joiden note sanoo niin. Luettelo ei kata aiheiden leipätekstin linkkejä. Lista excluded on pelkkä kirjaus eikä tule näkyviin.'
+note: 'Luettelo on tuotettu aiheiden front matterista: jokaisesta aiheesta kaikki osoitteet kentistä official_links, materials ja sibling_links, yksi merkintä per osoite (listed_in kertoo kentät), lisenssiluokka ja lukupäivä aiheen omasta merkinnästä. Jos osoitteella ei ole materials-merkintää, sibling_links-osoite on CC BY 4.0 (sisarsivusto) ja muu osoite link-out. Link-out-aineisto vain linkitetään (sääntö 5). Kenttä note on siirretty aiemmista merkinnöistä; vain niiden osoitteiden avaaminen 2026-11-21 (enintään kaksi yritystä), aoe.fi-rajapintatarkistus ja aoe.fi-metatietojen lisenssit on todennettu, joiden note sanoo niin. Luettelo ei kata aiheiden leipätekstin linkkejä. Lista excluded on pelkkä kirjaus eikä tule näkyviin. TE2-aiheet (te2-01...te2-10) on lisätty 2026-11-21 tietoagentin ajossa kriitikon linkkiluettelosta (docs/research/2026-11-21-te2-scouting.json): jokainen osoite avattu ja tarkistettu (Python, kaksi yritystä), aoe.fi-lisenssit aoe.fi-rajapinnasta, Tieteen termipankin lisenssi sivun alatunnisteesta. Avunlinkit (opiskelijoille) on merkitty sarakkeessa audience; vain nuorille osoitetut palvelut kuuluvat opiskelijan Apua ja tukea -osioon. Aiheiden front matter on lopullinen lähde: kirjoittajat poimivat sieltä linkit, ja luettelo ajetaan uudelleen front matterista.'
 topics:
   te1-01:
   - title: Constitution of the World Health Organization
@@ -1145,6 +1145,758 @@ topics:
     listed_in:
     - materials
     - sibling_links
+  te2-01:
+  - audience: opiskelija ja opettaja
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - linked_materials
+    - official_links
+    publisher: Suomalainen Lääkäriseura Duodecim
+    read: '2026-11-21'
+    title: Käypä hoito -suositukset
+    url: https://www.kaypahoito.fi/
+  - audience: opiskelija
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Osoite avattu 2026-11-21. Esimerkki asiantuntijalähteestä: artikkeleissa
+      on päivitysmerkinnät. Käyttöehdot erillään; ei kopioida.'
+    publisher: Suomalainen Lääkäriseura Duodecim
+    read: '2026-11-21'
+    title: Terveyskirjasto
+    url: https://www.terveyskirjasto.fi/
+  - audience: opettaja ja syventävä opiskelija
+    licence: CC BY-SA 3.0
+    licence_class: open-cc-by-sa
+    listed_in:
+    - linked_materials
+    - official_links
+    publisher: Tieteen termipankki
+    read: '2026-11-21'
+    title: Tieto (Tieteen termipankki)
+    url: https://tieteentermipankki.fi/wiki/Filosofia:tieto
+  - audience: opettaja ja opiskelija
+    licence: Creative Commons, versio ei ilmoitettu; käsitellään link-out-aineistona
+    licence_class: link-out
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Osoite avattu 2026-11-21. Alatunniste: sisältö on julkaistu Creative Commons
+      -lisenssillä, versiota ei mainita; kohdellaan link-outina, kunnes ehdot on luettu.'
+    publisher: Avoin Yhteiskunta ry
+    read: '2026-11-21'
+    title: Faktabaari EDU
+    url: https://faktabaari.fi/edu/
+  - audience: opettaja
+    licence: CC BY-NC-ND 4.0
+    licence_class: link-out
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Osoite avattu 2026-11-21; lisenssi aoe.fi-rajapinnasta 2026-11-21. Ei muokattavissa
+      (ND), vain linkki. Kortit käyttävät terveysväitteitä: opettaja lukee ne ennen
+      käyttöä.'
+    publisher: Tampereen yliopisto (aoe.fi)
+    read: '2026-11-21'
+    title: Argumenttikortit argumenttien luotettavuuden arviointiin
+    url: https://aoe.fi/#/materiaali/3554
+  - audience: opiskelija ja opettaja
+    licence: CC BY 4.0
+    licence_class: open-cc-by
+    listed_in:
+    - official_links
+    - sibling_links
+    publisher: Lukion opinto-ohjaus -sivusto
+    read: '2026-11-21'
+    title: Tietolähteet ja ohjauspalvelut (opinto-ohjaus, aihe 08)
+    url: https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/08-tietolahteet/
+  - audience: opiskelija
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - official_links
+    publisher: Mielenterveystalo.fi
+    read: '2026-11-21'
+    title: 'Mielenterveystalo: nuoret'
+    url: https://www.mielenterveystalo.fi/fi/nuoret
+  - audience: opiskelija
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - official_links
+    publisher: Sekasin Kollektiivi
+    read: '2026-11-21'
+    title: Sekasin-chat
+    url: https://sekasin.fi/
+  te2-02:
+  - title: Asiantuntijalähteen arviointi (aoe.fi 3006)
+    url: https://aoe.fi/#/materiaali/3006
+    publisher: Hämeen ammattikorkeakoulu (aoe.fi)
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 4.0 (aoe.fi-metatiedot)
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21; lisenssi ja käyttäjäroolit aoe.fi-rajapinnasta 2026-11-21 (video). Avoin, mutta tämä sivusto
+      vain linkittää.
+  - title: Asiantuntijalähteen arviointi -kaavio (aoe.fi 3050)
+    url: https://aoe.fi/#/materiaali/3050
+    publisher: Hämeen ammattikorkeakoulu (aoe.fi)
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 4.0 (aoe.fi-metatiedot)
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21; lisenssi aoe.fi-rajapinnasta 2026-11-21. Kaavio samaan aiheeseen kuin 3006.
+  - title: Terveyskirjasto
+    url: https://www.terveyskirjasto.fi/
+    publisher: Kustannus Oy Duodecim
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja (suuri yleisö)
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Osoite avattu 2026-11-21. Vertailulähde lähteiden arviointiin: toinen lähde on esimerkiksi tutkimusuutinen, toinen
+      Terveyskirjaston artikkeli.'
+  - title: THL:n avoin data
+    url: https://thl.fi/tutkimus/avoin-data
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: 'Data CC BY 4.0; sivun tekstit: kaikki oikeudet pidätetään'
+    audience: opettaja ja ammattilaiset
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21. Aineistot CC BY 4.0 (avoimen datan sivun mukaan); sivun tekstit ja tilastosivut linkitetään
+      vain. Rekisteri- ja kyselyaineiston eron esimerkkejä.
+  - title: Kouluterveyskysely (THL)
+    url: https://thl.fi/tutkimus/hankkeet/kouluterveyskysely
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21; sama sivu kuin tiedossa kouluterveyskysely (yearly-facts). Esimerkki kyselyaineistosta,
+      otoksesta ja vastausprosentista; lukuja ei kopioida.
+  - title: Ylioppilastutkinnon hyvän vastauksen piirteet, terveystieto (syksy 2024)
+    url: https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html
+    publisher: Ylioppilastutkintolautakunta
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja ja opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21. Vain linkki, mitään ei kopioida (sääntö 5). Näyttää tehtävätyypit ja pisteytyksen rakenteen;
+      sivuston pisteytys on oma harjoitusohje.
+  te2-03:
+  - title: Faktabaari EDU
+    url: https://faktabaari.fi/edu/
+    publisher: Avoin Yhteiskunta ry (Faktabaari)
+    licence_class: link-out
+    licence: Creative Commons, versiota ei mainita (kohdellaan link-outina)
+    audience: opettaja ja opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21. Tiedon ja tekoälyn lukutaidon oppaat ja materiaalit; lisenssin versio ei näy, joten link-out.
+  - title: 'Mediataitokoulu: mainonta'
+    url: https://mediataitokoulu.fi/avainsanat/mainonta/
+    publisher: Kuvi (Taide- ja kulttuurivirasto), Mediataitokoulu
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja (mediakasvattajat)
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21. Materiaalipankin mainonta-aiheiset aineistot; jäsenorganisaatioiden materiaaleilla omat
+      ehdot. Opettajan linkki, ei opiskelijan avunlinkki.
+  - title: 'Mediataitokoulu: tekoäly'
+    url: https://mediataitokoulu.fi/avainsanat/tekoaly/
+    publisher: Kuvi (Taide- ja kulttuurivirasto), Mediataitokoulu
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja (mediakasvattajat)
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21. Tekoälyvastausten arviointiin (chatbot-vastaus viestintäesimerkkinä). Opettajan linkki.
+  - title: 'Kuvi: mediakasvatus'
+    url: https://kuvi.fi/
+    publisher: Kuvi (Taide- ja kulttuurivirasto)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja ja ammattilaiset
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21 (www.kuvi.fi ohjaa osoitteeseen kuvi.fi). Valtion mediakasvatuksen viranomainen; etusivu,
+      ei erillistä nuorten sivua.
+  te2-04:
+  - title: Ilmanlaatu Suomessa (Ilmatieteen laitos)
+    url: https://www.ilmatieteenlaitos.fi/ilmanlaatu
+    publisher: Ilmatieteen laitos
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21. Ajantasainen ilmanlaatukartta ja ilmanlaatuindeksi; luvut muuttuvat, joten vain linkki.
+      Datan lisenssiä ei luettu. ilmanlaatu.fi antoi 503 (kaksi yritystä), joten sitä ei linkitetä.
+  - title: Ilmansaasteiden terveysvaikutukset (Ilmatieteen laitos)
+    url: https://www.ilmatieteenlaitos.fi/saasteet-ja-terveys
+    publisher: Ilmatieteen laitos
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21; sivun kuvaus kertoo eri ilmansaasteiden vaikutuksista terveyteen. Pitoisuusarvoja ei kopioida.
+  - title: Asuntojen radonia koskevat viitearvot ja määräykset (STUK)
+    url: https://stuk.fi/asuntojen-radonia-koskevat-viitearvot-ja-maaraykset
+    publisher: Säteilyturvakeskus (STUK)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja (suuri yleisö)
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Suomenkielinen osoite löytyi STUKin etusivulta 2026-11-21 ja aukeni (vanha /aiheet/radon antoi 404). Viitearvoja ei
+      kopioida, vain linkki.
+  - title: Sisäilma (Työterveyslaitos)
+    url: https://www.ttl.fi/teemat/tyohyvinvointi-ja-tyokyky/sisailma
+    publisher: Työterveyslaitos
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja (työpaikat ja rakennusten käyttäjät)
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21. Sivu käsittelee sisäilman laatua ja siihen vaikuttavia tekijöitä; ei kirjoitettu opiskelijoille.
+  - title: Ihmisen ja ympäristön terveys kulkevat käsi kädessä (THL)
+    url: https://thl.fi/nakemyksemme/ihmisen-ja-ympariston-terveys-kulkevat-kasi-kadessa
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja ja opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21. THL:n näkemys ympäristön ja terveyden yhteydestä; päivityspäivää ei näy sivulla.
+  te2-05:
+  - title: 'Mediataitokoulu: materiaalipankki'
+    url: https://mediataitokoulu.fi/materiaalipankki/
+    publisher: Kuvi (Taide- ja kulttuurivirasto), Mediataitokoulu
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja (mediakasvattajat)
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21. Aineistoja nuorten mediaympäristöstä ja digiturvasta; opettajan linkki, jokaisen aineiston
+      ehdot erikseen.
+  - title: Nuorten hyvinvointi (THL)
+    url: https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Sama sivu kuin TE1:ssä (avattu 2026-11-21). Kouluterveyskyselyn tulokset; lukuja ei kopioida.
+  - title: Kouluterveyskysely (THL)
+    url: https://thl.fi/tutkimus/hankkeet/kouluterveyskysely
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21 (sivu on yearly-facts-tiedoissa kouluterveyskysely).
+  - title: 'Mielenterveystalo: nuoret'
+    url: https://www.mielenterveystalo.fi/fi/nuoret
+    publisher: Mielenterveystalo.fi (HUS)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Osoite avattu 2026-11-21; sivu on osio Nuoret, mutta sisältöä ei luettu tarkasti: ei avunlinkki ennen kuin palvelut
+      ja vastaanottotavat on luettu.'
+  te2-06:
+  - title: Kestävän kehityksen käsikirja lukioille (aoe.fi 4038)
+    url: https://aoe.fi/#/materiaali/4038
+    publisher: SASKY koulutuskuntayhtymä (aoe.fi)
+    licence_class: open-cc-by
+    licence: CC BY 4.0 (aoe.fi-metatiedot)
+    audience: opiskelija ja opettaja (lukio)
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21; lisenssi aoe.fi-rajapinnasta 2026-11-21. Aihe on kestävä kehitys yleisesti, terveysyhteys
+      opettajan tehtävä. Avoin; tämä sivusto vain linkittää.
+  - title: Kestävä kehitys -opintojakso lukioon (aoe.fi 2842)
+    url: https://aoe.fi/#/materiaali/2842
+    publisher: SASKY koulutuskuntayhtymä (aoe.fi)
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 4.0 (aoe.fi-metatiedot)
+    audience: opettaja (Moodle-kurssi)
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Osoite avattu 2026-11-21; lisenssi aoe.fi-rajapinnasta 2026-11-21. Share-alike: linkki, ei mukailua tälle sivustolle.'
+  - title: Kestävää tulevaisuutta lukiolaisille! (aoe.fi 2284)
+    url: https://aoe.fi/#/materiaali/2284
+    publisher: Helsingin kaupunki (aoe.fi)
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 4.0 (aoe.fi-metatiedot)
+    audience: opiskelija ja opettaja (lukio)
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Osoite avattu 2026-11-21; lisenssi aoe.fi-rajapinnasta 2026-11-21. Osittainen sopivuus: ilmasto- ja ympäristökasvatusta,
+      ei terveyskulmaa.'
+  - title: Ihmisen ja ympäristön terveys kulkevat käsi kädessä (THL)
+    url: https://thl.fi/nakemyksemme/ihmisen-ja-ympariston-terveys-kulkevat-kasi-kadessa
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja ja opiskelija
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21. Terveys ja kestävyys yhdessä; päivityspäivää ei näy.
+  - title: Ympäristöministeriö
+    url: https://ym.fi/etusivu
+    publisher: Ympäristöministeriö
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja (taustatieto)
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21 (ym.fi ohjaa osoitteeseen ym.fi/etusivu). Ei koulumateriaaleja; vain politiikan taustaksi.
+  - title: Sitra
+    url: https://www.sitra.fi/
+    publisher: Sitra
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja (taustatieto)
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21. Kohdeyleisöä ei mainita; tulevaisuuden ja sukupolvien välisen oikeudenmukaisuuden taustaksi,
+      ei opiskelijan päälähde.
+  te2-07:
+  - title: Väkivalta (THL)
+    url: https://thl.fi/data-ja-tilastot/vakivalta
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja ja ammattilaiset
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21. Tilastot ja lainsäädäntömuutokset; sivu viittaa Kouluterveyskyselyn tuloksiin lasten ja
+      nuorten väkivaltakokemuksista. Lukuja ei kopioida; vain linkki.
+  - title: Uusi seksuaalirikoslaki (oikeusministeriö)
+    url: https://oikeusministerio.fi/seksuaalirikoslaki
+    publisher: Oikeusministeriö
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Osoite avattu 2026-11-21: laki voimassa 1.1.2023, raiskauksen määritelmä perustuu suostumukseen eli osallistumisen
+      vapaaehtoisuuteen. Vakaa sääntö linkitettynä; yksityiskohtia ei kirjoiteta sivustolle.'
+  - title: Nuoret ja rikollisuus (Poliisi)
+    url: https://poliisi.fi/nuoret-ja-rikollisuus
+    publisher: Poliisi
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija (sivun mukaan noin 12-18-vuotiaille)
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Osoite avattu 2026-11-21; sivun oman kuvauksen mukaan suunnattu noin 12-18-vuotiaille lapsille ja nuorille: tietoa
+      rikoksista, testejä ja neuvoja. Testejä ei teetetä luokassa.'
+  - title: 'Nettiturvakoti: Olen lapsi tai nuori'
+    url: https://nettiturvakoti.fi/
+    publisher: Ensi- ja turvakotien liitto
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija (osio alle 18-vuotiaille); muuten kaikki ja ammattilaiset
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21; osio Olen lapsi tai nuori on sivun mukaan tarkoitettu alle 18-vuotiaille lapsille ja nuorille
+      lähisuhdeväkivallasta. Chatin aukioloaikoja ei luettu. Avunlinkki (alle 18-osio).
+  - title: 'Rikosuhripäivystys RIKU: Lapsi ja nuori rikoksen uhrina'
+    url: https://www.riku.fi/rikoksen-uhrina/lapsi-ja-nuori-rikoksen-uhrina/
+    publisher: Rikosuhripäivystys (RIKU)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: 'opiskelija (osion oma puhuttelu: lapsi tai nuori)'
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Osoite avattu ja osio luettu 2026-11-21: sivu puhuttelee suoraan lasta tai nuorta ja sanoo, että vastuu on aina tekijällä.
+      Puhelin 116 006 ma-to 9-18 ja pe 9-16, RIKUchat samoina aikoina (luettu RIKUn nuorten oppaan sivulta). Ohjeet huoltajille
+      ovat eri alasivulla. Ratkaisee kriitikon RIKU-ristiriidan: osio on nuorille, mutta palvelun etusivu on kaikille.'
+  - title: Nollalinja 116 016
+    url: https://nollalinja.fi/
+    publisher: Nollalinja
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja (aikuisille ja kaikille; ikärajaa ei mainita)
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21 (www ohjaa osoitteeseen nollalinja.fi). Puhelin ympäri vuorokauden, chat vain arkisin; sivu
+      ei kerro olevansa nuorille, joten vain lisälinkki (Lisäksi), ei nuorten avunlinkki.
+  te2-08:
+  - title: Nuori työntekijä (Työsuojelu.fi)
+    url: https://tyosuojelu.fi/tyosuhde/nuori-tyontekija
+    publisher: Työsuojeluhallinto (Lupa- ja valvontavirasto)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija (nuori työntekijä) ja työnantaja
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Osoite avattu 2026-11-21 (www ohjaa osoitteeseen tyosuojelu.fi; vanha /tyoehdot/nuoret-tyontekijat antoi 404; englanninkielinen
+      sivu päivitetty 16.2.2026). Työaikarajat ja muut luvut muuttuvat: vain linkki.'
+  - title: Laki nuorista työntekijöistä 998/1993 (Finlex)
+    url: https://www.finlex.fi/fi/lainsaadanto/1993/998
+    publisher: Finlex (oikeusministeriö)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Osoite avattu 2026-11-21 ja lain ajantasainen teksti luettu Finlexin avoimen datan rajapinnasta: nuori työntekijä
+      on alle 18-vuotias; terveystarkastus työnantajan kustannuksella tietyin poikkeuksin. Pykäliä ei kirjoiteta sivustolle.'
+  - title: Työhyvinvointi ja työkyky (Työterveyslaitos)
+    url: https://www.ttl.fi/teemat/tyohyvinvointi-ja-tyokyky
+    publisher: Työterveyslaitos
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja (työpaikat)
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21. Työyhteisön ja työn kuormituksen taustatietoa; ei kirjoitettu opiskelijoille.
+  - title: Viisi askelta tasapainoisempaan työelämään -verkkokurssi (aoe.fi 4638)
+    url: https://aoe.fi/#/materiaali/4638
+    publisher: Väestöliiton Hyvinvointi Oy (aoe.fi)
+    licence_class: link-out
+    licence: CC BY-NC-ND 4.0 (aoe.fi-metatiedot)
+    audience: opettaja ja opiskelija (lukio, ammatillinen)
+    read: '2026-11-21'
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Osoite avattu 2026-11-21; lisenssi aoe.fi-rajapinnasta 2026-11-21. Ei muokattavissa (ND): vain linkki.'
+  te2-09:
+  - audience: opiskelija
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Osoite avattu ja luettu 2026-11-21: sivu on nuorille (kuvaus: tukea ja tietoa
+      päihdeasioihin, riippuvuuksiin, mielenterveyteen). Chat ma 15-17 ja ke 13-15,
+      Walk in terapia alle 29-vuotiaille ti ja to 17-19; chat ei kerro ikärajaa, joten
+      aukioloajat sanotaan ja linkki yhdistetään opiskeluterveydenhuoltoon ja Sekasiniin.
+      Avunlinkki.'
+    publisher: A-klinikkasäätiö
+    read: '2026-11-21'
+    title: Nuortenlinkki
+    url: https://nuortenlinkki.fi/
+  - audience: opettaja (ammattilaiset)
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21. Päihdekasvatuksen periaatteet opettajalle.
+    publisher: Ehkäisevä päihdetyö EHYT ry
+    read: '2026-11-21'
+    title: Päihdekasvatus (EHYT)
+    url: https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/
+  - audience: opettaja (ammattilaiset)
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21; sivu päivitetty 21.5.2026 (sivulla Päivitystiedot).
+      Aiempi osoite thl.fi/aiheet/paihteet-ja-riippuvuudet antoi 404.
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    read: '2026-11-21'
+    title: Ehkäisevä päihdetyö kouluissa ja oppilaitoksissa (THL)
+    url: https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa
+  - audience: opettaja (Ammattilaisille-välilehti), opettaja lukee sivun ennen käyttöä
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - linked_materials
+    note: 'Osoite avattu ja etusivu luettu 2026-11-21: nuorille suunnattu EHYTin sivusto,
+      ikäryhmät 13-15 ja ylöspäin; Ammattilaisille-välilehdellä opetusvideoita keskustelun
+      tueksi. Ei avunlinkki eikä luokkaan: sivulla on avoin vertaischat, päihdelaskuri
+      ja pelejä, joita ei käytetä opetuksessa; opettaja lukee sivun ennen käyttöä.'
+    publisher: Ehkäisevä päihdetyö EHYT ry
+    read: '2026-11-21'
+    title: BuenoTalk
+    url: https://buenotalk.fi/
+  - audience: opettaja (aikuiset ja läheiset)
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Osoite avattu 2026-11-21: aikuisille ja läheisille, nuoria ohjataan Nuortenlinkkiin;
+      vain taustalinkki opettajalle, ei opiskelijan avunlinkki.'
+    publisher: A-klinikkasäätiö
+    read: '2026-11-21'
+    title: Päihdelinkki
+    url: https://paihdelinkki.fi/
+  - audience: opettaja
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - official_links
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    read: '2026-11-21'
+    title: Opiskeluterveydenhuolto
+    url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
+  - audience: opiskelija ja opettaja
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - official_links
+    publisher: Opetushallitus
+    read: '2026-11-21'
+    title: Opiskeluhuolto
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto
+  - audience: opiskelija
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - official_links
+    publisher: Sekasin Kollektiivi
+    read: '2026-11-21'
+    title: Sekasin-chat
+    url: https://sekasin.fi/
+  te2-10:
+  - audience: opiskelija
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Sama sivu kuin te2-09: päihteet, rahapelaaminen ja pelaaminen, sosiaalinen
+      media; chat-aukioloajat sivulta. Avunlinkki.'
+    publisher: A-klinikkasäätiö
+    read: '2026-11-21'
+    title: Nuortenlinkki
+    url: https://nuortenlinkki.fi/
+  - audience: opettaja ja suuri yleisö
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - linked_materials
+    - official_links
+    note: Osoite avattu 2026-11-21. Alkoholi-, huume-, tupakka- ja rahapelipolitiikan
+      yläsivu; lain ja politiikan tosiasiat luetaan alasivuilta päivämäärineen.
+    publisher: Sosiaali- ja terveysministeriö
+    read: '2026-11-21'
+    title: Päihdehaittojen ja riippuvuuksien ehkäisy (STM)
+    url: https://stm.fi/paihdehaittojen-ehkaisy
+  - audience: opettaja
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Osoite avattu 2026-11-21; tiedote 25.6.2026: muutokset voimaan 3.7.2026,
+      porrastettu. Päiväyksellinen lähde; yksityiskohtia ei kirjoiteta sivustolle.'
+    publisher: Sosiaali- ja terveysministeriö (valtioneuvosto)
+    read: '2026-11-21'
+    title: Uudistettu alkoholilaki (valtioneuvoston tiedote 25.6.2026)
+    url: https://valtioneuvosto.fi/-/1271139/uudistettu-alkoholilaki-mahdollistaa-alkoholijuomien-toimitukset-asiakkaille-ja-sallii-vakevien-verkkomainonnan-
+  - audience: opettaja
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Osoite avattu 2026-11-21; tiedote 22.5.2025: laki voimaan 1.8.2025, makurajoitukset
+      1.2.2026 ja pakkaukset 1.8.2026. Päiväyksellinen lähde.'
+    publisher: Sosiaali- ja terveysministeriö (valtioneuvosto)
+    read: '2026-11-21'
+    title: Nikotiinipussien myyntiä ja markkinointia säännellään (valtioneuvoston tiedote
+      22.5.2025)
+    url: https://valtioneuvosto.fi/-/1271139/nikotiinipussien-myyntia-ja-markkinointia-saannellaan-jatkossa-tiukemmin
+  - audience: opettaja
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Osoite avattu 2026-11-21; tiedote 15.1.2026: uusi laki pääosin voimaan 1.7.2027.
+      Päiväyksellinen lähde.'
+    publisher: Valtiovarainministeriö (valtioneuvosto)
+    read: '2026-11-21'
+    title: Rahapelien järjestäminen avataan osittain kilpailulle (valtioneuvoston tiedote
+      15.1.2026)
+    url: https://valtioneuvosto.fi/-/1410869/rahapelien-jarjestaminen-avataan-osittain-kilpailulle
+  - audience: opettaja (ikärajaa tai nuorten ohjeita ei mainita)
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - linked_materials
+    - official_links
+    note: 'Osoite avattu 2026-11-21 (peluuri.fi ohjaa osoitteeseen www.peluuri.fi).
+      Puhelin 0800 100 101 avoinna ma-pe 12-18 (luettu sivulta); ei nuorille osoitettu,
+      joten vain lisälinkki (Lisäksi). Sivulla on pelaamisen testejä: niitä ei teetetä
+      luokassa.'
+    publisher: Peluuri
+    read: '2026-11-21'
+    title: Peluuri
+    url: https://www.peluuri.fi/
+  - audience: opettaja (ammattilaiset)
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - linked_materials
+    - official_links
+    publisher: Ehkäisevä päihdetyö EHYT ry
+    read: '2026-11-21'
+    title: Päihdekasvatus (EHYT)
+    url: https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/
+  - audience: opettaja (ammattilaiset)
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - linked_materials
+    - official_links
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    read: '2026-11-21'
+    title: Ehkäisevä päihdetyö kouluissa ja oppilaitoksissa (THL)
+    url: https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa
+  - audience: opettaja
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - official_links
+    publisher: Finlex (oikeusministeriö)
+    read: '2026-11-21'
+    title: Alkoholilaki 1102/2017 (Finlex)
+    url: https://www.finlex.fi/fi/lainsaadanto/2017/1102
+  - audience: opettaja
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - official_links
+    publisher: Finlex (oikeusministeriö)
+    read: '2026-11-21'
+    title: Tupakkalaki 549/2016 (Finlex)
+    url: https://www.finlex.fi/fi/lainsaadanto/2016/549
+  - audience: opettaja
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - official_links
+    publisher: Sosiaali- ja terveysministeriö
+    read: '2026-11-21'
+    title: Huumausaineiden valvonta (STM)
+    url: https://stm.fi/huumausaineiden-valvonta
+  - audience: opettaja
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - official_links
+    publisher: World Health Organization
+    read: '2026-11-21'
+    title: Ottawa Charter for Health Promotion (WHO)
+    url: https://www.who.int/publications/i/item/ottawa-charter-for-health-promotion
+  - audience: opettaja
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - official_links
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    read: '2026-11-21'
+    title: Opiskeluterveydenhuolto
+    url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
+  - audience: opiskelija ja opettaja
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - official_links
+    publisher: Opetushallitus
+    read: '2026-11-21'
+    title: Opiskeluhuolto
+    url: https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto
+  - audience: opiskelija
+    licence: Kaikki oikeudet pidätetään
+    licence_class: link-out
+    listed_in:
+    - official_links
+    publisher: Sekasin Kollektiivi
+    read: '2026-11-21'
+    title: Sekasin-chat
+    url: https://sekasin.fi/
 excluded:
 - title: REAALIAINEIDEN (GE, TE, BG) KOETEHTÄVIÄ
   url: https://aoe.fi/#/materiaali/4704
@@ -1170,3 +1922,29 @@ excluded:
   audience: opiskelija
   read: null
   note: Perusopetuksen taso; ei luettu uudelleen.
+- title: aoe 2319 (Kestävää tulevaisuutta lukiolaisille, toinen osa)
+  url: https://aoe.fi/#/materiaali/2319
+  publisher: Helsingin kaupunki (aoe.fi)
+  licence_class: excluded
+  licence: ei tarkistettavissa
+  audience: opettaja
+  read: '2026-11-21'
+  note: Kriitikon luettelossa; aoe.fi-rajapinta ei löytänyt tunnusta 2319 (haku ja suora materiaalikysely 404, kaksi yritystä).
+    Pudotettu; tilalla 2284.
+- title: Kuluttajaliitto (viestinnän aiheeseen)
+  url: https://www.kuluttajaliitto.fi/
+  publisher: Kuluttajaliitto
+  licence_class: excluded
+  licence: Kaikki oikeudet pidätetään
+  audience: kuluttajat ja jäsenet
+  read: '2026-11-21'
+  note: Etusivu avattu 2026-11-21; syvemmät sivut (huijaustutka, huijausten tunnistamisen opas) koskevat verkkohuijauksia,
+    ei terveysviestintää eikä nuoria. Heikko sopivuus; pudotettu te2-03:sta.
+- title: Ilmanlaatu.fi
+  url: https://ilmanlaatu.fi/
+  publisher: Ilmatieteen laitos
+  licence_class: excluded
+  licence: ei tarkistettu
+  audience: suuri yleisö
+  read: null
+  note: Antoi HTTP 503 kaksi kertaa 2026-11-21 (palvelu ei vastaa). Ei linkitetä; Ilmatieteen laitoksen ilmanlaatusivu tilalla.

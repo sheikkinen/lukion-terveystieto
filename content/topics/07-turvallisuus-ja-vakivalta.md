@@ -1,0 +1,499 @@
+---
+id: te2-07-turvallisuus-ja-vakivalta
+module: TE2
+order: 17
+title: "Ympäristöjen turvallisuus ja väkivallan ehkäisy"
+summary: "Opit, miten ympäristöt tukevat turvallisuutta, mitä väkivalta on yleisellä tasolla, miksi vastuu on aina väkivaltaa käyttävällä ja miten väkivaltaa ehkäistään yksilön, koulun ja yhteiskunnan tasolla."
+curriculum: [TE2.s5, TE2.t4]
+assessment: numeric
+suggested_timing: {year: 2, term: kevät}
+role: core
+duration_options: [45, 60, 75]
+self_study_minutes: 70
+prerequisites: [te1-07-seksuaalioikeudet]
+safety_flags: [violence]
+content_note: "Tällä sivulla käsitellään väkivaltaa ja turvallisuutta yleisellä tasolla: sivulla ei kuvata tekoja eikä ole lukuja, kenenkään ei tarvitse kertoa omasta elämästään, voit jättää tehtävän väliin, ja lopussa on tietoa avusta."
+official_links:
+  - {title: "Väkivalta (THL)", url: "https://thl.fi/data-ja-tilastot/vakivalta", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Uusi seksuaalirikoslaki (oikeusministeriö)", url: "https://oikeusministerio.fi/seksuaalirikoslaki", publisher: "Oikeusministeriö", read: 2026-11-21}
+  - {title: "Nuoret ja rikollisuus (Poliisi)", url: "https://poliisi.fi/nuoret-ja-rikollisuus", publisher: "Poliisi", read: 2026-11-21}
+  - {title: "Nettiturvakoti: Olen lapsi tai nuori", url: "https://nettiturvakoti.fi/", publisher: "Ensi- ja turvakotien liitto", read: 2026-11-21}
+  - {title: "Rikosuhripäivystys RIKU: Lapsi ja nuori rikoksen uhrina", url: "https://www.riku.fi/rikoksen-uhrina/lapsi-ja-nuori-rikoksen-uhrina/", publisher: "Rikosuhripäivystys (RIKU)", read: 2026-11-21}
+  - {title: "Nollalinja 116 016", url: "https://nollalinja.fi/", publisher: "Nollalinja", read: 2026-11-21}
+  - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
+  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
+yearly_facts: [vakivalta_tilastot, seksuaalirikoslaki, nettiturvakoti, rikosuhripaivystys, nollalinja, sekasin_chat, opiskeluterveydenhuolto]
+materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
+linked_materials:
+  - title: "Väkivalta (THL)"
+    url: "https://thl.fi/data-ja-tilastot/vakivalta"
+    publisher: "Terveyden ja hyvinvoinnin laitos (THL)"
+    licence_class: link-out
+    licence: "Kaikki oikeudet pidätetään"
+    audience: opettaja ja ammattilaiset
+    read: 2026-11-21
+  - title: "Uusi seksuaalirikoslaki (oikeusministeriö)"
+    url: "https://oikeusministerio.fi/seksuaalirikoslaki"
+    publisher: "Oikeusministeriö"
+    licence_class: link-out
+    licence: "Kaikki oikeudet pidätetään"
+    audience: opiskelija ja opettaja
+    read: 2026-11-21
+  - title: "Nuoret ja rikollisuus (Poliisi)"
+    url: "https://poliisi.fi/nuoret-ja-rikollisuus"
+    publisher: "Poliisi"
+    licence_class: link-out
+    licence: "Kaikki oikeudet pidätetään"
+    audience: opiskelija (sivun mukaan noin 12-18-vuotiaille)
+    read: 2026-11-21
+  - title: "Nettiturvakoti: Olen lapsi tai nuori"
+    url: "https://nettiturvakoti.fi/"
+    publisher: "Ensi- ja turvakotien liitto"
+    licence_class: link-out
+    licence: "Kaikki oikeudet pidätetään"
+    audience: opiskelija (osio alle 18-vuotiaille); muuten kaikki ja ammattilaiset
+    read: 2026-11-21
+  - title: "Rikosuhripäivystys RIKU: Lapsi ja nuori rikoksen uhrina"
+    url: "https://www.riku.fi/rikoksen-uhrina/lapsi-ja-nuori-rikoksen-uhrina/"
+    publisher: "Rikosuhripäivystys (RIKU)"
+    licence_class: link-out
+    licence: "Kaikki oikeudet pidätetään"
+    audience: "opiskelija (osion oma puhuttelu: lapsi tai nuori)"
+    read: 2026-11-21
+  - title: "Nollalinja 116 016"
+    url: "https://nollalinja.fi/"
+    publisher: "Nollalinja"
+    licence_class: link-out
+    licence: "Kaikki oikeudet pidätetään"
+    audience: opettaja (aikuisille ja kaikille; ikärajaa ei mainita)
+    read: 2026-11-21
+exam_tasks:
+  - {id: K1, type: virheiden-tunnistaminen, part: A20, points: 20, minutes: 25, codes: [TE2.s5, TE2.t4]}
+  - {id: K2, type: taulukon-taydentaminen, part: B20, points: 20, minutes: 35, codes: [TE2.s5, TE2.t4]}
+  - {id: K3, type: aineiston-analyysi, part: C30, points: 30, minutes: 55, codes: [TE2.s5, TE2.t4]}
+review_status: {teacher: none, health_professional: none, safe_messaging: none}
+sibling_links: []
+school_adapts:
+  - "Koulun turvallisuussuunnitelma sekä kiusaamisen ja häirinnän vastaiset toimintatavat (esimerkki)"
+  - "Opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot sekä koulun ohje, miten huolta lapsen turvallisuudesta käsitellään (esimerkki)"
+accessibility:
+  - "Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla; aineistot on kirjoitettu tehtäviin. Tapauksissa ei ole väkivallan kuvausta, eikä omasta elämästä tai perheestä tarvitse kertoa."
+  - "Jokaisen tehtävän voi jättää väliin ilman selitystä; vaihtoehtoinen paperitehtävä on aina saatavilla."
+  - "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."
+last_reviewed: 2026-11-21
+---
+
+## Opiskelijalle
+
+**Tämän aiheen jälkeen**
+
+1. Osaan kuvata, mitä turvallisuus ja väkivalta tarkoittavat, ja nimetä väkivallan muotoja yleisellä tasolla, kuten kiusaaminen, lähisuhdeväkivalta ja digitaalinen väkivalta.
+2. Osaan selittää, miten fyysisen, psykososiaalisen ja digitaalisen ympäristön piirteet tukevat tai heikentävät turvallisuutta, myös tapaturmien ehkäisyssä.
+3. Osaan erottaa väkivallan riskitekijöitä ja suojaavia tekijöitä ja selittää, miksi vastuu väkivallasta on aina sillä, joka sitä käyttää.
+4. Osaan selittää, mitä ovat vapaaehtoisuus ja suostumus ja miten sanat eroavat laissa ja arjessa.
+5. Osaan suunnitella väkivallan ehkäisyä yksilön, koulun ja yhteiskunnan tasolla ja kertoa, mistä apua saa.
+
+Opetussuunnitelmassa ympäristöjen turvallisuus ja väkivallan ehkäisy on sisältöalue ilman omaa tavoitetta. Lähin tavoite on TE2.t4, joka koskee fyysisen ja psykososiaalisen ympäristön yhteyksiä terveyteen.
+
+### Turvallisuus on osa ympäristöä
+
+**Turvallisuus** tarkoittaa, että ihmistä ei uhkaa vahinko ja että hän voi luottaa saavansa tarvittaessa apua. Siinä on kaksi puolta: todellinen turvallisuus ja kokemus turvallisuudesta. Molemmat vaikuttavat terveyteen ja jaksamiseen.
+
+Turvallisuus syntyy ympäristöistä:
+
+- **fyysinen ympäristö:** valaistus, näkyvyys, kulkuväylät ja liikenneratkaisut
+- **psykososiaalinen ympäristö:** ilmapiiri, yhteiset säännöt ja aikuiset, jotka puuttuvat asioihin
+- **digitaalinen ympäristö:** palvelun säännöt, ylläpito ja se, miten häirintään puututaan
+
+**Tapaturmia** voi ehkäistä, koska ne eivät ole pelkkää sattumaa. Keinoja ovat ympäristön suunnittelu (esimerkiksi hyvä valaistus), säännöt ja valvonta, tuotteiden turvallisuus sekä taidot, kuten ensiapu ja hätänumeroon 112 soittaminen.
+
+### Mitä väkivalta on?
+
+**Väkivalta** on toisen ihmisen vahingoittamista tai sillä uhkaamista. Se voi olla fyysistä, psyykkistä, seksuaalista tai taloudellista. Se voi olla myös uhkailua, pelottelua tai toisen elämän kontrollointia. Tällä sivulla muotoja käsitellään vain yleisellä tasolla:
+
+- **kiusaaminen:** toistuvaa, tarkoituksellista pahan mielen aiheuttamista
+- **lähisuhdeväkivalta:** väkivalta nykyisen tai entisen kumppanin tai perheenjäsenen taholta. Sitä tapahtuu kaikenlaisissa parisuhteissa ja perheissä, sukupuolesta ja suuntautumisesta riippumatta
+- **digitaalinen väkivalta:** häirintä, uhkailu ja toisen seuraaminen verkossa sekä kuvien jakaminen ilman lupaa
+- **seksuaalinen väkivalta:** suostumus ja sen puuttuminen käsiteltiin TE1-aiheessa [Seksuaalioikeudet, suostumus ja moninaisuus](../../te1/07-seksuaalioikeudet/)
+
+**Vastuu väkivallasta on aina sillä, joka sitä käyttää.** Väkivallan kokenut ei ole syyllinen, vaikka hän ei olisi puolustautunut tai kertonut heti. Väkivalta voi kuormittaa mieltä ja kehoa ja heikentää luottamusta toisiin. Tuki ja apu auttavat, ja moni toipuu. Väkivallan yleisyydestä kertovat THL:n [väkivaltatilastot](https://thl.fi/data-ja-tilastot/vakivalta). Luvut muuttuvat vuosittain, joten niitä ei kirjoiteta tähän.
+
+### Vapaaehtoisuus ja suostumus
+
+Seksuaalirikoslaki uudistui, ja uusi laki on voimassa vuoden 2023 alusta. Oikeusministeriön mukaan raiskauksen määritelmä perustuu siihen, osallistuuko ihminen vapaaehtoisesti ([oikeusministeriö](https://oikeusministerio.fi/seksuaalirikoslaki)). Laissa puhutaan **vapaaehtoisuudesta**, arjessa **suostumuksesta**. Molemmissa kysytään, onko ihminen mukana omasta tahdostaan. Lapsi ei voi suostua seksuaaliseen tekoon aikuisen kanssa, ja alle 16-vuotiaan suojasta on omat säännöksensä. Rangaistuksia tai pykäliä ei kirjoiteta tähän: ne ovat oikeusministeriön sivulla.
+
+### Riskitekijät ja suojaavat tekijät
+
+**Riskitekijä** lisää väkivallan todennäköisyyttä väestössä, mutta ei kerro mitään yksittäisestä ihmisestä. **Suojaava tekijä** vähentää todennäköisyyttä. Tekijöitä on eri tasoilla:
+
+- **yksilö:** taidot käsitellä ristiriitoja ja tunteita, tieto omista oikeuksista
+- **suhteet:** ystävät ja aikuiset, jotka välittävät
+- **yhteisö:** selvät säännöt, hyväksyvä ilmapiiri, aikuisten läsnäolo ja puuttuminen
+- **yhteiskunta:** lait, palvelut ja asenteet. Riskiä lisäävät esimerkiksi väkivaltaa hyväksyvät asenteet ja syrjintä
+
+### Ehkäisy kolmella tasolla
+
+Ehkäisy toimii parhaiten, kun sitä tehdään samaan aikaan monella tasolla ja jatkuvasti, ei kertaluonteisesti:
+
+- **Yksilö:** tunne- ja vuorovaikutustaidot, tieto omista oikeuksista ja rohkeus puuttua sivusta, esimerkiksi kertomalla aikuiselle.
+- **Koulu:** selkeät säännöt, kiusaamisen vastaiset toimintatavat, turvallisuussuunnitelma, aikuisten läsnäolo ja opiskeluhuolto, jota on helppo lähestyä.
+- **Yhteiskunta:** lait, palvelut ja viestintä, joka ei hyväksy väkivaltaa.
+
+Jos joku kertoo sinulle huolestaan, kuuntele ja usko häntä. Kerro, ettei asia ole hänen syynsä, ja ohjaa hänet aikuisen luo. Sinun ei tarvitse ratkaista asiaa yksin. Poliisin sivu [Nuoret ja rikollisuus](https://poliisi.fi/nuoret-ja-rikollisuus) on tarkoitettu nuorille. Sivun testejä ei käytetä luokassa. Apua ja tukea -osiossa on palveluita, joihin voi ottaa yhteyttä.
+
+## Tehtävät
+
+Tehtävissä on kuvitteellisia tapauksia, joissa ei kuvata väkivaltaa. Voit jättää minkä tahansa tehtävän väliin. Kenenkään ei tarvitse kertoa omasta tai läheistensä elämästä.
+
+### Tehtävä 1: Arvioi koulun turvallisuutta
+
+**Aika:** 15 min
+**Tarvitset:** paperia ja kynän
+**Ilman laitetta:** Tämä on paperitehtävä: kuvaus on tehtävässä. Kirjoita piirteiden numerot paperille ja tee vaiheet 1–4.
+**Harjoittelet:** Osaan 2 ja 5
+
+*Lintulahden lukio (kuvitteellinen). Koulun piirteitä:*
+
+1. Portaikon valaistus toimii huonosti.
+2. Taukotilassa on aina aikuinen lähellä.
+3. Opiskelijoiden viestiryhmissä ei ole ylläpitäjää, joka poistaisi loukkaavia viestejä.
+4. Koulun säännöissä sanotaan, mistä apua saa, jos kiusataan.
+5. Pyöräpysäköinti on pimeässä nurkassa.
+6. Opiskelijat saavat kertoa huolistaan nimettömästi laatikkoon.
+
+1. Piirrä taulukko: ympäristö (fyysinen, psykososiaalinen, digitaalinen) | tukee turvallisuutta | heikentää turvallisuutta.
+2. Sijoita jokainen piirre taulukkoon. Yksi piirre voi kuulua tapaturmien ehkäisyyn: merkitse se.
+3. Kirjoita jokaiselle heikentävälle piirteelle yksi parannusehdotus ja se, kuka sen toteuttaa.
+4. Kirjoita yksi lause: miksi turvallisuus ei synny pelkästä rakennuksesta?
+
+### Tehtävä 2: Seuraa tapausta
+
+**Aika:** 20 min
+**Tarvitset:** paperia ja kynän
+**Ilman laitetta:** Tämä on paperitehtävä: tapaus on tehtävässä. Tee kaikki vaiheet paperilla.
+**Harjoittelet:** Osaan 1, 3 ja 5
+
+*Kuvaus (kuvitteellinen):* Viestiryhmässä Aaro jakaa kuvan Noorista ilman, että Noor on antanut siihen luvan. Muutama ryhmän jäsen nauraa. Veera ei naura. Hän kertoo asiasta ryhmän ylläpitäjälle ja koulun terveydenhoitajalle. Ylläpitäjä poistaa kuvan. Koulu keskustelee ryhmän kanssa siitä, miksi kuvan jakaminen ei ole sallittua, ja Aaro joutuu vastaamaan teostaan. Noor saa tukea opiskeluhuollosta.
+
+1. Nimeä, mistä väkivallan muodoista tapauksessa on kyse. Valitse sivun luettelosta.
+2. Kirjoita, kenellä on vastuu tapahtuneesta ja miksi vastuu ei ole Noorilla.
+3. Kirjoita kolme suojaavaa tekijää, jotka tapauksessa toimivat, esimerkiksi aikuinen tai sivustakatsojan teko.
+4. Kirjoita kolme asiaa, joilla koulu voisi ehkäistä vastaavaa: yksi yksilön, yksi koulun ja yksi yhteiskunnan tasolla.
+5. Kirjoita, mistä Noor tai joku muu tapauksen osallinen voisi hakea apua. Käytä Apua ja tukea -osiota.
+
+### Tehtävä 3: Vapaaehtoisuus ja suostumus
+
+**Aika:** 10 min
+**Tarvitset:** paperia ja kynän; vaiheeseen 1 puhelimen tai tietokoneen
+**Ilman laitetta:** Ohita vaihe 1. Tee vaiheet 2–4 paperilla.
+**Harjoittelet:** Osaan 4
+
+*Lauseita (kuvitteellisia, yleisellä tasolla):*
+
+- a) Noor sanoo kyllä, koska toinen uhkaa kertoa hänen salaisuutensa, jos hän kieltäytyy.
+- b) Kim on mukana, koska hän itse haluaa, eikä kukaan painosta.
+- c) Sami on vain hiljaa.
+- d) Veera sanoo ensin kyllä, mutta peruu sen ennen kuin mitään on tapahtunut.
+
+1. Avaa [oikeusministeriön sivu](https://oikeusministerio.fi/seksuaalirikoslaki) ja etsi, mistä päivästä lähtien uusi laki on voimassa.
+2. Kirjoita omin sanoin yksi lause: mitä laissa tarkoitetaan vapaaehtoisuudella?
+3. Merkitse jokaisen lauseen a–d kohdalle, onko ihminen mukana vapaaehtoisesti, ja perustele yhdellä lauseella.
+4. Kirjoita yksi lause siitä, miksi lain sana ja arjen sana voivat erota.
+
+## Pohdinta
+
+Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+
+1. Miksi vastuu väkivallasta on aina sillä, joka sitä käyttää, vaikka ympäristö vaikuttaa siihen, miten väkivaltaa tapahtuu?
+2. Mitkä asiat helpottavat sivustakatsojaa puuttumaan asiaan ja mitkä vaikeuttavat sitä?
+3. Miksi väkivallan ehkäisy toimii paremmin jatkuvana kuin yhtenä luentona?
+
+**Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
+
+1. Osaan kuvata, mitä turvallisuus ja väkivalta tarkoittavat, ja nimetä väkivallan muotoja yleisellä tasolla, kuten kiusaaminen, lähisuhdeväkivalta ja digitaalinen väkivalta.
+2. Osaan selittää, miten fyysisen, psykososiaalisen ja digitaalisen ympäristön piirteet tukevat tai heikentävät turvallisuutta, myös tapaturmien ehkäisyssä.
+3. Osaan erottaa väkivallan riskitekijöitä ja suojaavia tekijöitä ja selittää, miksi vastuu väkivallasta on aina sillä, joka sitä käyttää.
+4. Osaan selittää, mitä ovat vapaaehtoisuus ja suostumus ja miten sanat eroavat laissa ja arjessa.
+5. Osaan suunnitella väkivallan ehkäisyä yksilön, koulun ja yhteiskunnan tasolla ja kertoa, mistä apua saa.
+
+Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+## Koetehtävät
+
+Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia, eikä niissä ole lukuja eikä väkivallan kuvausta. TE2 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE3-moduuleista.
+
+### K1: Virheiden tunnistaminen, 25 min (20 p)
+
+*Osa A20 · Harjoittelee: Osaan 1, 2, 3*
+
+*Aineisto (kuvitteellinen koulun tiedotteen luonnos):*
+
+> (1) Väkivalta on aina fyysistä, ja siksi sanat ja uhkailu eivät kuulu siihen.
+> (2) Jos joku joutuu kiusatuksi, vastuu on osittain hänellä, jos hän ei kertonut asiasta aikaisemmin.
+> (3) Digitaalinen väkivalta ei ole oikeaa väkivaltaa, koska se tapahtuu vain verkossa.
+> (4) Lähisuhdeväkivaltaa tapahtuu vain eri sukupuolta olevien parien kesken.
+> (5) Tapaturmat ovat sattumaa, joten ympäristön suunnittelulla ei voi ehkäistä niitä.
+
+Luonnoksessa on viisi virhettä. Etsi virheet ja korjaa ne. (5 × 4 p)
+
+### K2: Taulukon täydentäminen, 35 min (20 p)
+
+*Osa B20 · Harjoittelee: Osaan 3, 5*
+
+*Taulukko 1 (kuvitteellinen): Ehkäisyn keinoja eri tasoilla*
+
+| Taso | Kiusaaminen | Lähisuhdeväkivalta | Digitaalinen väkivalta |
+|---|---|---|---|
+| Yksilö | taito puuttua sivusta ja kertoa aikuiselle | A | B |
+| Koulu | C | nuorten ihmissuhdetaitojen ja palveluiden opetus | D |
+| Yhteiskunta | E | lait ja auttavat palvelut | F |
+
+a) Täydennä kohdat A–F: kirjoita kuhunkin yksi konkreettinen ehkäisyn keino, joka sopii kyseiselle tasolle. (12 p)
+
+b) Perustele, miksi ehkäisyn pitäisi toimia usealla tasolla yhtä aikaa. (8 p)
+
+### K3: Aineiston analyysi, 55 min (30 p)
+
+*Osa C30 · Harjoittelee: Osaan 2, 3, 5*
+
+*Aineisto 1 (kuvitteellinen turvallisuussuunnitelman tiivistelmä):* Koivurannan lukion turvallisuussuunnitelmassa sanotaan: Kiusaamiseen puututaan aina, kun siitä saadaan tieto. Käytävillä on valvontakamerat. Opiskelijoiden viestiryhmiä koulu ei seuraa, koska ne ovat opiskelijoiden omia. Tapaturmista vastaa rehtori. Opiskeluhuollon kuraattori on tavattavissa tiistaisin. Suunnitelma esitellään opiskelijoille syksyn alussa.
+
+*Aineisto 2 (kuvitteellinen opiskelijakunnan aloite):* Opiskelijakunta toivoo, että aikuinen on tavoitettavissa joka päivä, viestiryhmille sovitaan yhteiset säännöt, kiusaamisesta voi kertoa nimettömästi ja turvallisuusasioista puhutaan useammin kuin kerran vuodessa.
+
+a) Arvioi suunnitelman vahvuuksia ja puutteita turvallisuuden eri ympäristöjen (fyysinen, psykososiaalinen, digitaalinen) ja tapaturmien ehkäisyn kannalta. (10 p)
+
+b) Arvioi opiskelijakunnan aloitetta ja täydennä suunnitelmaa ehdotuksilla yksilön, koulun ja yhteiskunnan tasolla. (12 p)
+
+c) Perustele, miksi ehkäisyn ja avun saatavuuden kuuluu olla yhdessä ja miksi ehkäisyn pitäisi olla jatkuvaa. (8 p)
+
+## Mallivastaukset
+
+### K1: Virheiden tunnistaminen, 25 min (20 p)
+
+**Malliksi kelpaava vastaus**
+
+1. **Virhe:** väkivalta ei ole aina fyysistä. Se voi olla myös psyykkistä, seksuaalista tai taloudellista, ja uhkailu ja kontrollointi kuuluvat siihen.
+2. **Virhe:** vastuu on aina sillä, joka käyttää väkivaltaa tai kiusaa. Kokenut ei ole syyllinen, vaikka hän ei olisi kertonut heti.
+3. **Virhe:** digitaalinen väkivalta on väkivaltaa. Häirintä, uhkailu ja kuvien jakaminen ilman lupaa vaikuttavat todellisesti ja voivat jatkua kaikkialle.
+4. **Virhe:** lähisuhdeväkivaltaa tapahtuu kaikenlaisissa suhteissa ja perheissä sukupuolesta ja suuntautumisesta riippumatta.
+5. **Virhe:** tapaturmia voi ehkäistä. Keinoja ovat valaistus ja muu ympäristön suunnittelu, säännöt ja valvonta, tuotteiden turvallisuus sekä taidot, kuten ensiapu.
+
+**Pisteytys**
+
+*Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
+
+- Jokaisesta virheestä 4 p: virhe tunnistettu 2 p ja oikea korjaus perusteluineen 2 p. Yhteensä 5 × 4 p = 20 p.
+- Korjaus ilman virheen tunnistamista tai pelkkä "väärin" ilman korjausta: enintään 2 p. Väärin tunnistettu oikea kohta ei vähennä pisteitä. Pisteet eivät mene alle nollan.
+
+*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (väkivallan muodot, vastuu, ehkäisy), soveltaminen, analysointi (miksi väite on virheellinen), arviointi ja argumentointi (korjaus on lyhyt ja perusteltu).
+
+**Yhteensä:** 20 p
+
+**Tyypilliset virheet**
+
+- Virhe 2 jää huomaamatta tai kokijan vastuuta pehmennetään ("hieman omaa syytä").
+- Väkivallan käsite pysyy kapeana: vain fyysinen väkivalta tunnistetaan.
+- Korjaus on pelkkä kielto ("ei pidä paikkaansa") ilman oikeaa tietoa.
+- Lähisuhdeväkivallasta oletetaan jokin tietty parisuhde tai perhemuoto.
+
+Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
+
+### K2: Taulukon täydentäminen, 35 min (20 p)
+
+**Malliksi kelpaava vastaus**
+
+| Taso | Kiusaaminen | Lähisuhdeväkivalta | Digitaalinen väkivalta |
+|---|---|---|---|
+| Yksilö | taito puuttua sivusta ja kertoa aikuiselle | **A:** tieto siitä, millainen kohtelu ei ole sallittua, ja tieto, mistä apua saa | **B:** taito kieltäytyä kuvien jakamisesta ja kertoa viesteistä aikuiselle |
+| Koulu | **C:** kiusaamisen vastaiset toimintatavat ja aikuisten säännöllinen läsnäolo | nuorten ihmissuhdetaitojen ja palveluiden opetus | **D:** viestiryhmien yhteiset säännöt ja aikuinen, jonka puoleen voi kääntyä |
+| Yhteiskunta | **E:** laki ja opiskeluhuollon palvelut kaikille | lait ja auttavat palvelut | **F:** laki, joka kieltää häirinnän ja kuvien jakamisen ilman lupaa, ja palveluiden velvollisuus poistaa loukkaavaa sisältöä |
+
+**b)** Ehkäisyn pitäisi toimia usealla tasolla, koska väkivalta syntyy useiden tekijöiden yhteisvaikutuksesta. Yksilön taidot eivät riitä, jos ympäristössä ei ole sääntöjä tai aikuista, joka puuttuu. Koulun säännöt eivät riitä, jos laki ei suojaa ja palvelut puuttuvat. Taso tukee toista: yhteiskunnan laki antaa koululle perusteen toimia, koulun säännöt auttavat yksilöä uskaltamaan kertoa, ja yksilön taidot pitävät säännöt elossa arjessa. Jos vain yksi taso toimii, jää aukkoja, joista väkivalta pääsee jatkumaan. Ehkäisyn ei pidä asettaa vastuuta kokijalle.
+
+**Pisteytys**
+
+*Sisältö 10 p:*
+
+- a) Jokainen kohta A–F, jossa on konkreettinen keino ja joka sopii tasolle: 1 p kustakin. Yhteensä 6 p.
+- b) Kaksi perustetta tasojen yhtäaikaisuudelle (esimerkiksi tasot täydentävät toisiaan, yksittäinen taso jättää aukkoja) 2 p kummastakin. Yhteensä 4 p.
+
+*Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
+
+- 8–10 p: keinot ovat konkreettisia ja sopivat sekä tasolle että väkivallan muodolle; perustelussa tasot yhdistetään toisiinsa ja vastuu pysyy väkivaltaa käyttävällä, ei kokijalla.
+- 4–7 p: keinot ovat oikeita mutta yleisiä ("lisätään tietoa"), tai perustelu jää yhden tason tarkasteluun.
+- 0–3 p: taulukko on täytetty toistamalla annettuja sanoja tai perustelu puuttuu.
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
+
+Tehtävänannon osapisteet (a 12 p, b 8 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+
+**Yhteensä:** 20 p
+
+**Tyypilliset virheet**
+
+- Keino ei sovi tasolle: esimerkiksi laki kirjoitetaan yksilön kohtaan.
+- Keino on yleinen ("tieto auttaa") eikä liity väkivallan muotoon.
+- Ehkäisyn vastuu siirretään kokijalle ("jokaisen pitää varoa").
+- Perustelu toteaa vain, että useampi taso on parempi, selittämättä miksi.
+
+Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
+
+### K3: Aineiston analyysi, 55 min (30 p)
+
+**Malliksi kelpaava vastaus**
+
+**a)** *Fyysinen ympäristö:* valvontakamerat voivat estää joitakin tapauksia käytävillä, mutta ne eivät ehkäise kiusaamista tai häirintää. Suunnitelma ei mainitse valaistusta tai muita fyysisiä piirteitä. *Psykososiaalinen ympäristö:* vahvuus on, että kiusaamiseen puututaan aina kun tieto saadaan. Puute on, että tieto saadaan vasta, kun joku kertoo. Aikuinen, jonka luo voi mennä, on saatavilla vain tiistaisin, mikä voi olla liian harvoin. *Digitaalinen ympäristö:* koulu ei seuraa viestiryhmiä, vaikka suuri osa kiusaamisesta ja häirinnästä voi tapahtua niissä. Suunnitelma ei sano, miten digitaaliseen väkivaltaan puututaan. *Tapaturmat:* vastuu on rehtorilla, mikä on selkeää, mutta suunnitelma ei kerro, miten tapaturmia ehkäistään. Suunnitelman esittely syksyn alussa on hyvä, mutta kertaluonteinen.
+
+**b)** Opiskelijakunnan aloite täydentää suunnitelmaa hyvin. Joka päivä tavoitettava aikuinen madaltaa kynnystä kertoa, ja nimetön kertominen auttaa niitä, jotka pelkäävät. Viestiryhmien säännöt täyttävät digitaalisen puutteen. Useammin toistuva turvallisuuskeskustelu tekee ehkäisystä jatkuvaa. Aloitteesta puuttuvat fyysinen ympäristö ja tapaturmat. *Ehdotukset:* yksilön tasolla opiskelijat harjoittelevat puuttumista sivusta ja kertomista. Koulun tasolla suunnitelmaan lisätään valaistuksen ja kulkuväylien tarkastus, viestiryhmien säännöt ja ylläpitäjät sekä aikuisen päivittäinen läsnäolo. Yhteiskunnan tasolla koulu tukeutuu lakiin, joka suojaa häirinnältä, ja palveluihin, joihin voi ohjata, kuten opiskeluterveydenhuolto ja auttavat palvelut.
+
+**c)** Ehkäisy ja avun saatavuus kuuluvat yhteen, koska ehkäisy ei estä kaikkea väkivaltaa. Kun jotain tapahtuu, avun pitää olla helposti saatavilla, ja tieto avusta pienentää haittoja. Toisaalta jos apu on helposti saatavilla, ihmiset uskaltavat kertoa ajoissa, mikä ehkäisee asioiden pahenemista. Ehkäisyn pitäisi olla jatkuvaa, koska asenteet ja ryhmät muuttuvat: uudet opiskelijat tulevat, ja kertaluonteinen esitys unohtuu. Vastuu väkivallasta on aina sillä, joka sitä käyttää, joten ehkäisyssä ei tule syyllistää kokijaa vaan muuttaa ympäristöä.
+
+**Pisteytys**
+
+*Sisältö 15 p:*
+
+- a) Kolme ympäristöä, joista kustakin vahvuus tai puute aineistoon viitaten: 1 p kustakin. Tapaturmien ehkäisyn arvio 1 p. Yhteensä 4 p.
+- b) Aloitteen arvio (mitä se täydentää tai mistä se puuttuu) 2 p. Ehdotus kullakin kolmella tasolla 1 p kustakin. Yhteensä 5 p.
+- c) Ehkäisyn ja avun yhteys perusteltu 2 p. Jatkuvuus perusteltu 2 p. Vastuu väkivaltaa käyttävällä, ei kokijalla 2 p. Yhteensä 6 p.
+
+*Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
+
+- 12–15 p: arvio viittaa molempiin aineistoihin ja erottaa ympäristöt; ehdotukset on sidottu aineiston puutteisiin; vastaus punnitsee ehkäisyn ja avun suhdetta ja perustelee jatkuvuuden; kieli kunnioittaa kokijoita.
+- 6–11 p: arvio on oikea mutta luetteleva, tai ehdotukset ovat yleisiä.
+- 0–5 p: vastaus kuvaa aineistoja ilman arviota tai antaa yleisiä turvallisuusohjeita.
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
+
+Tehtävänannon osapisteet (a 10 p, b 12 p, c 8 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+
+**Yhteensä:** 30 p
+
+**Tyypilliset virheet**
+
+- Valvontakamerat esitetään ratkaisuna kaikkeen.
+- Digitaalinen ympäristö unohtuu tai sitä pidetään koulun vastuun ulkopuolella.
+- Vastaus antaa neuvoja kokijalle ("opiskelijoiden pitää kertoa") sen sijaan, että arvioisi ympäristöä.
+- Ehkäisy ja apu käsitellään erillisinä, eikä jatkuvuutta perustella.
+- Ehdotukset ovat yleisiä ("lisätään tietoa") eivätkä liity aineiston puutteisiin.
+
+Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
+
+## Itseopiskelun askel
+
+**Tavoite:** Osaat selittää, miten ympäristöt tukevat turvallisuutta, ja suunnitella väkivallan ehkäisyä kolmella tasolla.
+
+**Aikaa kuluu:** noin 70 minuuttia.
+
+**Näin etenet:**
+
+1. **Lue** osio Opiskelijalle (8 min). Voit pitää tauon, jos aihe tuntuu raskaalta.
+2. **Tee** Tehtävä 1 (15 min) ja Tehtävä 2 (20 min). Tehtävä 3 on lisätehtävä (10 min). Voit jättää minkä tahansa tehtävän väliin.
+3. **Harjoittele** koetehtävä K1 (25 min) ja tarkista vastauksesi mallivastauksella. K2 ja K3 sopivat kertaukseen.
+4. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
+5. **Seuraava askel:** aihe 08 *Työhyvinvointi*. Siellä tarkastelet työympäristön turvallisuutta ja jaksamista.
+
+**Muistiinpanoihin:** Säilytä Tehtävän 1 taulukko kolmesta ympäristöstä ja Tehtävän 2 suojaavien tekijöiden lista. Kirjoita ylös ehkäisyn kolme tasoa ja se, miksi vastuu on aina väkivaltaa käyttävällä.
+
+## Tuntisuunnitelma (75 min)
+
+**Tavoitetehtävä:** Tehtävä 2 (tapaus) tehdään kokonaan kaikissa tuntimalleissa. Kaikki esimerkit ovat kuvitteellisia eikä tapauksissa kuvata väkivaltaa. Ketään ei pyydetä kertomaan omasta tai läheistensä kokemuksesta. Lue sisältöhuomautus ääneen tunnin alussa ja kerro, että kuka tahansa saa jättää tehtävän väliin tai poistua hetkeksi.
+
+| Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
+|---|---|---|---|---|---|
+| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka tekee paikasta turvallisen. | Kerää laput ja lue muutama ääneen. Ryhmittele: ihmiset, säännöt, tilat, verkko. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
+| Aiemman tiedon aktivointi | 10 | Parit kertaavat TE1:n suojaavat tekijät ja Ottawan viisi toiminta-aluetta. | Kirjoita toiminta-alueet taululle. Kysy: mikä niistä liittyy turvallisuuteen? | Yksin paperille. | Vain suojaavat tekijät. |
+| Lyhyt alustus | 10 | Opiskelijat kirjaavat turvallisuuden kolme ympäristöä, väkivallan muodot, vastuun ja ehkäisyn kolme tasoa. | Selitä yleisellä tasolla ilman yksityiskohtia. Korosta vastuuta: se on aina tekijällä. | Käsitteet paperilla. | Ehkäisyn tasot kotiin. |
+| Työskentely | 25 | Tehtävä 2 kokonaan pareittain (20 min), sitten Tehtävän 1 vaiheet 1–2 (5 min). | Kierrä ja kysy: mikä tapauksessa suojaa? Älä pyydä esimerkkejä opiskelijoiden omasta elämästä. | Yksin paperilla; tehtävän voi jättää väliin. | Tehtävä 1 kotiin. |
+| Pari- tai pienryhmäpohdinta | 10 | Ryhmät vastaavat Tehtävän 2 vaiheeseen 4: mitä koulu voisi tehdä kolmella tasolla? | Kokoa ehdotukset taululle tasoittain. Kysy, mikä taso puuttuu. | Yksin: kaksi ehdotusta. | Yksi yhteinen vastaus. |
+| Koeharjoitus ja exit | 10 | K1:n kohdat 1–3 yksin (7 min), tarkistus (3 min). Exit-lappu: yksi asia, jonka tietää nyt. | Näytä K1:n pisteytys: mistä 4 pistettä syntyy? | Paperilla. | Tarkistus kotona. |
+| Puskuri | 5 | Kysymyksiä. Kerro, mistä apua saa: opiskeluterveydenhuolto, opiskeluhuolto ja Apua ja tukea -osio. | Kerro, että olet tavattavissa tunnin jälkeen. | – | – |
+
+### Tuntisuunnitelma (60 min)
+
+| Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
+|---|---|---|---|---|---|
+| Virittäytyminen | 4 | Nimetön lappu: yksi asia, joka tekee paikasta turvallisen. | Lue sisältöhuomautus ja muutama lappu. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
+| Aiemman tiedon aktivointi | 6 | Koko ryhmä kertaa suojaavat tekijät. | Kirjoita ne taululle. | Lista paperilla. | Vain kaksi tekijää. |
+| Lyhyt alustus | 8 | Opiskelijat kirjaavat kolme ympäristöä ja vastuun. | Selitä yleisellä tasolla ilman yksityiskohtia. | Käsitteet paperilla. | Ehkäisyn tasot kotiin. |
+| Työskentely | 25 | Tehtävä 2 kokonaan (20 min), sitten Tehtävän 1 vaiheet 1–2 (5 min). | Kierrä ja kysy suojaavista tekijöistä. | Yksin paperilla; tehtävän voi jättää väliin. | Tehtävä 1 kotiin. |
+| Pari- tai pienryhmäpohdinta | 8 | Parit vastaavat Tehtävän 2 vaiheeseen 4. | Kokoa ehdotukset tasoittain. | Yksin paperille. | Yksi yhteinen vastaus. |
+| Koeharjoitus ja exit | 7 | K1:n kohdat 1–2 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi asia, jonka tietää nyt. | Näytä, miten 4 pistettä jakautuu. | Paperilla. | Tarkistus kotona. |
+| Puskuri | 2 | Kysymykset. Kerro, mistä apua saa. | Kerro, että olet tavattavissa tunnin jälkeen. | – | – |
+
+### Tuntisuunnitelma (45 min)
+
+| Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
+|---|---|---|---|---|---|
+| Virittäytyminen | 2 | Kysymys ääneen: mikä tekee paikasta turvallisen? | Lue sisältöhuomautus ja kirjoita pari vastausta taululle. | Opiskelijat kirjoittavat vastauksen itselleen. | – |
+| Aiemman tiedon aktivointi | 3 | Koko ryhmä nimeää suojaavia tekijöitä. | Täydennä puuttuvat. | Lista paperilla. | Vain yksi tekijä. |
+| Lyhyt alustus | 7 | Opiskelijat kirjaavat väkivallan muodot ja vastuun. | Selitä yleisellä tasolla. Ehkäisyn tasot jäävät kotiin. | Käsitteet paperilla. | Vain vastuu ja kaksi muotoa. |
+| Työskentely | 22 | Tehtävä 2 kokonaan pareittain (20 min). Lopuksi jokainen kirjoittaa yhden ehdotuksen koulun tasolle (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla; tehtävän voi jättää väliin. | Ehdotus kotiin. |
+| Pari- tai pienryhmäpohdinta | 5 | Koko ryhmä vastaa Tehtävän 2 vaiheeseen 4. | Kirjoita ehdotukset taululle tasoittain. | Yksin paperille. | Pohdinta kotiin. |
+| Koeharjoitus ja exit | 4 | Exit-lappu: yksi asia, jonka tietää nyt. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Puskuri | 2 | Kysymykset. Kerro, mistä apua saa. | Kerro, että olet tavattavissa tunnin jälkeen. | – | – |
+
+### Valmistelu
+
+- Ilmoita ennen tuntia terveydenhoitajalle ja kuraattorille, että aiheesta puhutaan. Sovi, että he ovat tavoitettavissa.
+- Selvitä koulun ohje siitä, miten huolta lapsen turvallisuudesta käsitellään, ja kerro opiskelijoille neutraalisti, että jos huoli alaikäisen turvallisuudesta herää, aikuisella on velvollisuus toimia. Tarkista tämä koulusi ja hyvinvointialueesi ohjeista (esimerkki).
+- Aikuisille ja kaikille väkivaltaa kokeneille on maksuton auttava puhelin [Nollalinja](https://nollalinja.fi/). Sivu ei kerro, että se on tarkoitettu nuorille, joten se on opettajan tiedoksi eikä opiskelijoiden apulinkki; numero ja aukioloajat ovat sivulla.
+- Suunnittele aihe sarjaksi tunteja, ei yksittäiseksi luennoksi. Älä kutsu vierailijoita kertomaan omista kokemuksistaan.
+- Älä teetä luokassa testejä äläkä pyydä opiskelijoita arvioimaan omaa tilannettaan. Poliisin sivun testejä ei käytetä.
+
+### Avoimet kysymykset
+
+- Miksi väkivallan määritelmä sisältää muutakin kuin fyysisen väkivallan?
+- Miksi vastuu on aina väkivaltaa käyttävällä, vaikka ympäristö vaikuttaa?
+- Mikä tekee sivustakatsojan puuttumisesta helppoa tai vaikeaa digitaalisessa ympäristössä?
+- Miksi ehkäisy pitää tehdä useilla tasoilla?
+- Miten voimme puhua väkivallasta niin, ettei ketään leimata?
+
+### Pelisäännöt ja oletusten tarkistus
+
+- Puhutaan kuvitteellisista tapauksista ja ilmiöistä, ei omista tai läheisten kokemuksista. Älä pyydä ketään kertomaan, onko kokenut väkivaltaa, tai kysy perheestä. Oleta, että luokassa voi olla ihmisiä, jotka ovat kokeneet väkivaltaa.
+- Pysy yleisellä tasolla. Älä kuvaa tekoja, keinoja tai paikkoja. Älä käytä pelottelua, järkyttäviä kuvia tai tositarinoita.
+- Jos opiskelija kertoo omasta tai toisen kokemuksesta, kuuntele rauhallisesti ja kiitä luottamuksesta. Älä lupaa salassapitoa, jos turvallisuus on uhattuna. Ohjaa opiskeluterveydenhuoltoon tai opiskeluhuoltoon ja toimi koulun ohjeen mukaan. Kerro neutraalisti, että aikuisella on velvollisuus toimia, kun lapsen turvallisuus on uhattuna.
+- Älä koskaan syyllistä kokijaa: älä kysy, mitä hän teki tai mitä hänellä oli yllään. Älä oleta kokijoiden tai käyttäjien sukupuolta tai suuntautumista; vaihtele esimerkkien nimiä, perhemuotoja ja suhteita.
+- **Oletusten tarkistus ennen tuntia:** Oletanko, että kaikilla on turvallinen koti? Oletanko, että lähisuhdeväkivalta tarkoittaa tiettyä suhdetta? Syyllistänkö esimerkillä kokijaa? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
+
+## Eriyttäminen
+
+**Helpompi polku:** Tee Tehtävässä 1 vain kolme ensimmäistä piirrettä ja käytä apulausetta: *Tämä tukee/heikentää turvallisuutta, koska …*. Tee Tehtävässä 2 vain vaiheet 1–3. Koetehtävistä K1:n kohdat 1–3 riittävät.
+
+**Syvempi polku:** Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn viiden kriteerin avulla. Lue [THL:n väkivaltasivu](https://thl.fi/data-ja-tilastot/vakivalta) ja mieti, mitä tilasto voi ja mitä se ei voi kertoa. Lue [oikeusministeriön sivu](https://oikeusministerio.fi/seksuaalirikoslaki) ja vertaa lain ja arjen käsitteitä.
+
+**S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Sarakkeisiin voi kirjoittaa omalla kielellä; koetehtävissä harjoitellaan suomenkielisiä käsitteitä.
+
+- *turvallisuus = ei ole vaaraa ja voi luottaa saavansa apua*
+- *väkivalta = toisen vahingoittaminen tai sillä uhkaaminen*
+- *lähisuhdeväkivalta = väkivalta kumppanin tai perheenjäsenen taholta*
+- *digitaalinen väkivalta = häirintä ja uhkailu verkossa*
+- *kiusaaminen = toistuva tarkoituksellinen pahan mielen aiheuttaminen*
+- *vapaaehtoisuus = ihminen on mukana omasta tahdostaan*
+- *suostumus = arkinen sana vapaaehtoiselle mukana olemiselle*
+- *riskitekijä = asia, joka lisää todennäköisyyttä väestössä*
+- *suojaava tekijä = asia, joka vähentää todennäköisyyttä*
+
+**Lukeminen, keskittyminen ja jännitys:** Lue tapaus lause kerrallaan ja peitä muut. Aiheen voi käsitellä tauoin. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa. Jos aihe tuntuu raskaalta, voit tehdä sen sijaan Tehtävän 1.
+
+**Ilman laitetta:** Kaikki tehtävät, koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 vaihe 1 on ohitettavissa.
+
+**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+
+## Apua ja tukea
+
+**Jos olet välittömässä vaarassa, soita hätänumeroon 112.**
+
+Jos sinua tai jotakuta tuntemaasi kohdellaan väkivaltaisesti tai uhkaavasti, se ei ole sinun syysi. Vastuu on aina sillä, joka käyttää väkivaltaa. Voit puhua asiasta opiskeluterveydenhuollon terveydenhoitajan tai lääkärin, kuraattorin tai psykologin kanssa. Voit puhua myös ryhmänohjaajalle tai muulle koulun aikuiselle. Jos huolestuttaa oma tapasi kohdella toisia, voit puhua samoille aikuisille. Koulusi kertoo, miten aika varataan (esimerkki). Avun pyytäminen on tavallista ja järkevää.
+
+**Apua saat myös:**
+
+- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
+- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
+- [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille. Ikärajat ja aukioloajat ovat sivulla. Sekasin-sivu linkittää alle 16-vuotiaille tarkoitettuun Apuu-chattiin (apuu.fi).
+- [Nettiturvakoti, osio Olen lapsi tai nuori (luettu 21.11.2026)](https://nettiturvakoti.fi/): tietoa ja apua alle 18-vuotiaille lähisuhdeväkivallasta. Chatin aukioloajat ovat sivulla.
+
+[Rikosuhripäivystys RIKU (luettu 21.11.2026)](https://www.riku.fi/rikoksen-uhrina/lapsi-ja-nuori-rikoksen-uhrina/) on rikosten uhreille ja läheisille tarkoitettu palvelu. Sivu puhuttelee suoraan lasta tai nuorta, mutta palvelu ei ole tehty erityisesti nuorille, eikä sivulla kerrota ikärajaa. Aukioloajat ovat sivulla.
+
+## Lähteet
+
+Kootaan sivun tiedoista automaattisesti.

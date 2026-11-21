@@ -1,0 +1,499 @@
+---
+id: te2-02-tutkimustieto
+module: TE2
+order: 12
+title: "Tutkimusprosessi ja tutkimustiedon luotettavuus"
+summary: "Opit, miten tutkimus etenee kysymyksestä julkaisuun, miten eri tutkimusasetelmia ja otoksia arvioidaan ja miten vertailet useita lähteitä, kun niiden tarkoitus, menetelmä ja ikä vaihtelevat."
+curriculum: [TE2.s1, TE2.t1, TE2.t2]
+assessment: numeric
+suggested_timing: {year: 2, term: syksy}
+role: core
+duration_options: [45, 60, 75]
+self_study_minutes: 75
+prerequisites: [te2-01-tieto-ja-vinoumat, te1-03-terveyskulttuuri]
+safety_flags: []
+official_links:
+  - {title: "Asiantuntijalähteen arviointi (aoe.fi 3006)", url: "https://aoe.fi/#/materiaali/3006", publisher: "Hämeen ammattikorkeakoulu (aoe.fi)", read: 2026-11-21}
+  - {title: "Asiantuntijalähteen arviointi -kaavio (aoe.fi 3050)", url: "https://aoe.fi/#/materiaali/3050", publisher: "Hämeen ammattikorkeakoulu (aoe.fi)", read: 2026-11-21}
+  - {title: "Terveyskirjasto", url: "https://www.terveyskirjasto.fi/", publisher: "Kustannus Oy Duodecim", read: 2026-11-21}
+  - {title: "THL:n avoin data", url: "https://thl.fi/tutkimus/avoin-data", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Kouluterveyskysely (THL)", url: "https://thl.fi/tutkimus/hankkeet/kouluterveyskysely", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Ylioppilastutkinnon hyvän vastauksen piirteet, terveystieto (syksy 2024)", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-21}
+  - {title: "Tietolähteet ja ohjauspalvelut (opinto-ohjaus, aihe 08)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/08-tietolahteet/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
+  - {title: "Opiskeluterveydenhuolto (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi", read: 2026-11-21}
+  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
+yearly_facts: [kouluterveyskysely, opiskeluterveydenhuolto]
+materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
+linked_materials:
+  - title: "Asiantuntijalähteen arviointi (aoe.fi 3006)"
+    url: "https://aoe.fi/#/materiaali/3006"
+    publisher: "Hämeen ammattikorkeakoulu (aoe.fi)"
+    licence_class: open-cc-by-sa
+    licence: "CC BY-SA 4.0 (aoe.fi-metatiedot)"
+    audience: opiskelija ja opettaja
+    read: 2026-11-21
+  - title: "Asiantuntijalähteen arviointi -kaavio (aoe.fi 3050)"
+    url: "https://aoe.fi/#/materiaali/3050"
+    publisher: "Hämeen ammattikorkeakoulu (aoe.fi)"
+    licence_class: open-cc-by-sa
+    licence: "CC BY-SA 4.0 (aoe.fi-metatiedot)"
+    audience: opiskelija ja opettaja
+    read: 2026-11-21
+  - title: "Terveyskirjasto"
+    url: "https://www.terveyskirjasto.fi/"
+    publisher: "Kustannus Oy Duodecim"
+    licence_class: link-out
+    licence: "Kaikki oikeudet pidätetään"
+    audience: opiskelija ja opettaja (suuri yleisö)
+    read: 2026-11-21
+  - title: "THL:n avoin data"
+    url: "https://thl.fi/tutkimus/avoin-data"
+    publisher: "Terveyden ja hyvinvoinnin laitos (THL)"
+    licence_class: link-out
+    licence: "Data CC BY 4.0; sivun tekstit: kaikki oikeudet pidätetään"
+    audience: opettaja ja ammattilaiset
+    read: 2026-11-21
+  - title: "Kouluterveyskysely (THL)"
+    url: "https://thl.fi/tutkimus/hankkeet/kouluterveyskysely"
+    publisher: "Terveyden ja hyvinvoinnin laitos (THL)"
+    licence_class: link-out
+    licence: "Kaikki oikeudet pidätetään"
+    audience: opiskelija ja opettaja
+    read: 2026-11-21
+  - title: "Ylioppilastutkinnon hyvän vastauksen piirteet, terveystieto (syksy 2024)"
+    url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html"
+    publisher: "Ylioppilastutkintolautakunta"
+    licence_class: link-out
+    licence: "Kaikki oikeudet pidätetään"
+    audience: opettaja ja opiskelija
+    read: 2026-11-21
+exam_tasks:
+  - {id: K1, type: monivalinta, part: A20, points: 20, minutes: 25, codes: [TE2.s1, TE2.t1]}
+  - {id: K2, type: aineiston-lukeminen, part: B20, points: 20, minutes: 35, codes: [TE2.s1, TE2.t1, TE2.t2]}
+  - {id: K3, type: tutkimussuunnitelma, part: C30, points: 30, minutes: 50, codes: [TE2.t1, TE2.t2, TE2.s1]}
+review_status: {teacher: none, health_professional: none, safe_messaging: none}
+sibling_links:
+  - title: "Tietolähteet ja ohjauspalvelut (opinto-ohjaus, aihe 08)"
+    url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/08-tietolahteet/"
+    read: 2026-11-21
+school_adapts:
+  - "Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"
+accessibility:
+  - "Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; aineistot on kirjoitettu tehtäviin."
+  - "Tehtävissä analysoidaan kuvitteellisia tutkimuksia ja lähteitä; omasta terveydestä ei tarvitse kertoa kenellekään."
+  - "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."
+last_reviewed: 2026-11-21
+---
+
+## Opiskelijalle
+
+**Tämän aiheen jälkeen**
+
+1. Osaan kuvata tutkimusprosessin vaiheet ja selittää, mitä kussakin vaiheessa tehdään ja miksi.
+2. Osaan vertailla tutkimusasetelmia ja arvioida, edustaako otos tutkittavaa joukkoa.
+3. Osaan erottaa yhteyden syy-seuraussuhteesta ja nimetä tekijän, joka voi selittää yhteyden.
+4. Osaan erottaa kyselytiedon ja rekisteritiedon toisistaan ja kertoa, mihin kumpikin sopii.
+5. Osaan hakea terveystietoa ja vertailla useita lähteitä, joiden tarkoitus, menetelmä ja ikä ovat erilaiset.
+
+### Tutkimus etenee vaiheittain
+
+Aiheessa 01 opit, että tieteellinen tieto syntyy avoimilla menetelmillä. Nyt katsot tarkemmin, miten tutkimus tehdään. Vaiheita on kuusi.
+
+1. **Tutkimuskysymys.** Tutkija tarkentaa kysymyksen mitattavaksi: ei "onko koulu hyvä?" vaan "kuinka moni opiskelija kokee kuuluvansa kouluyhteisöön?"
+2. **Asetelma ja suunnitelma.** Tutkija valitsee tavan, jolla kysymykseen vastataan, ja päättää otoksen ja mittarin.
+3. **Aineiston keruu.** Aineisto kerätään suunnitelman mukaan. Tutkittavilta pyydetään suostumus, ja vastaukset käsitellään nimettöminä.
+4. **Analyysi.** Aineisto tiivistetään tuloksiksi.
+5. **Raportointi.** Tulokset kerrotaan niin, että muut voivat arvioida ne, myös rajoitukset.
+6. **Vertaisarviointi ja toisto.** Asiantuntijat lukevat työn ennen julkaisua, ja muut tutkijat voivat toistaa tutkimuksen.
+
+### Asetelma ratkaisee, mitä tutkimus voi kertoa
+
+**Tutkimusasetelma** on suunnitelma siitä, miten tietoa kerätään ja verrataan. Neljä yleistä asetelmaa:
+
+- **Poikkileikkaustutkimus** mittaa joukon yhdellä kertaa. Se kertoo tilanteen, mutta ei muutosta.
+- **Seurantatutkimus** mittaa samoja ihmisiä useasti pitkän ajan kuluessa. Se näyttää muutoksen.
+- **Interventiotutkimus** kokeilee jotakin toimenpidettä. Vahvin muoto on **satunnaistettu koe**, jossa arpa jakaa osallistujat ryhmiin, joten ryhmät ovat keskimäärin samanlaiset.
+- **Tapaus-verrokkitutkimus** vertaa ihmisiä, joilla jokin asia on, ihmisiin, joilla sitä ei ole, ja selvittää, mikä heidän taustassaan eroaa.
+
+### Otos ja edustavuus
+
+Kaikkia ei voi tutkia, joten tutkitaan **otos** eli pieni joukko, jonka halutaan kuvaavan koko **perusjoukkoa**. Otos on **edustava**, kun siinä on eri ryhmiä samassa suhteessa kuin perusjoukossa. Edustavuutta heikentää valikoituminen. Jos kyselyyn vastaavat vain innokkaimmat, tulos kertoo vastaajista eikä kaikista. Matala vastausprosentti on siksi varoitusmerkki.
+
+### Yhteys ei ole syy
+
+Kun kaksi asiaa vaihtelee yhdessä, niillä on **yhteys** eli korrelaatio. **Syy-seuraussuhde** tarkoittaa, että toinen asia aiheuttaa toisen. Yhteyden taustalla voi olla **sekoittava tekijä**, joka vaikuttaa molempiin. Esimerkiksi kuvitteellisessa kaupungissa kirjastoja ja lukioiden menestystä voi yhdistää alueen vauraus, vaikka kirjasto ei olisi menestyksen syy. Syyn osoittamiseen tarvitaan vertailuryhmä, ja satunnaistettu koe on siihen vahvin tapa.
+
+### Kyselytieto ja rekisteritieto
+
+**Kyselytieto** kerätään kysymällä ihmisiltä, ja se kertoo kokemuksista, asenteista ja mielipiteistä. Vastaajat ovat otos. **Rekisteritieto** on kirjattu muuhun tarkoitukseen, esimerkiksi hallintoon, ja se kattaa yleensä koko joukon. Rekisteri kertoo, mitä on tapahtunut, mutta ei yleensä miksi. THL:n [Kouluterveyskysely](https://thl.fi/tutkimus/hankkeet/kouluterveyskysely) on esimerkki kyselystä. [THL:n avoimessa datassa](https://thl.fi/tutkimus/avoin-data) on aineistoja, joissa voi nähdä, miten tieto on kerätty.
+
+### Luotettavuus ja pätevyys
+
+**Luotettavuus** eli reliabiliteetti tarkoittaa, että mittaus antaa saman tuloksen, kun se toistetaan samoissa olosuhteissa. **Pätevyys** eli validiteetti tarkoittaa, että mittari mittaa sitä, mitä on tarkoitus mitata. Vaaka voi mitata tarkasti ja toistuvasti, mutta pätevä se on vain painon mittaamiseen eikä esimerkiksi hyvinvoinnin.
+
+### Miten vertailet lähteitä?
+
+Kun haet tietoa, käytä hakusanoina tarkkoja käsitteitä ja kokeile useita sanoja. Vertaa vähintään kahta lähdettä aina samoilla kysymyksillä: kuka tekee, miksi, mihin tieto perustuu, kuinka vanha se on ja kertooko lähde epävarmuudesta. Hyvä lähde nimeää asetelman ja otoksen. Vertailussa auttavat [Asiantuntijalähteen arviointi -video](https://aoe.fi/#/materiaali/3006) ja sen [kaavio](https://aoe.fi/#/materiaali/3050). Ne ovat avoimia mutta tällä sivustolla vain linkitettyjä. Voit vertailla niiden avulla esimerkiksi tutkimusuutista ja [Terveyskirjaston](https://www.terveyskirjasto.fi/) asiantuntija-artikkelia. Vanha lähde voi olla hyvä ja uusi huono, joten ikä on yksi kysymys muiden joukossa.
+
+## Tehtävät
+
+### Tehtävä 1: Suunnittele tutkimus
+
+**Aika:** 20 min
+**Tarvitset:** paperia ja kynän
+**Ilman laitetta:** Tämä on paperitehtävä: kysymys ja vaihtoehdot ovat tehtävässä.
+**Harjoittelet:** Osaan 1 ja 2
+
+*Tilanne (kuvitteellinen):* Kuusirannan lukio aloittaa Yhteinen aloitus -toiminnan: jokainen päivä alkaa lyhyellä yhteisellä hetkellä. Rehtori Noor haluaa tietää, lisääkö se opiskelijoiden kokemusta kouluyhteisöön kuulumisesta.
+
+1. Kirjoita paperille tutkimuskysymys, johon voi vastata mittaamalla.
+2. Valitse asetelma: poikkileikkaus, seuranta tai satunnaistettu koe. Kirjoita yksi syy valintaan ja yksi asia, jota asetelma ei voi kertoa.
+3. Päätä otos: ketä tutkitaan ja miten heidät valitaan, jotta otos on edustava.
+4. Kirjoita kuusi tutkimuksen vaihetta oikeaan järjestykseen ja liitä jokaiseen yksi konkreettinen asia tästä tutkimuksesta.
+5. Kirjoita lopuksi yksi lause: mikä tutkimuksessa voisi mennä pieleen, jos otos on valikoitunut?
+
+### Tehtävä 2: Vertaile kahta lähdettä
+
+**Aika:** 15 min
+**Tarvitset:** paperia ja kynän; vaiheeseen 4 puhelimen tai tietokoneen
+**Ilman laitetta:** Ohita vaihe 4. Tee muut vaiheet paperilla; lähteet ovat tehtävässä.
+**Harjoittelet:** Osaan 5
+
+*Lähde X (kuvitteellinen uutinen, kaksi päivää vanha):* "Tutkijat: taukoliikunta tekee opiskelijoista iloisempia. Tutkimus perustuu yhden lukion kyselyyn. Tieto on peräisin liikuntasovelluksen valmistajan tiedotteesta."
+
+*Lähde Y (kuvitteellinen asiantuntija-artikkeli, päivitetty kaksi vuotta sitten):* "Taukoliikunta kouluissa. Artikkeli perustuu katsaukseen, jossa on koottu yhteen useita tutkimuksia. Tekijänä on asiantuntijatoimitus. Artikkeli kertoo, että tulokset vaihtelevat kouluittain ja että lisää tutkimusta tarvitaan."
+
+1. Piirrä paperille taulukko, jossa on rivit tekijä, tarkoitus, mihin perustuu, ikä ja epävarmuus sekä sarakkeet X ja Y.
+2. Täytä taulukko kummastakin lähteestä.
+3. Kirjoita yksi lause siitä, kumpi lähde on luotettavampi ja miksi. Mainitse myös, mikä lähteessä Y voi silti olla heikkoa.
+4. Avaa [Terveyskirjasto](https://www.terveyskirjasto.fi/), valitse mikä tahansa artikkeli ja täytä samat rivit siitä.
+5. Kirjoita, mitä kysyisit lähteen X tekijöiltä, jotta voisit arvioida sitä paremmin.
+
+### Tehtävä 3: Kysely vai rekisteri, yhteys vai syy?
+
+**Aika:** 10 min
+**Tarvitset:** paperia ja kynän
+**Ilman laitetta:** Tämä on paperitehtävä: väitteet ovat tehtävässä.
+**Harjoittelet:** Osaan 3 ja 4
+
+*Tiedontarpeet (kuvitteellisia):* (A) kuinka monta opiskelijaa on keskeyttänyt opinnot lukuvuoden aikana, (B) miten opiskelijat kokevat koulun ilmapiirin, (C) kuinka moni lukion opiskelija on tehnyt vaihto-opiskelijahakemuksen.
+
+*Väite (kuvitteellinen):* "Kouluissa, joissa on iso kirjasto, opiskelijat menestyvät paremmin. Siis kirjasto parantaa menestystä."
+
+1. Kirjoita jokaiselle tiedontarpeelle A–C, sopiiko siihen paremmin kysely vai rekisteri, ja yksi syy.
+2. Kirjoita yksi asia, jonka rekisteri jättää kertomatta, vaikka se kattaa kaikki.
+3. Nimeä yksi sekoittava tekijä, joka voisi selittää väitteen yhteyden.
+4. Kirjoita yksi lause siitä, millainen tutkimus voisi selvittää, onko kirjasto syy.
+
+## Pohdinta
+
+Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+
+1. Miksi tutkimustuloksen uskominen vaatii luottamusta ihmisiin, joita ei tunne? Mikä tekee luottamuksesta perustellun?
+2. Mitä hyötyä ja mitä haittaa on siitä, että tutkimus kertoo ensin vain yhteydestä eikä syystä?
+3. Kenen tulisi päättää, mitä terveyskysymyksiä tutkitaan: tutkijoiden, rahoittajien vai kansalaisten?
+
+**Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
+
+1. Osaan kuvata tutkimusprosessin vaiheet ja selittää, mitä kussakin vaiheessa tehdään ja miksi.
+2. Osaan vertailla tutkimusasetelmia ja arvioida, edustaako otos tutkittavaa joukkoa.
+3. Osaan erottaa yhteyden syy-seuraussuhteesta ja nimetä tekijän, joka voi selittää yhteyden.
+4. Osaan erottaa kyselytiedon ja rekisteritiedon toisistaan ja kertoa, mihin kumpikin sopii.
+5. Osaan hakea terveystietoa ja vertailla useita lähteitä, joiden tarkoitus, menetelmä ja ikä ovat erilaiset.
+
+Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+## Koetehtävät
+
+Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE2 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE3-moduuleista.
+
+### K1: Monivalinta, 25 min (20 p)
+
+*Osa A20 · Harjoittelee: Osaan 1, 2, 3, 4*
+
+Valitse jokaiseen kohtaan yksi vaihtoehto. Oikea vastaus 2 p, väärä −1 p, tyhjä 0 p. Tehtävän pisteet eivät mene alle nollan.
+
+1. Mikä kuuluu tutkimusprosessiin ennen aineiston keruuta? a) tulosten vertaisarviointi; b) johtopäätösten kirjoittaminen; c) tutkimuskysymyksen ja asetelman suunnittelu; d) tulosten julkistaminen
+2. Samoja ihmisiä mitataan useita kertoja usean vuoden ajan. Mikä asetelma on kyseessä? a) poikkileikkaustutkimus; b) seurantatutkimus; c) tapaus-verrokkitutkimus; d) rekisteritutkimus
+3. Milloin otos edustaa perusjoukkoa hyvin? a) kun se on suuri, vaikka siihen valikoituisivat vain innokkaat; b) kun siihen on otettu helpoimmin tavoitettavat; c) kun osallistujat valitsevat itse, tuleeko aihe heille tutuksi; d) kun siinä on eri ryhmiä samassa suhteessa kuin perusjoukossa
+4. Kyselyyn vastasi vain pieni osa, ja vastaajat olivat aiheesta kiinnostuneita. Mikä on keskeinen ongelma? a) valikoituminen vääristää tulosta; b) kysely on rekisteritutkimus; c) mittari on liian pätevä; d) tulos on liian tarkka
+5. Kahden asian välillä on yhteys. Mitä siitä voi päätellä? a) toinen aiheuttaa toisen; b) yhteys on varmasti sattumaa; c) yhteys on olemassa, mutta syy-seuraussuhde vaatii lisää näyttöä; d) asiat eivät liity toisiinsa
+6. Miten rekisteritieto eroaa kyselytiedosta? a) rekisteritieto kerätään aina arpomalla; b) rekisteritieto on kirjattu muuhun tarkoitukseen ja kattaa usein koko joukon; c) rekisteritieto kertoo aina asenteista; d) rekisteri on aina virheetön
+7. Mittaus antaa saman tuloksen, kun se toistetaan samoissa olosuhteissa. Mistä on kyse? a) pätevyydestä; b) edustavuudesta; c) otoskoosta; d) luotettavuudesta eli reliabiliteetista
+8. Mittari mittaa sitä, mitä sillä on tarkoitus mitata. Mistä on kyse? a) pätevyydestä eli validiteetista; b) reliabiliteetista; c) otoskoosta; d) korrelaatiosta
+9. Miksi satunnaistettu koe on vahva tapa selvittää syy-seuraussuhdetta? a) osallistujat tietävät tutkimuksen tavoitteen; b) siinä ei tarvita vertailuryhmää; c) arvonta tekee ryhmistä keskimäärin samanlaiset; d) se on aina nopein tapa
+10. Mitä meta-analyysi on? a) yhden tutkimuksen kyselylomake; b) usean tutkimuksen tulosten tilastollinen yhdistäminen; c) mainostoimiston tekemä tutkimus; d) vertaisarviointilehden toimituskunta
+
+### K2: Aineiston lukeminen, 35 min (20 p)
+
+*Osa B20 · Harjoittelee: Osaan 2, 3, 4*
+
+*Aineisto (kuvitteellinen koulun raportti):* Kuusirannan lukion rehtori kertoo: "Taukotila avattiin toisen lukuvuoden alussa. Viihtyvyys parani ja keskeytykset vähenivät." Raportin tiedot ovat taulukossa.
+
+*Taulukko 1 (kuvitteellinen): Kuusirannan lukion kaksi aineistoa kolmena lukuvuonna*
+
+| Lukuvuosi | Kysely lähetettiin | Kyselyyn vastasi | Vastaajista viihtyi koulussa hyvin | Rekisteri: opiskelijoita | Rekisteri: opintonsa keskeyttäneitä |
+|---|---|---|---|---|---|
+| 1 | 600 | 300 | 180 | 600 | 30 |
+| 2 | 600 | 240 | 168 | 600 | 24 |
+| 3 | 600 | 180 | 144 | 600 | 18 |
+
+a) Kuvaa, mitä taulukossa näkyy kyselyn ja rekisterin tiedoista. (5 p)
+
+b) Selitä tutkimuksen käsittein, miksi kyselytieto ja rekisteritieto eivät kerro samasta asiasta samalla tavalla. (9 p)
+
+c) Arvioi, voiko aineiston perusteella päätellä, että taukotila paransi viihtyvyyttä ja vähensi keskeytyksiä. (6 p)
+
+### K3: Tutkimussuunnitelma, 50 min (30 p)
+
+*Osa C30 · Harjoittelee: Osaan 1, 2, 3*
+
+*Aineisto 1 (kuvitteellinen uutinen):* "Yhteinen aloitus vähensi myöhästymisiä, kertovat koulut. Kaupungin neljä lukiota kokeili syksyllä Yhteinen aloitus -toimintaa, jossa jokainen päivä alkaa lyhyellä yhteisellä hetkellä. Koulut ilmoittautuivat kokeiluun itse. Rehtorit kertovat, että myöhästymiset ovat vähentyneet. Valtuusto päättää keväällä, laajennetaanko toiminta kuuteen muuhun kouluun."
+
+*Taulukko 2 (kuvitteellinen): Myöhästymismerkintöjä sataa opiskelijaa kohti kuukaudessa, keskimäärin*
+
+| | Kokeilukoulut (neljä koulua, ilmoittautuivat itse) | Muut koulut (kuusi koulua) |
+|---|---|---|
+| Opiskelijoita yhteensä | 1 200 | 2 400 |
+| Ennen kokeilua | 20 | 30 |
+| Kokeilun aikana | 15 | 28 |
+| Tietolähde | koulun oma rekisteri | koulun oma rekisteri |
+
+a) Arvioi, voiko aineiston perusteella päätellä, että Yhteinen aloitus vähensi myöhästymisiä. Käytä taulukon lukuja. (10 p)
+
+b) Laadi tutkimussuunnitelma, jolla toiminnan vaikutusta voisi selvittää luotettavammin. Kuvaa tutkimuskysymys, asetelma, otos, mittari ja aineiston keruu sekä eettiset huomiot. (14 p)
+
+c) Kirjoita valtuutetuille lyhyt tiivistys: mitä tutkimus voisi kertoa, mitä ei, ja mitä päätöksen tueksi vielä tarvitaan. (6 p)
+
+## Mallivastaukset
+
+### K1: Monivalinta, 25 min (20 p)
+
+**Malliksi kelpaava vastaus**
+
+1. c. Suunnittelu tehdään ennen keruuta. Vaihtoehto a kuuluu loppuun.
+2. b. Seurannassa samat ihmiset mitataan toistuvasti. Poikkileikkaus mittaa kerran.
+3. d. Edustavuus tarkoittaa samaa jakaumaa kuin perusjoukossa. Suuruus ei auta, jos otos on valikoitunut.
+4. a. Valikoituminen tarkoittaa, että tulos kertoo vastaajista, ei kaikista.
+5. c. Yhteys ei vielä osoita syytä. Taustalla voi olla sekoittava tekijä.
+6. b. Rekisteri on kirjattu muuhun tarkoitukseen ja kattaa usein kaikki. Se ei silti kerro syistä.
+7. d. Toistettavuus on luotettavuutta eli reliabiliteettia.
+8. a. Pätevyys eli validiteetti tarkoittaa, että mitataan oikeaa asiaa.
+9. c. Arvonta tasoittaa ryhmien taustat, joten ero voidaan liittää toimenpiteeseen.
+10. b. Meta-analyysi yhdistää usean tutkimuksen tulokset.
+
+**Pisteytys**
+
+*Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
+
+- Jokainen oikea vastaus 2 p, väärä −1 p, tyhjä 0 p. Kymmenen kohtaa yhteensä enintään 20 p.
+- Tehtävän pisteet eivät mene alle nollan.
+
+*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): kohdat 2, 3 ja 9 testaavat asetelman ja otoksen käsitteitä (käsitteiden käyttö). Kohdat 4 ja 5 testaavat soveltamista ja analysointia, kohdat 7 ja 8 erottelua läheisten käsitteiden välillä. Kun valitset vastauksen, perustele sen valinta itsellesi yhdellä lauseella.
+
+**Yhteensä:** 20 p
+
+**Tyypilliset virheet**
+
+- Luotettavuus ja pätevyys sekoitetaan keskenään.
+- Suuri otos oletetaan automaattisesti edustavaksi.
+- Yhteydestä päätellään syy.
+- Rekisteritieto oletetaan aina oikeaksi ja kattavaksi myös syiden osalta.
+
+Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
+
+### K2: Aineiston lukeminen, 35 min (20 p)
+
+**Malliksi kelpaava vastaus**
+
+**a)** Taulukon 1 mukaan kyselyyn vastanneiden määrä laski kolmessa vuodessa 300:sta 180:een, vaikka kysely lähetettiin joka vuosi 600 opiskelijalle. Hyvin viihtyvien määrä laski 180:stä 144:ään, mutta heidän osuutensa vastaajista nousi kolmesta viidesosasta neljään viidesosaan. Rekisterin mukaan opintonsa keskeyttäneiden määrä laski 30:stä 18:aan, kun opiskelijoita oli joka vuosi 600.
+
+**b)** Kysely ja rekisteri mittaavat eri asiaa. Kysely mittaa kokemusta, ja vastaajat ovat otos. Vastausosuus laski puolesta kolmasosaan, joten otos todennäköisesti valikoitui: vastaamatta jättäneiden mielipide puuttuu, eikä otos välttämättä edusta kaikkia 600 opiskelijaa. Osuuden nousu voi siis johtua siitä, että tyytymättömät vastaavat harvemmin. Rekisteri kattaa kaikki opiskelijat, joten sen luvut kuvaavat koko perusjoukkoa. Se on luotettava keskeytysten laskemisessa, mutta se ei kerro, miksi opinnot keskeytettiin, eikä sen pätevyys viihtyvyyden mittarina ole hyvä: keskeytys voi johtua työstä, muutosta tai terveydestä.
+
+**c)** Aineistosta ei voi päätellä, että taukotila olisi syy. Vertailuryhmää ei ole, eli ei tiedetä, miten viihtyvyys ja keskeytykset olisivat kehittyneet ilman taukotilaa. Samaan aikaan on voinut muuttua muutakin, esimerkiksi opinto-ohjaus tai opiskelijoiden kokoonpano. Kyselyn vastausosuus laski, joten viihtyvyyden paranemisesta ei voi olla varma. Aineisto näyttää, että luvut kehittyivät samaan aikaan taukotilan kanssa, mutta yhteys ei ole vielä syy. Syyn selvittämiseen tarvittaisiin vertailu kouluun, jossa taukotilaa ei ole.
+
+**Pisteytys**
+
+*Sisältö 10 p:*
+
+- Aineiston lukeminen ja käsitteet: kuusi näkökohtaa, joista jokainen on selitetty omin sanoin: (1) vastausosuus ja valikoituminen, (2) kysely mittaa kokemusta ja rekisteri tapahtumaa, (3) rekisteri kattaa koko perusjoukon, (4) rekisteri ei kerro syytä, (5) vertailuryhmän puute ja muut samanaikaiset tekijät, (6) yhteys ei ole syy.
+- Kaksi näkökohtaa selitettynä 3 p, neljä 6 p, kuusi 9 p. Yhteys näkökohtien välillä (esimerkiksi vastausosuuden lasku ja viihtyvyysluvun tulkinta) +1 p.
+
+*Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
+
+- 8–10 p: lukemat on poimittu taulukosta, käsitteet (otos, edustavuus, rekisteri, pätevyys, sekoittava tekijä) ovat oikein, ja johtopäätös punnitsee, mitä aineisto voi ja ei voi kertoa.
+- 4–7 p: lukemat ja käsitteet ovat oikein, mutta vastaus luettelee eikä punnitse.
+- 0–3 p: vastaus toistaa rehtorin väitteen tai toteaa vain, että tieto on epäluotettavaa, ilman taulukon lukuja.
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
+
+Tehtävänannon osapisteet (a 5 p, b 9 p, c 6 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+
+**Yhteensä:** 20 p
+
+**Tyypilliset virheet**
+
+- Vastaus kuvaa vain yhden lukusarjan eikä vertaa kyselyä ja rekisteriä.
+- Viihtyvien määrän ja osuuden ero jää huomaamatta.
+- Vastaus toteaa, että taukotila ei toimi, vaikka aineisto ei sitä näytä. Se ei myöskään osoita, että taukotila toimii.
+- Rekisteri esitetään täydellisenä, vaikka se ei kerro keskeytyksen syytä.
+
+Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
+
+### K3: Tutkimussuunnitelma, 50 min (30 p)
+
+**Malliksi kelpaava vastaus**
+
+**a)** Aineisto ei riitä päättelemään, että Yhteinen aloitus vähensi myöhästymisiä. Taulukon 2 mukaan kokeilukouluissa myöhästymismerkintöjä oli ennen kokeilua 20 sataa opiskelijaa kohti ja kokeilun aikana 15. Muissa kouluissa luvut olivat 30 ja 28. Myöhästymiset vähenivät siis kaikissa kouluissa, mutta kokeilukouluissa enemmän. Koulut ilmoittautuivat itse, joten ne voivat poiketa muista: ne olivat ehkä aktiivisempia ja niissä myöhästymisiä oli jo valmiiksi vähemmän. Vertailu on siis valikoitunut. Lisäksi tieto tulee koulujen omista rekistereistä, joiden merkintätapa voi vaihdella. Myöhästymisten vähenemiseen voi vaikuttaa kausi tai sää. Vertailu antaa yhteyden mutta ei osoita syytä.
+
+**b)** *Tutkimuskysymys:* Vähentääkö Yhteinen aloitus myöhästymisiä verrattuna tilanteeseen, jossa toimintaa ei ole?
+*Asetelma:* Tehdään satunnaistettu koe. Kymmenestä koulusta arvotaan puolet kokeiluun ja puolet verrokeiksi. Arvonta tekee ryhmistä keskimäärin samanlaiset, ja vertailuryhmä näyttää, mitä olisi tapahtunut ilman toimintaa. Mitataan sekä ennen että jälkeen.
+*Otos:* Mukaan otetaan kaikki kymmenen koulua ja mielellään eri kokoisia ja eri alueilta, jotta tulos pätee laajemmin.
+*Mittari ja aineiston keruu:* Myöhästymiset kirjataan kaikissa kouluissa samalla ohjeella samasta kirjaustavasta. Lisäksi kysytään nimettömällä kyselyllä, miten opiskelijat kokivat aloituksen. Rekisteri kattaa kaikki, kysely kertoo kokemuksesta. Vastausosuutta seurataan, jotta valikoituminen huomataan.
+*Eettiset huomiot:* Osallistuminen on vapaaehtoista, ja opiskelijoille kerrotaan, mihin tietoa käytetään. Tulokset raportoidaan niin, ettei yksittäistä opiskelijaa tunnisteta. Verrokkikouluille tarjotaan toiminta tutkimuksen jälkeen.
+
+**c)** Arvoisat valtuutetut. Nykyinen aineisto kertoo, että myöhästymiset vähenivät kokeilukouluissa enemmän kuin muualla, mutta siitä ei voi päätellä, että toiminta oli syy. Kokeilukoulut valitsivat itse. Luotettavamman tuloksen antaisi koe, jossa verrokkikoulut arvotaan. Se kertoisi myöhästymisten muutoksen, ei sitä, onko toiminta muuten hyvä tai opiskelijoiden mielestä mielekäs. Päätöksen tueksi tarvitaan myös tieto kustannuksista ja opiskelijoiden kokemuksista. Tiivistys kertoo rajat avoimesti.
+
+**Pisteytys**
+
+*Sisältö 15 p:*
+
+- Neljä näkökulmaa, jokainen selitetty tehtävän vastaukseen sopivalla tavalla: (1) tutkimuskysymys ja asetelma (vertailuryhmä, arvonta), (2) otos ja edustavuus, (3) mittari ja aineiston keruu (rekisteri, kysely, yhtenäinen kirjaus), (4) etiikka ja raportointi. Yksi näkökulma 4 p, kaksi 7 p, kolme 10 p, neljä 13 p.
+- Punnittu johtopäätös, jossa yhdistetään a-kohdan arvio ja suunnitelma (esimerkiksi miksi arvonta korjaa a-kohdassa havaitun valikoitumisen) +2 p.
+
+*Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
+
+- 12–15 p: a-kohta käyttää taulukon lukuja, suunnitelma vastaa a-kohdan ongelmiin, käsitteet (asetelma, otos, edustavuus, valikoituminen, pätevyys) ovat oikein, ja valtuutetuille kirjoitettu viesti on selkeä ja rehellinen rajoista.
+- 6–11 p: osat ovat oikein, mutta suunnitelma ei liity a-kohdan havaintoihin tai tiivistys on yleinen.
+- 0–5 p: vastaus toteaa vain, että tutkimus on tarpeen, tai ei käytä aineistoa.
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
+
+Tehtävänannon osapisteet (a 10 p, b 14 p, c 6 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+
+**Yhteensä:** 30 p
+
+**Tyypilliset virheet**
+
+- Suunnitelma luettelee vaiheita mutta ei kerro, miten asetelma vastaa kysymykseen.
+- Vertailuryhmää ei ole tai se valitaan niin, että ryhmät eroavat jo alussa.
+- Otos kuvataan suureksi, mutta edustavuudesta ja valikoitumisesta ei sanota mitään.
+- Eettiset huomiot jäävät pois tai ne ovat vain yksi sana.
+- Viesti valtuutetuille lupaa varmuutta, jota aineisto ei anna.
+
+Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
+
+## Itseopiskelun askel
+
+**Tavoite:** Osaat kuvata tutkimusprosessin, nimetä asetelmia ja arvioida otosta ja yhteyttä kuvitteellisista tutkimuksista.
+
+**Aikaa kuluu:** noin 75 minuuttia.
+
+**Näin etenet:**
+
+1. **Lue** osio Opiskelijalle (10 min).
+2. **Tee** Tehtävä 1 (20 min) ja Tehtävä 3 (10 min). Tehtävä 2 on lisätehtävä (15 min).
+3. **Harjoittele** koetehtävä K1 (25 min) ja tarkista vastauksesi mallivastauksella. K2 ja K3 sopivat kertaukseen.
+4. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
+5. **Seuraava askel:** aihe 03 *Terveysviestintä ja sen vaikutuskeinot*. Siellä opit tunnistamaan, miten viestit pyrkivät vaikuttamaan.
+
+**Muistiinpanoihin:** Säilytä Tehtävän 1 kuusi vaihetta ja neljän asetelman lyhyet kuvaukset. Kirjoita jokaisen asetelman viereen, mitä se voi ja mitä ei voi kertoa. Lisää Tehtävän 2 vertailutaulukko. Näitä tarvitset koko TE2-moduulissa, kun luet tutkimuksia ja aineistoja.
+
+## Tuntisuunnitelma (75 min)
+
+**Tavoitetehtävä:** Tehtävä 1 (tutkimuksen suunnittelu) tehdään kokonaan kaikissa tuntimalleissa. Kaikki esimerkit ovat kuvitteellisia. Ketään ei pyydetä kertomaan omasta terveydestään tai kokemuksistaan.
+
+| Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
+|---|---|---|---|---|---|
+| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden kysymyksen, johon tutkimus voisi vastata. | Lue muutama lappu ja kysy: millä tavalla tähän voisi vastata? | Nimetön sähköinen seinä. | Lue kaksi lappua. |
+| Aiemman tiedon aktivointi | 10 | Parit kertaavat aiheen 01: tieteellisen tiedon piirteet ja yhden vinouman. | Kirjoita taululle kolme kysymystä: kuka, miksi, millainen näyttö. | Yksin paperille. | Käsittele yksi kysymys. |
+| Lyhyt alustus | 10 | Opiskelijat kirjaavat kuusi vaihetta ja neljä asetelmaa. | Piirrä vaiheet nuolilla taululle ja anna yksi arkinen esimerkki jokaisesta asetelmasta. Korosta, että asetelma ratkaisee, mitä tutkimus voi kertoa. | Jaa käsitteet paperilla. | Asetelmat kotiin; alusta vain vaiheet. |
+| Työskentely | 25 | Tehtävä 1 kokonaan pareittain (20 min), sitten Tehtävän 3 vaiheet 1 ja 2 (5 min). | Kierrä ja kysy: mitä tämä asetelma ei voi kertoa? Pyydä nimeämään yksi valikoitumisen mahdollisuus. | Yksin paperilla. | Tehtävä 3 kotiin. |
+| Pari- tai pienryhmäpohdinta | 10 | Ryhmät vertailevat suunnitelmiaan: kenen asetelma antaa vahvimman syyn? | Kokoa asetelmat taululle heikoimmasta vahvimpaan ja kysy perustelut. | Yksin: kirjoita kaksi syytä. | Yksi yhteinen keskustelu. |
+| Koeharjoitus ja exit | 10 | K1:n kohdat 2–5 yksin (7 min) ja tarkistus (3 min). Exit-lappu: yksi käsite, jonka kertaat. | Näytä pisteytys: oikea 2 p, väärä −1 p. Kysy, mikä kohta kysyi eroa kahden käsitteen välillä. | Paperilla. | Tarkistus kotona. |
+| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat harjoituksia kotiin tai kertaukseen. | – | – |
+
+### Tuntisuunnitelma (60 min)
+
+| Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
+|---|---|---|---|---|---|
+| Virittäytyminen | 4 | Nimetön lappu: yksi tutkittava kysymys. | Lue muutama lappu. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
+| Aiemman tiedon aktivointi | 6 | Koko ryhmä kertaa aiheen 01 tiedon lajit. | Kirjoita ne taululle ja lisää kysymys: mihin tieto perustuu? | Kysymykset paperilla. | Vain näyttökysymys. |
+| Lyhyt alustus | 8 | Opiskelijat kirjaavat kuusi vaihetta ja asetelmat. | Esimerkki jokaisesta asetelmasta. | Jaa käsitteet paperilla. | Asetelmat kotiin. |
+| Työskentely | 25 | Tehtävä 1 kokonaan (20 min), sitten Tehtävän 3 vaiheet 1 ja 2 (5 min). | Kierrä ja kysy, mitä asetelma ei voi kertoa. | Yksin paperilla. | Tehtävä 3 kotiin. |
+| Pari- tai pienryhmäpohdinta | 8 | Parit vertailevat asetelmiaan. | Järjestä asetelmat taululle näytön vahvuuden mukaan. | Yksin paperille. | Yksi yhteinen vastaus. |
+| Koeharjoitus ja exit | 7 | K1:n kohdat 2–4 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten kaksi pistettä kohdasta syntyy. | Paperilla. | Tarkistus kotona. |
+| Puskuri | 2 | Kysymykset. | Kerro K1–K3:sta kotiharjoituksina. | – | – |
+
+### Tuntisuunnitelma (45 min)
+
+| Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
+|---|---|---|---|---|---|
+| Virittäytyminen | 2 | Kysymys ääneen: mistä tietäisit, että koulun uusi toimintatapa toimii? | Kirjoita pari vastausta taululle. | Opiskelijat kirjoittavat vastauksen itselleen. | – |
+| Aiemman tiedon aktivointi | 3 | Koko ryhmä nimeää yhden vinouman aiheesta 01. | Lisää: myös tutkija voi erehtyä. | Käsite paperilla. | Ohita. |
+| Lyhyt alustus | 7 | Opiskelijat kirjaavat kuusi vaihetta ja neljä asetelmaa. | Anna yksi esimerkki jokaisesta asetelmasta. | Jaa käsitteet paperilla. | Kaksi asetelmaa esimerkein, muut listana. |
+| Työskentely | 22 | Tehtävä 1 kokonaan pareittain (20 min). Lopuksi jokainen kirjoittaa yhden syyn, miksi otos voi valikoitua (2 min). | Kierrä ja kysy perusteluja. Tehtävä 1 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | Syy kotiin. |
+| Pari- tai pienryhmäpohdinta | 5 | Koko ryhmä vastaa: kenen asetelma näyttää syyn parhaiten? | Kirjoita taululle asetelmat vahvuuden mukaan. | Yksin paperille. | Pohdinta kotiin. |
+| Koeharjoitus ja exit | 4 | Exit-lappu: yksi asetelma ja sen rajoitus omin sanoin. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Puskuri | 2 | Kysymykset. | – | – | – |
+
+### Valmistelu
+
+- Kirjoita taululle tutkimuksen kuusi vaihetta ja neljä asetelmaa tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita.
+- Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
+- Tutustu halutessasi aoe.fi:n asiantuntijalähteen arvioinnin videoon ja kaavioon (ks. Lähteet). Ne ovat avoimia, mutta tällä sivustolla vain linkitettyjä.
+- Selvitä koulun opiskeluterveydenhuollon yhteystiedot (esimerkki).
+
+### Avoimet kysymykset
+
+- Miksi uskomme yhden koulun tulokseen helpommin kuin tutkimusten kokonaisuuteen?
+- Milloin kysely on parempi kuin rekisteri, ja milloin rekisteri on?
+- Miksi kokeilu, jonka osallistujat valitsevat itse, ei vielä kerro vaikutuksesta?
+- Mitä tutkimuksessa saa luvata osallistujille ja mitä ei?
+- Mitä eroa on sillä, että tulos on tilastollisesti havaittu, ja sillä, että se on merkityksellinen?
+- Miten tutkimuksen rahoittaja voi vaikuttaa siihen, mitä kysytään?
+
+### Pelisäännöt ja oletusten tarkistus
+
+- Arvioidaan tutkimuksia ja päättelyä, ei ihmisiä. Kuvitteellisia esimerkkejä voi muokata, jos ne tuntuvat liian tutuilta.
+- Älä pyydä opiskelijoita kertomaan omasta terveydestään, kyselyvastauksistaan tai kokemuksistaan tutkimukseen osallistujana.
+- Jos opiskelija kysyy omasta terveydestään, ohjaa opiskeluterveydenhuoltoon. Tunnilla ei arvioida kenenkään omia oireita.
+- **Oletusten tarkistus ennen tuntia:** Oletanko, että kaikki opiskelijat luottavat samoihin lähteisiin? Esitänkö otoksen valikoitumisen jonkin ryhmän virheenä? Liitänkö esimerkit tiettyyn sukupuoleen, kehoon tai taustaan? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
+
+## Eriyttäminen
+
+**Helpompi polku:** Tee Tehtävässä 1 vain vaiheet 1–3 ja käytä apulausetta: *Valitsen asetelmaksi …, koska …*. Tehtävässä 3 riittää tiedontarpeet A ja B. Koetehtävistä K1:n kohdat 1–6 riittävät.
+
+**Syvempi polku:** Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn viiden kriteerin avulla. Keksi Tehtävän 3 väitteelle toinen sekoittava tekijä ja kuvaa, miten se kontrolloitaisiin. Tutustu [THL:n avoimeen dataan](https://thl.fi/tutkimus/avoin-data) ja kirjoita, mikä tieto on kyselystä ja mikä rekisteristä. Vertaa lähteiden arviointia [opinto-ohjauksen tietolähdeaiheeseen](https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/08-tietolahteet/).
+
+**S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Sarakkeisiin voi kirjoittaa omalla kielellä; koetehtävissä harjoitellaan suomenkielisiä käsitteitä.
+
+- *tutkimuskysymys = kysymys, johon tutkimus vastaa*
+- *asetelma = suunnitelma siitä, miten tietoa kerätään ja verrataan*
+- *otos = pieni joukko, joka edustaa isoa joukkoa*
+- *yhteys = kaksi asiaa tapahtuu yhdessä*
+- *syy-seuraussuhde = yksi asia aiheuttaa toisen*
+- *sekoittava tekijä = kolmas asia, joka vaikuttaa molempiin*
+- *kysely = tieto kerätään kysymällä; rekisteri = tieto on kirjattu muuhun tarkoitukseen*
+
+**Lukeminen, keskittyminen ja jännitys:** Lue taulukko rivi kerrallaan ja peitä muut. Merkitse luvut, joita käytät vastauksessa. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+
+**Ilman laitetta:** Tehtävät 1 ja 3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 2 paperiversio on tehtävän kohdassa *Ilman laitetta*.
+
+**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+
+## Apua ja tukea
+
+**Jos olet välittömässä vaarassa, soita hätänumeroon 112.**
+
+Tällä sivulla opitaan arvioimaan tutkimustietoa. Netistä, somesta tai tekoälystä löytyvä tieto ei korvaa ammattilaista. Jos sinulla on omia oireita tai huolia terveydestäsi, ota yhteyttä opiskeluterveydenhuoltoon eli terveydenhoitajaan tai lääkäriin. Avun pyytäminen on tavallista ja järkevää.
+
+**Apua saat myös:**
+
+- [Opiskeluterveydenhuolto (THL, luettu 21.11.2026)](https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto): tietoa palvelusta. Oman ajan varaat koulusi tai hyvinvointialueesi kautta.
+- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
+- [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): tietoa ja omahoito-ohjelmia nuorille.
+- [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille. Ikäraja ja aukioloajat ovat sivulla.
+
+## Lähteet
+
+Kootaan sivun tiedoista automaattisesti.

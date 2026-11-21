@@ -71,3 +71,175 @@ facts:
   read: '2026-11-21'
   note: Sivu luettu, merkitty päivitetyksi 6.11.2026; seuraava lukion keruu 2027 maalis-huhtikuussa. Tulossivu https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi.
     Vanha osoite thl.fi/kouluterveyskysely/tulokset ei auennut curlilla, koska kaikki thl.fi-osoitteet antavat curlilla TLS-virheen mutta aukeavat haulla, joten kyse oli työkalusta, ei kuolleesta linkistä.
+- key: alkoholilaki
+  rule: Alkoholijuomaa ei saa myydä eikä luovuttaa alaikäiselle eikä selvästi päihtyneelle. Ikärajat on säädetty alkoholilaissa,
+    ja väkevillä juomilla raja on korkeampi kuin miedoilla. Sivusto ei toista ikärajoja vaan linkittää lain.
+  url: https://www.finlex.fi/fi/lainsaadanto/2017/1102
+  publisher: Finlex (alkoholilaki 1102/2017)
+  read: '2026-11-21'
+  note: 'Luettu 2026-11-21 Finlexin avoimen datan ajantasaisesta tekstistä (37 §: vähittäismyynti- ja anniskelukiellot, kaksi
+    ikärajaa); finlex.fi-sivu itse näyttää vain valikon. Teksti sisältää muutoksen, joka tulee voimaan 3.7.2026. Aiempi tila
+    ei-luettu on ratkaistu.'
+- key: alkoholilaki_muutos_2026
+  rule: 'Alkoholilakia on uudistettu: kotiinkuljetus, väkevien alkoholijuomien verkkomarkkinointi ja Alkon sunnuntaiaukiolo
+    sallitaan porrastetusti. Myyntikielto alaikäisille ja selvästi päihtyneille säilyy. Sivusto ei kirjoita voimaantulopäiviä
+    vaan linkittää tiedotteen.'
+  url: https://valtioneuvosto.fi/-/1271139/uudistettu-alkoholilaki-mahdollistaa-alkoholijuomien-toimitukset-asiakkaille-ja-sallii-vakevien-verkkomainonnan-
+  publisher: Sosiaali- ja terveysministeriö (valtioneuvosto)
+  read: '2026-11-21'
+  note: 'Tiedote 25.6.2026 (luettu): muutokset tulevat voimaan 3.7.2026, voimaantulo porrastettu. Hallituksen esitys 44/2026
+    (pienet tuottajat) on keskeneräinen; sen tilaa ei vahvistettu eikä sitä kirjoiteta sivustolle.'
+- key: tupakkalaki
+  rule: Tupakkatuotteita ja nikotiinineseitä ei saa myydä alle 18-vuotiaille, ja tupakkalakia on uudistettu vaiheittain 1.8.2025
+    alkaen. Tarkista ajantasainen laki linkistä.
+  url: https://www.finlex.fi/fi/lainsaadanto/2016/549
+  publisher: Finlex (tupakkalaki 549/2016)
+  read: '2026-11-21'
+  note: 'Luettu 2026-11-21 Finlexin avoimen datan ajantasaisesta tekstistä (53 §: kielto myydä alaikäiselle, ikäraja 18).
+    finlex.fi-sivu itse näyttää vain valikon.'
+- key: nikotiinipussit
+  rule: Nikotiinipussien myyntiä ja markkinointia säännellään tupakkatuotteiden tapaan. Alaikäisiltä on kielletty nikotiinipussien,
+    nikotiinittomien vapejen ja muiden tupakan vastikkeiden hallussapito sekä myynti. Rajoituksia on tullut vaiheittain, joten
+    sivusto linkittää tiedotteen eikä toista yksityiskohtia.
+  url: https://valtioneuvosto.fi/-/1271139/nikotiinipussien-myyntia-ja-markkinointia-saannellaan-jatkossa-tiukemmin
+  publisher: Sosiaali- ja terveysministeriö (valtioneuvosto)
+  read: '2026-11-21'
+  note: 'Tiedote 22.5.2025 (luettu): laki voimaan 1.8.2025, makujen rajoitus 1.2.2026 ja pakkausten yhdenmukaistaminen 1.8.2026;
+    tiedote sanoo, että hallussapito kielletään alle 18-vuotiailta. Tämä ratkaisee TE1:n avoimen kysymyksen hallussapitokiellosta.
+    Makurajoitusten sanamuoto vaihtelee lähteittäin: ei kirjoiteta.'
+- key: huumausainelaki
+  rule: Huumausaineiden käyttö, hallussapito ja kauppa ovat Suomessa kiellettyjä ja rangaistavia rikoslain mukaan. Käytön
+    rangaistavuudesta käydään poliittista keskustelua, mutta voimassa oleva laki on tämä. Sivusto ei kirjoita rangaistuksia
+    vaan linkittää lähteen.
+  url: https://stm.fi/huumausaineiden-valvonta
+  publisher: Sosiaali- ja terveysministeriö (huumausaineiden valvonta; huumausainelaki 373/2008)
+  read: '2026-11-21'
+  note: 'STM:n sivu luettu 2026-11-21: huumausaineen tuotanto, valmistus, kauppa, käsittely, hallussapito ja käyttö on kielletty,
+    ja kiellon rikkominen on säädetty rangaistavaksi rikoslain 50 luvussa. Huumausainelain 373/2008 ajantasainen teksti avattu
+    Finlexin avoimen datan rajapinnasta (valvontalaki). Rikoslain 50 lukua ei luettu: rangaistuksia ei kirjoiteta. Huumausainepolitiikan
+    sivulla (stm.fi/huumausainepolitiikka) on marras-lokakuun 2026 tiedotteita lakiesityksistä (muuntohuumeet, huumekuolemien
+    torjunta): niiden sisältöä ei luettu.'
+- key: rahapelilaki
+  rule: 'Rahapelien pelaamisen ikäraja on 18 vuotta, ja pelaaminen vaatii vahvan tunnistautumisen. Rahapelilaki uudistuu:
+    uusi laki tulee pääosin voimaan 1.7.2027, ja osa peleistä avataan lisensseille. Sivusto linkittää tiedotteen eikä toista
+    lisenssi- tai pelikohtaisia yksityiskohtia.'
+  url: https://valtioneuvosto.fi/-/1410869/rahapelien-jarjestaminen-avataan-osittain-kilpailulle
+  publisher: Valtiovarainministeriö (valtioneuvosto)
+  read: '2026-11-21'
+  note: 'Tiedote 15.1.2026 (luettu): uusi laki pääosin voimaan 1.7.2027, ikäraja pysyy 18 vuodessa ja vahva tunnistautuminen
+    on pakollinen; lupahakemukset Poliisihallitukselle 1.3.2026 alkaen. Peluurin sivulla (luettu) on lisäksi Uusi rahapelilaki
+    lyhyesti -sivu päivätty 11.11.2026; sitä ei luettu tarkemmin. Rahapelihaittojen taustaa: stm.fi/rahapelihaitat (päivitetty
+    22.5.2026).'
+- key: seksuaalirikoslaki
+  rule: Raiskaus määritellään siitä, ettei henkilö osallistu sukupuoliyhteyteen vapaaehtoisesti. Laki on voimassa 1.1.2023
+    alkaen. Lapsi ei voi suostua seksuaaliseen tekoon aikuisen kanssa, ja alle 16-vuotiaan suojaa koskevat omat säännöksensä.
+    Sivusto sanoo sanojen vapaaehtoisuus ja suostumus eron ja linkittää lähteen.
+  url: https://oikeusministerio.fi/seksuaalirikoslaki
+  publisher: Oikeusministeriö
+  read: '2026-11-21'
+  note: 'Sivu luettu 2026-11-21: laki voimassa 1.1.2023, raiskauksen määritelmä perustuu suostumukseen eli vapaaehtoisuuteen;
+    kriitikko varmisti myös lapsen ja aikuisen suostumuksen sekä alle 16-vuotiaan suojan. Rangaistuksia ja pykäliä ei kirjoiteta.'
+- key: nuoret_tyontekijat
+  rule: 'Alle 18-vuotiaalla työntekijällä on erityinen työsuojelu: laki nuorista työntekijöistä rajoittaa työaikoja ja vaarallista
+    työtä ja edellyttää tietyissä töissä terveystarkastuksen työnantajan kustannuksella. Sivusto ei kirjoita tuntirajoja tai
+    ikärajoja vaan linkittää viranomaisen sivun.'
+  url: https://tyosuojelu.fi/tyosuhde/nuori-tyontekija
+  publisher: Työsuojeluhallinto (Lupa- ja valvontavirasto)
+  read: '2026-11-21'
+  note: 'Sivu avattu 2026-11-21 (vanha /tyoehdot/nuoret-tyontekijat 404); englanninkielinen sivu päivitetty 16.2.2026. Lain
+    998/1993 ajantasainen teksti luettu Finlexin avoimen datan rajapinnasta: nuori työntekijä on alle 18-vuotias, ja terveystarkastus
+    kuuluu työnantajan kustannuksiin lain poikkeuksin.'
+- key: tyoterveyshuolto
+  rule: Työnantajalla on lakisääteinen velvollisuus järjestää työntekijöilleen työterveyshuolto, joka ehkäisee työstä johtuvia
+    terveyshaittoja ja edistää työkykyä. Sivusto ei kirjoita palvelun sisältöä tarkemmin.
+  url: https://www.finlex.fi/fi/lainsaadanto/2001/1383
+  publisher: Finlex (työterveyshuoltolaki 1383/2001)
+  read: '2026-11-21'
+  note: 'Luettu 2026-11-21 Finlexin avoimen datan ajantasaisesta tekstistä (1 § lain tarkoitus, 4 § työterveyshuollon järjestäminen
+    työnantajan kustannuksella). Työterveyslaitoksen tausta: https://www.ttl.fi/teemat/tyohyvinvointi-ja-tyokyky.'
+- key: radon
+  rule: Radon on maaperästä sisäilmaan tuleva radioaktiivinen kaasu, ja sisäilman radonille on asetuksella säädetty viitearvo,
+    jota vasten pitoisuuksia verrataan. Sivusto ei kirjoita viitearvoja vaan linkittää STUKin sivun.
+  url: https://stuk.fi/asuntojen-radonia-koskevat-viitearvot-ja-maaraykset
+  publisher: Säteilyturvakeskus (STUK)
+  read: '2026-11-21'
+  note: 'Suomenkielinen sivu avattu 2026-11-21 (löytyi STUKin etusivulta; vanha /aiheet/radon antoi 404). Kriitikko tarkisti
+    englanninkielisen STUKin sivun: asunnoille ja uudisrakentamiselle on omat viitearvonsa asetuksen mukaan; asetuksen numeroa
+    ei sivulla ole, joten sitä ei kirjoiteta. Sivulla ei ole päiväystä.'
+- key: ilmanlaatu
+  rule: Ilmanlaatua seurataan jatkuvasti, ja Ilmatieteen laitoksen ilmanlaatuindeksi (https://www.ilmatieteenlaitos.fi/ilmanlaatuindeksi) kertoo sanallisesti, kuinka hyvä ilma
+    on. Pienhiukkaset voivat vaikuttaa erityisesti herkkiin ryhmiin. Pitoisuudet ja raja-arvot muuttuvat, joten sivusto
+    linkittää ajantasaisen sivun.
+  url: https://www.ilmatieteenlaitos.fi/ilmanlaatu
+  publisher: Ilmatieteen laitos
+  read: '2026-11-21'
+  note: 'Sivu ja Ilmansaasteiden terveysvaikutukset -sivu (https://www.ilmatieteenlaitos.fi/saasteet-ja-terveys) avattu ja
+    luettu 2026-11-21: sivut nimeävät PM10- ja PM2.5-hiukkaset ja niiden vaikutukset herkille ryhmille. Indeksin portaita
+    ja raja-arvoja ei kirjoiteta. ilmanlaatu.fi antoi 503 kahdesti.'
+- key: vakivalta_tilastot
+  rule: Väkivallan yleisyydestä ja lainsäädännön muutoksista kertovat THL:n tilastot ja Kouluterveyskyselyn tulokset. Luvut
+    muuttuvat vuosittain, joten sivusto linkittää tilastosivun eikä kopioi lukuja.
+  url: https://thl.fi/data-ja-tilastot/vakivalta
+  publisher: Terveyden ja hyvinvoinnin laitos (THL)
+  read: '2026-11-21'
+  note: 'Sivu luettu 2026-11-21; se viittaa Kouluterveyskyselyn ja Terve Suomi -tutkimuksen väkivaltaindikaattoreihin. Päivityspäivää
+    ei näkynyt sivun tekstissä; kriitikko luki päivitykseksi 28.5.2026. Tilastokeskuksen lähisuhdeväkivaltauutista ja lähisuhdeväkivallan
+    virallisen syytteen sääntöä ei luettu: ei kirjoiteta sivustolle.'
+- key: sekasin_chat
+  rule: Sekasin-chat on nimetön ja maksuton keskusteluapu 12-29-vuotiaille, ja Apuu-chat on alle 16-vuotiaille. Aukioloajat
+    tarkistetaan palvelun sivulta.
+  url: https://sekasin.fi/
+  publisher: Sekasin Kollektiivi
+  read: '2026-11-21'
+  note: 'Luettu 2026-11-21: Sekasin-chat auki joka päivä, arkisin klo 9-24 ja viikonloppuisin klo 15-24; Apuu-chat joka päivä
+    klo 9-22; Nettiturvis-videotapaamiset ajanvarauksella (Punainen Risti). Ajat voivat muuttua: ohjausteksteihin vain linkki
+    ja ajat luettuna päivänä.'
+- key: nuortenlinkki
+  rule: Nuortenlinkki on A-klinikkasäätiön palvelu nuorille päihde-, riippuvuus- ja mielenterveysasioissa. Chat on auki vain
+    muutamana tuntina viikossa, joten ohjaus yhdistetään opiskeluterveydenhuoltoon ja Sekasiniin.
+  url: https://nuortenlinkki.fi/
+  publisher: A-klinikkasäätiö
+  read: '2026-11-21'
+  note: 'Luettu 2026-11-21: chat maanantaisin klo 15-17 ja keskiviikkoisin klo 13-15; Walk in terapia (alle 29-vuotiaille)
+    tiistaisin ja torstaisin klo 17-19. Chat ei kerro ikärajaa. Ajat voivat muuttua.'
+- key: nettiturvakoti
+  rule: Nettiturvakoti on Ensi- ja turvakotien liiton verkkopalvelu lähisuhdeväkivaltaan. Sivulla on osio alle 18-vuotiaille
+    lapsille ja nuorille. Chatin aukioloajat tarkistetaan sivulta.
+  url: https://nettiturvakoti.fi/
+  publisher: Ensi- ja turvakotien liitto
+  read: '2026-11-21'
+  note: 'Luettu 2026-11-21: osio Olen lapsi tai nuori on tarkoitettu alle 18-vuotiaille lapsille ja nuorille; sivu viittaa
+    OnksOK.fi-sivustoon, jota ei luettu. Chatin aukioloaikoja ei löytynyt etusivulta. Sähköpostikysymykseen vastaus tutkimuksen
+    mukaan 3 arkipäivässä.'
+- key: rikosuhripaivystys
+  rule: Rikosuhripäivystys RIKU auttaa rikoksen uhreja ja todistajia, ja sillä on osio lapsille ja nuorille rikoksen uhrina.
+    Tapahtuneesta vastuu on aina rikoksen tekijällä. Aukioloajat tarkistetaan palvelun sivulta.
+  url: https://www.riku.fi/rikoksen-uhrina/lapsi-ja-nuori-rikoksen-uhrina/
+  publisher: Rikosuhripäivystys (RIKU)
+  read: '2026-11-21'
+  note: 'Osio luettu 2026-11-21: sivu puhuttelee lasta tai nuorta. Palvelu 116 006 ma-to klo 9-18 ja pe klo 9-16 suomeksi,
+    RIKUchat samoina aikoina (luettu RIKUn nuorten oppaan sivulta). Juristin puhelinneuvonta 0800 161 177 ma-to klo 17-19.'
+- key: nollalinja
+  rule: Nollalinja on maksuton auttava puhelin väkivaltaa kokeneille ja uhatuille, ja se päivystää ympäri vuorokauden. Palvelu
+    ei kerro olevansa suunnattu nuorille, joten sitä ei esitetä nuorten avunlinkkinä.
+  url: https://nollalinja.fi/
+  publisher: Nollalinja
+  read: '2026-11-21'
+  note: 'Luettu 2026-11-21: 116 016, puhelin ympäri vuorokauden suomeksi, ruotsiksi ja englanniksi sekä tulkkauksella; chat
+    arkisin (ma-ke 9-15, to-pe 14-20). Sivulla ei ole ikärajaa eikä nuorten ohjetta.'
+- key: peluuri
+  rule: Peluuri auttaa ihmisiä, joille rahapelaaminen tai videopelaaminen on haitallista, sekä heidän läheisiään. Palvelu
+    ei kerro olevansa suunnattu nuorille, joten sitä ei esitetä nuorten avunlinkkinä.
+  url: https://www.peluuri.fi/
+  publisher: Peluuri
+  read: '2026-11-21'
+  note: 'Luettu 2026-11-21: auttava puhelin 0800 100 101 ma-pe klo 12-18; sivulla on myös pelaamisen testejä, joita ei teetetä
+    luokassa. Ikärajaa tai nuorten ohjetta ei mainita.'
+- key: paihdeneuvonta
+  rule: EHYTin Päihdeneuvonta on maksuton ja nimetön auttava puhelin päihdeasioissa, ja se on auki ympäri vuorokauden. Palvelu
+    ei kerro olevansa vain nuorille, joten nuorille ensisijainen linkki on Nuortenlinkki.
+  url: https://ehyt.fi/
+  publisher: Ehkäisevä päihdetyö EHYT ry
+  read: '2026-11-21'
+  note: 'Luettu 2026-11-21: Päihdeneuvonta 0800 900 45, avoinna 24/7, soitto maksuton ja anonyymi. Ikärajaa ei mainita. EHYTin
+    nuorten sivusto BuenoTalk luettu: ei avunlinkki.'
