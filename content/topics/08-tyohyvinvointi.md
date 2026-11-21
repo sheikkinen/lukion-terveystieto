@@ -178,7 +178,7 @@ Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyyp
 
 *Osa A20 · Harjoittelee: Osaan 1, 2*
 
-a) Luettele kahdeksan työhyvinvointiin vaikuttavaa tekijää ja luokittele ne kolmeen luokkaan: fyysinen työympäristö, psykososiaalinen työympäristö ja työn organisointi. Perustele luokka lyhyesti. (16 p)
+a) Luettele kahdeksan työhyvinvointiin vaikuttavaa tekijää ja luokittele ne kahteen luokkaan: fyysinen työympäristö ja psykososiaalinen työympäristö. Työn organisoinnin voit merkitä sulkeisiin psykososiaalisen perään. Perustele luokka lyhyesti. (16 p)
 
 b) Selitä yhden esimerkin avulla, miten kaksi luokkaa vaikuttavat toisiinsa. (4 p)
 
@@ -239,10 +239,10 @@ a)
 | työyhteisön ilmapiiri | psykososiaalinen työympäristö | turvallinen ilmapiiri tukee jaksamista, kiristynyt kuormittaa |
 | esihenkilön tuki | psykososiaalinen työympäristö | tuki on voimavara, joka suojaa kuormitukselta |
 | epäasiallinen kohtelu | psykososiaalinen työympäristö | heikentää turvallisuuden tunnetta ja lisää kuormitusta |
-| työvuorojen suunnittelu | työn organisointi | ennakoitavat vuorot mahdollistavat palautumisen |
-| perehdytys ja selkeät ohjeet | työn organisointi | vähentää epävarmuutta ja virheitä |
+| työvuorojen suunnittelu | psykososiaalinen (työn organisointi) | ennakoitavat vuorot mahdollistavat palautumisen |
+| perehdytys ja selkeät ohjeet | psykososiaalinen (työn organisointi) | vähentää epävarmuutta ja virheitä |
 
-b) Työn organisointi vaikuttaa psykososiaaliseen ympäristöön: jos ohjeet ovat epäselviä (organisointi), työntekijä joutuu jatkuvasti epäröimään, mikä lisää jännitystä ja kuormitusta. Selkeät ohjeet ja perehdytys vähentävät epävarmuutta.
+b) Fyysinen ja psykososiaalinen ympäristö vaikuttavat toisiinsa: jos melu estää kuulemasta ohjeita (fyysinen), työntekijä joutuu epäröimään, mikä lisää jännitystä ja kuormitusta (psykososiaalinen). Selkeät ohjeet vähentävät epävarmuutta. Joko "psykososiaalinen" tai "psykososiaalinen (työn organisointi)" kelpaa luokaksi.
 
 **Pisteytys**
 
@@ -271,7 +271,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **a)** Kuvion otsikko: *Pystyn pitämään tauot, samaa mieltä olevien määrä vuoroittain (kuvitteellinen)*. Vaaka-akseli: vuoro (aamu, ilta, viikonloppu). Pystyakseli: samaa mieltä olevien määrä, asteikko nollasta kuuteentoista. Pylväät: aamuvuoro viidentoista korkuinen, iltavuoro kuuden korkuinen, viikonloppuvuoro neljän korkuinen. Lähde: taulukko 1, kuvitteellinen.
 
 **b)** Aamuvuorossa lähes kaikki saavat ohjeet selkeiksi, pitävät tauot ja saavat apua. Iltavuorossa ohjeita pitää selkeinä alle puolet ja taukoja pitää alle puolet, mutta apua saa useimmat. Viikonloppuvuorossa ohjeet ovat selkeät lähes kaikille, mutta tauot ja apu jäävät vähäisiksi.
-Iltavuoron epäselvät ohjeet ovat vaatimus, joka lisää epävarmuutta, kun vastapainona ei ole selkeää tukea. Viikonloppuvuorossa taukojen ja avun puute on voimavarojen vajaus: jos vaatimukset ovat suuret eikä palautumista tule, väsymys kasvaa ja keskittyminen heikkenee. Se voi lisätä virheitä ja tapaturmia ja heikentää toimintakykyä.
+Iltavuoron epäselvät ohjeet ovat voimavaran puute, joka lisää vaatimuksia ja epävarmuutta, kun vastapainona ei ole selkeää tukea. Viikonloppuvuorossa taukojen ja avun puute on voimavarojen vajaus: jos vaatimukset ovat suuret eikä palautumista tule, väsymys kasvaa ja keskittyminen heikkenee. Se voi lisätä virheitä ja tapaturmia ja heikentää toimintakykyä.
 
 **c)** Kysely kertoo työntekijöiden kokemuksista eri vuoroissa ja osoittaa, mihin kannattaa kiinnittää huomiota. Se ei kerro syitä: ei tiedetä, miksi viikonloppuvuorossa apua on vähän, esimerkiksi onko työntekijöitä liian vähän. Vastaajia oli kaksi kolmasosaa lähetetyistä, joten kaksikymmentä ääntä puuttuu eikä tiedetä, vastasivatko tyytymättömät. Ryhmät ovat eri kokoisia (kuusitoista, neljätoista, kymmenen), joten pelkkiä määriä ei voi vertailla suoraan vaan suhteessa vastaajiin. Kysely on yksi mittauskerta ja koskee kokemusta, ei mitattua kuormitusta tai terveyttä.
 
@@ -307,7 +307,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** Aineiston 1 mukaan lähes kaikki pitävät työtä mielekkäänä ja yli puolet saa apua. Ne ovat voimavaroja. Vaatimuksiksi ja voimavarojen puutteiksi näkyvät epäselvät ohjeet (alle puolet pitää niitä selkeinä), taukojen vaikea pitäminen (noin puolet) ja se, että vain alle kolmasosa uskaltaa kertoa ongelmista. Jos ohjeet ovat epäselvät eikä apua tai taukoa aina saa, kuormitus voi kasautua. Seurauksena voi olla väsymys, keskittymisen heikkeneminen ja virheet tai tapaturmat. Kun ongelmista ei uskalleta puhua, ne jäävät piiloon eikä tilanne korjaannu. Se, ettei harva tiedä, keneltä työturvallisuudesta voi kysyä, heikentää myös nuoren työntekijän suojaa.
+**a)** Aineiston 1 mukaan lähes kaikki pitävät työtä mielekkäänä ja yli puolet saa apua. Ne ovat voimavaroja. Vaatimuksiksi ja voimavarojen puutteiksi näkyvät epäselvät ohjeet (alle puolet pitää niitä selkeinä), taukojen vaikea pitäminen (noin puolet) ja se, että vain alle kolmasosa uskaltaa kertoa ongelmista. Jos ohjeet ovat epäselvät eikä apua tai taukoa aina saa, kuormitus voi kasautua. Seurauksena voi olla väsymys, keskittymisen heikkeneminen ja virheet tai tapaturmat. Kun ongelmista ei uskalleta puhua, ne jäävät piiloon eikä tilanne korjaannu. Se, että harva tietää, keneltä työturvallisuudesta voi kysyä, heikentää myös nuoren työntekijän suojaa.
 
 **b)** Muistion päätelmä "kaikki on hyvin" ei seuraa aineistosta. Se nojaa yhteen väittämään, mielekkyyteen, ja ohittaa muut. Mielekäs työ on voimavara, mutta ei kumoa muiden kohtien kuormitusta. Kyselyyn vastasi vain noin kaksi kolmasosaa, joten kolmasosan näkemys puuttuu. Se voi olla erilainen. Kysely kertoo kokemuksista, ei syistä, eikä kerro, miksi ohjeet tuntuvat epäselviltä. Väite "nuoret jaksavat" on yleistys: ikä ei poista kuormitusta, ja nuorella työntekijällä on lisäksi erityinen suoja. Alle kolmasosa uskaltaa kertoa ongelmista, joten ongelmattomuus voi johtua siitäkin, ettei niistä kerrota. Muutosten tarpeesta ei voi päätellä "ei tarvita", mutta yhtä vähän kyselystä voi päätellä, että työpaikka olisi huono.
 

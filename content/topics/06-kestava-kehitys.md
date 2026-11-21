@@ -129,7 +129,7 @@ Ympäristöväitteitä esitetään usein mainoksissa. **Viherpesu** tarkoittaa, 
 
 ### Päätökset ja tulevat sukupolvet
 
-**Terveys kaikissa politiikoissa** tarkoittaa, että päättäjät arvioivat kaikkien alojen päätösten terveysvaikutukset, esimerkiksi liikenteen, kaavoituksen, energian ja koulutuksen. Terveyteen vaikuttavat monet tekijät, eikä terveydenhuolto yksin voi korjata niitä. Tämä on myös Ottawan asiakirjan ensimmäinen toiminta-alue, jonka tunnet TE1-aiheesta [Mitä terveys on?](../../te1/01-terveys-voimavarana/).
+**Terveys kaikissa politiikoissa** tarkoittaa, että päättäjät arvioivat kaikkien alojen päätösten terveysvaikutukset, esimerkiksi liikenteen, kaavoituksen, energian ja koulutuksen. Terveyteen vaikuttavat monet tekijät, eikä terveydenhuolto yksin voi korjata niitä. Se jatkaa Ottawan asiakirjan ensimmäistä toiminta-aluetta, terveyttä edistävää yhteiskuntapolitiikkaa, jonka tunnet TE1-aiheesta [Mitä terveys on?](../../te1/01-terveys-voimavarana/).
 
 **Sukupolvien välinen oikeudenmukaisuus** tarkoittaa, että päätökset otetaan huomioon myös niiden kannalta, jotka eivät vielä voi vaikuttaa: nuoret ja lapset, jotka eivät ole vielä syntyneet. THL kuvaa ihmisen ja ympäristön terveyden yhteyttä sivulla [Ihmisen ja ympäristön terveys kulkevat käsi kädessä](https://thl.fi/nakemyksemme/ihmisen-ja-ympariston-terveys-kulkevat-kasi-kadessa).
 

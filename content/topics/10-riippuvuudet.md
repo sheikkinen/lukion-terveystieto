@@ -18,7 +18,7 @@ official_links:
   - {title: "Päihdehaittojen ja riippuvuuksien ehkäisy (STM)", url: "https://stm.fi/paihdehaittojen-ehkaisy", publisher: "Sosiaali- ja terveysministeriö", read: 2026-11-21}
   - {title: "Uudistettu alkoholilaki (valtioneuvoston tiedote 25.6.2026)", url: "https://valtioneuvosto.fi/-/1271139/uudistettu-alkoholilaki-mahdollistaa-alkoholijuomien-toimitukset-asiakkaille-ja-sallii-vakevien-verkkomainonnan-", publisher: "Sosiaali- ja terveysministeriö (valtioneuvosto)", read: 2026-11-21}
   - {title: "Nikotiinipussien myyntiä ja markkinointia säännellään (valtioneuvoston tiedote 22.5.2025)", url: "https://valtioneuvosto.fi/-/1271139/nikotiinipussien-myyntia-ja-markkinointia-saannellaan-jatkossa-tiukemmin", publisher: "Sosiaali- ja terveysministeriö (valtioneuvosto)", read: 2026-11-21}
-  - {title: "Rahapelien järjestäminen avataan osittain kilpailulle (valtioneuvoston tiedote 15.1.2026)", url: "https://valtioneuvosto.fi/-/1410869/rahapelien-jarjestaminen-avataan-osittain-kilpailulle", publisher: "Valtiovarainministeriö (valtioneuvosto)", read: 2026-11-21}
+  - {title: "Rahapelien järjestäminen avataan osittain kilpailulle (valtioneuvoston tiedote 15.1.2026)", url: "https://valtioneuvosto.fi/-/1410869/rahapelien-jarjestaminen-avataan-osittain-kilpailulle", publisher: "Sisäministeriö (valtioneuvosto)", read: 2026-11-21}
   - {title: "Alkoholilaki 1102/2017 (Finlex)", url: "https://www.finlex.fi/fi/lainsaadanto/2017/1102", publisher: "Finlex (oikeusministeriö)", read: 2026-11-21}
   - {title: "Tupakkalaki 549/2016 (Finlex)", url: "https://www.finlex.fi/fi/lainsaadanto/2016/549", publisher: "Finlex (oikeusministeriö)", read: 2026-11-21}
   - {title: "Huumausaineiden valvonta (STM)", url: "https://stm.fi/huumausaineiden-valvonta", publisher: "Sosiaali- ja terveysministeriö", read: 2026-11-21}
@@ -62,7 +62,7 @@ linked_materials:
     read: 2026-11-21
   - title: "Rahapelien järjestäminen avataan osittain kilpailulle (valtioneuvoston tiedote 15.1.2026)"
     url: "https://valtioneuvosto.fi/-/1410869/rahapelien-jarjestaminen-avataan-osittain-kilpailulle"
-    publisher: "Valtiovarainministeriö (valtioneuvosto)"
+    publisher: "Sisäministeriö (valtioneuvosto)"
     licence_class: link-out
     licence: "Kaikki oikeudet pidätetään"
     audience: opettaja
@@ -221,7 +221,7 @@ Valitse kustakin kohdasta yksi vaihtoehto. Oikea vastaus 2 p, väärä −1 p, t
 4. Haittojen vähentäminen tarkoittaa a) käytön ehkäisyä ennen sen alkua b) kaikkien aineiden sallimista c) tiedon jakamista kouluissa d) toimia, jotka vähentävät haittoja, vaikka käyttö jatkuu.
 5. Mikä on yhteiskunnan tason haitta? a) ihmisen oma uupumus b) läheisen huoli c) palvelujen kustannusten kasvu d) opintojen viivästyminen.
 6. Miksi ennalta arvaamaton palkkio voi vahvistaa toistamista? a) palkkio on aina suurempi b) ennakoimaton palkkio vahvistaa oppimista voimakkaasti c) peli on silloin aina riippuvuutta d) pelaaja ei huomaa palkkiota.
-7. Mikä väite pelottelusta ehkäisyssä pitää paikkansa? a) se on tehokkain keino b) se toimii vain aikuisille c) laki vaatii sitä d) ammattilaiset eivät suosita sitä, koska sen ei ole osoitettu toimivan.
+7. Mikä väite pelottelusta ehkäisyssä pitää paikkansa? a) se on tehokkain keino b) se toimii vain aikuisille c) laki vaatii sitä d) ammattilaiset eivät suosittele sitä, koska sen ei ole osoitettu toimivan.
 8. Mikä ehkäisykeino kuuluu toiminta-alueeseen "henkilökohtaiset taidot"? a) mainonnan tunnistamisen opettelu b) ikärajat laissa c) päihteetön harrastustila d) matalan kynnyksen vastaanotto.
 9. Huumausaineiden käyttö, hallussapito ja kauppa ovat Suomessa nykyisin a) sallittuja täysi-ikäisille b) sallittuja kaikille c) kiellettyjä ja rangaistavia, vaikka käytön rangaistavuudesta keskustellaan d) kiellettyjä vain kaupan osalta.
 10. Miksi pelaamista ei pidä pitää oletuksena riippuvuutena? a) pelit ovat aina vaarattomia b) pelaaminen on aina riippuvuutta c) vain aineet aiheuttavat riippuvuutta d) ratkaisevia ovat kontrollin menetys ja haitat, ei pelkkä pelaaminen.
@@ -439,8 +439,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 - Analysoidaan kuvitteellisia tapauksia ja yleistä tietoa. Älä pyydä opiskelijoita kertomaan omasta tai läheisten käytöstä, pelaamisesta tai kokemuksista. Älä käytä nosta käsi -kysymyksiä. Älä kuvaile aineita, määriä, hintoja tai käyttötapoja.
 - Kerro tunnin alussa, että aihe voi herättää tunteita, että tauon voi pitää ja että tehtävän voi jättää väliin.
-- Kerro, että terveydenhoitaja ja opiskeluhuoltotiimi ovat käytettävissä. Jos opiskelija kertoo huolestaan, kuuntele, kiitä luottamuksesta ja ohjaa terveydenhoitajalle tai opiskeluhuoltoon. Aikuisella on velvollisuus toimia, kun hän saa tietää alaikäisen avun tarpeesta. Alle 18-vuotiaan kohdalla tämä voi tarkoittaa lastensuojeluilmoitusta, jonka tarkoitus on saada tuki: kerro asia neutraalisti ja toimi koulun ohjeiden mukaan.
-- Sarja tunteja toimii paremmin kuin yksittäinen tunti ([EHYT](https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/)).
+- Kerro, että terveydenhoitaja ja opiskeluhuoltotiimi ovat käytettävissä. Jos opiskelija kertoo huolestaan, kuuntele, kiitä luottamuksesta ja ohjaa terveydenhoitajalle tai opiskeluhuoltoon. Koulun henkilökunnalla, kuten opettajalla, terveydenhoitajalla ja kuraattorilla, on ohjeet siitä, miten toimitaan, kun alaikäisen avun tarve tulee tietoon; tarkista koulusi ohjeista, milloin ja miten tehdään esimerkiksi lastensuojeluilmoitus, jonka tarkoitus on saada tuki. Kerro asia neutraalisti.
+- Sarja tunteja toimii paremmin kuin yksittäinen tunti ([THL](https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa), [EHYT](https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/)).
 - Pidä molemmat näkökulmat esillä keskustelussa rajoituksista. Ehkäisy ja haitat ovat opetussuunnitelman sisältöä eivätkä valinnaisia: keskustellaan keinoista, ei siitä, pitääkö ehkäistä.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että riippuvuus koskee vain aineita? Oletanko, ettei kenelläkään ryhmässä ole läheistä, jolla on riippuvuus? Käytänkö sanoja, jotka leimaavat (esimerkiksi henkilö, jolla on päihderiippuvuus)? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 

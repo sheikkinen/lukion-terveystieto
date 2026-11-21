@@ -66,7 +66,7 @@ linked_materials:
     publisher: "Nollalinja"
     licence_class: link-out
     licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja (aikuisille ja kaikille; ikärajaa ei mainita)
+    audience: opettaja (naisiin kohdistuvaa ja lähisuhdeväkivaltaa tai sen uhkaa kokeneille, sukupuolesta riippumatta; ikärajaa ei mainita)
     read: 2026-11-21
 exam_tasks:
   - {id: K1, type: virheiden-tunnistaminen, part: A20, points: 20, minutes: 25, codes: [TE2.s5, TE2.t4]}
@@ -434,8 +434,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Valmistelu
 
 - Ilmoita ennen tuntia terveydenhoitajalle ja kuraattorille, että aiheesta puhutaan. Sovi, että he ovat tavoitettavissa.
-- Selvitä koulun ohje siitä, miten huolta lapsen turvallisuudesta käsitellään, ja kerro opiskelijoille neutraalisti, että jos huoli alaikäisen turvallisuudesta herää, aikuisella on velvollisuus toimia. Tarkista tämä koulusi ja hyvinvointialueesi ohjeista (esimerkki).
-- Aikuisille ja kaikille väkivaltaa kokeneille on maksuton auttava puhelin [Nollalinja](https://nollalinja.fi/). Sivu ei kerro, että se on tarkoitettu nuorille, joten se on opettajan tiedoksi eikä opiskelijoiden apulinkki; numero ja aukioloajat ovat sivulla.
+- Selvitä koulun ohje siitä, miten huolta lapsen turvallisuudesta käsitellään, ja kerro opiskelijoille neutraalisti, että jos huoli alaikäisen turvallisuudesta herää, koulun henkilökunta, kuten opettaja, terveydenhoitaja ja kuraattori, toimii koulun ohjeen mukaan. Tarkista koulusi ohjeista, mitä se henkilökunnalta edellyttää (esimerkki).
+- Naisiin kohdistuvaa ja lähisuhdeväkivaltaa tai sen uhkaa kokeneille, sukupuolesta riippumatta, on maksuton auttava puhelin [Nollalinja](https://nollalinja.fi/). Sivu ei kerro, että se on tarkoitettu nuorille, joten se on opettajan tiedoksi eikä opiskelijoiden apulinkki; numero ja aukioloajat ovat sivulla.
 - Suunnittele aihe sarjaksi tunteja, ei yksittäiseksi luennoksi. Älä kutsu vierailijoita kertomaan omista kokemuksistaan.
 - Älä teetä luokassa testejä äläkä pyydä opiskelijoita arvioimaan omaa tilannettaan. Poliisin sivun testejä ei käytetä.
 
@@ -451,7 +451,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 - Puhutaan kuvitteellisista tapauksista ja ilmiöistä, ei omista tai läheisten kokemuksista. Älä pyydä ketään kertomaan, onko kokenut väkivaltaa, tai kysy perheestä. Oleta, että luokassa voi olla ihmisiä, jotka ovat kokeneet väkivaltaa.
 - Pysy yleisellä tasolla. Älä kuvaa tekoja, keinoja tai paikkoja. Älä käytä pelottelua, järkyttäviä kuvia tai tositarinoita.
-- Jos opiskelija kertoo omasta tai toisen kokemuksesta, kuuntele rauhallisesti ja kiitä luottamuksesta. Älä lupaa salassapitoa, jos turvallisuus on uhattuna. Ohjaa opiskeluterveydenhuoltoon tai opiskeluhuoltoon ja toimi koulun ohjeen mukaan. Kerro neutraalisti, että aikuisella on velvollisuus toimia, kun lapsen turvallisuus on uhattuna.
+- Jos opiskelija kertoo omasta tai toisen kokemuksesta, kuuntele rauhallisesti ja kiitä luottamuksesta. Älä lupaa salassapitoa, jos turvallisuus on uhattuna. Ohjaa opiskeluterveydenhuoltoon tai opiskeluhuoltoon ja toimi koulun ohjeen mukaan. Kerro neutraalisti, että koulun henkilökunta toimii, kun lapsen turvallisuus on uhattuna; tarkista koulusi ohjeista, miten.
 - Älä koskaan syyllistä kokijaa: älä kysy, mitä hän teki tai mitä hänellä oli yllään. Älä oleta kokijoiden tai käyttäjien sukupuolta tai suuntautumista; vaihtele esimerkkien nimiä, perhemuotoja ja suhteita.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että kaikilla on turvallinen koti? Oletanko, että lähisuhdeväkivalta tarkoittaa tiettyä suhdetta? Syyllistänkö esimerkillä kokijaa? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 

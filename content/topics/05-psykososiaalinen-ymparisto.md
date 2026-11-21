@@ -95,8 +95,9 @@ Ihminen tarvitsee toisia ihmisiä. Terveyttä tukevat ennen kaikkea nämä kolme
 - **Kuuluminen** on kokemus siitä, että kuuluu joukkoon ja saa olla oma itsensä.
 - **Osallisuus** tarkoittaa, että voi vaikuttaa yhteisiin asioihin ja tulee kuulluksi.
 - **Sosiaalinen tuki** tarkoittaa, että toiselta saa kuuntelua, neuvoja tai konkreettista apua.
+- **Yhteisön normi** eli pelisääntö on yhteinen sääntö siitä, miten toisia kohdellaan.
 
-Ketju voi kulkea näin. Hyväksyvä ilmapiiri tuo turvallisuuden tunteen. Turvallisessa yhteisössä uskaltaa kysyä ja pyytää apua. Silloin kuormitus ei kasaudu yksin kannettavaksi, ja jaksaminen paranee. Ketju toimii myös toisin päin: pilkka, syrjintä ja ulkopuolelle jättäminen lisäävät kuormitusta ja voivat heikentää mielialaa ja jaksamista. **Kiusaaminen** on toistuvaa, tarkoituksellista pahan mielen aiheuttamista, ja vastuu siitä on aina sillä, joka kiusaa. Stressin perusteet kertasit TE1-aiheessa [Stressi, kriisit ja kuormituksen hallinta](../../te1/09-stressi-ja-kriisit/). Yhteisön ilmapiiri on yksi tekijä, joka voi lisätä tai vähentää kuormitusta.
+Ketju voi kulkea näin. Hyväksyvä ilmapiiri tuo turvallisuuden tunteen. Turvallisessa yhteisössä uskaltaa kysyä ja pyytää apua. Silloin kuormitus ei kasaudu yksin kannettavaksi, ja jaksaminen paranee. Ketju toimii myös toisin päin: pilkka, **syrjintä** (huonompi kohtelu jonkin ominaisuuden vuoksi) ja ulkopuolelle jättäminen lisäävät kuormitusta ja voivat heikentää mielialaa ja jaksamista. **Kiusaaminen** on toistuvaa, tarkoituksellista pahan mielen aiheuttamista, ja vastuu siitä on aina sillä, joka kiusaa. Stressin perusteet kertasit TE1-aiheessa [Stressi, kriisit ja kuormituksen hallinta](../../te1/09-stressi-ja-kriisit/). Yhteisön ilmapiiri on yksi tekijä, joka voi lisätä tai vähentää kuormitusta.
 
 ### Digitaalinen ympäristö elinympäristönä
 

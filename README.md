@@ -5,8 +5,8 @@
 > lääkäriltä, ja hätätilanteessa soita 112.
 
 Avoin, CC BY 4.0 -lisensoitu materiaali lukion terveystietoon. Se seuraa lukion opetussuunnitelman perusteita 2019.
-Ensimmäisenä on valmis pakollinen moduuli TE1 *Terveys voimavarana* (10 aihetta), ja TE2 ja TE3 tulevat
-myöhemmin. Jokainen aihe toimii kahdella tavalla: itsenäisenä oppituntina opettajalle (tuntisuunnitelma 75, 60 ja
+Valmiina ovat pakollinen moduuli TE1 *Terveys voimavarana* ja valinnainen TE2 *Terveys ja ympäristö* (kumpikin
+10 aihetta); TE3 tulee myöhemmin. Jokainen aihe toimii kahdella tavalla: itsenäisenä oppituntina opettajalle (tuntisuunnitelma 75, 60 ja
 45 minuutille) ja itseopiskelun askeleena opiskelijalle. Jokaisessa aiheessa on ylioppilaskokeen tehtävätyyppejä
 mukailevia omia harjoitustehtäviä mallivastauksineen sekä linkit olemassa oleviin materiaaleihin (THL, Ruokavirasto,
 UKK-instituutti, Mielenterveystalo, MIELI ry, Nyyti, Väestöliitto, Seta ja muut) ja niiden lisenssit.
@@ -28,6 +28,17 @@ Markdown-tiedostoina:
 | 8. Mielenterveyttä suojaavat tekijät | [te1-08](content/topics/08-mielenterveys.md) |
 | 9. Stressi, kriisit ja kuormituksen hallinta | [te1-09](content/topics/09-stressi-ja-kriisit.md) |
 | 10. Opiskeluhyvinvointi ja oma oppiminen | [te1-10](content/topics/10-opiskeluhyvinvointi.md) |
+
+| TE2 1. Tieteellinen tieto, arkitieto ja ajattelun vinoumat | [te2-01-tieto-ja-vinoumat](content/topics/01-tieto-ja-vinoumat.md) |
+| TE2 2. Tutkimusprosessi ja tutkimustiedon luotettavuus | [te2-02-tutkimustieto](content/topics/02-tutkimustieto.md) |
+| TE2 3. Terveysviestintä ja sen vaikutuskeinot | [te2-03-terveysviestinta](content/topics/03-terveysviestinta.md) |
+| TE2 4. Rakennettu ja luonnonympäristö ja terveys | [te2-04-elinymparisto](content/topics/04-elinymparisto.md) |
+| TE2 5. Psykososiaalinen ympäristö ja mediaympäristö | [te2-05-psykososiaalinen-ymparisto](content/topics/05-psykososiaalinen-ymparisto.md) |
+| TE2 6. Kestävä kehitys ja terveys | [te2-06-kestava-kehitys](content/topics/06-kestava-kehitys.md) |
+| TE2 7. Ympäristöjen turvallisuus ja väkivallan ehkäisy | [te2-07-turvallisuus-ja-vakivalta](content/topics/07-turvallisuus-ja-vakivalta.md) |
+| TE2 8. Työhyvinvointi | [te2-08-tyohyvinvointi](content/topics/08-tyohyvinvointi.md) |
+| TE2 9. Mielihyvä ja riippuvuuden mekanismit | [te2-09-riippuvuuden-mekanismit](content/topics/09-riippuvuuden-mekanismit.md) |
+| TE2 10. Aine- ja toiminnalliset riippuvuudet: syyt, haitat ja ehkäisy | [te2-10-riippuvuudet](content/topics/10-riippuvuudet.md) |
 
 **Lisenssi:** CC BY 4.0, katso [LICENSE](LICENSE). Opetussuunnitelman tekstit ovat Opetushallituksen (ePerusteet), ja
 linkitetyillä materiaaleilla on omat ehtonsa. Ylioppilaskokeiden tehtäviä ei ole kopioitu: harjoitustehtävät ovat

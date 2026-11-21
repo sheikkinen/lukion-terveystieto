@@ -19,7 +19,7 @@ diagram", and one illustration is off style. None is large; one more redo round 
 | 2 | dg-hypnogrammi phone width | render | SVG is fixed at width 771, viewBox 771x363, 14 px text (title 17 px). At 343 px that is 0.44 scale, about 6 px. The 500 px screenshot confirms the tick and stage labels are barely legible. Data shape is right (N3 early, REM longer towards morning, no clock hours, marked schematic). | Open, must fix |
 | 3 | il-te1-04-ravinto style | art | Opened at full size: textured birch foliage, gravel texture, soft photographic sky; the other illustrations are flat. The "pier" is a low boardwalk along the shore, not a jetty over water. No food, drink or health-rule problem. | Open, must fix |
 | 4 | Hypnogram on a phone (browse) | render | Same defect as item 2, seen on the built topic 05 page. Also: the addendum asks for a Finnish caption and data table beside the chart; topic 05 has one introductory sentence (line 133) but no table of the chart's stages. | Open, merged with item 2 |
-| 5 | Local paths in tools/render_diagrams.py | render | Lines 27-28 still hold `C:\Program Files...\chrome.exe` paths (plus Linux and macOS install paths). The file is untracked and would be committed. CLAUDE.md forbids committing a local path. | Open, must fix |
+| 5 | Local paths in tools/render_diagrams.py | render | Lines 27-28 still hold Windows `Program Files` install paths for chrome.exe paths (plus Linux and macOS install paths). The file is untracked and would be committed. CLAUDE.md forbids committing a local path. | Open, must fix |
 
 Note on item 4's owner: the browse checker gave it to art, but the fix is in the Vega-Lite spec and its render, so
 it goes with item 2 to render.
