@@ -88,13 +88,6 @@ materials:
     licence: "Kaikki oikeudet pidätetään"
     audience: opiskelija
     read: 2026-11-21
-  - title: "Sexpo"
-    url: "https://sexpo.fi/"
-    publisher: "Sexpo-säätiö"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja
-    read: 2026-11-21
   - title: "Opinto-ohjaussivusto: Itsetuntemus, vahvuudet ja arvot"
     url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/"
     publisher: "Lukion opinto-ohjaus (sisarsivusto)"
