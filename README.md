@@ -12,8 +12,9 @@ mukailevia omia harjoitustehtäviä mallivastauksineen sekä linkit olemassa ole
 UKK-instituutti, Mielenterveystalo, MIELI ry, Nyyti, Väestöliitto, Seta ja muut) ja niiden lisenssit.
 
 Tämä on sisarsivusto [lukion opinto-ohjauksen](https://sheikkinen.github.io/lukion-opinto-ohjaus/) materiaalille.
-Sivustoversio julkaistaan GitHub Pagesissa, kun yhteinen rakennustyökalu (`lukio-runko`) on valmis. Siihen asti
-aiheet voi lukea Markdown-tiedostoina:
+**Sivusto:** <https://sheikkinen.github.io/lukion-terveystieto/>, jonka rakentaa yhteinen moottori
+[lukio-runko](https://github.com/sheikkinen/lukio-runko) (versio lukittu tiedostossa `requirements.txt`). Aiheet
+Markdown-tiedostoina:
 
 | Aihe | Tiedosto |
 |---|---|
@@ -43,6 +44,10 @@ omia, ja niiden pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintola
   in the text. The site build will render them once, and the blockquotes will be removed.
 - [ ] **Offline tasks:** several topics invent a person on paper offline, while the online steps use a named case.
 - [ ] **Matriculation exam coverage:** TE1 is the main subject of about 28% of exam points; our topics cover its TE1 content mostly partly. Additions per topic are in `docs/research/2026-11-21-exam-cross-check.md`.
+
+- [ ] **Live check minors (2026-11-21):** the crisis-line number is written in the text, although changing figures
+  should be links; a THL page written for professionals is listed among the official sources (not as help); the
+  lesson views of topics 01, 02, 03, 05 and 10 have no help section; the 404 page is GitHub's default.
 
 The process: briefs written before the work in `prompts/`, decisions in `decisions/INDEX.md`, rulings in
 `docs/review/`, research in `docs/research/`, diary lines in `docs/diary/`.
