@@ -83,3 +83,22 @@ Written before the work. The operator [O]: "note: mermaid provides good flowchar
   recorded in `docs/engine-issues.md` as a proposal for a later engine version. Until then the SVGs are rendered here
   and committed with their sources.
 - **Money:** with diagrams in Mermaid, the image spend in this brief is mostly the 12 illustrations, about $0.06.
+
+## Addendum 2026-11-21: settings from the visualization research
+
+Written before the work, from `docs/research/2026-11-21-visualization-assets.md`.
+
+- **Mermaid** (mermaid-cli 12.2.0, pinned) is run with `htmlLabels: false`, `layout: dagre`, a system font and the
+  `base` theme with the site's colours. This gives real `<text>` labels and about 18 KB per diagram instead of 202 KB.
+  Fills, text and lines are chosen to pass contrast in both the light and dark themes, so one SVG serves both and
+  prints well. Each diagram uses `accTitle` and `accDescr` in Finnish.
+- **The hypnogram is rendered with Vega-Lite** in Python (`vl-convert-python`, no browser) as a step line on
+  self-made schematic data, with Vega's English ARIA labels turned off and a Finnish caption and data table beside it.
+  It is not drawn in Mermaid or by an image model.
+- **Animation, if any, is CSS inside an inline SVG,** honouring `prefers-reduced-motion`, under 5 seconds, and showing
+  the final frame in print. No three.js.
+- **Interactives are linked, never embedded** (PhET's newer sims are CC BY-NC and load trackers; GeoGebra and Desmos
+  break the rules). For example: the Finnish PhET "Hermosolu" sim, as a link.
+- **Icons,** if used: Lucide (ISC) or Tabler (MIT), self-hosted SVG. Not unDraw (its licence forbids bundling).
+- **Real data charts** (later, TE2 and TE3): Sotkanet and Statistics Finland (CC BY 4.0), with a CSV snapshot
+  committed and charts rendered at build time.

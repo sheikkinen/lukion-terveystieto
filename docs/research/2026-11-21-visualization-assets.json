@@ -1,0 +1,1732 @@
+{
+ "title": "Visualization options and open visual assets for two static lukio sites: raw notes",
+ "date": "2026-11-21",
+ "method": "Three research readers (diagrams and charts; animation and interactives; images, icons and open data) read primary pages, at most two tries per page; the producer queried the npm and PyPI registries, measured bundle sizes and rendered test diagrams locally. Grades: verified = read on the primary page or measured; likely = secondary source or inference; unverified = not confirmed.",
+ "package_registry_data": [
+  {
+   "package": "@mermaid-js/mermaid-cli",
+   "version": "12.2.0",
+   "licence_npm": "MIT",
+   "released": "2026-11-02",
+   "unpacked_size_bytes": 92517,
+   "browser_file": null,
+   "browser_file_gzip_bytes": null,
+   "grade": "verified",
+   "url": "https://registry.npmjs.org/@mermaid-js%2fmermaid-cli"
+  },
+  {
+   "package": "mermaid",
+   "version": "12.3.0",
+   "licence_npm": "MIT",
+   "released": "2026-11-03",
+   "unpacked_size_bytes": 123623192,
+   "browser_file": "dist/mermaid.min.js",
+   "browser_file_gzip_bytes": 1581902,
+   "grade": "verified",
+   "url": "https://registry.npmjs.org/mermaid"
+  },
+  {
+   "package": "puppeteer",
+   "version": "25.18.1",
+   "licence_npm": "Apache-2.0",
+   "released": "2026-11-17",
+   "unpacked_size_bytes": 43252,
+   "browser_file": null,
+   "browser_file_gzip_bytes": null,
+   "grade": "verified",
+   "url": "https://registry.npmjs.org/puppeteer"
+  },
+  {
+   "package": "@hpcc-js/wasm-graphviz",
+   "version": "1.30.0",
+   "licence_npm": "Apache-2.0",
+   "released": "2026-10-21",
+   "unpacked_size_bytes": 2082842,
+   "browser_file": null,
+   "browser_file_gzip_bytes": null,
+   "grade": "verified",
+   "url": "https://registry.npmjs.org/@hpcc-js%2fwasm-graphviz"
+  },
+  {
+   "package": "@viz-js/viz",
+   "version": "3.31.0",
+   "licence_npm": "MIT",
+   "released": "2026-09-28",
+   "unpacked_size_bytes": 4994623,
+   "browser_file": null,
+   "browser_file_gzip_bytes": null,
+   "grade": "verified",
+   "url": "https://registry.npmjs.org/@viz-js%2fviz"
+  },
+  {
+   "package": "vega",
+   "version": "6.4.0",
+   "licence_npm": "BSD-3-Clause",
+   "released": "2026-08-14",
+   "unpacked_size_bytes": 3727817,
+   "browser_file": "build/vega.min.js",
+   "browser_file_gzip_bytes": 179584,
+   "grade": "verified",
+   "url": "https://registry.npmjs.org/vega"
+  },
+  {
+   "package": "vega-lite",
+   "version": "6.5.0",
+   "licence_npm": "BSD-3-Clause",
+   "released": "2026-10-08",
+   "unpacked_size_bytes": 5940557,
+   "browser_file": "build/vega-lite.min.js",
+   "browser_file_gzip_bytes": 81777,
+   "grade": "verified",
+   "url": "https://registry.npmjs.org/vega-lite"
+  },
+  {
+   "package": "@observablehq/plot",
+   "version": "0.6.19",
+   "licence_npm": "ISC",
+   "released": "2026-11-05",
+   "unpacked_size_bytes": 1740448,
+   "browser_file": "dist/plot.umd.min.js (0.6.17)",
+   "browser_file_gzip_bytes": 68804,
+   "grade": "verified",
+   "url": "https://registry.npmjs.org/@observablehq%2fplot"
+  },
+  {
+   "package": "d3",
+   "version": "7.9.2",
+   "licence_npm": "ISC",
+   "released": "2026-11-03",
+   "unpacked_size_bytes": 881539,
+   "browser_file": "dist/d3.min.js (7.9.0)",
+   "browser_file_gzip_bytes": 92362,
+   "grade": "verified",
+   "url": "https://registry.npmjs.org/d3"
+  },
+  {
+   "package": "chart.js",
+   "version": "4.6.1",
+   "licence_npm": "MIT",
+   "released": "2026-10-22",
+   "unpacked_size_bytes": 6227928,
+   "browser_file": "dist/chart.umd.min.js (4.5.1)",
+   "browser_file_gzip_bytes": 70387,
+   "grade": "verified",
+   "url": "https://registry.npmjs.org/chart.js"
+  },
+  {
+   "package": "echarts",
+   "version": "6.1.0",
+   "licence_npm": "Apache-2.0",
+   "released": "2026-05-19",
+   "unpacked_size_bytes": 60297703,
+   "browser_file": "dist/echarts.min.js (6.0.0)",
+   "browser_file_gzip_bytes": 361923,
+   "grade": "verified",
+   "url": "https://registry.npmjs.org/echarts"
+  },
+  {
+   "package": "three",
+   "version": "0.187.0",
+   "licence_npm": "MIT",
+   "released": "2026-10-30",
+   "unpacked_size_bytes": 21030536,
+   "browser_file": "build/three.module.min.js (needs three.core.min.js too, 105262 gzip)",
+   "browser_file_gzip_bytes": 89372,
+   "grade": "verified",
+   "url": "https://registry.npmjs.org/three"
+  },
+  {
+   "package": "p5",
+   "version": "2.4.0",
+   "licence_npm": "LGPL-2.1",
+   "released": "2026-11-11",
+   "unpacked_size_bytes": 16414944,
+   "browser_file": "lib/p5.min.js",
+   "browser_file_gzip_bytes": 308063,
+   "grade": "verified",
+   "url": "https://registry.npmjs.org/p5"
+  },
+  {
+   "package": "lottie-web",
+   "version": "5.13.0",
+   "licence_npm": "MIT",
+   "released": "2025-05-21",
+   "unpacked_size_bytes": 25415905,
+   "browser_file": "build/player/lottie_light.min.js (full lottie.min.js 76042)",
+   "browser_file_gzip_bytes": 46392,
+   "grade": "verified",
+   "url": "https://registry.npmjs.org/lottie-web"
+  },
+  {
+   "package": "@lottiefiles/dotlottie-web",
+   "version": "0.83.2",
+   "licence_npm": "MIT",
+   "released": null,
+   "unpacked_size_bytes": 7341845,
+   "browser_file": null,
+   "browser_file_gzip_bytes": null,
+   "grade": "verified",
+   "url": "https://registry.npmjs.org/@lottiefiles%2fdotlottie-web"
+  },
+  {
+   "package": "lucide-static",
+   "version": "1.77.0",
+   "licence_npm": "ISC",
+   "released": "2026-11-20",
+   "unpacked_size_bytes": 57683058,
+   "browser_file": null,
+   "browser_file_gzip_bytes": null,
+   "grade": "verified",
+   "url": "https://registry.npmjs.org/lucide-static"
+  },
+  {
+   "package": "@tabler/icons",
+   "version": "3.52.0",
+   "licence_npm": "MIT",
+   "released": "2026-11-14",
+   "unpacked_size_bytes": 12059039,
+   "browser_file": null,
+   "browser_file_gzip_bytes": null,
+   "grade": "verified",
+   "url": "https://registry.npmjs.org/@tabler%2ficons"
+  },
+  {
+   "package": "h5p-standalone",
+   "version": "3.8.2",
+   "licence_npm": "MIT",
+   "released": "2026-03-24",
+   "unpacked_size_bytes": 1322117,
+   "browser_file": null,
+   "browser_file_gzip_bytes": null,
+   "grade": "verified",
+   "url": "https://registry.npmjs.org/h5p-standalone"
+  },
+  {
+   "package": "@terrastruct/d2",
+   "version": "0.1.33",
+   "licence_npm": "MPL-2.0",
+   "released": null,
+   "unpacked_size_bytes": 59763722,
+   "browser_file": null,
+   "browser_file_gzip_bytes": null,
+   "grade": "verified",
+   "url": "https://registry.npmjs.org/@terrastruct%2fd2"
+  },
+  {
+   "package": "vl-convert-python (PyPI)",
+   "version": "1.9.0.post1",
+   "licence": "BSD-3-Clause",
+   "released": "2026-01-21",
+   "installed_size": "about 80 MB (bundles V8 and Vega)",
+   "grade": "verified",
+   "url": "https://pypi.org/project/vl-convert-python/"
+  },
+  {
+   "package": "matplotlib (PyPI)",
+   "version": "3.11.2",
+   "licence": "matplotlib licence (PSF-based)",
+   "released": "2026-09-11",
+   "grade": "verified",
+   "url": "https://pypi.org/project/matplotlib/"
+  },
+  {
+   "package": "graphviz (PyPI)",
+   "version": "0.21",
+   "licence": "MIT (wrapper; needs the dot binary, EPL-2.0)",
+   "released": "2025-06-15",
+   "grade": "verified",
+   "url": "https://pypi.org/project/graphviz/"
+  }
+ ],
+ "bundle_size_note": {
+  "note": "Browser bundles measured from the jsDelivr copy of each npm file, gzip -9; only relevant when a library runs in the browser.",
+  "url": "https://www.jsdelivr.com/"
+ },
+ "local_tests": {
+  "note": "Run locally on 2026-11-21 in a throwaway folder; nothing committed. mmdc 12.2.0 (mermaid 12.3.0) through a system Chrome via a puppeteerConfigFile with executablePath and PUPPETEER_SKIP_DOWNLOAD=1; vl-convert-python 1.9.0.post1 (reports Vega 6.2.0).",
+  "results": [
+   {
+    "claim": "npm install of @mermaid-js/mermaid-cli 12.2.0 without the Chrome download takes about 433 MB of node_modules.",
+    "grade": "verified (local test)"
+   },
+   {
+    "claim": "Default mmdc 12.2.0 flowchart (theme redux-color, ELK): 202 KB SVG (129 KB gzip), labels in 6 foreignObject elements, 0 SVG text elements, 4 @font-face rules with the 'Recursive Variable' font embedded as base64.",
+    "grade": "verified (local test)"
+   },
+   {
+    "claim": "With config {htmlLabels:false, theme:'neutral', layout:'dagre', fontFamily:'system-ui, sans-serif'} the same flowchart is 18 KB (3.4 KB gzip), 0 foreignObject, labels as SVG text, no embedded font.",
+    "grade": "verified (local test)"
+   },
+   {
+    "claim": "theme 'neutral' without htmlLabels:false still uses foreignObject (12 elements).",
+    "grade": "verified (local test)"
+   },
+   {
+    "claim": "accTitle/accDescr produce title, desc, aria-labelledby, aria-describedby and aria-roledescription in the SVG root.",
+    "grade": "verified (local test)"
+   },
+   {
+    "claim": "Finnish letters (a/o umlauts) render correctly in flowchart, mindmap and xychart labels.",
+    "grade": "verified (local test)"
+   },
+   {
+    "claim": "The -t (theme) flag is ignored when the -c config file sets 'theme'; a dark SVG needs its own config with theme 'dark'.",
+    "grade": "verified (local test)"
+   },
+   {
+    "claim": "Mindmap in theme 'neutral' uses light grey boxes with white or grey text that look below 4.5:1 contrast; needs theme 'base' with themeVariables.",
+    "grade": "likely (visual check, contrast not measured)"
+   },
+   {
+    "claim": "xychart 'line' in theme neutral draws a very pale line (poor contrast) and the y axis is numeric only, so sleep-stage names cannot be axis labels; not suitable for a hypnogram.",
+    "grade": "verified (local test)"
+   },
+   {
+    "claim": "One run with htmlLabels:false and ELK layout hung until killed; a re-run with the same input finished, so add a timeout to the build step.",
+    "grade": "verified (local test), cause unknown"
+   },
+   {
+    "claim": "Each mmdc call starts Chrome; about 2-5 s per diagram on this machine.",
+    "grade": "likely (local observation, not timed precisely)"
+   },
+   {
+    "claim": "mmdc has an --svgId option, needed when several SVGs are inlined on one page (default root id 'my-svg' would clash).",
+    "grade": "verified (mermaid-cli 12.2.0 source)"
+   },
+   {
+    "claim": "vl-convert-python renders a Vega-Lite step-line hypnogram to SVG in about 3 s without a browser: 10.7 KB (1.3 KB gzip), 25 text elements, no foreignObject, no external URLs.",
+    "grade": "verified (local test)"
+   },
+   {
+    "claim": "Vega-Lite config.locale.number with decimal ',' gives Finnish decimal commas on axes (0,5).",
+    "grade": "verified (local test)"
+   },
+   {
+    "claim": "Vega's automatic ARIA labels are English ('X-axis titled ...'); the root svg has no title/desc. Set aria:false on marks/axes or override with Finnish 'description' and wrap the SVG in a figure with a Finnish caption and data table.",
+    "grade": "verified (local test)"
+   },
+   {
+    "claim": "A line chart needs an explicit 'order' encoding by time when the y field is ordinal; otherwise points connect in y order.",
+    "grade": "verified (local test)"
+   }
+  ]
+ },
+ "diagrams_and_charts": [
+  {
+   "name": "Mermaid + @mermaid-js/mermaid-cli (mmdc)",
+   "licence": "MIT for both (mermaid: https://github.com/mermaid-js/mermaid/blob/develop/LICENSE ; mermaid-cli: https://github.com/mermaid-js/mermaid-cli)",
+   "claims": [
+    {
+     "claim": "mermaid LICENSE file is The MIT License (MIT).",
+     "grade": "verified",
+     "url": "https://github.com/mermaid-js/mermaid/blob/develop/LICENSE"
+    },
+    {
+     "claim": "mermaid-cli is MIT.",
+     "grade": "verified",
+     "url": "https://raw.githubusercontent.com/mermaid-js/mermaid-cli/master/package.json"
+    },
+    {
+     "claim": "mermaid-cli master package.json shows version 12.0.0, engines node >=22.13.0, dependency mermaid ^12.2.0, peerDependency puppeteer ^25.0.0; also bundles @fontsource fonts, katex, fontawesome, zenuml. npm 12.2.0 as stated by caller not re-checked (npmjs.com returned 403).",
+     "grade": "verified",
+     "url": "https://raw.githubusercontent.com/mermaid-js/mermaid-cli/master/package.json"
+    },
+    {
+     "claim": "mmdc renders via Puppeteer + headless Chromium. To use an installed Chrome: puppeteer config JSON with executablePath, passed via --puppeteerConfigFile; set PUPPETEER_SKIP_DOWNLOAD=1 at npm install to skip the browser download. Docs warn only the bundled Chromium is guaranteed.",
+     "grade": "verified",
+     "url": "https://github.com/mermaid-js/mermaid-cli/blob/master/docs/already-installed-chromium.md"
+    },
+    {
+     "claim": "Docker image minlag/mermaid-cli exists; reads input from /data.",
+     "grade": "verified",
+     "url": "https://github.com/mermaid-js/mermaid-cli"
+    },
+    {
+     "claim": "README documents -i, -o, -t (theme), -b (background, e.g. transparent), --cssFile (inlined into themeCSS), --size; defers to mmdc -h for full list. The -c config-file flag is not shown in README.",
+     "grade": "verified (README); -c flag likely",
+     "url": "https://github.com/mermaid-js/mermaid-cli"
+    },
+    {
+     "claim": "HTML labels are ON by default: getEffectiveHtmlLabels returns config.htmlLabels ?? config.flowchart.htmlLabels ?? true. So flowchart-style labels are emitted as HTML inside <foreignObject> by default.",
+     "grade": "verified",
+     "url": "https://github.com/mermaid-js/mermaid/blob/develop/packages/mermaid/src/config.ts"
+    },
+    {
+     "claim": "Root-level htmlLabels (boolean) is the supported switch; flowchart.htmlLabels is deprecated (schema default null) and root takes precedence. htmlLabels:false gives SVG <text>/<tspan> labels.",
+     "grade": "verified (config); text-element output likely",
+     "url": "https://mermaid.js.org/config/schema-docs/config.html"
+    },
+    {
+     "claim": "foreignObject labels disappear in non-browser SVG renderers (librsvg, Inkscape, PowerPoint, Prince); reported workaround htmlLabels false, may not fully work for all diagrams.",
+     "grade": "likely",
+     "url": "https://gitlab.gnome.org/GNOME/librsvg/-/issues/1082"
+    },
+    {
+     "claim": "Clipped label text in exported SVG from font-metric mismatch / foreignObject too narrow when the viewing font differs from the measuring font.",
+     "grade": "likely",
+     "url": "https://lightrun.com/answers/mermaid-js-mermaid-text-is-cut-off-in-svg-exported-from-live-editor"
+    },
+    {
+     "claim": "Themes in v12 schema: default, base, dark, forest, neutral, neo, neo-dark, redux, redux-dark, redux-color, redux-dark-color. Top-level default is 'default', but flowchart and sequence override to redux-color.",
+     "grade": "verified",
+     "url": "https://raw.githubusercontent.com/mermaid-js/mermaid/develop/packages/mermaid/src/schemas/config.schema.yaml"
+    },
+    {
+     "claim": "Only the 'base' theme can be modified with themeVariables; darkMode variable (default false) changes derived colour calculation.",
+     "grade": "verified",
+     "url": "https://mermaid.js.org/config/theming.html"
+    },
+    {
+     "claim": "Theming docs do not mention prefers-color-scheme; one SVG has fixed colours, so render twice (light/dark) or override colours with CSS (themeCSS / --cssFile with CSS custom properties, works when SVG is inlined).",
+     "grade": "verified (absence); approach likely",
+     "url": "https://mermaid.js.org/config/theming.html"
+    },
+    {
+     "claim": "accTitle: single line; accDescr: single line or accDescr { multi-line }. Output: <title> and <desc> children of svg, aria-labelledby / aria-describedby on svg, aria-roledescription = diagram type. Available for all diagram types.",
+     "grade": "verified",
+     "url": "https://mermaid.js.org/config/accessibility.html"
+    },
+    {
+     "claim": "Flowchart: wrap unicode text in double quotes; markdown strings auto-wrap long text (markdownAutoWrap:false disables); ELK is default layout in v12 (layout: dagre for old); defaultRenderer removed in v12.",
+     "grade": "verified",
+     "url": "https://mermaid.js.org/syntax/flowchart.html"
+    },
+    {
+     "claim": "flowchart wrappingWidth default 120.",
+     "grade": "verified",
+     "url": "https://mermaid.js.org/config/schema-docs/config-defs-flowchart-diagram-config.html"
+    },
+    {
+     "claim": "Mindmap: markdown strings auto-wrap; tidy-tree layout option; ::icon() experimental and needs icon fonts supplied by the site (self-host).",
+     "grade": "verified",
+     "url": "https://mermaid.js.org/syntax/mindmap.html"
+    },
+    {
+     "claim": "xychart: docs use keyword 'xychart' (one legend example still shows xychart-beta); multi-word text must be quoted; labelRotation for x-axis; no wrapping or a11y notes.",
+     "grade": "verified",
+     "url": "https://mermaid.js.org/syntax/xyChart.html"
+    },
+    {
+     "claim": "Sankey keyword is 'sankey' (no beta label in docs); CSV rows source,target,value; quote text with commas.",
+     "grade": "verified",
+     "url": "https://mermaid.js.org/syntax/sankey.html"
+    },
+    {
+     "claim": "No Mermaid issue found specifically about Finnish/umlaut characters; text is measured in real Chromium so a-umlaut/o-umlaut are fine if the same font is used when viewing; risk is clipping when page font differs.",
+     "grade": "likely",
+     "url": "https://mermaid.js.org/syntax/flowchart.html"
+    },
+    {
+     "claim": "timeline, pie, quadrantChart, block, kanban pages not individually checked in this pass.",
+     "grade": "unverified",
+     "url": "https://mermaid.js.org/intro/"
+    }
+   ],
+   "build_step": "Node >=22 + Puppeteer + headless Chrome (large download, or system Chrome via executablePath). Python: subprocess.run(['mmdc','-i',src,'-o',out_svg,'-c',config_json,'-t',theme,'-b','transparent','--puppeteerConfigFile',pcfg]). Batch diagrams to avoid repeated Chrome start-up. Put htmlLabels:false in config JSON.",
+   "a11y": "accTitle/accDescr -> <title>/<desc> + aria-labelledby/aria-describedby. Default foreignObject labels are HTML inside SVG; htmlLabels:false gives SVG text. Inline the SVG (not <img>) so screen readers reach text; add a text alternative for complex diagrams.",
+   "no_js_print": "Static SVG, no JS. Browser printing fine; non-browser converters may drop foreignObject labels -> use htmlLabels:false.",
+   "theming": "Fixed colours per render. (a) render twice and switch with <picture><source media='(prefers-color-scheme: dark)'> or CSS tied to the site toggle; (b) one render + --cssFile mapping fills/strokes to site CSS custom properties (inline SVG only).",
+   "phone": "Wide flowcharts shrink badly; prefer TD direction, short labels, scrollable figure wrapper, useMaxWidth. Long Finnish compounds need explicit breaks or markdown strings.",
+   "teaching_fit": "Strong for flowcharts, cycles, mindmaps, timelines; plain text in Markdown. Heavy build dependency (Chrome)."
+  },
+  {
+   "name": "Graphviz (dot) + Python graphviz + WASM builds",
+   "licence": "Graphviz EPL-2.0 (https://graphviz.org/license/); Python graphviz MIT; @hpcc-js/wasm Apache-2.0; @viz-js/viz MIT (bundled Graphviz code remains EPL-2.0)",
+   "claims": [
+    {
+     "claim": "Graphviz is licensed under Eclipse Public License v2.0.",
+     "grade": "verified",
+     "url": "https://graphviz.org/license/"
+    },
+    {
+     "claim": "Python package graphviz is MIT and needs the Graphviz dot binary on PATH to render; svg is a supported format.",
+     "grade": "verified",
+     "url": "https://graphviz.readthedocs.io/en/stable/"
+    },
+    {
+     "claim": "hpcc-js-wasm monorepo is Apache-2.0, includes @hpcc-js/wasm-graphviz and wasm-graphviz-cli; for Node and browsers; graphviz.dot() returns SVG.",
+     "grade": "verified",
+     "url": "https://github.com/hpcc-systems/hpcc-js-wasm"
+    },
+    {
+     "claim": "viz-js LICENSE is MIT (Michael Daines); text does not mention Graphviz EPL.",
+     "grade": "verified",
+     "url": "https://raw.githubusercontent.com/mdaines/viz-js/v3/LICENSE"
+    },
+    {
+     "claim": "Compiled Graphviz inside the WASM packages stays under EPL-2.0.",
+     "grade": "likely",
+     "url": "https://graphviz.org/license/"
+    },
+    {
+     "claim": "Graphviz SVG output uses real <text> elements plus <title> per node/edge.",
+     "grade": "likely",
+     "url": "https://graphviz.org/docs/outputs/svg/"
+    }
+   ],
+   "build_step": "subprocess ['dot','-Tsvg',in,'-o',out] (system package, no browser), or graphviz.Source(src).pipe(format='svg'), or Node WASM without system install.",
+   "a11y": "Real <text>; add <title>/<desc>/role in post-processing; no accTitle equivalent.",
+   "no_js_print": "Pure static SVG, prints well.",
+   "theming": "Colours fixed in DOT; render twice or post-process to CSS classes/currentColor; bgcolor=transparent.",
+   "phone": "rankdir=TB keeps width down.",
+   "teaching_fit": "Good for graphs; harder syntax than Mermaid; no mindmap/timeline/charts."
+  },
+  {
+   "name": "D2 (terrastruct/d2)",
+   "licence": "MPL-2.0 (https://github.com/terrastruct/d2/blob/master/LICENSE.txt)",
+   "claims": [
+    {
+     "claim": "Open source under Mozilla Public License 2.0 (Copyright 2022 Terrastruct).",
+     "grade": "verified",
+     "url": "https://github.com/terrastruct/d2"
+    },
+    {
+     "claim": "Install via install script or go install; ships Source Sans Pro as default font.",
+     "grade": "verified",
+     "url": "https://github.com/terrastruct/d2"
+    },
+    {
+     "claim": "CLI flags: --theme/-t (D2_THEME), --dark-theme (D2_DARK_THEME, used when viewer's browser is in dark mode; explicit styles in D2 code still apply), --layout/-l default dagre, --pad, --font-regular.",
+     "grade": "verified",
+     "url": "https://github.com/terrastruct/d2/blob/master/d2cli/main.go"
+    },
+    {
+     "claim": "With a dark theme set, the SVG CSS includes @media screen and (prefers-color-scheme:dark){...}, so one SVG follows OS preference (not a manual site toggle).",
+     "grade": "verified",
+     "url": "https://github.com/terrastruct/d2/blob/master/d2renderers/d2svg/d2svg.go"
+    },
+    {
+     "claim": "Docs: dark themes not set by default; with the flag set the diagram switches when system preference is dark.",
+     "grade": "verified",
+     "url": "https://d2lang.com/tour/themes/"
+    },
+    {
+     "claim": "SVG renderer writes labels as <text> and embeds fonts via @font-face inside the SVG (self-contained, larger files); Markdown blocks historically used foreignObject.",
+     "grade": "verified (source grep); markdown detail likely",
+     "url": "https://github.com/terrastruct/d2/blob/master/d2renderers/d2svg/d2svg.go"
+    },
+    {
+     "claim": "Layouts: dagre default, ELK available; TALA is closed-source, paid for commercial use, watermark without licence.",
+     "grade": "verified",
+     "url": "https://github.com/terrastruct/TALA"
+    },
+    {
+     "claim": "README says nothing about accessibility.",
+     "grade": "verified",
+     "url": "https://github.com/terrastruct/d2"
+    }
+   ],
+   "build_step": "Single Go binary, no browser for SVG. subprocess ['d2','--theme','0','--dark-theme','200','--layout','elk','in.d2','out.svg'].",
+   "a11y": "Real <text>; no documented title/desc syntax - post-process.",
+   "no_js_print": "Static SVG; dark media query is screen-only so print stays light.",
+   "theming": "Best built-in: one SVG with light + prefers-color-scheme dark. Manual site toggle needs post-processing.",
+   "phone": "Embedded fonts keep metrics consistent; wide diagrams need scroll wrapper.",
+   "teaching_fit": "Nice output; new syntax; no charts/timelines; avoid TALA."
+  },
+  {
+   "name": "PlantUML",
+   "licence": "Multi-licence jars: GPL (recommended), GPLv2, LGPL, Apache-2.0, BSD, EPL-2.0, MIT (https://plantuml.com/download)",
+   "claims": [
+    {
+     "claim": "Download page offers GPL, GPL v2, LGPL, ASL, BSD, EPL 2.0 and MIT jars (v1.2026.10); non-GPL builds lack some features (e.g. Ditaa); ELK only in EPL build; GPL builds embed Graphviz.",
+     "grade": "verified",
+     "url": "https://plantuml.com/download"
+    },
+    {
+     "claim": "Requires a Java runtime.",
+     "grade": "likely",
+     "url": "https://plantuml.com/download"
+    },
+    {
+     "claim": "Public server gets the diagram source encoded in the URL; self-hosting possible (Tomcat 10 war or local PicoWeb server).",
+     "grade": "verified",
+     "url": "https://plantuml.com/server"
+    },
+    {
+     "claim": "-tsvg output uses <text> elements.",
+     "grade": "likely",
+     "url": "https://plantuml.com/command-line"
+    }
+   ],
+   "build_step": "java -jar plantuml.jar -tsvg file.puml via subprocess.",
+   "a11y": "Text as <text>; no verified title/desc support.",
+   "no_js_print": "Static SVG.",
+   "theming": "!theme directive; dark needs second render.",
+   "phone": "UML layouts often wide.",
+   "teaching_fit": "Poor fit (UML-centric, Java). Not recommended."
+  },
+  {
+   "name": "Kroki",
+   "licence": "MIT (https://github.com/yuzutech/kroki)",
+   "claims": [
+    {
+     "claim": "MIT licence; self-host with docker run yuzutech/kroki; companions kroki-mermaid, kroki-bpmn, kroki-excalidraw, kroki-diagramsnet.",
+     "grade": "verified",
+     "url": "https://github.com/yuzutech/kroki"
+    },
+    {
+     "claim": "Supports Mermaid, GraphViz, D2, PlantUML, Vega, Vega-Lite, Pikchr, Svgbob and others.",
+     "grade": "verified",
+     "url": "https://github.com/yuzutech/kroki"
+    },
+    {
+     "claim": "Public kroki.io at build time sends diagram source to a third party (build-time privacy issue, not runtime).",
+     "grade": "likely",
+     "url": "https://kroki.io/"
+    }
+   ],
+   "build_step": "HTTP POST from Python to a local Docker container; mermaid companion still runs headless Chrome.",
+   "a11y": "Same as underlying tool.",
+   "no_js_print": "Static SVG.",
+   "theming": "Same as underlying tool.",
+   "phone": "Same as underlying tool.",
+   "teaching_fit": "Overkill for two sites; do not use the public instance."
+  },
+  {
+   "name": "Vega-Lite + vl-convert-python",
+   "licence": "Vega-Lite BSD-3-Clause (https://github.com/vega/vega-lite/blob/main/LICENSE); vl-convert BSD-3-Clause (https://github.com/vega/vl-convert)",
+   "claims": [
+    {
+     "claim": "Vega-Lite LICENSE is BSD 3-Clause (UW Interactive Data Lab).",
+     "grade": "verified",
+     "url": "https://raw.githubusercontent.com/vega/vega-lite/main/LICENSE"
+    },
+    {
+     "claim": "VlConvert is BSD 3-Clause; embeds Vega/Vega-Lite in an embedded V8 runtime; no browser or Node.js; CLI vl2svg; Python vlc.vegalite_to_svg(spec).",
+     "grade": "verified",
+     "url": "https://github.com/vega/vl-convert"
+    },
+    {
+     "claim": "Bundled libraries need no network; remote data/images/Google Fonts only if configured; Google Fonts opt-in; system fonts plus extra font dirs.",
+     "grade": "verified",
+     "url": "https://github.com/vega/vl-convert"
+    },
+    {
+     "claim": "Vega scenegraph generates role, aria-roledescription and aria-label attributes for marks and guides (description feeds aria-label).",
+     "grade": "verified (source); exact SVG shape likely",
+     "url": "https://github.com/vega/vega/blob/main/packages/vega-scenegraph/src/util/aria.js"
+    },
+    {
+     "claim": "Vega SVG renderer writes labels as <text>.",
+     "grade": "likely",
+     "url": "https://github.com/vega/vega"
+    }
+   ],
+   "build_step": "pip install vl-convert-python (wheel with embedded V8); in-process call vlc.vegalite_to_svg(spec_dict) from the Python build.",
+   "a11y": "<text> + ARIA; pair with HTML <table>.",
+   "no_js_print": "Static SVG; prints.",
+   "theming": "config colours in spec; render twice or post-process to CSS vars.",
+   "phone": "Pick modest width; SVG scales via viewBox.",
+   "teaching_fit": "Best fit for data charts in a Python build."
+  },
+  {
+   "name": "Observable Plot",
+   "licence": "ISC (https://github.com/observablehq/plot/blob/main/LICENSE)",
+   "claims": [
+    {
+     "claim": "LICENSE is ISC.",
+     "grade": "verified",
+     "url": "https://raw.githubusercontent.com/observablehq/plot/main/LICENSE"
+    },
+    {
+     "claim": "document option allows a virtual DOM implementation for server-side rendering in Node (e.g. jsdom).",
+     "grade": "verified",
+     "url": "https://github.com/observablehq/plot/blob/main/docs/features/plots.md"
+    },
+    {
+     "claim": "Marks support ariaLabel, ariaDescription, ariaHidden; title/subtitle/caption wrap SVG in an HTML figure.",
+     "grade": "verified",
+     "url": "https://github.com/observablehq/plot/blob/main/docs/features/marks.md"
+    },
+    {
+     "claim": "Axes use currentColor so inline SVG follows site text colour.",
+     "grade": "likely",
+     "url": "https://observablehq.com/plot/"
+    }
+   ],
+   "build_step": "Node script with jsdom via subprocess.",
+   "a11y": "SVG <text>, per-mark aria; table fallback.",
+   "no_js_print": "Static after SSR.",
+   "theming": "currentColor helps; series colours via CSS.",
+   "phone": "Fixed width; viewBox scaling.",
+   "teaching_fit": "Good, but adds Node+jsdom; vl-convert simpler."
+  },
+  {
+   "name": "Chart.js",
+   "licence": "MIT (https://github.com/chartjs/Chart.js/blob/master/LICENSE.md)",
+   "claims": [
+    {
+     "claim": "LICENSE.md is The MIT License.",
+     "grade": "verified",
+     "url": "https://raw.githubusercontent.com/chartjs/Chart.js/master/LICENSE.md"
+    },
+    {
+     "claim": "Canvas only; accessibility via role=img, aria-label and fallback content inside <canvas>; docs do not mention SVG.",
+     "grade": "verified",
+     "url": "https://www.chartjs.org/docs/latest/general/accessibility.html"
+    }
+   ],
+   "build_step": "None static; needs runtime JS.",
+   "a11y": "Canvas opaque; fallback content only.",
+   "no_js_print": "Fails no-JS rule.",
+   "theming": "JS options.",
+   "phone": "Responsive with JS.",
+   "teaching_fit": "Reject."
+  },
+  {
+   "name": "Apache ECharts (SSR SVG)",
+   "licence": "Apache-2.0 (https://github.com/apache/echarts/blob/master/LICENSE), d3 BSD-3-Clause subcomponents",
+   "claims": [
+    {
+     "claim": "LICENSE is Apache 2.0; lists d3 BSD-3-Clause subcomponents.",
+     "grade": "verified",
+     "url": "https://raw.githubusercontent.com/apache/echarts/master/LICENSE"
+    },
+    {
+     "claim": "Server-side: init(null, null, {renderer:'svg', ssr:true, width, height}); setOption; renderToSVGString(); zero-dependency (no jsdom/canvas); animation via embedded CSS, disable with animation:false.",
+     "grade": "verified",
+     "url": "https://echarts.apache.org/handbook/en/how-to/cross-platform/server/"
+    },
+    {
+     "claim": "zrender SVG backend creates <text> nodes.",
+     "grade": "verified (source)",
+     "url": "https://github.com/ecomfe/zrender/blob/master/src/svg/graphic.ts"
+    },
+    {
+     "claim": "aria component: auto description, custom aria.description, decal patterns for non-colour distinction; sets role=img and aria-label on the container DOM.",
+     "grade": "verified",
+     "url": "https://echarts.apache.org/handbook/en/best-practices/aria/"
+    },
+    {
+     "claim": "In SSR string mode there is no container DOM, so aria-label may be missing from the SVG string.",
+     "grade": "unverified",
+     "url": "https://github.com/apache/echarts/blob/master/src/visual/aria.ts"
+    }
+   ],
+   "build_step": "Node script via subprocess.",
+   "a11y": "<text> labels; decals help colour-blind users; pair with table.",
+   "no_js_print": "Static SVG with animation:false.",
+   "theming": "Built-in dark theme; render twice.",
+   "phone": "Fixed size at render.",
+   "teaching_fit": "Capable but heavier than vl-convert."
+  },
+  {
+   "name": "matplotlib (SVG backend)",
+   "licence": "Matplotlib License, PSF-based, BSD-compatible (https://matplotlib.org/stable/project/license.html); SPDX id not stated on page",
+   "claims": [
+    {
+     "claim": "Licence is based on the PSF license; Matplotlib only uses BSD-compatible code.",
+     "grade": "verified",
+     "url": "https://matplotlib.org/stable/project/license.html"
+    },
+    {
+     "claim": "svg.fonttype default 'path' (glyphs as paths); 'none' keeps text as text, assumes fonts installed at view time.",
+     "grade": "verified",
+     "url": "https://matplotlib.org/stable/users/explain/customizing.html"
+    },
+    {
+     "claim": "svg.hashsalt fixed string gives reproducible SVG ids.",
+     "grade": "verified",
+     "url": "https://matplotlib.org/stable/users/explain/customizing.html"
+    }
+   ],
+   "build_step": "In-process: fig.savefig(buf, format='svg'); no browser.",
+   "a11y": "With svg.fonttype='none' text is <text>; post-process title/desc/role; pair with table.",
+   "no_js_print": "Static SVG.",
+   "theming": "Style sheets; render twice or post-process colours.",
+   "phone": "Small figsize, larger fonts.",
+   "teaching_fit": "Good if data lives in Python."
+  }
+ ],
+ "animation_and_interactives": [
+  {
+   "name": "CSS animation + prefers-reduced-motion",
+   "licence": "Platform feature (no licence); own CSS under site CC BY 4.0",
+   "self_hostable": "yes - no library at all",
+   "claims": [
+    {
+     "claim": "prefers-reduced-motion has values no-preference and reduce; Baseline widely available since Jan 2020",
+     "grade": "verified",
+     "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion"
+    },
+    {
+     "claim": "MDN example swaps a scaling animation for a gentler opacity change under reduce",
+     "grade": "verified",
+     "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion"
+    },
+    {
+     "claim": "WCAG 2.2.2 Pause, Stop, Hide is Level A: auto-starting motion lasting over 5 s in parallel with other content needs pause/stop/hide",
+     "grade": "verified",
+     "url": "https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide.html"
+    },
+    {
+     "claim": "2.2.2 is met if the motion stops by itself within 5 s (G11, G152) or a control stops it (G4, G186)",
+     "grade": "verified",
+     "url": "https://www.w3.org/WAI/WCAG21/Understanding/pause-stop-hide.html"
+    },
+    {
+     "claim": "2.3.3 Animation from Interactions is Level AAA (not required for AA); technique C39 = CSS prefers-reduced-motion, SCR40 = JS matchMedia",
+     "grade": "verified",
+     "url": "https://www.w3.org/WAI/WCAG21/Understanding/animation-from-interactions.html"
+    },
+    {
+     "claim": "CSS animations and the reduced-motion media query work with JavaScript disabled",
+     "grade": "likely",
+     "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion"
+    },
+    {
+     "claim": "Print shows a static state; an @media print rule with animation:none gives a deterministic, chosen frame",
+     "grade": "likely",
+     "url": "https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-reduced-motion"
+    }
+   ],
+   "a11y": "Good if the loop ends within 5 s or a visible pause control exists (needs JS, so default to a static or finished state and let JS add play/pause). Always honour reduce. Animated content also needs a text or table equivalent.",
+   "no_js_print": "Runs without JS. Pause control needs JS (or a CSS-only checkbox). Safer: single iteration that ends on the meaningful frame, or start paused. Add @media print {animation:none} so print shows the final frame.",
+   "phone": "Cheap when animating transform/opacity; fine on old phones.",
+   "teaching_fit": "Best fit for both pilots: hypnogram line drawing (stroke-dashoffset) and slow ring rotation (transform: rotate).",
+   "worth_it_when": "Default choice whenever motion is a simple reveal or emphasis; zero dependency weight."
+  },
+  {
+   "name": "SVG SMIL (animate, animateTransform)",
+   "licence": "Platform feature (SVG Animations Level 2)",
+   "self_hostable": "yes - lives inside the SVG",
+   "claims": [
+    {
+     "claim": "<animate> is Baseline widely available since Jan 2020; MDN page has no deprecation notice",
+     "grade": "verified",
+     "url": "https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/animate"
+    },
+    {
+     "claim": "MDN advises a way to pause/disable animation and respecting prefers-reduced-motion",
+     "grade": "verified",
+     "url": "https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/animate"
+    },
+    {
+     "claim": "SMIL does not respect prefers-reduced-motion by itself; must be gated by CSS/JS or kept to a finite repeatCount",
+     "grade": "likely",
+     "url": "https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/animate"
+    },
+    {
+     "claim": "SMIL in an SVG loaded via img still animates but page CSS cannot reach it to stop it",
+     "grade": "likely",
+     "url": "https://developer.mozilla.org/en-US/docs/Web/SVG/Reference/Element/animate"
+    }
+   ],
+   "a11y": "Harder to honour reduced motion than CSS. Prefer CSS keyframes on inline SVG; use SMIL only with finite duration under 5 s.",
+   "no_js_print": "Runs without JS. Printed frame may be mid-animation (likely); use fill=freeze and short dur.",
+   "phone": "Fine.",
+   "teaching_fit": "Possible for hypnogram, but CSS stroke animation is simpler and controllable.",
+   "worth_it_when": "Only for attribute animation CSS cannot do (e.g. path morphing) in a standalone SVG asset."
+  },
+  {
+   "name": "D3",
+   "licence": "ISC (LICENSE: Copyright 2010-2026 Mike Bostock); npm d3 7.9.2",
+   "self_hostable": "yes; best used at build time only (zero runtime JS)",
+   "claims": [
+    {
+     "claim": "LICENSE text is ISC, copyright Mike Bostock",
+     "grade": "verified",
+     "url": "https://github.com/d3/d3/blob/main/LICENSE"
+    },
+    {
+     "claim": "npm latest d3 is 7.9.2 with licence ISC",
+     "grade": "verified",
+     "url": "https://registry.npmjs.org/d3/latest"
+    },
+    {
+     "claim": "D3 is split into submodules (d3-array, d3-scale, d3-shape...) importable separately",
+     "grade": "verified",
+     "url": "https://d3js.org/getting-started"
+    },
+    {
+     "claim": "Most modules (d3-scale, d3-array, d3-format) do not touch the DOM; d3-selection/transition/axis do",
+     "grade": "verified",
+     "url": "https://d3js.org/getting-started"
+    },
+    {
+     "claim": "DOM-free modules can produce SVG path strings in Node at build time; selections would need jsdom",
+     "grade": "likely",
+     "url": "https://d3js.org/getting-started"
+    }
+   ],
+   "a11y": "Output is plain SVG: we control title/desc, roles and the text table.",
+   "no_js_print": "Built-time output is static SVG: prints, works without JS.",
+   "phone": "Static SVG, light.",
+   "teaching_fit": "Good geometry helpers (d3-shape curveStep for hypnogram, arc/pie for rings), but the Python engine can compute the same.",
+   "worth_it_when": "Only if a Node build step is acceptable and there are many charts; for 1-2 diagrams Python-generated SVG is lighter."
+  },
+  {
+   "name": "three.js",
+   "licence": "MIT (LICENSE: Copyright 2010-2026 three.js authors); npm three 0.187.0",
+   "self_hostable": "yes - copy build/three.module.js (+ examples/jsm addons) and map with an importmap; no CDN required",
+   "claims": [
+    {
+     "claim": "LICENSE is MIT",
+     "grade": "verified",
+     "url": "https://github.com/mrdoob/three.js/blob/dev/LICENSE"
+    },
+    {
+     "claim": "npm latest three is 0.187.0, MIT",
+     "grade": "verified",
+     "url": "https://registry.npmjs.org/three/latest"
+    },
+    {
+     "claim": "WebGPURenderer uses WebGPU when available, otherwise a WebGL 2 backend; forceWebGL option exists",
+     "grade": "verified",
+     "url": "https://threejs.org/docs/pages/WebGPURenderer.html"
+    },
+    {
+     "claim": "WebGL 1.0 global support about 97.57%",
+     "grade": "verified",
+     "url": "https://caniuse.com/webgl"
+    },
+    {
+     "claim": "WebGL 2.0 global support about 97.29%; iOS Safari supported from 15, disabled by default 12-14.8",
+     "grade": "verified",
+     "url": "https://caniuse.com/webgl2"
+    },
+    {
+     "claim": "Self-hosting via importmap to local three.module.js (manual page unreadable; general practice)",
+     "grade": "likely",
+     "url": "https://threejs.org/manual/#en/installation"
+    },
+    {
+     "claim": "Canvas output has no accessibility tree; needs aria-label/fallback and text equivalent",
+     "grade": "likely",
+     "url": "https://threejs.org/docs/pages/WebGPURenderer.html"
+    }
+   ],
+   "a11y": "None by default. Needs role=img + label, static SVG/text equivalent, keyboard controls if interactive, reduced-motion gating in JS.",
+   "no_js_print": "Nothing without JS; canvas prints blank or a stale frame. Ship a static image in the HTML and hide canvas in print.",
+   "phone": "About 3% of users lack WebGL; heavy download and GPU/battery cost on old phones; feature-detect and fall back to a static image.",
+   "teaching_fit": "Poor for both pilots (2D). 3D body/organ models also clash with picture rules.",
+   "worth_it_when": "Only for genuinely 3D content (e.g. a rotatable molecule) that SVG cannot convey."
+  },
+  {
+   "name": "p5.js",
+   "licence": "LGPL-2.1 (license.txt in repo); npm p5 2.4.0 licence LGPL-2.1",
+   "self_hostable": "yes - single p5.min.js file",
+   "claims": [
+    {
+     "claim": "Repository licence file is GNU LGPL Version 2.1",
+     "grade": "verified",
+     "url": "https://github.com/processing/p5.js/blob/main/license.txt"
+    },
+    {
+     "claim": "npm latest p5 is 2.4.0, licence LGPL-2.1",
+     "grade": "verified",
+     "url": "https://registry.npmjs.org/p5/latest"
+    },
+    {
+     "claim": "describe() creates a screen-reader description of the canvas (LABEL or FALLBACK, optional lang)",
+     "grade": "verified",
+     "url": "https://p5js.org/reference/p5/describe/"
+    },
+    {
+     "claim": "LGPL consequence: ship p5 as an unmodified separate file with its licence text and source link; it stays LGPL, while our own sketches may be CC BY 4.0",
+     "grade": "likely",
+     "url": "https://github.com/processing/p5.js/blob/main/license.txt"
+    },
+    {
+     "claim": "The site licence page must list p5.js as an LGPL exception to CC BY",
+     "grade": "likely",
+     "url": "https://github.com/processing/p5.js/blob/main/license.txt"
+    }
+   ],
+   "a11y": "Canvas based; describe() only partially helps. Same fallback burden as three.js.",
+   "no_js_print": "Nothing without JS; needs static fallback.",
+   "phone": "Library is large (likely several hundred kB minified); default draw loop drains battery unless noLoop().",
+   "teaching_fit": "Good for student coding of generative sketches; overkill for teacher diagrams.",
+   "worth_it_when": "Only if students write sketches themselves."
+  },
+  {
+   "name": "lottie-web (airbnb)",
+   "licence": "MIT (LICENSE.md: Copyright 2015 Bodymovin); npm lottie-web 5.13.0",
+   "self_hostable": "yes - single JS player file plus local JSON animation",
+   "claims": [
+    {
+     "claim": "LICENSE.md is MIT",
+     "grade": "verified",
+     "url": "https://github.com/airbnb/lottie-web/blob/master/LICENSE.md"
+    },
+    {
+     "claim": "npm latest lottie-web is 5.13.0, MIT",
+     "grade": "verified",
+     "url": "https://registry.npmjs.org/lottie-web/latest"
+    },
+    {
+     "claim": "Renderers svg, canvas, html; rendererSettings title/description add accessible SVG title/desc",
+     "grade": "verified",
+     "url": "https://github.com/airbnb/lottie-web"
+    },
+    {
+     "claim": "README does not mention prefers-reduced-motion; must be handled by own JS (autoplay false, goToAndStop)",
+     "grade": "verified",
+     "url": "https://github.com/airbnb/lottie-web"
+    },
+    {
+     "claim": "Repo shows roughly 790 open issues; release cadence unclear",
+     "grade": "verified",
+     "url": "https://github.com/airbnb/lottie-web"
+    }
+   ],
+   "a11y": "SVG renderer + title/desc; reduced motion and pause are our job.",
+   "no_js_print": "Nothing renders without JS; needs static SVG/PNG fallback.",
+   "phone": "Player JS is heavy for one animation (likely ~250-300 kB minified).",
+   "teaching_fit": "Only useful with After Effects-authored animations, which we do not have.",
+   "worth_it_when": "Rarely: only if a designer delivers rich After Effects animations."
+  },
+  {
+   "name": "dotLottie (@lottiefiles/dotlottie-web)",
+   "licence": "MIT (LICENSE: Copyright 2023 LottieFiles.com); npm 0.83.2",
+   "self_hostable": "yes but NOT by default: the WASM renderer is fetched from a CDN unless setWasmUrl() points to a local copy",
+   "claims": [
+    {
+     "claim": "LICENSE is MIT",
+     "grade": "verified",
+     "url": "https://github.com/LottieFiles/dotlottie-web/blob/main/LICENSE"
+    },
+    {
+     "claim": "npm latest is 0.83.2, MIT (pre-1.0)",
+     "grade": "verified",
+     "url": "https://registry.npmjs.org/@lottiefiles/dotlottie-web/latest"
+    },
+    {
+     "claim": "WASM engine is fetched from a CDN (jsdelivr/unpkg fallback) unless an explicit URL is set",
+     "grade": "verified",
+     "url": "https://github.com/LottieFiles/dotlottie-web/tree/main/packages/web"
+    },
+    {
+     "claim": "setWasmUrl disables the CDN fallback; copy the .wasm from the package on every upgrade",
+     "grade": "verified",
+     "url": "https://github.com/LottieFiles/dotlottie-web/tree/main/packages/web"
+    },
+    {
+     "claim": "Package README does not mention prefers-reduced-motion or accessibility",
+     "grade": "verified",
+     "url": "https://github.com/LottieFiles/dotlottie-web/tree/main/packages/web"
+    }
+   ],
+   "a11y": "Canvas renderer; no built-in a11y. Worse than lottie-web SVG.",
+   "no_js_print": "Nothing without JS/WASM; needs fallback.",
+   "phone": "WASM + canvas; heavier; API churn.",
+   "teaching_fit": "None for these pilots.",
+   "worth_it_when": "Not worth it; default CDN fetch is a trap for the no-external-requests rule."
+  },
+  {
+   "name": "LottieFiles free animations - Lottie Simple License",
+   "licence": "Lottie Simple License (custom, not Creative Commons)",
+   "self_hostable": "files may be downloaded and redistributed, but must carry the same licence",
+   "claims": [
+    {
+     "claim": "Allows download, reproduce, modify, publish, distribute, including commercial purposes",
+     "grade": "verified",
+     "url": "https://lottiefiles.com/page/license"
+    },
+    {
+     "claim": "Redistributed files and modifications must stay under the same terms (copyleft-like)",
+     "grade": "verified",
+     "url": "https://lottiefiles.com/page/license"
+    },
+    {
+     "claim": "Licensee may not impose any additional or different terms",
+     "grade": "verified",
+     "url": "https://lottiefiles.com/page/license"
+    },
+    {
+     "claim": "Attribution not required but strongly encouraged; no right to compile Files from LottieFiles into a collection/service",
+     "grade": "verified",
+     "url": "https://lottiefiles.com/page/license"
+    },
+    {
+     "claim": "Not compatible with relicensing as CC BY 4.0 (CC BY would be a different licence with added conditions); only usable as a separately-labelled LSL asset",
+     "grade": "likely",
+     "url": "https://lottiefiles.com/page/license"
+    }
+   ],
+   "a11y": "n/a (asset licence)",
+   "no_js_print": "n/a",
+   "phone": "n/a",
+   "teaching_fit": "Stock animations would also need vetting against the picture rules.",
+   "worth_it_when": "Avoid: breaks 'all content CC BY 4.0' unless listed as an exception."
+  },
+  {
+   "name": "PhET Interactive Simulations",
+   "licence": "Current sims CC BY-NC 4.0 (changed from CC BY 4.0; sims released before 2026-03-29 were CC BY 4.0). Common libraries MIT (e.g. scenery). Per-sim public repos archived; monorepo not public. PhET-iO separately licensed.",
+   "self_hostable": "Technically yes (single-file *_fi.html builds) BUT by default each sim pings phet.colorado.edu (yotta), runs an update check and injects Google Tag Manager; violates the no-external-requests rule unless opened with ?yotta=false or the file is patched",
+   "claims": [
+    {
+     "claim": "Licensing page: Regular HTML Simulation Files published under CC BY-NC 4.0",
+     "grade": "verified",
+     "url": "https://phet.colorado.edu/en/licensing"
+    },
+    {
+     "claim": "Students/educators may use sims free for any non-commercial purpose with attribution, no further permission",
+     "grade": "verified",
+     "url": "https://phet.colorado.edu/en/licensing"
+    },
+    {
+     "claim": "Commercial-use examples include 'Government or institutional distribution programs' (ask PhET if unsure)",
+     "grade": "verified",
+     "url": "https://phet.colorado.edu/en/licensing"
+    },
+    {
+     "claim": "Required attribution: Simulation by PhET Interactive Simulations, University of Colorado Boulder, licensed under CC BY-NC 4.0 + URL; translation allowed; logo must stay visible in the sim",
+     "grade": "verified",
+     "url": "https://phet.colorado.edu/en/licensing"
+    },
+    {
+     "claim": "Historical sims released before 2026-03-29 were published under CC BY 4.0; page labelled outdated",
+     "grade": "verified",
+     "url": "https://phet.colorado.edu/en/licensing/html"
+    },
+    {
+     "claim": "PhET post dated 30 Mar 2026 announces relicensing CC BY to CC BY-NC",
+     "grade": "verified",
+     "url": "https://phetsims.substack.com/p/a-small-change-to-support-a-big-mission"
+    },
+    {
+     "claim": "Current Finnish Neuron build (title Hermosolu 1.1.38) states CC BY-NC 4.0 and contains googletagmanager gtm.js, yotta immediate/sanity pings and html-sim-update",
+     "grade": "verified",
+     "url": "https://phet.colorado.edu/sims/html/neuron/latest/neuron_fi.html"
+    },
+    {
+     "claim": "Analytics code returns early if yotta is false; otherwise pings phet.colorado.edu/yotta with page href and referrer and loads GTM",
+     "grade": "verified",
+     "url": "https://github.com/phetsims/phetcommon/blob/main/js/analytics/google-analytics.js"
+    },
+    {
+     "claim": "yotta query parameter defaults to true and is public",
+     "grade": "verified",
+     "url": "https://github.com/phetsims/chipper/blob/main/js/browser/initialize-globals.js"
+    },
+    {
+     "claim": "Update check runs only when brand is phet, not an app, and yotta is true",
+     "grade": "verified",
+     "url": "https://github.com/phetsims/joist/blob/main/js/updateCheck.ts"
+    },
+    {
+     "claim": "Per-sim GitHub repos (e.g. neuron) now marked no longer maintained; monorepo not publicly available",
+     "grade": "verified",
+     "url": "https://github.com/phetsims/neuron"
+    },
+    {
+     "claim": "Common library scenery is MIT",
+     "grade": "verified",
+     "url": "https://github.com/phetsims/scenery/blob/main/LICENSE"
+    },
+    {
+     "claim": "Sim-specific code historically GPL-3.0, common code MIT (search snippet of older licensing text)",
+     "grade": "likely",
+     "url": "https://phet.colorado.edu/en/licensing/html"
+    },
+    {
+     "claim": "Finnish builds exist (HTTP 200): neuron, molecule-shapes, balancing-act, build-a-molecule, ph-scale, concentration, energy-forms-and-changes, color-vision",
+     "grade": "verified",
+     "url": "https://phet.colorado.edu/sims/html/neuron/latest/neuron_fi.html"
+    },
+    {
+     "claim": "No Finnish build (HTTP 404): natural-selection, gene-expression-essentials, membrane-transport",
+     "grade": "verified",
+     "url": "https://phet.colorado.edu/sims/html/natural-selection/latest/natural-selection_fi.html"
+    },
+    {
+     "claim": "Self-hosted copy linked only with ?yotta=false makes no outside requests; a visit without the parameter would still ping, so patching the default is safer (CC BY-NC permits adaptation)",
+     "grade": "likely",
+     "url": "https://github.com/phetsims/chipper/blob/main/js/browser/initialize-globals.js"
+    }
+   ],
+   "a11y": "Many PhET sims have keyboard navigation, some have interactive description; varies per sim (not checked).",
+   "no_js_print": "Needs JS + canvas/WebGL; provide static description and screenshot (screenshot also CC BY-NC with attribution).",
+   "phone": "HTML5 sims run on tablets/phones; files several MB each (likely).",
+   "teaching_fit": "Thin for health education: Neuron (Hermosolu) fits nervous system/stress; others are chemistry/physics. Natural Selection and Gene Expression lack Finnish.",
+   "worth_it_when": "Only if a CC BY-NC exception is accepted on the licence page and yotta=false is enforced/patched. Otherwise a plain outbound link to phet.colorado.edu (a link is not a runtime request)."
+  },
+  {
+   "name": "GeoGebra",
+   "licence": "Software and Materials: GeoGebra non-commercial licence; source code EUPL v1.2; language files/docs/UI CC BY-NC-SA 4.0; website user content CC BY-NC-SA 4.0 or later",
+   "self_hostable": "Apps: yes via downloadable GeoGebra Math Apps Bundle + setHTML5Codebase (non-commercial). Default deployggb.js loads from geogebra.org.",
+   "claims": [
+    {
+     "claim": "Installers and web services licensed for non-commercial purposes, with attribution",
+     "grade": "verified",
+     "url": "https://www.geogebra.org/license"
+    },
+    {
+     "claim": "Source code licensed under EUPL v1.2 (not GPL)",
+     "grade": "verified",
+     "url": "https://www.geogebra.org/license"
+    },
+    {
+     "claim": "Language files, documentation, UI images CC BY-NC-SA 4.0; attribution 'Made with GeoGebra' + link",
+     "grade": "verified",
+     "url": "https://www.geogebra.org/license"
+    },
+    {
+     "claim": "Website content CC BY-NC-SA 4.0 or later; commercial use needs separate licence",
+     "grade": "verified",
+     "url": "https://www.geogebra.org/tos"
+    },
+    {
+     "claim": "Self-hosting: download Math Apps Bundle, local deployggb.js, setHTML5Codebase before inject()",
+     "grade": "verified",
+     "url": "https://geogebra.github.io/docs/reference/en/GeoGebra_Apps_Embedding/"
+    },
+    {
+     "claim": "geogebra.org uses Google Analytics, Google Tag Manager, reCAPTCHA v3 and a consent manager",
+     "grade": "verified",
+     "url": "https://www.geogebra.org/privacy"
+    },
+    {
+     "claim": "A self-hosted bundle with a local .ggb file makes no outside requests",
+     "grade": "unverified",
+     "url": "https://geogebra.github.io/docs/reference/en/GeoGebra_Apps_Embedding/"
+    }
+   ],
+   "a11y": "Not checked; canvas-based applets (unverified).",
+   "no_js_print": "Needs JS; needs static fallback image.",
+   "phone": "Bundle is large (likely tens of MB unpacked).",
+   "teaching_fit": "Maths-oriented; low fit for health education/study guidance.",
+   "worth_it_when": "Not for these sites: NC/NC-SA conflicts with CC BY; embeds break the privacy rule."
+  },
+  {
+   "name": "H5P via h5p-standalone",
+   "licence": "H5P core (h5p-php-library) GPL-3.0 - not MIT; h5p-standalone player MIT (npm 3.8.2); common content types MIT; content itself under our licence",
+   "self_hostable": "yes - static dist files (main.bundle.js, frame.bundle.js, h5p.css) + extracted .h5p folder; no H5P server",
+   "claims": [
+    {
+     "claim": "h5p-php-library licence is GPL-3.0 (LICENSE.txt + composer licence field)",
+     "grade": "verified",
+     "url": "https://github.com/h5p/h5p-php-library/blob/master/LICENSE.txt"
+    },
+    {
+     "claim": "h5p-standalone is MIT; npm latest 3.8.2",
+     "grade": "verified",
+     "url": "https://registry.npmjs.org/h5p-standalone/latest"
+    },
+    {
+     "claim": "Displays H5P content without an H5P server; serve dist + extracted .h5p",
+     "grade": "verified",
+     "url": "https://github.com/tunapanda/h5p-standalone"
+    },
+    {
+     "claim": "README examples load the player from jsDelivr and MathJax externally; must self-host instead",
+     "grade": "verified",
+     "url": "https://github.com/tunapanda/h5p-standalone"
+    },
+    {
+     "claim": "Automatic state saving needs a backend endpoint (absent on GitHub Pages)",
+     "grade": "verified",
+     "url": "https://github.com/tunapanda/h5p-standalone"
+    },
+    {
+     "claim": "Content types multi-choice, drag-text, course-presentation, interactive-video, image-hotspots, dialogcards, question-set, accordion are MIT",
+     "grade": "verified",
+     "url": "https://github.com/h5p/h5p-multi-choice"
+    },
+    {
+     "claim": "Standalone bundles H5P core JS derived from the GPL-3.0 core; note this on the licence page",
+     "grade": "likely",
+     "url": "https://github.com/h5p/h5p-php-library"
+    },
+    {
+     "claim": "H5P.com ACR (April 2026) evaluates WCAG 2.2 A/AA; per-type recommendations based on WCAG 2.1 AA reviews",
+     "grade": "likely",
+     "url": "https://help.h5p.com/hc/en-us/articles/7505649072797"
+    },
+    {
+     "claim": "H5P content does not render without JS",
+     "grade": "likely",
+     "url": "https://github.com/tunapanda/h5p-standalone"
+    }
+   ],
+   "a11y": "Varies by content type; use only types H5P lists as accessible (list page unreadable).",
+   "no_js_print": "No content without JS; ship the same questions as plain HTML (details/summary) for no-JS and print.",
+   "phone": "Responsive; player plus libraries a few hundred kB (likely).",
+   "teaching_fit": "Good for self-check quizzes, dialog cards, drag-the-words in both sites.",
+   "worth_it_when": "When many exercises are authored in the H5P editor; for a few quizzes, native HTML + small JS is lighter."
+  },
+  {
+   "name": "Desmos",
+   "licence": "Proprietary; API Terms of Service v1.0 (updated 11 Jul 2025)",
+   "self_hostable": "Only for paying partners; API script loads from desmos.com with an API key",
+   "claims": [
+    {
+     "claim": "API key required in calculator.js URL loaded from desmos.com",
+     "grade": "verified",
+     "url": "https://www.desmos.com/api/v1.11/docs/index.html"
+    },
+    {
+     "claim": "Partners can host the API on their own servers for offline use",
+     "grade": "verified",
+     "url": "https://www.desmos.com/api/v1.11/docs/index.html"
+    },
+    {
+     "claim": "Free Trial Tier only for personal non-commercial use or 90-day internal testing; any app used by End Users in production counts as commercial (paid tier)",
+     "grade": "verified",
+     "url": "https://www.desmos.com/api-terms"
+    },
+    {
+     "claim": "Must not alter Desmos branding or reverse engineer; must adopt updates within 60 days",
+     "grade": "verified",
+     "url": "https://www.desmos.com/api-terms"
+    },
+    {
+     "claim": "General Terms of Service content",
+     "grade": "unverified",
+     "url": "https://www.desmos.com/terms"
+    }
+   ],
+   "a11y": "Reputed strong screen-reader support (unverified).",
+   "no_js_print": "Needs JS and network.",
+   "phone": "Good.",
+   "teaching_fit": "Maths; low fit.",
+   "worth_it_when": "Never embed here (key, fees, external calls). A plain outbound link to desmos.com is fine."
+  }
+ ],
+ "images_icons_and_data": [
+  {
+   "name": "Wikimedia Commons",
+   "kind": "images",
+   "licence": "Varies per file (CC0, PD, CC BY, CC BY-SA, GFDL, etc.); stated on each file description page",
+   "attribution": "Required for CC BY / BY-SA / GFDL; credit the original creator (not the uploader), link licence; recommended even for PD",
+   "cc_by_compatible": "CC0/PD/CC BY: yes. CC BY-SA: yes if used unchanged and marked BY-SA (modifications must be BY-SA). GFDL-only: awkward (requires licence text copy) - avoid. NC/ND are not accepted on Commons generally.",
+   "claims": [
+    {
+     "claim": "Each file description page lists copyright status, owner and licence conditions",
+     "grade": "verified",
+     "url": "https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia"
+    },
+    {
+     "claim": "WMF gives no warranty about licence accuracy; reuser should verify",
+     "grade": "verified",
+     "url": "https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia"
+    },
+    {
+     "claim": "Credit the original creator, typically listed as author in file summary",
+     "grade": "verified",
+     "url": "https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia"
+    },
+    {
+     "claim": "Non-copyright restrictions such as personality rights for identifiable people may apply",
+     "grade": "verified",
+     "url": "https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia"
+    },
+    {
+     "claim": "API: action=query&prop=imageinfo&iiprop=extmetadata returns LicenseShortName, LicenseUrl, Artist (may contain HTML), Credit, AttributionRequired; licence values unreliable for multi-licensed files",
+     "grade": "verified",
+     "url": "https://www.mediawiki.org/wiki/Extension:CommonsMetadata"
+    }
+   ],
+   "self_host": "Yes: download original SVG/PNG into repo; record TASL per file (from extmetadata) in a credits file/page; strip Artist HTML.",
+   "teaching_fit": "Good for diagrams (anatomy schematics, maps, charts). Health-rule risk HIGH for photos: many medical/injury/hospital/alcohol/body images; curate manually; prefer schematic SVGs; beware identifiable people (personality rights)."
+  },
+  {
+   "name": "Openverse",
+   "kind": "images",
+   "licence": "Search engine only; each result keeps its source's licence (CC licences and PD marks)",
+   "attribution": "Per result licence; Openverse provides attribution text but does not verify it",
+   "cc_by_compatible": "Depends on each item; filter to CC0/PDM/CC BY (and BY-SA with care); exclude NC/ND.",
+   "claims": [
+    {
+     "claim": "Openverse is a search engine for openly licensed media",
+     "grade": "verified",
+     "url": "https://docs.openverse.org/"
+    },
+    {
+     "claim": "Openverse does not verify licensing status; user must independently verify right to use",
+     "grade": "verified",
+     "url": "https://docs.openverse.org/terms_of_service.html"
+    },
+    {
+     "claim": "Search UI/API has licence filters (license, license_type commercial/modification)",
+     "grade": "likely",
+     "url": "https://api.openverse.org/v1/"
+    },
+    {
+     "claim": "Public API documented at api.openverse.org; throttling page exists in API reference",
+     "grade": "verified",
+     "url": "https://docs.openverse.org/api/reference/index.html"
+    }
+   ],
+   "self_host": "Yes, download from the original source (follow result link to e.g. Flickr/Commons) and verify licence there, not on Openverse.",
+   "teaching_fit": "Useful discovery tool; verification burden high; same health-rule risks as photo libraries."
+  },
+  {
+   "name": "unDraw",
+   "kind": "images",
+   "licence": "Custom unDraw licence (not CC, not open-source)",
+   "attribution": "Not required",
+   "cc_by_compatible": "Can be included on a CC BY site if marked as unDraw licence and excluded from the CC BY grant. Caveat: licence forbids redistributing assets in packs/bundles and scraping; a public GitHub repo containing many unDraw SVGs is arguably redistribution - keep to a few illustrations used in context, never an assets folder presented as a library. Licence also bars AI/ML training, which downstream CC BY reusers might not expect.",
+   "claims": [
+    {
+     "claim": "Free for commercial and noncommercial use, modified or unmodified; attribution not required",
+     "grade": "verified",
+     "url": "https://undraw.co/license"
+    },
+    {
+     "claim": "Prohibits compiling assets to replicate a similar or competing service",
+     "grade": "verified",
+     "url": "https://undraw.co/license"
+    },
+    {
+     "claim": "Prohibits distributing assets in packs or bundles",
+     "grade": "verified",
+     "url": "https://undraw.co/license"
+    },
+    {
+     "claim": "Prohibits automated or non-automated scraping/linking/embedding/downloading without consent",
+     "grade": "verified",
+     "url": "https://undraw.co/license"
+    },
+    {
+     "claim": "Prohibits use for AI/ML training without written permission",
+     "grade": "verified",
+     "url": "https://undraw.co/license"
+    }
+   ],
+   "self_host": "Technically yes (SVG, colour customisable) but within the bundle/redistribution limits above.",
+   "teaching_fit": "Generic flat office/lifestyle scenes; low health-rule risk but some scenes show food/medical; not CC, so weakest choice for an open CC BY resource."
+  },
+  {
+   "name": "Open Peeps",
+   "kind": "images",
+   "licence": "CC0 1.0",
+   "attribution": "Not required (courtesy credit recommended)",
+   "cc_by_compatible": "Yes",
+   "claims": [
+    {
+     "claim": "Free for commercial and personal use under CC0 License",
+     "grade": "verified",
+     "url": "https://www.openpeeps.com/"
+    }
+   ],
+   "self_host": "Yes (SVG/PNG download or Figma/Sketch kit).",
+   "teaching_fit": "Hand-drawn diverse people, good for wellbeing/study-guidance themes; low risk; avoid poses implying body comparison."
+  },
+  {
+   "name": "Humaaans",
+   "kind": "images",
+   "licence": "CC0 1.0",
+   "attribution": "Not required",
+   "cc_by_compatible": "Yes",
+   "claims": [
+    {
+     "claim": "Free for commercial or personal use. CC0 Public Domain License.",
+     "grade": "verified",
+     "url": "https://www.humaaans.com/"
+    }
+   ],
+   "self_host": "Yes (SVG components).",
+   "teaching_fit": "Mix-and-match people; good for scenarios (sleep, exercise, studying); low risk; check composites do not suggest body-size comparison."
+  },
+  {
+   "name": "Lucide icons",
+   "kind": "icons",
+   "licence": "ISC (Lucide Icons and Contributors); Feather-derived icons MIT (Cole Bemis)",
+   "attribution": "Keep ISC copyright + permission notice; for Feather-derived icons also keep MIT notice",
+   "cc_by_compatible": "Yes (permissive); include LICENSE text in repo and mark icons as ISC/MIT in credits",
+   "claims": [
+    {
+     "claim": "ISC licence; notices must appear in all copies",
+     "grade": "verified",
+     "url": "https://lucide.dev/license"
+    },
+    {
+     "claim": "Listed Feather-derived icons are MIT, copyright Cole Bemis",
+     "grade": "verified",
+     "url": "https://lucide.dev/license"
+    }
+   ],
+   "self_host": "Yes: copy individual SVGs into repo plus LICENSE file.",
+   "teaching_fit": "Excellent UI icons; includes some health/medical glyphs (pill, syringe, wine, cigarette) - avoid those per health rules."
+  },
+  {
+   "name": "Tabler icons",
+   "kind": "icons",
+   "licence": "MIT, copyright Pawel Kuna 2020-2026",
+   "attribution": "Include copyright and permission notice in copies",
+   "cc_by_compatible": "Yes (permissive); keep LICENSE in repo",
+   "claims": [
+    {
+     "claim": "MIT licence, copyright Pawel Kuna; notice must be included in all copies",
+     "grade": "verified",
+     "url": "https://github.com/tabler/tabler-icons/blob/main/LICENSE"
+    }
+   ],
+   "self_host": "Yes (SVG).",
+   "teaching_fit": "Large set; same caution about alcohol/tobacco/medical icons."
+  },
+  {
+   "name": "Noto Emoji",
+   "kind": "icons",
+   "licence": "Images (SVG/PNG) and tools Apache-2.0; fonts SIL OFL 1.1; flag images public domain/exempt",
+   "attribution": "Apache-2.0: include licence and NOTICE; mark changes",
+   "cc_by_compatible": "Yes (permissive, marked as Apache-2.0)",
+   "claims": [
+    {
+     "claim": "Fonts under SIL Open Font License 1.1; tools and most image resources Apache 2.0",
+     "grade": "verified",
+     "url": "https://github.com/googlefonts/noto-emoji/blob/main/README.md"
+    },
+    {
+     "claim": "Flag images in third_party/region-flags are public domain or exempt",
+     "grade": "verified",
+     "url": "https://github.com/googlefonts/noto-emoji/blob/main/README.md"
+    }
+   ],
+   "self_host": "Yes (individual SVGs).",
+   "teaching_fit": "Friendly emoji for mood/sleep/exercise; avoid beer/wine/cigarette/syringe/pill/injury emoji. Always give alt text (WCAG)."
+  },
+  {
+   "name": "Twemoji (jdecked fork)",
+   "kind": "icons",
+   "licence": "Graphics CC BY 4.0; code MIT",
+   "attribution": "Required; project accepts credit in README, About or site footer",
+   "cc_by_compatible": "Yes - same licence family",
+   "claims": [
+    {
+     "claim": "Graphics licensed under CC-BY 4.0; code under MIT",
+     "grade": "verified",
+     "url": "https://github.com/jdecked/twemoji/blob/main/README.md"
+    },
+    {
+     "claim": "Credit via README, About section or website footer is accepted",
+     "grade": "verified",
+     "url": "https://github.com/jdecked/twemoji/blob/main/README.md"
+    },
+    {
+     "claim": "Copyright holder: original Twitter, Inc. and contributors (not named in fork README)",
+     "grade": "likely",
+     "url": "https://github.com/jdecked/twemoji/blob/main/LICENSE-GRAPHICS"
+    }
+   ],
+   "self_host": "Yes (SVG).",
+   "teaching_fit": "As Noto; simplest licence match for a CC BY site."
+  },
+  {
+   "name": "THL Sotkanet",
+   "kind": "data",
+   "licence": "CC BY 4.0 (site footer); THL open data CC BY 4.0",
+   "attribution": "Credit Sotkanet/THL as source with link; also credit the producer of individual indicators (some are produced by others under separate terms). Suggested: 'Lähde: THL, Sotkanet.fi (indikaattori N), CC BY 4.0'",
+   "cc_by_compatible": "Yes",
+   "claims": [
+    {
+     "claim": "Footer: Sotkanet.fi, Tilasto- ja indikaattoripankki, THL 2005-2026, CC BY 4.0",
+     "grade": "verified",
+     "url": "https://sotkanet.fi/"
+    },
+    {
+     "claim": "THL open data licence is CC-BY-4.0; full licence and disclaimer on a linked wiki page",
+     "grade": "verified",
+     "url": "https://thl.fi/avoindata"
+    },
+    {
+     "claim": "THL open interfaces include Sotkanet, cube API and Fineli",
+     "grade": "verified",
+     "url": "https://thl.fi/avoindata"
+    },
+    {
+     "claim": "REST API base sotkanet.fi/rest/1.1 with /indicators, /indicators/{id}, /regions and json/csv data queries",
+     "grade": "likely",
+     "url": "https://cran.rstudio.com/web/packages/sotkanet/refman/sotkanet.html"
+    },
+    {
+     "claim": "Individual indicator producers should be attributed separately; other parties' indicators under separate agreements",
+     "grade": "likely",
+     "url": "https://cran.rstudio.com/web/packages/sotkanet/refman/sotkanet.html"
+    },
+    {
+     "claim": "Official Finnish terms-of-use page for Sotkanet/REST could not be read",
+     "grade": "unverified",
+     "url": "https://sotkanet.fi/sotkanet/fi/ohje/kayttoehdot"
+    }
+   ],
+   "self_host": "Fetch at build time (or manually), save JSON/CSV snapshot in repo, render chart locally; no runtime calls.",
+   "teaching_fit": "Good: national/regional time series for upper-secondary students from Kouluterveyskysely indicators (sleep, physical activity, loneliness, daily smoking - the last conflicts with no-tobacco picture rule only if illustrated; a plain chart is fine). Chart aggregate percentages only."
+  },
+  {
+   "name": "Kouluterveyskysely (THL School Health Promotion study)",
+   "kind": "data",
+   "licence": "Aggregate indicators published in Sotkanet/THL cubes under THL open data CC BY 4.0; microdata restricted (FSD, depositor permission)",
+   "attribution": "'Lähde: THL, Kouluterveyskysely [vuosi]' plus Sotkanet link and CC BY 4.0",
+   "cc_by_compatible": "Yes for published aggregates",
+   "claims": [
+    {
+     "claim": "Results service on thl.fi; regional/municipal indicators in Sotkanet and statistical cubes; national interactive (Tableau) view",
+     "grade": "likely",
+     "url": "https://www.oph.fi/fi/uutiset/2025/kouluterveyskysely-2025-kouluissa-ja-oppilaitoksissa-rakennettava-yhteisollisyys-tukee"
+    },
+    {
+     "claim": "2025 round covered lukio 1st and 2nd year students; biennial survey",
+     "grade": "likely",
+     "url": "https://www.sttinfo.fi/tiedote/71453701/kouluterveyskysely-2025-lapset-ja-nuoret-tarvitsevat-aikuisten-tukea-terveellisiin-elintapoihin-yha-useampi-voi-puhua-asioistaan-vanhempiensa-kanssa?lang=fi"
+    },
+    {
+     "claim": "Microdata in FSD archive is access-restricted (depositor permission)",
+     "grade": "likely",
+     "url": "https://b2find.eudat.eu/dataset/70709e71-5db3-590d-9d3c-bbe9e0cebcfa"
+    },
+    {
+     "claim": "THL open data contains no personal data; identifiers removed",
+     "grade": "verified",
+     "url": "https://thl.fi/avoindata"
+    },
+    {
+     "claim": "Small-cell suppression threshold (e.g. results hidden under a minimum respondent count)",
+     "grade": "unverified",
+     "url": "https://thl.fi/fi/tutkimus-ja-kehittaminen/tutkimukset-ja-hankkeet/kouluterveyskysely/kouluterveyskyselyn-tulokset"
+    }
+   ],
+   "self_host": "Snapshot national-level lukio indicators from Sotkanet into repo.",
+   "teaching_fit": "Highly relevant to TE1; use national figures (no school-level data, no small groups); do not reproduce THL report figures/infographics as images - redraw from numbers."
+  },
+  {
+   "name": "Tilastokeskus StatFin PxWeb API",
+   "kind": "data",
+   "licence": "CC BY 4.0 for open data, texts, tables and statistical charts; NOT photos/illustrations or other organisations' data",
+   "attribution": "Minimum 'Lähde: Tilastokeskus'; better e.g. 'Lähde: Tilastokeskus, [tilasto]' with table link; SVT format available",
+   "cc_by_compatible": "Yes",
+   "claims": [
+    {
+     "claim": "Open data and public web content under CC BY 4.0, including tables and statistical charts",
+     "grade": "verified",
+     "url": "https://www.stat.fi/org/lainsaadanto/copyright.html"
+    },
+    {
+     "claim": "Minimum attribution: cite Tilastokeskus as source",
+     "grade": "verified",
+     "url": "https://www.stat.fi/org/lainsaadanto/copyright.html"
+    },
+    {
+     "claim": "Photos/illustrations and other organisations' data excluded from licence",
+     "grade": "verified",
+     "url": "https://www.stat.fi/org/lainsaadanto/copyright.html"
+    },
+    {
+     "claim": "Rate limit documented as 30 queries per 10 s (HTTP 429); config endpoint shows maxCalls 40 / timeWindow 60 - check live ?config",
+     "grade": "verified",
+     "url": "https://pxdata.stat.fi/api1.html"
+    },
+    {
+     "claim": "Max cells per query ~100,000 (config shows maxValues 120000), 403 if exceeded",
+     "grade": "verified",
+     "url": "https://pxdata.stat.fi/api1.html"
+    },
+    {
+     "claim": "Matriculation exam completer tables (e.g. 'Opiskelijat ja tutkinnot') are in StatFin",
+     "grade": "likely",
+     "url": "https://stat.fi/fi/julkaisu/cmg4oug0agcjz07w7xkgzu8np"
+    }
+   ],
+   "self_host": "POST query once, store JSON-stat/CSV in repo.",
+   "teaching_fit": "Good for study guidance (students, degrees, matriculation counts) and health context (causes of death - check health rules on framing)."
+  },
+  {
+   "name": "Vipunen (education administration statistics)",
+   "kind": "data",
+   "licence": "CC BY 4.0 for API data (per rOpenGov docs)",
+   "attribution": "'Lähde: Vipunen - opetushallinnon tilastopalvelu (OKM/OPH), CC BY 4.0' (suggested)",
+   "cc_by_compatible": "Yes (likely)",
+   "claims": [
+    {
+     "claim": "All data available through the Vipunen API is CC BY 4.0",
+     "grade": "likely",
+     "url": "https://ropengov.github.io/vipunen"
+    },
+    {
+     "claim": "REST/JSON API documented at vipunen.fi Vipunen-API page (Finnish)",
+     "grade": "likely",
+     "url": "https://ropengov.github.io/vipunen"
+    },
+    {
+     "claim": "Run by OKM and OPH; listed among OPH open interfaces",
+     "grade": "likely",
+     "url": "https://www.oph.fi/fi/tietoaineistot-ja-analyysit/kansalliset-rekisterit-ja-tietovarannot"
+    },
+    {
+     "claim": "vipunen.fi pages returned 403 to automated fetch; licence not read on primary page",
+     "grade": "unverified",
+     "url": "https://vipunen.fi/fi-fi/Sivut/Vipunen-API.aspx"
+    }
+   ],
+   "self_host": "Download JSON/Excel once and commit snapshot.",
+   "teaching_fit": "Good for study guidance: applicants, placement after lukio, further study rates."
+  },
+  {
+   "name": "avoindata.fi / JHS 189 general",
+   "kind": "data",
+   "licence": "Finnish public-sector open data recommended under CC BY 4.0 (JHS 189)",
+   "attribution": "Per dataset",
+   "cc_by_compatible": "Yes when dataset says CC BY 4.0",
+   "claims": [
+    {
+     "claim": "CC BY 4.0 is the licence for public authorities' open data per JHS 189",
+     "grade": "likely",
+     "url": "https://traficom.fi/en/transport-system/geoinformationsmaterial/use-and-licences-data"
+    },
+    {
+     "claim": "THL datasets listed on avoindata.fi under CC BY 4.0",
+     "grade": "likely",
+     "url": "https://avoindata.suomi.fi/data/en_GB/dataset/thl-n-avoin-data"
+    }
+   ],
+   "self_host": "n/a",
+   "teaching_fit": "Catalogue for finding datasets; always check each dataset's own licence."
+  },
+  {
+   "name": "YTL (Ylioppilastutkintolautakunta) statistics",
+   "kind": "data",
+   "licence": "Unverified: YTL's own statistics pages and their reuse terms could not be read",
+   "attribution": "Unknown; prefer Statistics Finland tables for matriculation counts (CC BY 4.0)",
+   "cc_by_compatible": "Unknown for YTL pages; yes via Tilastokeskus",
+   "claims": [
+    {
+     "claim": "YTL publishes exam statistics (grade distributions, participants) on its site",
+     "grade": "unverified",
+     "url": "https://www.ylioppilastutkinto.fi/fi/tietoa-ylioppilastutkinnosta/tilastot"
+    },
+    {
+     "claim": "Matriculation completer counts are available as CC BY 4.0 StatFin tables",
+     "grade": "likely",
+     "url": "https://stat.fi/fi/dokumentaatio/tilastojen-dokumentaatio/lop"
+    }
+   ],
+   "self_host": "Use StatFin snapshot.",
+   "teaching_fit": "Study guidance: exam participation trends; ask YTL before reusing its own tables."
+  }
+ ],
+ "could_not_read": {
+  "diagrams_and_charts": [
+   "https://www.npmjs.com/package/@mermaid-js/mermaid-cli (HTTP 403)",
+   "https://observablehq.com/plot/features/plots (HTTP 429; read GitHub docs markdown instead)",
+   "https://vega.github.io/vega-lite/docs/description.html (HTTP 404)",
+   "https://d2lang.com/tour/man/ (no flag content; used source instead)"
+  ],
+  "animation_and_interactives": [
+   "https://threejs.org/manual/en/installation.html (404); https://threejs.org/manual/#en/installation (JS stub)",
+   "https://threejs.org/manual/en/webgpurenderer (404)",
+   "https://h5p.org/documentation/installation/accessibility (404)",
+   "https://help.h5p.com/hc/en-us/articles/7505649072797 (403)",
+   "https://www.desmos.com/terms (JS-rendered)",
+   "https://www.desmos.com/my-api (JS-rendered)",
+   "raw initialize-globals.ts in phetsims/chipper (404; .js read via GitHub API instead)"
+  ],
+  "images_icons_and_data": [
+   "https://sotkanet.fi/sotkanet/fi/ohje/kayttoehdot (HTTP 500)",
+   "https://sotkanet.fi/rest (404)",
+   "https://thl.fi/tilastot-ja-data/aineistot-ja-palvelut/avoin-data (404)",
+   "https://thl.fi/fi/tutkimus-ja-kehittaminen/tutkimukset-ja-hankkeet/kouluterveyskysely/kouluterveyskyselyn-tulokset (404)",
+   "https://vipunen.fi/fi-fi (403)",
+   "https://vipunen.fi/fi-fi/Sivut/Vipunen-API.aspx (403)",
+   "https://vipunen.fi/fi-fi/Sivut/Tietoa-Vipusesta.aspx (404)",
+   "https://www.oph.fi/fi/tilastot/vipunen-opetushallinnon-tilastopalvelu (404)",
+   "https://www.ylioppilastutkinto.fi/fi/tietoa-ylioppilastutkinnosta/tilastot (404)",
+   "https://openverse.org/about (403)",
+   "https://avoindata.suomi.fi/data/en_GB/dataset/thl-n-avoin-data (403)",
+   "https://www.avoindata.fi/fi/lisensseista (403)",
+   "https://api.openverse.org/v1/ (JS-rendered, no content)",
+   "THL wiki page 'THL:n avoimen datan lisenssi ja vastuuvapauslauseke' (not attempted; linked from thl.fi/avoindata)"
+  ]
+ }
+}
