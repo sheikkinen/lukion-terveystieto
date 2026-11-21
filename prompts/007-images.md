@@ -61,3 +61,25 @@ existing budget is the €10 granted for images on the opinto-ohjaus site (D-007
 The operator sees a calm illustration at the top of every TE1 topic, the front page and the TE1 page. Clear Finnish
 diagrams appear where they help, each label spelled right and matching the text. No picture breaks the health rules.
 Internally: the checks pass, the spend is recorded, and the judge accepts.
+
+## Addendum 2026-11-21: diagrams in Mermaid
+
+Written before the work. The operator [O]: "note: mermaid provides good flowcharts etc". Recorded as D-006.
+
+- **Diagrams that are flowcharts, cycles, levels or mind maps are written in Mermaid,** not drawn by an image model.
+  That covers the stages-of-change cycle, the stress chain, the self-study loop, the levels of health's
+  determinants, the Ottawa action areas and the protective factors. The source is kept in `content/diagrams/<id>.mmd`
+  with Finnish labels.
+- **They are rendered to SVG before the build** with Mermaid's command-line tool (`@mermaid-js/mermaid-cli`, an
+  exact pinned version, run through the local Chrome), and saved as `site-src/img/<id>.svg`. The engine places SVGs as
+  it places other pictures. No Mermaid script is loaded in the browser, so the site still makes no external requests.
+  The SVG's text stays real text, and each diagram still has a full Finnish alt text.
+- **The schematic hypnogram** may use Mermaid's chart support if it reads clearly. Otherwise it is the one diagram left
+  for nano-banana, or a hand-written SVG.
+- **Checks:** the image checker compares each SVG's text with the expected labels, which is now an exact string
+  check. It looks at the rendered SVG for readability at desktop and phone width and in print, in light and dark
+  themes.
+- **Rendering in the engine:** a Mermaid step inside `lukio-runko` (render `content/diagrams/*.mmd` at build time) is
+  recorded in `docs/engine-issues.md` as a proposal for a later engine version. Until then the SVGs are rendered here
+  and committed with their sources.
+- **Money:** with diagrams in Mermaid, the image spend in this brief is mostly the 12 illustrations, about $0.06.
