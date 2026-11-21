@@ -1,0 +1,58 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    rankSpacing: 20
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#e3f0ee"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2f6f6a"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f7f9fb"
+    clusterBorder: "#6b7280"
+---
+flowchart TB
+  accTitle: Eettisen analyysin seitsemän näkökulmaa tapauksen ympärillä
+  accDescr: Kuvitteellinen tapaus: Kim löytää kadulta lompakon ja miettii, palauttaako sen. Tapausta voi tarkastella seitsemästä näkökulmasta, ja jokainen kysyy omaa kysymystään. Arvot: mikä on tärkeää? Normit: mitkä säännöt ohjaavat? Hyveet: millainen toimija on? Seuraukset: mitä hyvää ja huonoa seuraa kenellekin? Oikeudet: mitä kuuluu jokaiselle? Velvollisuudet: mitä rooli vaatii? Motiivit: mikä on tarkoitus? Näkökulmat voivat johtaa eri suuntiin, ja analyysi näyttää ristiriidan.
+
+  C(["`**Tapaus:** Kim löytää lompakon.
+  Palauttaako hän sen?`"])
+  subgraph N["Seitsemän näkökulmaa"]
+    direction TB
+    A["`**Arvot**
+    mikä on tärkeää?`"]
+    O["`**Normit**
+    mitkä säännöt ohjaavat?`"]
+    H["`**Hyveet**
+    millainen toimija on?`"]
+    S["`**Seuraukset**
+    mitä hyvää ja huonoa
+    seuraa kenellekin?`"]
+    I["`**Oikeudet**
+    mitä kuuluu jokaiselle?`"]
+    V["`**Velvollisuudet**
+    mitä rooli vaatii?`"]
+    M["`**Motiivit**
+    mikä on tarkoitus?`"]
+    A ~~~ O ~~~ H ~~~ S ~~~ I ~~~ V ~~~ M
+  end
+  R(["Näkökulmat voivat johtaa eri<br/>suuntiin: analyysi näyttää ristiriidan"])
+  C --> N
+  N --> R
+
+  classDef tapaus fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  classDef nako fill:#e3f0ee,stroke:#2f6f6a,color:#1a1a1a
+  classDef huom fill:#ffffff,stroke:#6b7280,color:#1a1a1a
+  class C tapaus
+  class A,O,H,S,I,V,M nako
+  class R huom

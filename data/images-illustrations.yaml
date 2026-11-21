@@ -405,11 +405,11 @@ images:
     placement: header
     decorative: true
     prompt: >-
-      Upper secondary students of about 17, nearly adult in size and style, wash their hands and chat at a row of white sinks in a bright, clean school washroom with a window and a
-      plant; soap bubbles on their hands, one dries her hands with a paper towel and laughs with a friend. A light,
-      fresh, everyday mood.
-    alt: Opiskelijat pesevät käsiään ja juttelevat valoisan koulun pesutilan lavuaareilla.
-
+      Three young adults aged 18 to 19 with clearly adult faces, heights and builds wash their hands side by side at
+      white sinks in a bright, clean washroom with a window and a plant, chatting and smiling; soap bubbles on their
+      hands. Each wears different adult casual clothes: a hoodie, a denim jacket, a knit sweater, jeans. No uniforms,
+      no matching outfits, no children. A light, fresh, everyday mood.
+    alt: Kolme nuorta aikuista pesee käsiään ja juttelee valoisan pesutilan lavuaareilla.
   - id: il-te3-05-sosiaali-ja-terveyspalvelut
     kind: illustration
     model: p-image

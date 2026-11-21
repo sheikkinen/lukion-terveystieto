@@ -1,0 +1,234 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Vastasyntyneen elinajanodote sukupuolen mukaan Suomessa joka kymmenes vuosi 1975-2025. Arvot ovat tiedostosta data/charts/dg-elinajanodote.csv, joka on otos Tilastokeskuksen taulukosta 12am Vastasyntyneen elinajanodote sukupuolen mukaan, 1751-2025 (StatFin, kuolleet). Lähde: Tilastokeskus, https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__kuol/statfin_kuol_pxt_12am.px/ (haettu rajapinnasta https://pxdata.stat.fi/PXWeb/api/v1/fi/StatFin/kuol/12am.px). Lisenssi CC BY 4.0. Luettu 22.11.2026.",
+  "title": {
+    "text": "Vastasyntyneen elinajanodote",
+    "subtitle": "Suomi, lähde: Tilastokeskus",
+    "anchor": "start"
+  },
+  "width": 270,
+  "height": 230,
+  "background": "#ffffff",
+  "padding": 10,
+  "data": {
+    "values": [
+      {
+        "vuosi": 1975,
+        "sukupuoli": "Naiset",
+        "elinajanodote_vuotta": 75.93
+      },
+      {
+        "vuosi": 1975,
+        "sukupuoli": "Miehet",
+        "elinajanodote_vuotta": 67.38
+      },
+      {
+        "vuosi": 1985,
+        "sukupuoli": "Naiset",
+        "elinajanodote_vuotta": 78.49
+      },
+      {
+        "vuosi": 1985,
+        "sukupuoli": "Miehet",
+        "elinajanodote_vuotta": 70.07
+      },
+      {
+        "vuosi": 1995,
+        "sukupuoli": "Naiset",
+        "elinajanodote_vuotta": 80.21
+      },
+      {
+        "vuosi": 1995,
+        "sukupuoli": "Miehet",
+        "elinajanodote_vuotta": 72.79
+      },
+      {
+        "vuosi": 2005,
+        "sukupuoli": "Naiset",
+        "elinajanodote_vuotta": 82.29
+      },
+      {
+        "vuosi": 2005,
+        "sukupuoli": "Miehet",
+        "elinajanodote_vuotta": 75.51
+      },
+      {
+        "vuosi": 2015,
+        "sukupuoli": "Naiset",
+        "elinajanodote_vuotta": 84.13
+      },
+      {
+        "vuosi": 2015,
+        "sukupuoli": "Miehet",
+        "elinajanodote_vuotta": 78.53
+      },
+      {
+        "vuosi": 2025,
+        "sukupuoli": "Naiset",
+        "elinajanodote_vuotta": 84.73
+      },
+      {
+        "vuosi": 2025,
+        "sukupuoli": "Miehet",
+        "elinajanodote_vuotta": 79.81
+      }
+    ]
+  },
+  "mark": {
+    "type": "line",
+    "point": {
+      "filled": true,
+      "size": 80
+    },
+    "strokeWidth": 3,
+    "aria": false
+  },
+  "encoding": {
+    "x": {
+      "field": "vuosi",
+      "type": "quantitative",
+      "scale": {
+        "domain": [
+          1970,
+          2030
+        ],
+        "nice": false
+      },
+      "axis": {
+        "title": "Vuosi",
+        "values": [
+          1975,
+          1995,
+          2015
+        ],
+        "format": "d",
+        "grid": false,
+        "aria": false
+      }
+    },
+    "y": {
+      "field": "elinajanodote_vuotta",
+      "type": "quantitative",
+      "scale": {
+        "domain": [
+          60,
+          90
+        ],
+        "nice": false
+      },
+      "axis": {
+        "title": "Vuotta",
+        "values": [
+          60,
+          70,
+          80,
+          90
+        ],
+        "format": "d",
+        "grid": true,
+        "aria": false
+      }
+    },
+    "color": {
+      "field": "sukupuoli",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Naiset",
+          "Miehet"
+        ],
+        "range": [
+          "#2f6f6a",
+          "#8a4b2a"
+        ]
+      },
+      "legend": {
+        "title": null,
+        "orient": "bottom",
+        "direction": "vertical",
+        "labelFontSize": 15,
+        "symbolStrokeWidth": 3,
+        "aria": false
+      }
+    },
+    "strokeDash": {
+      "field": "sukupuoli",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Naiset",
+          "Miehet"
+        ],
+        "range": [
+          [
+            1,
+            0
+          ],
+          [
+            6,
+            4
+          ]
+        ]
+      },
+      "legend": null
+    },
+    "shape": {
+      "field": "sukupuoli",
+      "type": "nominal",
+      "scale": {
+        "domain": [
+          "Naiset",
+          "Miehet"
+        ],
+        "range": [
+          "circle",
+          "square"
+        ]
+      },
+      "legend": null
+    },
+    "order": {
+      "field": "vuosi",
+      "type": "quantitative"
+    }
+  },
+  "config": {
+    "aria": false,
+    "font": "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif",
+    "locale": {
+      "number": {
+        "decimal": ",",
+        "thousands": " ",
+        "grouping": [
+          3
+        ],
+        "currency": [
+          "",
+          " €"
+        ]
+      }
+    },
+    "axis": {
+      "labelColor": "#1a1a1a",
+      "titleColor": "#1a1a1a",
+      "labelFontSize": 15,
+      "titleFontSize": 15,
+      "gridColor": "#d5dbe3",
+      "domainColor": "#6b7280",
+      "tickColor": "#6b7280"
+    },
+    "legend": {
+      "labelColor": "#1a1a1a",
+      "labelLimit": 300
+    },
+    "title": {
+      "color": "#1a1a1a",
+      "subtitleColor": "#4a4f57",
+      "fontSize": 17,
+      "subtitleFontSize": 15
+    },
+    "view": {
+      "stroke": null
+    }
+  }
+}

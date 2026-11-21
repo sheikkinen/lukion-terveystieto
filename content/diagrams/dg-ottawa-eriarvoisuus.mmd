@@ -1,0 +1,69 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    rankSpacing: 20
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#e3f0ee"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2f6f6a"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f7f9fb"
+    clusterBorder: "#6b7280"
+---
+flowchart TB
+  accTitle: Ottawan viisi toiminta-aluetta terveyserojen kaventamisessa
+  accDescr: Mallivastaus koetehtävään K3. Kuvitteellisen Merirannan alueella B palvelut ovat kaukana ja pitkäaikaissairaudet yleisempiä. Kaupunki kaventaa eroa viidellä Ottawan toiminta-alueella. Terveyttä edistävä yhteiskuntapolitiikka: kaupunki ja valtuusto ottavat terveysvaikutusten arvioinnin mukaan kaavoitukseen ja liikenteeseen. Terveyttä tukevat ympäristöt: kaupunki rakentaa kävely- ja pyöräreitit ja tihentää joukkoliikennettä. Yhteisön toiminta: asukkaat ja järjestöt suunnittelevat alueen toimintaa yhdessä kaupungin kanssa. Henkilökohtaiset taidot: koulu ja aikuisopisto tarjoavat työelämä- ja terveyslukutaitoa. Terveyspalvelujen suuntaaminen uudelleen: hyvinvointialue ja kaupunki tuovat lähipalvelun ja liikkuvan palvelun alueelle B. Laajimmin tavoittavat yhteiskuntapolitiikka ja ympäristöt, koska ne koskevat kaikkia alueen asukkaita.
+
+  B(["`**Alue B** (kuvitteellinen)
+  palvelut kaukana,
+  pitkäaikaissairaudet yleisempiä`"])
+  subgraph T["Viisi toiminta-aluetta"]
+    direction TB
+    P["`**Terveyttä edistävä**
+    **yhteiskuntapolitiikka**
+    terveysvaikutusten arviointi
+    kaavoitukseen ja liikenteeseen
+    toimija: kaupunki ja valtuusto`"]
+    Y["`**Terveyttä tukevat ympäristöt**
+    kävely- ja pyöräreitit,
+    tiheämpi joukkoliikenne
+    toimija: kaupunki`"]
+    U["`**Yhteisön toiminta**
+    asukkaat ja järjestöt
+    suunnittelevat yhdessä
+    kaupungin kanssa`"]
+    H["`**Henkilökohtaiset taidot**
+    työelämä- ja
+    terveyslukutaitoa
+    toimija: koulu ja aikuisopisto`"]
+    S["`**Terveyspalvelujen**
+    **suuntaaminen uudelleen**
+    lähipalvelu ja liikkuva
+    palvelu alueelle B
+    toimija: hyvinvointialue
+    ja kaupunki`"]
+    P ~~~ Y ~~~ U ~~~ H ~~~ S
+  end
+  L(["Laajimmin tavoittavat<br/>yhteiskuntapolitiikka ja ympäristöt"])
+  B --> T
+  T --> L
+
+  classDef alue fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  classDef rak fill:#e6eef8,stroke:#3d5f8a,color:#1a1a1a
+  classDef ihm fill:#e3f0ee,stroke:#2f6f6a,color:#1a1a1a
+  classDef huom fill:#ffffff,stroke:#6b7280,color:#1a1a1a
+  class B alue
+  class P,Y rak
+  class U,H,S ihm
+  class L huom

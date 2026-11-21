@@ -1,0 +1,331 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Kaavamainen kuva epidemiologisesta siirtymästä viidessä vaiheessa (te3-02, Opiskelijalle-osion taulukko ja K3 a). Itse tehty kaavamainen aineisto: ei vuosia, ei lukuja eikä mittausdataa. Kuolleisuus on vaiheessa 1 korkea ja vaihtelee, laskee vaiheessa 2 ja on matala vaiheista 3 alkaen. Syntyvyys pysyy korkeana vaiheissa 1-2, laskee vaiheessa 3 ja on matala vaiheissa 4-5. Väkiluku kasvaa nopeasti, kun kuolleisuus on laskenut mutta syntyvyys on vielä korkea, ja kasvu hidastuu myöhemmin.",
+  "title": {
+    "text": "Epidemiologinen siirtymä",
+    "subtitle": "Kaavamainen kuva, ei vuosia eikä lukuja",
+    "anchor": "start"
+  },
+  "width": 255,
+  "height": 230,
+  "background": "#ffffff",
+  "padding": 10,
+  "layer": [
+    {
+      "data": {
+        "values": [
+          {
+            "raja": 1.5
+          },
+          {
+            "raja": 2.5
+          },
+          {
+            "raja": 3.5
+          },
+          {
+            "raja": 4.5
+          }
+        ]
+      },
+      "mark": {
+        "type": "rule",
+        "color": "#c3cad4",
+        "strokeDash": [
+          2,
+          3
+        ],
+        "aria": false
+      },
+      "encoding": {
+        "x": {
+          "field": "raja",
+          "type": "quantitative"
+        }
+      }
+    },
+    {
+      "data": {
+        "values": [
+          {
+            "vaihe": 0.55,
+            "kayra": "Kuolleisuus",
+            "taso": 8.6
+          },
+          {
+            "vaihe": 0.8,
+            "kayra": "Kuolleisuus",
+            "taso": 9.6
+          },
+          {
+            "vaihe": 1.05,
+            "kayra": "Kuolleisuus",
+            "taso": 8.2
+          },
+          {
+            "vaihe": 1.3,
+            "kayra": "Kuolleisuus",
+            "taso": 9.4
+          },
+          {
+            "vaihe": 1.55,
+            "kayra": "Kuolleisuus",
+            "taso": 8.8
+          },
+          {
+            "vaihe": 2.0,
+            "kayra": "Kuolleisuus",
+            "taso": 6.9
+          },
+          {
+            "vaihe": 2.5,
+            "kayra": "Kuolleisuus",
+            "taso": 4.6
+          },
+          {
+            "vaihe": 3.0,
+            "kayra": "Kuolleisuus",
+            "taso": 3.1
+          },
+          {
+            "vaihe": 3.5,
+            "kayra": "Kuolleisuus",
+            "taso": 2.5
+          },
+          {
+            "vaihe": 4.0,
+            "kayra": "Kuolleisuus",
+            "taso": 2.3
+          },
+          {
+            "vaihe": 5.45,
+            "kayra": "Kuolleisuus",
+            "taso": 2.3
+          },
+          {
+            "vaihe": 0.55,
+            "kayra": "Syntyvyys",
+            "taso": 9.0
+          },
+          {
+            "vaihe": 2.5,
+            "kayra": "Syntyvyys",
+            "taso": 9.0
+          },
+          {
+            "vaihe": 3.0,
+            "kayra": "Syntyvyys",
+            "taso": 6.4
+          },
+          {
+            "vaihe": 3.5,
+            "kayra": "Syntyvyys",
+            "taso": 3.6
+          },
+          {
+            "vaihe": 4.0,
+            "kayra": "Syntyvyys",
+            "taso": 2.8
+          },
+          {
+            "vaihe": 5.45,
+            "kayra": "Syntyvyys",
+            "taso": 2.7
+          },
+          {
+            "vaihe": 0.55,
+            "kayra": "Väkiluku",
+            "taso": 1.4
+          },
+          {
+            "vaihe": 1.5,
+            "kayra": "Väkiluku",
+            "taso": 1.6
+          },
+          {
+            "vaihe": 2.0,
+            "kayra": "Väkiluku",
+            "taso": 2.3
+          },
+          {
+            "vaihe": 2.5,
+            "kayra": "Väkiluku",
+            "taso": 3.6
+          },
+          {
+            "vaihe": 3.0,
+            "kayra": "Väkiluku",
+            "taso": 5.0
+          },
+          {
+            "vaihe": 3.5,
+            "kayra": "Väkiluku",
+            "taso": 5.9
+          },
+          {
+            "vaihe": 4.0,
+            "kayra": "Väkiluku",
+            "taso": 6.4
+          },
+          {
+            "vaihe": 4.5,
+            "kayra": "Väkiluku",
+            "taso": 6.6
+          },
+          {
+            "vaihe": 5.45,
+            "kayra": "Väkiluku",
+            "taso": 6.7
+          }
+        ]
+      },
+      "mark": {
+        "type": "line",
+        "interpolate": "monotone",
+        "strokeWidth": 3,
+        "aria": false
+      },
+      "encoding": {
+        "x": {
+          "field": "vaihe",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0.5,
+              5.5
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": "Siirtymän vaihe",
+            "values": [
+              1,
+              2,
+              3,
+              4,
+              5
+            ],
+            "format": "d",
+            "grid": false,
+            "aria": false
+          }
+        },
+        "y": {
+          "field": "taso",
+          "type": "quantitative",
+          "scale": {
+            "domain": [
+              0,
+              10
+            ],
+            "nice": false
+          },
+          "axis": {
+            "title": "Taso",
+            "values": [
+              0,
+              10
+            ],
+            "labelExpr": "datum.value == 0 ? 'matala' : 'korkea'",
+            "grid": false,
+            "aria": false
+          }
+        },
+        "color": {
+          "field": "kayra",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Kuolleisuus",
+              "Syntyvyys",
+              "Väkiluku"
+            ],
+            "range": [
+              "#8a4b2a",
+              "#2f6f6a",
+              "#3d5f8a"
+            ]
+          },
+          "legend": {
+            "title": null,
+            "orient": "bottom",
+            "direction": "vertical",
+            "labelFontSize": 15,
+            "symbolStrokeWidth": 3,
+            "symbolType": "stroke",
+            "aria": false
+          }
+        },
+        "strokeDash": {
+          "field": "kayra",
+          "type": "nominal",
+          "scale": {
+            "domain": [
+              "Kuolleisuus",
+              "Syntyvyys",
+              "Väkiluku"
+            ],
+            "range": [
+              [
+                1,
+                0
+              ],
+              [
+                7,
+                4
+              ],
+              [
+                2,
+                3
+              ]
+            ]
+          },
+          "legend": null
+        },
+        "order": {
+          "field": "vaihe",
+          "type": "quantitative"
+        }
+      }
+    }
+  ],
+  "config": {
+    "aria": false,
+    "font": "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif",
+    "locale": {
+      "number": {
+        "decimal": ",",
+        "thousands": " ",
+        "grouping": [
+          3
+        ],
+        "currency": [
+          "",
+          " €"
+        ]
+      }
+    },
+    "axis": {
+      "labelColor": "#1a1a1a",
+      "titleColor": "#1a1a1a",
+      "labelFontSize": 15,
+      "titleFontSize": 15,
+      "gridColor": "#d5dbe3",
+      "domainColor": "#6b7280",
+      "tickColor": "#6b7280"
+    },
+    "legend": {
+      "labelColor": "#1a1a1a",
+      "labelLimit": 300
+    },
+    "title": {
+      "color": "#1a1a1a",
+      "subtitleColor": "#4a4f57",
+      "fontSize": 17,
+      "subtitleFontSize": 15
+    },
+    "view": {
+      "stroke": null
+    }
+  }
+}

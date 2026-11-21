@@ -1,0 +1,56 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#e3f0ee"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2f6f6a"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f7f9fb"
+    clusterBorder: "#6b7280"
+---
+flowchart TB
+  accTitle: Sairauksien selitysmallit aikajärjestyksessä
+  accDescr: Selitysmalli kertoo, mistä sairauden ajatellaan johtuvan, ja ohjaa hoitoa. Aikajärjestyksessä ensin yliluonnollinen eli demonologinen malli, joka eli kansanlääkinnässä pitkään: syynä henki tai muu yliluonnollinen voima. Humoraalioppi oli vallalla antiikista 1800-luvulle: syynä neljän ruumiinnesteen epätasapaino. Miasmateoria oli vallalla 1700- ja 1800-luvulla: syynä mätänevästä aineesta nouseva paha ilma. John Snow osoitti vuonna 1854, että kolera levisi juomaveden kautta, ja Pasteurin ja Kochin työ 1860-luvulta alkaen vakiinnutti mikrobiteorian, joka oli vallalla 1800-luvun loppupuolelta: syynä tietty mikrobi. Nykyään vallalla on monisyinen malli eli riskitekijämalli: syynä monen tekijän yhteisvaikutus. Mallit elivät pitkään rinnakkain.
+
+  Y["`**Yliluonnollinen eli**
+  **demonologinen malli**
+  kansanlääkinnässä pitkään
+  syy: henki tai muu voima`"]
+  H["`**Humoraalioppi**
+  antiikista 1800-luvulle
+  syy: neljän ruumiinnesteen
+  epätasapaino`"]
+  M["`**Miasmateoria**
+  1700- ja 1800-luvulla
+  syy: paha ilma`"]
+  K["`**Mikrobiteoria**
+  1800-luvun loppupuolelta
+  syy: tietty mikrobi`"]
+  R["`**Monisyinen malli**
+  nykyään
+  syy: monen tekijän
+  yhteisvaikutus`"]
+  N(["Mallit elivät pitkään<br/>rinnakkain"])
+  Y --> H --> M
+  M -->|"Snow 1854,<br/>Pasteur ja Koch"| K
+  K --> R
+  R ~~~ N
+
+  classDef vanha fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  classDef tiede fill:#e3f0ee,stroke:#2f6f6a,color:#1a1a1a
+  classDef huom fill:#ffffff,stroke:#6b7280,color:#1a1a1a
+  class Y,H,M vanha
+  class K,R tiede
+  class N huom

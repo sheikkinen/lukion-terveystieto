@@ -1,0 +1,53 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    rankSpacing: 20
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#e3f0ee"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2f6f6a"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f7f9fb"
+    clusterBorder: "#6b7280"
+---
+flowchart TB
+  accTitle: Mihin kannattaa hakeutua?
+  accDescr: Hätätilanteessa soitetaan hätänumeroon 112. Oman vaivan tai huolen kanssa opiskeluaikana mennään opiskeluterveydenhuoltoon eli terveydenhoitajalle tai lääkärille. Koulunkäynnin ja jaksamisen asioissa auttavat kuraattori tai psykologi. Rahan tai arjen asioissa auttavat hyvinvointialueen sosiaalityö ja Kela. Keskusteluapua saa järjestöjen palveluista, esimerkiksi Sekasin-chatista tai Lasten ja nuorten puhelimesta. Muiden asioiden kohdalla oman hyvinvointialueen verkkosivu kertoo, mistä neuvonta ja päivystys löytyvät.
+
+  S1["`**Hätätilanne**`"] --> P1["`**Soita hätänumeroon 112**`"]
+  S2["`**Oma vaiva tai huoli**
+  opiskeluaikana`"] --> P2["`Opiskeluterveydenhuolto:
+  terveydenhoitaja tai lääkäri`"]
+  S3["`**Koulunkäynti**
+  **ja jaksaminen**`"] --> P3["`Kuraattori tai psykologi`"]
+  S4["`**Raha tai arki**`"] --> P4["`Hyvinvointialueen
+  sosiaalityö ja Kela`"]
+  S5["`**Keskusteluapu**`"] --> P5["`Järjestöjen palvelut,
+  esim. Sekasin-chat`"]
+  S6["`**Muut asiat**`"] --> P6["`Oman hyvinvointialueen
+  verkkosivu: neuvonta
+  ja päivystys`"]
+
+  P1 ~~~ S2
+  P2 ~~~ S3
+  P3 ~~~ S4
+  P4 ~~~ S5
+  P5 ~~~ S6
+
+  classDef hata fill:#fbe4dd,stroke:#a8452f,color:#1a1a1a
+  classDef tilanne fill:#e6eef8,stroke:#3d5f8a,color:#1a1a1a
+  classDef palvelu fill:#e3f0ee,stroke:#2f6f6a,color:#1a1a1a
+  class S1,P1 hata
+  class S2,S3,S4,S5,S6 tilanne
+  class P2,P3,P4,P5,P6 palvelu

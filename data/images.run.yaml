@@ -534,3 +534,19 @@
   sha256: 67a1ac98fa99f4916c3db9993465d9dcb07ed8a9a2a565d56af8f30ad6103401
   dollars: 0.005
   date: '2026-11-22'
+- id: il-te3-04-tartuntataudit-ja-rokotukset
+  model: prunaai/p-image
+  prompt: 'Three young adults aged 18 to 19, clearly grown up: adult faces and adult heights and builds, like first-year university students, wash their hands and chat at a row of white sinks in a bright, clean washroom with a window and a plant. Adult casual clothes in muted colours: a hoodie, a denim jacket, a knit sweater, jeans; no uniforms, no matching outfits, no skirts with white shirts, no backpacks with cartoon prints. Soap bubbles on their hands; one dries her hands with a paper towel and laughs with a friend. A light, fresh, everyday mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses,
+    simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1128148115
+  sha256: 829391e78f4ef4a5e9a09abc82426e01c46d521647f62ddcc0a48f69a513fa5e
+  dollars: 0.005
+  date: '2026-11-22'
+- id: il-te3-04-tartuntataudit-ja-rokotukset
+  model: prunaai/p-image
+  prompt: 'Three young adults aged 18 to 19 with clearly adult faces, heights and builds wash their hands side by side at white sinks in a bright, clean washroom with a window and a plant, chatting and smiling; soap bubbles on their hands. Each wears different adult casual clothes: a hoodie, a denim jacket, a knit sweater, jeans. No uniforms, no matching outfits, no children. A light, fresh, everyday mood. Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges. Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space. Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no real people, no celebrities. No scales, measuring
+    tapes, food portions, drinks in glasses, cigarettes, vapes, pills, medical equipment, hospitals, injuries or worried faces. Absolutely no text, letters, numbers, words, signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only simple abstract shapes.'
+  seed: 1128148116
+  sha256: 05194a189ce486eb827e2a13f75c9c07af3c53f2ba6f11cc7bccb3fe46d2398e
+  dollars: 0.005
+  date: '2026-11-22'

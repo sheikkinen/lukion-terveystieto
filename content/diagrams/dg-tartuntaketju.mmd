@@ -1,0 +1,51 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#e3f0ee"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2f6f6a"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f7f9fb"
+    clusterBorder: "#6b7280"
+---
+flowchart TB
+  accTitle: Tartuntaketju ja sen katkaisu
+  accDescr: Tartuntaketju on lähde, tartuntatie ja vastaanottaja. Lähde voi olla esimerkiksi ihminen, eläin tai ympäristö, kuten vesi. Tartuntatiet ovat kosketus, usein kädet, ilma, suu eli ruoka ja juoma, veri sekä sukupuoliteitse tarttuminen. Tartuntatien voi katkaista esimerkiksi käsienpesu tai kondomi. Vastaanottajan sairastumiseen vaikuttavat mikrobimäärä, vastustuskyky ja mikrobin kyky aiheuttaa tautia. Vastaanottajaa suojaavat rokote ja laumasuoja. Ehkäisy katkaisee ketjun jostain kohdasta.
+
+  L["`**Lähde**
+  esim. ihminen, eläin tai
+  ympäristö, kuten vesi`"]
+  T["`**Tartuntatie**
+  kosketus (usein kädet),
+  ilma, suu (ruoka ja juoma),
+  veri, sukupuoliteitse
+  katkaisu: käsienpesu, kondomi`"]
+  V["`**Vastaanottaja**
+  sairastumiseen vaikuttavat
+  mikrobimäärä, vastustuskyky
+  ja mikrobin kyky aiheuttaa tautia
+  suoja: rokote, laumasuoja`"]
+  E(["Ehkäisy katkaisee ketjun<br/>jostain kohdasta"])
+  L --> T --> V
+  V ~~~ E
+
+  classDef lahde fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  classDef tie fill:#e6eef8,stroke:#3d5f8a,color:#1a1a1a
+  classDef vast fill:#e3f0ee,stroke:#2f6f6a,color:#1a1a1a
+  classDef huom fill:#ffffff,stroke:#6b7280,color:#1a1a1a
+  class L lahde
+  class T tie
+  class V vast
+  class E huom

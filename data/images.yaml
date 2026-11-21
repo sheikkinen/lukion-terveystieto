@@ -473,3 +473,326 @@ images:
       - "eikä valinta"
     facts_from:
       - {topic: te2-09-riippuvuuden-mekanismit, section: "Opiskelijalle / Mielihyvä ja palkitsemisjärjestelmä; Mitä riippuvuus on?; Riippuvuuden tunnusmerkit"}
+
+  # ---------------------------------------------------------------- TE3 diagrams and charts (brief 012, run 2)
+  # From the final TE3 text (after brief 011). Same settings as above: Mermaid sources in content/diagrams, charts in
+  # data/charts, rendered by tools/render_diagrams.py to site-src/img/<id>.svg, designed at 343 px first. Where a
+  # topic's Tehtävät ask the student to draw the same figure, the picture either stays generic (te3-04) or sits in
+  # Mallivastaukset (te3-02 chart, te3-10 action areas), as dg-kaatumiset-reitit does.
+
+  - id: dg-selitysmallit
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "2:7"
+    page: te3-01-terveyskasitykset-ja-selitysmallit
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-selitysmallit.mmd, rendered to site-src/img/dg-selitysmallit.svg."
+    alt: >-
+      Kaavio sairauksien selitysmalleista aikajärjestyksessä ylhäältä alas nuolin. Yliluonnollinen eli
+      demonologinen malli, kansanlääkinnässä pitkään, syy henki tai muu voima. Humoraalioppi, antiikista
+      1800-luvulle, syy neljän ruumiinnesteen epätasapaino. Miasmateoria, 1700- ja 1800-luvulla, syy paha ilma.
+      Miasmateoriasta mikrobiteoriaan vievän nuolen merkintä: Snow 1854, Pasteur ja Koch. Mikrobiteoria,
+      1800-luvun loppupuolelta, syy tietty mikrobi. Monisyinen malli, nykyään, syy monen tekijän yhteisvaikutus.
+      Alimpana huomio: mallit elivät pitkään rinnakkain.
+    expected_labels:
+      - "Yliluonnollinen eli"
+      - "demonologinen malli"
+      - "kansanlääkinnässä pitkään"
+      - "syy: henki tai muu voima"
+      - "Humoraalioppi"
+      - "antiikista 1800-luvulle"
+      - "syy: neljän ruumiinnesteen"
+      - "epätasapaino"
+      - "Miasmateoria"
+      - "1700- ja 1800-luvulla"
+      - "syy: paha ilma"
+      - "Snow 1854,"
+      - "Pasteur ja Koch"
+      - "Mikrobiteoria"
+      - "1800-luvun loppupuolelta"
+      - "syy: tietty mikrobi"
+      - "Monisyinen malli"
+      - "nykyään"
+      - "syy: monen tekijän"
+      - "yhteisvaikutus"
+      - "Mallit elivät pitkään"
+      - "rinnakkain"
+    facts_from:
+      - {topic: te3-01-terveyskasitykset-ja-selitysmallit, section: "Opiskelijalle / Sairauksien selitysmallit (taulukko; mallit elivät pitkään rinnakkain); Miksi käsitykset muuttuivat? (Snow 1854, Pasteur ja Koch 1860-luvulta)"}
+
+  - id: dg-epidemiologinen-siirtyma
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "5:6"
+    page: te3-02-vaeston-terveyden-muutos
+    placement: Mallivastaukset
+    prompt: >-
+      Vega-Lite spec data/charts/dg-epidemiologinen-siirtyma.vl.json (self-made schematic curves labelled
+      kaavamainen, no years, no figures), rendered with vl-convert-python to
+      site-src/img/dg-epidemiologinen-siirtyma.svg, Vega's ARIA labels off. Tehtävä 1 and K3 a) ask the student to
+      draw these curves, so the chart sits in Mallivastaukset beside the K3 a) model answer, which it extends to all
+      five phases.
+    alt: >-
+      Kaavamainen viivakuvio epidemiologisesta siirtymästä, ei vuosia eikä lukuja. Vaaka-akselilla siirtymän
+      vaiheet 1–5, pystyakselilla taso matalasta korkeaan. Kuolleisuus, yhtenäinen ruskea viiva, on vaiheessa 1
+      korkea ja vaihtelee, laskee vaiheessa 2 ja on vaiheesta 3 alkaen matala ja tasainen. Syntyvyys, katkoviiva,
+      pysyy korkeana vaiheissa 1 ja 2, laskee vaiheessa 3 ja on matala vaiheissa 4 ja 5. Väkiluku, pisteviiva, on
+      vaiheessa 1 lähes ennallaan, kasvaa nopeasti vaiheissa 2 ja 3, kun kuolleisuus on laskenut mutta syntyvyys on
+      vielä korkea, ja kasvu hidastuu vaiheissa 4 ja 5.
+    expected_labels:
+      - "Epidemiologinen siirtymä"
+      - "Kaavamainen kuva, ei vuosia eikä lukuja"
+      - "korkea"
+      - "matala"
+      - "Taso"
+      - "1"
+      - "2"
+      - "3"
+      - "4"
+      - "5"
+      - "Siirtymän vaihe"
+      - "Kuolleisuus"
+      - "Syntyvyys"
+      - "Väkiluku"
+    facts_from:
+      - {topic: te3-02-vaeston-terveyden-muutos, section: "Opiskelijalle / Mitä epidemiologinen siirtymä on? (taulukko: kuolleisuus ja syntyvyys vaiheittain; väkiluku kasvaa nopeasti, kun kuolleisuus laskee mutta syntyvyys pysyy aluksi korkeana)"}
+      - {topic: te3-02-vaeston-terveyden-muutos, section: "Mallivastaukset / K3 a) (kolme käyrää vaiheissa 1–3)"}
+
+  - id: dg-ehkaisyn-tasot
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "4:7"
+    page: te3-03-tarttumattomat-taudit
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-ehkaisyn-tasot.mmd, rendered to site-src/img/dg-ehkaisyn-tasot.svg."
+    alt: >-
+      Kaavio ehkäisyn kolmesta tasosta allekkain nuolin. Ensisijainen ehkäisy estää sairauden syntymisen:
+      terveyden edistäminen, rokotukset ja riskien vähentäminen. Toissijainen ehkäisy löytää sairauden tai sen
+      esiasteen varhain, esimerkiksi seulonta oireettomille. Kolmannen asteen ehkäisy estää sairauden pahenemista
+      ja tukee kuntoutumista. Alimpana huomio: yksilön ja yhteiskunnan keinot, kuten lait, palvelut, ympäristö ja
+      hinnat.
+    expected_labels:
+      - "Ensisijainen ehkäisy"
+      - "estää sairauden syntymisen:"
+      - "terveyden edistäminen,"
+      - "rokotukset, riskien vähentäminen"
+      - "Toissijainen ehkäisy"
+      - "löytää sairauden tai sen"
+      - "esiasteen varhain,"
+      - "esim. seulonta oireettomille"
+      - "Kolmannen asteen ehkäisy"
+      - "estää sairauden pahenemista,"
+      - "tukee kuntoutumista"
+      - "Yksilön ja yhteiskunnan keinot:"
+      - "lait, palvelut, ympäristö, hinnat"
+    facts_from:
+      - {topic: te3-03-tarttumattomat-taudit, section: "Opiskelijalle / Ehkäisyn tasot"}
+
+  - id: dg-tartuntaketju
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "1:2"
+    page: te3-04-tartuntataudit-ja-rokotukset
+    placement: Opiskelijalle
+    prompt: >-
+      Mermaid source content/diagrams/dg-tartuntaketju.mmd, rendered to site-src/img/dg-tartuntaketju.svg.
+      Generic chain only: Tehtävä 1 asks the student to fill the chain for borrelioosi, TBE and a water-borne
+      infection, so no disease is filled in here.
+    alt: >-
+      Kaavio tartuntaketjusta: kolme laatikkoa allekkain nuolin. Lähde, esimerkiksi ihminen, eläin tai ympäristö,
+      kuten vesi. Tartuntatie: kosketus, usein kädet, ilma, suu eli ruoka ja juoma, veri ja sukupuoliteitse;
+      katkaisu esimerkiksi käsienpesulla tai kondomilla. Vastaanottaja: sairastumiseen vaikuttavat mikrobimäärä,
+      vastustuskyky ja mikrobin kyky aiheuttaa tautia; suojana rokote ja laumasuoja. Alimpana huomio: ehkäisy
+      katkaisee ketjun jostain kohdasta.
+    expected_labels:
+      - "Lähde"
+      - "esim. ihminen, eläin tai"
+      - "ympäristö, kuten vesi"
+      - "Tartuntatie"
+      - "kosketus (usein kädet),"
+      - "ilma, suu (ruoka ja juoma),"
+      - "veri, sukupuoliteitse"
+      - "katkaisu: käsienpesu, kondomi"
+      - "Vastaanottaja"
+      - "sairastumiseen vaikuttavat"
+      - "mikrobimäärä, vastustuskyky"
+      - "ja mikrobin kyky aiheuttaa tautia"
+      - "suoja: rokote, laumasuoja"
+      - "Ehkäisy katkaisee ketjun"
+      - "jostain kohdasta"
+    facts_from:
+      - {topic: te3-04-tartuntataudit-ja-rokotukset, section: "Opiskelijalle / Miten tartuntatauti leviää? (tartuntaketju, tartuntatiet, zoonoosi, taulukon ehkäisy-sarake); Rokotus ja laumasuoja"}
+      - {topic: te3-04-tartuntataudit-ja-rokotukset, section: "Koetehtävät / K3 Vesiepidemia kunnassa (vesi lähteenä)"}
+
+  - id: dg-palvelupolut
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "1:4"
+    page: te3-05-sosiaali-ja-terveyspalvelut
+    placement: Opiskelijalle
+    prompt: >-
+      Mermaid source content/diagrams/dg-palvelupolut.mmd, rendered to site-src/img/dg-palvelupolut.svg.
+      Situation and service pairs in one column for a 343 px phone; the emergency pair first, in coral.
+    alt: >-
+      Kaavio siitä, mihin kannattaa hakeutua: kuusi tilannetta, joista kustakin nuoli vie palveluun. Hätätilanne:
+      soita hätänumeroon 112. Oma vaiva tai huoli opiskeluaikana: opiskeluterveydenhuolto, terveydenhoitaja tai
+      lääkäri. Koulunkäynti ja jaksaminen: kuraattori tai psykologi. Raha tai arki: hyvinvointialueen sosiaalityö ja
+      Kela. Keskusteluapu: järjestöjen palvelut, esimerkiksi Sekasin-chat. Muut asiat: oman hyvinvointialueen
+      verkkosivu kertoo neuvonnasta ja päivystyksestä.
+    expected_labels:
+      - "Hätätilanne"
+      - "Soita hätänumeroon 112"
+      - "Oma vaiva tai huoli"
+      - "opiskeluaikana"
+      - "Opiskeluterveydenhuolto:"
+      - "terveydenhoitaja tai lääkäri"
+      - "Koulunkäynti"
+      - "ja jaksaminen"
+      - "Kuraattori tai psykologi"
+      - "Raha tai arki"
+      - "Hyvinvointialueen"
+      - "sosiaalityö ja Kela"
+      - "Keskusteluapu"
+      - "Järjestöjen palvelut,"
+      - "esim. Sekasin-chat"
+      - "Muut asiat"
+      - "Oman hyvinvointialueen"
+      - "verkkosivu: neuvonta"
+      - "ja päivystys"
+    facts_from:
+      - {topic: te3-05-sosiaali-ja-terveyspalvelut, section: "Opiskelijalle / Mihin kannattaa hakeutua?"}
+
+  - id: dg-eettiset-nakokulmat
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "1:3"
+    page: te3-07-eettisen-analyysin-nakokulmat
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-eettiset-nakokulmat.mmd, rendered to site-src/img/dg-eettiset-nakokulmat.svg."
+    alt: >-
+      Kaavio eettisen analyysin seitsemästä näkökulmasta tapauksen ympärillä. Ylimpänä kuvitteellinen tapaus: Kim
+      löytää lompakon. Palauttaako hän sen? Nuoli vie laatikkoon Seitsemän näkökulmaa, jossa kullakin näkökulmalla
+      on oma kysymyksensä. Arvot: mikä on tärkeää? Normit: mitkä säännöt ohjaavat? Hyveet: millainen toimija on?
+      Seuraukset: mitä hyvää ja huonoa seuraa kenellekin? Oikeudet: mitä kuuluu jokaiselle? Velvollisuudet: mitä
+      rooli vaatii? Motiivit: mikä on tarkoitus? Alimpana huomio: näkökulmat voivat johtaa eri suuntiin, ja
+      analyysi näyttää ristiriidan.
+    expected_labels:
+      - "Tapaus: Kim löytää lompakon."
+      - "Palauttaako hän sen?"
+      - "Seitsemän näkökulmaa"
+      - "Arvot"
+      - "mikä on tärkeää?"
+      - "Normit"
+      - "mitkä säännöt ohjaavat?"
+      - "Hyveet"
+      - "millainen toimija on?"
+      - "Seuraukset"
+      - "mitä hyvää ja huonoa"
+      - "seuraa kenellekin?"
+      - "Oikeudet"
+      - "mitä kuuluu jokaiselle?"
+      - "Velvollisuudet"
+      - "mitä rooli vaatii?"
+      - "Motiivit"
+      - "mikä on tarkoitus?"
+      - "Näkökulmat voivat johtaa eri"
+      - "suuntiin: analyysi näyttää ristiriidan"
+    facts_from:
+      - {topic: te3-07-eettisen-analyysin-nakokulmat, section: "Opiskelijalle / Seitsemän näkökulmaa: kertaus ja syventäminen (taulukon Kysymys-sarake, lompakkotapaus; näkökulmat eivät aina johda samaan tulokseen)"}
+
+  - id: dg-elinajanodote
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "5:6"
+    page: te3-10-terveyden-eriarvoisuus-ja-tulevaisuus
+    placement: Opiskelijalle
+    prompt: >-
+      Vega-Lite spec data/charts/dg-elinajanodote.vl.json, rendered with vl-convert-python to
+      site-src/img/dg-elinajanodote.svg, Vega's ARIA labels off. Real data: the CSV snapshot
+      data/charts/dg-elinajanodote.csv from Statistics Finland table 12am (StatFin, kuolleet), CC BY 4.0, credited
+      Lähde: Tilastokeskus, read 22.11.2026; the source URL is in the spec's description. Life expectancy by sex:
+      no bodies, weights or amounts.
+    alt: >-
+      Viivakuvio vastasyntyneen elinajanodotteesta Suomessa sukupuolen mukaan joka kymmenes vuosi 1975–2025, lähde
+      Tilastokeskus. Pystyakselilla vuotta 60–90. Naiset, yhtenäinen vihreä viiva ja ympyrät: noin 76 vuotta
+      vuonna 1975 ja noin 85 vuotta vuonna 2025. Miehet, ruskea katkoviiva ja neliöt: noin 67 vuotta vuonna 1975 ja
+      noin 80 vuotta vuonna 2025. Molemmat viivat nousevat koko ajan, ja naisten viiva on joka vuosi miesten
+      yläpuolella. Ero on kaventunut noin kahdeksasta ja puolesta vuodesta noin viiteen vuoteen.
+    expected_labels:
+      - "Vastasyntyneen elinajanodote"
+      - "Suomi, lähde: Tilastokeskus"
+      - "60"
+      - "70"
+      - "80"
+      - "90"
+      - "Vuotta"
+      - "1975"
+      - "1995"
+      - "2015"
+      - "Vuosi"
+      - "Naiset"
+      - "Miehet"
+    facts_from:
+      - {topic: te3-10-terveyden-eriarvoisuus-ja-tulevaisuus, section: "Opiskelijalle / Miten kuvaajaa luetaan? (ryhmittely sukupuolen mukaan; elinajanodote, Tilastokeskus)"}
+      - {topic: data, section: "data/charts/dg-elinajanodote.csv (Tilastokeskus, taulukko 12am, CC BY 4.0, luettu 22.11.2026)"}
+
+  - id: dg-ottawa-eriarvoisuus
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "1:3"
+    page: te3-10-terveyden-eriarvoisuus-ja-tulevaisuus
+    placement: Mallivastaukset
+    prompt: >-
+      Mermaid source content/diagrams/dg-ottawa-eriarvoisuus.mmd, rendered to site-src/img/dg-ottawa-eriarvoisuus.svg.
+      It draws the K3 b) and c) model answer; Tehtävä 2 and K3 ask the student to apply the five areas, so it sits
+      in Mallivastaukset, not in Opiskelijalle.
+    alt: >-
+      Kaavio koetehtävän K3 mallivastauksesta: Ottawan viisi toiminta-aluetta terveyserojen kaventamisessa.
+      Ylimpänä kuvitteellinen alue B, jossa palvelut ovat kaukana ja pitkäaikaissairaudet yleisempiä. Nuoli vie
+      laatikkoon Viisi toiminta-aluetta. Terveyttä edistävä yhteiskuntapolitiikka: terveysvaikutusten arviointi
+      kaavoitukseen ja liikenteeseen, toimija kaupunki ja valtuusto. Terveyttä tukevat ympäristöt: kävely- ja
+      pyöräreitit ja tiheämpi joukkoliikenne, toimija kaupunki. Yhteisön toiminta: asukkaat ja järjestöt
+      suunnittelevat yhdessä kaupungin kanssa. Henkilökohtaiset taidot: työelämä- ja terveyslukutaitoa, toimija
+      koulu ja aikuisopisto. Terveyspalvelujen suuntaaminen uudelleen: lähipalvelu ja liikkuva palvelu alueelle B,
+      toimija hyvinvointialue ja kaupunki. Alimpana: laajimmin tavoittavat yhteiskuntapolitiikka ja ympäristöt.
+    expected_labels:
+      - "Alue B (kuvitteellinen)"
+      - "palvelut kaukana,"
+      - "pitkäaikaissairaudet yleisempiä"
+      - "Viisi toiminta-aluetta"
+      - "Terveyttä edistävä"
+      - "yhteiskuntapolitiikka"
+      - "terveysvaikutusten arviointi"
+      - "kaavoitukseen ja liikenteeseen"
+      - "toimija: kaupunki ja valtuusto"
+      - "Terveyttä tukevat ympäristöt"
+      - "kävely- ja pyöräreitit,"
+      - "tiheämpi joukkoliikenne"
+      - "toimija: kaupunki"
+      - "Yhteisön toiminta"
+      - "asukkaat ja järjestöt"
+      - "suunnittelevat yhdessä"
+      - "kaupungin kanssa"
+      - "Henkilökohtaiset taidot"
+      - "työelämä- ja"
+      - "terveyslukutaitoa"
+      - "toimija: koulu ja aikuisopisto"
+      - "Terveyspalvelujen"
+      - "suuntaaminen uudelleen"
+      - "lähipalvelu ja liikkuva"
+      - "palvelu alueelle B"
+      - "toimija: hyvinvointialue"
+      - "ja kaupunki"
+      - "Laajimmin tavoittavat"
+      - "yhteiskuntapolitiikka ja ympäristöt"
+    facts_from:
+      - {topic: te3-10-terveyden-eriarvoisuus-ja-tulevaisuus, section: "Mallivastaukset / K3 b) ja c) (alue B, viisi toiminta-aluetta, toimijat; eniten ihmisiä tavoittavat yhteiskuntapolitiikka ja ympäristöt)"}
+      - {topic: te3-10-terveyden-eriarvoisuus-ja-tulevaisuus, section: "Opiskelijalle / Keinot (Ottawan viisi toiminta-aluetta)"}

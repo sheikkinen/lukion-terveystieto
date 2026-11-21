@@ -1,0 +1,50 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#e3f0ee"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2f6f6a"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f7f9fb"
+    clusterBorder: "#6b7280"
+---
+flowchart TB
+  accTitle: Ehkäisyn kolme tasoa
+  accDescr: Ensisijainen ehkäisy pyrkii estämään sairauden syntymisen terveyden edistämisellä, rokotuksilla ja riskejä vähentämällä. Toissijainen ehkäisy löytää sairauden tai sen esiasteen varhain, esimerkiksi seulonnalla eli tutkimuksella, joka tehdään oireettomille. Kolmannen asteen ehkäisy estää sairauden pahenemista ja tukee kuntoutumista. Ehkäisyssä on sekä yksilön että yhteiskunnan keinoja, kuten lait, palvelut, ympäristö ja hinnat.
+
+  E1["`**Ensisijainen ehkäisy**
+  estää sairauden syntymisen:
+  terveyden edistäminen,
+  rokotukset, riskien vähentäminen`"]
+  E2["`**Toissijainen ehkäisy**
+  löytää sairauden tai sen
+  esiasteen varhain,
+  esim. seulonta oireettomille`"]
+  E3["`**Kolmannen asteen ehkäisy**
+  estää sairauden pahenemista,
+  tukee kuntoutumista`"]
+  K(["Yksilön ja yhteiskunnan keinot:<br/>lait, palvelut, ympäristö, hinnat"])
+  E1 --> E2
+  E2 --> E3
+  E3 ~~~ K
+
+  classDef t1 fill:#e3f0ee,stroke:#2f6f6a,color:#1a1a1a
+  classDef t2 fill:#e6eef8,stroke:#3d5f8a,color:#1a1a1a
+  classDef t3 fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  classDef huom fill:#ffffff,stroke:#6b7280,color:#1a1a1a
+  class E1 t1
+  class E2 t2
+  class E3 t3
+  class K huom

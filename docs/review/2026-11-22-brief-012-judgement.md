@@ -99,3 +99,63 @@ Second look by the judge, who made none of these pictures. All three opened at f
 | il-te3-05 (minor) | Alt now says three young people and one adult at a round table, which matches the picture. The prompt still says one young person; harmless. | closed |
 
 Verdict after recheck: accept-with-minors. il-te3-04 (students look too young) and the other minors above can be folded into run 2.
+
+## Run 2 and final ruling
+
+**Verdict: reject (one must-fix open).** The eight TE3 diagrams and charts are correct and readable at 343 px in
+both themes. il-te3-04 is still not fixed. The site's picture is the seed 1128148114 file (sha256 67a1ac98...);
+opened at full size, it shows nine children of about 11 to 14 in matching teal or coral tops with skirts or shorts
+that read as uniforms. The seed 1128148115 redo is logged (sha256 829391e7...) but matches no file on disk, and
+`data/images-illustrations.yaml` has no diff against HEAD, so its prompt does not match the last logged run.
+
+Checked myself: build into my own scratch folder, 0 errors and 0 warnings, all eight figures on their pages. The
+eight new SVGs have real text, no foreignObject, @font-face, local path or key (10 to 65 KB). Screenshots in
+`tmp/shots-images-012b/` of dg-ottawa-eriarvoisuus (375, light) and dg-elinajanodote (375, dark) read cleanly.
+Only the eight new SVGs are new in `site-src/img/`; no tracked picture differs; manifests appended to only.
+
+| Item | Result |
+|---|---|
+| Header illustrations and TE2 figures (run 1) | pass |
+| 6 TE3 Mermaid diagrams: labels, facts, Finnish title and description | pass |
+| dg-epidemiologinen-siirtyma (schematic) and dg-elinajanodote (StatFin 12am, CC BY 4.0) | pass |
+| Both themes, 375 px, no horizontal overflow | pass |
+| Health picture rules | pass |
+| Students look 16 to 19, no uniforms; manifest prompt matches run | **fail: il-te3-04** |
+| Build 0/0, no topic edit, no key or path, spend under $2 | pass |
+| Committed or pushed | no, as instructed |
+
+### Spend
+
+`data/images.run.yaml`, dated 2026-11-22: 51 lines at $0.005, **$0.255 recorded** (48 run 1, 2 recheck, 1 run 2),
+31 distinct pictures. Run 2 spent $0.005. Image grant total about **$0.89** of €10.
+
+### Remaining
+
+Must fix: **il-te3-04-tartuntataudit-ja-rokotukset (art).** Edit the existing entry's prompt in place, as the
+run-1 redos did: three young adults of 18 to 19, clearly adult proportions, mixed individual clothes, no matching
+sets. Run the image tool with `--only` and `--redo` for this id ($0.005). Open the result at full size and check its
+sha256 equals the newest log line.
+
+Minors: put the StatFin chart's read date and licence in its caption or the te3-10 source line; stage names on the
+transition chart's x-axis; no 2025 tick on dg-elinajanodote; two Mallivastaukset figures sit after K4, not beside K3;
+some TE3 diagrams are narrow or tall; topic 01 has a line-ending-only diff to clear before commit; topic text does
+not yet mention the new figures; duplicate run-log lines.
+
+### For the operator
+
+- TE3 now has eight clear Finnish diagrams and charts, including real life-expectancy data from Statistics Finland.
+- One picture needs a redo: the handwashing picture on the infections page shows children, not lukio students.
+- The redo costs under one cent; the brief has used about $0.26 and the image grant under $1 in total.
+- After that redo the brief can be accepted. Nothing is committed or pushed.
+
+## Final recheck
+
+| Check (il-te3-04-tartuntataudit-ja-rokotukset) | Result |
+|---|---|
+| Opened at full size: three people with adult faces, heights and builds, read as 17 to 19 | pass |
+| Individual clothes (teal hoodie, denim jacket, coral knit sweater), no uniforms or matching sets | pass |
+| No text or logos; health picture rules (007, 012): calm everyday scene, no medical items | pass |
+| Style matches il-te3-03 and il-te3-06 (flat, muted teal/sand/coral, off-white) | pass |
+| File sha256 05194a18... equals last log entry (seed 1128148116); log prompt = manifest prompt + style line | pass |
+
+Verdict after final recheck: accept-with-minors (the run-2 minors remain open; no must-fix left).
