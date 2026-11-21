@@ -1,0 +1,48 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    wrappingWidth: 420
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#e3f0ee"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2f6f6a"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f7f9fb"
+    clusterBorder: "#6b7280"
+---
+flowchart TB
+  accTitle: Mielenterveyttä suojaavat tekijät kolmella tasolla
+  accDescr: Mielenterveyttä suojaavat tekijät jaetaan kolmelle tasolle. Yksilöllisiä tekijöitä ovat tunteiden säätely, ongelmanratkaisutaidot, myönteinen käsitys itsestä, kyky pyytää apua ja merkitykselliseksi koettu tekeminen. Yhteisöllisiä tekijöitä ovat turvalliset ihmissuhteet, kuulumisen kokemus, aikuinen jolle voi puhua sekä hyväksyvä ilmapiiri koulussa ja harrastuksissa. Yhteiskunnallisia tekijöitä ovat opiskeluhuolto ja muut matalan kynnyksen palvelut, riittävä toimeentulo, turvallinen asuinympäristö, kiusaamisen ja syrjinnän ehkäisy sekä koulutus.
+
+  I["`**Yksilölliset tekijät**
+  tunteiden säätely, ongelmanratkaisutaidot,
+  myönteinen käsitys itsestä, kyky pyytää apua,
+  merkitykselliseksi koettu tekeminen`"]
+  Y["`**Yhteisölliset tekijät**
+  turvalliset ihmissuhteet, kuulumisen kokemus,
+  aikuinen, jolle voi puhua, hyväksyvä ilmapiiri
+  koulussa ja harrastuksissa`"]
+  S["`**Yhteiskunnalliset tekijät**
+  opiskeluhuolto ja muut matalan kynnyksen
+  palvelut, riittävä toimeentulo, turvallinen
+  asuinympäristö, kiusaamisen ja syrjinnän
+  ehkäisy, koulutus`"]
+  I ~~~ Y ~~~ S
+
+  classDef yks fill:#e3f0ee,stroke:#2f6f6a,color:#1a1a1a
+  classDef yht fill:#e6eef8,stroke:#3d5f8a,color:#1a1a1a
+  classDef yhk fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  class I yks
+  class Y yht
+  class S yhk

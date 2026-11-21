@@ -1,0 +1,230 @@
+# Picture plan for brief 007 (art director, 2026-11-21). Read by lukio-runko (pictures.py: build placement;
+# images.py: generation). This file holds the style line and the diagrams; data/images-illustrations.yaml holds the
+# illustrations.
+#
+# Diagrams are not drawn by an image model (D-006, brief 007 addenda). The Mermaid sources are in
+# content/diagrams/<id>.mmd and the hypnogram is the Vega-Lite spec data/charts/dg-hypnogrammi.vl.json. They are rendered
+# to site-src/img/<id>.svg before the build. `fallback: svg` tells the image tool to skip them, and `model` is kept
+# only because the schema requires it. `prompt` records where the source is.
+# Diagrams carry information: alt is the full description. expected_labels are the exact text strings of the SVG,
+# one per rendered line (a label with a line break is listed line by line). facts_from names the topic section the
+# wording comes from. Placement: the H2 section the diagram follows (the lesson view shows diagrams in one place).
+
+style: >-
+  Calm, friendly flat editorial illustration with soft simple shapes, gentle grain-free shading and clean edges.
+  Soft limited palette of muted teal, warm sand, pale sky blue, soft coral and deep slate on an off-white
+  background, in the spirit of a calm Nordic school website. Light, airy composition with generous empty space.
+  Young people of about 16 to 19 of varied genders, skin tones, body types, abilities and backgrounds, natural
+  relaxed poses, simple calm friendly faces, everyday casual clothes, no school uniforms. Fictional people only, no
+  real people, no celebrities. No scales, measuring tapes, food portions, drinks in glasses, cigarettes, vapes,
+  pills, medical equipment, hospitals, injuries or worried faces. Absolutely no text, letters, numbers, words,
+  signs, logos, brand marks or watermarks anywhere; any screens, books, papers and boards are blank or show only
+  simple abstract shapes.
+
+images:
+
+  # ---------------------------------------------------------------- diagrams (Mermaid and Vega-Lite, SVG)
+
+  - id: dg-taustatekijat
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "4:3"
+    page: te1-01-terveys-voimavarana
+    placement: Opiskelijalle
+    prompt: "Nested-ring spec data/charts/dg-taustatekijat.rings.json, drawn by tools/render_rings.py to site-src/img/dg-taustatekijat.svg."
+    alt: >-
+      Kaavio terveyden taustatekijöiden neljästä tasosta sisäkkäisinä kehinä. Sisimpänä yksilölliset tekijät:
+      perimä, ikä, elintavat, tiedot ja taidot. Niiden ympärillä yhteisölliset tekijät: perhe, ystävät, koulu,
+      harrastukset ja työpaikka. Seuraavana yhteiskunnalliset tekijät: koulutus, toimeentulo, asuminen, lait ja
+      palvelut. Uloimpana globaalit tekijät: ilmasto, ympäristö, maailmantalous, kriisit ja tartuntataudit.
+    expected_labels:
+      - "Globaalit tekijät"
+      - "ilmasto, ympäristö,"
+      - "maailmantalous,"
+      - "kriisit ja tartuntataudit"
+      - "Yhteiskunnalliset tekijät"
+      - "koulutus, toimeentulo,"
+      - "asuminen,"
+      - "lait ja palvelut"
+      - "Yhteisölliset tekijät"
+      - "perhe, ystävät, koulu,"
+      - "harrastukset"
+      - "ja työpaikka"
+      - "Yksilölliset tekijät"
+      - "perimä, ikä,"
+      - "elintavat,"
+      - "tiedot ja taidot"
+    facts_from:
+      - {topic: te1-01-terveys-voimavarana, section: "Opiskelijalle / Terveyden taustatekijät"}
+
+  - id: dg-ottawa
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "1:1"
+    page: te1-01-terveys-voimavarana
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-ottawa.mmd, rendered to site-src/img/dg-ottawa.svg."
+    alt: >-
+      Kaavio Ottawan asiakirjan (WHO 1986) viidestä terveyden edistämisen toiminta-alueesta. Vasemmalla olevasta
+      terveyden edistämisestä lähtee nuoli viiteen allekkaiseen laatikkoon: terveyttä edistävä
+      yhteiskuntapolitiikka, terveyttä tukevat ympäristöt, yhteisön toiminta, henkilökohtaiset taidot ja terveyspalvelujen suuntaaminen uudelleen.
+    expected_labels:
+      - "Terveyden"
+      - "edistäminen"
+      - "(Ottawan"
+      - "asiakirja 1986)"
+      - "Terveyttä edistävä"
+      - "yhteiskuntapolitiikka"
+      - "Terveyttä tukevat"
+      - "ympäristöt"
+      - "Yhteisön"
+      - "toiminta"
+      - "Henkilökohtaiset"
+      - "taidot"
+      - "Terveyspalvelujen"
+      - "suuntaaminen"
+      - "uudelleen"
+    facts_from:
+      - {topic: te1-01-terveys-voimavarana, section: "Opiskelijalle / Ottawan asiakirjan viisi toiminta-aluetta"}
+
+  - id: dg-itseopiskelun-askel
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "9:16"
+    page: te1-01-terveys-voimavarana
+    placement: Itseopiskelun askel
+    prompt: "Mermaid source content/diagrams/dg-itseopiskelun-askel.mmd, rendered to site-src/img/dg-itseopiskelun-askel.svg."
+    alt: >-
+      Kaavio itseopiskelun askeleesta. Nuolet etenevät järjestyksessä: lue osio Opiskelijalle, tee tehtävät,
+      harjoittele koetehtävää, tarkista mallivastauksella, pohdi ja arvioi itse, seuraava askel. Seuraavasta
+      askeleesta katkoviivanuoli palaa alkuun: seuraavassa aiheessa kierros alkaa taas lukemisesta.
+    expected_labels:
+      - "Lue osio Opiskelijalle"
+      - "Tee tehtävät"
+      - "Harjoittele koetehtävää"
+      - "Tarkista mallivastauksella"
+      - "Pohdi ja arvioi itse"
+      - "Seuraava askel"
+      - "seuraava aihe"
+    facts_from:
+      - {topic: te1-01-terveys-voimavarana, section: "Itseopiskelun askel / Näin etenet"}
+      - {topic: polku, section: "content/pages/polku.md (luet, teet, harjoittelet, tarkistat, pohdit, seuraava askel)"}
+
+  - id: dg-muutosvaihemalli
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "9:16"
+    page: te1-02-elintapamallit
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-muutosvaihemalli.mmd, rendered to site-src/img/dg-muutosvaihemalli.svg."
+    alt: >-
+      Kaavio muutosvaihemallista. Viisi vaihetta nuolin allekkain: esiharkinta, harkinta, valmistautuminen,
+      toiminta ja ylläpito. Toiminnasta ja ylläpidosta katkoviiva vie takapakkiin, ja takapakista katkoviiva palaa
+      harkintaan merkinnällä tilaisuus oppia. Takapakki kuuluu tavallisesti muutokseen, ja vaiheita voi kiertää
+      useammin kuin kerran.
+    expected_labels:
+      - "Esiharkinta"
+      - "Harkinta"
+      - "Valmistautuminen"
+      - "Toiminta"
+      - "Ylläpito"
+      - "Takapakki"
+      - "tilaisuus oppia"
+    facts_from:
+      - {topic: te1-02-elintapamallit, section: "Opiskelijalle / Muutosvaihemalli"}
+
+  - id: dg-hypnogrammi
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "5:2"
+    page: te1-05-liikunta-ja-uni
+    placement: Opiskelijalle
+    prompt: >-
+      Vega-Lite spec data/charts/dg-hypnogrammi.vl.json (self-made schematic data, no clock hours, no measurements),
+      rendered with vl-convert-python to site-src/img/dg-hypnogrammi.svg, Vega's ARIA labels off.
+    alt: >-
+      Kaaviomainen hypnogrammi, ei mittausdataa. Porrasviiva kulkee viiden unijakson läpi univaiheiden välillä:
+      valve, REM vilkeuni, N1 torke, N2 kevyt uni ja N3 syvä uni. Yö alkaa valveesta ja torkkeesta. Kahdessa
+      ensimmäisessä jaksossa syvää unta on pitkään, kolmannessa lyhyesti ja kahdessa viimeisessä ei lainkaan.
+      Vilkeunijaksot pitenevät aamua kohti, ja yö päättyy heräämiseen. Syvä uni painottuu alkuyöhön ja vilkeuni
+      loppuyöhön.
+    expected_labels:
+      - "Hypnogrammi: univaiheet yön mittaan"
+      - "Kaaviomainen esimerkki, ei mittausdataa"
+      - "Univaihe"
+      - "Valve"
+      - "REM vilkeuni"
+      - "N1 torke"
+      - "N2 kevyt uni"
+      - "N3 syvä uni"
+      - "Yön kulku, viisi unijaksoa"
+      - "alku"
+      - "loppu"
+    facts_from:
+      - {topic: te1-05-liikunta-ja-uni, section: "Opiskelijalle / Uni ja unen vaiheet (taulukko; syvä uni alkuyöhön, vilkeuni loppuyöhön)"}
+
+  - id: dg-suojaavat-tekijat
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "4:5"
+    page: te1-08-mielenterveys
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-suojaavat-tekijat.mmd, rendered to site-src/img/dg-suojaavat-tekijat.svg."
+    alt: >-
+      Kaavio mielenterveyttä suojaavista tekijöistä kolmena allekkaisena laatikkona, yksi kullekin tasolle. Yksilölliset tekijät: tunteiden säätely,
+      ongelmanratkaisutaidot, myönteinen käsitys itsestä, kyky pyytää apua ja merkitykselliseksi koettu tekeminen.
+      Yhteisölliset tekijät: turvalliset ihmissuhteet, kuulumisen kokemus, aikuinen, jolle voi puhua, ja hyväksyvä
+      ilmapiiri koulussa ja harrastuksissa. Yhteiskunnalliset tekijät: opiskeluhuolto ja muut matalan kynnyksen
+      palvelut, riittävä toimeentulo, turvallinen asuinympäristö, kiusaamisen ja syrjinnän ehkäisy sekä koulutus.
+    expected_labels:
+      - "Yksilölliset tekijät"
+      - "tunteiden säätely, ongelmanratkaisutaidot,"
+      - "myönteinen käsitys itsestä, kyky pyytää apua,"
+      - "merkitykselliseksi koettu tekeminen"
+      - "Yhteisölliset tekijät"
+      - "turvalliset ihmissuhteet, kuulumisen kokemus,"
+      - "aikuinen, jolle voi puhua, hyväksyvä ilmapiiri"
+      - "koulussa ja harrastuksissa"
+      - "Yhteiskunnalliset tekijät"
+      - "opiskeluhuolto ja muut matalan kynnyksen"
+      - "palvelut, riittävä toimeentulo, turvallinen"
+      - "asuinympäristö, kiusaamisen ja syrjinnän"
+      - "ehkäisy, koulutus"
+    facts_from:
+      - {topic: te1-08-mielenterveys, section: "Opiskelijalle / Suojaavat tekijät"}
+
+  - id: dg-stressiketju
+    kind: diagram
+    model: nano-banana
+    fallback: svg
+    aspect: "9:16"
+    page: te1-09-stressi-ja-kriisit
+    placement: Opiskelijalle
+    prompt: "Mermaid source content/diagrams/dg-stressiketju.mmd, rendered to site-src/img/dg-stressiketju.svg."
+    alt: >-
+      Kaavio siitä, miten kuormitus kasautuu. Ketju etenee: vaatimukset, arvio vaatimuksista ja voimavaroista,
+      stressireaktio. Stressireaktiosta on kaksi polkua. Jos palautumista tulee, seuraa palautuminen. Jos
+      palautumista ei tule, kuormitus jatkuu, väsymys kasvaa ja keskittyminen ja mieliala heikkenevät. Lopussa
+      muistutus: nämä ovat tavallisia reaktioita, ja niihin on apua.
+    expected_labels:
+      - "Vaatimukset"
+      - "Arvio: vaatimukset"
+      - "ja voimavarat"
+      - "Stressireaktio"
+      - "palautumista tulee"
+      - "Palautuminen"
+      - "palautumista ei tule"
+      - "Kuormitus jatkuu"
+      - "Väsymys kasvaa,"
+      - "keskittyminen ja"
+      - "mieliala heikkenevät"
+      - "Tavallisia reaktioita,"
+      - "ja niihin on apua"
+    facts_from:
+      - {topic: te1-09-stressi-ja-kriisit, section: "Opiskelijalle / Miten kuormitus kasautuu?"}

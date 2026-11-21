@@ -1,0 +1,43 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+    rankSpacing: 28
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#e3f0ee"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2f6f6a"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f7f9fb"
+    clusterBorder: "#6b7280"
+---
+flowchart LR
+  accTitle: Ottawan asiakirjan viisi toiminta-aluetta
+  accDescr: WHO:n Ottawan asiakirjassa vuodelta 1986 terveyden edistämisellä on viisi toiminta-aluetta. Terveyttä edistävä yhteiskuntapolitiikka tarkoittaa, että päättäjät arvioivat päätösten terveysvaikutukset. Terveyttä tukevat ympäristöt tarkoittaa, että koulu, työ ja asuinalue tukevat terveyttä. Yhteisön toiminta tarkoittaa, että asukkaat ja järjestöt toimivat yhdessä. Henkilökohtaiset taidot tarkoittaa, että ihminen osaa hakea tietoa ja toimia terveytensä hyväksi. Terveyspalvelujen suuntaaminen uudelleen tarkoittaa, että palvelut painottavat edistämistä ja ehkäisyä.
+
+  T(["Terveyden<br/>edistäminen<br/>(Ottawan<br/>asiakirja 1986)"])
+  A["Terveyttä edistävä<br/>yhteiskuntapolitiikka"]
+  B["Terveyttä tukevat<br/>ympäristöt"]
+  C["Yhteisön<br/>toiminta"]
+  D["Henkilökohtaiset<br/>taidot"]
+  E["Terveyspalvelujen<br/>suuntaaminen<br/>uudelleen"]
+  T --> A
+  T --> B
+  T --> C
+  T --> D
+  T --> E
+
+  classDef keski fill:#2f6f6a,stroke:#1f4f4b,color:#ffffff
+  classDef alue fill:#e3f0ee,stroke:#2f6f6a,color:#1a1a1a
+  class T keski
+  class A,B,C,D,E alue

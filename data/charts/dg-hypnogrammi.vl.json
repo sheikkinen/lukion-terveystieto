@@ -1,0 +1,217 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "description": "Kaaviomainen hypnogrammi itse laaditulla esimerkkiaineistolla: univaiheet viiden unijakson aikana. Ei mittausdataa eikä kellonaikoja.",
+  "title": {
+    "text": "Hypnogrammi: univaiheet yön mittaan",
+    "subtitle": "Kaaviomainen esimerkki, ei mittausdataa",
+    "anchor": "start"
+  },
+  "width": 240,
+  "height": 380,
+  "background": "#ffffff",
+  "padding": 10,
+  "data": {
+    "values": [
+      {
+        "jakso": 0,
+        "vaihe": "Valve",
+        "jarjestys": 0
+      },
+      {
+        "jakso": 0.06,
+        "vaihe": "N1 torke",
+        "jarjestys": 1
+      },
+      {
+        "jakso": 0.14,
+        "vaihe": "N2 kevyt uni",
+        "jarjestys": 2
+      },
+      {
+        "jakso": 0.32,
+        "vaihe": "N3 syvä uni",
+        "jarjestys": 3
+      },
+      {
+        "jakso": 0.72,
+        "vaihe": "N2 kevyt uni",
+        "jarjestys": 4
+      },
+      {
+        "jakso": 0.88,
+        "vaihe": "REM vilkeuni",
+        "jarjestys": 5
+      },
+      {
+        "jakso": 1.0,
+        "vaihe": "N2 kevyt uni",
+        "jarjestys": 6
+      },
+      {
+        "jakso": 1.25,
+        "vaihe": "N3 syvä uni",
+        "jarjestys": 7
+      },
+      {
+        "jakso": 1.58,
+        "vaihe": "N2 kevyt uni",
+        "jarjestys": 8
+      },
+      {
+        "jakso": 1.76,
+        "vaihe": "REM vilkeuni",
+        "jarjestys": 9
+      },
+      {
+        "jakso": 2.0,
+        "vaihe": "N2 kevyt uni",
+        "jarjestys": 10
+      },
+      {
+        "jakso": 2.3,
+        "vaihe": "N3 syvä uni",
+        "jarjestys": 11
+      },
+      {
+        "jakso": 2.45,
+        "vaihe": "N2 kevyt uni",
+        "jarjestys": 12
+      },
+      {
+        "jakso": 2.62,
+        "vaihe": "REM vilkeuni",
+        "jarjestys": 13
+      },
+      {
+        "jakso": 3.0,
+        "vaihe": "N2 kevyt uni",
+        "jarjestys": 14
+      },
+      {
+        "jakso": 3.48,
+        "vaihe": "REM vilkeuni",
+        "jarjestys": 15
+      },
+      {
+        "jakso": 4.0,
+        "vaihe": "N1 torke",
+        "jarjestys": 16
+      },
+      {
+        "jakso": 4.06,
+        "vaihe": "N2 kevyt uni",
+        "jarjestys": 17
+      },
+      {
+        "jakso": 4.38,
+        "vaihe": "REM vilkeuni",
+        "jarjestys": 18
+      },
+      {
+        "jakso": 4.94,
+        "vaihe": "Valve",
+        "jarjestys": 19
+      },
+      {
+        "jakso": 5.0,
+        "vaihe": "Valve",
+        "jarjestys": 20
+      }
+    ]
+  },
+  "mark": {
+    "type": "line",
+    "interpolate": "step-after",
+    "strokeWidth": 3,
+    "color": "#2f6f6a",
+    "aria": false
+  },
+  "encoding": {
+    "x": {
+      "field": "jakso",
+      "type": "quantitative",
+      "scale": {
+        "domain": [
+          0,
+          5
+        ],
+        "nice": false
+      },
+      "axis": {
+        "title": "Yön kulku, viisi unijaksoa",
+        "values": [
+          0,
+          5
+        ],
+        "grid": true,
+        "aria": false,
+        "labelExpr": "datum.value == 0 ? 'alku' : 'loppu'"
+      }
+    },
+    "y": {
+      "field": "vaihe",
+      "type": "nominal",
+      "sort": [
+        "Valve",
+        "REM vilkeuni",
+        "N1 torke",
+        "N2 kevyt uni",
+        "N3 syvä uni"
+      ],
+      "scale": {
+        "domain": [
+          "Valve",
+          "REM vilkeuni",
+          "N1 torke",
+          "N2 kevyt uni",
+          "N3 syvä uni"
+        ]
+      },
+      "axis": {
+        "title": "Univaihe",
+        "grid": true,
+        "aria": false
+      }
+    },
+    "order": {
+      "field": "jarjestys",
+      "type": "quantitative"
+    }
+  },
+  "config": {
+    "aria": false,
+    "font": "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif",
+    "locale": {
+      "number": {
+        "decimal": ",",
+        "thousands": " ",
+        "grouping": [
+          3
+        ],
+        "currency": [
+          "",
+          " €"
+        ]
+      }
+    },
+    "axis": {
+      "labelColor": "#1a1a1a",
+      "titleColor": "#1a1a1a",
+      "labelFontSize": 15,
+      "titleFontSize": 15,
+      "gridColor": "#d5dbe3",
+      "domainColor": "#6b7280",
+      "tickColor": "#6b7280",
+      "labelLimit": 140
+    },
+    "title": {
+      "color": "#1a1a1a",
+      "subtitleColor": "#4a4f57",
+      "fontSize": 17,
+      "subtitleFontSize": 15
+    },
+    "view": {
+      "stroke": null
+    }
+  }
+}

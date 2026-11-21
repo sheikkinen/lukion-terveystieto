@@ -1,0 +1,38 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#e3f0ee"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2f6f6a"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f7f9fb"
+    clusterBorder: "#6b7280"
+---
+flowchart TB
+  accTitle: Miten kuormitus kasautuu
+  accDescr: Kuormitus etenee ketjuna. Ensin tulevat vaatimukset. Ihminen arvioi vaatimukset ja omat voimavaransa. Jos vaatimukset tuntuvat suuremmilta kuin voimavarat, käynnistyy stressireaktio. Sen jälkeen seuraa joko palautuminen tai kuormituksen jatkuminen. Jos palautumista ei tule, väsymys kasvaa, ja keskittyminen ja mieliala heikkenevät. Nämä ovat tavallisia reaktioita, ja niihin on apua.
+
+  V["Vaatimukset"] --> A["Arvio: vaatimukset<br/>ja voimavarat"] --> S["Stressireaktio"]
+  S -->|"palautumista tulee"| P["Palautuminen"]
+  S -->|"palautumista ei tule"| K["Kuormitus jatkuu"]
+  K --> W["Väsymys kasvaa,<br/>keskittyminen ja<br/>mieliala heikkenevät"]
+  W -.-> H(["Tavallisia reaktioita,<br/>ja niihin on apua"])
+
+  classDef askel fill:#e6eef8,stroke:#3d5f8a,color:#1a1a1a
+  classDef palautuminen fill:#e3f0ee,stroke:#2f6f6a,color:#1a1a1a
+  classDef kuorma fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  class V,A,S askel
+  class P,H palautuminen
+  class K,W kuorma

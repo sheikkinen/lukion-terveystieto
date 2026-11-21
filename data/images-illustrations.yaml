@@ -1,0 +1,194 @@
+# Illustrations for brief 007 (art director, 2026-11-21): p-image on Replicate, one calm header picture per page.
+# Read together with data/images.yaml (which holds the style line, added after every prompt below, and the
+# diagrams) by lukio-runko. The illustrations are decorative page headers: decorative: true makes the build render
+# alt=""; the alt text is kept for the checker and the record.
+# Health picture rules (brief 007): no bodies for comparison, no weighing, scales or measuring tapes; no food portions
+# or diet imagery; no alcohol, tobacco, nicotine products, drugs or paraphernalia; no injuries, blood, medical
+# procedures or hospital scenes; no distressed faces, only calm and supportive scenes; varied genders, backgrounds,
+# bodies and abilities without stereotypes; no text, logos or real people.
+
+images:
+
+  # ---------------------------------------------------------------- illustrations (p-image), page headers
+
+  - id: il-front
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: front
+    placement: header
+    decorative: true
+    prompt: >-
+      A wide sunny school courtyard in late spring with birch trees and a lawn, where several upper secondary
+      students spend a relaxed break: two talk on a bench, one in a wheelchair laughs with a friend, a small group
+      sits on the grass in a loose circle, one rides a bicycle along the path. A sense of everyday wellbeing,
+      fresh air and friendship, open sky above.
+    alt: >-
+      Opiskelijoita viettää välituntia koivujen reunustamalla koulun pihalla: osa istuu penkillä ja nurmella,
+      yksi pyöräilee.
+
+  - id: il-te1
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te1
+    placement: header
+    decorative: true
+    prompt: >-
+      A calm wide Finnish park landscape with a gentle lake and a winding path, where different young people each
+      do something everyday that supports wellbeing: two friends walk and talk, one reads under a tree, one uses a
+      wheelchair along the path with a friend, a small group chats on the grass, one rests lying on a blanket
+      looking at the sky. Soft morning light, many small figures, lots of open space.
+    alt: >-
+      Nuoria puistossa järven rannalla: osa kävelee ja juttelee, yksi lukee puun alla ja yksi lepää viltillä.
+
+  - id: il-te1-01-terveys-voimavarana
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te1-01-terveys-voimavarana
+    placement: header
+    decorative: true
+    prompt: >-
+      Three upper secondary students sit together on a sunny hillside above a small town with houses, a school, a
+      library and green trees, looking out at the view; one points towards the town while the others smile and
+      listen. Soft rings of light seem to spread gently from the group outward over the landscape, suggesting
+      that a person, their community and their surroundings are connected.
+    alt: >-
+      Kolme opiskelijaa istuu rinteellä ja katsoo pientä kaupunkia, jossa on koti, koulu, kirjasto ja puita.
+
+  - id: il-te1-02-elintapamallit
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te1-02-elintapamallit
+    placement: header
+    decorative: true
+    prompt: >-
+      A young person stands calmly at a fork in a park path in early autumn, thinking, while a friend beside them
+      gestures encouragingly; one path leads to a bicycle rack, the other to a park bench where two friends wave.
+      Small stepping stones lead forward along the path, suggesting change happening step by step. Relaxed,
+      thoughtful mood.
+    alt: >-
+      Nuori seisoo puiston polun haarassa miettimässä, ja ystävä hänen vierellään rohkaisee.
+
+  - id: il-te1-03-terveyskulttuuri
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te1-03-terveyskulttuuri
+    placement: header
+    decorative: true
+    prompt: >-
+      Four upper secondary students sit around a round wooden library table having a friendly, thoughtful
+      discussion: two closed books with plain covers lie on the otherwise empty table, one student gestures with
+      an open hand while explaining, the others listen, one with a hand on the chin. Tall shelves of books
+      with plain coloured spines and no lettering behind them, a large window with green trees outside. A curious
+      and critical but friendly mood. No whiteboard, no blackboard, no posters, no loose papers, no open books,
+      no tablets, no screens.
+    alt: >-
+      Neljä opiskelijaa keskustelee kirjaston pyöreän pöydän ääressä, taustalla kirjahyllyjä ja ikkuna.
+
+  - id: il-te1-04-ravinto
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te1-04-ravinto
+    placement: header
+    decorative: true
+    prompt: >-
+      Three young people walk together along a wide sandy path in a lakeside park on a calm late-summer
+      afternoon, talking and smiling; a fourth sits on a wooden park bench by the path and waves to them. Soft
+      round trees, a smooth grassy slope and a calm lake behind. Relaxed, everyday mood. No food, no drinks, no
+      bags, no picnic.
+    alt: >-
+      Kaksi nuorta kävelee järvenrantapuiston hiekkapolulla, ja penkillä istuvista kahdesta nuoresta toinen vilkuttaa heille.
+
+  - id: il-te1-05-liikunta-ja-uni
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te1-05-liikunta-ja-uni
+    placement: header
+    decorative: true
+    prompt: >-
+      A gentle landscape that shifts from late afternoon on the left to a calm evening on the right. On the left,
+      young people move in everyday ways: one cycles, two walk a forest path, one in a wheelchair rolls along the
+      lakeside. On the right, a quiet wooden house with one softly lit window under a deep blue sky with a crescent
+      moon and stars, suggesting rest and sleep. Peaceful and unhurried.
+    alt: >-
+      Maisema, jossa vasemmalla nuoret pyöräilevät ja kulkevat polulla ja oikealla rauhallinen talo kuun alla.
+
+  - id: il-te1-06-seksuaaliterveys
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te1-06-seksuaaliterveys
+    placement: header
+    decorative: true
+    prompt: >-
+      A warm, respectful scene in a sunny park: several young people of different genders, backgrounds and body
+      types sit and talk in small groups on a lawn under trees; two sit side by side on a bench in relaxed
+      conversation, fully clothed in casual clothes, at a comfortable distance. Feelings of trust, friendship and
+      being comfortable with oneself, soft pastel light.
+    alt: >-
+      Erilaisia nuoria istuu ja juttelee puistossa nurmella ja penkillä luottavaisessa tunnelmassa.
+
+  - id: il-te1-07-seksuaalioikeudet
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te1-07-seksuaalioikeudet
+    placement: header
+    decorative: true
+    prompt: >-
+      A diverse group of six upper secondary students sits in a circle of chairs in a bright classroom with plants
+      and large windows, having a respectful discussion: one speaks with an open hand gesture, the others listen
+      attentively and kindly, one nods. Varied genders, skin tones, body types and one student using a wheelchair,
+      all treated as equals. A safe, open and respectful atmosphere.
+    alt: >-
+      Kuusi erilaista opiskelijaa keskustelee piirissä valoisassa luokassa, ja muut kuuntelevat puhujaa.
+
+  - id: il-te1-08-mielenterveys
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te1-08-mielenterveys
+    placement: header
+    decorative: true
+    prompt: >-
+      Two friends sit side by side on a wooden jetty by a calm Finnish lake on a soft summer evening, feet over the
+      water, one talking and the other listening with a calm, supportive expression; pine trees on the far shore,
+      gentle reflections on the water. A peaceful, safe and caring mood.
+    alt: >-
+      Kaksi ystävää istuu laiturilla tyynen järven rannalla, ja toinen kuuntelee toista rauhallisesti.
+
+  - id: il-te1-09-stressi-ja-kriisit
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te1-09-stressi-ja-kriisit
+    placement: header
+    decorative: true
+    prompt: >-
+      A student has stepped away from a desk with neatly stacked blank books and stretches calmly by an open
+      window, looking out at green trees and soft clouds with a relaxed face; a houseplant on the windowsill, a
+      friend waves from the doorway inviting them for a walk. A sense of taking a break and recovering, light and
+      airy.
+    alt: >-
+      Opiskelija pitää taukoa ja venyttelee avoimen ikkunan ääressä, ja ystävä kutsuu hänet kävelylle.
+
+  - id: il-te1-10-opiskeluhyvinvointi
+    kind: illustration
+    model: p-image
+    aspect: "16:9"
+    page: te1-10-opiskeluhyvinvointi
+    placement: header
+    decorative: true
+    prompt: >-
+      A calm, light school study space with large windows and plants: a few students study at a long table, one
+      explains something to another using a blank notebook, one works quietly with headphones resting around the
+      neck, and a friendly teacher stands nearby ready to help. Soft daylight, an atmosphere of focus, support and
+      good balance.
+    alt: >-
+      Opiskelijat opiskelevat valoisassa opiskelutilassa, ja opettaja on lähellä valmiina auttamaan.

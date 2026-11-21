@@ -1,0 +1,46 @@
+{
+  "title": "Terveyden taustatekijöiden neljä tasoa",
+  "desc": "Sisäkkäiset kehät, joissa keskellä on yksilö. Yksilöllisiä tekijöitä ovat perimä, ikä, elintavat, tiedot ja taidot. Niitä ympäröivät yhteisölliset tekijät eli perhe, ystävät, koulu, harrastukset ja työpaikka. Seuraavana ovat yhteiskunnalliset tekijät eli koulutus, toimeentulo, asuminen, lait ja palvelut. Uloimpana ovat globaalit tekijät eli ilmasto, ympäristö, maailmantalous, kriisit ja tartuntataudit. Sama tekijä voi suojata tai kuormittaa.",
+  "levels": [
+    {
+      "title": "Globaalit tekijät",
+      "lines": [
+        "ilmasto, ympäristö,",
+        "maailmantalous,",
+        "kriisit ja tartuntataudit"
+      ],
+      "fill": "#fbf3f0",
+      "stroke": "#9a5a4a"
+    },
+    {
+      "title": "Yhteiskunnalliset tekijät",
+      "lines": [
+        "koulutus, toimeentulo,",
+        "asuminen,",
+        "lait ja palvelut"
+      ],
+      "fill": "#faf6ee",
+      "stroke": "#8a6a3d"
+    },
+    {
+      "title": "Yhteisölliset tekijät",
+      "lines": [
+        "perhe, ystävät, koulu,",
+        "harrastukset",
+        "ja työpaikka"
+      ],
+      "fill": "#f3f6fb",
+      "stroke": "#3d5f8a"
+    },
+    {
+      "title": "Yksilölliset tekijät",
+      "lines": [
+        "perimä, ikä,",
+        "elintavat,",
+        "tiedot ja taidot"
+      ],
+      "fill": "#e3f0ee",
+      "stroke": "#2f6f6a"
+    }
+  ]
+}

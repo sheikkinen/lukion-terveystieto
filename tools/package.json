@@ -1,0 +1,8 @@
+{
+  "name": "lukion-terveystieto-tools",
+  "private": true,
+  "description": "Pinned diagram toolchain for tools/render_diagrams.py",
+  "dependencies": {
+    "@mermaid-js/mermaid-cli": "12.2.0"
+  }
+}

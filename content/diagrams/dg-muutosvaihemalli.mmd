@@ -1,0 +1,35 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#e3f0ee"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2f6f6a"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f7f9fb"
+    clusterBorder: "#6b7280"
+---
+flowchart TB
+  accTitle: Muutosvaihemallin vaiheet
+  accDescr: Muutosvaihemallissa muutos etenee viiden vaiheen kautta: esiharkinta, harkinta, valmistautuminen, toiminta ja ylläpito. Toiminnan tai ylläpidon aikana voi tulla takapakki eli retkahdus. Se kuuluu tavallisesti prosessiin ja on tilaisuus oppia, ja vaiheita kierretään uudelleen. Moni kiertää vaiheita useammin kuin kerran.
+
+  A["Esiharkinta"] --> B["Harkinta"] --> C["Valmistautuminen"] --> D["Toiminta"] --> E["Ylläpito"]
+  D -.-> R(["Takapakki"])
+  E -.-> R
+  R -.->|"tilaisuus oppia"| B
+
+  classDef vaihe fill:#e3f0ee,stroke:#2f6f6a,color:#1a1a1a
+  classDef takapakki fill:#f5ecdc,stroke:#8a6a3d,color:#1a1a1a
+  class A,B,C,D,E vaihe
+  class R takapakki

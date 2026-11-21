@@ -12,3 +12,4 @@ data/raw/
 *.log
 _site/
 !.claude/workflows/
+tools/node_modules

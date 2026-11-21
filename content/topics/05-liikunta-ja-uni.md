@@ -130,7 +130,7 @@ Liikkuminen on kaikkea, missä keho on liikkeessä: urheilua, koulumatkoja, rapp
 
 Unen aikana keho ja aivot palautuvat. **Vuorokausirytmi** on elimistön sisäinen kello, joka ohjaa vireyttä, ja se on eri ihmisillä erilainen. Unen tarve vaihtelee, eikä sivusto anna tuntimääriä.
 
-Yö koostuu toistuvista jaksoista, joissa perusuni (NREM) ja vilkeuni (REM) vuorottelevat. **Hypnogrammi** on kuvaaja, joka näyttää univaiheet yön mittaan.
+Yö koostuu toistuvista jaksoista, joissa perusuni (NREM) ja vilkeuni (REM) vuorottelevat. **Hypnogrammi** on kuvaaja, joka näyttää univaiheet yön mittaan. Osion lopun hypnogrammi on kaaviomainen esimerkki, ei mitattu yö; alla univaiheet jakson kulun mukaisessa järjestyksessä.
 
 | Vaihe | Mitä tapahtuu | Tehtävä |
 |---|---|---|

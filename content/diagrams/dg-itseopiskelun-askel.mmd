@@ -1,0 +1,33 @@
+---
+config:
+  htmlLabels: false
+  layout: dagre
+  theme: base
+  fontFamily: "system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif"
+  flowchart:
+    curve: basis
+    padding: 12
+  themeVariables:
+    fontSize: "16px"
+    primaryColor: "#e3f0ee"
+    primaryTextColor: "#1a1a1a"
+    primaryBorderColor: "#2f6f6a"
+    secondaryColor: "#f5ecdc"
+    tertiaryColor: "#e6eef8"
+    lineColor: "#6b7280"
+    textColor: "#1a1a1a"
+    edgeLabelBackground: "#ffffff"
+    clusterBkg: "#f7f9fb"
+    clusterBorder: "#6b7280"
+---
+flowchart TB
+  accTitle: Itseopiskelun askel
+  accDescr: Jokainen aihe etenee samalla tavalla. Ensin luetaan osio Opiskelijalle. Sitten tehdään tehtävät. Sen jälkeen harjoitellaan koetehtävää ja tarkistetaan vastaus mallivastauksella. Lopuksi pohditaan ja tehdään itsearviointi. Seuraava askel vie seuraavaan aiheeseen, jossa kierros alkaa taas lukemisesta.
+
+  L["Lue osio Opiskelijalle"] --> T["Tee tehtävät"] --> H["Harjoittele koetehtävää"] --> M["Tarkista mallivastauksella"] --> P["Pohdi ja arvioi itse"] --> S(["Seuraava askel"])
+  S -.->|"seuraava aihe"| L
+
+  classDef askel fill:#e3f0ee,stroke:#2f6f6a,color:#1a1a1a
+  classDef seuraava fill:#2f6f6a,stroke:#1f4f4b,color:#ffffff
+  class L,T,H,M,P askel
+  class S seuraava
