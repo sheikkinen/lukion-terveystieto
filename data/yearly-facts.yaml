@@ -1,0 +1,100 @@
+# status: ei-luettu = lähdesivua ei ole luettu, read on null. Muuttuvat terveystiedot: vakaa sääntö omin sanoin ja linkki virallisen lähteen sivulle. Lukuja ei kopioida.
+checked: '2026-11-21'
+facts:
+- key: ravitsemussuositus
+  rule: Suomessa on kansalliset ravitsemussuositukset, jotka perustuvat pohjoismaisiin suosituksiin. Sivusto ei
+    toista määriä vaan linkittää suosituksen.
+  url: https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravitsemus--ja-ruokasuositukset/
+  publisher: Ruokavirasto
+  read: '2026-11-21'
+  note: Sivu päivitetty 16.1.2026; nimeää suosituksen 'Kestävää terveyttä ruoasta 2024' (NNR2023). Luettu.
+- key: liikkumissuositus
+  rule: Lapsille ja nuorille (7-17-vuotiaat) on UKK-instituutin liikkumissuositus. Sivusto ei kirjoita minuutteja
+    vaan linkittää suosituksen.
+  url: https://ukkinstituutti.fi/liikkuminen/liikkumisen-suositukset/lasten-ja-nuorten-liikkumissuositus/
+  publisher: UKK-instituutti
+  read: '2026-11-21'
+  note: Nuorten sivu (7-17 v) -- suositus julkaistu 2021, sivu päivitetty 30.6.2026 (yleissivu päivitetty 31.1.2025); vanha
+    osoite /liikkumisensuositus/ ohjaa uuteen.
+- key: unisuositus
+  rule: Unen tarve vaihtelee yksilöllisesti ja vähenee iän myötä lapsuudesta lähtien. Sivusto ei esitä tuntimääriä vaan linkittää
+    sivun, koska virallista suomalaista suositusta ei löytynyt.
+  url: https://www.mielenterveystalo.fi/fi/omahoito/nuorten-univaikeuksien-omahoito-ohjelma/kuinka-paljon-unta-tarvitaan
+  publisher: Mielenterveystalo.fi (HUS)
+  read: '2026-11-21'
+  note: 'TILA: ei virallista suositusta. Mielenterveystalon sivu luettu 2026-11-21: se antaa nuorille noin 8-10 tunnin ohjeen,
+    mutta päiväystä ei näy; muiden lähteiden tuntiluvut ovat ristiriitaisia. Terveydenhuollon ammattilaisen tarkistettava ennen tuntilukuja.'
+- key: alkoholilaki
+  rule: Alkoholin ostamiselle ja hallussapidolle on lakiin perustuvat ikärajat. Sivusto ei toista ikärajoja eikä prosenttirajoja ennen kuin Finlexin ajantasainen teksti on luettu; alkoholilakia uudistetaan. Tarkista voimassa oleva teksti Finlexistä.
+  url: https://www.finlex.fi/fi/lainsaadanto/2017/1102
+  publisher: Finlex (alkoholilaki 1102/2017)
+  read: null
+  status: ei-luettu
+  note: Finlex-sivu aukeaa, mutta pykälätekstiä ei saatu luettua (sivu katkesi). Ikärajat luettu vain hakutuloksen
+    tiivistelmästä Alkon ohjeesta (Alkon sivu palautti 403). Alkoholilakia uudistettu 2025-2026 (STM tiedote 25.6.2026),
+    ikärajojen muutosta ei vahvistettu. Tarkistettava.
+- key: tupakkalaki
+  rule: Tupakka- ja nikotiinituotteiden myynti alle 18-vuotiaille on kielletty. Tupakkalakia on uudistettu vaiheittain
+    1.8.2025 alkaen, joten tarkista ajantasainen laki.
+  url: https://www.finlex.fi/fi/lainsaadanto/2016/549
+  publisher: Finlex (tupakkalaki 549/2016)
+  read: null
+  status: ei-luettu
+  note: 'Finlex-sivu aukeaa, pykälätekstiä ei luettu. Alaikäisille myynnin kielto jatkuu: valtioneuvoston tiedote
+    27.5.2025 (luettu). Nikotiinipussien hallussapitokiellosta alaikäisille ei saatu vahvistusta: väite ''hallussapitokielto''
+    on edelleen [M], ei sivustolle.'
+- key: huumausainelaki
+  rule: Huumausaineiden käyttö, hallussapito ja myynti ovat Suomessa rangaistavia. Aihe kuuluu TE2:een; TE1 vain
+    viittaa.
+  url: https://www.finlex.fi/fi/lainsaadanto/2008/373
+  publisher: Finlex (huumausainelaki 373/2008)
+  read: null
+  status: ei-luettu
+  note: EI LUETTU. Osoite on kriitikon tiedossa oleva laki; sivua ei avattu tässä ajossa (TE2-aihe).
+- key: opiskeluterveydenhuolto
+  rule: Toisen asteen opiskelijalla on oikeus opiskeluterveydenhuollon palveluihin, jotka tukevat terveyttä, hyvinvointia
+    ja opiskelukykyä. Omissa oireissa ota yhteys opiskeluterveydenhuoltoon, lääkäriin tai hätätilanteessa 112:een.
+  url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
+  publisher: Terveyden ja hyvinvoinnin laitos (THL)
+  read: '2026-11-21'
+  note: 'Sivu päivitetty 11.11.2026 (luettu): opiskeluterveydenhuoltoon kuuluvat perusterveydenhuolto, mielenterveys-
+    ja päihdetyö, seksuaaliterveyspalvelut ja suun terveydenhuolto; uudistus 2026, terveystarkastus yhdistyy asevelvollisten
+    kutsuntatarkastukseen 2027 alusta. Terveydenhuoltolain 17 §:ää ei luettu (Finlex-sivu katkesi); palveluiden
+    saatavuus vaihtelee alueittain.'
+- key: terveyskysely_opiskeluterveydenhuolto
+  rule: Syksystä 2026 kaikki toisen asteen opiskelijat täyttävät opiskeluterveydenhuollon digitaalisen terveyskyselyn
+    opintojen alussa. Sen perusteella arvioidaan terveystarkastuksen tarve.
+  url: https://www.oph.fi/fi/uutiset/2026/digitaalinen-terveyskysely-kayttoon-kaikille-toisen-asteen-opiskelijoille
+  publisher: Opetushallitus
+  read: '2026-11-21'
+  note: 'Uutinen 28.4.2026 (luettu): kaksi versiota, alaikäiset ja 19 vuotta täyttäneet; toteuttaa opiskeluterveydenhuolto.'
+- key: kriisipuhelimet
+  rule: Kriisipuhelin 09 2525 0111 päivystää ympäri vuorokauden suomeksi ja ruotsiksi, nimettömänä. Hätätilanteessa
+    soita 112.
+  url: https://mieli.fi/tukea-ja-apua/kriisipuhelin/
+  publisher: MIELI Suomen Mielenterveys ry
+  read: '2026-11-21'
+  note: Luettu; sivu muokattu 21.10.2026. Puhelun hinta on operaattorin hinnan mukainen. Sekasin-chat (12-29-vuotiaat)
+    osoitteessa https://sekasin.fi/ avattu (200), aukioloaikoja ei luettu.
+- key: syomishairio_apu
+  rule: Syömishäiriöihin saa tukea Syömishäiriöliitto-SYLIn palveluista (chat, vertaistuki) sekä opiskeluterveydenhuollosta.
+  url: https://syomishairioliitto.fi/tukea/tukea-sairastuneelle
+  publisher: Syömishäiriöliitto-SYLI ry
+  read: '2026-11-21'
+  note: Sivu avattu (200); palvelut ja aikataulut vain hakutuloksen tiivistelmänä (chatin suositusikäraja 15+).
+    Aikatauluja ei kirjoiteta sivustolle, vain linkki.
+- key: seksuaaliterveyspalvelut
+  rule: Seksuaaliterveyden palveluita saa opiskeluterveydenhuollosta ja terveysasemilta. Tietoa ja neuvontaa antavat
+    järjestöt, esimerkiksi Väestöliitto ja Sexpo.
+  url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
+  publisher: Terveyden ja hyvinvoinnin laitos (THL)
+  read: '2026-11-21'
+    sisältöä ei luettu. Ehkäisypalvelun maksuttomuus ja ikärajat vaihtelevat alueittain: ei kirjoiteta, vain linkki.'
+- key: kouluterveyskysely
+  rule: THL toteuttaa Kouluterveyskyselyn parittomina vuosina keväällä; lukion 1. ja 2. vuoden opiskelijat vastaavat
+    kyselyyn. Tulokset linkitetään, lukuja ei kopioida.
+  url: https://thl.fi/tutkimus/hankkeet/kouluterveyskysely
+  publisher: Terveyden ja hyvinvoinnin laitos (THL)
+  read: '2026-11-21'
+  note: Sivu luettu, merkitty päivitetyksi 6.11.2026; seuraava lukion keruu 2027 maalis-huhtikuussa. Tulossivu https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi.
+    Vanha osoite thl.fi/kouluterveyskysely/tulokset ei auennut curlilla, koska kaikki thl.fi-osoitteet antavat curlilla TLS-virheen mutta aukeavat haulla, joten kyse oli työkalusta, ei kuolleesta linkistä.
