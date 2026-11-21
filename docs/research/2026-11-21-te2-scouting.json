@@ -1,0 +1,885 @@
+{
+ "research": [
+  {
+   "key": "curriculum",
+   "summary": "TE2 'Terveys ja ympäristö' (2 op, valtakunnallinen valinnainen) is verified in two sources: data/curriculum.yaml and the ePerusteet record (peruste 6828810, module 6834848). Both give the same description, t1-t5 and s1-s8 in three groups (tiedon hankinta; ympäristön terveellisyys ja turvallisuus; mielihyvä ja riippuvuus). The OPH support material has only a short TE2 section, a PDF of about 200 KB with no separate page. TE1 explicitly defers source comparison to TE2, and there are overlaps with TE1.s3, s5 and s7 and with TE3.s5, s6 and s10 that need an explicit boundary.",
+   "findings": [
+    {
+     "claim": "ePerusteet module 6834848 has code TE2 (koodi moduulikoodistolops2021_te2), name 'Terveys ja ympäristö', laajuus 2, pakollinen=false. The record has description, 5 objectives and 3 content groups with 8 items. The text matches data/curriculum.yaml (ids 9560155-9560159 for t1-t5, 9560142-9560153 for s1-s8).",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/6828810"
+    },
+    {
+     "claim": "Module description (paraphrase): critical evaluation of health information and communication and the principles of obtaining research evidence. Beside the media environment, other living environments' health effects are examined and the student assesses their own choices for environmental healthiness. Dependences and their effects are covered in depth. The ePerusteet record gives no further text beyond description, objectives and contents; the module has no separate assessment text in the module record I read.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/6828810"
+    },
+    {
+     "claim": "Objectives: t1 research-evidence principles and stages of the research process, and describing with reasons how reliable and varied evidence is obtained on health, health behaviour and functional capacity; t2 searching information and comparing source reliability; t3 forms and means of influence in health communication and its significance for health perceptions and health; t4 presenting and analysing physical and psychosocial environment links and effects, plus assessing own lifestyle and consumption for environmental health; t5 forms of dependence, factors in their onset, and analysing health and other harms. Note t4 has no objective for sustainable development or safety/violence/work wellbeing; s4-s6 are content only, covered by t4 only through 'consumption habits' and 'environment'.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/6828810"
+    },
+    {
+     "claim": "Content areas s1-s8: s1 scientific vs everyday knowledge, thinking biases, stages of the research process, evaluating reliability of research; s2 forms and means of influence of health communication, evaluating its significance and reliability; s3 links and effects of built, natural and psychosocial environment on health; s4 sustainable development and health; s5 safety of environments and violence prevention; s6 work wellbeing (työhyvinvointi); s7 biological, psychological and social mechanisms of dependence; s8 key substance and behavioural (toiminnalliset) dependences, causes, prevention methods and harms.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/6828810"
+    },
+    {
+     "claim": "OPH support material (PDF dated 2020-11-27, TE2 section on the page under 'valtakunnalliset valinnaiset opinnot') frames TE2 as three themes. 1) Information: searching, everyday knowledge, research evidence, cognitive biases and features of health communication, as the base for judging reliability and soundness of reasoning. Biases can be approached via limits of memory, amount of information, nature of perception, belief formation, source criticism and social reality. 2) Environments: effects and mechanisms of physical and psychosocial environment, with growing weight on consequences of people's choices for environmental health; sustainable development (ecological, economic, social, cultural) in a health context, short and long term, towards future generations. 3) Dependences: biological, psychological and social mechanisms, mostly shared by substance and behavioural dependences; knowing forms, causes and mechanisms lets students form a reasoned view of prevention methods and judge how usable they are. Also stated: media environment, physical (built and natural) and psychosocial environments are examined for links to health.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/sites/default/files/documents/LOPS-tukimateriaali-terveystieto_2020-11-27.pdf"
+    },
+    {
+     "claim": "The support material says nothing specific about s5 (safety and violence prevention) or s6 (työhyvinvointi) beyond the theme 'healthiness and safety of physical and psychosocial environments'. It gives no list of required topics, violence forms or work-wellbeing models, so their depth is the author's choice.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/sites/default/files/documents/LOPS-tukimateriaali-terveystieto_2020-11-27.pdf"
+    },
+    {
+     "claim": "The support material says TE1 is meant to avoid needless repetition of basic-education topics, with TE1 factors treated primarily as resources, not as risks, problems or illnesses. This implies TE2 carries the risk, harm and dependence angle (s7-s8) and the critical-information angle, and TE3 carries the disease, services and ethics angle.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/sites/default/files/documents/LOPS-tukimateriaali-terveystieto_2020-11-27.pdf"
+    },
+    {
+     "claim": "Overlap with TE1 (site topics): te1-03 terveyskulttuuri (TE1.s3) has a section 'Terveystiedon lukutaito' with a short source checklist and an exercise comparing two sources, and itself says systematic source comparison deepens in TE2. te1-03 also covers medikalisaatio and uskomushoidot, which TE2.s1/s2 can use as examples but must not re-teach. te1-04 'Ruokapuhe' touches media talk about food; te1-01 lists global factors including climate and environment as a background-factor layer (TE2.s3-s4 deepen this); te1-02 models (planned behaviour etc.) are TE1-only and TE2.s8 prevention should apply, not re-explain, them.",
+     "confidence": "verified",
+     "source_url": "lukion-terveystieto\\content\\topics\\te1-03-terveyskulttuuri.md"
+    },
+    {
+     "claim": "Overlap with TE1 (stress and wellbeing): te1-09 stress, crises and load management (TE1.s6) and te1-10 opiskeluhyvinvointi (TE1.s7: demands, resources, recovery, study) are the nearest neighbours of TE2.s6 työhyvinvointi. TE2.s6 should shift to working life and workplace factors (psychosocial work environment, occupational health) and reuse the demand-resource idea only by cross-link. te1-07 covers consent and sexual violence at a general level (TE1.s5), so TE2.s5 violence prevention should treat violence in general (environments, forms, prevention, services) and link to te1-07 for sexual violence.",
+     "confidence": "likely",
+     "source_url": "lukion-terveystieto\\content\\topics\\te1-07-seksuaalioikeudet.md"
+    },
+    {
+     "claim": "No TE1 topic covers dependence, substances, gambling, sustainable development, built/natural environment or work wellbeing in a dedicated section (grep over te1-*.md found only passing mentions). Those TE2 areas (s3, s4, s6, s7, s8) are not repeated from TE1. TE1.s4 'painonhallinta' and te1-04 syömishäiriöt are not dependence content and TE2.s8 should not absorb them.",
+     "confidence": "verified",
+     "source_url": "lukion-terveystieto\\content\\topics"
+    },
+    {
+     "claim": "Overlap with TE3 (curriculum.yaml): TE3.s5 organisation, production and use of social and health services and TE3.s6 itsehoito/omahoito overlap with the help-service boxes TE2 pages need (use links only, no service-system teaching). TE3.s10 health inequality, TE3.s7-s9 ethics (including 'lifestyle freedom and responsibility') and TE3.s2-s3 science, technology and future challenges are adjacent to TE2.s4 (sustainability, future generations) and to TE2.s1 (science). TE3.s4 communicable/non-communicable diseases and TE3.t2 risk factors may touch dependence harms; TE2.s8 stays on dependence and its harms, not disease epidemiology.",
+     "confidence": "verified",
+     "source_url": "lukion-terveystieto\\data\\curriculum.yaml"
+    },
+    {
+     "claim": "The OPH page for the support material is at the given URL and TE2 content there is a section anchor (#anchor-valtakunnalliset-valinnaiset-opinnot), not a separate page. The page text for TE2 is a three-paragraph summary matching the PDF.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali"
+    }
+   ],
+   "recommendations": [
+    "Topic split suggestion that avoids TE1 repeats: (1) tieto: arkitieto vs tutkimustieto, vinoumat (s1, t1); (2) tutkimusprosessi and source evaluation, framed as the deepening of te1-03's checklist with a stated link back (s1, t1, t2); (3) terveysviestintä and its means of influence (s2, t3); (4) fyysinen ympäristö (s3, t4); (5) psykososiaalinen ja mediaympäristö (s3, t4); (6) kestävä kehitys ja terveys, with own consumption (s4, t4); (7) turvallisuus ja väkivallan ehkäisy (s5); (8) työhyvinvointi (s6); (9) riippuvuuden mekanismit (s7, t5); (10) aine- ja toiminnalliset riippuvuudet (s8, t5).",
+    "TE2.t4 does not name sustainable development, violence prevention or work wellbeing; tag topics 7 and 8 with TE2.s5/s6 and the nearest objective (t4) but say in the curriculum field that they are content-area only, to keep curriculum fidelity.",
+    "Add explicit 'Aiemmin TE1:ssä' and 'Jatkuu TE3:ssa' cross-links to topics 2, 8 and 10; do not re-teach medikalisaatio, models of behaviour, stress theory or consent.",
+    "Source comparison in TE2 should go beyond TE1's checklist: compare at least two sources with different purposes, methods and ages, and use research-process stages (question, design, data, analysis, reporting) as the frame.",
+    "The support material is silent on s5 and s6 depth, so flag in the briefs that depth there is a model decision (grade M) to be reviewed by the human teacher, and avoid presenting any list of violence forms or work-wellbeing models as required by the curriculum.",
+    "For s8, name only 'keskeiset' dependences: substance (alcohol, nicotine, cannabis and others as classes without amounts or methods) and behavioural (gambling, gaming, social media/phone use treated as 'toiminnallinen riippuvuus' with a caution that diagnoses differ); keep safe-messaging rules from CLAUDE.md."
+   ],
+   "versus_expected": "Matches the brief's expected answer on structure: the ten-topic list in prompts/004-te2.md maps cleanly onto s1-s8 (knowledge and biases; research process and source judging; communication; built/natural; psychosocial; sustainability; safety and violence; work wellbeing; dependence mechanisms; dependences), though the brief's 'built and natural environment' and 'psychosocial environment' are both s3. The brief did not anticipate two points. First, t4 lacks an objective for s4-s6, so those need a note. Second, OPH's support material says very little about s5-s6, so their depth is a model decision. It also confirms the exam-oriented 'material-based tasks' angle only indirectly: the support material stresses judging reliability and reasoning, which fits source-material tasks."
+  },
+  {
+   "key": "materials-to-link",
+   "summary": "Materials-to-link inventory for TE2, each page opened on 2026-11-21 by WebFetch (a fast-model summary of the page, not a raw read). Almost everything is link-out: no publisher page I opened states an open licence, except Faktabaari (an unspecified \"Creative Commons\"), Tieteen termipankki (CC BY-SA 3.0 Unported) and THL's open data (CC-BY-4.0). The only student help links confirmed by the page itself are Sekasin (12-29 years), Nuortenlinkki, Väestöliitto sexual counselling chat (under 29) and the Nettiturvakoti children/young-people section (under 18). Nollalinja, Rikosuhripäivystys, Peluuri, Päihdelinkki, EHYT, MIELI, Punainen Risti and the Ensi- ja turvakotien liitto main page serve adults or everyone, with no stated age. aoe.fi's search API works (POST, HTTP 200) but holds no TE2 lukio course. It has a few CC BY / CC BY-SA items worth linking.",
+   "findings": [
+    {
+     "claim": "s1 Duodecim Terveyskirjasto (terveyskirjasto.fi): publisher Kustannus Oy Duodecim; audience general public with sections for patients, children and youth, built on physicians' textbooks and guidelines; over 10,000 expert articles; no licence stated, terms in separate Käyttöehdot. Class: link-out. Quality high, dated update stamps on articles.",
+     "confidence": "verified",
+     "source_url": "https://www.terveyskirjasto.fi/"
+    },
+    {
+     "claim": "s1 Tieteen termipankki (tieteentermipankki.fi): University of Helsinki-coordinated, Fin-Clariah network, volunteer expert model; audience research community and public; ~48,000 concept pages. Footer licence reads 'Nimeä-Tarttuva 3.0 Muokkaamaton' linking to CC BY-SA 3.0 (the Finnish 'Muokkaamaton' is the localisation of 'Unported', so it is CC BY-SA 3.0 Unported, not No-Derivatives). Open class (CC BY-SA 3.0): adaptable with credit and share-alike. Page gives no editorial or bias/method standard; terms for bias and research are only as good as individual entries, to be checked per term.",
+     "confidence": "likely",
+     "source_url": "https://tieteentermipankki.fi/"
+    },
+    {
+     "claim": "s1/s2 Faktabaari: publisher Avoin Yhteiskunta ry; audience general public plus an EDU section for teachers and adult educators (digital information literacy, AI literacy, guides, teaching materials); footer says site content is published under a Creative Commons licence but the version is not stated. Class: open-unspecified, treat as link-out until the exact CC licence is confirmed on its terms page.",
+     "confidence": "verified",
+     "source_url": "https://faktabaari.fi/"
+    },
+    {
+     "claim": "s1/s2 Kuvi (Taide- ja kulttuurivirasto) mediakasvatus: state media-education authority; audience professionals (mediataitokoulu.fi, medialukutaitosuomessa.fi, pelikasvatus.fi); no licence, only copyright notice. Class: link-out. Mediataitokoulu (publisher Kuvi) tags its Materiaalipankki items 'Nuoret ja media' / 'Lapset ja media' / 'Aikuiset ja media' and covers AI, gaming, advertising, privacy, critical thinking; it is a support service for media educators, so a teacher link, not a student help link. Free materials, no open licence stated; materials from member organisations carry their own terms.",
+     "confidence": "verified",
+     "source_url": "https://www.mediataitokoulu.fi/"
+    },
+    {
+     "claim": "s2 Kuluttajaliitto: consumer organisation; audience consumers and members; covers consumer protection, scams, greenwashing training, waste and circular economy; the homepage lists no materials for young people or teachers and no licence. Class: link-out, weak fit (no dedicated marketing/advertising category on the front page). Check a deeper page before linking for health communication.",
+     "confidence": "verified",
+     "source_url": "https://www.kuluttajaliitto.fi/"
+    },
+    {
+     "claim": "s3 Ilmatieteen laitos air quality page: audience public, residents, researchers and data users; air quality index explanations, exceedance lists, yearly statistics, SILAM/FMI-ENFUSER forecasts (research use, English), observations via open data service; no licence stated on the page (data is offered through FMI's open data service, whose terms the page does not state). Class: link-out for the page; data licence unverified.",
+     "confidence": "verified",
+     "source_url": "https://www.ilmatieteenlaitos.fi/ilmanlaatu"
+    },
+    {
+     "claim": "s3 STUK (stuk.fi): homepage shows a Radon section (reference values, sources, measurement, health effects, remediation, concentrations by municipality, maps, order a measurement) and a Radiation section including UV and solariums; audience not stated, menus address the public, radiation users, employers and media; no licence statement ('Avoin data' link only). The deep link /aiheet/radon returned 404, so exact radon page URLs were not verified. The Oppi & ilo puuhavihko and the learning game are named but not opened. Class: link-out. Radon limits: sources found by search disagree (400 vs 200 Bq/m3 depending on age of building and source), so figures must be linked to STUK, not copied.",
+     "confidence": "verified",
+     "source_url": "https://www.stuk.fi/"
+    },
+    {
+     "claim": "s3/s6 Työterveyslaitos: independent research and expert organisation; homepage and the Sisäilma page address workplaces and building users, not students; no young-worker topic; no licence stated, Käyttöehdot not read. The Sisäilma page (no update date shown) says poor indoor air has several causes and insufficient ventilation often worsens other factors. Class: link-out; fits a teacher link for s3 and s6.",
+     "confidence": "verified",
+     "source_url": "https://www.ttl.fi/teemat/tyohyvinvointi-ja-tyokyky/sisailma"
+    },
+    {
+     "claim": "s3/s4 THL (thl.fi): the homepage links statistics and positions for alcohol, drugs, tobacco and nicotine, gambling, violence, substance and addiction services, one environmental-health position piece and one on health and sustainability through food choices; there is no dedicated environmental-health section. Audience is mainly the public and professionals, not young people. THL open data is under CC-BY-4.0 (stated on the open data page); that covers data, not necessarily page text. Class: link-out for pages, open (CC BY 4.0) for THL open data. Figures change, so link only.",
+     "confidence": "verified",
+     "source_url": "https://thl.fi/tutkimus/avoin-data"
+    },
+    {
+     "claim": "s5 THL violence statistics page, updated 28 May 2026: domestic violence and violence against women, shelter service described as free and round-the-clock, mediation limits from 2025; audience public, policymakers and professionals; no youth help listed, though it cites School Health Survey data on violence experienced by children and young people. Class: link-out, dated source for facts.",
+     "confidence": "verified",
+     "source_url": "https://thl.fi/data-ja-tilastot/vakivalta"
+    },
+    {
+     "claim": "s5 Nollalinja (nollalinja.fi, 116 016): audience adults (people who have experienced or are threatened by intimate partner violence, women who have experienced violence against women, relatives, professionals); no minimum age stated. Phone free 24/7 in Finnish, Swedish, English plus interpretation; chat only weekdays (Mon-Wed 9-15, Thu-Fri 14-20). Not a student help link under the 'page says young people' rule; list as an adult-service link in teacher notes.",
+     "confidence": "verified",
+     "source_url": "https://www.nollalinja.fi/"
+    },
+    {
+     "claim": "s5 Rikosuhripäivystys RIKU (riku.fi, 116 006): audience people who experienced or witnessed a crime, plus professionals; no age stated. Phone Mon-Thu 9-18, Fri 9-16; chat same hours; legal phone advice 0800 161 177 Mon-Thu 17-19. The site has a section 'Lapsi ja nuori rikoksen uhrina' (help-seeking, dating violence, sexual crimes, online crimes) and a guide for young crime victims; that section is the better student link than the front page. Class: link-out.",
+     "confidence": "verified",
+     "source_url": "https://www.riku.fi/"
+    },
+    {
+     "claim": "s5 Nettiturvakoti (nettiturvakoti.fi), run by the Ensi- ja turvakotien liitto: serves people who experienced or used violence, relatives and professionals, and has a section for children and young people under 18 covering dating violence; chat with violence-work professionals, hours not stated; email question service answered within 3 working days. This is the strongest s5 student-facing page read. The liitto's own homepage (ensijaturvakotienliitto.fi) states no ages or chat hours and is not a student help link. Class: link-out.",
+     "confidence": "verified",
+     "source_url": "https://nettiturvakoti.fi/"
+    },
+    {
+     "claim": "s5/s7 Väestöliitto (vaestoliitto.fi): sections for young people, parents, couples, immigrants, professionals; homepage says its sexual counselling chat gives support to under-29s; Poikien Puhelin for boys and young men (ages not stated); Kumita materials for 8th graders. Publisher copyright only, no licence. Class: link-out. Student help link: the under-29 chat only.",
+     "confidence": "verified",
+     "source_url": "https://www.vaestoliitto.fi/"
+    },
+    {
+     "claim": "s5/s7 MIELI Suomen Mielenterveys ry: general public with a youth mental-health campaign; Kriisipuhelin 09 2525 0111 is Finnish-language and runs 24 hours; chat, crisis appointments and groups are listed with no ages or hours on the front page; no licence. Class: link-out. By the strict rule it is a general crisis link, not stated as youth-specific; do not label it a youth help link without reading its youth page.",
+     "confidence": "verified",
+     "source_url": "https://mieli.fi/"
+    },
+    {
+     "claim": "s5 Sekasin (sekasin.fi): anonymous free chat for 12-29-year-olds, coordinated by Sekasin Kollektiivi on Ninchat; Sekasin-chat daily (weekdays 9-24, weekends 15-24), Apuu-chat for under-16s daily 9-22, Nettiturvis video appointments via Punainen Risti. Page lists no specific topics ('about anything'). This is the clearest page-confirmed youth help link for s5, s7 and s8. Class: link-out.",
+     "confidence": "verified",
+     "source_url": "https://sekasin.fi/"
+    },
+    {
+     "claim": "s5 Punainen Risti front page: mentions Nuorten turvatalot and first-aid training links; no ages, no mention of Nettiturvis on the page itself (Sekasin's page says Nettiturvis bookings go through Punainen Risti). Class: link-out; not confirmed as a youth help link from this page.",
+     "confidence": "verified",
+     "source_url": "https://www.punainenristi.fi/"
+    },
+    {
+     "claim": "s5 Poliisi (poliisi.fi front page): general public, in Finnish, Swedish, English and Northern Sami; links 'Nuoret ja rikollisuus', 'Jouduitko rikoksen kohteeksi?', 'Nuoret verkossa' (a guide for adults supporting young people online); no violence section on the front page; copyright only. The /nuoret deep link returned 404. Class: link-out; 112 for emergencies. Under the rule it is not a youth help service.",
+     "confidence": "verified",
+     "source_url": "https://poliisi.fi/"
+    },
+    {
+     "claim": "s7-s8 EHYT ry (ehyt.fi): audience professionals, schools and educational institutions, workplaces, municipalities and the public; has information pages on alcohol, nicotine, drugs and medicines, gambling and gaming, self-assessment tests, versions in English, Swedish and Selkokieli; points young people to BuenoTalk.fi (a separate site, not opened); Päihdeneuvonta 0800 900 45, 24/7, free and anonymous (audience not age-limited). Copyright only. Class: link-out. EHYT's youth content sits on BuenoTalk, which should be read before it is used as a student link.",
+     "confidence": "verified",
+     "source_url": "https://ehyt.fi/"
+    },
+    {
+     "claim": "s7-s8 Päihdelinkki (A-klinikkasäätiö, STEA-supported): audience adults and their relatives plus a professionals section; no dedicated youth section; covers alcohol, drugs, medicines, gambling, sex/porn addiction, self-tests, counselling, chat, peer support, treatment listings; copyright only, no content licence. Class: link-out. Page points young people to Nuortenlinkki.",
+     "confidence": "verified",
+     "source_url": "https://paihdelinkki.fi/"
+    },
+    {
+     "claim": "s7-s8 Nuortenlinkki (nuortenlinkki.fi, A-klinikkasäätiö): aimed at young people; topics substance use, gambling and gaming, social media, mental health, sexuality, body image, relationships; Nuortenlinkki chat Mon 15-17 and Wed 13-15; Walk in terapia (free anonymous video therapy) for under-29s Tue and Thu 17-19; section for parents and professionals; copyright only. Class: link-out. Strongest student link for dependence topics; chat hours are limited, so say so.",
+     "confidence": "verified",
+     "source_url": "https://nuortenlinkki.fi/"
+    },
+    {
+     "claim": "s7-s8 Peluuri (peluuri.fi): intended for people who gamble or play video games too much and for relatives; page states no age limit and no youth guidance; helpline 0800 100 101 (Mon-Fri 12-18), chat Mon-Fri 12-15, OmaPeluuri online tools, Restart for gamers. Class: link-out. By the page-says-young rule it is not a student help link; use as a general gambling-help link in the teacher notes and pair with Nuortenlinkki for students.",
+     "confidence": "verified",
+     "source_url": "https://peluuri.fi/"
+    },
+    {
+     "claim": "s7-s8 Sosiaali- ja terveysministeriö (stm.fi): navigation lists 'Päihdehaittojen ja riippuvuuksien ehkäisy' with alcohol policy and Alkoholilaki, drug policy, tobacco and nicotine policy, gambling harms; audience public, stakeholders, professionals; no licence. Class: link-out for law and policy facts (dates to be read on the target pages, which were not opened).",
+     "confidence": "verified",
+     "source_url": "https://stm.fi/"
+    },
+    {
+     "claim": "s6 Työsuojelu.fi, 'Nuori työntekijä' page: audience young workers and employers; defines a young worker as under 18; covers contracts, pay, hours and breaks, orientation, health checks, suitable, restricted and prohibited work; states work-time limits for pupils in basic education (e.g. 7 h on non-school days, 12 h/week) and an employer-paid health check if employment lasts over three months. Publisher the occupational safety department of the Lupa- ja valvontavirasto; no licence; part of the Your Europe portal. Class: link-out. No separate kesätyö page on the homepage. Best s6 link for young workers; the legal figures change, so link only.",
+     "confidence": "verified",
+     "source_url": "https://www.tyosuojelu.fi/tyosuhde/nuori-tyontekija"
+    },
+    {
+     "claim": "s4 Sitra: audience unstated (public sector bodies, the public via newsletters); homepage mentions a youth futures programme, online courses, games and tests, a futures glossary and intergenerational fairness; no licence stated, no CC BY seen. Class: link-out. Specific educational items were not opened.",
+     "confidence": "verified",
+     "source_url": "https://www.sitra.fi/"
+    },
+    {
+     "claim": "s4 Ympäristöministeriö (ym.fi): audience public, media, policy stakeholders; strategy to 2035 with the goal of wellbeing within nature's carrying capacity; climate, biodiversity, circular economy, sustainable construction; no school materials listed; no licence. Class: link-out for policy context only.",
+     "confidence": "verified",
+     "source_url": "https://ym.fi/"
+    },
+    {
+     "claim": "aoe.fi search API: POST https://aoe.fi/api/v2/search with JSON body {keywords, from, size} returned HTTP 200 and JSON (hits, results with license, educationalLevels, educationalRoles, authors, educationalSubjects). A GET to the same URL returned 404. The documented route was not found by search; the working request shape was found by testing. Item pages (aoe.fi/#/materiaali/ID) are JavaScript-only and were not opened, so audience comes from API metadata fields.",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/api/v2/search"
+    },
+    {
+     "claim": "aoe.fi has no lukio TE2 course. Searches for TE2, 'Terveys ja ympäristö', TE02 and TE3 found no TE2-named lukio item. The TE-subject lukio items found: TE1 Terveys voimavarana (id 1113, Schildtin lukio, CC BY-SA 4.0; id 1852, Omnia/Espoon aikuislukio, CC BY 4.0) and exam-task collection id 4704 (Hankasalmen lukio, CC BY 4.0, old GE/TE/BG yo tasks for students and teachers). Those are TE1 or exam practice, not TE2 content.",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/api/v2/search"
+    },
+    {
+     "claim": "aoe.fi open items worth linking for TE2 (licence from API metadata): s1 id 3006 Asiantuntijalähteen arviointi (video) and id 3050 (diagram), Hämeen ammattikorkeakoulu, CC BY-SA 4.0, roles learner/teacher/citizen; s1 id 3554 Argumenttikortit argumenttien luotettavuuden arviointiin, Tampere University, uses health-claim messages, CC BY-NC-ND 4.0 (link-out only, no adaptation), levels perusopetus, lukio, ammatillinen; s4 id 2842 Kestävä kehitys -opintojakso lukioon (SASKY, Moodle course, CC BY-SA 4.0, teacher role), id 4038 Kestävän kehityksen käsikirja lukioille (SASKY, CC BY 4.0, learner/teacher), ids 2284 and 2319 Kestävää tulevaisuutta lukiolaisille (Helsingin kaupunki, CC BY-SA 4.0). Only the first four were read for description; the sustainability ones are about climate and environment education, not health, so the fit with s4 health links is partial.",
+     "confidence": "verified",
+     "source_url": "https://aoe.fi/api/v2/search"
+    },
+    {
+     "claim": "aoe.fi items for s6 and s5 that exist but are restricted: id 4638 Viisi askelta tasapainoisempaan työelämään (Väestöliiton Hyvinvointi Oy, CC BY-NC-ND 4.0, lukio and ammatillinen, subjects incl. Terveystieto); id 3486 Suostumus ja sateenkaari koulussa (Amnesty, CC BY-NC-ND 4.0, levels perusopetus 7-9 and 10th grade, not lukio); id 6159 Kriisityö ja läheisväkivaltatyö opetustyössä (Jamk, CC BY 4.0, levels vapaa sivistystyö and ammatillinen, a professional-training item, not for students). No relevant aoe item for dependence (s7-s8) was found at lukio level in the filtered results; the one mental-health item (id 5748, Laurea, CC BY-SA 4.0) targets perusopetus 7-9 and TUVA.",
+     "confidence": "likely",
+     "source_url": "https://aoe.fi/api/v2/search"
+    }
+   ],
+   "recommendations": [
+    "Student help links (pages say they serve young people): Sekasin (12-29, Apuu-chat under 16), Nuortenlinkki (young people; Walk in terapia under 29), Väestöliitto sexual counselling chat (under 29), Nettiturvakoti children/young-people section (under 18), RIKU's 'Lapsi ja nuori rikoksen uhrina' section. Add 112 for emergencies. Student health care stays the first route for personal symptoms.",
+    "Teacher-note links only (adults or general audience, no age stated on the page read): Nollalinja, Rikosuhripäivystys front page, Peluuri, Päihdelinkki, EHYT, MIELI Kriisipuhelin, Punainen Risti, Poliisi, Työterveyslaitos. Label the audience beside each link. Read BuenoTalk.fi (EHYT's youth site) and MIELI's youth pages before offering them to students.",
+    "Treat every publisher page as link-out unless a licence is read. Open candidates: Tieteen termipankki (CC BY-SA 3.0 Unported, likely), THL open data (CC-BY-4.0, data only), aoe.fi items 3006, 3050, 2842, 2284, 2319 (CC BY-SA 4.0) and 4038, 4704 (CC BY 4.0). Confirm Faktabaari's exact CC version before any adaptation. Treat aoe item 3554 and 4638 as link-out (NC-ND).",
+    "For facts that change (radon limits, young worker hours, alcohol, gambling and nicotine rules, violence statistics) link THL, STUK, Työsuojelu.fi and STM with the date read, and do not copy figures. Radon limits conflicted across secondary sources, so read the STUK radon page itself; the deep link tried returned 404 and the exact URL must be re-found from the STUK homepage.",
+    "Not done: the Mielenterveystalo, BuenoTalk, Ilmanlaatuindeksi explainer, Kuvi youth pages and individual aoe item pages were not opened. Pages that failed: thl.fi/aiheet/paihteet-ja-riippuvuudet (404), stuk.fi/aiheet/radon (404), poliisi.fi/nuoret (404); one alternative was tried for each, then moved on."
+   ],
+   "versus_expected": "The brief expected almost all link-out with THL/Duodecim for research, Ilmatieteen laitos/TTL/ympäristöministeriö for environment, Nollalinja/RIKU/Väestöliitto/MIELI for violence, TTL for work, EHYT/A-klinikkasäätiö/Päihdelinkki/THL/Peluuri/STM for dependence. That held: only Tieteen termipankki, Faktabaari (version unstated) and THL open data carry an open licence. Three things differ from the expectation. First, most of the expected violence and dependence services (Nollalinja, RIKU, Peluuri, Päihdelinkki, EHYT, MIELI) state no youth audience on the page, so under the project rule only Sekasin, Nuortenlinkki, Väestöliitto's under-29 chat and Nettiturvakoti's under-18 section qualify as student help links. Second, ympäristöministeriö and Sitra offer no school materials on the pages read, so they are context links only. Third, aoe.fi has no TE2 lukio course, though CC BY / CC BY-SA items exist for source evaluation and sustainability and a CC BY set of old yo tasks.\""
+  },
+  {
+   "key": "facts-laws",
+   "summary": "Facts-laws research for TE2 (2026-11-21). Read for real: alcohol act amendments (STM release 25.6.2026), tobacco act nicotine-pouch amendment (valtioneuvosto releases), gambling reform (VM/valtioneuvosto 15.1.2026), consent-based rape law (valtioneuvosto), radon reference (STUK EN page), young workers (tyosuojelu.fi EN, updated 16.2.2026). Finlex and thl.fi/stuk.fi Finnish pages failed (Finlex JS-only/wrong content, 404s), so statute text for age limits, drug law, lähisuhdeväkivalta and air quality is only from search summaries (likely). Recommended approach: state few stable rules, link to the official page, never copy figures.",
+   "findings": [
+    {
+     "claim": "ALCOHOL: Alcohol Act amendments enter into force 3.7.2026: home delivery of alcohol with a toimituslupa and toimituspassi, Alko may open Sundays, online marketing of strong alcohol by domestic producers allowed, delivery hours 9-21. Delivery licence applications 4 months after entry into force (about Nov 2026), deliveries 6 months after (about Jan 2027). Alcohol may not be sold or delivered to minors or heavily intoxicated people; test purchases used. Stable rule to state: no sale to minors or the heavily intoxicated; current age limits to be linked.",
+     "confidence": "verified",
+     "source_url": "https://valtioneuvosto.fi/-/1271139/uudistettu-alkoholilaki-mahdollistaa-alkoholijuomien-toimitukset-asiakkaille-ja-sallii-vakevien-verkkomainonnan-"
+    },
+    {
+     "claim": "ALCOHOL age limits (18 for mild, 20 for over 22% ABV) and statute number: act is Alkoholilaki 1102/2017 (consolidated version exists on Finlex, confirmed by title only); the 18/20 figures were NOT read on a page. Finlex page returned only site navigation; the first guess 1102/2018 was a wrong number (maritime law). THL alcohol page 404.",
+     "confidence": "unverified",
+     "source_url": "https://www.finlex.fi/fi/lainsaadanto/2017/1102"
+    },
+    {
+     "claim": "ALCOHOL pending: HE 44/2026 vp (small producers selling at the production site, planned start autumn 2026) exists; its status was not confirmed. HE 131/2025 (distance sales, delivery) is the proposal behind the 3.7.2026 amendment (search summary only). Neither changes the age limits as far as seen.",
+     "confidence": "likely",
+     "source_url": "https://www2.eduskunta.fi/pdf/HE+44/2026+vp?lang=fi"
+    },
+    {
+     "claim": "TOBACCO: Tobacco act amendment on nicotine pouches in force 1.8.2025 (parliament approved 14.5.2025): ban on online and cross-border distance sale, retail licence, use banned in schools, daycare, playgrounds; under-18s may not possess pouches or other tobacco substitutes (incl. nicotine-free vapes); 1.2.2026 nicotine max 16.6 mg/g, 0.5-1 g per pouch, Finnish/Swedish warnings; 1.8.2026 plain packaging. Flavour restrictions from 1.2.2026: only tobacco, menthol or mint character allowed (one release says all other characteristic flavours banned, other release says additives giving other flavour banned). Ban on selling to minors remains. Statute: Tupakkalaki 549/2016 (Finlex page title only; statute text not read).",
+     "confidence": "verified",
+     "source_url": "https://valtioneuvosto.fi/-/1271139/nikotiinipussien-myyntia-ja-markkinointia-saannellaan-jatkossa-tiukemmin"
+    },
+    {
+     "claim": "TOBACCO: the age limit 18 for buying tobacco and nicotine products is consistent with all sources but the number 18 was only stated indirectly (ban on sale to minors, possession ban under 18); the exact section was not read. A search summary said the government did not ban all flavours, conflicting with the 22.5.2025 release; the release itself is primary and the details should be linked, not stated.",
+     "confidence": "likely",
+     "source_url": "https://valtioneuvosto.fi/-/152634019/tupakkalaki-muuttuu-1.8.2025-mita-pitaa-huomioida-nikotiinipussien-myynnissa-"
+    },
+    {
+     "claim": "DRUGS: Drug use is a criminal offence (huumausaineen käyttörikos), fine or up to 2 years per a police instruction; police may drop to a talk or refer to treatment; for young people parents, school and social services are contacted (search summaries of poliisi sources, not read directly). Law is in Rikoslaki 50 luku (huumausainerikos) and Huumausainelaki 373/2008 (numbers from memory, not verified here).",
+     "confidence": "likely",
+     "source_url": "https://parliament.fi/valtiopaivaasiakirjat/EDK-2025-AK-12156"
+    },
+    {
+     "claim": "DRUGS debate: decriminalisation is a political demand (Vasemmistoliitto 2026 programme wants all use decriminalised; Vihreät want cannabis legal; a citizen's initiative on cannabis went to the Law Committee as LaVM 18/2025 vp). The government bill HE 273/2026 concerns muuntohuumeet (designer drugs) and control of legal use, not removing the use offence. Nothing found showing a change to current law. State only: use is currently punishable; the debate is open.",
+     "confidence": "likely",
+     "source_url": "https://www.eduskunta.fi/pdf/LaVM+18/2025+vp?lang=fi"
+    },
+    {
+     "claim": "GAMBLING: New gambling act (rahapelilaki) approved by government 15.1.2026; most of it in force 1.7.2027. Licences open for betting, online slots/casino, electronic bingo; Veikkaus keeps exclusive lotto-type games, scratch cards and physical machines/casinos. Licence applications to Poliisihallitus from 1.3.2026; Veikkaus exclusive right ends end of June 2027 (old Arpajaislaki 1047/2001); supervision moves to Lupa- ja valvontavirasto on 1.7.2027; game software licences required from 1.7.2028. Minimum age stays 18; mandatory strong identification for all gambling.",
+     "confidence": "verified",
+     "source_url": "https://valtioneuvosto.fi/-/1410869/rahapelien-jarjestaminen-avataan-osittain-kilpailulle"
+    },
+    {
+     "claim": "GAMBLING: further source for timetable: VM implementation project page (not opened, only listed in search) and Eduskunta HaVM 28/2025 vp. Parliament adopted act in Dec 2025 (search summary only; the 15.1.2026 release says government approved that day, which may refer to the confirmation). Pre-existing earlier plan to end exclusivity end 2026 was superseded.",
+     "confidence": "likely",
+     "source_url": "https://vm.fi/rahapelijarjestelman-uudistuksen-toimeenpanohanke"
+    },
+    {
+     "claim": "VIOLENCE/SEXUAL OFFENCES: Criminal Code sexual offence provisions reformed 1.1.2023; rape is defined by lack of voluntariness (sex with a person who does not take part voluntarily); non-contact sexual harassment can be criminal; sharing sexual image without permission punishable; starting point that a child cannot consent to a sexual act with an adult. Age of consent 16 is NOT stated on that page (not verified here). Info site seksuaalirikoslaki.fi linked by the ministry.",
+     "confidence": "verified",
+     "source_url": "https://valtioneuvosto.fi/-/1410853/seksuaalirikoslain-uudistus-tulee-voimaan-ensi-vuoden-alussa"
+    },
+    {
+     "claim": "LÄHISUHDEVÄKIVALTA: since a 2011 amendment, even minor assault in a close relationship is subject to public prosecution (virallinen syyte), so the victim's wish does not decide whether to prosecute; Statistics Finland reports victims of partner/domestic violence rose 20% in 2025 (figure to be linked, not copied). Read as search-result summaries, no ministry page opened.",
+     "confidence": "likely",
+     "source_url": "https://stat.fi/fi/uutinen/Pari-ja-laehisuhdevaekivallan-uhrien-maeaerae-nousi-ennaetykseen-vuonna-2025"
+    },
+    {
+     "claim": "YOUNG WORKERS: Laki nuorista työntekijöistä 998/1993. Young worker = under 18; from 15 may sign own contract; full-time work from 15 after basic education; may only get light work; school days max 2 h, 7 h on days off, weekly total 12 h (school-time work rules); hazardous work under 16 not allowed, 16-17 only with safeguards and employer notification to the authority; night work barred (working-time figures from tyosuojelu.fi EN pages seen in search). Page last updated 16.2.2026.",
+     "confidence": "verified",
+     "source_url": "https://tyosuojelu.fi/en/employment-relationship/young-worker"
+    },
+    {
+     "claim": "RADON: Reference level for radon in dwellings is 300 Bq/m3 annual average (STM Decree on Ionising Radiation 1044/2018; the decree number came from a search summary, not the page); 200 Bq/m3 for design and construction of new buildings; workplaces also have a 300 Bq/m3 level and measurement duty in listed municipalities; STUK measurement season 1 Sept-31 May (search summary). The STUK page gives no date. Finnish STUK radon page 404 at the guessed URL.",
+     "confidence": "verified",
+     "source_url": "https://stuk.fi/en/reference-levels-and-regulations-concerning-radon-in-dwellings"
+    },
+    {
+     "claim": "AIR QUALITY: FMI's air quality index has five verbal steps (hyvä to erittäin huono); fine particles PM2.5 are the most harmful airborne environmental factor; WHO 2021 annual PM2.5 guideline 5 ug/m3, EU limit 25 ug/m3 per FMI texts (figures change: link, do not copy). Only search summaries read; FMI pages not opened. Live data at ilmanlaatu.fi and FMI Saasteet ja terveys.",
+     "confidence": "likely",
+     "source_url": "https://www.ilmatieteenlaitos.fi/saasteet-ja-terveys"
+    }
+   ],
+   "recommendations": [
+    "Link, do not copy, for every number: age limits, nicotine/pouch limits, radon Bq values, PM2.5 guidelines, violence statistics. State only these stable rules: no alcohol/tobacco/nicotine sale to minors; gambling needs age 18 and identification; drug use is currently punishable and the debate is open; rape is consent/voluntariness-based since 1.1.2023; close-relationship assault is prosecuted by the state; under-18s have special work protection (Laki nuorista työntekijöistä 998/1993); radon is measured against a reference level set by STM decree.",
+    "Official URLs to use (Finlex permanent forms via consolidated pages): Alkoholilaki 1102/2017 https://www.finlex.fi/fi/lainsaadanto/2017/1102 ; Tupakkalaki 549/2016 https://www.finlex.fi/fi/lainsaadanto/2016/549 ; Laki nuorista työntekijöistä 998/1993 https://www.finlex.fi/fi/lainsaadanto/1993/998 (not opened) ; seksuaalirikoslaki.fi ; tyosuojelu.fi young-worker pages; STUK radon pages; ilmanlaatu.fi; Poliisi (poliisi.fi) for drugs; STM and valtioneuvosto releases as dated sources.",
+    "Mark a 'checked on' date next to each link and say the legislation changes: Alcohol delivery rules start in practice Nov 2026 - Jan 2027; flavour and packaging rules from the tobacco act 1.2.2026 and 1.8.2026; gambling licensing 1.7.2027 and software licence duty 1.7.2028; drug law bill HE 273/2026 on designer drugs pending; HE 44/2026 small producers pending.",
+    "A human reviewer or a second pass with a browser should read the Finlex texts for the alcohol (18/20), tobacco age limit, drug offence sections, Criminal Code 21:5 and 20:1 (rape), and the age of consent, since Finlex pages did not render with WebFetch. Use Finlex's open API or the 'finlex.fi/api/media' PDFs as an alternative."
+   ],
+   "versus_expected": "The brief expected the facts-laws topic to be 'almost all link-out' with Finlex/STM/THL/Poliisi/STUK sources; that holds. Differences: Finlex statute pages and THL/STUK Finnish pages could not be read (JS-only or 404), so age limits and drug-offence details are only likely, not verified. New to the brief: alcohol act amendments in force 3.7.2026 with home delivery; gambling licence system 1.7.2027 confirmed; nicotine pouch law 1.8.2025 with flavour limits from 1.2.2026. The decriminalisation debate is party and citizen-initiative based, no government bill to remove the use offence found.",
+   "could_not_read": [
+    "https://www.finlex.fi/fi/lainsaadanto/2017/1102 (Finlex returns only navigation)",
+    "https://www.finlex.fi/fi/lainsaadanto/2016/549 (Finlex returns only navigation)",
+    "https://thl.fi/aiheet/alkoholi-tupakka-ja-riippuvuudet/alkoholi/alkoholilaki (404)",
+    "https://thl.fi/aiheet/alkoholi-tupakka-ja-riippuvuudet/alkoholi (404)",
+    "https://stm.fi/tupakkalaki (404)",
+    "https://tyosuojelu.fi/tyoehdot/nuoret-tyontekijat (404)",
+    "https://stuk.fi/aiheet/radon (404)",
+    "poliisi.fi drug pages, ilmatieteenlaitos.fi and ilmanlaatu.fi pages, oikeusministeriö lähisuhdeväkivalta page: only search summaries seen, not opened"
+   ],
+   "sources_or_tools": [
+    {
+     "name": "valtioneuvosto.fi releases (STM, VM, OM)",
+     "what": "Dated government releases on alcohol, tobacco, gambling, sexual offences",
+     "url": "https://valtioneuvosto.fi",
+     "access": "open web",
+     "licence": "official, link-out"
+    },
+    {
+     "name": "tyosuojelu.fi",
+     "what": "Young worker rules, OSH administration",
+     "url": "https://tyosuojelu.fi/en/employment-relationship/young-worker",
+     "access": "open web",
+     "licence": "official, link-out"
+    },
+    {
+     "name": "STUK",
+     "what": "Radon reference levels",
+     "url": "https://stuk.fi/en/reference-levels-and-regulations-concerning-radon-in-dwellings",
+     "access": "open web",
+     "licence": "official, link-out"
+    },
+    {
+     "name": "Finlex",
+     "what": "Statute texts (not readable via WebFetch)",
+     "url": "https://www.finlex.fi",
+     "access": "open but JS-rendered",
+     "licence": "official, link-out"
+    }
+   ]
+  },
+  {
+   "key": "exam-material-tasks",
+   "summary": "I read six YTL terveystieto grading-instruction pages: spring 2026, autumn 2025, spring 2025, autumn 2024, spring 2024 (the visually-impaired variant) and autumn 2023. Spring 2023 was not read. The exam is 120 points: one 20 p task from part 1, two 20 p tasks from part 2, two 30 p tasks from part 3. Tasks that draw on TE2 content are common and are usually material-based. The material is mostly small: a table, a figure, a short constructed text, an advertisement or a model. Part 3 tasks use it most. In parts 2 and 3 the points split into content (counted by perspectives and examples) and information processing, with a deduction for not using the material. Because YTL material is not to be copied, the recommended approach is to reuse the task patterns, not the tasks, with self-written 'kuvitteellinen' material.",
+   "findings": [
+    {
+     "claim": "Exam structure (all years read): 120 p; part 1 one of 20 p; part 2 two of 20 p; part 3 two of 30 p. Parts 2 and 3 split points into content (asiasisältö, 0-10 or 0-15) and information processing (tiedonkäsittely, 0-10 or 0-15), scored on concepts, application, analysis, evaluation, creation, argumentation and structure.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-26_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Content points are counted from numbers of perspectives or factors and examples. Typical ladders: 3/6/9 p of 10 for 2/4/6 factors; for 30 p tasks 4/7/10/13 p of 15 for 1/2/3/4 named ethical or WHO perspectives.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Deductions common to the documents: irrelevant content up to 5 p; many small errors up to 3 p (20 p task) or 5 p (30 p); one fundamental error up to 5 or 8 p; failing to refer to the material costs 3 to 5 p (5 p if neither of two materials is used); exceeding a character limit costs points. Length alone earns nothing.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2026-03-20_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Research and sources: autumn 2023 task 2 asked for definitions of empirical, qualitative, longitudinal and case-control research (5 p each: up to 4 for definition, 1 for a health-research example, 900 character limit). Task 6 gave figure 6.A comparing a population survey with hospital register data and short texts on data origin and reliability; students explain why figures differ (self-report vs diagnosis records, response bias, coverage). 3/6/9 p ladder by perspectives and causes.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2023-09-21_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Research and sources, other years: autumn 2024 task 1 gave a results table (FinTerveys 2017, tooth brushing) and asked students to describe differences by sex, age, education and region (5 p each). Spring 2025 tasks 7.1/7.2 gave two tables of alcohol-use survey results 1968-2023; students draw bar charts for women and men (5 p charts, up to 5 p for main findings), then propose alcohol reduction measures across the five WHO health-promotion areas (20 p). Autumn 2025 task 4 gave a text with three people showing cognitive biases (confirmation, authority, Dunning-Kruger): 4 p definition and naming, 6 p effects on health decisions, 10 p analysis.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Health communication: autumn 2025 task 5 gave an advertisement for a health product (5.A) and asked how to recognise reliable and unreliable health communication, spotting manipulation techniques against scientific evidence criteria; content 3/6/9 p for 2/4/6 reliability aspects, plus 10 p reasoning. Spring 2025 task 9 gave a young person's question about energy drinks and a language-model answer, asking for ethical analysis (4/7/10/13 p for 1-4 ethical perspectives, 0-15 p information processing, -5 p if the text is not used). Spring 2025 task 4 gave two home-test images (tick-borne disease test, covid and flu test) and asked why using them takes health competence (content 3/6/9 p by areas and examples, 10 p processing). Autumn 2023 task 9 gave young people's written accounts plus a video on social media and loneliness (content 4/7/10/13 p by number of ways, both positive and negative required; -5 p if neither source used, -3 p if only one).",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Environment and sustainability: spring 2024 task 4 was radon with no material (content 0-10 by factors and health effects: soil, ventilation, building, exposure, smoking). Autumn 2025 task 6 was sustainable development and health, no material, ecological/economic/social/cultural sustainability (3/6/9 p by perspectives and examples). Autumn 2024 task 9 was clean water, no material. Autumn 2023 task 8 gave the WHO Ottawa model with its five action areas as material, asking how noise affects study ability and for noise-reduction measures across areas (8 p + 22 p, of which 12 content, 10 processing). Spring 2026 task 7 gave a short text on electric scooters and asked students to explain Health in All Policies and give examples (30 p, -5 p if the text is not used).",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2023-09-21_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Safety and prevention: spring 2026 task 2 supplied a table template with exposure factors (tobacco, diet, occupational, environmental, infectious) where students fill individual and society prevention measures, 1 p per correctly explained measure, max 2 p per factor; ignoring the table format caps the score at 10 p. Autumn 2023 task 5.C and autumn 2024 task 3 use prevention and transmission tables.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2026-03-20_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Dependence: autumn 2024 task 8 (30 p) gave two materials (8.A, 8.B) and a text on addiction; students cover types, mechanisms, features and health harms (direct and indirect), content 0-15, reasoning 0-15, -5 p if neither material is used. Autumn 2023 task 4 and spring 2024 task 6 and 7 touch alcohol, nicotine and other health behaviours with claim or material formats.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Work and wellbeing at work: no clearly work-focused task was found in the documents read, although eustress and distress (autumn 2024 task 6, comparison table material) and autumn 2023 noise and study ability are adjacent. Violence prevention and safety also had no direct task in these six papers.",
+     "confidence": "likely",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Material forms seen across the six papers: result tables to turn into charts or interpret, a figure comparing two data sources, a diagram or model (WHO Ottawa, health determinants, hypnogram), an advertisement, a constructed text with a person's case, a short news-like or explanatory text, images (home tests), a food-label sample and a video. Many tasks have no material and lean on concepts.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Model-answer features in the grading documents: precise concepts, relevant perspectives chosen, material used and referred to, causal chains analysed, claims backed with theory, research or examples, alternative views and exceptions weighed, and a structured answer that stays on topic. A generic answer that ignores the asker's context is flagged as weak in spring 2025.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2026-03-20_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "The 2024 and 2023 documents were read as published grading-instruction pages; the 'visually impaired' (fi_vi) spring 2024 page has the same tasks as the regular page, as far as the search listing indicates. Spring 2023, autumn 2022 and earlier were not read.",
+     "confidence": "likely",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-03-22_TE_fi_vi/grading-instructions.html"
+    }
+   ],
+   "recommendations": [
+    "Use the YTL pattern, not YTL content: a short kuvitteellinen material (label it so, e.g. 'Kuvitteellinen aineisto, ei oikea tutkimus'), a task text, a point table that splits content (counted perspectives and examples, 3/6/9 or 4/7/10/13 ladder) from information processing, and a deduction note for not using the material. Write the model answer so every point on the table can be found in it. No YTL task text, table or figure is copied; the links point to the YTL pages only.",
+    "Research and sources (s1): invented results table of a made-up survey (e.g. sleep or screen time by age group) with sample size, response rate and method note. Tasks: draw a chart from the table and state the main findings; then judge reliability (sample, self-report, causality vs correlation, funding). Model answer: findings first with numbers from the table, then 3 to 6 reliability aspects each tied to a detail of the material, ending in a hedged conclusion. Add a short bias task with three invented people (confirmation, authority, Dunning-Kruger style) and a link to health decisions.",
+    "Health communication (s2): invented advertisement and an invented news snippet about a product or diet. Tasks: spot persuasion means and unreliable features, then state criteria for reliable communication (source, evidence, conflict of interest, tone, date). Model answer: a table of 'feature in the material, why it is (un)reliable, better practice' with 4 to 6 rows quoted from the material. A second variant: an invented chatbot answer to a teen's health question with an ethical analysis (values, norms and duties, rights, consequences, virtues) that notes the asker's age. Keep the questions safe and non-medical.",
+    "Environment and sustainability (s3-s4): invented indoor-air or noise measurement table for a fictional school, or a short fictional council news item on a cycle-lane or heat-wave plan. Tasks: read the table, name health effects across physical, mental and social health, and propose measures across the five WHO health-promotion areas. Model answer: group measures under the named areas with at least 2 examples each, point to rows of the table, and separate individual from community and policy means. Sustainable development variant: ask for the four dimensions with 2 to 3 examples each.",
+    "Safety and violence prevention (s5): use invented, non-graphic scenarios (a fictional school safety survey table with percentages feeling safe by place; a fictional school-protocol summary). Tasks: interpret the survey, then name protective and risk factors and prevention at individual, school and society levels, and where to get help. Model answer: structured by level with named services from the site's help list. No methods, no graphic detail, a content note and help links on the page. Avoid asking for students' own experiences.",
+    "Wellbeing at work (s6): invented workplace wellbeing survey table (workload, control, support, sickness absence) for a fictional company, plus a short invented HR memo. Tasks: explain what the figures suggest about stress and strain, name work-related factors (physical, psychosocial, organisational), and propose measures from worker, employer and occupational health. Model answer: link each figure to a factor and a measure, and note limits of a single survey. This area has no direct YTL precedent in the papers read, so grade this design as model-only.",
+    "Dependence (s7-s8): invented figure (or two tables) of fictional trends in gambling or nicotine-product use among young people, plus a short invented text describing the stages of developing dependence without amounts or methods. Tasks: describe mechanisms (reward, tolerance, withdrawal, learning), causes, harms (direct and indirect) and prevention across WHO areas; two materials with a -5 p rule for using neither mirrors the YTL pattern. Model answer: mechanism, then causes grouped by individual, community and society, then prevention measures; no scare tactics or doses, with help links.",
+    "Mix of tasks per topic: about one short concept task (20 p, no material, 1 to 2 p per item), one 20 p material-based task (10 content + 10 processing) and one 30 p material-based task (15 + 15) across the module, so the three YTL sizes are practised. Put the point ladder under each task so students can self-mark.",
+    "What makes a good model answer: it follows the point table so each point is findable; it names the concepts exactly; it refers to the material with specifics (table row, figure part, quoted words from the invented text); it separates perspectives with headings; it gives examples that fit the stated level or area; it weighs alternatives and limits; it is the right length for the points. Add a short 'what loses points' list from the documents (missing reference to the material, generic answer ignoring context, off-topic text, one-sided listing when both sides are asked for).",
+    "Have the terveystieto teacher reviewer (CLAUDE.md human reviewer) check that the point ladders and the labelled-invented-data format are reasonable before wider use. Treat the fictional numbers as obviously invented and not realistic statistics, so none can be mistaken for real findings."
+   ],
+   "versus_expected": "The brief expected TE2 exam tasks to be mostly material-based, with research summaries, graphs and communication examples. That is largely confirmed: tables, figures, advertisements and constructed texts do appear, and part 3 tasks almost always carry material. It is not fully confirmed in two ways. Many TE2-type tasks (radon, sustainable development, clean water, fertility) have no material at all, so exam-style tasks should include a few concept tasks and not be material-based throughout. And no task in the six papers read touched wellbeing at work or violence prevention directly, so those two areas have no YTL precedent and need the extrapolated design above. Also, the papers use 'research summaries' rarely; the usual material is a data table, a figure or a short case text."
+  },
+  {
+   "key": "safety-violence-dependence",
+   "summary": "Pages read give a clear base for the safety rules. For substance education, EHYT and THL both advise interactive, repeated, age-matched work that starts from emotional and social skills, and both advise against fear or shock messaging. Fear messaging has no evidence and harms credibility and stigma. Testimonies from people in recovery do not suit young audiences. Finnish law has been voluntariness-based for rape since 1.1.2023. Service audiences vary. Sekasin and Nettiturvis are explicitly for ages 12-29. Nollalinja, Peluuri and RIKU state no age limit and nothing about minors. Not obtained as primary pages: EUPC (403), EHYT's school PDF (unreadable), the Väestöliitto and Ensi- ja turvakotien liitto guidance pages, Päihdelinkki, and any source on trauma-informed teaching, gambling or digital-dependence prevention for youth.",
+   "findings": [
+    {
+     "claim": "EHYT says scare tactics do not work: they lower the credibility of the person starting the conversation. It also names shaming and blaming as counterproductive.",
+     "confidence": "verified",
+     "source_url": "https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/"
+    },
+    {
+     "claim": "EHYT: interactive methods beat one-way information. Life skills (stress, emotions, communication, decision-making, resisting social pressure) belong in substance education. Follow-up and repetition are needed, and content is adapted to the group's age, gender, culture and circumstances.",
+     "confidence": "verified",
+     "source_url": "https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/"
+    },
+    {
+     "claim": "EHYT: detailed information on substances, ingredients and ways of use is recommended only for people who already use, to reduce harm. It is not recommended in general education (harm reduction is for the user group, not the whole class). Recovery stories are unsuitable for children and young people, as they can sensationalise or heroise. Labelling people who use substances worsens harm and hinders help-seeking, so talk neutrally.",
+     "confidence": "verified",
+     "source_url": "https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/"
+    },
+    {
+     "claim": "EHYT blog: single lectures have little preventive effect; substance education is a process, not a project. A planned, repeated series and a shared adult message are advised. The post does not discuss scare tactics or social norms.",
+     "confidence": "verified",
+     "source_url": "https://ehyt.fi/uutishuone/blogit/paihdekasvatus-oppilaitoksissa-mita-kannattaa-tehda/"
+    },
+    {
+     "claim": "THL school prevention page: avoid fear- or shock-based messaging because no evidence shows it works and it can raise stigma and reduce credibility. Avoid talks by people describing severe addiction, because they can cause anxiety. Students with addiction in the family need extra protection. Teaching starts with emotional and interaction skills, is age-matched, regular and interactive, and uses peer learning. The page names gambling harm prevention as part of the work and notes minors should not be given gambling products. It has no lukio-specific content and little on digital gaming.",
+     "confidence": "verified",
+     "source_url": "https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa"
+    },
+    {
+     "claim": "A search snippet says Unplugged has been linked to less smoking, drunkenness and cannabis use, and that the Hubu method is on THL's Good Practices list. These come from search snippets, not page reads.",
+     "confidence": "likely",
+     "source_url": "https://ehyt.fi/koulutus-ja-tapahtumat/tilattavat-koulutukset/hubu-interaktiivista-paihdekasvatusta-ylakouluihin/"
+    },
+    {
+     "claim": "EUPC (EMCDDA/EUDA) exists with a Finnish short version. Its content on social norms, life skills and information-only approaches was not read, because the fetch returned 403 and the EHYT /en/ page returned 404.",
+     "confidence": "unverified",
+     "source_url": "https://www.emcdda.europa.eu/system/files/documents/2024-04/eupc-verkkoon-short-fi.pdf"
+    },
+    {
+     "claim": "No primary page was read on social-norms approaches. A rule such as 'state that most young people do not use X' depends on the national school-health-survey figures and needs those survey pages linked and dated. It is not otherwise backed here.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "The rape provisions of the Criminal Code became voluntariness-based on 1.1.2023. Rape is sexual intercourse with a person who does not take part voluntarily. Voluntariness can be shown in many ways. Intercourse by violence or threat is also rape. Under 16 cannot generally consent to sexual acts with adults. Consensual contact between young people of similar maturity is not punishable. The preparatory work deliberately avoided the word 'consent' (suostumus), which the Lakimies article notes. The site speaks of 'vapaaehtoisuus', while THL says 'consent'.",
+     "confidence": "verified",
+     "source_url": "https://oikeusministerio.fi/seksuaalirikoslaki"
+    },
+    {
+     "claim": "THL prevention-of-sexual-violence page: acts are based on consent and acts without consent are violence. Consent can be missing because a person does not give it or cannot (age, intoxication, mental state, disability). Comprehensive sex education is the main prevention tool. On disclosure: stay calm, let the person speak in their own words and only as much as they choose, take them seriously, and for under-18s explain the reporting obligation. It is written for professionals, not students.",
+     "confidence": "verified",
+     "source_url": "https://thl.fi/en/guidelines-for-professionals/prevention-of-sexual-violence"
+    },
+    {
+     "claim": "A THL blog (search snippet) says consent is often left out of sexual education, which focuses on contraception. Responsibility for safety lies with adults, not the child or young person. Not read in full.",
+     "confidence": "likely",
+     "source_url": "https://blogi.thl.fi/seksuaalikasvatuksella-voidaan-vahentaa-seksuaalivakivaltaa/"
+    },
+    {
+     "claim": "Sekasin chat: ages 12-29, anonymous and free, open every day (weekdays 9-24, weekends 15-24). Apuu-chat for under 16 is open daily 9-22. The page gives no emergency guidance, so any help box must add 112 separately. A search snippet says MIELI, Punainen Risti, Setlementtiliitto and SOS-Lapsikylä coordinate it.",
+     "confidence": "verified",
+     "source_url": "https://sekasin.fi/"
+    },
+    {
+     "claim": "Nettiturvis (Punainen Risti): for ages 12-29 and their loved ones, discuss anything, name or pseudonym only. Staff must report if a minor seems to need child welfare or is in immediate danger. The page does not mention violence or opening hours. Hours and chat-versus-video format remain unread.",
+     "confidence": "verified",
+     "source_url": "https://www.redcross.fi/nettiturvis/frequently-asked-questions"
+    },
+    {
+     "claim": "Nollalinja 116 016: free, 24/7 by phone, for anyone who has experienced domestic or intimate-partner violence regardless of gender, plus people close to them and professionals. Chat Mon-Wed 9-15 and Thu-Fri 14-20. The page states no age limit and does not say whether minors may call. It is therefore not clearly student-facing.",
+     "confidence": "verified",
+     "source_url": "https://www.nollalinja.fi"
+    },
+    {
+     "claim": "Peluuri 0800 100 101: for gambling and gaming harm and relatives. Phone Mon-Fri 12-18, chat Mon-Fri 12-15, anonymous, free. The page states no age limit and has no youth section. Note that it is not open evenings or weekends.",
+     "confidence": "verified",
+     "source_url": "https://www.peluuri.fi"
+    },
+    {
+     "claim": "Rikosuhripäivystys (RIKU) 116 006: for crime victims, loved ones and witnesses; weekday hours only; page states no age limit; has a section on children and young people (aimed at guardians) and does not say whether minors can contact it directly. Chat hours are not given.",
+     "confidence": "verified",
+     "source_url": "https://www.riku.fi/en/"
+    },
+    {
+     "claim": "Päihdeneuvonta 0800 900 45 is listed as free, anonymous, 24/7 in the EHYT blog footer. The audience (adults or youth) was not read.",
+     "confidence": "likely",
+     "source_url": "https://ehyt.fi/uutishuone/blogit/paihdekasvatus-oppilaitoksissa-mita-kannattaa-tehda/"
+    },
+    {
+     "claim": "No primary Finnish page was read on trauma-informed teaching, content notes or gambling and digital-dependence prevention for young people. Väestöliitto's and Ensi- ja turvakotien liitto's own guidance pages were not read. The 'content note' and 'trauma-informed' rules below are therefore professional practice, not sourced.",
+     "confidence": "unverified"
+    }
+   ],
+   "recommendations": [
+    "WRITING RULES, substances: (1) No scare tactics, shock images, worst-case stories or recovery testimonies; EHYT and THL both advise against them for young audiences. (2) No methods, amounts, doses, routes, prices, 'how to' or mixing details, and no ingredient detail. EHYT limits harm-reduction detail to people who already use, so general pages stay at mechanisms, risks in plain terms, laws and where to get help. (3) Do not make use look attractive or carefree, and do not moralise. (4) Teach skills (stress, pressure resistance, decisions, spotting how marketing and gambling design work) alongside facts. (5) Any claim that 'most young people do not use' needs a linked, dated school-health-survey figure; do not copy numbers.",
+    "WRITING RULES, dependence, gambling and digital: describe dependence as a health condition with biological, psychological and social causes, not a character flaw. Use person-first language ('person who has a dependence', 'person who uses'), not 'addict', 'junkie' or 'clean/dirty'. Treat gambling and gaming as separate: gambling is age-restricted, and gaming is not a dependence by default. Describe the signs of loss of control in the abstract, with no scoring test that invites self-diagnosis in class. Cover design features (variable rewards, near-misses, loot boxes) as media and consumer literacy.",
+    "WRITING RULES, violence and consent: use the law's own definition (voluntariness-based, in force 1.1.2023, read at oikeusministerio.fi/seksuaalirikoslaki) in original words, and name the wording gap ('vapaaehtoisuus' in law, 'suostumus' in everyday and THL usage). Say that violence is the responsibility of the one who uses it, never the victim; avoid 'what she was wearing' framings and victim-blaming examples. Cover intimate-partner, digital and sexual violence, and violence between all genders and in same-sex relationships. Say that help is available regardless of gender. Describe no methods, no graphic detail and no perpetrator tactics beyond what recognition of coercion needs. Case examples are labelled fictional ('kuvitteellinen'), carry no names, and end in a respectful, non-violent solution plus where to turn.",
+    "LESSON-PLAN RULES: (1) Open with a short content note (what the lesson covers, that people can step out, that nobody has to share). (2) No task asks for disclosure of own or family experience, in class or on paper; use third-person fictional cases, data and opinion questions that can be answered without personal detail. (3) Offline tasks only on paper, kept by the student. (4) Do not use guest testimonies of violence or recovery. (5) A teacher note says the school health nurse and the student welfare team are present and that a disclosure leads to adult responsibility, with the reporting duty for under-18s explained in neutral terms (THL says to explain it). (6) End every page with a help box (below). (7) Schedule as a series with discussion room, not a single lecture. (8) Keep both sides of the debate for discussion topics but never make curriculum content optional.",
+    "HELP-BOX RULES: list services by audience as read. Student-facing and clearly for under-18s: Sekasin chat (12-29, anonymous, daily, 9-24 weekdays and 15-24 weekends), Apuu-chat (under 16), Nettiturvis (12-29, with the child-welfare reporting note). Always add 112 for danger, because Sekasin's page gives none, and the school nurse or student health care as the local route. Violence pages: Nollalinja 116 016 is 24/7 and covers all genders, but its page states no age limit, so word it as 'open to anyone who has experienced domestic violence' and do not claim it is made for young people unless the operator confirms; RIKU 116 006 has weekday hours and no stated age limit, so treat both as 'also' services. Gambling: Peluuri states no age and is open weekday afternoons only, so give its hours and pair it with Sekasin and student health care. Do not list services read as adults-only. Re-read Päihdelinkki, A-klinikkasäätiö, Mielenterveystalo and Ensi- ja turvakotien liitto services (not read here) before listing them.",
+    "INCLUSIVE WORDING: gender-neutral subjects, 'a person who uses violence' and 'a person who has experienced violence' rather than 'victim' and 'perpetrator' where possible; include LGBTQ+ relationships and young people from every background in examples without singling anyone out; avoid 'normal' versus 'addict'; plain language and short sentences (EHYT offers plain-language materials, a model for the site); do not assume a student has no dependence or violence in their own family, so use family wording like 'someone close' and never 'your parents'.",
+    "CRITIC FLAGS: (a) safety reviewer must cover both violence and substance pages and gambling; (b) read EUPC, the EHYT school PDF (saved at [local path] text extraction needed), Väestöliitto and Ensi- ja turvakotien liitto pages, and a source on trauma-informed or content-note practice before the style guide cites them; (c) the brief's expected 'Peluuri, Nollalinja, Rikosuhripäivystys' links do not all state student audiences, so the expected answer on 'only services meant for young people' only partly holds."
+   ],
+   "versus_expected": "The expected answer held on the core: violence and dependence pages need content notes and student-facing help boxes, substance education avoids scare tactics and gives no amounts or methods, and the safety reviewer covers both (confirmed by EHYT and THL pages). It was too generous on the links, since Nollalinja, Peluuri and RIKU state no age limit and RIKU and Peluuri keep limited weekday hours. Only Sekasin, Apuu-chat and Nettiturvis explicitly serve ages 12-29. Two expected pieces were not found as primary pages: EUPC content and any trauma-informed teaching guidance. The rules on those are practice, not sourced.",
+   "could_not_read": [
+    "https://www.ehyt.fi/en/prevention/european-prevention-curriculum/ (404)",
+    "https://www.emcdda.europa.eu/system/files/documents/2024-04/eupc-verkkoon-short-fi.pdf (403)",
+    "https://ehyt.fi/wp-content/uploads/2025/10/Paihdekasvatus_kouluissa_ja_oppilaitoksissa_verkkoon_2026.pdf (binary PDF, no text extracted; saved locally)",
+    "https://www.punainenristi.fi/nuorten-turvatalo/ (404)",
+    "https://thl.fi/aiheet/alkoholi-tupakka-ja-riippuvuudet/paihteiden-kayton-ehkaisy (404)",
+    "Väestöliitto and Ensi- ja turvakotien liitto guidance pages (not fetched; only appeared in search snippets or not at all)",
+    "Päihdelinkki, A-klinikkasäätiö and Mielenterveystalo service audiences (not fetched)"
+   ],
+   "sources_or_tools": [
+    {
+     "name": "EHYT: Päihdekasvatus",
+     "what": "substance-education principles and what to avoid",
+     "url": "https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/",
+     "access": "open web",
+     "licence": "unknown, link-out"
+    },
+    {
+     "name": "THL: Ehkäisevä päihdetyö kouluissa ja oppilaitoksissa",
+     "what": "school prevention guidance, no fear messaging, gambling mention",
+     "url": "https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa",
+     "access": "open web",
+     "licence": "unknown, link-out"
+    },
+    {
+     "name": "Oikeusministeriö: Seksuaalirikoslaki",
+     "what": "voluntariness-based rape definition, 1.1.2023",
+     "url": "https://oikeusministerio.fi/seksuaalirikoslaki",
+     "access": "open web",
+     "licence": "unknown, link-out"
+    },
+    {
+     "name": "THL: Prevention of sexual violence",
+     "what": "consent wording and disclosure handling for professionals",
+     "url": "https://thl.fi/en/guidelines-for-professionals/prevention-of-sexual-violence",
+     "access": "open web",
+     "licence": "unknown, link-out"
+    },
+    {
+     "name": "Sekasin chat",
+     "what": "youth chat 12-29",
+     "url": "https://sekasin.fi/",
+     "access": "open web",
+     "licence": "service, link-out"
+    },
+    {
+     "name": "Punainen Risti Nettiturvis FAQ",
+     "what": "youth online support 12-29",
+     "url": "https://www.redcross.fi/nettiturvis/frequently-asked-questions",
+     "access": "open web",
+     "licence": "service, link-out"
+    },
+    {
+     "name": "Nollalinja",
+     "what": "violence helpline, no stated age limit",
+     "url": "https://www.nollalinja.fi",
+     "access": "open web",
+     "licence": "service, link-out"
+    },
+    {
+     "name": "Peluuri",
+     "what": "gambling and gaming harm help",
+     "url": "https://www.peluuri.fi",
+     "access": "open web",
+     "licence": "service, link-out"
+    },
+    {
+     "name": "Rikosuhripäivystys",
+     "what": "crime victim support",
+     "url": "https://www.riku.fi/en/",
+     "access": "open web",
+     "licence": "service, link-out"
+    }
+   ]
+  },
+  {
+   "key": "te1-lessons-and-exam",
+   "summary": "Local read only, no web. Brief 003's report (docs/research/2026-11-21-exam-cross-check.md) does not exist yet; docs/research holds only the 001 research and scouting JSON. The TE1 judgement and diary give a concrete lesson list for TE2 writers. The contract and style guide are TE1-bound (te1 slugs, TE1 coverage checks, no dependence or material-task provisions) and need TE2 additions.",
+   "findings": [
+    {
+     "claim": "Exam cross-check report is MISSING. Brief 003 is checking: (1) per exam task in 2023-2026 spring and autumn sessions, session, part, points, task type, whether material-based, curriculum codes (TE1/TE2/TE3/none), and which TE1 topic covers it (full/partial/none); (2) a coverage matrix and share of points per module; (3) TE1 areas the exam asks that our topics treat thinly; (4) whether our exam-task types match the real distribution; (5) recommendations for TE1 changes and what TE2 and TE3 must carry. Its written expectation: exam draws on all three modules, TE1 is about a third to a half of tasks, TE2 covers substances and dependence, source criticism, health communication, environment and safety, the exam weights information processing so TE1 tasks lean too much on recall, and thin spots are applying models to material, health-culture examples and reading statistics (e.g. Kouluterveyskysely). All of this is unconfirmed until the report exists; brief 004 says to feed it into the topic list when ready, else use YTL public documents.",
+     "confidence": "verified",
+     "source_url": "prompts/003-exam-cross-check.md"
+    },
+    {
+     "claim": "TE1 lesson 1 (help-link audience): a link that opens is not a link that fits. SeriE (Sexpo) was linked as anonymous help for students but serves people whose sexual interest is directed at children; only the facts checker caught it. Record who each page is for, read on the page, before it enters a help box. Relevant TE2 case: dependence and violence help links (Nollalinja, Rikosuhripäivystys, Päihdelinkki, A-klinikkasäätiö, Peluuri, EHYT) must each be read for audience (youth vs adult vs professional) and fit. Seed question open: should the build refuse a help-box link whose materials audience is not students.",
+     "confidence": "verified",
+     "source_url": "docs/diary/2026-11-21-te1-content.md"
+    },
+    {
+     "claim": "TE1 lesson 2 (both sides): a model answer giving equal points to either stance made curriculum content (sexual rights, equality duty) look optional. Fix: debate how the school informs and involves guardians, not whether the topic is taught; state in the model answer that the content belongs to the curriculum; add a typical-error bullet guarding against the old framing; use 'voivat kokea', not 'usein kokevat'. TE2 applies to substance education, violence prevention, sustainability and elintapoihin puuttuminen style dilemmas.",
+     "confidence": "verified",
+     "source_url": "docs/review/2026-11-21-brief-002-judgement.md"
+    },
+    {
+     "claim": "TE1 lesson 3 (offline alternatives self-contained): offline lines that pointed to the page's own sections or required printouts were flagged across 01, 05-10. The facts needed must be written on the task itself (e.g. a covered 'Tarkistusrivi' for self-check) and the line reads 'Tämä on paperitehtävä. Tee vaiheet 1-5 paperilla.' Style guide already says no printout, no partner.",
+     "confidence": "verified",
+     "source_url": "docs/review/2026-11-21-brief-002-judgement.md"
+    },
+    {
+     "claim": "TE1 lesson 4 (data and inventory integrity): materials.yaml claimed to cover all topic links but missed 4-9 URLs per topic; it was regenerated from the three front-matter fields (official_links, materials, yearly_facts). The generator lives outside the project, so the file goes stale when front matter changes. TE2 should generate per-topic lists from front matter in a committed script, or state the limit. Also keep a body link only if it is in front matter; licence wording should be identical in body and inventory ('Kaikki oikeudet pidätetään'); every yearly-facts sentence must be supported by its note (e.g. the terveyskysely wording had to be cut).",
+     "confidence": "verified",
+     "source_url": "docs/review/2026-11-21-brief-002-judgement.md"
+    },
+    {
+     "claim": "TE1 lesson 5 (honest glosses): THL Opiskeluterveydenhuolto page is for professionals and was relabelled 'tietoa ammattilaisille'; OPH Opiskeluhuolto is mainly for education providers though it states students' right to kuraattori and psykologi. A gloss must say the audience; a chat or anonymity claim needs a source on the page. For TE2: any claim like 'anonymous', 'free', 'chat' or 'for young people' on a help link needs the passage recorded.",
+     "confidence": "verified",
+     "source_url": "docs/review/2026-11-21-brief-002-judgement.md"
+    },
+    {
+     "claim": "TE1 lesson 6 (label and plan accuracy): 'Harjoittelee' and 'Harjoittelet' labels overclaimed in 03, 04, 02, 07, 10 (e.g. a true/false set that only describes does not practise 'apply' outcomes; a task without lifestyle content cannot claim a lifestyle outcome). Label an Osaan only if a row or step really exercises it; coverage must still be complete. Plans: the Lyhyt alustus must name every term the goal task needs (e.g. the five learning ways, factor kinds and levels, crisis types); fallbacks must not contradict (move the whole goal task or show names without examples); the 45-min plan keeps the goal task whole. Task wording must match the model answer (01 K2 'one factor per level' vs two given).",
+     "confidence": "verified",
+     "source_url": "docs/review/2026-11-21-brief-002-judgement.md"
+    },
+    {
+     "claim": "TE1 lesson 7 (scope and hard limits): file limits are checked by script, not by checkers; te1-07 reached 501 lines and te1-06 exactly 500, while the style guide says under 500 and CLAUDE.md rule 8 says no file over 500. Plan a line budget per topic. content_note rendering is an engine question; blockquotes written by hand in 06 and 07 are to be deleted once the engine renders content_note at the top of page and lesson plan. Scrub local paths from committed research files (scouting.json has a local folder path around lines 823 and 866-867) and run a pre-publish scan before the first push.",
+     "confidence": "verified",
+     "source_url": "docs/review/2026-11-21-brief-002-judgement.md"
+    },
+    {
+     "claim": "TE1 lesson 8 (scope handoff to TE2): source criticism and systematic source comparison are TE2 content; TE1 03 keeps only a short checklist and should carry one sentence saying TE2 deepens it (listed as a minor, may still be open). TE2 topics 01-02 should therefore pick up that thread and sibling-link back to te1-03. Substances were also deferred to TE2; TE1 pages carried no substance content.",
+     "confidence": "verified",
+     "source_url": "docs/review/2026-11-21-brief-002-judgement.md"
+    },
+    {
+     "claim": "Open TE1 minors the judge did not close and which TE2 writers should not copy: crisis-phase sentence in 09 plan, mismatch between invented person offline and named case in steps (01, 03, 05-09), tunnerintasi.fi and a RIKU link in te1-06 flagged as other checker minors deferred to next brief. Status of these fixes was not verified from content files (not read, out of aspect).",
+     "confidence": "likely",
+     "source_url": "docs/review/2026-11-21-brief-002-judgement.md"
+    },
+    {
+     "claim": "Style guide rules that carry to TE2 unchanged: sinä voice, population-not-person, fictional cases marked kuvitteellinen with rotating neutral names, Osaan outcomes per cited code (never the student's own habits), tasks of 20/10/15 min varied, exam task mapping A20/B20/C30 (120 points), fixed line verbatim, help box in three parts with 112 first and dated links, figures banned on flagged pages (kg, kcal, BMI, grams, portions, doses, hours), Opiskelijalle 300-600 words, whole topic 3,000-5,500 words under 500 lines, no images or embeds. Exam task type slugs: oikein-vaarin, virheiden-tunnistaminen, vertailu, taulukon-taydentaminen, teorian-soveltaminen, aineiston-analyysi, eettinen-analyysi, tutkimussuunnitelma.",
+     "confidence": "verified",
+     "source_url": "docs/style-guide.md"
+    },
+    {
+     "claim": "Contract gaps for TE2: (a) file naming, slugs list (§13) and coverage check ('every TE1 objective and content code') are TE1-only and need te2-NN slugs and TE2.t1-t5, TE2.s1-s8 coverage; (b) safety_flags vocabulary already has substances and violence, but the figure scanner is specified only for eating and suicide_selfharm, so extend it to substances (no amounts, doses, methods) and violence (no methods); gambling/behavioural dependence figures (stakes, losses) need a rule; (c) the glossary has no TE2 terms (riippuvuus, päihde, toiminnallinen riippuvuus, haitta, ehkäisy, kestävä kehitys, väkivalta, lähisuhdeväkivalta, kiusaaminen, tutkimusprosessi, harha, terveysviestintä, työhyvinvointi); (d) tasks must deliver more material-based exam types: aineiston-analyysi is the only material type slug, so consider adding slugs such as tutkimusyhteenvedon-arviointi, kuvion-tulkinta and viestinnan-analyysi, plus a rule that self-written material is labelled *Aineisto (kuvitteellinen)* with fictional figures allowed only on unflagged pages and never about substances, bodies, food or sleep (the style guide already bans these on substances, so fictional dependence statistics are not allowed; research and graph material for the dependence topics must be linked official sources or qualitative); (e) the contract says tasks never ask about own behaviour, which matters for dependence pages (no 'tell about your use').",
+     "confidence": "verified",
+     "source_url": "docs/content-contract.md"
+    },
+    {
+     "claim": "Style guide needs for TE2: a dependence glossary and neutral-wording table (e.g. 'henkilö, jolla on päihderiippuvuus' person-first, no 'narkkari/alkoholisti/addikti', 'käyttö' vs 'käyttäjä', neutral for peluuri/pelaaminen), safe-messaging section for substances and violence (no methods, no doses, no glamourising, help box on each page, content_note), a violence do/don't row (names of services, no victim blaming, inclusive of every gender and family form, mention that violence can occur in any relationship), a source-criticism/research vocabulary block (otos, korrelaatio vs kausaalisuus, harha, vertaisarviointi, luotettavuus, pätevyys), and environment/sustainability terms (kestävä kehitys, ekologinen, sosiaalinen, kulttuurinen, taloudellinen kestävyys). 'Both sides' guard: the TE2 debate tasks (e.g. interventions in lifestyle or substance policy) must state which content is curriculum and cannot be treated as optional. A rule for graph/table material in tasks (how it is described for readers who cannot see it, and an offline paper version) is also missing.",
+     "confidence": "likely",
+     "source_url": "docs/style-guide.md"
+    },
+    {
+     "claim": "Brief 004's own expected answer (model-only, not yet confirmed): about ten topics (knowledge and biases; research process; health communication; built and natural environment; psychosocial environment; sustainable development; safety and violence prevention; wellbeing at work; how dependence forms; substance and behavioural dependences), mostly link-out materials, content notes and help boxes for violence and dependence, safety reviewer covers violence and substances, and exam tasks mostly material-based with self-written material labelled kuvitteellinen. TE2 curriculum: 5 objectives TE2.t1-t5, 8 content areas s1-s8 in three groups.",
+     "confidence": "verified",
+     "source_url": "prompts/004-te2.md"
+    },
+    {
+     "claim": "The tension to resolve: brief 004 wants mostly material-based exam tasks with self-written material, while the style guide bans fictional figures about substances and flagged pages. For research and graph tasks the writers should use fictional material on unflagged topics (01-02 research and sources, 03 communication, 04-06 environment) and qualitative or described material (a fictional leaflet, a fictional interview excerpt, a fictional campaign) on the dependence and violence pages.",
+     "confidence": "likely",
+     "source_url": "docs/style-guide.md"
+    }
+   ],
+   "recommendations": [
+    "Treat brief 003's report as pending: run TE2 research and writing with the exam question open, then reconcile when docs/research/2026-11-21-exam-cross-check.md appears. Until then the TE2 exam-task design leans on the TE1 judgement and brief 004's expectation only.",
+    "Add a checklist to the TE2 writer brief from the eight TE1 lessons: audience record for every help link; both-sides guard with a curriculum-content line in the model answer; self-contained offline tasks; regenerated materials inventory from front matter (commit the generator); honest audience glosses; Harjoittelee labels only where a row exercises the Osaan; plan alustus names every term the goal task needs; line-count script run before the checkers (cap 499).",
+    "Write a dated contract addendum for TE2: te2-NN slugs, TE2.t1-t5 and s1-s8 coverage checks, figure and method scanner extended to substances, gambling and violence flags, rule that dependence and violence pages use only qualitative fictional material, and a requirement that at least two of three exam tasks per topic are material-based.",
+    "Add style-guide sections for TE2: person-first dependence wording, safe messaging for violence and substances, glossary rows for dependence, research and environment terms, and a rule for describing graph and table material for screen readers and for the offline paper version.",
+    "Give te2-01 or te2-02 a sibling link to te1-03 and carry the source-criticism thread, since TE1 03 hands it over to TE2.",
+    "Before the first push (not part of TE2 content): scrub the local path from docs/research/2026-11-21-scouting.json and run the pre-publish scan; confirm the three TE1 blockers and minors were applied (not verified here)."
+   ],
+   "versus_expected": "The brief's expected answer on material-based tasks (item 4) is consistent with the TE1 judgement (aineiston-analyysi exists as a type but TE1 tasks were mostly concept-based), but it collides with the style guide's ban on fictional figures about substances, so the expectation is refined: material-based yes, but qualitative or linked material on dependence and violence pages. Brief 004 expected the safety reviewer to cover violence and substances; the contract's safety_flags already include both but the figure scanner and glossary do not yet. The cross-check report (item the brief says feeds the topic list) is absent, so nothing about exam weights for TE2 is confirmed.",
+   "could_not_read": [
+    "docs/research/2026-11-21-exam-cross-check.md (does not exist yet)",
+    "content/topics/*.md and data/*.yaml (outside the assigned reading list; the judgement's account of their state was not independently checked)"
+   ]
+  }
+ ],
+ "critic": {
+  "gaps": [
+   "BLOCKING: brief 003's exam cross-check report (docs/research/2026-11-21-exam-cross-check.md) does not exist. The brief says it feeds the topic list, so the exam weights for TE2 are unconfirmed. Until it exists, the exam design rests on the exam reader's six YTL papers (spring 2023 and earlier not read).",
+   "Unverified law figures: the alcohol ages 18/20, the tobacco age 18 as a statute section, the drug-use offence sections (RL 50 luku, Huumausainelaki 373/2008), the air-quality figures and the Statistics Finland +20 % figure were never read on a primary page. Finlex did not render. Grade them unverified or likely and link them, do not state them. My spot check confirmed the age-16 point at oikeusministerio.fi: a child cannot consent with an adult, and intercourse with a child under 16 is generally lapsenraiskaus. The facts reader had it as not verified.",
+   "Contradiction on RIKU. The materials reader proposes RIKU's 'Lapsi ja nuori rikoksen uhrina' section as a student help link. The safety reader says that section is aimed at guardians and does not say whether minors can contact RIKU directly. Neither read the section page itself. Keep RIKU as an 'also' or teacher link until the section page is read for audience.",
+   "Contradiction on fictional figures. The exam reader proposes invented trend figures for gambling or nicotine use among young people (s7-s8). The style guide bans fictional figures on substance-flagged pages, as the te1-lessons reader notes. Resolve it this way: te2-09 and te2-10 use only qualitative fictional material or linked official statistics, never invented numbers. Invented tables are allowed on te2-01..06 and te2-08. On te2-07 use percentages-feeling-safe only if the safety reviewer accepts them; qualitative material is safer.",
+   "Help-link audiences still unread: BuenoTalk.fi (EHYT youth), OnksOK.fi (linked from Nettiturvakoti), MIELI youth pages, Mielenterveystalo, Päihdelinkki for youth, Nettiturvis hours and format, and the hours of Nettiturvakoti's 'Apua chatissa'. None may enter a student help box before the page is read.",
+   "Nuortenlinkki: the site is aimed at young people (spot-checked), but the chat itself states no age limit and opens only Mon 15-17 and Wed 13-15. Help boxes must give these hours and pair Nuortenlinkki with Sekasin and student health care.",
+   "Licences that are only likely or open-unspecified: Tieteen termipankki (CC BY-SA 3.0 read from the footer, graded likely); Faktabaari ('Creative Commons', version not stated); THL open data CC BY 4.0, which covers data, not page text. Treat all of them as link-out until the terms page is read.",
+   "Curriculum fidelity: TE2.t4 does not name sustainable development, safety and violence prevention, or work wellbeing (s4-s6). Topics 06-08 must say they serve those content areas, with t4 the nearest objective. The OPH support material says nothing on the depth of s5 and s6, so that depth is grade M and needs review by the human teacher.",
+   "No YTL precedent was found for s5 (violence prevention) or s6 (work wellbeing) in the six papers read. Exam tasks for te2-07 and te2-08 are model-only designs.",
+   "Public hygiene: the safety reader's output contains a local user path, a tool-results folder under [local path] It must not be copied into committed research or brief files. The scouting.json local-path scrub from TE1 is also still open.",
+   "EUPC (403) and the EHYT school PDF (no text extracted) are unread. No Finnish primary source was read for trauma-informed teaching, content notes, social-norms messaging, or gambling and digital-dependence prevention for youth. Those rules are professional practice, grade M.",
+   "Stale or deep links found broken: stuk.fi/aiheet/radon, thl.fi substance pages, poliisi.fi/nuoret and tyosuojelu.fi/tyoehdot/nuoret-tyontekijat all returned 404. Re-find the Finnish URLs from each homepage before use. The English STUK and Työsuojelu pages work.",
+   "The status of the TE1 judge's open minors and blockers (te1-03 handoff sentence to TE2, line counts 500/501, RIKU and tunnerintasi links in te1-06) was not verified from the content files.",
+   "Small precision fix: the exam reader wrote '-5 p if neither material is used' for autumn 2024 task 8. The page shows a 5 p deduction if the material is not referred to, and referring to one material is enough. These are consistent, but templates should say 'at least one material'."
+  ],
+  "spot_checks": [
+   {
+    "claim": "Sekasin chat serves ages 12-29, anonymous and free. Sekasin-chat is open weekdays 9-24 and weekends 15-24, and Apuu-chat for under-16s daily 9-22. Coordinated by Sekasin Kollektiivi on Ninchat.",
+    "result": "verified. The page says 'Anonyymi ja ilmainen chat 12–29-vuotiaille'. The hours match the readers.",
+    "url": "https://sekasin.fi/"
+   },
+   {
+    "claim": "Nuortenlinkki (A-klinikkasäätiö) is aimed at young people. Chat Mon 15-17 and Wed 13-15. Walk in terapia for under-29s Tue and Thu 17-19.",
+    "result": "verified for the publisher (A-klinikkasäätiö, STEA support), the youth focus by name and tagline, the chat hours, and the under-29 limit for Walk in terapia. The chat itself states no age limit and the site gives no overall age range.",
+    "url": "https://nuortenlinkki.fi/"
+   },
+   {
+    "claim": "Since 1.1.2023 rape is defined by lack of voluntariness. A child cannot consent with an adult, and under 16 is the protected limit.",
+    "result": "verified. The reform has been in force since 1.1.2023. Rape is defined by a person not taking part 'vapaaehtoisesti', and voluntariness can be shown in words, conduct or otherwise. A child cannot consent to a sexual act with an adult, intercourse with a child under 16 is generally lapsenraiskaus, and 16-17-year-olds get better protection than before. This upgrades the facts reader's 'age 16 not verified'.",
+    "url": "https://oikeusministerio.fi/seksuaalirikoslaki"
+   },
+   {
+    "claim": "The radon reference level is 300 Bq/m3 in dwellings and 200 Bq/m3 for the design and construction of new buildings, under the STM Decree on Ionizing Radiation.",
+    "result": "verified for both values and for attributing the 300 level to the STM decree. The page gives no decree number (1044/2018 remains likely). Link the page, do not copy the figures.",
+    "url": "https://stuk.fi/en/reference-levels-and-regulations-concerning-radon-in-dwellings"
+   },
+   {
+    "claim": "YTL autumn 2024 task 8 is a 30 p dependence task with materials 8.A and 8.B, scored 15 for content and 15 for information processing, with a deduction for not using the material.",
+    "result": "verified. The required content is: forms (substance and behavioural); mechanisms (biological, psychological, social); features (tolerance, withdrawal, loss of control, relapse); harms for the individual, community and society, both direct and indirect. The deduction is 5 p, and referring to one material is enough. The paper's 9 tasks were also confirmed: 1, 3, 4, 5, 7 and 8 carry material; 2, 6 and 9 do not.",
+    "url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html"
+   },
+   {
+    "claim": "Nettiturvakoti (Ensi- ja turvakotien liitto) has a section for children and young people under 18.",
+    "result": "verified. The 'Olen lapsi tai nuori' section is for children and young people under 18, and the page links to OnksOK.fi (not read). Chat hours are not on the front page, and email replies come within 3 working days.",
+    "url": "https://nettiturvakoti.fi/"
+   },
+   {
+    "claim": "The new gambling act mainly enters into force 1.7.2027, the age limit stays 18, and Veikkaus keeps lotto-type games, scratch cards and physical machines and casinos.",
+    "result": "verified from the government release of 15.1.2026.",
+    "url": "https://valtioneuvosto.fi/-/1410869/rahapelien-jarjestaminen-avataan-osittain-kilpailulle"
+   }
+  ],
+  "versus_expected": [
+   {
+    "aspect": "1. About ten topics (the listed ten)",
+    "verdict": "refined",
+    "note": "Right in substance: the ten topics map onto s1-s8 and t1-t5 with no gaps. Refined in two ways. Topics 4 and 5 both serve s3. TE2.t4 does not name s4-s6, so topics 6-8 must say they serve content areas only, with t4 the nearest objective, and their depth is grade M."
+   },
+   {
+    "aspect": "2. Links: research THL and Duodecim; environment Ilmatieteen laitos, TTL and Ympäristöministeriö; work TTL",
+    "verdict": "refined",
+    "note": "These hold as link-out. Ympäristöministeriö and Sitra have no school materials, so they are context links only. TTL addresses workplaces, not students. Työsuojelu.fi's young-worker page is the better s6 link."
+   },
+   {
+    "aspect": "2. Links: violence Nollalinja, RIKU, Väestöliitto and MIELI; dependence EHYT, A-klinikkasäätiö, Päihdelinkki, THL, Peluuri and STM",
+    "verdict": "wrong",
+    "note": "Read as help links, this does not hold. Nollalinja, RIKU, Peluuri, Päihdelinkki, EHYT and MIELI state no youth audience on the pages read. Only Sekasin/Apuu, Nettiturvis, Nuortenlinkki, Nettiturvakoti's under-18 section and Väestöliitto's under-29 chat qualify as student help links. The others stay as labelled materials or teacher links."
+   },
+   {
+    "aspect": "2. Almost all link-out",
+    "verdict": "right",
+    "note": "Every service and authority page read is link-out. The few open items are Tieteen termipankki (CC BY-SA 3.0, likely), THL open data (CC BY 4.0, data only) and several aoe.fi items (CC BY or CC BY-SA 4.0)."
+   },
+   {
+    "aspect": "3. Content notes and help boxes on violence and dependence pages; no scare tactics, amounts or methods; safety reviewer covers violence and substances",
+    "verdict": "refined",
+    "note": "The EHYT and THL pages confirm no scare tactics and no recovery testimonies, and EHYT limits detail on use to people who already use. Two refinements: the help boxes must be built from the short list of verified youth services, and the safety reviewer must also cover gambling and gaming. The contract's figure scanner must be extended to the substance and violence flags."
+   },
+   {
+    "aspect": "4. Mostly material-based exam tasks with self-written material labelled kuvitteellinen",
+    "verdict": "refined",
+    "note": "YTL part 3 tasks almost always carry material, but many TE2-type tasks (radon, sustainable development, clean water, research-type definitions) have none, so mix concept tasks with material tasks. On dependence and violence pages the self-written material must be qualitative, never invented statistics."
+   }
+  ],
+  "proposal": [
+   {
+    "task": "a",
+    "title": "TE2 topic list with codes, flags and TE1 base",
+    "detail": "Coverage check: t1 01,02 | t2 01,02,03 | t3 03 | t4 04-08 | t5 09,10 | s1 01,02 | s2 03 | s3 04,05 | s4 06 | s5 07 | s6 08 | s7 09 | s8 10. Every TE2 code is covered.\n\nte2-01 'Tieteellinen tieto, arkitieto ja ajattelun vinoumat'. Codes: TE2.s1, TE2.t1, TE2.t2. Flags: none. Builds on te1-03 (terveystiedon lukutaito checklist), linking back and saying TE2 deepens it. Uses medikalisaatio and uskomushoidot only as examples, without re-teaching them.\n\nte2-02 'Tutkimusprosessi ja tutkimustiedon luotettavuus'. Codes: TE2.s1, TE2.t1, TE2.t2. Flags: none. Builds on te1-03. Systematic comparison of two or more sources with different purposes, methods and ages. Frame: research question, design, data, analysis, reporting, peer review. Covers otos, korrelaatio vs kausaalisuus and kysely vs rekisteri.\n\nte2-03 'Terveysviestintä ja sen vaikutuskeinot'. Codes: TE2.s2, TE2.t3, TE2.t2. Flags: none. Builds on te1-03 (health culture) and te1-04 (ruokapuhe) by link only. Covers advertising, influencers, campaigns and AI or chatbot answers. Ruokapuhe is not repeated.\n\nte2-04 'Rakennettu ja luonnonympäristö ja terveys'. Codes: TE2.s3, TE2.t4. Flags: none. Builds on te1-01 (the global or environmental background layer, deepened here). Covers air quality, noise, indoor air, radon, water, green spaces and heat, with all figures linked.\n\nte2-05 'Psykososiaalinen ympäristö ja mediaympäristö'. Codes: TE2.s3, TE2.t4, TE2.t3 (media environment). Flags: none. Builds on te1-09 and te1-10 by cross-link. Stress theory is not re-taught. Covers the community, belonging, the school climate and the digital environment as a living environment.\n\nte2-06 'Kestävä kehitys ja terveys'. Codes: TE2.s4, TE2.t4 (consumption habits). The curriculum field must say s4 has no own objective. Flags: none. Builds on te1-01. Covers the four dimensions (ecological, economic, social, cultural), future generations and the student's own consumption as a topic of analysis, never asking for disclosure of own habits. Links to TE3 health inequality and ethics.\n\nte2-07 'Ympäristöjen turvallisuus ja väkivallan ehkäisy'. Codes: TE2.s5, nearest objective TE2.t4. The curriculum field notes it is content-area only. Flags: violence. Builds on te1-07 by link for consent and sexual violence. Covers violence in general (forms at a general level, environments, risk and protective factors, prevention at individual, school and society levels), accident safety and help. Depth is grade M.\n\nte2-08 'Työhyvinvointi'. Codes: TE2.s6, nearest objective TE2.t4, with the content-area-only note. Flags: none. Builds on te1-09 and te1-10 via the demands-resources idea, by cross-link only. Covers the physical, psychosocial and organisational work environment, occupational health care, and young workers' protection (link only). Depth is grade M.\n\nte2-09 'Mielihyvä ja riippuvuuden mekanismit'. Codes: TE2.s7, TE2.t5. Flags: substances. No TE1 base, because substances were deferred to TE2. Covers the biological (reward), psychological (learning, coping) and social mechanisms, and tolerance, withdrawal, loss of control and relapse as general features. No substance-specific detail.\n\nte2-10 'Aine- ja toiminnalliset riippuvuudet: syyt, haitat ja ehkäisy'. Codes: TE2.s8, TE2.t5. Flags: substances. Gambling and gaming fall under substances or a new 'gambling' flag if the contract adds one. Builds on te1-02 (behaviour models applied to prevention, not re-explained). Covers key substances as classes (alcohol, nicotine products, cannabis and other drugs) and behavioural dependences (gambling; gaming and phone use with a caution that diagnoses differ). Harms are direct and indirect, for the individual, community and society. Prevention is covered across the five WHO areas, and laws are stated as stable rules plus dated links. Eating disorders and painonhallinta are excluded.",
+    "sources": [
+     "https://eperusteet.opintopolku.fi/eperusteet-service/api/external/peruste/6828810",
+     "lukion-terveystieto\\data\\curriculum.yaml",
+     "https://www.oph.fi/sites/default/files/documents/LOPS-tukimateriaali-terveystieto_2020-11-27.pdf",
+     "lukion-terveystieto\\prompts\\004-te2.md"
+    ]
+   },
+   {
+    "task": "b",
+    "title": "Link inventory per TE2 topic (audience as read; licence class)",
+    "detail": "HELP-BOX POOL, the only services whose page says they serve young people:\n- Sekasin chat (12-29, Sekasin Kollektiivi; weekdays 9-24, weekends 15-24), verified.\n- Apuu-chat (under 16, daily 9-22), verified.\n- Nettiturvis, Punainen Risti (12-29; staff report child-welfare needs of minors), verified via the FAQ. Hours not read.\n- Nuortenlinkki, A-klinikkasäätiö (young people; chat Mon 15-17 and Wed 13-15; Walk in terapia under 29, Tue and Thu 17-19), verified.\n- Nettiturvakoti 'Olen lapsi tai nuori', Ensi- ja turvakotien liitto (under 18), verified. Chat hours not read.\n- Väestöliitto seksuaalineuvonnan chat (under 29), verified on the homepage.\nAlways add 112 first and student health care as the local route. Everything below is a material or teacher link, labelled with its audience. All are link-out unless stated.\n\nte2-01:\n- Tieteen termipankki: University of Helsinki network, research community and public. Open, CC BY-SA 3.0 (likely).\n- Faktabaari EDU: Avoin Yhteiskunta ry, public and teachers. CC version unstated, treat as link-out.\n- aoe.fi 3554 Argumenttikortit: Tampere University; perusopetus, lukio and ammatillinen. CC BY-NC-ND 4.0, link-out.\n- Duodecim Terveyskirjasto: public, as an example of an expert source.\n\nte2-02:\n- aoe.fi 3006 and 3050 Asiantuntijalähteen arviointi: HAMK, learner and teacher. Open, CC BY-SA 4.0.\n- Terveyskirjasto (Duodecim, public).\n- THL statistics and open data: public and professionals. Data CC BY 4.0, pages link-out.\n- YTL grading-instruction pages (students and teachers): link only, nothing copied.\n\nte2-03:\n- Faktabaari: public and teachers.\n- Mediataitokoulu (Kuvi): media educators, so a teacher link.\n- Kuvi mediakasvatus: professionals.\n- Kuluttajaliitto: consumers. Weak fit; read a deeper page first.\n\nte2-04:\n- Ilmatieteen laitos ilmanlaatu: public and researchers. Page link-out; data licence unverified.\n- STUK radon reference levels (EN page verified; re-find the Finnish URL): public.\n- TTL Sisäilma: workplaces and building users, a teacher link.\n- THL environmental-health positions: public and professionals.\n\nte2-05:\n- Mediataitokoulu: teacher link.\n- THL school-health-survey pages (to be read and dated): public and professionals.\n- Sekasin via the help box only.\n- MIELI: general public. Its youth page is not read, so it is not a youth help link.\n\nte2-06:\n- aoe.fi 4038 Kestävän kehityksen käsikirja lukioille: SASKY, learner and teacher. Open, CC BY 4.0.\n- aoe.fi 2842 Kestävä kehitys -opintojakso: SASKY, teacher. Open, CC BY-SA 4.0.\n- aoe.fi 2284 and 2319 Kestävää tulevaisuutta lukiolaisille: Helsingin kaupunki. Open, CC BY-SA 4.0. Partial health fit.\n- Ympäristöministeriö (public and policy; context only).\n- Sitra (audience unstated; context).\n\nte2-07:\n- THL Väkivalta statistics: public, policymakers and professionals; updated 28.5.2026.\n- Oikeusministeriö seksuaalirikoslaki: public; a stable-rule source.\n- Nettiturvakoti (help box, under-18 section).\n- Nollalinja 116 016 (24/7 phone; any gender; no age stated) as an 'also' link worded 'open to anyone who has experienced intimate-partner violence'.\n- RIKU 116 006 (crime victims; weekday hours; youth section aimed at guardians per one reader) as an 'also' link.\n- Poliisi (public; 112).\n\nte2-08:\n- Työsuojelu.fi 'Nuori työntekijä': young workers and employers; updated 16.2.2026; figures linked only.\n- TTL työhyvinvointi: workplaces, teacher link.\n- aoe.fi 4638 Viisi askelta tasapainoisempaan työelämään: Väestöliiton Hyvinvointi Oy; lukio and ammatillinen. CC BY-NC-ND 4.0, link-out.\n\nte2-09:\n- Nuortenlinkki (help box and material).\n- EHYT päihdekasvatus: professionals and public, teacher link.\n- THL ehkäisevä päihdetyö kouluissa: professionals, teacher link.\n- Päihdelinkki: adults and relatives; material only, not help.\n\nte2-10:\n- Nuortenlinkki.\n- STM päihdehaittojen ehkäisy: public; law and policy.\n- Valtioneuvosto releases on the alcohol act (3.7.2026), the nicotine pouches act (1.8.2025, 1.2.2026, 1.8.2026) and the gambling act (1.7.2027), as dated sources.\n- Peluuri 0800 100 101: no age stated; Mon-Fri 12-18; an 'also' link with hours.\n- EHYT Päihdeneuvonta (audience not read; not in the help box).\n- Read BuenoTalk.fi before any student use.",
+    "sources": [
+     "https://sekasin.fi/",
+     "https://nuortenlinkki.fi/",
+     "https://nettiturvakoti.fi/",
+     "https://www.vaestoliitto.fi/",
+     "https://www.redcross.fi/nettiturvis/frequently-asked-questions",
+     "https://tieteentermipankki.fi/",
+     "https://faktabaari.fi/",
+     "https://aoe.fi/api/v2/search",
+     "https://www.ilmatieteenlaitos.fi/ilmanlaatu",
+     "https://stuk.fi/en/reference-levels-and-regulations-concerning-radon-in-dwellings",
+     "https://thl.fi/data-ja-tilastot/vakivalta",
+     "https://www.tyosuojelu.fi/tyosuhde/nuori-tyontekija",
+     "https://www.nollalinja.fi/",
+     "https://www.riku.fi/",
+     "https://peluuri.fi/",
+     "https://stm.fi/",
+     "https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/"
+    ]
+   },
+   {
+    "task": "c",
+    "title": "Style-guide and contract additions for TE2",
+    "detail": "CONTRACT ADDENDUM (dated):\n(1) te2-01..te2-10 slugs. The coverage check covers TE2.t1-t5 and TE2.s1-s8, each by a topic and an exam task.\n(2) For s4-s6 the curriculum field states 'sisältöalue; lähin tavoite TE2.t4'.\n(3) The figure and method scanner is extended to the substances flag (no amounts, doses, routes, prices, mixing, ingredients) and the violence flag (no methods or graphic detail). Add a 'gambling' flag or extend substances to cover stakes, losses and odds.\n(4) Help-box links must come from an audience-verified list with the page passage and date recorded. The build refuses others.\n(5) New task-type slugs beside aineiston-analyysi: tutkimustiedon-arviointi, kuvion-tulkinta, viestinnan-analyysi.\n(6) At least two of three exam tasks per topic are material-based, except where the topic is concept-heavy (keep one concept task across the module per YTL size).\n(7) Self-written material is headed '*Aineisto (kuvitteellinen)*'. Invented numbers are allowed only on unflagged pages and are plainly unrealistic. Substance and violence pages use qualitative fictional material or linked official statistics.\n(8) No task asks about the student's own use, gambling, experience of violence or family.\n(9) Line-count script before the checkers (cap 499). Commit the materials-inventory generator.\n\nGLOSSARY ROWS:\n- Information: tieteellinen tieto, arkitieto, kokemustieto, vinouma (vahvistusvinouma, auktoriteettiharha, Dunning-Kruger), tutkimusasetelma (poikkileikkaus-, pitkittäis-, tapaus-verrokki-, interventio-), otos, edustavuus, korrelaatio vs kausaalisuus, luotettavuus (reliabiliteetti), pätevyys (validiteetti), vertaisarviointi, meta-analyysi, rekisteritieto vs kyselytieto.\n- Communication: terveysviestintä, vaikutuskeino, kaupallinen viestintä, vaikuttajamarkkinointi, disinformaatio vs misinformaatio, viherpesu.\n- Environment: rakennettu ympäristö, luonnonympäristö, psykososiaalinen ympäristö, mediaympäristö, altiste, ympäristöterveys, kestävä kehitys (ekologinen, taloudellinen, sosiaalinen, kulttuurinen), Health in All Policies (terveys kaikissa politiikoissa).\n- Safety: turvallisuus, väkivalta, lähisuhdeväkivalta, digitaalinen väkivalta, kiusaaminen, vapaaehtoisuus vs suostumus (name the wording gap), suojaavat tekijät, riskitekijät.\n- Work: työhyvinvointi, työn vaatimukset ja voimavarat, työterveyshuolto, nuori työntekijä.\n- Dependence: mielihyvä, palkitsemisjärjestelmä, riippuvuus, aineriippuvuus, toiminnallinen riippuvuus, sietokyky (toleranssi), vieroitusoireet, kontrollin menetys, repsahdus, suorat ja epäsuorat haitat, ehkäisevä päihdetyö, haittojen vähentäminen (defined; detail is for services to people who use, not for class), hoitoon hakeutuminen.\n\nNEUTRAL-WORDING TABLE:\nUse 'henkilö, jolla on päihderiippuvuus', 'henkilö, joka käyttää', 'väkivaltaa kokenut', 'väkivaltaa käyttävä', 'joku läheinen'.\nAvoid narkkari, alkoholisti, addikti, juoppo, puhdas/likainen, 'normaali vs riippuvainen', 'sinun vanhempasi', uhriksi leimaaminen and 'mitä hänellä oli päällä'.\n\nMATERIAL-TASK TEMPLATES (YTL pattern only; nothing copied):\n(A20) Concept task, no material. 4-5 items at 4-5 p each: definition plus a health example, with a character limit.\n(B20) Material plus task. 10 p content on a 3/6/9 ladder for 2/4/6 aspects, 10 p information processing, and a 3 p deduction if the material is not referred to.\n(C30) One or two materials plus task. 15 p content on a 4/7/10/13 ladder for 1-4 perspectives, 15 p information processing, and a 5 p deduction if no material is referred to (one material is enough).\nMaterial forms:\n- an invented results table with n, response rate and method note (te2-01, 02, 04, 08);\n- an invented figure comparing two data sources (te2-02);\n- an invented advert, news snippet or chatbot answer to a teen's non-medical question (te2-03);\n- an invented school indoor-air or noise table, or a council news item, plus the WHO Ottawa five areas (te2-04, 05, 06);\n- an invented school-safety protocol summary or a fictional non-graphic case (te2-07);\n- an invented workplace survey and HR memo (te2-08);\n- a qualitative fictional leaflet, campaign or interview excerpt describing stages, with no amounts (te2-09, 10).\nEach task carries a point table under it for self-marking, a model answer in which every point is findable, and a 'what loses points' list:\n- the material is not referred to;\n- a generic answer that ignores the asker's context;\n- off-topic text;\n- one-sided listing when both sides are asked for;\n- one fundamental error.\nAccessibility: every table or figure is given as an HTML table or a text description, and the offline line reads 'Tämä on paperitehtävä' with the needed data written into the task.",
+    "sources": [
+     "lukion-terveystieto\\docs\\content-contract.md",
+     "lukion-terveystieto\\docs\\style-guide.md",
+     "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html",
+     "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html",
+     "https://tiedostot.ylioppilastutkinto.fi/kokeet/2026-03-20_TE_fi/grading-instructions.html"
+    ]
+   },
+   {
+    "task": "d",
+    "title": "Safety rules for violence and dependence pages",
+    "detail": "Pages flagged violence or substances (te2-07, te2-09, te2-10):\n\n1) A content_note at the top of the page and of the lesson plan: what the page covers, that the student may step out, and that nobody has to share. The engine should render it; do not write hand-made blockquotes.\n\n2) No scare tactics, shock images, worst-case stories or recovery or violence testimonies (EHYT and THL: no evidence they work; they lower credibility and add stigma or anxiety). No guest testimonies in lesson plans.\n\n3) No amounts, doses, routes, prices, mixing, ingredient detail or 'how to'. No gambling stakes, odds or loss figures. No methods or perpetrator tactics beyond what is needed to recognise coercion. No graphic detail. Harm reduction is defined, but its practical detail belongs to services, not class (EHYT).\n\n4) No invented statistics on these pages. Use qualitative fictional material or linked, dated official figures. A social-norms claim ('most young people do not use') needs a linked, dated survey figure, or it is left out.\n\n5) Do not make use look attractive, and do not moralise or shame. Dependence is a health condition with biological, psychological and social causes. Use person-first language. Gaming is not a dependence by default; gambling is age-restricted (18, strong identification). Cover design features (variable rewards, near-misses, loot boxes) as media literacy. No scoring self-test in class.\n\n6) Violence: responsibility lies with the person who uses violence, never with the victim. No victim-blaming framings. Include all genders, same-sex relationships and every family form. Cover digital violence. Use the law's own wording: voluntariness, 1.1.2023 (oikeusministeriö); a child cannot consent with an adult; the under-16 rule. Name the gap between 'vapaaehtoisuus' and 'suostumus'. Sexual violence is linked to te1-07, not re-taught.\n\n7) No task asks for the student's own or family experience, use or gambling. Use third-person fictional cases (kuvitteellinen, no real names) that end in a non-violent solution and a route to help. Offline work stays on paper kept by the student.\n\n8) A teacher note says the school nurse and student welfare team are available, a disclosure leads to adult responsibility, and for under-18s the reporting duty is explained neutrally (THL). The note advises a series of lessons, not a single lecture (EHYT).\n\n9) Help box on every flagged page, built only from the verified youth list: 112 first, then student health care, then Sekasin/Apuu, Nuortenlinkki (with its limited hours) and Nettiturvakoti under-18 for violence, plus Nettiturvis or the Väestöliitto under-29 chat where relevant. Nollalinja, RIKU and Peluuri appear only as 'also' links with their stated hours and audience, never described as made for young people. Each link carries the date read.\n\n10) Debate tasks (substance policy, decriminalisation, gambling markets) keep both sides for discussion. The model answer states that prevention content is curriculum and not optional, and the legal status is given as is: use is currently punishable, and the debate is open.\n\n11) The safety reviewer covers violence, substances and gambling or gaming, and runs the extended figure and method scanner.\n\n12) Unsourced practice (content notes, trauma-informed framing) is marked grade M until a primary source is read.",
+    "sources": [
+     "https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/",
+     "https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa",
+     "https://oikeusministerio.fi/seksuaalirikoslaki",
+     "https://thl.fi/en/guidelines-for-professionals/prevention-of-sexual-violence",
+     "https://sekasin.fi/",
+     "https://nettiturvakoti.fi/",
+     "https://valtioneuvosto.fi/-/1410869/rahapelien-jarjestaminen-avataan-osittain-kilpailulle"
+    ]
+   },
+   {
+    "task": "e",
+    "title": "What the exam requires of TE2 (merged)",
+    "detail": "Structure (verified 2023-2026): 120 p in total. Part 1 is one 20 p task, part 2 two 20 p tasks, part 3 two 30 p tasks. In parts 2 and 3, content points (counted by perspectives and examples, on a 3/6/9 or 4/7/10/13 ladder) are scored separately from information processing (concepts, application, analysis, evaluation, argumentation, structure).\n\nDeductions:\n- irrelevant content, up to 5 p;\n- many small errors, up to 3 or 5 p;\n- one fundamental error, up to 5 or 8 p;\n- not referring to the material, 3-5 p;\n- going over the character limit.\nLength alone earns nothing.\n\nTE2 content seen in YTL papers:\n- s1: research-type definitions (2023 autumn); survey vs register data (2023 autumn); results tables (FinTerveys tooth brushing, 2024 autumn); turning tables into charts plus a WHO-areas measures task (2025 spring); cognitive biases with fictional people (2025 autumn).\n- s2: an advert's reliability (2025 autumn); ethical analysis of a chatbot answer (2025 spring); home tests and health competence (2025 spring); social media and loneliness from accounts and a video (2023 autumn).\n- s3-s4: radon without material (2024 spring); sustainable development's four dimensions without material (2025 autumn); clean water (2024 autumn); noise and the Ottawa model (2023 autumn); Health in All Policies from an e-scooter text (2026 spring).\n- s7-s8: dependence, 30 p with two materials (2024 autumn, spot-checked). It required forms, mechanisms (biological, psychological, social), features (tolerance, withdrawal, loss of control, relapse) and harms that are direct and indirect, for the individual, community and society.\n- s5 and s6: no direct task found in the papers read.\n\nWhat TE2 must therefore carry:\n- precise concepts with health examples;\n- reading and charting tables;\n- judging data origin and reliability;\n- spotting persuasion;\n- ethical perspectives;\n- WHO health-promotion areas and Health in All Policies as frames for measures;\n- the dependence model above.\nEach topic practises all three task sizes, and the mix across the module includes concept tasks without material.\n\nCaveats: brief 003's coverage matrix is missing, so module shares of exam points are unknown. Spring 2023 and earlier were not read. Exam tasks for te2-07 and te2-08 are model-only. The point ladders need review by the human teacher reviewer.",
+    "sources": [
+     "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html",
+     "https://tiedostot.ylioppilastutkinto.fi/kokeet/2023-09-21_TE_fi/grading-instructions.html",
+     "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-26_TE_fi/grading-instructions.html",
+     "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html",
+     "https://tiedostot.ylioppilastutkinto.fi/kokeet/2026-03-20_TE_fi/grading-instructions.html",
+     "lukion-terveystieto\\prompts\\003-exam-cross-check.md"
+    ]
+   }
+  ]
+ }
+}
