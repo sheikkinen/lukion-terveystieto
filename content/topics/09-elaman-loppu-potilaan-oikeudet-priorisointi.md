@@ -91,7 +91,7 @@ Vapauteen tehdä omia valintoja kuuluu vastuu, mutta valinnat tehdään olosuhte
 
 ### Priorisointi
 
-**Priorisointi** tarkoittaa tärkeysjärjestyksen asettamista, kun varoja on rajallisesti. Palveluvalikoimaneuvosto (Palko) määrittelee, mitkä terveyspalvelut kuuluvat julkiseen palveluvalikoimaan. ([Palko](https://palveluvalikoima.fi/1.-johdanto)). Eettisessä keskustelussa käytetään usein neljää perustetta (sivuston oma jäsennys): **tarve**, **hyöty**, **tasa-arvo** ja **kustannusvaikuttavuus**. Päätösten tulee perustua lääketieteellisiin perusteisiin ja lakiin, ei iän, vamman tai yhteiskunnallisen arvon mukaan arvottamiseen.
+**Priorisointi** tarkoittaa tärkeysjärjestyksen asettamista, kun varoja on rajallisesti. Palveluvalikoimaneuvosto (Palko) antaa suosituksia julkisesti rahoitettujen palvelujen valikoimasta ([Palko](https://palveluvalikoima.fi/1.-johdanto)). Eettisessä keskustelussa käytetään usein neljää perustetta (sivuston oma jäsennys): **tarve**, **hyöty**, **tasa-arvo** ja **kustannusvaikuttavuus**. Päätösten tulee perustua lääketieteellisiin perusteisiin ja lakiin, ei iän, vamman tai yhteiskunnallisen arvon mukaan arvottamiseen.
 
 ## Tehtävät
 
@@ -136,7 +136,7 @@ Vapauteen tehdä omia valintoja kuuluu vastuu, mutta valinnat tehdään olosuhte
 2. Kirjoita taulukko: oikeus, mitä se tarkoittaa omin sanoin, ja yksi tilanne, jossa se näkyy.
 3. Kirjoita lause siitä, miksi alaikäisen mielipide otetaan huomioon kehitystason mukaan.
 4. Kirjoita omin sanoin, mitä muistutus on ja milloin potilas voi tehdä sen.
-5. Avaa [ETENEn tiedote](https://etene.fi/-/etene-on-julkistanut-sosiaali-ja-terveysalan-eettiset-periaatteet) ja kirjoita omin sanoin, mihin eettisiä periaatteita terveydenhuollossa tarvitaan. Kirjoita yksi kuvitteellinen tilanne, jossa ne auttavat harkinnassa, vaikka valmista vastausta ei ole.
+5. Avaa [ETENEn tiedote](https://etene.fi/-/etene-on-julkistanut-sosiaali-ja-terveysalan-eettiset-periaatteet) ja kirjoita omin sanoin, mihin eettisiä periaatteita terveydenhuollossa tarvitaan.
 
 ## Pohdinta
 

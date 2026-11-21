@@ -20,13 +20,15 @@ official_links:
   - {title: "Opiskeluterveydenhuolto (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
   - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
-yearly_facts: [etene_periaatteet, opiskeluterveydenhuolto, sekasin_chat]
+  - {title: "Väestöliitto: Keitä olemme nuorten palveluissa?", url: "https://www.vaestoliitto.fi/nuoret/keita-olemme/", publisher: "Väestöliitto", read: 2026-11-21}
+yearly_facts: [etene_periaatteet, opiskeluterveydenhuolto, sekasin_chat, vaestoliitto_keita_olemme]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Sosiaali- ja terveysalan eettiset periaatteet (ETENE:n tiedote, 13.3.2026)", url: "https://etene.fi/-/etene-on-julkistanut-sosiaali-ja-terveysalan-eettiset-periaatteet", publisher: "Sosiaali- ja terveysalan eettinen neuvottelukunta (ETENE)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
   - {title: "ETENE", url: "https://etene.fi/etusivu", publisher: "Sosiaali- ja terveysalan eettinen neuvottelukunta (ETENE)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
   - {title: "ETENE (English)", url: "https://etene.fi/en/frontpage", publisher: "Sosiaali- ja terveysalan eettinen neuvottelukunta (ETENE)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
   - {title: "Terveystiedon ylioppilaskoe, syksy 2025: arvosteluohje", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta (YTL)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
+  - {title: "Väestöliitto: Keitä olemme nuorten palveluissa?", url: "https://www.vaestoliitto.fi/nuoret/keita-olemme/", publisher: "Väestöliitto", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "nuoret (ikärajaa ei mainita)", read: 2026-11-21}
 exam_tasks:
   - {id: K1, type: kasitteiden-nimeaminen, part: A20, points: 20, minutes: 25, codes: [TE3.s7]}
   - {id: K2, type: aineiston-analyysi, part: B20, points: 20, minutes: 35, codes: [TE3.s7, TE3.t4]}
@@ -35,7 +37,7 @@ review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
 school_adapts: ["Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"]
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; aineistot on kirjoitettu tehtäviin.", "Tehtävissä analysoidaan kuvitteellisia tilanteita; omista arvoista, vakaumuksesta tai terveydestä ei tarvitse kertoa kenellekään.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
-last_reviewed: 2026-11-21
+last_reviewed: 2026-11-22
 ---
 
 ## Opiskelijalle
@@ -409,6 +411,7 @@ Tällä sivulla opiskellaan eettistä ajattelua kuvitteellisten tilanteiden avul
 **Apua saat myös:**
 
 - Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
+- [Väestöliitto: Keitä olemme nuorten palveluissa? (luettu 21.11.2026)](https://www.vaestoliitto.fi/nuoret/keita-olemme/): nuorten palveluja.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): tietoa ja omahoito-ohjelmia nuorille.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille. Ikäraja ja aukioloajat ovat sivulla.
 

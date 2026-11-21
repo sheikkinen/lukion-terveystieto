@@ -64,10 +64,9 @@ omia, ja niiden pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintola
 - [ ] **Content notes** appear in the front matter of every flagged page, and in topics 06 and 07 also as a blockquote
   in the text. The site build will render them once, and the blockquotes will be removed.
 - [ ] **Offline tasks:** several topics invent a person on paper offline, while the online steps use a named case.
-- [ ] **TE3 exam coverage:** a re-mapping put full coverage of TE3-touching exam points at about 67% (partial 31%,
-  none 2%, before the second fix round). Still missing: carcinogen classes, rheumatic diseases, water treatment,
-  autoimmune disease, travel health, ordered child-mortality measures, screening ages, and euthanasia's legal status
-  (pending law, left as a link). See `docs/review/2026-11-21-brief-010-judgement.md`.
+- [ ] **TE3 exam coverage:** after the TE3 exam drive (brief 011), full coverage of the TE3-touching exam points is
+  96% when TE1 and TE2 count (86% on TE3 topics alone), with nothing uncovered. Still partial: the ordered
+  child-mortality measures (no source found) and euthanasia's legal status (pending law, left as a link).
 - [ ] **Matriculation exam coverage:** TE1 is the main subject of about 28% of exam points; our topics cover its TE1 content mostly partly. Additions per topic are in `docs/research/2026-11-21-exam-cross-check.md`.
 
 - [ ] **Live check minors (2026-11-21):** the crisis-line number is written in the text, although changing figures

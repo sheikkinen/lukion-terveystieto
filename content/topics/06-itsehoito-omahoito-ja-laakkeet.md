@@ -9,7 +9,7 @@ assessment: numeric
 suggested_timing: {year: 2, term: kevät}
 role: core
 duration_options: [45, 60, 75]
-self_study_minutes: 85
+self_study_minutes: 90
 prerequisites: [te3-05-sosiaali-ja-terveyspalvelut]
 safety_flags: []
 official_links:
@@ -19,7 +19,6 @@ official_links:
   - {title: "Lisäneuvontaa vaativat itsehoitolääkkeet (Fimea)", url: "https://fimea.fi/apteekit/lisaneuvontaa-vaativat-itsehoitolaakkeet", publisher: "Fimea", read: 2026-11-21}
   - {title: "Lapset ja nuoret etsivät tietoa verkosta: lääkekasvatusmateriaalit (Fimea, 19.8.2026)", url: "https://fimea.fi/-/lapset-ja-nuoret-etsivat-tietoa-verkosta-laakekasvatusmateriaalit-auttavat-tunnistamaan-luotettavan-laaketiedon", publisher: "Fimea", read: 2026-11-21}
   - {title: "Omatestaus, kotitestaus ja itsetestaaminen (Terveyskirjasto, 11.4.2024)", url: "https://www.terveyskirjasto.fi/dlk01400", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
-  - {title: "Opiskeluterveydenhuolto (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
   - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
 yearly_facts: [itsehoitolaakkeet, kela_laakekorvaukset, kotitestit, opiskeluterveydenhuolto, sekasin_chat]
@@ -200,9 +199,9 @@ c) Mainoksen tuote on kuvitteellinen itsehoitolääke, jota myydään apteekissa
 | asukkaat, jotka eivät puhu suomea äidinkielenään | ohjeita on vain suomeksi | vaikea ymmärtää, milloin tilanne on vakava |
 | asukkaat, joilla ei ole omaa älylaitetta | palveluun ei pääse kotoa | tarvitaan apua tai paperinen ohje |
 
-a) Kuvaile aineistosta, mitä kolmea asiaa linjaus muuttaa. (6 p)
+a) Kuvaile aineistosta, mitä kolmea asiaa linjaus muuttaa. (5 p)
 
-b) Selitä linjauksen hyödyt ja haitat yksilölle ja yhteiskunnalle ja käytä taulukon 1 ryhmiä esimerkkeinä. (12 p)
+b) Selitä linjauksen hyödyt ja haitat yksilölle ja yhteiskunnalle ja käytä taulukon 1 ryhmiä esimerkkeinä. (13 p)
 
 c) Arvioi linjausta terveyden eriarvoisuuden näkökulmasta: kenen vastuulle terveys siirtyy? Tee yksi perusteltu parannusehdotus, jossa kerrot, kuka toimii ja miten ehdotus vaikuttaa. (12 p)
 
@@ -313,7 +312,7 @@ Parannusehdotus: hyvinvointialue tekee verkkopalvelun ohjeet usealle kielelle ja
 - 0–5 p: vastaus kertoo itsehoidosta yleisesti eikä käytä aineistoa.
 - Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
-Tehtävänannon osapisteet (a 6 p, b 12 p, c 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+Tehtävänannon osapisteet (a 5 p, b 13 p, c 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
 **Yhteensä:** 30 p
 
@@ -330,7 +329,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Tavoite:** Osaat erottaa itsehoidon ja omahoidon, arvioida niiden hyötyjä ja haittoja ja arvioida kotitestin tai verkkotiedon luotettavuutta.
 
-**Aikaa kuluu:** noin 85 minuuttia.
+**Aikaa kuluu:** noin 90 minuuttia.
 
 **Näin etenet:**
 

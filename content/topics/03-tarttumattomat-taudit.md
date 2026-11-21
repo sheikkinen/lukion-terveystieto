@@ -14,7 +14,7 @@ prerequisites: [te3-02-vaeston-terveyden-muutos]
 safety_flags: []
 content_note: "Tällä sivulla käsitellään syöpää ja pitkäaikaissairauksia, jotka voivat koskettaa läheisiäsi tai sinua. Kenenkään ei tarvitse kertoa omista kokemuksistaan, tehtävät ovat kuvitteellisista tapauksista, ja lopussa on tietoa avusta."
 official_links:
-  - {title: "Noncommunicable diseases (WHO)", url: "https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases", publisher: "Maailman terveysjärjestö (WHO)", read: 2026-11-21}
+  - {title: "Noncommunicable diseases (WHO)", url: "https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases", publisher: "Maailman terveysjärjestö (WHO)", read: 2026-11-22}
   - {title: "Ilmaantuvuus (Terveyskirjaston sanasto)", url: "https://www.terveyskirjasto.fi/ltt01290", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
   - {title: "Diabetes (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00011", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
   - {title: "Keuhkoahtaumatauti: salaa etenevä kansantauti (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/khp00012", publisher: "Suomalainen Lääkäriseura Duodecim (Käypä hoito -potilasversio)", read: 2026-11-21}
@@ -24,12 +24,14 @@ official_links:
   - {title: "Metabolinen oireyhtymä (MBO) (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00045", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
   - {title: "Osteoporoosi altistaa luun murtumille (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/khp00023", publisher: "Suomalainen Lääkäriseura Duodecim (Käypä hoito -potilasversio)", read: 2026-11-21}
   - {title: "Fyysisen toimintakyvyn mittaaminen ja arviointi väestötutkimuksissa (TOIMIA-suositus S029)", url: "https://www.julkari.fi/bitstream/handle/10024/140538/TOIMIA_S029_Fyysisen_toimintakyvyn_mittaaminen_ja_arviointi_vaestotutkimuksissa.pdf?sequence=5", publisher: "TOIMIA-verkosto (THL, Julkari)", read: 2026-11-21}
+  - {title: "Nivelreuma - yleisin tulehduksellinen reumasairaus (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/khp00022", publisher: "Suomalainen Lääkäriseura Duodecim (Käypä hoito -potilasversio)", read: 2026-11-22}
+  - {title: "Syövän kustannuskasvu hidastunut (Syöpäsäätiö, STT-tiedote)", url: "https://www.sttinfo.fi/tiedote/71176751/syovan-kustannuskasvu-hidastunut", publisher: "Syöpäsäätiö", read: 2026-11-22}
   - {title: "Lasten ja nuorten puhelin 116 111 (Nuortennetti)", url: "https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/", publisher: "Mannerheimin Lastensuojeluliitto (MLL)", read: 2026-11-21}
   - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
 yearly_facts: [who_ncd, syopatilastot, terveyserot_tilastot, riskin_kasitteet, opiskeluterveydenhuolto, mll_116111, sekasin_chat]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
-  - {title: "Noncommunicable diseases (WHO)", url: "https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases", publisher: "Maailman terveysjärjestö (WHO)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
+  - {title: "Noncommunicable diseases (WHO)", url: "https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases", publisher: "Maailman terveysjärjestö (WHO)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
   - {title: "Ilmaantuvuus (Terveyskirjaston sanasto)", url: "https://www.terveyskirjasto.fi/ltt01290", publisher: "Suomalainen Lääkäriseura Duodecim", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
   - {title: "Diabetes (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00011", publisher: "Suomalainen Lääkäriseura Duodecim", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "yleisö, diabetesta sairastavat ja riskiryhmät", read: 2026-11-21}
   - {title: "Keuhkoahtaumatauti: salaa etenevä kansantauti (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/khp00012", publisher: "Suomalainen Lääkäriseura Duodecim (Käypä hoito -potilasversio)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: potilaat, read: 2026-11-21}
@@ -39,10 +41,13 @@ linked_materials:
   - {title: "Metabolinen oireyhtymä (MBO) (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00045", publisher: "Suomalainen Lääkäriseura Duodecim", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "yleisö", read: 2026-11-21}
   - {title: "Osteoporoosi altistaa luun murtumille (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/khp00023", publisher: "Suomalainen Lääkäriseura Duodecim (Käypä hoito -potilasversio)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "potilaat", read: 2026-11-21}
   - {title: "Fyysisen toimintakyvyn mittaaminen ja arviointi väestötutkimuksissa (TOIMIA-suositus S029)", url: "https://www.julkari.fi/bitstream/handle/10024/140538/TOIMIA_S029_Fyysisen_toimintakyvyn_mittaaminen_ja_arviointi_vaestotutkimuksissa.pdf?sequence=5", publisher: "TOIMIA-verkosto (THL, Julkari)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja ja tutkijat", read: 2026-11-21}
+  - {title: "Nivelreuma - yleisin tulehduksellinen reumasairaus (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/khp00022", publisher: "Suomalainen Lääkäriseura Duodecim (Käypä hoito -potilasversio)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "potilaat", read: 2026-11-22}
+  - {title: "Syövän kustannuskasvu hidastunut (Syöpäsäätiö, STT-tiedote)", url: "https://www.sttinfo.fi/tiedote/71176751/syovan-kustannuskasvu-hidastunut", publisher: "Syöpäsäätiö", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja ja media", read: 2026-11-22}
 exam_tasks:
   - {id: K1, type: virheiden-tunnistaminen, part: A20, points: 20, minutes: 25, codes: [TE3.s4, TE3.t2]}
   - {id: K2, type: taulukon-taydentaminen, part: B20, points: 20, minutes: 35, codes: [TE3.s4, TE3.t2]}
   - {id: K3, type: aineiston-lukeminen, part: C30, points: 30, minutes: 55, codes: [TE3.t2, TE3.s4]}
+  - {id: K4, type: aineiston-lukeminen, part: B20, points: 20, minutes: 35, codes: [TE3.s4, TE3.t2]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
 school_adapts: ["Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"]
@@ -59,7 +64,8 @@ last_reviewed: 2026-11-21
 3. Osaan selittää, mitä riskitekijä tarkoittaa ja miten yksilön, yhteisön ja yhteiskunnan tekijät vaikuttavat sairastumiseen syyllistämättä sairastunutta.
 4. Osaan erottaa tyypin 1 ja tyypin 2 diabeteksen sekä kuvata keuhkoahtaumataudin ja syöpien riskitekijöitä.
 5. Osaan erottaa ehkäisyn tasot ja ehdottaa sairauksien ehkäisyyn sekä yksilön että yhteiskunnan keinoja.
-6. Osaan kertoa lyhyesti, mitä muistisairaudet, metabolinen oireyhtymä ja osteoporoosi ovat, ja miten toimintakykyä mitataan.
+6. Osaan kertoa lyhyesti, mitä muistisairaudet, metabolinen oireyhtymä, osteoporoosi ja nivelreuma ovat, ja miten toimintakykyä mitataan.
+7. Osaan selittää, mitä sairauden kustannukset ovat.
 
 ### Mitkä taudit ovat tarttumattomia?
 
@@ -67,43 +73,44 @@ last_reviewed: 2026-11-21
 
 ### Ilmaantuvuus ja esiintyvyys
 
-**Ilmaantuvuus** kertoo, montako uutta tapausta syntyy väestössä tietyn ajan kuluessa. **Esiintyvyys** kertoo, kuinka suurella osalla väestöstä tauti on tiettynä hetkenä tai jaksona ([Terveyskirjasto](https://www.terveyskirjasto.fi/ltt01290)). Pitkäaikaista tautia voi olla paljon, vaikka uusia tapauksia olisi vähän.
+**Ilmaantuvuus** kertoo, montako uutta tapausta syntyy väestössä tietyn ajan kuluessa ([Terveyskirjasto](https://www.terveyskirjasto.fi/ltt01290)). **Esiintyvyys** kertoo, kuinka suurella osalla väestöstä tauti on tiettynä hetkenä tai jaksona.
 
-Alueita vertaillaan suhteuttamalla tapaukset väestöön, esimerkiksi sataa tuhatta asukasta kohti. **Ikävakioitu luku** poistaa väestön ikärakenteen vaikutuksen. Jos vanhempien alueella luku on raakaluvuilla suurempi, ikävakioitu luku näyttää, onko ero olemassa myös ilman ikärakennetta. Luvut päivittyvät, joten ne luetaan Syöpärekisteristä ja THL:n väestön hyvinvoinnin sivuilta (ks. Lähteet).
+Alueita vertaillaan suhteuttamalla tapaukset väestöön, esimerkiksi sataatuhatta asukasta kohti. **Ikävakioitu luku** poistaa väestön ikärakenteen vaikutuksen.
 
 ### Riskitekijä ei ole syy
 
-**Riskitekijä** lisää sairastumisen todennäköisyyttä, mutta ei määrää sitä. Ihminen voi sairastua ilman yhtään tunnettua riskitekijää, ja riskitekijöistä huolimatta moni ei sairastu. WHO luettelee käyttäytymiseen liittyviksi riskitekijöiksi tupakan, epäterveellisen ruokavalion, haitallisen alkoholinkäytön ja liian vähäisen liikunnan. Aineenvaihduntaan liittyviä riskitekijöitä ovat esimerkiksi kohonnut verenpaine ja verensokeri (WHO ylempänä). Terveys ei kuitenkaan näy painosta.
+**Riskitekijä** lisää sairastumisen todennäköisyyttä, mutta ei määrää sitä. Ilman riskitekijöitä voi sairastua, ja moni riskitekijöistä huolimatta ei. **Suojaava tekijä** pienentää todennäköisyyttä: esimerkiksi liikunta (ks. osteoporoosi alla). WHO luettelee käyttäytymiseen liittyviksi riskitekijöiksi tupakan, epäterveellisen ruokavalion, haitallisen alkoholinkäytön ja liian vähäisen liikunnan. Terveys ei kuitenkaan näy painosta.
 
 Elintavat ovat aina osa oloja: työ, asuinympäristö, toimeentulo ja perimä vaikuttavat siihen, mitä voi valita. Siksi sairastunutta ei syyllistetä.
 
 ### Esimerkkejä taudeista
 
-- **Tyypin 1 diabetes** on autoimmuunisairaus. Elimistön puolustus tuhoaa insuliinia tuottavia soluja, ja insuliini korvataan aina pistoksin tai pumpulla.
-- **Tyypin 2 diabeteksessa** insuliinin vaikutus on heikentynyt. Se todetaan yleensä aikuisena, mutta nuorillakin yhä useammin. Tauti voi kehittyä pitkään ilman selviä oireita ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00011)).
+- **Tyypin 1 diabetes** on autoimmuunisairaus. Elimistön puolustus tuhoaa insuliinia tuottavia soluja.
+- **Tyypin 2 diabeteksessa** insuliinin vaikutus on heikentynyt. Se todetaan yleensä aikuisena. Se voi olla pitkään oireeton ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00011)).
 - **Keuhkoahtaumatauti** (COPD) on krooninen keuhkosairaus. Tärkein riskitekijä on tupakointi. Muita ovat pölyinen työ, passiivinen tupakointi ja harvinainen perinnöllinen puutos ([Terveyskirjasto](https://www.terveyskirjasto.fi/khp00012)).
-- **Syövät** ovat suuri joukko erilaisia sairauksia. Riski vaihtelee syövän mukaan, ja ilmaantuvuutta seuraa [Syöpärekisteri](https://cancerregistry.fi/statistics/). Tupakka ja haitallinen alkoholinkäyttö kuuluvat WHO:n luettelemiin tarttumattomien tautien riskitekijöihin (WHO ylempänä).
+- **Syöpä** on joukko sairauksia. Ilmaantuvuutta seuraa [Syöpärekisteri](https://cancerregistry.fi/statistics/). Karsinogeenit eli syöpää aiheuttavat aineet luokitellaan näytön mukaan ([TE2 aihe 10](../../te2/10-riippuvuudet/)).
 
-### Muistisairaudet, metabolinen oireyhtymä, luusto ja toimintakyky
+### Muistisairaudet, metabolinen oireyhtymä, luusto, nivelet ja toimintakyky
 
-- **Muistisairaudet:** muistioireiden syy on useimmiten muu kuin muistisairaus, esimerkiksi stressi tai väsymys. Yleisin etenevä muistisairaus on Alzheimerin tauti. Riskitekijöitä ovat muun muassa korkea verenpaine, diabetes ja vähäinen liikunta, ja niihin vaikuttamalla sairastumista voidaan todennäköisesti ehkäistä tai siirtää (Terveyskirjasto: Muistisairaudet).
-- **Metabolinen oireyhtymä:** vatsan alueen rasvakudos on lisääntynyt, ja lisäksi verenpaine, verensokeri ja veren rasva-arvot ovat muuttuneet. Se lisää sydäntautien ja diabeteksen riskiä. Hoidon perusta on liikunta, ruokavalio ja tupakoimattomuus (Terveyskirjasto: MBO).
-- **Osteoporoosi** (luukato): luu on heikentynyt ja murtuu helposti. Ehkäisyssä auttavat kalsium, D-vitamiini, liikunta, tupakoimattomuus ja kaatumisten ehkäisy (Terveyskirjasto: Osteoporoosi).
-- **Toimintakyvyn mittaaminen:** fyysinen toimintakyky on edellytykset selviytyä arjen tehtävistä. Sitä mitataan itsearviokysymyksillä (esimerkiksi portaiden nousu) ja testeillä: puristusvoima, tuolilta nousu, kävelynopeus (TOIMIA-suositus S029).
+- **Muistisairaudet:** Alzheimerin tauti on hitaasti etenevä aivosairaus, ja dementia on pitkälle edenneiden muistisairauksien aiheuttama oireyhtymä. Riskitekijöitä ovat muun muassa korkea verenpaine, diabetes ja vähäinen liikunta, ja niihin vaikuttamalla sairastumista voidaan todennäköisesti ehkäistä tai siirtää ([Terveyskirjasto](https://www.terveyskirjasto.fi/khp00094)).
+- **Metabolinen oireyhtymä:** vatsan alueen rasvakudos on lisääntynyt, ja verenpaine, verensokeri ja veren rasva-arvot ovat muuttuneet. Se lisää sydäntautien ja diabeteksen riskiä ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00045)).
+- **Osteoporoosi** (luukato): luu on heikentynyt ja murtuu helposti. Ehkäisyssä auttavat kalsium, D-vitamiini, liikunta, tupakoimattomuus ja kaatumisten ehkäisy ([Terveyskirjasto](https://www.terveyskirjasto.fi/khp00023)).
+- **Nivelreuma** on yleisin tulehduksellinen reumasairaus eli pitkäaikainen nivelsairaus. Perimän osuus riskistä on suuri, ja tupakointi on ainoa tunnistettu ympäristötekijä ([Terveyskirjasto](https://www.terveyskirjasto.fi/khp00022)).
+- **Toimintakyvyä mitataan** itsearviokysymyksillä ja testeillä: puristusvoima, tuolilta nousu, kävelynopeus ([TOIMIA-suositus S029](https://www.julkari.fi/bitstream/handle/10024/140538/TOIMIA_S029_Fyysisen_toimintakyvyn_mittaaminen_ja_arviointi_vaestotutkimuksissa.pdf?sequence=5)).
 
 ### Ehkäisyn tasot
 
 - **Ensisijainen ehkäisy** pyrkii estämään sairauden syntymisen: terveyden edistäminen, rokotukset ja riskien vähentäminen.
-- **Toissijainen ehkäisy** löytää sairauden tai sen esiasteen varhain, esimerkiksi **seulonnalla** eli tutkimuksella, joka tehdään oireettomille. Seulonnassa punnitaan hyötyä ja haittaa ([aihe 08](../../te3/08-hedelmoityshoidot-abortti-seulonnat-geenit/)).
+- **Toissijainen ehkäisy** löytää sairauden tai sen esiasteen varhain, esimerkiksi **seulonnalla** eli tutkimuksella, joka tehdään oireettomille ([aihe 08](../../te3/08-hedelmoityshoidot-abortti-seulonnat-geenit/)).
 - **Kolmannen asteen ehkäisy** estää sairauden pahenemista ja tukee kuntoutumista.
 
-Ehkäisyssä on yksilön keinoja (oma toiminta) ja yhteiskunnan keinoja (lait, palvelut, ympäristö, hinnat).
+Ehkäisyssä on yksilön ja yhteiskunnan keinoja (lait, palvelut, ympäristö, hinnat). Sairauksilla on hoito- ja lääkekustannuksia ([Syöpäsäätiö](https://www.sttinfo.fi/tiedote/71176751/syovan-kustannuskasvu-hidastunut)). WHO:n mukaan varhainen havaitseminen ja oikea-aikainen hoito voivat vähentää kalliimman hoidon tarvetta ([WHO](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases)).
 
 ## Tehtävät
 
 ### Tehtävä 1: Ilmaantuvuus vai esiintyvyys?
 
-**Aika:** 15 min
+**Aika:** 20 min
 **Tarvitset:** paperia ja kynän; halutessasi puhelimen tai tietokoneen
 **Ilman laitetta:** Ohita vaihe 1. Määritelmät ovat Opiskelijalle-osion kohdassa *Ilmaantuvuus ja esiintyvyys*; tee muut vaiheet paperilla.
 **Harjoittelet:** Osaan 2
@@ -136,13 +143,13 @@ Ehkäisyssä on yksilön keinoja (oma toiminta) ja yhteiskunnan keinoja (lait, p
 **Ilman laitetta:** Tämä on paperitehtävä: tapaus on tehtävässä.
 **Harjoittelet:** Osaan 1 ja 5
 
-*Tapaus (kuvitteellinen):* Koivukylän terveyslautakunta miettii, mitä tehdä pitkäaikaissairauksien vähentämiseksi. Ehdotuksia: A) savuttomat julkiset tilat, B) tutkimus oireettomille tiettyyn ikään tulleille, C) kuntoutusryhmä sairastuneille, D) työpaikkojen ilmanvaihdon valvonta, E) koulun terveystiedon tunnit.
+*Tapaus (kuvitteellinen):* Koivukylän terveyslautakunta miettii, mitä tehdä pitkäaikaissairauksien vähentämiseksi. Ehdotuksia: A) savuttomat julkiset tilat, B) tutkimus oireettomille tiettyyn ikään tulleille, C) kuntoutusryhmä sairastuneille, D) työpaikkojen ilmanvaihdon valvonta, E) koulun terveystiedon tunnit, F) edulliset liikuntapaikat.
 
 1. Kirjoita WHO:n neljä tarttumattomien tautien pääryhmää ja yksi esimerkki kustakin.
-2. Lajittele ehdotukset A–E ehkäisyn kolmeen tasoon.
+2. Lajittele ehdotukset A–F ehkäisyn kolmeen tasoon.
 3. Merkitse ehdotuksista kaksi, joiden toteuttaja on yhteiskunta, ja yksi, jossa yksilö tekee valinnan.
 4. Kirjoita, miksi seulonta (B) ei ole pelkästään hyvä asia: mikä voi olla haittana?
-5. Kirjoita lopuksi yksi ehdotus, jonka lisäisit lautakunnan listaan.
+5. Kirjoita, mikä ehdotuksista vahvistaa suojaavaa tekijää ja mikä tekijä se on.
 
 ## Pohdinta
 
@@ -159,7 +166,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 3. Osaan selittää, mitä riskitekijä tarkoittaa ja miten yksilön, yhteisön ja yhteiskunnan tekijät vaikuttavat sairastumiseen syyllistämättä sairastunutta.
 4. Osaan erottaa tyypin 1 ja tyypin 2 diabeteksen sekä kuvata keuhkoahtaumataudin ja syöpien riskitekijöitä.
 5. Osaan erottaa ehkäisyn tasot ja ehdottaa sairauksien ehkäisyyn sekä yksilön että yhteiskunnan keinoja.
-6. Osaan kertoa lyhyesti, mitä muistisairaudet, metabolinen oireyhtymä ja osteoporoosi ovat, ja miten toimintakykyä mitataan.
+6. Osaan kertoa lyhyesti, mitä muistisairaudet, metabolinen oireyhtymä, osteoporoosi ja nivelreuma ovat, ja miten toimintakykyä mitataan.
+7. Osaan selittää, mitä sairauden kustannukset ovat.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
@@ -212,11 +220,32 @@ b) Perustele, miksi riskitekijän tunteminen ei tarkoita, että sairastunutta vo
 
 *Aineisto 2 (kuvitteellinen): alueiden kuvaus.* Alue A on nuorten perheiden kaupunkialue, jossa palvelut ovat lähellä. Alue B on maaseutu, jossa väestö on keskimääräistä vanhempaa, matkat palveluihin ovat pitkiä ja monet tekevät fyysisesti raskasta työtä. Alue C on keskikokoinen kaupunki, jossa on monipuoliset palvelut.
 
-a) Kuvaile taulukon 1 perusteella, miten alueet eroavat toisistaan ilmaantuvuuden, ikävakioidun ilmaantuvuuden ja esiintyvyyden mukaan. (8 p)
+a) Kuvaile taulukon 1 perusteella, miten alueet eroavat toisistaan ilmaantuvuuden, ikävakioidun ilmaantuvuuden ja esiintyvyyden mukaan. (9 p)
 
-b) Selitä, miksi alueen B raaka ilmaantuvuus on suurempi kuin alueen A, mutta ikävakioidut luvut ovat lähellä toisiaan. Selitä myös, miksi alueen B esiintyvyys on suuri. Pohdi, mitkä muut tekijät kuin ikä voivat selittää sitä, että alue C eroaa alueista A ja B. (10 p)
+b) Selitä, miksi alueen B raaka ilmaantuvuus on suurempi kuin alueen A, mutta ikävakioidut luvut ovat lähellä toisiaan. Selitä myös, miksi alueen B esiintyvyys on suuri. Pohdi, mitkä muut tekijät kuin ikä voivat selittää sitä, että alue C eroaa alueista A ja B. (11 p)
 
-c) Arvioi aineiston rajoja. Ehdota yksi yksilön ja yksi yhteiskunnan keino sairastumisen ehkäisyyn ja kerro, kuka kussakin toimii. (12 p)
+c) Arvioi aineiston rajoja. Ehdota yksi yksilön ja yksi yhteiskunnan keino sairastumisen ehkäisyyn ja kerro, kuka kussakin toimii. (10 p)
+
+### K4: Syöpäkustannukset ja ehkäisy, 35 min (20 p)
+
+*Osa B20 · Harjoittelee: Osaan 5, 7*
+
+*Taulukko 2 (kuvitteellinen): Rantalan hyvinvointialueen syöpäkustannusten ennuste kymmenen vuoden päähän. Luvut ovat indeksejä: nykyisen kustannuksen arvo on kussakin erässä 100. Ne eivät kerro euroja.*
+
+*Aineisto 2 (kuvitteellinen): alueen suunnitelma.* Alueen väestö vanhenee, ja syöpäpotilaiden määrän odotetaan kasvavan. Uudet syöpälääkkeet ovat kalliita. Vahvistettu ehkäisy tarkoittaa savuttomien tilojen lisäämistä, työpaikkojen altisteiden valvontaa ja seulontaohjelman laajentamista. Ehkäisy ja seulonta maksavat itsekin.
+
+| Kustannuserä | Nyt | Kymmenen vuoden päästä, jos mikään ei muutu | Kymmenen vuoden päästä, jos ehkäisyä ja seulontaa vahvistetaan |
+|---|---|---|---|
+| Erikoissairaanhoito | 100 | 130 | 120 |
+| Lääkkeet | 100 | 150 | 140 |
+| Kuntoutus | 100 | 120 | 120 |
+| Sairauspäivärahat | 100 | 120 | 105 |
+
+a) Kuvaile taulukon 2 perusteella, miten kustannukset kehittyvät eri erissä ja miten ehkäisyn vahvistaminen muuttaa kehitystä. (6 p)
+
+b) Selitä, mitkä tekijät voivat kasvattaa syövän kustannuksia ja miten ehkäisy tai seulonta voisi vaikuttaa niihin. Kirjoita enintään 1000 merkkiä. (8 p)
+
+c) Arvioi, mitä ennuste ei kerro, ja perustele, miksi ehkäisyn kustannusta kannattaa verrata hoidon kustannukseen. Kirjoita enintään 700 merkkiä. (6 p)
 
 ## Mallivastaukset
 
@@ -247,8 +276,7 @@ c) Arvioi aineiston rajoja. Ehdota yksi yksilön ja yksi yhteiskunnan keino sair
 
 - Ilmaantuvuus ja esiintyvyys menevät sekaisin, koska molemmat kertovat sairastuneista.
 - Korjaus tehdään vain kieltämällä väite eikä kerrota, mikä on oikein.
-- Kohdassa 3 korjaukseksi kirjoitetaan *myös tupakoimattomat sairastuvat aina*; oikea sanamuoto on, että muitakin riskitekijöitä on.
-- Kohdassa 4 kirjoitetaan *riskitekijät ovat syitä*; riskitekijä ei ole syy.
+- Kohdassa 3 kirjoitetaan *myös tupakoimattomat sairastuvat aina* (oikein: muitakin riskitekijöitä on) ja kohdassa 4 *riskitekijät ovat syitä* (riskitekijä ei ole syy).
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -318,7 +346,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 0–5 p: vastaus toistaa taulukon lukuja selittämättä tai käyttää ikää selityksenä ikävakioiduille luvuille.
 - Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
-Tehtävänannon osapisteet (a 8 p, b 10 p, c 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+Tehtävänannon osapisteet (a 9 p, b 11 p, c 10 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
 **Yhteensä:** 30 p
 
@@ -326,8 +354,44 @@ Tehtävänannon osapisteet (a 8 p, b 10 p, c 12 p) sisältävät sekä sisällö
 
 - Alueen B ero C:hen selitetään iällä, vaikka ikävakioitu luku on jo poistanut ikärakenteen.
 - Esiintyvyys ja ilmaantuvuus sekoitetaan: alueen B suurta esiintyvyyttä selitetään uusilla tapauksilla.
-- c-kohdassa todetaan, että aineisto on liian pieni, mutta ei kerrota, miksi se rajoittaa päätelmiä.
-- Ehdotus on yleinen (*parannetaan terveyttä*) eikä kerro, kuka toimii.
+- c-kohdassa todetaan, että aineisto on liian pieni, mutta ei kerrota, miksi se rajoittaa päätelmiä, tai ehdotus on yleinen (*parannetaan terveyttä*) eikä kerro, kuka toimii.
+
+Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
+
+### K4: Syöpäkustannukset ja ehkäisy, 35 min (20 p)
+
+**Malliksi kelpaava vastaus**
+
+**a)** Taulukon 2 mukaan kustannukset kasvavat kaikissa erissä, jos mikään ei muutu. Kasvu on suurin lääkkeissä (150) ja erikoissairaanhoidossa (130). Kun ehkäisyä ja seulontaa vahvistetaan, kasvu jää pienemmäksi erikoissairaanhoidossa (120), lääkkeissä (140) ja erityisesti sairauspäivärahoissa (105). Kuntoutuksessa ero ei näy.
+
+**b)** Kustannuksia kasvattavat uudet, kalliit lääkkeet ja potilasmäärän kasvu: Syöpäsäätiön tiedotteen mukaan erikoissairaanhoidon käyntien määrä ja syöpäpotilaiden määrä kasvavat, ja uudet hoitomenetelmät voivat nostaa lääkekustannuksia ([Syöpäsäätiö, luettu 22.11.2026](https://www.sttinfo.fi/tiedote/71176751/syovan-kustannuskasvu-hidastunut)). Ehkäisy vaikuttaa kustannuksiin, koska savuttomuus ja altisteiden valvonta vähentävät sairastumista, jolloin hoitoa ja lääkkeitä tarvitaan vähemmän kuin muuten. Varhainen löytäminen voi lyhentää sairauspoissaoloja, ja silloin sairauspäivärahojen kasvu pienenee. WHO toteaa, että varhainen havaitseminen ja oikea-aikainen hoito voivat vähentää kalliimman hoidon tarvetta ([WHO, luettu 22.11.2026](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases)). Seulonta maksaa itsekin, ja se voi johtaa myös tarpeettomiin lisätutkimuksiin.
+
+**c)** Taulukko on kuvitteellinen indeksi, joka ei kerro euroja eikä sitä, kuinka monta ihmistä sairastuu tai paranee. Ennuste ei sisällä ehkäisyn omia kustannuksia, eikä se kerro, milloin ehkäisy alkaa tuottaa hyötyä. Kustannukset ja hyödyt kannattaa verrata, koska ehkäisy maksaa heti mutta vaikutus näkyy vasta vuosien päästä. Lisäksi terveyttä ei voi mitata pelkällä rahalla: säästö ei ole ainoa tavoite.
+
+**Pisteytys**
+
+*Sisältö 10 p:*
+
+- a) Kasvu kustakin erästä luettu taulukosta (vähintään lääkkeet ja erikoissairaanhoito) 1 p; ehkäisyskenaarion ero nimetty (vähintään yksi erä) 1 p; erä, jossa eroa ei ole (kuntoutus), 1 p. Yhteensä 3 p.
+- b) Kaksi kustannuksia kasvattavaa tekijää (esimerkiksi lääkkeet ja potilasmäärä) 2 p; ehkäisyn mekanismi kustannukseen (vähemmän sairastumista, vähemmän hoitoa) 2 p; seulonnan oma kustannus tai haitta 1 p. Yhteensä 5 p.
+- c) Ennusteen raja (indeksi ei kerro euroja, kuvitteellinen tai ei sisällä ehkäisyn kustannusta) 1 p; syy verrata kustannusta ja hyötyä (viive tai hyöty ei ole vain rahaa) 1 p. Yhteensä 2 p.
+
+*Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
+
+- 8–10 p: kustannuserät nimetään taulukon mukaan; b yhdistää tekijän erään ja ehkäisyn mekanismiin; c punnitsee ennusteen rajat ja kustannuksen ja hyödyn suhteen.
+- 4–7 p: luvut luetaan oikein, mutta ehkäisyn vaikutus kustannuksiin perustellaan yleisesti (*ehkäisy säästää*) tai c luettelee rajat selittämättä.
+- 0–3 p: vastaus toistaa lukuja tai väittää ehkäisyn aina säästävän rahaa.
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
+
+Tehtävänannon osapisteet (a 6 p, b 8 p, c 6 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+
+**Yhteensä:** 20 p
+
+**Tyypilliset virheet**
+
+- Indeksi luetaan euroina tai prosentteina.
+- Ehkäisyn väitetään aina pienentävän kustannuksia, vaikka ehkäisy ja seulonta maksavat itsekin.
+- Kustannuksen kasvun syyksi kirjoitetaan vain ikääntyminen, tai vastauksessa ei viitata taulukkoon tai aineistoon 2.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -340,8 +404,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Näin etenet:**
 
 1. **Lue** osio Opiskelijalle (12 min).
-2. **Tee** Tehtävä 1 (15 min) ja Tehtävä 2 (20 min). Tehtävä 3 on lisätehtävä (10 min).
-3. **Harjoittele** koetehtävä K1 (25 min) ja tarkista vastauksesi mallivastauksella. K2 ja K3 sopivat kertaukseen.
+2. **Tee** Tehtävä 1 (20 min) ja Tehtävä 2 (20 min). Tehtävä 3 on lisätehtävä (10 min).
+3. **Harjoittele** koetehtävä K1 (25 min) ja tarkista vastauksesi mallivastauksella. K2–K4 sopivat kertaukseen.
 4. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 5. **Seuraava askel:** aihe 04 *Tartuntataudit, rokotukset ja mikrobilääkeresistenssi*. Siellä vastakohta: tartuntataudit leviävät ihmisestä toiseen.
 
@@ -359,7 +423,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Työskentely | 25 | Tehtävä 2 kokonaan pareittain (20 min), sitten Tehtävän 1 vaiheet 3–4 (5 min). | Kierrä ja kysy: mikä näistä on valittavissa ja mikä ei? | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vastaavat Pohdinnan kysymykseen 1: miten sairastuneesta puhutaan syyllistämättä? | Kokoa sanavalinnat taululle. | Yksin kirjoittaen. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n virheet 1–3 yksin (7 min) ja tarkistus (3 min). Exit-lappu: ilmaantuvuus ja esiintyvyys omin sanoin. | Näytä, mistä virheen 4 pistettä syntyy. | Paperilla. | Tarkistus kotona. |
-| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat harjoituksia kotiin tai kertaukseen. | – | – |
+| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K4 ovat harjoituksia kotiin tai kertaukseen. | – | – |
 
 ### Tuntisuunnitelma (60 min)
 
@@ -369,7 +433,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Opiskelijat kirjaavat pääryhmät, ilmaantuvuuden ja esiintyvyyden. | Esittele COPD ja tyypin 2 diabetes esimerkkeinä. | Taulukko paperilla. | Ehkäisyn tasot kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan (20 min), sitten Tehtävän 1 vaihe 3 (5 min). | Kierrä ja kysy valittavissa olevista tekijöistä. | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit vastaavat Pohdinnan kysymykseen 1. | Kokoa sanavalinnat taululle. | Yksin kirjoittaen. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 9 | K1:n virheet 1–2 yksin (5 min) ja tarkistus (4 min). Exit-lappu: yksi epäselvä käsite. | Kerro K1–K3:sta kotiharjoituksina. | Paperilla. | Tarkistus kotona. |
+| Koeharjoitus ja exit | 9 | K1:n virheet 1–2 yksin (5 min) ja tarkistus (4 min). Exit-lappu: yksi epäselvä käsite. | Kerro K1–K4:stä kotiharjoituksina. | Paperilla. | Tarkistus kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -385,36 +449,31 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 - Piirrä neljä kehää taululle tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita. Selvitä koulun opiskeluterveydenhuollon yhteystiedot (esimerkki).
 - Lue halutessasi WHO:n tietosivu ja Terveyskirjaston artikkelit (ks. Lähteet). Ne ovat link-out-aineistoa: linkitä, älä kopioi. Luvut avataan tunnilla linkeistä, ei kirjoiteta.
-- Jäljellä oleva aukko: sivulla ei käsitellä syöpää aiheuttavien tekijöiden luokkia, reumasairauksia eikä sydäntautien ja diabeteksen tarkempaa erittelyä. Ylioppilaskokeessa on kysytty tarttumattomista taudeista laajemminkin, joten nämä aiheet on opeteltava muualta. Muistisairaudet, metabolinen oireyhtymä, osteoporoosi ja toimintakyvyn mittaaminen ovat sivulla lyhyinä lähteellisinä kohtina.
+- Jäljellä oleva aukko: sydäntautien ja diabeteksen tarkempi erittely puuttuu. Karsinogeenien luokat linkitetään TE2:n aiheeseen 10 (Opiskelijalle), ja kysely- ja rekisteritieto TE2:n aiheeseen *Tutkimustieto* (Eriyttäminen, Syvempi polku, nimeää aiheen sanoin). Nivelreuma on yksi lähteellinen kohta; muita reumasairauksia ei käsitellä. Syövän kustannukset opitaan K4:n aineistosta ja Syöpäsäätiön tiedotteesta, ja lukuja ei kirjoiteta sivulle. Muistisairaudet, metabolinen oireyhtymä, osteoporoosi ja toimintakyvyn mittaaminen ovat sivulla lyhyinä lähteellisinä kohtina.
 
 ### Avoimet kysymykset
 
 - Miksi sama luku voi olla suuri raakaluvuilla ja pieni ikävakioituna?
-- Mitkä riskitekijät ovat yksilön valittavissa ja mitkä eivät?
-- Miksi ilman riskitekijöitäkin voi sairastua?
+- Mitkä riskitekijät ovat yksilön valittavissa ja mitkä eivät? Miksi ilman riskitekijöitäkin voi sairastua?
 - Mitä seulonnasta voi seurata hyvää ja mitä haittaa?
 - Kenen vastuulla on, että työpaikan pöly ei sairastuta?
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Puhutaan kuvitteellisista tapauksista ja väestöistä. Kenenkään ei tarvitse kertoa oman tai läheisensä sairaudesta. Jos opiskelija kertoo, kuuntele ja ohjaa tarvittaessa opiskeluterveydenhuoltoon.
-- Sairastunutta ei syytetä, eikä riskitekijöistä puhuta moraalisesti. Painosta ei puhuta luvuin.
+- Puhutaan kuvitteellisista tapauksista ja väestöistä. Kenenkään ei tarvitse kertoa oman tai läheisensä sairaudesta. Jos opiskelija kertoo, kuuntele ja ohjaa tarvittaessa opiskeluterveydenhuoltoon. Sairastunutta ei syytetä, eikä riskitekijöistä puhuta moraalisesti. Painosta ei puhuta luvuin.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että joku luokasta ei ole kokenut sairautta läheltä? Esitänkö elintavat pelkästään yksilön valintoina? Käytänkö sanoja *sairastaja* tai *oma syy*? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
 
 **Helpompi polku:** Tee Tehtävässä 2 kehät kolmella tekijällä (tupakointi, pölyinen työ, perimä). Käytä apulausetta: *Riskitekijä lisää sairastumisen mahdollisuutta, mutta …*. Koetehtävistä K1:n virheet 1, 3 ja 4 riittävät.
 
-**Syvempi polku:** Avaa [Syöpärekisterin tilastosivu](https://cancerregistry.fi/statistics/) ja kirjoita, mitä ilmaantuvuus, kuolleisuus ja elossaolo tarkoittavat. Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn viiden kriteerin avulla. Vertaa kysely- ja rekisteritietoa TE2:n tutkimustiedon aiheessa.
+**Syvempi polku:** Lue TE2-aiheen *Tutkimustieto* kohta *Kyselytieto ja rekisteritieto*. Päättele sivun tekstin perusteella, onko [Syöpärekisterin tilastosivu](https://cancerregistry.fi/statistics/) kyselytietoa vai rekisteritietoa, ja kirjoita perustelu. Avaa [Syöpärekisterin tilastosivu](https://cancerregistry.fi/statistics/) ja kirjoita, mitä ilmaantuvuus, kuolleisuus ja elossaolo tarkoittavat. Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn viiden kriteerin avulla.
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Tehtävissä voi kirjoittaa omalla kielellä; koetehtävissä harjoitellaan suomenkielisiä käsitteitä.
 
-- *tarttumaton tauti = tauti, joka ei leviä ihmisestä toiseen*
-- *ilmaantuvuus = uusien tapausten määrä tietyssä ajassa*; *esiintyvyys = kuinka suurella osalla väestöstä tauti on*
-- *ikävakioitu = luku, josta ikärakenteen vaikutus on poistettu*
-- *riskitekijä = asia, joka lisää sairastumisen todennäköisyyttä*
-- *seulonta = tutkimus, joka tehdään ihmisille, joilla ei ole oireita*
-- *toimintakyky = kyky selvitä arjesta*; *osteoporoosi = luukato, jossa luu murtuu helposti*
+- *tarttumaton tauti = tauti, joka ei leviä ihmisestä toiseen*; *ilmaantuvuus = uusien tapausten määrä tietyssä ajassa*; *esiintyvyys = kuinka suurella osalla väestöstä tauti on*
+- *ikävakioitu = luku, josta ikärakenteen vaikutus on poistettu*; *riskitekijä = asia, joka lisää sairastumisen todennäköisyyttä*
+- *seulonta = tutkimus, joka tehdään ihmisille, joilla ei ole oireita*; *toimintakyky = kyky selvitä arjesta*; *osteoporoosi = luukato, jossa luu murtuu helposti*
 
 **Lukeminen, keskittyminen ja jännitys:** Lue K3:n taulukko sarake kerrallaan ja peitä muut. Alleviivaa lukuja eri väreillä. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
 

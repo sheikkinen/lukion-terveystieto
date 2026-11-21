@@ -15,12 +15,15 @@ safety_flags: []
 official_links:
   - {title: "Kuolleet (Tilastokeskus)", url: "https://stat.fi/fi/tilasto/kuol", publisher: "Tilastokeskus", read: 2026-11-21}
   - {title: "Epidemiological transition (Wikipedia)", url: "https://en.wikipedia.org/wiki/Epidemiological_transition", publisher: "Wikipedia", read: 2026-11-21}
-  - {title: "Kansanterveyslaki (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Kansanterveyslaki", publisher: "Wikipedia", read: 2026-11-21}
-  - {title: "Neuvola (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Neuvola", publisher: "Wikipedia", read: 2026-11-21}
+  - {title: "Kansanterveyslaki (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Kansanterveyslaki", publisher: "Wikipedia", read: 2026-11-22}
+  - {title: "Neuvola (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Neuvola", publisher: "Wikipedia", read: 2026-11-22}
   - {title: "Projektien mies koko sydämellä (Pohjois-Karjala-projekti)", url: "https://sydan.fi/artikkeli/projektien-mies-koko-sydamella/", publisher: "Sydänliitto", read: 2026-11-21}
   - {title: "Suomi näyttää esimerkkiä terveyden viemisessä poliittiseen päätöksentekoon", url: "https://stm.fi/sv/-/suomi-nayttaa-esimerkkia-terveyden-viemisessa-poliittiseen-paatoksentekoon", publisher: "Sosiaali- ja terveysministeriö (STM)", read: 2026-11-21}
   - {title: "HiAP approach", url: "https://research.tuni.fi/centre-for-hiap-and-sdh/hiap-approach/", publisher: "WHO Collaborating Centre on Health in All Policies and the Social Determinants of Health, Tampere Universities", read: 2026-11-21}
   - {title: "Infektioiden tartunta, taudin synty ja leviäminen (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00569", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
+  - {title: "Lapsikuolleisuuden väheneminen ilmentää yhteiskunnan muutosta ja kehitystasoa (Tilastokeskus)", url: "https://stat.fi/artikkelit/2010/art_2010-06-07_007.html?s=0", publisher: "Tilastokeskus", read: 2026-11-22}
+  - {title: "Penisilliini (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Penisilliini", publisher: "Wikipedia", read: 2026-11-22}
+  - {title: "Terveys- ja sosiaalipalvelujen historiaa Suomessa (opetusdiat, peda.net)", url: "https://peda.net/id/d6ab74266f7:file/download/cb94834fe7d190ba902d43bd14695675bc98f30d/TE3%20terveys-ja%20sosiaalipalveluiden%20historiaa%20Suomessa.pdf", publisher: "peda.net (opetusmateriaali, tekijä ei ilmene)", read: 2026-11-22}
   - {title: "Lasten ja nuorten puhelin 116 111 (Nuortennetti)", url: "https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/", publisher: "Mannerheimin Lastensuojeluliitto (MLL)", read: 2026-11-21}
   - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
 yearly_facts: [kuolleet_elinajanodote, hiap_helsinki_2013, opiskeluterveydenhuolto, mll_116111, sekasin_chat]
@@ -28,16 +31,20 @@ materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials
 linked_materials:
   - {title: "Kuolleet (Tilastokeskus)", url: "https://stat.fi/fi/tilasto/kuol", publisher: "Tilastokeskus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
   - {title: "Epidemiological transition (Wikipedia)", url: "https://en.wikipedia.org/wiki/Epidemiological_transition", publisher: "Wikipedia", licence_class: open-cc-by-sa, licence: "CC BY-SA 4.0", audience: syventävä opiskelija ja opettaja, read: 2026-11-21}
-  - {title: "Kansanterveyslaki (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Kansanterveyslaki", publisher: "Wikipedia", licence_class: open-cc-by-sa, licence: "CC BY-SA 4.0", audience: syventävä opiskelija ja opettaja, read: 2026-11-21}
-  - {title: "Neuvola (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Neuvola", publisher: "Wikipedia", licence_class: open-cc-by-sa, licence: "CC BY-SA 4.0", audience: syventävä opiskelija ja opettaja, read: 2026-11-21}
+  - {title: "Kansanterveyslaki (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Kansanterveyslaki", publisher: "Wikipedia", licence_class: open-cc-by-sa, licence: "CC BY-SA 4.0", audience: syventävä opiskelija ja opettaja, read: 2026-11-22}
+  - {title: "Neuvola (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Neuvola", publisher: "Wikipedia", licence_class: open-cc-by-sa, licence: "CC BY-SA 4.0", audience: syventävä opiskelija ja opettaja, read: 2026-11-22}
   - {title: "Projektien mies koko sydämellä (Pohjois-Karjala-projekti)", url: "https://sydan.fi/artikkeli/projektien-mies-koko-sydamella/", publisher: "Sydänliitto", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija ja opettaja, read: 2026-11-21}
   - {title: "Suomi näyttää esimerkkiä terveyden viemisessä poliittiseen päätöksentekoon", url: "https://stm.fi/sv/-/suomi-nayttaa-esimerkkia-terveyden-viemisessa-poliittiseen-paatoksentekoon", publisher: "Sosiaali- ja terveysministeriö (STM)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja ja media, read: 2026-11-21}
   - {title: "HiAP approach", url: "https://research.tuni.fi/centre-for-hiap-and-sdh/hiap-approach/", publisher: "WHO Collaborating Centre on Health in All Policies and the Social Determinants of Health, Tampere Universities", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja ja päätöksentekijät, read: 2026-11-21}
   - {title: "Infektioiden tartunta, taudin synty ja leviäminen (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00569", publisher: "Suomalainen Lääkäriseura Duodecim", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija ja opettaja, read: 2026-11-21}
+  - {title: "Lapsikuolleisuuden väheneminen ilmentää yhteiskunnan muutosta ja kehitystasoa (Tilastokeskus)", url: "https://stat.fi/artikkelit/2010/art_2010-06-07_007.html?s=0", publisher: "Tilastokeskus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija ja opettaja, read: 2026-11-22}
+  - {title: "Penisilliini (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Penisilliini", publisher: "Wikipedia", licence_class: open-cc-by-sa, licence: "CC BY-SA 4.0", audience: syventävä opiskelija ja opettaja, read: 2026-11-22}
+  - {title: "Terveys- ja sosiaalipalvelujen historiaa Suomessa (opetusdiat, peda.net)", url: "https://peda.net/id/d6ab74266f7:file/download/cb94834fe7d190ba902d43bd14695675bc98f30d/TE3%20terveys-ja%20sosiaalipalveluiden%20historiaa%20Suomessa.pdf", publisher: "peda.net (opetusmateriaali, tekijä ei ilmene)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
 exam_tasks:
   - {id: K1, type: taydennys, part: A20, points: 20, minutes: 25, codes: [TE3.s2, TE3.s3, TE3.s4]}
   - {id: K2, type: viitekehyksen-soveltaminen, part: B20, points: 20, minutes: 35, codes: [TE3.s3]}
   - {id: K3, type: kuvaajan-vaiheet, part: C30, points: 30, minutes: 55, codes: [TE3.s4, TE3.s2, TE3.t1, TE3.s3]}
+  - {id: K4, type: mallien-jarjestaminen, part: A20, points: 20, minutes: 25, codes: [TE3.s2, TE3.s3, TE3.s4, TE3.t1]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
 school_adapts: ["Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"]
@@ -71,9 +78,9 @@ Syntyvyys-sarake on yleinen väestöllisen siirtymän piirre, jota lähde ei eri
 
 ### Mikä muutti kuolleisuutta?
 
-Muutos ei johtunut yhdestä asiasta. Tekijät kulkevat käsi kädessä.
+Muutos ei johtunut yhdestä asiasta: toimien järjestystä harjoitellaan koetehtävässä K4.
 
-- **Tiede:** mikrobiteoria selitti, miten tartunta leviää (ks. [aihe 01](../../te3/01-terveyskasitykset-ja-selitysmallit/)). Rokotteet ja antibiootit ehkäisevät ja hoitavat tartuntatauteja. Rokotukset ja aiemmin sairastettu tauti voivat ehkäistä tartuntaa, ja käsihygienia on keskeistä ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00569)).
+- **Tiede:** mikrobiteoria selitti, miten tartunta leviää (ks. [aihe 01](../../te3/01-terveyskasitykset-ja-selitysmallit/)). Rokotteet ja antibiootit ehkäisevät ja hoitavat tartuntatauteja. Maanlaajuiset rokotukset saivat hinkuyskän ja kurkkumädän katoamaan, ja lasten ripulia vähensivät hygienia ja imetysvalistus ([Tilastokeskus](https://stat.fi/artikkelit/2010/art_2010-06-07_007.html?s=0)).
 - **Teknologia:** vesijohto, viemäri ja laboratoriot tekivät tartuntareiteistä hallittavia.
 - **Yhteiskunta:** terveyskeskukset, neuvola ja kouluterveydenhuolto toivat palvelut lähelle ihmisiä. Koulutus ja toimeentulo vaikuttavat siihen, ketkä hyötyvät tiedosta ja palveluista.
 
@@ -83,7 +90,7 @@ Väestön terveyttä mitataan esimerkiksi **kuolleisuudella**, **imeväiskuollei
 
 **Kansanterveyslaki 1972.** Laki velvoitti jokaisen kunnan huolehtimaan perusterveydenhuollosta. Kunnat perustivat terveyskeskuksia, joihin kuului muun muassa neuvola ja kouluterveydenhuolto. Tavoitteena oli siirtää painopistettä ehkäisevään työhön ([Wikipedia](https://fi.wikipedia.org/wiki/Kansanterveyslaki)).
 
-**Pohjois-Karjala-projekti.** Projekti 1970-luvulla pyrki edistämään sydän- ja verisuoniterveyttä. Kolesteroli ja ruokatottumukset olivat sen keskiössä. Alussa vastustus oli kovaa etenkin pienillä maitotiloilla, jotka pelkäsivät toimeentulonsa puolesta. Asenteet muuttuivat, kun paikalliset järjestöt, kuten Martat, auttoivat, tapahtumia pidettiin kaupoissa ja ihmiset alkoivat pitää projektia omanaan ([Sydänliitto](https://sydan.fi/artikkeli/projektien-mies-koko-sydamella/)). Väestön terveys muuttuu helpoimmin, kun muutos tehdään yhteisön kanssa.
+**Pohjois-Karjala-projekti.** Projekti 1970-luvulla pyrki edistämään sydän- ja verisuoniterveyttä. Kolesteroli ja ruokatottumukset olivat sen keskiössä. Alussa vastustus oli kovaa etenkin pienillä maitotiloilla, jotka pelkäsivät toimeentulonsa puolesta. Asenteet muuttuivat, kun paikalliset järjestöt, kuten Martat, auttoivat, tapahtumia pidettiin kaupoissa ja ihmiset alkoivat pitää projektia omanaan ([Sydänliitto](https://sydan.fi/artikkeli/projektien-mies-koko-sydamella/)).
 
 ### Terveys kaikissa politiikoissa
 
@@ -199,11 +206,24 @@ c) Arvioi, miksi terveysvaikutukset kannattaa arvioida ennen päätöstä ja mit
 
 *Aineisto 2 (kuvitteellinen): Naapurimaan terveysraportti.* "Pitkäaikaissairaudet ovat nykyään tärkein kuolinsyy. Tartuntatautikuolemat ovat harvinaisia. Terveyserot ovat kuitenkin suuret: koulutetuilla ja kaupunkilaisilla on pitkä elinaika, maaseudulla lyhyempi. Hallitus harkitsee, että kaikkien ministeriöiden esitykset arvioitaisiin terveysvaikutusten kannalta."
 
-a) Piirrä vastausarkille kuvio, jossa on kolme käyrää vaiheiden 1–3 ajalta (kuolleisuus, syntyvyys, väkiluku), ja nimeä vaiheet. Kuvaa kunkin käyrän muoto kussakin vaiheessa taulukon 1 sanoin. (12 p)
+a) Piirrä vastausarkille kuvio, jossa on kolme käyrää vaiheiden 1–3 ajalta (kuolleisuus, syntyvyys, väkiluku), ja nimeä vaiheet. Kuvaa kunkin käyrän muoto kussakin vaiheessa taulukon 1 sanoin. (13 p)
 
-b) Selitä, mitkä tieteen, teknologian ja yhteiskunnan tekijät laskivat kuolleisuutta vaiheessa 2 ja miksi väkiluku kasvoi silloin nopeasti. (8 p)
+b) Selitä, mitkä tieteen, teknologian ja yhteiskunnan tekijät laskivat kuolleisuutta vaiheessa 2 ja miksi väkiluku kasvoi silloin nopeasti. (9 p)
 
-c) Sijoita Naapurimaa epidemiologisen siirtymän vaiheeseen aineiston 2 perusteella ja ehdota yksi toimi terveys kaikissa politiikoissa -ajattelun mukaan. Perustele, miten toimi vaikuttaisi terveyseroihin. (10 p)
+c) Sijoita Naapurimaa epidemiologisen siirtymän vaiheeseen aineiston 2 perusteella ja ehdota yksi toimi terveys kaikissa politiikoissa -ajattelun mukaan. Perustele, miten toimi vaikuttaisi terveyseroihin. (8 p)
+
+### K4: Terveydenhuollon kehitysaskeleet järjestykseen, 25 min (20 p)
+
+*Osa A20 · Harjoittelee: Osaan 2, 3*
+
+Suomen terveydenhuollon kehityksessä oli viisi askelta: kansanterveyslaki, keskussairaalaverkoston rakentaminen, neuvola, penisilliinin massavalmistus ja Calmette-rokotus. Luettele ne järjestyksessä varhaisimmasta viimeisimpään ja kerro, mitä kukin askel toi terveydenhuoltoon. Kirjoita lopuksi, miten kaksi askelta täydensi toisiaan. Kirjoita enintään 1800 merkkiä.
+
+*Aineisto (linkitetyistä lähteistä, luku-ajat linkkien tekstissä):*
+> - Neuvolatyö alkoi Helsingissä 1922, ja vuoden 1944 laki velvoitti kunnat perustamaan äitiys- ja lastenneuvolan vuoteen 1949 mennessä. Lastenneuvolassa lapsille tehdään terveystarkastuksia ja annetaan mahdollisia rokotteita. Helsingissä ja sen lähialueilla imeväiskuolleisuus laski neuvolatoiminnan aikana ([Wikipedia: Neuvola, luettu 22.11.2026](https://fi.wikipedia.org/wiki/Neuvola)).
+> - Penisilliinin massavalmistus alkoi maailmalla 1944. Penisilliini on antibiootti, jota käytetään bakteerien aiheuttamien sairauksien hoidossa ([Wikipedia: Penisilliini, luettu 22.11.2026](https://fi.wikipedia.org/wiki/Penisilliini)).
+> - Tuberkuloosin ehkäisy alkoi toisen maailmansodan aikana: seulontoja, hygieniavalistusta, Calmette-rokotuksia ja uusia lääkkeitä. Koko maan kattavan keskussairaalaverkoston rakentaminen alkoi sotien jälkeen, ja sen tavoite oli tasa-arvoiset sairaalapalvelut kaikkien ulottuville ([opetusdiat, peda.net, luettu 22.11.2026](https://peda.net/id/d6ab74266f7:file/download/cb94834fe7d190ba902d43bd14695675bc98f30d/TE3%20terveys-ja%20sosiaalipalveluiden%20historiaa%20Suomessa.pdf)).
+> - Tuberkuloosi katosi 1950-luvun loppuun mennessä lähes kokonaan valistuksen, hoidon ja rokotusten avulla. Tuberkuloosi, hinkuyskä ja kurkkumätä olivat 1930-luvulla pikkulasten kuolinsyitä ([Tilastokeskus, luettu 22.11.2026](https://stat.fi/artikkelit/2010/art_2010-06-07_007.html?s=0)).
+> - Kansanterveyslaki säädettiin 1972, ja jokainen kunta velvoitettiin perustamaan terveyskeskus ([Wikipedia: Kansanterveyslaki, luettu 22.11.2026](https://fi.wikipedia.org/wiki/Kansanterveyslaki)). Laki siirsi painopistettä sairaanhoidosta ehkäisevään terveydenhuoltoon (opetusdiat, peda.net, kuten yllä).
 
 ## Mallivastaukset
 
@@ -322,7 +342,7 @@ Kuolleisuus on vaiheessa 1 korkea ja vaihtelee jyrkästi, vaiheessa 2 se laskee 
 - 0–5 p: kuviota ei ole tai se ei vastaa taulukkoa; vastaus kertoo vain taudeista yleisesti.
 - Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
-Tehtävänannon osapisteet (a 12 p, b 8 p, c 10 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+Tehtävänannon osapisteet (a 13 p, b 9 p, c 8 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
 **Yhteensä:** 30 p
 
@@ -332,6 +352,42 @@ Tehtävänannon osapisteet (a 12 p, b 8 p, c 10 p) sisältävät sekä sisällö
 - b-kohdassa luetellaan tekijät selittämättä, miten ne laskivat kuolleisuutta.
 - c-kohdassa tehdään terveydenhuollon toimi (*lisätään lääkäreitä*) eikä toimea, joka kohdistuu muiden alojen päätöksiin.
 - Aineistoa 2 ei käytetä: vaihe sijoitetaan ilman perusteluja.
+
+Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
+
+### K4: Terveydenhuollon kehitysaskeleet järjestykseen, 25 min (20 p)
+
+**Malliksi kelpaava vastaus**
+
+| Järjestys | Askel | Ajoitus aineistosta | Mitä askel toi |
+|---|---|---|---|
+| 1 | neuvola | 1922, laki 1944 | Äitiys- ja lastenneuvolan terveystarkastukset ja rokotteet tulivat kuntiin; Helsingissä imeväiskuolleisuus laski neuvolatoiminnan aikana. |
+| 2 | Calmette-rokotus | toisen maailmansodan aikana | Osa tuberkuloosin ehkäisyä: rokotus, seulonta, hygieniavalistus ja uudet lääkkeet. Tuberkuloosi väheni myöhemmin lähes kokonaan. |
+| 3 | penisilliinin massavalmistus | 1944 | Antibiootti, jolla hoidetaan bakteerien aiheuttamia sairauksia: bakteeritauti sai tehokkaan hoidon. |
+| 4 | keskussairaalaverkoston rakentaminen | sotien jälkeen | Tavoitteena olivat tasa-arvoiset sairaalapalvelut kaikkien ulottuville. |
+| 5 | kansanterveyslaki | 1972 | Jokainen kunta velvoitettiin perustamaan terveyskeskus, ja painopiste siirtyi sairaanhoidosta ehkäisyyn. |
+
+Neuvola on ensimmäinen, sairaalaverkosto neljäs ja kansanterveyslaki viimeinen aineiston ajoituksen mukaan. Calmette-rokotus ja penisilliini ovat molemmat sodan ajalta, joten niiden keskinäinen järjestys voi olla kumpi tahansa, kun se perustellaan aineistolla. Askeleet täydensivät toisiaan. Lastenneuvola antaa rokotteita, joten ehkäisy tavoitti lapset jo ennen kouluikää. Penisilliini hoiti bakteeritaudin, ja sairaalaverkosto vei hoidon kaikkien ulottuville. Kansanterveyslaki täydensi sairaalaverkostoa siirtämällä painopistettä ehkäisyyn. Yksi askel ei yksin riittänyt, koska tarvittiin sekä ehkäisyä että hoitoa, ja palvelujen piti olla kaikkien ulottuvilla.
+
+**Pisteytys**
+
+*Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
+
+- Jokainen viidestä askeleesta 3 p: askel sijoitettu paikalleen aineiston ajoituksen perusteella 1 p; selitys siitä, mitä askel toi terveydenhuoltoon, 2 p. Yhteensä 15 p.
+- Neuvola ensimmäisenä, sairaalaverkosto neljäntenä ja kansanterveyslaki viimeisenä ovat kiinteät. Calmette-rokotus ja penisilliini ovat toisena ja kolmantena missä tahansa järjestyksessä, jos perustelu käyttää aineiston ajoitusta (sodan aikana, 1944). Toistettu tai ylimääräinen askel 0 p.
+- Kaksi askelta ja se, miten ne täydensivät toisiaan, 3 p; syy, miksi yksi askel ei yksin riittänyt, 2 p. Yhteensä 5 p. Merkkirajan ylittävää osaa ei lueta.
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
+
+*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (ehkäisy ja hoito erotetaan), soveltaminen (askel sidotaan aineiston ajoitukseen), analysointi (selitys kertoo, mitä askel toi, eikä vain nimeä sitä), arviointi ja argumentointi (täydentävyys perustellaan).
+
+**Yhteensä:** 20 p
+
+**Tyypilliset virheet**
+
+- Askeleet luetellaan ajoitusta ja sisältöä selittämättä (*neuvola auttoi*).
+- Kansanterveyslaki (1972) sijoitetaan varhaiseksi tai sairaalaverkosto ennen sotaa, vaikka aineisto sanoo sen alkaneen sotien jälkeen.
+- Calmette-rokotus ja penisilliini sekoitetaan: rokote ehkäisee, antibiootti hoitaa bakteeritaudin.
+- Täydentävyys jää kirjoittamatta, ja vastaus vain toistaa listan.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -345,7 +401,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 1. **Lue** osio Opiskelijalle (10 min).
 2. **Tee** Tehtävä 1 (20 min) ja Tehtävä 2 (15 min). Tehtävä 3 on lisätehtävä (15 min).
-3. **Harjoittele** koetehtävä K1 (25 min) ja tarkista vastauksesi mallivastauksella. K2 ja K3 sopivat kertaukseen.
+3. **Harjoittele** koetehtävä K1 (25 min) ja tarkista vastauksesi mallivastauksella. K2–K4 sopivat kertaukseen.
 4. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 5. **Seuraava askel:** aihe 03 *Tarttumattomat kansantaudit*. Siellä jatkat siitä, mihin siirtymä päättyy: pitkäaikaissairauksista ja siitä, miten niiden esiintymistä luetaan.
 
@@ -363,7 +419,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Työskentely | 25 | Tehtävä 1 kokonaan pareittain (20 min), sitten Tehtävän 2 vaiheet 1–2 (5 min). | Kierrä ja kysy: miksi väkiluku kasvaa, kun kuolleisuus laskee mutta syntyvyys ei? | Yksin paperilla. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vastaavat Tehtävän 3 vaiheeseen 3: ketkä kutsuttaisiin suunnitteluun? | Kokoa vastaukset: kenet päätös voisi jättää huomaamatta. | Yksin kirjoittaen. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n aukot 1–5 yksin (6 min) ja tarkistus (4 min). Exit-lappu: yksi tekijä, joka paransi väestön terveyttä, ja miten. | Muistuta, että väärä vastaus vie pisteen ja arvaus kannattaa vain, kun osaa sulkea pois vaihtoehdon. | Paperilla. | Tarkistus kotona. |
-| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat harjoituksia kotiin tai kertaukseen. | – | – |
+| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K4 ovat harjoituksia kotiin tai kertaukseen. | – | – |
 
 ### Tuntisuunnitelma (60 min)
 
@@ -373,7 +429,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Opiskelijat kirjaavat viiden vaiheen taulukon. | Esittele taulukko; vaiheista 4 ja 5 vain yksi lause. Esittele Pohjois-Karjala-projekti ja terveys kaikissa politiikoissa kahdella lauseella ja lue ääneen Tehtävän 3 tapaus (Jokirannan satama-alue). | Taulukko paperilla. | Vaiheet 4–5 kotiin. |
 | Työskentely | 25 | Tehtävä 1 kokonaan (20 min), sitten Tehtävän 2 vaiheet 1–2 (5 min). | Kierrä ja kysy, miksi väkiluku kasvaa. | Yksin paperilla. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit vastaavat Tehtävän 3 vaiheeseen 3. | Ryhmittele vastaukset: ketkä jäävät huomaamatta. | Yksin paperille. | Yksi yhteinen vastaus. |
-| Koeharjoitus ja exit | 9 | K1:n aukot 1–4 yksin (5 min) ja tarkistus (4 min). Exit-lappu: yksi epäselvä käsite. | Kerro K1–K3:sta kotiharjoituksina. | Paperilla. | Tarkistus kotona. |
+| Koeharjoitus ja exit | 9 | K1:n aukot 1–4 yksin (5 min) ja tarkistus (4 min). Exit-lappu: yksi epäselvä käsite. | Kerro K1–K4:stä kotiharjoituksina. | Paperilla. | Tarkistus kotona. |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -389,7 +445,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 - Piirrä viiden vaiheen taulukko taululle tai jaa se paperilla. Tehtävät toimivat ilman tulosteita. Selvitä koulun opiskeluterveydenhuollon yhteystiedot (esimerkki).
 - Lue halutessasi Sydänliiton artikkeli ja STM:n tiedote (ks. Lähteet). Ne ovat link-out-aineistoa: linkitä, älä kopioi. Wikipedian artikkelit ovat CC BY-SA -aineistoa, joten nekin vain linkitetään.
-- Tunnettu aukko: ylioppilaskokeessa on kysytty, missä järjestyksessä neuvola, rokotukset, antibiootit, sairaalaverkosto ja kansanterveyslaki vähensivät lasten kuolleisuutta. Sivu käsittelee näistä neuvolaa, rokotuksia ja kansanterveyslakia yleisellä tasolla, mutta ei tuo lähteellistä järjestystä eikä mittaluetteloa.
+- Terveydenhuollon kehitysaskelten järjestystä harjoitellaan K4:ssä. Lähteet antavat neuvolalle 1922 ja 1944, penisilliinin massavalmistukselle 1944 ja kansanterveyslain säätämiselle 1972; Calmette-rokotus on sodan ajalta ja sairaalaverkosto sotien jälkeen. Siksi vain askelten 2 ja 3 keskinäinen järjestys on vapaa. Lähteet eivät yhdistä antibiootteja, sairaalaverkostoa tai kansanterveyslakia lasten kuolleisuuteen, eikä tehtävä väitä sitä. Peda.netin opetusdiat ovat opettajan tekemää aineistoa, ei virallinen lähde.
 - Tilastokeskuksen lukuja ei kirjoiteta sivulle. Jos haluat näyttää elinajanodotteen kehityksen, avaa Tilastokeskuksen sivu tunnilla ja lue luvut sieltä.
 
 ### Avoimet kysymykset

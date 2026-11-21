@@ -617,3 +617,47 @@ facts:
   read: '2026-11-21'
   note: 'Sivu Sairaanhoitokorvaus hedelmöityshoidosta, päivitetty 29.12.2025, luettu 2026-11-21. Sivu on kirjoitettu
     ammattilaisille (yhteistyökumppanit). Summat ja ikärajat vaihtuvat, joten niitä ei kopioida.'
+- key: vaestoliitto_keita_olemme
+  rule: Väestöliitto kuvaa nuorten palvelujaan. Sivu ei kerro ikärajoja eikä aukioloaikoja.
+  url: https://www.vaestoliitto.fi/nuoret/keita-olemme/
+  publisher: Väestöliitto
+  read: '2026-11-21'
+  note: Sivu avattu 2026-11-21 (200), nuorten avunlinkki kriitikon varmennetulla listalla. Ikärajaa ei kirjoiteta tekstiin.
+- key: biopankkilaki
+  rule: Biopankkilain tarkoitus on tukea ihmisperäisiä näytteitä käyttävää tutkimusta, lisätä avoimuutta ja turvata yksityisyyden suoja ja
+    itsemääräämisoikeus (1 §). Näytteiden käsittely perustuu kirjalliseen suostumukseen, ja ennen suostumusta annetaan selvitys muun muassa
+    tutkimuksen luonteesta, haitoista, säilyttäjästä ja omistajasta sekä vapaaehtoisuudesta ja mahdollisuudesta rajoittaa tai peruuttaa
+    suostumus ilman kielteisiä seurauksia (11 §). Suostumuksen voi peruuttaa milloin tahansa (12 §).
+  url: https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2012/688
+  publisher: Oikeusministeriö (Finlex)
+  read: '2026-11-22'
+  note: Ajantasainen teksti luettu Finlexin avoimesta rajapinnasta 2026-11-22 (200, XML), pykälät 1, 3, 5, 11, 12 ja 14. Biopankkien määriä ei kirjoiteta.
+- key: ilmasto_mielenterveys_eea
+  rule: Euroopan ilmasto- ja terveyshavaintolaitoksen sivun mukaan tulvat, metsäpalot ja muut äärisääilmiöt voivat aiheuttaa ahdistusta,
+    masennusta ja traumaperäistä stressiä vahinkojen, toimeentulon menetyksen ja kotoa lähtemään joutumisen kautta, ja ilmastoahdistus kuormittaa
+    erityisesti lapsia ja nuoria. Sivu mainitsee sairauksien yhteyden lämpöön ja itsetuhoisuuteen; sitä ei kirjoiteta.
+  url: https://climate-adapt.eea.europa.eu/fi/observatory/evidence/health-effects/mental-health-effects/mental-health-effects/
+  publisher: Euroopan ympäristökeskus (EEA) ja Euroopan komissio
+  read: '2026-11-22'
+  note: Sivu avattu 2026-11-22; julkaistu 30.3.2022, muokattu 11.4.2025. Lämmön ja itsetuhoisuuden yhteyttä ei käytetä sivulla, jossa ei ole itsetuhoisuusmerkintää. Lukuja ei kirjoiteta.
+- key: terve_suomi_tulokset
+  rule: THL:n Terve Suomi -tutkimuksen tulokset voi katsoa iän ja sukupuolen sekä koulutusryhmän ja hyvinvointialueen mukaan.
+  url: https://thl.fi/tervesuomi/tulokset
+  publisher: Terveyden ja hyvinvoinnin laitos (THL)
+  read: '2026-11-22'
+  note: Sivu avattu 2026-11-22 (päivitetty 4.9.2026). Lukuja ei kirjoiteta; taulukon luvut haetaan sivulta.
+- key: syopa_kustannukset_syopasaatio
+  rule: Syöpäsäätiön tiedotteen mukaan syövän kustannukset muodostuvat muun muassa erikoissairaanhoidosta, lääkkeistä, kuntoutuksesta,
+    matkoista ja sairauspäivärahoista; tiedot tulevat rekistereistä. Nimellinen kasvu ja hintojen nousun huomioiva kasvu erosivat, ja
+    lääkekustannukset voivat nousta uusien hoitojen myötä ja laskea patenttien päättyessä.
+  url: https://www.sttinfo.fi/tiedote/71176751/syovan-kustannuskasvu-hidastunut
+  publisher: Syöpäsäätiö (STT Info)
+  read: '2026-11-22'
+  note: 'Tiedote 20.5.2025 luettu 2026-11-22 (200). Rahoittajajärjestön tiedote, ei vertaisarvioitu; luvut koskevat vuotta 2023 eikä niitä kirjoiteta. Sivu ei kerro laskentatapaa tarkasti.'
+- key: who_syopa_2026
+  rule: WHO:n syöpäsivun mukaan varhainen toteaminen voi tuoda edullisemman hoidon, ja suositetuissa tilanteissa HPV- ja hepatiitti B -rokotteet
+    kuuluvat ehkäisyyn. Sivu ei kuvaa syövän kustannuksia.
+  url: https://www.who.int/news-room/fact-sheets/detail/cancer
+  publisher: Maailman terveysjärjestö (WHO)
+  read: '2026-11-22'
+  note: Sivu avattu 2026-11-22; päiväys 3.7.2026. Ehkäistävien syöpien osuutta ei kirjoiteta (muuttuva arvio).

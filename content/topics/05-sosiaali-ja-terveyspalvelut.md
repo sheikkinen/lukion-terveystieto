@@ -9,7 +9,7 @@ assessment: numeric
 suggested_timing: {year: 2, term: kevät}
 role: core
 duration_options: [45, 60, 75]
-self_study_minutes: 85
+self_study_minutes: 90
 prerequisites: [te1-10-opiskeluhyvinvointi]
 safety_flags: []
 official_links:
@@ -127,7 +127,7 @@ Valtioneuvoston väliarviointi nostaa esiin alueellisia eroja ja korjattavaa ([v
 2. Valitse jokaiselle tilanteelle sopivin palvelu tai tuen muoto Opiskelijalle-osion kohdista Mihin kannattaa hakeutua? ja Perheen tukimuodot.
 3. Kirjoita yhdellä lauseella, miksi palvelu sopii.
 4. Kirjoita seuraava askel, esimerkiksi *soitan* tai *otan yhteyttä terveydenhoitajaan*.
-5. Merkitse tähdellä tilanne, jossa hätänumero tai nopea apu on tarpeen, ja kirjoita, mistä sen tunnistat.
+5. Merkitse tähdellä tilanne, jossa hätänumero tai nopea apu on tarpeen.
 
 ### Tehtävä 3: Lue oma alue
 
@@ -206,11 +206,11 @@ b) Vertaile tilanteessa D julkista ja yksityistä vaihtoehtoa vähintään kahde
 | Oppilashuolto | kuraattori ja koulupsykologi tukevat lapsen koulunkäyntiä | lapsen koulu |
 | Vanhempien vertaisryhmä | järjestön vapaaehtoisten vetämä keskusteluryhmä | järjestö |
 
-a) Nimeä tapauksen perusteella neljä tukea, jotka sopisivat Kimin perheelle, ja liitä kukin tapauksessa kuvattuun tarpeeseen. Luokittele tuet taloudelliseksi tueksi, palveluiksi ja vertaistueksi. (9 p)
+a) Nimeä tapauksen perusteella neljä tukea, jotka sopisivat Kimin perheelle, ja liitä kukin tapauksessa kuvattuun tarpeeseen. Luokittele tuet taloudelliseksi tueksi, palveluiksi ja vertaistueksi. (10 p)
 
 b) Selitä, kuka kolmea valitsemaasi tukea järjestää tai maksaa, ja kerro, mikä on Kimin ensimmäinen konkreettinen askel. (9 p)
 
-c) Arvioi tukijärjestelmän toimivuutta Kimin tapauksessa: miten alueelliset erot, hakemisen vaivalloisuus ja tuen riittävyys voivat vaikuttaa? Tee yksi perusteltu parannusehdotus, jossa kerrot, kuka toimii ja miten ehdotus auttaisi perheitä. (12 p)
+c) Arvioi tukijärjestelmän toimivuutta Kimin tapauksessa: miten alueelliset erot, hakemisen vaivalloisuus ja tuen riittävyys voivat vaikuttaa? Tee yksi perusteltu parannusehdotus, jossa kerrot, kuka toimii ja miten ehdotus auttaisi perheitä. (11 p)
 
 ## Mallivastaukset
 
@@ -313,7 +313,7 @@ Parannusehdotus: hyvinvointialue nimeää jokaiselle lapsiperheelle yhden yhteys
 - 0–5 p: vastaus kuvaa Kimin tilannetta ilman taulukkoa tai luettelee tukia ilman luokittelua.
 - Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
-Tehtävänannon osapisteet (a 9 p, b 9 p, c 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+Tehtävänannon osapisteet (a 10 p, b 9 p, c 11 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
 **Yhteensä:** 30 p
 
@@ -330,7 +330,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Tavoite:** Osaat kertoa, kuka palveluja järjestää, tuottaa ja korvaa, ja valita tilanteeseen sopivan palvelun.
 
-**Aikaa kuluu:** noin 85 minuuttia.
+**Aikaa kuluu:** noin 90 minuuttia.
 
 **Näin etenet:**
 

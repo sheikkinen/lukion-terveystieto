@@ -29,7 +29,11 @@ official_links:
   - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin (MIELI ry ja kumppanit)", read: 2026-11-21}
   - {title: "Lasten ja nuorten puhelin 116 111 (Nuortennetti)", url: "https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/", publisher: "Mannerheimin Lastensuojeluliitto (MLL)", read: 2026-11-21}
   - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
-yearly_facts: [terveyserot_tilastot, kuolleet_elinajanodote, who_ncd, who_sdh, hiap_helsinki_2013, mikrobilaakeresistenssi, opiskeluterveydenhuolto, sekasin_chat, mll_116111]
+  - {title: "Mielenterveysvaikutukset (Climate-ADAPT, EEA)", url: "https://climate-adapt.eea.europa.eu/fi/observatory/evidence/health-effects/mental-health-effects/mental-health-effects/", publisher: "Euroopan ympäristökeskus (EEA) ja Euroopan komissio", read: 2026-11-22}
+  - {title: "Terve Suomi -tutkimuksen tulokset (THL, 4.9.2026)", url: "https://thl.fi/tervesuomi/tulokset", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-22}
+  - {title: "Syövän kustannuskasvu hidastunut (Syöpäsäätiö, 20.5.2025)", url: "https://www.sttinfo.fi/tiedote/71176751/syovan-kustannuskasvu-hidastunut", publisher: "Syöpäsäätiö (STT Info)", read: 2026-11-22}
+  - {title: "Cancer (WHO, 3.7.2026)", url: "https://www.who.int/news-room/fact-sheets/detail/cancer", publisher: "Maailman terveysjärjestö (WHO)", read: 2026-11-22}
+yearly_facts: [ilmasto_mielenterveys_eea, terve_suomi_tulokset, syopa_kustannukset_syopasaatio, who_syopa_2026, terveyserot_tilastot, kuolleet_elinajanodote, who_ncd, who_sdh, hiap_helsinki_2013, mikrobilaakeresistenssi, opiskeluterveydenhuolto, sekasin_chat, mll_116111]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Social determinants of health (WHO, 6.5.2025)", url: "https://www.who.int/news-room/fact-sheets/detail/social-determinants-of-health", publisher: "Maailman terveysjärjestö (WHO)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: päättäjät ja terveysalan johtajat, read: 2026-11-21}
@@ -37,15 +41,20 @@ linked_materials:
   - {title: "Väestön hyvinvointi (THL)", url: "https://thl.fi/data-ja-tilastot/vaeston-hyvinvointi", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
   - {title: "Sosiaaliluokka on terveyden riskitekijä (THL-blogi 9.11.2018)", url: "https://blogi.thl.fi/sosiaaliluokka-on-terveyden-riskitekija/", publisher: "THL-blogi", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: yleisö, read: 2026-11-21}
   - {title: "Noncommunicable diseases (WHO, 25.9.2025)", url: "https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases", publisher: "Maailman terveysjärjestö (WHO)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
+  - {title: "Mielenterveysvaikutukset (Climate-ADAPT, EEA)", url: "https://climate-adapt.eea.europa.eu/fi/observatory/evidence/health-effects/mental-health-effects/mental-health-effects/", publisher: "Euroopan ympäristökeskus (EEA) ja Euroopan komissio", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
+  - {title: "Terve Suomi -tutkimuksen tulokset (THL, 4.9.2026)", url: "https://thl.fi/tervesuomi/tulokset", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
+  - {title: "Syövän kustannuskasvu hidastunut (Syöpäsäätiö, 20.5.2025)", url: "https://www.sttinfo.fi/tiedote/71176751/syovan-kustannuskasvu-hidastunut", publisher: "Syöpäsäätiö (STT Info)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
+  - {title: "Cancer (WHO, 3.7.2026)", url: "https://www.who.int/news-room/fact-sheets/detail/cancer", publisher: "Maailman terveysjärjestö (WHO)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
 exam_tasks:
   - {id: K1, type: luettele-ja-luokittele, part: A20, points: 20, minutes: 25, codes: [TE3.s10, TE3.t4]}
   - {id: K2, type: aineiston-lukeminen, part: B20, points: 20, minutes: 35, codes: [TE3.s10, TE3.t1]}
   - {id: K3, type: viitekehyksen-soveltaminen, part: C30, points: 30, minutes: 55, codes: [TE3.s10, TE3.s3, TE3.t4]}
+  - {id: K4, type: aineiston-lukeminen, part: B20, points: 20, minutes: 35, codes: [TE3.s10, TE3.s3, TE3.t1]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
 school_adapts: ["Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"]
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; aineistot on kirjoitettu tehtäviin.", "Tehtävissä analysoidaan kuvitteellisia ryhmiä ja alueita; omasta tilanteesta tai taustasta ei tarvitse kertoa kenellekään.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
-last_reviewed: 2026-11-21
+last_reviewed: 2026-11-22
 ---
 
 ## Opiskelijalle
@@ -60,37 +69,37 @@ last_reviewed: 2026-11-21
 
 ### Mitä terveyden eriarvoisuus on?
 
-**Terveyden eriarvoisuus** eli **terveyserot** tarkoittaa terveyden eroja ryhmien välillä, esimerkiksi koulutuksen, tulojen tai asuinalueen mukaan. Käsite on tuttu aiheesta [TE2: elinympäristö ja terveys](../../te2/04-elinymparisto/). THL:n väestön hyvinvointitiedoissa erot näkyvät esimerkiksi koulutuksen, tulojen ja asuinalueen mukaan ([THL](https://thl.fi/data-ja-tilastot/vaeston-hyvinvointi)). THL:n Hyvinvointikatsauksen mukaan eriarvoisuus on pysyvää ([THL 7.4.2026](https://thl.fi/en/our-view/there-are-persistent-inequalities-in-health-and-well-being-in-finland/thl-report-presents-116-recommendations-to-address-current-challenges-in-wellbeing-and-health)).
+**Terveyden eriarvoisuus** eli **terveyserot** tarkoittaa terveyden eroja ryhmien välillä, esimerkiksi koulutuksen, tulojen tai asuinalueen mukaan. Käsite on tuttu aiheesta [TE2: elinympäristö ja terveys](../../te2/04-elinymparisto/). THL:n väestön hyvinvointitiedoissa erot näkyvät esimerkiksi koulutuksen, tulojen ja asuinalueen mukaan ([THL](https://thl.fi/data-ja-tilastot/vaeston-hyvinvointi)).
 
 ### Mistä erot syntyvät?
 
-WHO:n tietosivun mukaan korkeammin koulutetuilla on väestötasolla parempi terveys ja pidempi elinikä, ja eliniänodote voi vaihdella asuinalueen mukaan maiden sisälläkin suuresti. ([WHO 6.5.2025](https://www.who.int/news-room/fact-sheets/detail/social-determinants-of-health)). Erot syntyvät ketjuina: heikko toimeentulo voi rajata asumisen ja palvelujen valintoja, ja ne vaikuttavat terveyteen. Tekijät myös kasaantuvat. Tämä on kertausta aiheesta [TE1: mitä terveys on?](../../te1/01-terveys-voimavarana/). Ero ryhmien välillä ei kerro yksittäisestä ihmisestä: ryhmän sisällä on paljon vaihtelua.
+WHO:n tietosivun mukaan korkeammin koulutetuilla on väestötasolla parempi terveys ja pidempi elinikä, ja eliniänodote voi vaihdella asuinalueen mukaan maiden sisälläkin suuresti ([WHO 6.5.2025](https://www.who.int/news-room/fact-sheets/detail/social-determinants-of-health)). **Taustatekijä** on ryhmän elämässä taustalla oleva asia, esimerkiksi koulutus tai toimeentulo. **Välittävä tekijä** on se, jonka kautta taustatekijän vaikutus kulkee terveyteen, esimerkiksi etäisyys palveluihin. Tekijät myös kasaantuvat. Ero ryhmien välillä ei kerro yksittäisestä ihmisestä: ryhmän sisällä on paljon vaihtelua.
 
 ### Miten kuvaajaa luetaan?
 
-- **Ryhmittely:** taulukko tai kuvio vertaa ryhmiä, esimerkiksi koulutustasoja. Katso ensin, mitä ryhmiä on ja mitä mitataan.
+- **Ryhmittely:** tulokset esitetään usein sukupuolen, iän, koulutuksen ja alueen mukaan, esimerkiksi THL:n Terve Suomi -tutkimuksessa ([THL, luettu 22.11.2026](https://thl.fi/tervesuomi/tulokset)). Katso ensin, mitä ryhmiä on ja mitä mitataan.
 - **Ikävakiointi:** ikä vaikuttaa moniin sairauksiin. Ikävakioitu luku poistaa ikärakenteen eron laskennasta, joten alueita voi verrata, vaikka toisella olisi enemmän vanhoja asukkaita. Jos kartta on ikävakioitu, ikä ei selitä eroa.
 - **Elinajanodote** kertoo, kuinka kauan keskimäärin eletään ([Tilastokeskus](https://stat.fi/fi/tilasto/kuol)). **Menetetyt elinvuodet** kuvaavat, kuinka paljon elinaikaa menetetään ennenaikaisen kuoleman vuoksi.
 - **Raja:** yhteys ei ole syy. Kuvaaja näyttää eron, mutta syy vaatii selityksen.
 
 ### Miksi erot kannattaa kaventaa?
 
-Perusteluja on monia (sivuston oma jäsennys): **oikeudenmukaisuus** (kaikilla on yhtäläinen arvo), **kustannukset** (sairaudet kuormittavat palveluja ja työelämää), **työllisyys ja toimintakyky**, **yhteiskuntarauha** ja luottamus sekä kansainväliset sitoumukset terveyden tukemisesta. Eettisesti kysymys on, mitä velkaa yhteiskunta on niille, joilla on vähemmän mahdollisuuksia. Perustelut voivat painottua eri tavalla.
+Perusteluja on monia (sivuston oma jäsennys): **oikeudenmukaisuus** (kaikilla on yhtäläinen arvo), **kustannukset** (sairaudet kuormittavat palveluja ja työelämää; terveystaloustiede vertaa kustannuksia ja hyötyjä; **nimellinen kustannus** on kunkin vuoden omilla hinnoilla, **hinnanmuutoksista puhdistettu** yhden vuoden hinnoilla laskettu), **työllisyys ja toimintakyky**, **yhteiskuntarauha** ja luottamus sekä kansainväliset sitoumukset terveyden tukemisesta.
 
 ### Keinot
 
-Erojen kaventamiseen sopii **Ottawan asiakirjan** viisi toiminta-aluetta: terveyttä edistävä yhteiskuntapolitiikka, terveyttä tukevat ympäristöt, yhteisön toiminta, henkilökohtaiset taidot ja terveyspalvelujen suuntaaminen uudelleen ([WHO: Ottawan asiakirjan toiminta-alueet](https://www.who.int/teams/health-promotion/enhanced-wellbeing/first-global-conference/actions)). **Terveys kaikissa politiikoissa** tarkoittaa, että terveysvaikutukset otetaan huomioon kaikilla politiikan aloilla ([STM 14.6.2013](https://stm.fi/sv/-/suomi-nayttaa-esimerkkia-terveyden-viemisessa-poliittiseen-paatoksentekoon)). Sen historiaa käsitellään aiheessa [TE3: väestön terveyden muutos](../../te3/02-vaeston-terveyden-muutos/).
+Erojen kaventamiseen sopii **Ottawan asiakirjan** viisi toiminta-aluetta: terveyttä edistävä yhteiskuntapolitiikka, terveyttä tukevat ympäristöt, yhteisön toiminta, henkilökohtaiset taidot ja terveyspalvelujen suuntaaminen uudelleen ([WHO: Ottawan asiakirjan toiminta-alueet](https://www.who.int/teams/health-promotion/enhanced-wellbeing/first-global-conference/actions)). **Terveys kaikissa politiikoissa** tarkoittaa, että terveysvaikutukset otetaan huomioon kaikilla politiikan aloilla ([STM 14.6.2013](https://stm.fi/sv/-/suomi-nayttaa-esimerkkia-terveyden-viemisessa-poliittiseen-paatoksentekoon)).
 
 ### Maailmalla ja tulevaisuudessa
 
-WHO:n mukaan valtaosa maailman kuolemista johtuu tarttumattomista taudeista ([WHO 25.9.2025](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases)). WHO:n mukaan terveyseroja on sekä maiden sisällä että maiden välillä. WHO:n mukaan eliniänodotteen ero maiden välillä voi olla jopa 33 vuotta, ja matalatuloisessa maassa syntyneellä lapsella on 13-kertainen todennäköisyys kuolla ennen viittä ikävuotta kuin korkeatuloisessa ([WHO 6.5.2025, luettu 21.11.2026](https://www.who.int/news-room/fact-sheets/detail/social-determinants-of-health)).
+WHO:n mukaan valtaosa maailman kuolemista johtuu tarttumattomista taudeista ([WHO 25.9.2025](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases)). WHO:n mukaan elinajanodote ja lasten kuolleisuus eroavat maiden välillä suuresti; tuoreet luvut ovat sivulla ([WHO 6.5.2025, luettu 21.11.2026](https://www.who.int/news-room/fact-sheets/detail/social-determinants-of-health)).
 
-Tulevaisuuden haasteista tarkastellaan neljää kysymystä. Sivu ei väitä lukuja:
+Tulevaisuuden haasteista tarkastellaan neljää kysymystä:
 
 - **Ikääntyminen:** mitä se tarkoittaa palvelujen ja työvoiman kannalta?
 - **Mikrobilääkeresistenssi** tarkoittaa, että mikrobi ei enää reagoi lääkkeeseen. Tarpeeton käyttö nopeuttaa sitä ([THL 23.10.2026](https://thl.fi/en/data-and-statistics/infectious-diseases/antimicrobial-resistance), [WHO 16.7.2026](https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance)).
-- **Ilmastonmuutos ja ilmastoahdistus:** ks. [TE2: kestävä kehitys](../../te2/06-kestava-kehitys/). Huoli on ymmärrettävä reaktio, ja sitä voi lievittää sekä yksilö että yhteiskunta.
-- **Digitalisaatio ja tekoäly:** ks. [TE3: eettisen analyysin näkökulmat](../../te3/07-eettisen-analyysin-nakokulmat/). Mahdollisuus: palvelut tavoittavat kaukaa. Riski: kaikilla ei ole samoja taitoja.
+- **Ympäristökriisit ja mielenterveys:** tulvat voivat vahinkojen, toimeentulon menetyksen ja kotoa lähtemään joutumisen kautta aiheuttaa ahdistusta ja masennusta, metsäpalot on yhdistetty ahdistukseen ja masennukseen, ja nuoret ovat erityisen alttiita ([Climate-ADAPT, luettu 22.11.2026](https://climate-adapt.eea.europa.eu/fi/observatory/evidence/health-effects/mental-health-effects/mental-health-effects/)). Ilmastoahdistuksesta ja sen lievittämisestä yksilön, yhteisön ja yhteiskunnan tasolla ks. [TE2: kestävä kehitys](../../te2/06-kestava-kehitys/).
+- **Digitalisaatio ja tekoäly:** ks. [TE3: eettisen analyysin näkökulmat](../../te3/07-eettisen-analyysin-nakokulmat/). Palvelut tavoittavat kaukaa, mutta kaikilla ei ole samoja taitoja.
 
 ## Tehtävät
 
@@ -101,19 +110,20 @@ Tulevaisuuden haasteista tarkastellaan neljää kysymystä. Sivu ei väitä luku
 **Ilman laitetta:** Tämä on paperitehtävä: taulukko on tehtävässä.
 **Harjoittelet:** Osaan 1 ja 2
 
-*Taulukko 1 (kuvitteellinen): pitkäaikaissairauden esiintyvyys kolmella alueella (ikävakioitu)*
+*Taulukko 1 (kuvitteellinen): liikuntasuosituksen mukaan liikkuvien osuus ryhmittäin (ikävakioitu, ikäryhmien rivit ikäryhmän sisällä)*
 
-| Alue | Palvelut lähellä | Työpaikkoja | Esiintyvyys |
-|---|---|---|---|
-| Alue A | hyvin | paljon | harvinaisin |
-| Alue B | kohtalaisesti | kohtalaisesti | kohtalainen |
-| Alue C | huonosti | vähän | yleisin |
+| Ryhmittely | Ryhmät ja osuus |
+|---|---|
+| Sukupuoli | naiset: lähes sama; miehet: lähes sama |
+| Ikäryhmä | nuoret aikuiset: suurin; keski-ikäiset: keskimmäinen; ikääntyneet: pienin |
+| Koulutus | perusaste: pienin; toinen aste: keskimmäinen; korkea-aste: suurin |
+| Alue | Alue A (palvelut lähellä): suurin; Alue B (palvelut kaukana): pienin |
 
-1. Kirjoita yksi lause siitä, mitä taulukko vertaa ja mitä siitä näkyy.
-2. Kirjoita, miksi *ikävakioitu* on tärkeä sana tässä taulukossa.
-3. Kirjoita kaksi tapaa, joilla palvelut ja työpaikat voivat vaikuttaa esiintyvyyteen.
-4. Kirjoita yksi asia, jota taulukko ei kerro.
-5. Kirjoita lause siitä, miksi taulukko ei kerro yksittäisestä asukkaasta.
+1. Kirjoita, mitä taulukko mittaa ja millä neljällä perusteella ryhmät on jaettu.
+2. Nimeä ryhmittelyt, joissa ero näkyy, ja se, jossa sitä ei näy.
+3. Kirjoita, miksi *ikävakioitu* on tärkeä sana koulutuksen ja alueen riveillä.
+4. Kirjoita kaksi välittävää tekijää, joiden kautta koulutus tai etäisyys palveluihin voi vaikuttaa liikkumiseen.
+5. Kirjoita lause siitä, miksi taulukko ei kerro syystä eikä yksittäisestä ihmisestä.
 
 ### Tehtävä 2: Kavenna ero viidellä toiminta-alueella
 
@@ -128,7 +138,7 @@ Tulevaisuuden haasteista tarkastellaan neljää kysymystä. Sivu ei väitä luku
 2. Kirjoita jokaiselle riville yksi toimi, jolla ero voisi kaventua, ja kuka toimii.
 3. Merkitse tähdellä se toimi, joka voisi vaikuttaa eniten, ja perustele yhdellä lauseella.
 4. Valitse yksi perusteluista (esimerkiksi oikeudenmukaisuus tai kustannukset) ja kirjoita, mitä eettisen analyysin näkökulmaa se edustaa.
-5. Lue tekstistä kohta *Maailmalla ja tulevaisuudessa*. Kirjoita yksi lause siitä, miksi kaupunginosan keinot eivät yksin kavenna maiden välisiä eroja ja mikä taso tarvitsisi mukaan.
+5. Kirjoita yksi lause siitä (kohta *Maailmalla ja tulevaisuudessa* auttaa), miksi kaupunginosan keinot eivät yksin kavenna maiden välisiä eroja ja mikä taso tarvitsisi mukaan.
 
 ### Tehtävä 3: Tulevaisuuden haaste
 
@@ -141,6 +151,7 @@ Tulevaisuuden haasteista tarkastellaan neljää kysymystä. Sivu ei väitä luku
 2. Kirjoita ketju: mikä haaste, kenelle se on riski ja miksi.
 3. Kirjoita yksi keino, jolla yhteiskunta voi varautua, ja yksi mahdollisuus, jonka tulevaisuus tuo.
 4. Kirjoita, kuka muu kuin terveydenhuolto voisi vaikuttaa.
+5. Kirjoita, miten yhteisö ja yhteiskunta voisivat lievittää ympäristökriisin, esimerkiksi tulvan, kuormaa mielelle (apua kohdasta *Ilmastoahdistus*, [TE2: kestävä kehitys](../../te2/06-kestava-kehitys/)).
 
 ## Pohdinta
 
@@ -199,6 +210,31 @@ a) Perustele, miksi kaupungin kannattaa kaventaa aluetta A ja B erottavaa eroa. 
 b) Tee jokaiselle viidelle toiminta-alueelle yksi perusteltu ehdotus: mikä toimi, kuka toimii ja miten se vaikuttaa terveyteen. (16 p)
 
 c) Arvioi, mikä ehdotuksista tavoittaisi eniten ihmisiä ja mikä toteutuisi helpoimmin, ja perustele. Ota huomioon myös tulevaisuuden haaste, jonka suunnitelmassa pitäisi huomioida. (8 p)
+
+### K4: Syövän kustannukset ja ennuste, 35 min (20 p)
+
+*Osa B20 · Harjoittelee: Osaan 2, 3, 5*
+
+*Aineisto 1 (kuvitteellinen): Merenrannan hyvinvointialueen syöpähoidon kustannukset, miljoonaa euroa.*
+
+| Vuosi | Nimelliset kustannukset | Kustannukset vuoden 1 hinnoin |
+|---|---|---|
+| 1 | 40 | 40 |
+| 2 | 42 | 41 |
+| 3 | 44 | 41 |
+| Ennuste, vuosi 8 | 58 | 47 |
+
+Kustannuksiin kuuluvat erikoissairaanhoito, lääkkeet, kuntoutus sekä matkat ja sairauspäivärahat. *Kustannuslaji* tarkoittaa menojen ryhmää, esimerkiksi lääkkeet tai kuntoutus. Ennuste olettaa, että potilaita on enemmän ja että uusia lääkkeitä otetaan käyttöön. Se ei oleta muutoksia ehkäisyyn tai varhaiseen toteamiseen.
+
+*Aineisto 2 (kuvattu omin sanoin): Syöpäsäätiön tiedote.* Tiedotteen mukaan syövän kustannukset muodostuvat muun muassa erikoissairaanhoidosta, lääkkeistä, kuntoutuksesta, matkoista ja sairauspäivärahoista. Tiedot tulevat rekistereistä. Tiedotteen mukaan vuoden kustannukset kasvoivat nimellisesti mutta laskivat, kun hintojen nousu otettiin huomioon, ja lääkekustannukset voivat nousta uusien hoitojen myötä ja laskea patenttien päätyttyä ([Syöpäsäätiö 20.5.2025, luettu 22.11.2026](https://www.sttinfo.fi/tiedote/71176751/syovan-kustannuskasvu-hidastunut)).
+
+Ottawan asiakirjan viisi toiminta-aluetta ovat terveyttä edistävä yhteiskuntapolitiikka, terveyttä tukevat ympäristöt, yhteisön toiminta, henkilökohtaiset taidot ja terveyspalvelujen suuntaaminen uudelleen ([WHO](https://www.who.int/teams/health-promotion/enhanced-wellbeing/first-global-conference/actions)).
+
+a) Kuvaa, miten nimelliset ja vuoden 1 hinnoin lasketut kustannukset kehittyvät taulukossa ja ennusteessa. Kirjoita enintään 700 merkkiä. (6 p)
+
+b) Selitä käsittein *nimellinen kustannus*, *hinnanmuutoksista puhdistettu kustannus* ja *kustannuslaji*, miksi nimellisten kustannusten kasvu ei yksin kerro, onko hoitoa tullut enemmän. Ehdota sitten kahta Ottawan asiakirjan toiminta-aluetta käyttäen, miten ennusteen oletuksiin voisi vaikuttaa. Kirjoita enintään 1200 merkkiä. (8 p)
+
+c) Arvioi, mitä ennuste olettaa ja miksi kustannus ei yksin kerro hoidon arvoa tai ihmisten tilannetta. Kirjoita enintään 900 merkkiä. (6 p)
 
 ## Mallivastaukset
 
@@ -286,7 +322,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **b)** *Terveyttä edistävä yhteiskuntapolitiikka:* kaupunki ottaa terveysvaikutusten arvioinnin mukaan kaavoitukseen ja liikenteeseen. Kaupunki ja valtuusto toimivat. Päätökset huomioivat alueen B tarpeet. *Terveyttä tukevat ympäristöt:* alueelle B rakennetaan turvalliset kävely- ja pyöräreitit ja tiheämpi joukkoliikenne. Kaupunki toimii, ja liikkuminen työhön ja palveluihin helpottuu. *Yhteisön toiminta:* asukkaat ja järjestöt suunnittelevat alueen toimintaa yhdessä kaupungin kanssa, mikä vahvistaa yhteyksiä ja osallisuutta. *Henkilökohtaiset taidot:* koulu ja aikuisopisto tarjoavat työelämä- ja terveyslukutaitoa. Se vahvistaa tietoja ja taitoja. *Terveyspalvelujen suuntaaminen uudelleen:* lähipalvelu ja liikkuva palvelu alueelle B tuovat ehkäisevät palvelut lähelle. Hyvinvointialue ja kaupunki toimivat yhdessä.
 
-**c)** Eniten ihmisiä tavoittaa yhteiskuntapolitiikka ja ympäristöt, koska ne koskevat kaikkia alueen asukkaita. Helpoimmin toteutuu henkilökohtaisten taitojen tarjonta, koska se ei vaadi rakentamista. Reitit ja joukkoliikenne ovat kalliita mutta vaikuttavat pitkään. Tulevaisuuden haaste on ilmastonmuutos: esimerkiksi helle koskee eniten niitä, joilla on vähän palveluja ja viherympäristöä, joten suunnitelmaan kuuluu myös varjoisia ja viileitä paikkoja alueelle B. Suunnitelman kannattaa yhdistää eri alueita, koska ne tukevat toisiaan.
+**c)** Eniten ihmisiä tavoittaa yhteiskuntapolitiikka ja ympäristöt, koska ne koskevat kaikkia alueen asukkaita. Helpoimmin toteutuu henkilökohtaisten taitojen tarjonta, koska se ei vaadi rakentamista. Reitit ja joukkoliikenne ovat kalliita mutta vaikuttavat pitkään. Tulevaisuuden haaste on ilmastonmuutos: esimerkiksi helle koskee eniten niitä, joilla on vähän palveluja ja viherympäristöä, joten suunnitelmaan kuuluu myös varjoisia ja viileitä paikkoja alueelle B. Tulvat ja muut äärisääilmiöt voivat myös kuormittaa mielenterveyttä, joten yhteisön tuki ja palvelujen saatavuus kuuluvat suunnitelmaan. Suunnitelman kannattaa yhdistää eri alueita, koska ne tukevat toisiaan.
 
 **Pisteytys**
 
@@ -317,6 +353,45 @@ Tehtävänannon osapisteet (a 6 p, b 16 p, c 8 p) sisältävät sekä sisällön
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
+### K4: Syövän kustannukset ja ennuste, 35 min (20 p)
+
+**Malliksi kelpaava vastaus**
+
+**a)** Nimelliset kustannukset kasvavat taulukossa joka vuosi: vuodesta 1 vuoteen 3 neljä miljoonaa euroa, ja ennuste vuodelle 8 on 58 miljoonaa. Vuoden 1 hinnoin kustannukset kasvavat paljon hitaammin: ne ovat vuosina 2 ja 3 yhtä suuret, 41 miljoonaa, ja ennuste vuodelle 8 on 47 miljoonaa. Suuri osa nimellisestä kasvusta on siis hintojen nousua. Ennusteessa kasvaa kuitenkin myös hinnanmuutoksista puhdistettu kustannus.
+
+**b)** Nimellinen kustannus on summa kunkin vuoden omilla hinnoilla. Hinnanmuutoksista puhdistettu kustannus on laskettu yhden vuoden hinnoin, joten hintojen nousu ei kasvata sitä. Siksi nimellisten kustannusten kasvu ei yksin kerro, onko hoitoa tullut enemmän: vuosien 2 ja 3 välillä nimellinen luku kasvaa, mutta puhdistettu pysyy samana, eli kasvu on hintoja eikä lisää hoitoa. Kustannuslaji kertoo, mihin raha menee, esimerkiksi erikoissairaanhoitoon, lääkkeisiin tai kuntoutukseen. Lajeittain luettuna ennusteesta näkyy, mikä osa voi vaihdella, koska lääkekustannukset voivat nousta ja laskea (aineisto 2). Ennusteen oletuksiin voi vaikuttaa kahdella toiminta-alueella. *Terveyttä edistävä yhteiskuntapolitiikka:* hyvinvointialue ja valtio voivat tukea rokotusohjelmia ja muuta ehkäisyä. WHO mainitsee muun muassa HPV- ja hepatiitti B -rokotteet suositelluissa tilanteissa ([WHO 3.7.2026, luettu 22.11.2026](https://www.who.int/news-room/fact-sheets/detail/cancer)). *Terveyspalvelujen suuntaaminen uudelleen:* varhaisen toteamisen ja seulonnan vahvistaminen voi WHO:n mukaan tehdä hoidosta edullisempaa, koska syöpä löytyy aiemmin. Ehkäisyn ja varhaisen toteamisen vaikutus kustannuksiin näkyisi vasta myöhemmin.
+
+**c)** Ennuste olettaa potilasmäärän kasvun ja uusien lääkkeiden käyttöönoton, mutta ei muutosta ehkäisyyn tai varhaiseen toteamiseen. Ennuste on epävarma, koska hinnat, hoidot ja potilasmäärät muuttuvat, ja yksi lääke voi muuttaa lajin kustannuksia nopeasti. Kustannus ei kerro hoidon arvoa: pienempi kustannus ei ole parempi hoito eikä suurempi kustannus huonompi. Se ei myöskään kerro ihmisten selviytymisestä, elämänlaadusta tai siitä, kuka kustannuksen kantaa. Aineisto on yhden kuvitteellisen alueen luvut.
+
+**Pisteytys**
+
+*Sisältö 10 p:*
+
+- a) Nimellisten kustannusten kasvu luettu taulukosta 1 p; hinnanmuutoksista puhdistettu kasvu luettu ja ero nimelliseen havaittu 1 p; ennuste vuodelle 8 mainittu 1 p. Yhteensä 3 p.
+- b) Nimellinen ja puhdistettu kustannus selitetty ja yhdistetty taulukkoon 2 p; kustannuslaji selitetty 1 p; kaksi toiminta-aluetta, joista kustakin konkreettinen ehdotus ja mekanismi, 1 p kummastakin. Yhteensä 5 p.
+- c) Ennusteen oletukset nimetty 1 p; kustannus ei kerro hoidon arvoa tai ihmisten tilannetta 1 p. Yhteensä 2 p.
+
+*Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
+
+- 8–10 p: lukemat ja käsitteet liitetään taulukon riveihin; ennusteen oletukset ja kustannuslajit otetaan huomioon; toiminta-alueiden ehdotukset kytketään ennusteen oletuksiin; rajat arvioidaan perustellusti.
+- 4–7 p: lukemat ja käsitteet ovat oikein, mutta ehdotukset tai rajat jäävät yleisiksi.
+- 0–3 p: vastaus kertoo syövästä yleisesti eikä käytä taulukkoa.
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
+
+Tehtävänannon osapisteet (a 6 p, b 8 p, c 6 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+
+**Yhteensä:** 20 p
+
+**Tyypilliset virheet**
+
+- Nimellisen kasvun oletetaan tarkoittavan, että hoitoa on tullut enemmän.
+- Ennustetta pidetään tosiasiana eikä oletusten varassa olevana arviona.
+- Kustannuksesta tehdään arvo (*halvempi hoito on parempi*).
+- Toiminta-alueet nimetään, mutta ehdotus ei kerro, miten ennusteen oletus muuttuisi.
+- Syövästä kirjoitetaan yleisesti, eikä taulukon lukuja käytetä.
+
+Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
+
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat lukea terveyserojen taulukkoa, selittää erojen syyt ja ehdottaa keinoja Ottawan viiden toiminta-alueen avulla.
@@ -327,7 +402,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 1. **Lue** osio Opiskelijalle (15 min).
 2. **Tee** Tehtävä 1 (20 min) ja Tehtävä 2 (15 min). Tehtävä 3 on lisätehtävä (10 min).
-3. **Harjoittele** koetehtävä K1 (25 min) ja tarkista vastauksesi mallivastauksella. K2 ja K3 sopivat kertaukseen.
+3. **Harjoittele** koetehtävä K1 (25 min) ja tarkista vastauksesi mallivastauksella. K2, K3 ja K4 sopivat kertaukseen.
 4. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 5. **Seuraava askel:** palaa moduulin alkuun ja tee koetehtäviä kaikista TE3-aiheista. Valitse niistä A20-, B20- ja C30-tehtävä ja vertaa vastauksiasi mallivastauksiin.
 
@@ -345,7 +420,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Työskentely | 25 | Tehtävä 1 kokonaan (20 min), sitten Tehtävän 2 vaiheet 1–2 (5 min). | Kierrä ja kysy: mitä taulukko ei kerro? | Yksin paperilla. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät valitsevat yhden perusteen erojen kaventamiselle ja nimeävät sen eettisen näkökulman. | Kokoa taululle kolme perustetta ja näkökulmat. | Yksin: yksi peruste. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n tekijät 1–4 luokiteltuina yksin (6 min) ja tarkistus (4 min). Exit-lappu: yksi syy sille, miksi ryhmäero ei kerro yksilöstä. | Näytä K1:n pisteytys. | Paperilla. | Tarkistus kotona. |
-| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat harjoituksia kotiin tai kertaukseen. | – | – |
+| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K4 ovat harjoituksia kotiin tai kertaukseen. | – | – |
 
 ### Tuntisuunnitelma (60 min)
 

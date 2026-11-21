@@ -98,3 +98,10 @@ form. The gaps are recorded in `docs/engine-issues.md` (E-1 to E-10).
   banner. It must be re-synced when the engine pin moves. (E-1)
 - **Checks the engine does not run** (exam-task code coverage, points sums, Osaan coverage, material licences and
   ages, help sections on flagged pages, the figure scanner, the privacy linter) stay with the checker agents. (E-8)
+
+## Addendum 2026-11-22: a fourth exam task (briefs 009 and 011)
+
+Written by the producer after the brief 011 judgement. The exam drives (briefs 009 and 011) added a fourth exam task
+to some topics, where a brief asked for one new task per topic and the existing three could not take the new format.
+`## Koetehtävät` may therefore hold 2–4 tasks. A fourth task needs a brief that asks for it, a matching model answer,
+and the same checks as the others. Lesson plans that name the tasks say "K1–K4" where a fourth exists.

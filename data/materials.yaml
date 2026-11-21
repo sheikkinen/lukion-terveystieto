@@ -2576,7 +2576,7 @@ topics:
     licence_class: open-cc-by-sa
     licence: CC BY-SA 4.0
     audience: syventävä opiskelija ja opettaja
-    read: '2026-11-21'
+    read: '2026-11-22'
     listed_in:
     - official_links
     - linked_materials
@@ -2586,7 +2586,7 @@ topics:
     licence_class: open-cc-by-sa
     licence: CC BY-SA 4.0
     audience: syventävä opiskelija ja opettaja
-    read: '2026-11-21'
+    read: '2026-11-22'
     listed_in:
     - official_links
     - linked_materials
@@ -2634,16 +2634,39 @@ topics:
     - official_links
     - linked_materials
     note: Osoite avattu 2026-11-21 (200). Päiväys 2.11.2026. Vanha tk.koti-osoite ohjaa tähän.
-  - title: Opiskeluterveydenhuolto (THL)
-    url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
-    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+  - title: Lapsikuolleisuuden väheneminen ilmentää yhteiskunnan muutosta ja kehitystasoa (Tilastokeskus)
+    url: https://stat.fi/artikkelit/2010/art_2010-06-07_007.html?s=0
+    publisher: Tilastokeskus
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija ja opettaja
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+    note: Koko dokumentti (?s=0) avattu 2026-11-22; sivutettu ensimmäinen sivu ei sisällä rokotus-, tuberkuloosi- ja ripulilauseita. Kertoo, että hinkuyskä ja kurkkumätä saatiin katoamaan maanlaajuisilla rokotuksilla, tuberkuloosi väheni 1950-luvun loppuun mennessä lähes kokonaan ja lasten ripulia vähensivät hygienia ja imetysvalistus. Nämä taudit olivat 1930-luvun lasten kuolinsyitä. Ei anna toimille järjestystä.
+  - title: Penisilliini (Wikipedia)
+    url: https://fi.wikipedia.org/wiki/Penisilliini
+    publisher: Wikipedia
+    licence_class: open-cc-by-sa
+    licence: CC BY-SA 4.0
+    audience: syventävä opiskelija ja opettaja
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+    note: Osoite avattu 2026-11-22. Massavalmistus alkoi 1944 (maailmanlaajuinen tieto); Suomen käyttöönottovuotta sivu ei anna.
+  - title: Terveys- ja sosiaalipalvelujen historiaa Suomessa (opetusdiat, peda.net)
+    url: https://peda.net/id/d6ab74266f7:file/download/cb94834fe7d190ba902d43bd14695675bc98f30d/TE3%20terveys-ja%20sosiaalipalveluiden%20historiaa%20Suomessa.pdf
+    publisher: peda.net (opetusmateriaali, tekijä ei ilmene)
     licence_class: link-out
     licence: Kaikki oikeudet pidätetään
     audience: opettaja
-    read: '2026-11-21'
+    read: '2026-11-22'
     listed_in:
     - official_links
-    note: Sivu on kirjoitettu ammattilaisille (osoite thl.fi/ohjeita-ammattilaisille); taustatietoa, ei opiskelijan varausreittiä. Opiskelijalle reitti kerrotaan sanoin (koulu tai hyvinvointialue).
+    - linked_materials
+    note: PDF avattu 2026-11-22. Opettajan tekemä aineisto, ei virallinen lähde; kertoo neuvolajärjestelmän, Calmette-rokotuksen ja keskussairaalaverkoston rakentamisen sotien jälkeen.
   - title: Lasten ja nuorten puhelin 116 111 (Nuortennetti)
     url: https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/
     publisher: Mannerheimin Lastensuojeluliitto (MLL)
@@ -2670,7 +2693,7 @@ topics:
     licence_class: link-out
     licence: Kaikki oikeudet pidätetään
     audience: opettaja
-    read: '2026-11-21'
+    read: '2026-11-22'
     listed_in:
     - official_links
     - linked_materials
@@ -2730,16 +2753,68 @@ topics:
     - official_links
     - linked_materials
     note: Osoite avattu 2026-11-21 (200). Vanha osoite thl.fi/tilastot-ja-data/tilastot-aiheittain/sairastavuus-ja-tapaturmat ohjaa tähän; päiväystä ei näy.
-  - title: Opiskeluterveydenhuolto (THL)
-    url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
-    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+  - title: Muistisairaudet (Terveyskirjasto)
+    url: https://www.terveyskirjasto.fi/khp00094
+    publisher: Suomalainen Lääkäriseura Duodecim (Käypä hoito -potilasversio)
     licence_class: link-out
     licence: Kaikki oikeudet pidätetään
-    audience: opettaja
+    audience: potilaat ja läheiset
     read: '2026-11-21'
     listed_in:
     - official_links
-    note: Sivu on kirjoitettu ammattilaisille (osoite thl.fi/ohjeita-ammattilaisille); taustatietoa, ei opiskelijan varausreittiä. Opiskelijalle reitti kerrotaan sanoin (koulu tai hyvinvointialue).
+    - linked_materials
+  - title: Metabolinen oireyhtymä (MBO) (Terveyskirjasto)
+    url: https://www.terveyskirjasto.fi/dlk00045
+    publisher: Suomalainen Lääkäriseura Duodecim
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: yleisö
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Osteoporoosi altistaa luun murtumille (Terveyskirjasto)
+    url: https://www.terveyskirjasto.fi/khp00023
+    publisher: Suomalainen Lääkäriseura Duodecim (Käypä hoito -potilasversio)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: potilaat
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Fyysisen toimintakyvyn mittaaminen ja arviointi väestötutkimuksissa (TOIMIA-suositus S029)
+    url: https://www.julkari.fi/bitstream/handle/10024/140538/TOIMIA_S029_Fyysisen_toimintakyvyn_mittaaminen_ja_arviointi_vaestotutkimuksissa.pdf?sequence=5
+    publisher: TOIMIA-verkosto (THL, Julkari)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja ja tutkijat
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Nivelreuma - yleisin tulehduksellinen reumasairaus (Terveyskirjasto)
+    url: https://www.terveyskirjasto.fi/khp00022
+    publisher: Suomalainen Lääkäriseura Duodecim (Käypä hoito -potilasversio)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: potilaat
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+    note: Osoite avattu 2026-11-22. Sivu päivätty 26.1.2016, ja sen mukaan suositus on päivitetty 9/2026 mutta potilasversiot ovat päivityksessä. Sivu ei käytä sanaa autoimmuuni.
+  - title: Syövän kustannuskasvu hidastunut (Syöpäsäätiö, STT-tiedote)
+    url: https://www.sttinfo.fi/tiedote/71176751/syovan-kustannuskasvu-hidastunut
+    publisher: Syöpäsäätiö
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja ja media
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+    note: Osoite avattu 2026-11-22. Tiedote 20.5.2025. Kustannuserät ja kasvun tekijät; lukuja ei kirjoiteta sivulle.
   - title: Lasten ja nuorten puhelin 116 111 (Nuortennetti)
     url: https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/
     publisher: Mannerheimin Lastensuojeluliitto (MLL)
@@ -2809,11 +2884,11 @@ topics:
     licence_class: link-out
     licence: Kaikki oikeudet pidätetään
     audience: yleisö
-    read: '2026-11-21'
+    read: '2026-11-22'
     listed_in:
     - official_links
     - linked_materials
-    note: Osoite avattu 2026-11-21 (200). Päiväys 15.9.2026.
+    note: Osoite avattu 2026-11-21 ja 2026-11-22 (200). Päiväys 15.9.2026.
   - title: TBE-rokote (THL)
     url: https://thl.fi/ohjeita-ammattilaisille/tbe-rokote
     publisher: Terveyden ja hyvinvoinnin laitos (THL)
@@ -2866,16 +2941,158 @@ topics:
     listed_in:
     - official_links
     - linked_materials
-  - title: Opiskeluterveydenhuolto (THL)
-    url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
-    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+  - title: Influenssa (Terveyskirjasto)
+    url: https://www.terveyskirjasto.fi/dlk00570
+    publisher: Suomalainen Lääkäriseura Duodecim
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: yleisö
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Kampylobakteerin, salmonellan, shigellan ja EHEC-bakteerin aiheuttamat suolistotulehdukset (Terveyskirjasto)
+    url: https://www.terveyskirjasto.fi/dlk01187
+    publisher: Suomalainen Lääkäriseura Duodecim
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: yleisö
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Malaria (Terveyskirjasto)
+    url: https://www.terveyskirjasto.fi/dlk00620
+    publisher: Suomalainen Lääkäriseura Duodecim
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: yleisö
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Tartuntatautilaki 1227/2016 (Finlex)
+    url: https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2016/1227
+    publisher: Oikeusministeriö (Finlex)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+    note: Avoimen rajapinnan ajantasainen teksti luettu 2026-11-22, pykälät 21 ja 22.
+  - title: Mitä hoitavan lääkärin on syytä tietää infektioepidemioista? (Lääkärilehti)
+    url: https://www.laakarilehti.fi/tieteessa/katsausartikkeli/mita-hoitavan-laakarin-on-syyta-tietaa-infektioepidemioista/
+    publisher: Suomen Lääkäriliitto (Lääkärilehti)
     licence_class: link-out
     licence: Kaikki oikeudet pidätetään
     audience: opettaja
     read: '2026-11-21'
     listed_in:
     - official_links
-    note: Sivu on kirjoitettu ammattilaisille (osoite thl.fi/ohjeita-ammattilaisille); taustatietoa, ei opiskelijan varausreittiä. Opiskelijalle reitti kerrotaan sanoin (koulu tai hyvinvointialue).
+    - linked_materials
+  - title: Flunssa, nuhakuume (Terveyskirjasto)
+    url: https://www.terveyskirjasto.fi/dlk00590
+    publisher: Suomalainen Lääkäriseura Duodecim
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: yleisö
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Matkaripuli (Terveyskirjasto)
+    url: https://www.terveyskirjasto.fi/dlk00613
+    publisher: Suomalainen Lääkäriseura Duodecim
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: yleisö
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Matkailijan rokotukset (Terveyskirjasto)
+    url: https://www.terveyskirjasto.fi/dlk00584
+    publisher: Suomalainen Lääkäriseura Duodecim
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: yleisö
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: HIV-infektio ja AIDS (Terveyskirjasto)
+    url: https://www.terveyskirjasto.fi/dlk01190
+    publisher: Suomalainen Lääkäriseura Duodecim
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: yleisö
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Autoimmuunisairaudet (Terveyskirjasto)
+    url: https://www.terveyskirjasto.fi/dlk00010
+    publisher: Suomalainen Lääkäriseura Duodecim
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: yleisö
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Zoonoosit (Ruokavirasto)
+    url: https://www.ruokavirasto.fi/zoonoosikeskus/zoonoosit/
+    publisher: Ruokavirasto
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: yleisö
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Drinking-water (WHO)
+    url: https://www.who.int/news-room/fact-sheets/detail/drinking-water
+    publisher: Maailman terveysjärjestö (WHO)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Investigation of a waterborne outbreak (THL)
+    url: https://thl.fi/en/guidelines-for-professionals/investigation-of-a-waterborne-outbreak
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Ilmoitettavat taudit ja mikrobit (THL)
+    url: https://thl.fi/ohjeita-ammattilaisille/laakarin-tartuntatauti-ilmoitus/ilmoitettavat-taudit-ja-mikrobit
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: Laki potilaan asemasta ja oikeuksista 785/1992 (Finlex)
+    url: https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/1992/785
+    publisher: Oikeusministeriö (Finlex)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+    note: Avoimen rajapinnan ajantasainen teksti luettu 2026-11-22, pykälät 3, 5, 6 ja 13.
   - title: Lasten ja nuorten puhelin 116 111 (Nuortennetti)
     url: https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/
     publisher: Mannerheimin Lastensuojeluliitto (MLL)
@@ -2895,6 +3112,26 @@ topics:
     read: '2026-11-21'
     listed_in:
     - official_links
+  - title: Norovirus (Terveyskirjasto)
+    url: https://www.terveyskirjasto.fi/dlk00738
+    publisher: Suomalainen Lääkäriseura Duodecim
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: yleisö
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+  - title: 'Väestöliitto: seksuaaliterveys'
+    url: https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/
+    publisher: Väestöliitto
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opiskelija
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
   te3-05:
   - title: Hyvinvointialueet (STM)
     url: https://stm.fi/hyvinvointialueet
@@ -3076,16 +3313,6 @@ topics:
     listed_in:
     - official_links
     - linked_materials
-  - title: Opiskeluterveydenhuolto (THL)
-    url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
-    publisher: Terveyden ja hyvinvoinnin laitos (THL)
-    licence_class: link-out
-    licence: Kaikki oikeudet pidätetään
-    audience: opettaja
-    read: '2026-11-21'
-    listed_in:
-    - official_links
-    note: Sivu on kirjoitettu ammattilaisille (osoite thl.fi/ohjeita-ammattilaisille); taustatietoa, ei opiskelijan varausreittiä. Opiskelijalle reitti kerrotaan sanoin (koulu tai hyvinvointialue).
   - title: 'Mielenterveystalo: nuoret'
     url: https://www.mielenterveystalo.fi/fi/nuoret
     publisher: Mielenterveystalo.fi (HUS)
@@ -3178,6 +3405,17 @@ topics:
     read: '2026-11-21'
     listed_in:
     - official_links
+  - title: 'Väestöliitto: Keitä olemme nuorten palveluissa?'
+    url: https://www.vaestoliitto.fi/nuoret/keita-olemme/
+    publisher: Väestöliitto
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: nuoret (ikärajaa ei mainita)
+    read: '2026-11-21'
+    listed_in:
+    - official_links
+    - linked_materials
+    note: Osoite avattu 2026-11-21 (200). Avunlinkki.
   te3-08:
   - title: Hedelmöityshoidot (Terveyskirjasto)
     url: https://www.terveyskirjasto.fi/dlk00870
@@ -3289,6 +3527,17 @@ topics:
     - official_links
     - linked_materials
     note: Osoite avattu 2026-11-21 (200). Tiedote 19.2.2026.
+  - title: Biopankkilaki 688/2012 (Finlex)
+    url: https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2012/688
+    publisher: Oikeusministeriö (Finlex)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+    note: Avoimen rajapinnan ajantasainen teksti luettu 2026-11-22, pykälät 1, 11 ja 12.
   - title: Opiskeluterveydenhuolto
     url: https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto
     publisher: Terveyden ja hyvinvoinnin laitos (THL)
@@ -3646,6 +3895,50 @@ topics:
     listed_in:
     - official_links
     note: Muutokseen liittyvää omahoitoa. Avointa suomenkielistä lähdettä neljästä mallista ei löytynyt.
+  - title: Mielenterveysvaikutukset (Climate-ADAPT, EEA)
+    url: https://climate-adapt.eea.europa.eu/fi/observatory/evidence/health-effects/mental-health-effects/mental-health-effects/
+    publisher: Euroopan ympäristökeskus (EEA) ja Euroopan komissio
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+    note: Sivu avattu 2026-11-22; julkaistu 30.3.2022, muokattu 11.4.2025.
+  - title: Terve Suomi -tutkimuksen tulokset (THL, 4.9.2026)
+    url: https://thl.fi/tervesuomi/tulokset
+    publisher: Terveyden ja hyvinvoinnin laitos (THL)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+    note: Sivu avattu 2026-11-22; tulokset iän, sukupuolen, koulutusryhmän ja hyvinvointialueen mukaan.
+  - title: Syövän kustannuskasvu hidastunut (Syöpäsäätiö, 20.5.2025)
+    url: https://www.sttinfo.fi/tiedote/71176751/syovan-kustannuskasvu-hidastunut
+    publisher: Syöpäsäätiö (STT Info)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+    note: Tiedote luettu 2026-11-22. Rahoittajajärjestön tiedote; lukuja ei kirjoiteta.
+  - title: Cancer (WHO, 3.7.2026)
+    url: https://www.who.int/news-room/fact-sheets/detail/cancer
+    publisher: Maailman terveysjärjestö (WHO)
+    licence_class: link-out
+    licence: Kaikki oikeudet pidätetään
+    audience: opettaja
+    read: '2026-11-22'
+    listed_in:
+    - official_links
+    - linked_materials
+    note: Sivu avattu 2026-11-22.
 
 excluded:
 - title: REAALIAINEIDEN (GE, TE, BG) KOETEHTÄVIÄ
