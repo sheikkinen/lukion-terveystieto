@@ -1,0 +1,532 @@
+{
+ "map": {
+  "rows": [
+   {
+    "session": "Spring 2023",
+    "number": "3",
+    "points": 20,
+    "topic": "Possibilities and harms of social media in health promotion (list task)",
+    "te2_codes": [
+     "TE2.s2",
+     "TE2.t3"
+    ],
+    "coverage": "full",
+    "missing": "te2-05 (digital environment: peer support, comparison, algorithm, harassment) plus te2-03 (campaigns, peer communication, misinformation) cover both sides. Minor: no explicit list-and-count practice on social media in health promotion."
+   },
+   {
+    "session": "Spring 2023",
+    "number": "4",
+    "points": 20,
+    "topic": "Bone health: food, alcohol, smoking, exercise (TE1 main; TE2 weight 0.2)",
+    "te2_codes": [
+     "TE2.s8"
+    ],
+    "coverage": "none",
+    "missing": "No TE2 topic gives the effects of alcohol or smoking on bone or any body system. te2-10 deliberately describes no substances; te2-09 covers mechanisms only. Needs alcohol and tobacco health effects (bone, osteoporosis risk)."
+   },
+   {
+    "session": "Spring 2023",
+    "number": "5",
+    "points": 20,
+    "topic": "Details to add to a news article to judge a study's reliability",
+    "te2_codes": [
+     "TE2.s1",
+     "TE2.t1",
+     "TE2.t2"
+    ],
+    "coverage": "full",
+    "missing": "te2-02 covers sample, response rate, reliability, validity, funder, peer review; K3 and Tehtävä 2 practise it. Gap: confidence or statistical significance is not named."
+   },
+   {
+    "session": "Spring 2023",
+    "number": "7",
+    "points": 30,
+    "topic": "Mental-health promotion during environmental crises (TE2 weight 0.4)",
+    "te2_codes": [
+     "TE2.s3",
+     "TE2.s4"
+    ],
+    "coverage": "partial",
+    "missing": "te2-06 has climate-to-health chains, HiAP and a short note on environmental worry. Missing: climate anxiety as a named concept with its mechanism, and promotion measures aimed at it at national, community and school level."
+   },
+   {
+    "session": "Autumn 2023",
+    "number": "2",
+    "points": 20,
+    "topic": "Define empirical, qualitative, longitudinal and case-control research with examples",
+    "te2_codes": [
+     "TE2.s1",
+     "TE2.t1"
+    ],
+    "coverage": "partial",
+    "missing": "te2-02 defines seurantatutkimus (longitudinal) and case-control. 'Empirical' and 'qualitative' (and quantitative) appear in no TE2 page: no interview or content analysis, no qualitative versus quantitative contrast. About half the task points are uncovered."
+   },
+   {
+    "session": "Autumn 2023",
+    "number": "4",
+    "points": 20,
+    "topic": "Brain-health claims: sleep, exercise, alcohol, nicotine (TE2 weight 0.4)",
+    "te2_codes": [
+     "TE2.s7",
+     "TE2.s8"
+    ],
+    "coverage": "partial",
+    "missing": "te2-09 gives the reward system, dopamine and the still-developing adolescent brain. Missing: what alcohol and nicotine do to the brain and to the fetus, as claims to judge true or false."
+   },
+   {
+    "session": "Autumn 2023",
+    "number": "5",
+    "points": 20,
+    "topic": "Concept of health risk from three texts (TE2 weight 0.5)",
+    "te2_codes": [
+     "TE2.s1",
+     "TE2.s2"
+    ],
+    "coverage": "partial",
+    "missing": "No TE2 page defines relative or absolute risk, risk factor versus risk, dose and exposure, or objective versus subjective risk. Partly reachable: te2-04's exposure-mechanism chain and te2-01's availability bias (risk perception). Needs a risk concept page with a three-text task."
+   },
+   {
+    "session": "Autumn 2023",
+    "number": "6",
+    "points": 20,
+    "topic": "Why survey data and register data differ; reliability of both",
+    "te2_codes": [
+     "TE2.s1",
+     "TE2.t1",
+     "TE2.t2"
+    ],
+    "coverage": "full",
+    "missing": "te2-02 section on survey versus register data plus K2 and Tehtävä 3 match closely. Small gap: register data reflects only people who reached care or were diagnosed (under-diagnosis), and survey self-report versus measured values."
+   },
+   {
+    "session": "Autumn 2023",
+    "number": "8.1",
+    "points": 8,
+    "topic": "How noise affects study ability (TE2 weight 0.4)",
+    "te2_codes": [
+     "TE2.s3"
+    ],
+    "coverage": "full",
+    "missing": "te2-04 (noise: attention, sleep, strain) and te2-08 cover the TE2 strand. Not TE2: the four-part study-ability model. Missing detail: hearing damage."
+   },
+   {
+    "session": "Autumn 2023",
+    "number": "8.2",
+    "points": 22,
+    "topic": "Reduce noise exposure in a school with the WHO five action areas (TE2 weight 0.5)",
+    "te2_codes": [
+     "TE2.s3"
+    ],
+    "coverage": "full",
+    "missing": "te2-04 K3 applies the five Ottawa areas to a school environment with noise in the material. Minor gap: concrete noise-reduction measures (acoustics, room design, rules) are not listed."
+   },
+   {
+    "session": "Autumn 2023",
+    "number": "9",
+    "points": 30,
+    "topic": "Social media and young people's loneliness, text and video material (TE2 weight 0.6)",
+    "te2_codes": [
+     "TE2.s2",
+     "TE2.s3",
+     "TE2.s8"
+    ],
+    "coverage": "full",
+    "missing": "te2-05 (peer support, comparison, algorithm, harassment, belonging), te2-09 (loneliness as a risk factor) and te2-10 (design hooks) cover the content. Gaps: loneliness is never defined as a concept; no task uses video or multi-source material with a deduction for unused material."
+   },
+   {
+    "session": "Spring 2024",
+    "number": "1",
+    "points": 20,
+    "topic": "20 true/false statements (TE2 weight 0.3: placebo and research design, tobacco, e-cigarettes, cannabis, COPD)",
+    "te2_codes": [
+     "TE2.s1",
+     "TE2.s8"
+    ],
+    "coverage": "partial",
+    "missing": "Placebo and research design are covered by te2-01 and te2-02. Health effects of smoking, e-cigarettes and cannabis, and COPD, are in no TE2 page. Format: no 20-item true/false practice."
+   },
+   {
+    "session": "Spring 2024",
+    "number": "4",
+    "points": 20,
+    "topic": "Radon on a map: lung cancer and factors changing the risk",
+    "te2_codes": [
+     "TE2.s3",
+     "TE2.t4"
+    ],
+    "coverage": "partial",
+    "missing": "te2-04 has radon as soil gas, 'lung disease risk', reference values and that it can be measured. Missing: lung cancer by name, smoking multiplying the risk, soil, building leakage, ventilation and exposure time, remediation, and reading a radon map."
+   },
+   {
+    "session": "Spring 2024",
+    "number": "7",
+    "points": 30,
+    "topic": "Health effects of mushroom picking, physical, mental, social (TE2 weight 0.25)",
+    "te2_codes": [
+     "TE2.s3"
+    ],
+    "coverage": "partial",
+    "missing": "te2-04 names green areas as protective but gives no detail on nature and recreation as a health resource (restoration, activity) and none on nature-activity risks (food poisoning, injury; ticks are TE3). No task applies the health dimensions to a nature activity."
+   },
+   {
+    "session": "Autumn 2024",
+    "number": "2.4",
+    "points": 5,
+    "topic": "Mixed methods versus data sources and sampling (multiple choice)",
+    "te2_codes": [
+     "TE2.s1",
+     "TE2.t1"
+    ],
+    "coverage": "none",
+    "missing": "Mixed methods, and the qualitative/quantitative split it rests on, appear in no TE2 page. Data sources and sampling are covered, so distractors can be eliminated, but the target concept is absent."
+   },
+   {
+    "session": "Autumn 2024",
+    "number": "7",
+    "points": 30,
+    "topic": "Judging four foods from labels and the Heart Symbol (TE2 weight 0.2)",
+    "te2_codes": [
+     "TE2.s2"
+    ],
+    "coverage": "partial",
+    "missing": "te2-03 covers marketing tactics, 'natural' claims and greenwashing, but not reading packaging claims, nutrition-claim rules, or labelling schemes such as the Heart Symbol. The nutrient content is TE1."
+   },
+   {
+    "session": "Autumn 2024",
+    "number": "8",
+    "points": 30,
+    "topic": "Mechanisms (biological, psychological, social), features and harms of addiction; substance versus behavioural",
+    "te2_codes": [
+     "TE2.s7",
+     "TE2.s8",
+     "TE2.t5"
+    ],
+    "coverage": "full",
+    "missing": "te2-09 (three mechanisms, tolerance, withdrawal, loss of control, relapse, protective factors) and te2-10 (forms, direct and indirect harms) match. Gap: no substance-specific harms."
+   },
+   {
+    "session": "Autumn 2024",
+    "number": "9",
+    "points": 30,
+    "topic": "Why water and its purity matter (TE2 weight 0.4)",
+    "te2_codes": [
+     "TE2.s3"
+    ],
+    "coverage": "partial",
+    "missing": "te2-04 has two sentences (clean drinking water, waterworks monitor quality). Missing: contamination and waterborne infection, water treatment, hygiene, causes and health effects of shortage; te2-06 gives only climate effects on water availability."
+   },
+   {
+    "session": "Spring 2025",
+    "number": "1",
+    "points": 20,
+    "topic": "Name 20 concepts from definitions (TE2 weight 0.35: substances, environment, society)",
+    "te2_codes": [
+     "TE2.s8",
+     "TE2.s3"
+    ],
+    "coverage": "partial",
+    "missing": "The name-the-concept format is practised (te2-03, te2-05, te2-09 K1) and the concepts there are covered. Missing: a broader substance vocabulary (intoxication, withdrawal types, drug classes) and an environment glossary (exposure, indoor air, noise levels)."
+   },
+   {
+    "session": "Spring 2025",
+    "number": "4",
+    "points": 20,
+    "topic": "Home tests take health competence, two pictures of test kits (TE2 weight 0.4)",
+    "te2_codes": [
+     "TE2.t2",
+     "TE2.s2"
+    ],
+    "coverage": "partial",
+    "missing": "Source and claim evaluation is covered (te2-01, te2-03); health competence is in TE1 te1-03. Missing: judging a product's own information and instructions, test reliability (false positives and negatives), and when to seek care."
+   },
+   {
+    "session": "Spring 2025",
+    "number": "6",
+    "points": 20,
+    "topic": "Emotional skills of a social media user (TE2 weight 0.5)",
+    "te2_codes": [
+     "TE2.s2",
+     "TE2.s3"
+    ],
+    "coverage": "full",
+    "missing": "te2-05 covers comparison, algorithms and harassment, which is the TE2 strand. Fear of missing out is not named. The emotion skills themselves are TE1."
+   },
+   {
+    "session": "Spring 2025",
+    "number": "7.1",
+    "points": 10,
+    "topic": "Draw bar charts of alcohol use 1968-2023 from two tables, state findings",
+    "te2_codes": [
+     "TE2.s8",
+     "TE2.t1"
+    ],
+    "coverage": "partial",
+    "missing": "Only te2-08 K2a (5 p) asks for a bar chart from a table, in a work-wellbeing topic. No practice in building two series from tables, labelling axes or titles, or summarising a trend; no content on Finnish alcohol-use trends and sex differences."
+   },
+   {
+    "session": "Spring 2025",
+    "number": "7.2",
+    "points": 20,
+    "topic": "Reduce alcohol use in Finland with the WHO five areas in a table (TE2 weight 0.5)",
+    "te2_codes": [
+     "TE2.s8"
+    ],
+    "coverage": "full",
+    "missing": "te2-10 K3 applies the five Ottawa areas to addiction prevention with age limits, marketing limits, harm reduction and services. Minor gap: alcohol-specific policy tools (price, tax, availability, licensing)."
+   },
+   {
+    "session": "Spring 2025",
+    "number": "9",
+    "points": 30,
+    "topic": "Ethics of AI-written health text, energy-drink question (TE2 weight 0.3)",
+    "te2_codes": [
+     "TE2.s2",
+     "TE2.s1"
+    ],
+    "coverage": "full",
+    "missing": "te2-03 (hallucination, truthfulness, openness, privacy, responsibility; K2 and Tehtävä 3) matches the TE2 strand. Not covered anywhere in TE2: caffeine and energy drinks. The ethical viewpoints framework is TE3."
+   },
+   {
+    "session": "Autumn 2025",
+    "number": "1",
+    "points": 20,
+    "topic": "Ten multiple-choice items (TE2 weight 0.2: retrospective study, carcinogens)",
+    "te2_codes": [
+     "TE2.s1",
+     "TE2.s8"
+    ],
+    "coverage": "partial",
+    "missing": "te2-02 K1 uses the same penalty-scored multiple-choice format. 'Retrospective' is not named (only seuranta and case-control), and carcinogens (tobacco, alcohol) are in no TE2 page."
+   },
+   {
+    "session": "Autumn 2025",
+    "number": "4",
+    "points": 20,
+    "topic": "Define cognitive biases, apply them to three people",
+    "te2_codes": [
+     "TE2.s1"
+    ],
+    "coverage": "full",
+    "missing": "te2-01 covers confirmation, availability, authority, generalisation and post hoc, with K1 and Tehtävä 2. Gap: optimism bias, present bias, framing and herd or bandwagon are missing, and they are common in health-decision texts."
+   },
+   {
+    "session": "Autumn 2025",
+    "number": "5",
+    "points": 20,
+    "topic": "Tell reliable health communication from unreliable using an advertisement",
+    "te2_codes": [
+     "TE2.s2",
+     "TE2.s1",
+     "TE2.t2"
+    ],
+    "coverage": "full",
+    "missing": "te2-03 (emotion, authority, social proof, scarcity, story, 'natural', K3) and te2-01 K2 cover it. Gap: conspiracy-style claims and a short evidence-based versus belief-based criteria list."
+   },
+   {
+    "session": "Autumn 2025",
+    "number": "6",
+    "points": 20,
+    "topic": "Ecological, economic, social and cultural sustainability and health",
+    "te2_codes": [
+     "TE2.s4",
+     "TE2.s3"
+    ],
+    "coverage": "full",
+    "missing": "te2-06 has the four dimensions with health links and K1 and K2 on them."
+   },
+   {
+    "session": "Autumn 2025",
+    "number": "9",
+    "points": 30,
+    "topic": "A 17-year-old's movement, food, sleep and substance use (TE2 weight 0.2)",
+    "te2_codes": [
+     "TE2.s8"
+    ],
+    "coverage": "partial",
+    "missing": "te2-10 gives age limits, harm tables and prevention, but no national recommendations on alcohol and nicotine for minors, no health effects at that age, and no task that links substance use to sleep and eating in one answer."
+   },
+   {
+    "session": "Spring 2026",
+    "number": "7",
+    "points": 30,
+    "topic": "Health in All Policies applied to e-scooter risks (TE2 weight 0.4)",
+    "te2_codes": [
+     "TE2.s5"
+    ],
+    "coverage": "full",
+    "missing": "te2-06 defines HiAP and K2 applies it; te2-07 covers accident prevention by environment, rules, product safety and skills. Minor gap: traffic-safety specifics (helmets, speed, alcohol)."
+   },
+   {
+    "session": "Spring 2026",
+    "number": "9",
+    "points": 30,
+    "topic": "Draft a research plan on functional capacity of independent Finns aged 80+",
+    "te2_codes": [
+     "TE2.t1",
+     "TE2.s1"
+    ],
+    "coverage": "full",
+    "missing": "te2-02 K3 asks for a plan with question, design, sample, measure, collection and ethics. Gap: how functional capacity is measured (self-rated versus tested) and sampling issues in the very old."
+   },
+   {
+    "session": "Autumn 2026",
+    "number": "1.1-1.10",
+    "points": 20,
+    "topic": "Ten penalty-scored multiple-choice items on study designs, three sources",
+    "te2_codes": [
+     "TE2.s1",
+     "TE2.t1",
+     "TE2.s8"
+    ],
+    "coverage": "full",
+    "missing": "te2-02 K1 is the same format and covers cross-sectional, follow-up, trial and case-control designs and what each can show. Gaps: the word 'cohort', quasi-experiments and statistical significance."
+   },
+   {
+    "session": "Autumn 2026",
+    "number": "3",
+    "points": 20,
+    "topic": "Three tables listing at least ten indoor-air pollutants with health effects",
+    "te2_codes": [
+     "TE2.s3",
+     "TE2.t4"
+    ],
+    "coverage": "partial",
+    "missing": "Format matches te2-04 K2. Content covers about three items (radon, moisture damage and mould, outdoor fine particles). Missing: carbon dioxide, volatile compounds, formaldehyde, tobacco smoke, carbon monoxide, allergens, dust, asbestos, with effects and sources. Thinnest TE2 spot."
+   },
+   {
+    "session": "Autumn 2026",
+    "number": "4",
+    "points": 20,
+    "topic": "Five wrong sentences on recreational drug use at parties, two arguments each",
+    "te2_codes": [
+     "TE2.s7",
+     "TE2.s8",
+     "TE2.t5"
+    ],
+    "coverage": "partial",
+    "missing": "Error-finding format exists (te2-07 K1); te2-09 and te2-10 cover dependence, law and harm reduction. Missing: substance-specific acute effects and risks, mixing, overdose, the 'natural means harmless' myth, nicotine pouches and cannabis facts."
+   },
+   {
+    "session": "Autumn 2026",
+    "number": "7",
+    "points": 30,
+    "topic": "Working life changes since 1950 and work ability, video (TE2 weight 0.5)",
+    "te2_codes": [
+     "TE2.s6"
+    ],
+    "coverage": "partial",
+    "missing": "te2-08 has demands and resources, physical and psychosocial work environment, work ability as a balance, and survey reading. Missing: how working life has changed (automation, remote work, platform and insecure work, work intensity, shift work), a fuller work-ability model, and video material."
+   }
+  ],
+  "shares": "TE2 share of all 1680 points offered: 473.7 points, 28.2% by my judged split (equal-split alternative 503.3 points, 30.0%). The brief expected 35-45%; the data say about 28-30%. Method: 35 of the 81 task rows carry a TE2 code. 15 are TE2-only (295 points, 17.6% of 1680; the earlier report said 21%, which I could not reproduce from the JSON). For the 20 mixed rows I assigned a TE2 weight by what the task actually asks, from 0.2 (TE2 is one or two items or a side strand) to 0.6 (TE2 is most of the task), and counted weight x points. These add 178.7 points. The alternative is an equal split among the TE1, TE2 and TE3 modules present in a row's codes. The full, partial and none shares over TE2-touching points: judged weights give full 57.7% (273.2 points), partial 40.4% (191.5), none 1.9% (9.0). The equal-split alternative gives 54%, 43%, 3%. Counted on whole task points of all 35 TE2-touching rows (775 points) the shares are full 46.5%, partial 50.3%, none 3.2%. Expected answers: share 35-45% is wrong, it is about 28-30%. Full 30-40% is refined, it is higher at about 55%. Under 5% none is right at about 2-3%. Thin spots are mostly right: radon and indoor air, water, research terms and substance facts are thin. Relative and absolute risk is missing entirely. Chart drawing is only touched.",
+  "summary": "Of the 35 TE2-touching task rows, 16 are judged full, 18 partial and 2 none (spring 2023 task 4 and autumn 2024 task 2.4). The task formats match well, because the TE2 topics already use exam-style templates: penalty-scored multiple choice, name the concept, error finding, table completion, applying the Ottawa framework, research plans and AI ethics. The Ottawa five areas now appear in te2-04, 05, 06 and 10. Remaining gaps by theme. (1) Substance facts: no TE2 page describes the effects of alcohol, nicotine, e-cigarettes or cannabis, by design, but the exam asks for them in autumn 2023 task 4, spring 2024 task 1, autumn 2025 tasks 1 and 9, autumn 2026 task 4 and spring 2023 task 4. (2) Research vocabulary: qualitative, quantitative, empirical, mixed methods, cohort and retrospective are absent from te2-02 (autumn 2023 task 2, autumn 2024 task 2.4, autumn 2025 task 1). (3) Risk concept: relative and absolute risk, risk factor, exposure and dose, objective versus subjective risk (autumn 2023 task 5). (4) Physical environment facts: radon and lung cancer and what changes the risk, a list of at least ten indoor-air pollutants, water contamination and shortage, nature as a health resource (spring 2024 tasks 4 and 7, autumn 2026 task 3, autumn 2024 task 9). (5) Skills and formats: drawing charts from tables (spring 2025 task 7.1), video material (autumn 2023 task 9, autumn 2026 task 7), and a 20-item true/false or concept-naming set across TE2 content. (6) Work wellbeing: changes in working life since 1950 are not covered (autumn 2026 task 7). (7) Smaller gaps: climate anxiety as a concept, label and claim reading (autumn 2024 task 7), home-test reliability (spring 2025 task 4), cognitive biases beyond the five taught (optimism, present bias, framing, herd). Limits of this judgement: I read each topic's Opiskelijalle, Tehtävät and Koetehtävät in full and checked Mallivastaukset only by keyword search. The exam tasks are judged from the cross-check JSON descriptions, not the exam papers. The 81 JSON rows are the 72 tasks with split sub-tasks. TE2 codes in the JSON include HiAP and Ottawa-based tasks as TE2 strands where the mapper tagged them, and I followed those tags."
+ },
+ "critic": {
+  "shares": "I agree with the re-mapper's main figure: TE2 is about 28-30% of the 1680 points offered. The brief expected 35-45%, so that expectation is wrong. One correction: the earlier 21% for TE2-only tasks does reproduce. The JSON module labels give 295 points (15 rows). The brief-003 critic then moved autumn 2023 task 5 (risk, 20 p) and autumn 2026 task 7 (work ability, 30 p) to TE2-only, which makes 345 points, 20.5% (see the critic block in docs/research/2026-11-21-exam-cross-check.json). The re-mapper counted those two as mixed and weighted them, so its 473.7 points (28.2%) already includes most of them.\n\nSome tasks with no TE2 code still have a TE2 strand: spring 2026 task 2 (cancer risk factors, which include alcohol and tobacco), autumn 2024 task 1 (reading survey statistics) and spring 2024 task 9.1 (drawing a chart from a table). Counting these adds 1-2 percentage points, so TE2 is about 28-31%.\n\nCoverage needs two corrections after the YTL spot-checks:\n- Spring 2025 task 7.2 drops from full to partial. YTL's rubric wants price and tax, the Alko monopoly, opening hours, marketing bans, warning labels and screening with brief intervention. te2-10 has none of these, and 9 content points need at least ten examples across all five areas.\n- Spring 2024 task 4 (radon) stays partial, but at the low end.\n\nWith these, full coverage of TE2-weighted points is about 55% (judged weights, about 263 of 474 points). Partial is about 43% and none about 2%. Counted on whole task points of the 35 TE2-touching rows, full is about 44%, partial 53% and none 3%.",
+  "spot_checks": [
+   {
+    "task": "Spring 2024 task 4, radon on a map (20 p, TE2-only)",
+    "result": "Mapping right; coverage partial holds, at the low end. The rubric asks for lung cancer, radon decay products irradiating the lungs, radon in drinking water (lungs and stomach), and reading the map: granite bedrock, gravel ridges, Salpausselkä. It also asks for factors that change the risk: soil, ventilation, building materials and technique, exposure time, concentration and especially smoking. Content points are tiered: 1 factor 3 p, 3 factors plus 1 effect 6 p, 5 factors plus 2 effects 9 p. te2-04 says only 'keuhkosairauksien riskiä', with soil and measurement, so a te2-04 student reaches about the 3-point tier. The same rubric (task 1) also confirms 'observation study is a qualitative design' (1.10), placebo (1.5), e-cigarettes (1.12), cannabis and mental health (1.13) and tobacco and COPD (1.19)."
+   },
+   {
+    "task": "Autumn 2023 task 5, concept of health risk (20 p), with task 2, research types",
+    "result": "Mapping right; partial holds. Text A is relative risk against a reference group in a follow-up study. Text B is exposure: kind of hazard, amount of exposure, health-based limit values, why numeric risk is hard to grasp. Text C is subjective risk perception: people judge their own risk smaller than others', voluntary risk feels controllable, and media and culture shape it. Using both objective and subjective risk earns a bonus, and not using the texts costs 3 points. No TE2 page names relative risk, limit values or subjective versus objective risk. Task 2: empirical and qualitative research are 5 p each (definition 4, example 1), with a 900-character limit and overage deductions. te2-02 has neither term, which confirms the re-mapper's 'about half uncovered'."
+   },
+   {
+    "task": "Autumn 2025 task 4, cognitive biases (20 p), with task 1 items",
+    "result": "Mapping right; 'full' is slightly generous. The rubric names confirmation bias, authority bias and superiority bias (the Dunning-Kruger effect). te2-01 lacks the third, so 2 of the 4 definition points rest on a bias it does not teach. Six reasoned implications for health decisions give 6 p, and not referring to the material costs 5 points. I would call it full-minus. Task 1: item 1.9 is the retrospective approach and 1.10 is carcinogens, which confirms both gaps the re-mapper named (4 of 20 p)."
+   },
+   {
+    "task": "Spring 2025 tasks 7.1 (charts, 10 p) and 7.2 (alcohol policy, 20 p)",
+    "result": "7.1: partial holds. Charts give 5 p, with lenient layout (side-by-side or separate charts both pass), pasted as screenshots. Five findings give 1 p each: sex difference, the trend (rise to 1992, plateau, fall since 2016) and frequent drinking. te2-08 K2a is the only chart practice. 7.2: the re-mapper's 'full' is wrong and it becomes partial. te2-10 K3 trains the five-area frame, but the rubric's content is alcohol policy: national strategy, tax, discount limits, monopoly, age limits and enforcement, sales hours, outlet density, advertising bans including social media, alcohol-free events, warning labels, targeted communication, staff training, screening and brief intervention, peer groups. A deduction applies for unrelated material. None of these levers is on te2-10, so a student reaches about 6 of the 10 content points."
+   }
+  ],
+  "thin_spots": [
+   {
+    "topic": "te2-01 Tieto ja vinoumat",
+    "add": "Add superiority bias (Dunning-Kruger), optimism bias (the 'my risk is smaller' perception from autumn 2023 task 5), present bias, framing and bandwagon. Move placebo (lumevaikutus) from the model answer into Opiskelijalle, since true/false exam items test it. Add a 20-item true/false K-task mixing TE2 concepts at 1 p each."
+   },
+   {
+    "topic": "te2-02 Tutkimustieto (highest value)",
+    "add": "(a) Research vocabulary: empirical; qualitative versus quantitative (interview, observation, documents, thematic analysis); mixed methods; observational versus experimental; cohort; retrospective versus prospective; chance and statistical significance in words. (b) A risk-concept section: risk, risk factor, relative risk against a reference group, absolute risk, exposure and dose, health-based limit values, objective versus subjective risk, with a three-text K-task. (c) Register limits: only diagnosed or treated cases. Self-report versus measured values, including how functional capacity is measured. (d) A define-and-exemplify task with a character limit and the overage deduction. (e) A chart-drawing K-task: two series from a fictional neutral table (not substances), axes, title, and five findings covering group difference and trend. This fills the 7.1 skill without numbers on a flagged page."
+   },
+   {
+    "topic": "te2-03 Terveysviestintä",
+    "add": "Packaging and claim reading: nutrition and health claim rules, and a labelling scheme such as the Heart Symbol, with nutrient content linked to TE1 te1-04. Home and self-tests: judging the product's instructions, false positives and negatives, when to seek care. Conspiracy-style claims and a short evidence-based versus belief-based checklist. A list-and-count task (one point per correct item) on social media in health promotion."
+   },
+   {
+    "topic": "te2-04 Elinympäristö (thinnest)",
+    "add": "(a) Radon: lung cancer by name, decay products, much higher risk for smokers, radon in drinking water, geology (granite, gravel ridges), building tightness, ventilation, exposure time, measuring and remediation. Add a K-task built on a described fictional risk map. (b) A source-and-effect table of at least ten indoor-air factors: carbon dioxide and ventilation, VOCs, formaldehyde, tobacco smoke, carbon monoxide, moisture and mould, dust, allergens and pets, asbestos, radon, outdoor fine particles. Keep values on linked STUK, THL and Työterveyslaitos pages. (c) Water: contamination, waterborne epidemics, treatment, hygiene, shortage, with the global angle linked to TE3. (d) Nature as a health resource (restoration, activity) and nature-activity risks (mushroom poisoning, injury; ticks in TE3). (e) Noise: hearing damage and concrete measures (acoustics, room design, rules)."
+   },
+   {
+    "topic": "te2-05 Psykososiaalinen ympäristö",
+    "add": "Define loneliness (social versus emotional, felt versus actual) and fear of missing out (FOMO). Add a multi-source K-task with a text plus a written description of a fictional video, and state the deduction for unused material."
+   },
+   {
+    "topic": "te2-06 Kestävä kehitys",
+    "add": "Make climate or eco-anxiety a named concept, with its mechanism and promotion measures at national, community and school level (spring 2023 task 7). The current paragraph on worry is a help note, not exam content."
+   },
+   {
+    "topic": "te2-07 Turvallisuus ja väkivalta (violence flag)",
+    "add": "Small: traffic and e-scooter safety (helmets, speed, intoxicated riding, rules, infrastructure) as an applied HiAP case linked to te2-06. Keep the no-figures rule."
+   },
+   {
+    "topic": "te2-08 Työhyvinvointi",
+    "add": "How working life has changed since 1950: industrial to service and knowledge work, automation and digitalisation, remote work, platform and insecure work, work intensity, shift work, ageing workforce. A fuller work-ability model (Työterveyslaitos's work-ability house, linked). A K-task built on a described video. Its existing chart K2a can be extended to a two-series chart."
+   },
+   {
+    "topic": "te2-09 Riippuvuuden mekanismit (substances flag)",
+    "add": "At a general level, with no amounts or methods: what alcohol and nicotine do to the developing adolescent brain and to the fetus (name FASD). Add a true-or-false claims task on brain-health statements (autumn 2023 task 4 format)."
+   },
+   {
+    "topic": "te2-10 Riippuvuudet (substances flag)",
+    "add": "(a) Substance-specific harms in words, no doses or amounts. Alcohol: liver, cancers, accidents, fetus. Tobacco: COPD, lung cancer, heart and blood vessels, bone. E-cigarettes and nicotine pouches. Cannabis: psychosis and mental-health risk. Mixing and overdose named only as risks. The 'natural means harmless' myth. Carcinogen as a concept. (b) Alcohol policy levers: tax and price, the Alko monopoly, availability and hours, marketing bans, warning labels, screening and brief intervention. (c) National guidance on alcohol and nicotine for minors. (d) An error-finding task on party drug use, with no method detail. Charts: no substance figures on this page. Do the alcohol-trend skill in te2-02 with neutral data, or here with verbal or category trends only (more, less, rising, falling)."
+   }
+  ],
+  "needs_te3": [
+   "Cancer risk factors and the carcinogen concept as disease epidemiology (spring 2026 task 2, autumn 2025 task 1, item 1.10); TE2 names the substance link only.",
+   "COPD and chronic disease risk factors, blood pressure, cholesterol and vaccines in the true/false sets (spring 2024 task 1).",
+   "Waterborne infectious disease and the global water and sanitation picture (autumn 2024 task 9, TE3.s4, TE3.s10).",
+   "Tick-borne disease and infectious-disease testing (spring 2025 task 4 home tests; ticks in spring 2024 task 7).",
+   "Epidemiological measures (incidence, prevalence) and the follow-up-study framing of relative risk, shared with te2-02 (autumn 2023 task 5, text A).",
+   "Health inequality with figure reading (spring 2026 task 5, autumn 2024 task 1), including socioeconomic differences in alcohol harm.",
+   "Health in All Policies as public-health history and policy (spring 2026 task 7 is coded TE3.t1 and TE3.s2; te2-06 gives only the definition).",
+   "The ethical-viewpoints framework used in the AI-ethics task (spring 2025 task 9, TE3.s7). TE2 currently borrows it from TE1 te1-07.",
+   "Self-care and services: when to seek care after a home test (TE3.s6), and the history of working life as societal change (autumn 2026 task 7, TE3.s2)."
+  ],
+  "formats": "These formats already match the real exam:\n- penalty-scored multiple choice (te2-02 K1, te2-10 K1; the same 2/−1/0 scheme as autumn 2025 task 1 and autumn 2026 task 1);\n- naming concepts (te2-03, 05 and 09 K1; spring 2025 task 1);\n- error finding (te2-07 K1; autumn 2026 task 4, spring 2026 task 1);\n- table completion (te2-04 K2, te2-07 K2; autumn 2026 task 3);\n- applying the five Ottawa areas (te2-04, 05 and 10 K3; autumn 2023 task 8.2, spring 2025 task 7.2);\n- research plan (te2-02 K3; spring 2026 task 9);\n- AI ethics (te2-03 K2; spring 2025 task 9);\n- define-and-exemplify (te2-01 K1; autumn 2023 task 2);\n- drawing a model (te2-09 K2);\n- one bar chart (te2-08 K2a).\n\nThese are missing or weaker than the real exam:\n1. A 20-item true/false set (spring 2024 task 1, autumn 2023 tasks 1 and 4).\n2. List-and-count with one point per correct item (spring 2023 task 3).\n3. Real data media: a risk map (spring 2024 task 4), product labels and pictures (autumn 2024 task 7, spring 2025 task 4), and video (autumn 2023 task 9, autumn 2026 task 7). Our material is almost all fictional text and small tables.\n4. Two-series charts pasted as screenshots, with findings scored one point each (spring 2025 task 7.1).\n5. Character limits with overage deductions (autumn 2023 task 2: 900 characters, −1 or −2) and the 3-5 point deduction for not using the material (autumn 2023 task 5, autumn 2025 task 4). Our model answers do not state these.\n6. Tiered content rubrics (3/6/9 points for 1/3/5 elements) next to a separate 0-10 information-processing score. Our Pisteytys splits by element, which is close but not the same.\n\nOverall, the task types match well. The real gap is the material media and the scoring conventions.",
+  "versus_expected": [
+   {
+    "item": "1. TE2 content is in about 35-45% of exam points",
+    "verdict": "wrong",
+    "note": "About 28-31%: 473.7 of 1680 points by judged weights (28.2%), 30.0% by equal split, and 1-2 points more if untagged TE2 strands are counted. The TE2-only 21% behind the brief does reproduce (295 by label + 50 reclassified = 345, 20.5%), but mixed tasks add only about 8-10 points, not 15-25."
+   },
+   {
+    "item": "2a. Full coverage of TE2-touching points about 30-40%",
+    "verdict": "refined",
+    "note": "Higher: about 55% after moving spring 2025 task 7.2 to partial (the re-mapper had 57.7%), or 44% counted on whole task points. The full matches come from the reasoning-heavy topics (bias, communication, survey versus register, sustainability, addiction mechanisms, Ottawa). Partial clusters where the exam asks for facts."
+   },
+   {
+    "item": "2b. None at 5% or less",
+    "verdict": "right",
+    "note": "About 2-3% (spring 2023 task 4 and autumn 2024 task 2.4). Several partials are near-none on content points, notably radon (spring 2024 task 4) and indoor air (autumn 2026 task 3)."
+   },
+   {
+    "item": "3. Thin spots: radon and indoor air, water, research terms (case-control, cohort, longitudinal), relative and absolute risk, chart drawing from substance data",
+    "verdict": "refined",
+    "note": "Radon, indoor air, water, risk measures and chart drawing are confirmed. Research terms are named wrongly: case-control and longitudinal are covered; the gaps are empirical, qualitative versus quantitative, mixed methods, cohort and retrospective. The brief missed the biggest gap: substance-specific harms and alcohol policy levers (six or more tasks), plus working-life change and climate anxiety. Chart practice on substance data must avoid the flagged pages, so it goes to te2-02 with neutral data or uses verbal trends."
+   },
+   {
+    "item": "4. Task formats already match because TE2 used the exam-drive templates",
+    "verdict": "refined",
+    "note": "The task types match closely. Missing are the 20-item true/false set, list-and-count, map, label and video material, two-series charts, character limits, and the stated deductions for unused material and overage."
+   },
+   {
+    "item": "Brief's premise: TE2-only tasks were 21% of points",
+    "verdict": "right",
+    "note": "Reproducible as 345 points with the brief-003 critic's two reclassifications. The re-mapper's 'could not reproduce' is a labelling difference, not an error in the earlier report."
+   }
+  ],
+  "recommendation": "Yes, a TE2 exam drive is worth it. It should be narrower than brief 006 was for TE1: add to existing pages, do not rewrite them. Close the fact gaps that cost content points, at most one new K-task per topic, in this order of exam weight:\n1. te2-02: research vocabulary (empirical, qualitative and quantitative, mixed methods, cohort, retrospective, significance), the risk-concept section with a three-text task, and a neutral two-series chart task. Reaches autumn 2023 tasks 2 and 5, autumn 2024 task 2.4, autumn 2025 task 1, spring 2024 task 1, spring 2025 task 7.1 and autumn 2026 task 1.\n2. te2-04: radon facts with a map-description task, a ten-plus indoor-air source-and-effect table, water safety, and nature as a resource and risk. Reaches spring 2024 tasks 4 and 7, autumn 2026 task 3 and autumn 2024 task 9, about 100 points touched.\n3. te2-10 and te2-09: substance harms in words, with no amounts, methods or figures; the brain and fetus; carcinogen as a concept; alcohol policy levers; guidance for minors. Reaches spring 2023 task 4, autumn 2023 task 4, spring 2024 task 1, spring 2025 task 7.2, autumn 2025 tasks 1 and 9, and autumn 2026 task 4.\n4. te2-08: working-life change since 1950 and the work-ability house.\n5. Small items: Dunning-Kruger and other biases plus placebo in te2-01, climate anxiety in te2-06, labels and home tests in te2-03, loneliness and FOMO in te2-05.\n\nAcross the drive, add a 20-item true/false set and a list-and-count task. State character limits and the unused-material deduction in the Pisteytys, and use described maps, labels and video transcripts as fictional material. Leave cancer, COPD, infections, inequality figures and the ethics framework to TE3, linked from TE2, so the two briefs do not overlap. Estimated effect: full coverage rises from about 55% to about 75-80% of TE2 points. That is less upside than the TE1 drive had (13% full), so keep it to one pass and then go to TE3.\n\nLimits: four sessions were spot-checked on YTL grading pages (spring 2024, autumn 2023, autumn 2025, spring 2025), not the spring and autumn 2026 sessions, which rest on Yle Abitreenit. I read the topics' Opiskelijalle and Koetehtävät sections, and checked Tehtävät and Mallivastaukset only by keyword search. Nothing was edited."
+ }
+}
