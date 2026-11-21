@@ -1,0 +1,850 @@
+{
+ "research": [
+  {
+   "key": "curriculum",
+   "summary": "TE3 curriculum confirmed from the live ePerusteet API: 4 objectives (t1-t4) and 10 content areas (s1-s10, in groups of 3, 3 and 4). The YAML matches the API text. The TE3 module carries no extra guidance beyond its description; guidance (assessment, task, transversal competences) sits at subject level for Terveystieto (TE). TE1 and TE2 hold 20 topics (10 each, all briefed). They barely touch TE3 content: no topic covers disease epidemiology, services, self-care, ethics, prioritisation, or the historical and explanatory-model content. I propose 10 topics, TE3.01-TE3.10, serving every code in a teachable order.",
+   "findings": [
+    {
+     "claim": "The ePerusteet API for peruste 6828810 ('kaikki', about 4.28 MB JSON, HTTP 200) lists module TE3 id 6834849 'Terveys ja yhteiskunta' with 4 objectives (ids 9560256-9560259) and 3 content groups holding 3+3+4 = 10 items. This matches the required counts of 4 objectives and 10 contents.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "data/curriculum-te1-te3.yaml agrees with the API: TE3.t1-t4 and TE3.s1-s10 with the same ids and wording (checked t1-t4 and s1-s10 against the parsed API). The file's source block lists peruste 6828810, diaarinumero OPH-2263-2019, valid from 2021-08-01, API modified 2026-04-14, checked 2026-11-21. TE3 is 2 credits and not compulsory.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "The TE3 module object has only the keys id, nimi, pakollinen, koodi, laajuus, kuvaus, tavoitteet, sisallot and a few reference fields. It has no module-level guidance text such as assessment or teaching notes. Extra guidance exists only at subject level (Terveystieto, id 6834386): task (tehtava), assessment (arviointi), transversal competences (laajaAlaisetOsaamiset). Those fields were read: assessment targets facts and concepts, information skills, applying and analysing, justifying, and examining ethical questions. Assessment does not target the student's own values, attitudes or health behaviour. Brief 010's rule of no personal disclosure follows this. The module description names three focuses: historical lines and future challenges, non-communicable and infectious disease plus services, self-care and own care, and ethics plus global health challenges.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "WebFetch of the API URL could read only the first 100000 of 4.2 million characters, so the check was done with curl and a local JSON parse. Brief writers should use the fetcher or curl, not WebFetch, for this endpoint.",
+     "confidence": "verified",
+     "source_url": "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki"
+    },
+    {
+     "claim": "Existing topics (front matter module, title, curriculum): TE1 has 10 topics: 01 Mitä terveys on [t1,s1], 02 Elintapamallit [t2,s2], 03 Terveyskulttuuri [t2,s3: medikalisaatio, vaihtoehtohoidot], 04 Ravinto [s4], 05 Liikunta ja uni [s4], 06 Seksuaaliterveys [s5], 07 Seksuaalioikeudet [s5], 08 Mielenterveys [s6], 09 Stressi ja kriisit [s6], 10 Opiskeluhyvinvointi [s7]. TE2 has 10 topics: 01 Tieto ja vinoumat, 02 Tutkimustieto, 03 Terveysviestintä, 04 Elinympäristö (radon and lung cancer; eriarvoisuus defined), 05 Psykososiaalinen ympäristö, 06 Kestävä kehitys (Terveys kaikissa politiikoissa defined with an exam task), 07 Turvallisuus ja väkivalta, 08 Työhyvinvointi, 09 Riippuvuuden mekanismit, 10 Riippuvuudet (tobacco: COPD, lung cancer, CVD; alcohol and cancer; carcinogen classes).",
+     "confidence": "verified"
+    },
+    {
+     "claim": "Keyword search of content/topics shows no coverage yet of: itsehoito, priorisoi, hedelmöity, abortti, eutanasia, Pohjois-Karjala, diabetes, 'selitysmall'. 'Epidemiolog' appears only in a Yle link title. Infectious disease appears only as a global-factor list item (TE1.01), the vaccination effect on antibodies in a sleep topic (TE2.05), and the STI notification classes in TE1.06, which says the topic is deepened in TE3 (so TE3.04 must link back and not repeat). 'Seulont' and 'geeni' are incidental. 'hyve' and 'eettinen' appear in passing in many topics but no topic teaches ethical analysis.",
+     "confidence": "verified"
+    },
+    {
+     "claim": "Per-code overlap with TE1 and TE2. s1: partly TE1.03 (medikalisaatio, uskomushoidot, health culture) and TE1.01 (WHO definition); new are historical health concepts (biomedical, biopsychosocial, salutogenic, lay vs scientific) and explanatory models of disease (miasma, germ theory, risk factor, multifactorial). s2: TE1.01 gives the determinants and the Health-in-All-Policies idea sits in TE2.06; new are the history of population health (hygiene, sanitation, vaccination, antibiotics, screening, the North Karelia project, welfare state, THL/neuvola/school health history) and the policy history of Health in All Policies (link, do not redefine). s3: TE2.06 (sustainability) and TE2.03 (communication) are adjacent; new are AMR, ageing, climate and pandemics, digitalisation, genomics and AI in health, inequality and mental health as challenges. s4: TE1.04-05 (nutrition, activity, sleep) and TE2.10 (tobacco, alcohol harms) supply risk factors; new are the epidemiological transition, incidence and prevalence, the main diseases, infectious-disease transmission, prevention levels, vaccines, antibiotic resistance. s5: TE1.01 and TE1.10 name student health care; new are the whole service system (wellbeing services counties, public/private/third sector, Kela, who to go to). s6: TE1 and TE2 have no coverage; new are the concepts and limits of self-care and own care, medicines and reliable sources. s7: no existing coverage; new are the ethical frameworks. s8: TE1.07 touches rights and consent, TE1.06 covers contraception and STI; all of fertility treatment, abortion, screening, gene technology, euthanasia and lifestyle freedom are new. s9: new (ethical principles, patients' rights, prioritisation). s10: TE1.01 and TE2.04 define eriarvoisuus in one line; new are figure-reading of inequality in Finland, global health (WHO, SDGs) and ways to narrow gaps. TE3.t2 builds on TE2.10 and TE2.01 (risk and evidence).",
+     "confidence": "verified"
+    },
+    {
+     "claim": "The existing topics' own wording shows a convention to follow: TE1.06 states that STI classification is 'deepened in TE3', and every earlier topic ends with the exam-task note that the rest comes from TE3. TE3 should therefore keep the 'Tehtävät' footer format (fictional material, exam task types, model answers).",
+     "confidence": "verified"
+    },
+    {
+     "claim": "The proposed topic list is below. Order matters: history and concepts first, then disease, services and self-care, then the ethics framework used by three later topics, then inequality as the closing synthesis. Codes per topic: (01) Terveyskäsitykset ja sairauksien selitysmallit: s1, t1. (02) Miten yhteiskunta, tiede ja teknologia ovat muuttaneet väestön terveyttä (epidemiological transition as introduction, North Karelia, welfare state, Health in All Policies as history, vaccines, sanitation): s2, s4 (transition part), t1. (03) Tarttumattomat sairaudet: riskitekijät ja ehkäisy (CVD, type 2 diabetes, cancers, COPD, memory disorders; incidence vs prevalence; prevention levels; no blaming): s4, t2. (04) Tartuntataudit, rokotukset ja mikrobilääkeresistenssi (transmission routes, herd immunity, waterborne and tick-borne, STI link to TE1.06, AMR): s4, t2. (05) Sosiaali- ja terveyspalvelut: järjestäminen, tuottaminen ja käyttäminen (hyvinvointialueet, public/private/third sector, Kela, who to go to in which situation, critique): s5, t3. (06) Itsehoito, omahoito ja lääkkeet (self-care vs own care, long-term illness, medicines, Fimea, when to seek care; no medical advice): s6, t3, t2 (consequences for individual). (07) Eettisen analysoinnin näkökulmat (virtues, consequences, rights, duties, motives, values, norms as an exam-ready framework with cases): s7, t4. (08) Eettiset ja oikeudelliset kysymykset: hedelmöityshoidot, abortti, seulonnat, geeniteknologia (balanced, inclusive, laws and positions): s8 (part), t4. (09) Elämän loppu, elintapojen vapaus ja vastuu, potilaan oikeudet ja priorisointi (euthanasia with safe messaging, lifestyle freedom and responsibility, health-care ethical principles, patients' rights, prioritisation): s8 (part), s9, t4, t3 (critique). (10) Terveyden eriarvoisuus Suomessa ja maailmalla sekä tulevaisuuden haasteet (figure reading, narrowing gaps, global health, future challenges): s10, s3, t4, t1. Option: split 09 into an end-of-life and lifestyle topic and a patients-rights and prioritisation topic, with s3 moving to 02 plus 10, to reach 11 topics, if the writers hit the 460-line cap.",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Coverage check for the proposal: s1->01; s2->02; s3->10 and 02; s4->02,03,04; s5->05; s6->06; s7->07; s8->08 and 09; s9->09; s10->10. t1->01,02,10; t2->03,04,06; t3->05,06,09; t4->07,08,09,10. All 10 contents and 4 objectives are served, and t2 and t4 each have three or more topics.",
+     "confidence": "likely"
+    }
+   ],
+   "recommendations": [
+    "Use the 10-topic order above; it reaches every TE3 code and puts ethical frameworks (07) before the three topics that use them (08, 09, 10).",
+    "Fetch curriculum with curl or the site's own fetcher: WebFetch cannot read the 4.2 MB API response.",
+    "Do not redefine Health in All Policies, eriarvoisuus, medikalisaatio or the STI classes: link to TE2.06, TE2.04, TE1.03 and TE1.06, and put the new angle (history, figures, ethics) in TE3.",
+    "Add the TE2.10 tobacco and alcohol cancer and COPD facts as links from TE3.03 rather than copying, and cross-link radon from TE2.04.",
+    "Assessment guidance says grade analysis and justification, not students' own values or behaviour; keep every TE3 ethics task on fictional cases and avoid asking for personal positions or health data (consistent with brief 010 and CLAUDE.md).",
+    "Topics 03, 04, 08 and 09 carry the most facts; plan for the 460-line cap there and split 09 if needed."
+   ],
+   "versus_expected": "The brief's expected answer is confirmed on the counts (4 objectives, 10 contents) and the three content groups. The brief's ten expected topics map almost one to one onto my list. Differences: the brief lists 'future health challenges' with inequality and the epidemiological transition with history; I place s3 (future challenges) in topic 10 with inequality and in 02, and I put the transition's concepts in 02 and the disease detail in 03 and 04. I also merge lifestyle freedom, euthanasia, patients' rights and prioritisation into topic 09 (the brief had euthanasia in the ethical-questions topic and rights and prioritisation separate), because that gives balanced topic sizes; a split is the stated fallback. New finding not in the brief: ePerusteet gives no module-level guidance beyond the module description, so subject-level assessment text is the only extra guidance. Another new finding: existing TE1 and TE2 topics already define Health in All Policies, eriarvoisuus and STI classes, so TE3 should link to them. A third: itsehoito, priorisointi, abortti, eutanasia and fertility treatment are entirely new."
+  },
+  {
+   "key": "materials",
+   "summary": "I opened about 70 pages on 2026-11-21 and recorded 4 to 6 candidates for most TE3 areas, with thin coverage for three of them (see 'Gaps'). Almost everything is link-out. No page I read carried an open licence (CC BY or CC BY-SA). Terveyskirjasto, Sydänliitto, Kela, OPH, MLL and Yle show only a copyright notice or \"all rights reserved\". THL, STM, Finlex, WHO, Fimea, ETENE, Palko and Käypä hoito state no licence on the pages I read. The one licence line I read in full was Sydänliitto's: all rights reserved. I did not open THL's, Finlex's or WHO's licence terms pages, so a licence may be stated there. I found no open CC BY lukio TE3 material, so the expected answer that almost all links would be link-out holds. I classed unlicensed pages as link-out. Finlex statutes may be freely quotable, but no page I read says so, so that is unverified. Per-claim 'access' fields use the form open|link-out|excluded plus the licence note. Format of each finding below: [area] Title | publisher | URL | licence class | audience as the page states it | read 2026-11-21 | date shown.",
+   "findings": [
+    {
+     "claim": "[history of health and disease explanations] 'Mitä terveys on?' | Kustannus Oy Duodecim (Terveyskirjasto) | https://www.terveyskirjasto.fi/dlk00903 | link-out (copyright notice only, links to terms) | audience not stated, general readers | page dated 16.08.2024. Gives the WHO definition and calls it practically unattainable; names physical, psychological, social, spiritual and sexual dimensions.",
+     "confidence": "verified",
+     "source_url": "https://www.terveyskirjasto.fi/dlk00903"
+    },
+    {
+     "claim": "[history of explanations] The WHO constitution entered into force on 7 April 1948 (World Health Day). Learned from a search snippet of https://www.who.int/about/history; the page itself was not opened.",
+     "confidence": "likely",
+     "source_url": "https://www.who.int/about/history"
+    },
+    {
+     "claim": "[epidemiological transition] No dedicated page on the concept was found. Candidates: Terveyskirjasto 'Infektioiden tartunta, taudin synty ja leviäminen' (https://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk00569, dated 02.11.2026, link-out, audience not stated); WHO fact sheet 'Noncommunicable diseases' (https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases, updated 25 Sep 2025, link-out, audience not stated); THL 'Väestön hyvinvointi' (https://thl.fi/tilastot-ja-data/tilastot-aiheittain/sairastavuus-ja-tapaturmat, link-out, audience not stated); Yle 'Oppimateriaalit: terveystieto' (https://yle.fi/a/20-187728, 15.2.2017, link-out). The WHO page says NCDs killed at least 43 million in 2021, about 75% of non-pandemic deaths.",
+     "confidence": "verified",
+     "source_url": "https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases"
+    },
+    {
+     "claim": "[epidemiological transition] The Yle Abitreenit health education page says on its face that it rests on the old curriculum and is not updated, and it dates from 2017. It lists three study materials dated 2013. Treat it as excluded for content, or link-out with a warning.",
+     "confidence": "verified",
+     "source_url": "https://yle.fi/a/20-187728"
+    },
+    {
+     "claim": "[North Karelia project] Sydänliitto, 'Projektien mies koko sydämellä' | https://sydan.fi/artikkeli/projektien-mies-koko-sydamella/ | link-out (states all rights reserved) | general readers interested in heart health | published 12.3.2015, updated 10.9.2018. It states the project ended in 1997 and its work continued in the North Karelia public health centre from 2002, and describes early resistance in the farming economy.",
+     "confidence": "verified",
+     "source_url": "https://sydan.fi/artikkeli/projektien-mies-koko-sydamella/"
+    },
+    {
+     "claim": "[North Karelia project] A THL page on North Karelia was not found. The THL FINRISKI publications URL returned 404. The 1972 start and the FINRISKI link are search snippet only (THL and Sydänliitto). The 80% fall in cardiovascular mortality 1970-2010 is Sydänliitto's figure from a search snippet, not read on a page. Use THL statistics rather than copying it.",
+     "confidence": "unverified",
+     "source_url": "https://sydan.fi/artikkeli/sydanriskin-jaljilla-ennen-ensimmaisia-oireita/"
+    },
+    {
+     "claim": "[Health in All Policies] STM and THL press release 'Suomi näyttää esimerkkiä terveyden viemisessä poliittiseen päätöksentekoon' | https://stm.fi/sv/-/suomi-nayttaa-esimerkkia-terveyden-viemisessa-poliittiseen-paatoksentekoon | link-out (no licence shown) | media and the public | 14.6.2013. Records the WHO 8th Global Conference on Health Promotion in Helsinki, 10-14 June 2013, and the Helsinki Statement on Health in All Policies.",
+     "confidence": "verified",
+     "source_url": "https://stm.fi/sv/-/suomi-nayttaa-esimerkkia-terveyden-viemisessa-poliittiseen-paatoksentekoon"
+    },
+    {
+     "claim": "[Health in All Policies] 'HiAP approach' | WHO Collaborating Centre on HiAP and the Social Determinants of Health, Tampere Universities | https://research.tuni.fi/centre-for-hiap-and-sdh/hiap-approach/ | link-out (no licence) | audience not stated; addresses policymakers | undated. Defines HiAP as a cross-sector approach to public policy and names the WHO 2013 Helsinki Statement as the source of the definition.",
+     "confidence": "verified",
+     "source_url": "https://research.tuni.fi/centre-for-hiap-and-sdh/hiap-approach/"
+    },
+    {
+     "claim": "[Health in All Policies] That Finland launched the concept in its 2006 EU Presidency is from a search snippet of a journal article that was not opened. No page confirms it.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "[non-communicable diseases] Terveyskirjasto 'Diabetes' https://www.terveyskirjasto.fi/dlk00011 (dated 16.02.2026, general public and people with diabetes or at risk); 'Keuhkoahtaumatauti' https://www.terveyskirjasto.fi/khp00012 (patient version of Käypä hoito, dated 21.11.2019, notes the guideline was updated 11/2026 and patient versions are being updated; smoking is the main cause). Both link-out, copyright notice only. WHO NCD fact sheet (above): cardiovascular disease at least 19 million deaths, cancer 10 million, chronic respiratory disease 4 million, diabetes over 2 million in 2021. THL 'Väestön hyvinvointi' lists cardiovascular, stroke, chronic lung disease and diabetes by region, but no cancer statistics.",
+     "confidence": "verified",
+     "source_url": "https://www.terveyskirjasto.fi/khp00012"
+    },
+    {
+     "claim": "[non-communicable diseases] No cancer page was read. Syöpärekisteri (https://syoparekisteri.fi/seulonta/ and the 2023 screening statistics release) returned 403, so cancer incidence and risk factors need another source (Syöpärekisteri or a Terveyskirjasto cancer page, not yet opened).",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "[infectious diseases and vaccines] THL 'Finnish national vaccination programme: which vaccines are recommended for different age groups?' | https://thl.fi/en/our-view/it-s-important-to-keep-vaccination-coverage-high/finnish-national-vaccination-programme-which-vaccines-are-recommended-for-different-age-groups- | link-out (no licence) | general public incl. parents and adults; staff mentioned as those who deliver it | updated Oct 2026. Says vaccines are voluntary and free and children are covered for 13 diseases.",
+     "confidence": "verified",
+     "source_url": "https://thl.fi/en/our-view/it-s-important-to-keep-vaccination-coverage-high/finnish-national-vaccination-programme-which-vaccines-are-recommended-for-different-age-groups-"
+    },
+    {
+     "claim": "[infectious diseases and vaccines] THL 'Vaccination coverage among children' | https://thl.fi/en/data-and-statistics/vaccinations/vaccination-coverage-among-children | link-out | audience not stated | updated 2026-06-30. States second-dose MMR coverage should be at least 95 percent. The page does not use the term herd immunity. Children born in 2023: varicella about 89%, unvaccinated up to age 3 is 2.2%. Link the figures, do not copy them.",
+     "confidence": "verified",
+     "source_url": "https://thl.fi/en/data-and-statistics/vaccinations/vaccination-coverage-among-children"
+    },
+    {
+     "claim": "[infectious diseases] Terveyskirjasto 'Infektioiden tartunta, taudin synty ja leviäminen' (dlk00569, 02.11.2026, link-out, audience not stated, clinical terms in accessible Finnish). Covers transmission routes and hand hygiene. The earlier THL national vaccination programme URL and the THL epidemic investigation page returned 404 and were not retried.",
+     "confidence": "verified",
+     "source_url": "https://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk00569"
+    },
+    {
+     "claim": "[antibiotic resistance] THL 'Antimicrobial resistance' | https://thl.fi/en/data-and-statistics/infectious-diseases/antimicrobial-resistance | link-out | audience not stated | updated 23 Oct 2026. Invasive MRSA 2.0 per 100,000 in 2025, 2.5 times 2019. WHO fact sheet 'Antimicrobial resistance' https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance (16 July 2026, link-out, audience not stated) says drug-resistant bacteria were linked to about 4.7 million deaths in 2021. Fimea 'Correct use of medicines' (https://fimea.fi/en/for_public/correct-use-of-medicines, general public, no date or licence) says antibiotics are usually taken as a full course. Ruokavirasto AMR hub https://ruokavirasto.fi/teemat/mikrobilaakeresistenssi-amr (link-out; focused on animals and zoonoses, audience not stated; use only for the One Health angle).",
+     "confidence": "verified",
+     "source_url": "https://thl.fi/en/data-and-statistics/infectious-diseases/antimicrobial-resistance"
+    },
+    {
+     "claim": "[tick-borne disease] Terveyskirjasto 'Puutiaiset ja niiden levittämät taudit' https://www.terveyskirjasto.fi/kpp00002 (date shown 15.09.2026; written for general readers; compares Lyme borreliosis, bacterial, treatable, no vaccine, with tick-borne encephalitis, viral, no specific treatment, vaccine available) and 'Puutiaisaivotulehdus' https://www.terveyskirjasto.fi/mat00047 (10.02.2023; audience stated as travellers, so label it as travel guidance). Both link-out, copyright notice only.",
+     "confidence": "verified",
+     "source_url": "https://www.terveyskirjasto.fi/kpp00002"
+    },
+    {
+     "claim": "[waterborne disease] THL-blogi 'Rapistuva vesijohtoverkosto vaarantaa suomalaisten terveyden' | https://blogi.thl.fi/rapistuva-vesijohtoverkosto-vaarantaa-suomalaisten-terveyden/ | link-out ('© THL-blogi') | general Finnish readers plus policymakers and water utilities | 8.1.2015. States the national target of at most one tap-water infection per 10,000 residents per year has not been met. It is an old opinion post, so do not use it for current figures. The Ruokavirasto epidemic report PDF (2024) was unreadable through the fetch tool and the THL 'Vesiepidemiaohjeet' page was not opened. Epidemic counts are search-snippet only.",
+     "confidence": "verified",
+     "source_url": "https://blogi.thl.fi/rapistuva-vesijohtoverkosto-vaarantaa-suomalaisten-terveyden/"
+    },
+    {
+     "claim": "[sexually transmitted infections] Terveyskirjasto 'Seksitaudit (sukupuolitaudit)' | https://www.terveyskirjasto.fi/dlk00497 | link-out | audience not stated, general readers | dated 10.01.2023. THL's 2023 infectious disease statistics release (https://thl.fi/-/tartuntatautien-esiintyvyystilastot-vuodelta-2023-on-julkaistu-etenkin-seksitautien-maara-on-lisaantynyt) returned 404 and the chlamydia and gonorrhoea figures are search-snippet only. Hivpoint youth page (https://hivpoint.fi/nuorille/) returned 404.",
+     "confidence": "verified",
+     "source_url": "https://www.terveyskirjasto.fi/dlk00497"
+    },
+    {
+     "claim": "[social and health services and wellbeing services counties] Valtioneuvosto press release 'Hyvinvointialueuudistuksen väliarviointi' | https://valtioneuvosto.fi/-/1271139/hyvinvointialueuudistuksen-valiarviointi-uudistus-etenee-tavoitteiden-saavuttaminen-edellyttaa-korjauksia | link-out | audience not stated | 10 Dec 2025. Reports service availability at about pre-reform levels and persistent regional differences. STM 'Sote-rakenteet on uudistettu, nyt on sisältöjen vuoro' https://stm.fi/-/sote-rakenteet-on-uudistettu-nyt-on-sisaltojen-vuoro (8 Mar 2024): counties arrange services, steering split among ministries. Plan to re-verify before writing, because the ministry steering arrangement is changing.",
+     "confidence": "verified",
+     "source_url": "https://valtioneuvosto.fi/-/1271139/hyvinvointialueuudistuksen-valiarviointi-uudistus-etenee-tavoitteiden-saavuttaminen-edellyttaa-korjauksia"
+    },
+    {
+     "claim": "[services] THL 'Opiskeluterveydenhuolto' https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto (11.11.2026, audience: professionals, so link for teachers only, not a student page). Says services include health checks, mental health and substance use services, and sexual health counselling. Search snippet, not read on a page: counties organise upper secondary student health care and a reform starts autumn 2026.",
+     "confidence": "verified",
+     "source_url": "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto"
+    },
+    {
+     "claim": "[self-care and medicines] Fimea 'Lapset ja nuoret etsivät tietoa verkosta' https://fimea.fi/-/lapset-ja-nuoret-etsivat-tietoa-verkosta-laakekasvatusmateriaalit-auttavat-tunnistamaan-luotettavan-laaketiedon (19.8.2026; school-age children, young people and teachers; no licence stated). It points to tervekoululainen.fi lower secondary medicines education (https://tervekoululainen.fi/ylakoulu/laakekasvatus/, not opened). Fimea 'Correct use of medicines' (above). Kela 'Lääkekorvaukset' (plain language) https://www.kela.fi/web/selkokieli/laakekorvaukset (updated 26.9.2026; people who take prescription medicines; link-out). It states a yearly initial co-payment of 70 euros that does not apply to children and young people, then 40% basic reimbursement. Fees change, so link and do not copy. Not yet opened: a Fimea or Käypä hoito self-care page for common ailments.",
+     "confidence": "verified",
+     "source_url": "https://www.kela.fi/web/selkokieli/laakekorvaukset"
+    },
+    {
+     "claim": "[ethical analysis] ETENE home page https://etene.fi/ (publisher ETENE, STM logo, no licence, audience not stated) states ETENE published social and health sector ethical principles on 13 March 2026, now also in Swedish and English. The principles document itself was not opened. Search snippets list ETENE-julkaisuja 32 (2011) as a compilation of ethical recommendations, not read. No open page on ethical-viewpoint frameworks was found; the OPH LOPS support page (below) is the nearest.",
+     "confidence": "verified",
+     "source_url": "https://etene.fi/"
+    },
+    {
+     "claim": "[fertility treatment] Terveyskirjasto 'Hedelmöityshoidot' https://www.terveyskirjasto.fi/dlk00870 (17.12.2025; patients and public, with clinical detail) and 'Lapsettomuushoidot' https://www.terveyskirjasto.fi/dlk00732 (17.12.2025; mainly people experiencing infertility). Both say surrogacy is prohibited by Finnish law. 'Hedelmöityshoidot' says Kela reimburses private fertility treatment from 1.5.2025 for people under 43 whose infertility is caused by illness. Finlex 'Laki hedelmöityshoidoista' 1237/2006 https://www.finlex.fi/fi/lainsaadanto/2006/1237 (Finlex, free public service; no licence statement; page shows no amendment date). Plan to re-verify the Kela reimbursement rule on a Kela page, not read.",
+     "confidence": "verified",
+     "source_url": "https://www.terveyskirjasto.fi/dlk00870"
+    },
+    {
+     "claim": "[abortion] THL 'Induced abortions' https://thl.fi/en/data-and-statistics/sexual-and-reproductive-health/induced-abortions (updated 15 June 2026; source report 11 May 2026; audience not stated): nearly 9,100 in 2025, 7.6 per 1,000 women aged 15-49, 36% repeat. Terveyskirjasto 'Raskaudenkeskeytys' https://www.terveyskirjasto.fi/dlk00166 (12.02.2025): since September 2023 abortion on request up to 12 weeks without giving a reason. Käypä hoito 'Raskaudenkeskeytys' https://www.kaypahoito.fi/hoi27050 (6 Nov 2024; healthcare professionals; no licence in the part read; the last 25k characters were not read). Finlex Laki raskauden keskeyttämisestä 239/1970 https://www.finlex.fi/fi/lainsaadanto/1970/239 (no amendment date shown). The THL page does not describe the 2023 change itself.",
+     "confidence": "verified",
+     "source_url": "https://www.terveyskirjasto.fi/dlk00166"
+    },
+    {
+     "claim": "[screening] No screening page was read. Syöpärekisteri pages returned 403. The programme ages and participation rates (breast, cervical, colorectal) are search-snippet only, with conflicting breast ages (50-69 vs 50-68), so treat them as unverified. Terveyskirjasto 'Geenitestaus' and Käypä hoito pages below do not cover screening.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "[gene technology] Terveyskirjasto 'Geenitestaus' | https://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk01176 | link-out | general public, patients and relatives | dated 26.03.2026. Says testing matters for rare hereditary disease and is rarely useful for common diseases. ETENE 'ETENE on julkaissut kannanoton geenitiedon luovuttamisesta' https://etene.fi/-/etene-on-julkaissut-kannanoton-geenitiedon-luovuttamisesta | link-out | audience not stated, aimed at policymakers by content | 19 Feb 2026. Stresses self-determination and the right not to know, and recommends a national model.",
+     "confidence": "verified",
+     "source_url": "https://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk01176"
+    },
+    {
+     "claim": "[euthanasia and end of life] Terveyskirjasto 'Kuolevan potilaan oireiden hoito (palliatiivinen hoito ja saattohoito)' | https://www.terveyskirjasto.fi/khp00072 | link-out | patient version, patients and public | 4 October 2019. Covers symptom relief and palliative sedation as a last resort. It is adult and clinical, with no stated youth audience. ETENE's 2017 euthanasia statement PDF (https://etene.fi/documents/1429646/4360417/KANNANOTTO_eutanasia_26.9.2017f.pdf/a23dcc78-3788-4140-b363-3a7b99527ad8) could not be read through the fetch tool. ETENE's position is not verified. That Finnish law does not permit euthanasia is from a search summary only, not from a page, so confirm it from Finlex or ETENE before use. Käypä hoito 'Palliatiivinen hoito ja saattohoito' https://www.kaypahoito.fi/hoi50063 was not opened.",
+     "confidence": "verified",
+     "source_url": "https://www.terveyskirjasto.fi/khp00072"
+    },
+    {
+     "claim": "[patients' rights] Finlex Laki potilaan asemasta ja oikeuksista 785/1992 | https://www.finlex.fi/fi/lainsaadanto/1992/785 | Finlex, free public service owned by the Ministry of Justice | no licence statement, no amendment date on the page, listed as up-to-date legislation. No STM, potilasasiamies or other plain-language patients' rights page was read.",
+     "confidence": "verified",
+     "source_url": "https://www.finlex.fi/fi/lainsaadanto/1992/785"
+    },
+    {
+     "claim": "[prioritisation] Palko 'Palkon periaatteet, 1. Johdanto' | https://palveluvalikoima.fi/1.-johdanto | Terveydenhuollon palveluvalikoimaneuvosto (STM logo) | link-out | audience not stated; appears aimed at service organisers and policymakers | undated. Says prioritisation is central because resources are limited, and covers cost-effectiveness, harms and ethics. ETENE's September 2025 statement on service basket principles is search-snippet only.",
+     "confidence": "verified",
+     "source_url": "https://palveluvalikoima.fi/1.-johdanto"
+    },
+    {
+     "claim": "[health inequality in Finland] THL-blogi 'Sosiaaliluokka on terveyden riskitekijä' https://blogi.thl.fi/sosiaaliluokka-on-terveyden-riskitekija/ (9 Nov 2018; link-out; audience not stated): low social position shortened life expectancy by 2.1 years in a 2017 Lancet study; Finland's gaps persisted after the 2008-2011 programme. STM 'Terveyden eriarvoisuus Suomessa on edelleen kasvanut' https://stm.fi/-/terveyden-eriarvoisuus-suomessa-on-edelleen-kasvanut (22 Jan 2008; 6.1-year gap for 35-year-old men; very old, historical only). THL 'Väestön hyvinvointi' (above) lists life expectancy and years of life lost by income group. THL 'Wellbeing Review 2025' news page https://thl.fi/en/our-view/there-are-persistent-inequalities-in-health-and-well-being-in-finland/thl-report-presents-116-recommendations-to-address-current-challenges-in-wellbeing-and-health (updated 7 April 2026; link-out). Current income-decile life expectancy gaps are search-snippet only. Use the THL statistics, not the old blog figures, for numbers.",
+     "confidence": "verified",
+     "source_url": "https://blogi.thl.fi/sosiaaliluokka-on-terveyden-riskitekija/"
+    },
+    {
+     "claim": "[global health inequality] WHO fact sheet 'Social determinants of health' | https://www.who.int/news-room/fact-sheets/detail/social-determinants-of-health | WHO | link-out (no licence for its content; the page's CC BY 3.0 IGO note concerns a referenced World Bank report only) | audience not stated; addresses governments and health leaders | 6 May 2025. Says life expectancy gap between countries up to 33 years; children in low-income countries are 13 times more likely to die before age 5. WHO NCD fact sheet gives 82% of premature NCD deaths in low- and middle-income countries.",
+     "confidence": "verified",
+     "source_url": "https://www.who.int/news-room/fact-sheets/detail/social-determinants-of-health"
+    },
+    {
+     "claim": "[future health challenges] THL 'Wellbeing Review 2025' news page (above) says trust in health care and political decision-making weakened and insecurity rose among older people, and estimates halting rising obesity could save EUR 1.5 billion over ten years. Ageing, climate and nature topics are search-snippet only (THL pages not opened).",
+     "confidence": "verified",
+     "source_url": "https://thl.fi/en/our-view/there-are-persistent-inequalities-in-health-and-well-being-in-finland/thl-report-presents-116-recommendations-to-address-current-challenges-in-wellbeing-and-health"
+    },
+    {
+     "claim": "[teacher-facing, cross-area] OPH 'Terveystiedon LOPS 2019 -tukimateriaali' | https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali | Opetushallitus | link-out (copyright notice only, no CC BY stated) | lukio teachers and curriculum planners | no date; PDF name carries 2020-11-27. Its TE3 summary covers history of health promotion, the move from communicable to non-communicable disease, and ethical questions.",
+     "confidence": "verified",
+     "source_url": "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali"
+    },
+    {
+     "claim": "[open lukio materials] No CC BY or CC BY-SA lukio TE3 material was found. Lukion Syke 3 and Otava's Polku 3 are commercial; teacher answer sheets on peda.net are marked as publisher-copyrighted per a search summary (not opened). Yle Abitreenit is old-curriculum and has no licence. A Helsinki University Library page lists CC BY health science materials aimed at professionals (search snippet only, page not opened).",
+     "confidence": "likely"
+    },
+    {
+     "claim": "[help services for young people, crises] MLL Nuortennetti 'Lasten ja nuorten puhelin ja Nuorten tukilinja 116 111' | https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/ | MLL | link-out | page states all under-25s | updated 23.9.2026. Free and anonymous, calls not recorded. Hours on the page: Mon-Fri 14-20, Sat-Sun 17-20, Nuorten tukilinja daily 20-24. Hours and age ranges differed across search snippets (12-20 vs 12-25 for the support line), so link to the page rather than copying hours.",
+     "confidence": "verified",
+     "source_url": "https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/"
+    },
+    {
+     "claim": "[help services, crises] Punainen Risti 'Auttavat puhelimet ja verkkopalvelut kotimaassa' | https://www.punainenristi.fi/hae-apua-ja-tukea/auttavat-puhelimet-ja-palvelut-kotimaassa/ | Suomen Punainen Risti | link-out | undated, 2026 copyright. It lists Nuorten Kriisipiste (Helsinki Mission, 045 3410 583) and the Nuorten turvatalo duty line as aimed at young people, and MIELI crisis line (09 2525 0111, 24/7), Surunauha (text 'Tukipuhelu' to 045 130 8603 for relatives of suicide victims) and Tukinainen for victims of sexual crime without stated youth audience. Only the services whose entries say young people count as youth help. OPH 'Auttajatahoja' https://www.oph.fi/fi/oppimateriaali/kouluikaisten-terveyden-polku/henkinen-ja-sosiaalinen-hyvinvointi/auttajatahoja (no date; lists Lasten ja nuorten puhelin 116 111, Nuortennetti and Nuorten päihdepuhelin as for children and young people).",
+     "confidence": "verified",
+     "source_url": "https://www.punainenristi.fi/hae-apua-ja-tukea/auttavat-puhelimet-ja-palvelut-kotimaassa/"
+    },
+    {
+     "claim": "[help services, end of life and grief] Mielenterveystalo 'Lapsen ja nuoren suru läheisen kuollessa' | https://www.mielenterveystalo.fi/fi/kriisi-trauma/lapsen-ja-nuoren-suru-laheisen-kuollessa | no named publisher (HUS logo in footer) | no licence stated | children and young people who have lost a loved one and the adults around them, ages under 5 to young adults | no update date. Names youth stations, school psychologists and student welfare but no phone numbers. Turku MIELI children and youth grief group page returned a 301 redirect and then 404, so it is not usable.",
+     "confidence": "verified",
+     "source_url": "https://www.mielenterveystalo.fi/fi/kriisi-trauma/lapsen-ja-nuoren-suru-laheisen-kuollessa"
+    },
+    {
+     "claim": "[help services, crises and general youth] Mielenterveystalo 'Nuoret' | https://mielenterveystalo.fi/fi/nuoret | no named publisher, HUS logo | no licence | young people and their parents, lower-secondary age and older teens | undated. Lists no crisis numbers; its 'where to get help immediately' link target was not shown.",
+     "confidence": "verified",
+     "source_url": "https://mielenterveystalo.fi/fi/nuoret"
+    },
+    {
+     "claim": "[help services, sexual health] Seta 'Nuorten tuki- ja neuvontapalvelut' | https://nuoret.seta.fi/nuorille/nuorten-tuki-ja-neuvontapalvelut/ | Seta ry | link-out | mainly sexual and gender minority youth; Loiste states ages 13-20, other services 10-29 | undated. Lists Sexpo, Väestöliitto, Hivpoint and others. Väestöliitto 'Keitä olemme nuorten palveluissa?' https://www.vaestoliitto.fi/nuoret/keita-olemme/ (young people, no age range stated on the page; the 13-28 figure is search-snippet only). I read no page that states a youth audience for a phone or chat sexual health counselling service.",
+     "confidence": "verified",
+     "source_url": "https://nuoret.seta.fi/nuorille/nuorten-tuki-ja-neuvontapalvelut/"
+    },
+    {
+     "claim": "[cross-area] Käypä hoito home https://www.kaypahoito.fi/ | Suomalainen Lääkäriseura Duodecim | audience: mainly health care professionals; has a patient section | no licence terms in the text (a 'Käyttöehdot' section exists) | © 2026. Link Käypä hoito mostly as teacher or professional background and prefer Terveyskirjasto patient versions for students.",
+     "confidence": "verified",
+     "source_url": "https://www.kaypahoito.fi/"
+    }
+   ],
+   "recommendations": [
+    "Treat all candidate materials as link-out unless a licence is read on the page: none of the pages above states CC BY or CC BY-SA. Terveyskirjasto and Sydänliitto state copyright with all rights reserved, so no text should be copied. Do not claim any lukio material is open.",
+    "Still to find before the link inventory is complete: a cancer page (Syöpärekisteri returned 403), a screening programme page, an ETENE-read euthanasia position (the 2017 PDF is unreadable through the fetch tool, so try the ETENE news page or a text version), a plain-language patients' rights page (STM, potilasasiamies or Terveyskirjasto), an STI statistics page that opens (THL 2023 release is 404), the Ruokavirasto and THL waterborne epidemic pages, and a source on explanatory models of disease.",
+    "Do not use Yle Abitreenit 'Oppimateriaalit: terveystieto' as a content link: the page says on its face it rests on the old curriculum and was not updated. Use Yle only for exam practice pages after reading them.",
+    "Label audience honestly: THL opiskeluterveydenhuolto is for professionals, Käypä hoito is mainly for professionals, Terveyskirjasto 'Puutiaisaivotulehdus' targets travellers, and the Seta page targets sexual and gender minority youth. Only MLL 116 111 (under 25), Nuorten Kriisipiste and Nuorten turvatalo (as entries in the Red Cross list) and the Mielenterveystalo youth and grief pages state a youth audience for crisis and grief help. For end of life and sexual health, no service with a stated youth audience and a verified number was found beyond these, so a help box there should point to student health care and 116 111 until more are read.",
+    "Figures that change (MRSA incidence, vaccination coverage, abortion counts, Kela co-payments, screening ages) are only to be linked with a read date, not copied. Several snippet-only figures conflict (breast screening ages 50-69 vs 50-68; Nuorten tukilinja 12-20 vs 12-25).",
+    "Before TE3 content cites the wellbeing services county steering arrangement, the Kela fertility reimbursement and the 2023 abortion change, re-read the primary pages: the STM release is from 2024 and the abortion change is stated only on Terveyskirjasto."
+   ],
+   "versus_expected": "Matches the expected answer on the main point: almost everything is link-out, with the expected publishers present (THL, Terveyskirjasto, Käypä hoito, STM, Finlex, ETENE, Kela, Fimea, WHO). Two gaps: I found no CC BY lukio material at all, and several expected items could not be read (THL cancer and screening pages, the ETENE euthanasia statement, the THL 2023 STI release, which are 403 or 404 or unreadable). Palko is an addition not in the expected list. Youth help services are thinner than expected: only 116 111 and the Mielenterveystalo grief and youth pages state a youth audience on pages I read, and I found none for end-of-life or sexual health with a verified number. The ETENE principles document published 13 March 2026 and ETENE's February 2026 genetic information statement are newer than the brief assumed.",
+   "could_not_read": [
+    "https://www.kaypahoito.fi/ (read OK); https://thl.fi/aiheet/infektiotaudit-ja-rokotukset/rokotukset/kansallinen-rokotusohjelma (404, old URL, replaced by the English THL page)",
+    "https://thl.fi/tutkimus-ja-kehittaminen/tutkimukset-ja-hankkeet/finriski-tutkimus/julkaisut (404)",
+    "https://thl.fi/aiheet/infektiotaudit-ja-rokotukset/taudit-ja-torjunta/epidemioiden-selvitys-ja-ilmoittaminen (404)",
+    "https://thl.fi/-/tartuntatautien-esiintyvyystilastot-vuodelta-2023-on-julkaistu-etenkin-seksitautien-maara-on-lisaantynyt (404)",
+    "https://etene.fi/documents/1429646/4360417/KANNANOTTO_eutanasia_26.9.2017f.pdf/a23dcc78-3788-4140-b363-3a7b99527ad8 (PDF text unreadable through the fetch tool)",
+    "https://www.ruokavirasto.fi/globalassets/tietoa-meista/julkaisut/julkaisusarjat/julkaisuja/ruokaviraston_julkaisuja_1_2024.pdf (PDF text unreadable)",
+    "https://syoparekisteri.fi/seulonta/ (403)",
+    "https://syoparekisteri.fi/2025/05/27/syopaseulontaohjelmien-tilastot-vuodelta-2023-julkaistu/ (403)",
+    "https://hivpoint.fi/nuorille/ (404)",
+    "https://mielenterveysseurat.fi/turku/kriisikeskus-ja-mielenterveysseura/ryhmat/lasten-sururyhma (301 redirect, then 404 at https://mieliyhdistykset.fi/turku/kriisikeskus-ja-mielenterveysseura/ryhmat/lasten-sururyhma)"
+   ]
+  },
+  {
+   "key": "facts-laws",
+   "summary": "Facts-laws aspect for TE3. Read directly: Finlex open data API (XML for 785/1992, 239/1970, 1237/2006; all read 2026-11-21, consolidated texts dated 2023-04-14 and 2025-06-27), STM, Kela, THL (English vaccination page), Terveyskirjasto, valtioneuvosto.fi. Finlex's web pages and eduskunta.fi, etene.fi tasks, thl.fi Finnish vaccination pages, Cancer Registry were not readable. Stable rules can be stated in original words (patient self-determination, 12-week abortion rule, fertility treatment conditions, presumed consent in organ donation, hoitotahto binding effect, euthanasia not permitted); every figure, age, fee, date and pending bill must stay a link. Two live items to watch: the euthanasia citizens' initiative KAA 4/2024 is still in committee (as of 5.10.2026 press), and a government proposal to put palliative and end-of-life care explicitly in the Health Care Act (target 1.1.2027) was out for comment in spring 2026.",
+   "findings": [
+    {
+     "claim": "Patients' rights act is Laki potilaan asemasta ja oikeuksista 785/1992; Finlex consolidated version dated 2023-04-14 (produced 2026-10-15). Stable rule: patient is treated in agreement with them (6 §); if patient refuses a treatment, other medically acceptable care is sought together; urgent care is given to avert danger to life, but a firmly and validly stated earlier wish is respected (8 §); minors who can decide by age and development may forbid disclosure of their health information to guardians (9 §); dissatisfied patient may file a muistutus (10 §).",
+     "confidence": "verified",
+     "source_url": "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/1992/785 (human page https://www.finlex.fi/fi/lainsaadanto/1992/785, text JS-only)"
+    },
+    {
+     "claim": "Abortion act (Laki raskauden keskeyttämisestä 239/1970): since the 1.9.2023 reform a pregnancy can be ended on the pregnant person's own request to the end of week 12; later terminations need a permit (week 20 limit, 24 for severe fetal disease per 5 and 5a §); the reform added a right to psychosocial support; private providers need no separate permit for early terminations. Source for reform is STM release 111/2023 dated 2023-09-01. NOTE: the Finlex consolidated text (dated 2025-06-27) still reads in the older wording (grounds list, two-doctor decision), so Finlex text and STM release must be checked together before writing grounds.",
+     "confidence": "verified",
+     "source_url": "https://valtioneuvosto.fi/-/1271139/aborttilain-muutokset-tulevat-voimaan"
+    },
+    {
+     "claim": "Recent change: amending act 762/2025 (published 11.7.2025, in force 1.1.2026) amends the abortion act (sections 1, 5, 5a, 6, 10, 11, 15; repeals 10a) and moves handling of abortion and sterilisation matters from Valvira to a board at Lupa- ja valvontavirasto. Read from the act's Finlex PDF via search snippet, and the amendment list in the Finlex XML; the exact practical content for patients was not read.",
+     "confidence": "likely",
+     "source_url": "https://www.finlex.fi/api/media/statute/680589/mainPdf/main.pdf"
+    },
+    {
+     "claim": "Fertility treatment act is Laki hedelmöityshoidoista 1237/2006 (Finlex consolidated 2025-06-27; latest amending act listed 547/2025). Stable rules read in text: treatment needs the recipient's written consent (8 §); not given if the couple's partner is married to someone else, if pregnancy would endanger health, if the child's balanced development cannot be assured, or if adoption is intended; gamete donors must be 18 or over and health-checked (13 §); donors are identified by a code (14 §); a person who may have been born from donation may at 18 get the donor code and, by notifying the donor register, the donor identity (23 §); selecting traits is allowed only for serious disease or sex linked to serious disease (5 §).",
+     "confidence": "verified",
+     "source_url": "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2006/1237"
+    },
+    {
+     "claim": "Content of 547/2025 amendment to the fertility act and any pending fertility-law reform (surrogacy, donor anonymity, treatment of single people) was not read.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "National vaccination programme: STM decides content, wellbeing services counties organise delivery, THL gives guidelines and monitors; programme vaccines are voluntary and free of charge, state-funded. THL page has three tables (children/adolescents about 2 months to 14-15 years, adults at 25/pregnancy, 45, 65, over 65, and risk groups). THL page last updated 9.10.2026 per page. dTaP in pregnancy part of programme from 1.7.2025 (search snippet of THL professional page). Adult varicella vaccination started 2026 (THL release seen via snippet only). Age schedule and vaccine list change, so link only.",
+     "confidence": "verified",
+     "source_url": "https://thl.fi/en/our-view/it-s-important-to-keep-vaccination-coverage-high/finnish-national-vaccination-programme-which-vaccines-are-recommended-for-different-age-groups-"
+    },
+    {
+     "claim": "Wellbeing services counties: 21 counties took over organising social and health services and rescue services at the start of 2023; Helsinki is not in a county and organises its own services; HUS handles some specialised tasks. STM page shows no own date; newest news item on it 17.8.2026.",
+     "confidence": "verified",
+     "source_url": "https://stm.fi/hyvinvointialueet"
+    },
+    {
+     "claim": "Student health care: organised by the wellbeing services county where the school is located; free of charge for students under 18; upper secondary students covered (STM English page, no update date shown). Search snippets of THL/STM say adults' sickness care in student health care may carry client fees, upper secondary students can see the public health nurse without appointment, and from autumn 2026 all upper secondary students fill an electronic health survey (Omaolo) with a health check by the year they turn 18; these were not read on the page.",
+     "confidence": "verified",
+     "source_url": "https://stm.fi/en/student-health-care"
+    },
+    {
+     "claim": "Client fees: 2026 annual fee ceiling for public health care is 815 euros, indexed every second year; fees for a person under 18 are added to the guardian's fees toward the ceiling (STM page, no own date; newest item 21.9.2026). STM fee page 'Terveydenhuollon maksut 2026' and a 2026 index table exist; search snippet says a government proposal on fee changes was submitted 21.9.2026 to take effect 1.3.2027 (details not read). All amounts must stay links.",
+     "confidence": "verified",
+     "source_url": "https://stm.fi/terveydenhuollon-maksukatto"
+    },
+    {
+     "claim": "Kela medicine reimbursement: three classes (basic 40%, lower special 65%, upper special 100% with 4.50 euro co-payment per purchase); 2026 initial deductible 70.33 euros (Kela apteekkitiedote 11/2025, 15.10.2025) and annual cap 636.12 euros; 2027 annual cap 650.56 euros stated in news item on the Kela medicines page, page updated 10.11.2026. The initial deductible does not apply to children and young people and applies from the start of the year of turning 19 (search snippet, not read on page). All figures change yearly, so link only.",
+     "confidence": "verified",
+     "source_url": "https://www.kela.fi/laakkeet"
+    },
+    {
+     "claim": "Medicines rules (Fimea): Fimea assigns each product and pack size a prescription or self-care status; self-care packs carry the label 'Itsehoitolääke'; some self-care medicines require extra counselling at the pharmacy and are marked in a Fimea list. Only the extra-counselling page was read (no date shown); the rest comes from search results of fimea.fi. The exact legal criteria (Medicines Act, Medicines Decree) were not read.",
+     "confidence": "likely",
+     "source_url": "https://fimea.fi/apteekit/lisaneuvontaa-vaativat-itsehoitolaakkeet"
+    },
+    {
+     "claim": "Screening programmes: search result summaries of STM and Cancer Registry pages give breast cancer (women 50-69, about every two years), cervical (30-65, every five years, HPV test, papa under 30 per THL material) and colorectal (rolling out from 2022 by birth cohort, full 56-74 target group in 2031). None of these pages could be read, and sources conflict on cervical ages, so ages and intervals must be linked, not typed. THL material read via snippet says Finnish cervical screening is free and effective and that the programme HPV vaccine protects against about 9 in 10 cervical cancers.",
+     "confidence": "likely",
+     "source_url": "https://stm.fi/seulonnat/syopaseulonnat"
+    },
+    {
+     "claim": "ETENE (Valtakunnallinen sosiaali- ja terveysalan eettinen neuvottelukunta) is an advisory board whose site lists statements, position papers and published ethical principles (also in Swedish and English); established 1998 by decree, task wording is 'to discuss ethical questions of social and health care and patient/client position' (from secondary-source snippets quoting etene.fi). Appointer and tasks section not readable on the page; ETENE gave a 2026 statement on the palliative care draft.",
+     "confidence": "likely",
+     "source_url": "https://etene.fi/"
+    },
+    {
+     "claim": "Organ donation: since the law change on 1.8.2010 organ removal after death may go ahead unless the deceased is known or presumed to have opposed it in life; relatives have no right to forbid but are heard when the wish is unknown; a minor who could not form a view needs guardian consent; the wish can be oral or written. Rule read in STM release dated 24.8.2010 and confirmed by search summary; the statute is Laki ihmisen elimien, kudoksien ja solujen lääketieteellisestä käytöstä 101/2001 (title verified on Finlex, text not read; death definition and DCDD details from snippet only). Current stm.fi/elinluovutus page gave 404.",
+     "confidence": "verified",
+     "source_url": "https://stm.fi/-/elinluovutustahto-kannattaa-kertoa-laheisille-ja-kirjata-paperille"
+    },
+    {
+     "claim": "Hoitotahto (living will): voluntary; applies only when the person cannot decide about care; a refusal of a specific treatment binds professionals and relatives cannot change it; other wishes are not binding but followed where possible; recommended store is Omakanta (Kanta), paper needs own signature and date, oral wish can be recorded in the record; only the maker can change it. Terveyskirjasto article dlk00809, Kustannus Oy Duodecim, updated 22.6.2026. The statutory anchor is 785/1992 6 § (earlier expressed wish) and 8 § (firmly and validly stated wish prevails in urgent care), both read in the act.",
+     "confidence": "verified",
+     "source_url": "https://www.terveyskirjasto.fi/dlk00809"
+    },
+    {
+     "claim": "Euthanasia is not permitted under Finnish law (STM statement via search result; no Finlex provision read that allows it). The 2017 citizens' initiative KAA 2/2017 was rejected by Parliament in plenary on 4.5.2018 (Verkkouutiset same day; Heinonen counter-proposal lost 128-60); parliament asked for a palliative-care working group. The 2024 initiative 'Eutanasialaki säädettävä Suomeen' (KAA 4/2024) was handed in 29.5.2024 with 53,483 statements, sent to the Social Affairs and Health Committee 5.9.2024, committee hearing 11.6.2025; per MTV Uutiset 5.10.2026 the committee had still not finished it and the initiative lapses if not handled in this electoral term. ECHR ruled 18.6.2024 that an ALS patient had no right to assisted death (Edilex listing).",
+     "confidence": "likely",
+     "source_url": "https://www.mtvuutiset.fi/artikkeli/risikko-moittii-kansalaisaloitteen-hidasta-kasittelya-2-5-vuotta-on-liian-pitka-aika/9402176"
+    },
+    {
+     "claim": "Pending proposal related to end of life: STM draft government proposal (consultation 24.2 to 7.4.2026; STM release 25.2.2026) to state in the Health Care Act that palliative care and end-of-life care are the wellbeing services county's responsibility and define them; also change of health centre every three months instead of yearly and monthly waiting-time reporting. Entry into force 1.1.2027 appears in search summaries but not on the release page. Final government bill not found.",
+     "confidence": "verified",
+     "source_url": "https://valtioneuvosto.fi/-/1271139/lausuntopyynto-hyvinvointialueiden-velvoitetta-jarjestaa-palliatiivinen-hoito-ja-saattohoito-ehdotetaan-tasmennettavaksi"
+    },
+    {
+     "claim": "Finlex open data API works with plain curl: https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/{year}/{number} returns consolidated AKN XML (UTF-8; decode as UTF-8, not cp1252) with FRBR dateConsolidated and dateProduced fields. The Finlex human pages (finlex.fi/fi/lainsaadanto/...) return only navigation to WebFetch because they are JavaScript-rendered, so link to them for readers but read via the API.",
+     "confidence": "verified",
+     "source_url": "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/1992/785"
+    }
+   ],
+   "recommendations": [
+    "Link, never type: client fee amounts and the fee ceiling, Kela deductibles and the cap (change yearly), vaccination table ages and vaccines, screening target ages and intervals, abortion week limits as a figure for exam use (state the principle, link the law), number of wellbeing services counties, any pending bill (palliative care, fee changes from 1.3.2027, the euthanasia initiative).",
+    "Stable rules safe in original words: the patient is treated in agreement with them and may refuse a treatment; urgent care is given to avert danger but a clearly expressed earlier wish is respected; a hoitotahto binds only for refusals of named treatments and only when the person cannot decide; organ donation after death rests on presumed consent with a lifelong right to object; euthanasia is not permitted and Parliament has so far not changed that; student health care is organised by the wellbeing services county and free to under 18s; programme vaccines are voluntary and free.",
+    "Abortion topic: use STM release 111/2023 plus Finlex 239/1970 and note that Finlex text still carries old grounds wording while the 2023 reform and 762/2025 (1.1.2026, authority moved to Lupa- ja valvontavirasto) are in force; have a human reviewer check the combined reading before publishing. Present legal facts and the main ethical positions without moralising.",
+    "Euthanasia topic: describe the legal status and the existence of citizens' initiatives, the ECHR 2024 ruling and the palliative care bill as links dated with the read date; no methods; add a help box; state that the initiative status was last seen on 5.10.2026 and may have changed.",
+    "Facts agent for the content stage should re-read these on the build date: eduskunta.fi KAA 4/2024 page (JS-only here, try the eduskunta open API or a browser), THL Finnish vaccination page, Cancer Registry screening pages, ETENE task page, stm.fi/elinluovutus replacement, Fimea classification page, and the full text of Act 762/2025 and 547/2025.",
+    "For Finlex use the opendata API for reading and the finlex.fi/fi/lainsaadanto/{year}/{number} URL for the reader link; record dateConsolidated from the XML as the version date next to the read date."
+   ],
+   "versus_expected": "The brief expected Finlex, THL, STM, Kela, Fimea and ETENE as almost all link-out; that holds, and Finlex proved readable only through the open data API. New against expectation: the abortion act changed again (762/2025, 1.1.2026, authority to Lupa- ja valvontavirasto), the Finlex text of 239/1970 still shows old grounds beside the 2023 reform, the 2024 euthanasia initiative is still stuck in committee, and a palliative-care Health Care Act amendment is pending. Not delivered: official page reads for screening, ETENE tasks, Fimea classification rules and the 2024 initiative outcome, which stay at likely or unverified."
+  },
+  {
+   "key": "epidemiology",
+   "summary": "Epidemiology aspect for TE3: concept definitions have official Finnish sources (Terveyskirjasto/Duodecim for incidence and prevalence; WHO for herd immunity and NCD risk factors; Tilastokeskus for mortality and life expectancy). Live-figure locations were verified for TBE, Lyme, waterborne outbreaks, STIs, cancer, antibiotic resistance and respiratory viruses; pages should link to these and never type the numbers. Several guessed THL URLs returned 404, and the Syöpärekisteri Finnish site returned 403. The English cancerregistry.fi page was read instead. DALY, epidemiological transition, COPD, memory disorders and Finnish NCD burden were not verified from a primary page.",
+   "findings": [
+    {
+     "claim": "Ilmaantuvuus (incidence) = new cases in a population over a period, usually per person-years; distinct from esiintyvyys/vallitsevuus (prevalence = share of cases in a population at a time or period). Terveyskirjasto medical glossary, dated 18.10.2016. No licence stated (copyright Duodecim): link-out only.",
+     "confidence": "verified",
+     "source_url": "https://www.terveyskirjasto.fi/ltt01290"
+    },
+    {
+     "claim": "Terveyskirjasto has a companion glossary entry for vallitsevuus (prevalence). Seen only in search results, page not opened.",
+     "confidence": "likely",
+     "source_url": "https://www.terveyskirjasto.fi/ltt03661"
+    },
+    {
+     "claim": "WHO defines herd immunity as indirect protection when enough of a population is immune through vaccination or earlier infection. WHO says to reach it through vaccination, not by letting disease spread. It cites about 95% for measles and about 80% for polio. Page dated 31 Dec 2020 and no longer updated, so cite it for the concept only.",
+     "confidence": "verified",
+     "source_url": "https://www.who.int/news-room/questions-and-answers/item/herd-immunity-lockdowns-and-covid-19"
+    },
+    {
+     "claim": "WHO NCD fact sheet (updated 25 Sep 2025) names four main NCD groups: cardiovascular diseases, cancers, chronic respiratory diseases and diabetes. Modifiable behavioural risks: tobacco, unhealthy diet, harmful alcohol use, insufficient physical activity. Metabolic risks: raised blood pressure, overweight/obesity, high blood glucose, abnormal lipids. It does not list memory or mental disorders as main groups.",
+     "confidence": "verified",
+     "source_url": "https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases"
+    },
+    {
+     "claim": "Tilastokeskus 'Kuolleet' statistic (updated 24 Apr 2026) holds deaths, infant mortality and life expectancy at birth by sex, 1990-2025, with detail in StatFin. Causes of death are a separate statistic, 'Kuolemansyyt'. Link the statistic instead of typing the figure.",
+     "confidence": "verified",
+     "source_url": "https://stat.fi/tilasto/kuol"
+    },
+    {
+     "claim": "TBE: laboratories report cases to THL's tartuntatautirekisteri. THL runs an interactive municipality-level map of incidence and vaccination areas (raportointi.thl.fi). Vaccination areas are set from a five-year rolling average, with about 15 per 100,000 as the usual threshold. The page itself shows no date.",
+     "confidence": "verified",
+     "source_url": "https://thl.fi/aiheet/infektiotaudit-ja-rokotukset/taudit-ja-taudinaiheuttajat-a-o/puutiaisaivotulehdus/puutiaisaivotulehduksen-esiintyvyys-suomessa"
+    },
+    {
+     "claim": "TBE vaccine page (updated 2 Jul 2026): ticks spread TBE, and unpasteurised milk can too. The free programme vaccine is for people aged 3+ living in listed risk areas, and the list changes yearly. The vaccine does not protect against Lyme borreliosis, which has no vaccine, and does not stop tick bites. Boosters are outside the programme.",
+     "confidence": "verified",
+     "source_url": "https://thl.fi/aiheet/infektiotaudit-ja-rokotukset/rokotteet-a-o/tbe-rokote-eli-punkkirokote"
+    },
+    {
+     "claim": "Lyme borreliosis case counts are in THL's tartuntatautirekisteri statistics database (sampo.thl.fi). Borrelia findings are notifiable microbe findings. The year count has risen since 1995. Seen via search summary only (not opened), so no figures should be copied.",
+     "confidence": "likely",
+     "source_url": "https://sampo.thl.fi/pivot/prod/fi/ttr/cases/fact_ttr_cases"
+    },
+    {
+     "claim": "THL food- and waterborne infections page (updated 30 Sep 2026): suspected outbreaks go to the RYMY register (THL and Ruokavirasto). Norovirus is about a third of outbreaks over 2010-2024 and the cause is unknown in about 36%. Household and bathing-water outbreak counts are listed by year. The page links Ruokavirasto open data and the infectious disease register database.",
+     "confidence": "verified",
+     "source_url": "https://thl.fi/en/data-and-statistics/infectious-diseases/food-and-waterborne-infections"
+    },
+    {
+     "claim": "Most Finnish waterborne outbreaks are caused by norovirus and Campylobacter, usually from contaminated groundwater or small supplies after surface or wastewater gets in. Seen only in a search summary of THL pages. The THL waterborne-outbreaks page and the water-treatment details (disinfection, UV, chlorination) were not read.",
+     "confidence": "likely",
+     "source_url": "https://thl.fi/en/topics/environmental-health/water/waterborne-outbreaks"
+    },
+    {
+     "claim": "STIs: THL sexual and reproductive health statistics page (updated 5 Nov 2026) lists 2025 chlamydia, gonorrhoea and syphilis case figures and links to the STI and chronic viral hepatitis statistics page. A page citing these should link them, not copy them. Chlamydia is reported by laboratories, not by physician notification.",
+     "confidence": "verified",
+     "source_url": "https://thl.fi/fi/tilastot-ja-data/tilastot-aiheittain/seksuaali-ja-lisaantymisterveys"
+    },
+    {
+     "claim": "Measles: THL says herd immunity needs about 95% immune. Two MMR doses are given, at 12 months and 6 years, and are free. THL has noted a fall in second-dose coverage. Protection can be incomplete in people born 1965-1975 and in some born abroad. Seen via search summary of THL pages only.",
+     "confidence": "likely",
+     "source_url": "https://thl.fi/ohjeita-ammattilaisille/mpr-eli-tuhkarokkorokote-sikotauti-ja-vihurirokkorokote"
+    },
+    {
+     "claim": "Syöpärekisteri English statistics page: interactive cancer statistics application (incidence, mortality, survival), screening statistics application, thematic statistics, annual report 'Cancer in Finland 2024', and links to NORDCAN, NordScreen and Globocan. Prevalence is not mentioned. No licence or reuse terms stated. The Finnish site returned 403.",
+     "confidence": "verified",
+     "source_url": "https://cancerregistry.fi/statistics/"
+    },
+    {
+     "claim": "Antibiotic resistance: THL coordinates the FiRe network of 21 clinical microbiology laboratories. The public Finres cube on sampo.thl.fi holds susceptibility results. Ruokavirasto publishes Finres-Vet for animals. Search results only, not opened.",
+     "confidence": "likely",
+     "source_url": "https://sampo.thl.fi/pivot/prod/fi/finres/lite/summary_finres3"
+    },
+    {
+     "claim": "Influenza and COVID-19: THL publishes autumn 2026 COVID vaccination recommendations, flu vaccine advice and wastewater monitoring of influenza, RSV and SARS-CoV-2. Seen in search snippets, no page opened. Link the current THL influenza and coronavirus pages and copy no season figures.",
+     "confidence": "likely",
+     "source_url": "https://thl.fi/-/syksyn-2026-koronarokotussuositukset-on-julkaistu-rokotusta-suositellaan-lahes-samoille-riskiryhmille-kuin-viime-syksyna"
+    },
+    {
+     "claim": "Käypä hoito (Duodecim) is independent evidence-based national clinical guidance with plain-language patient versions. No licence name is visible and copyright is held by Duodecim, so treat it as link-out. Professionals are the main audience, so pages should point students to the patient versions.",
+     "confidence": "verified",
+     "source_url": "https://www.kaypahoito.fi/"
+    },
+    {
+     "claim": "Finnish NCD burden context (type 2 diabetes incidence and prevalence trends, coronary disease as the most common cardiovascular disease, regional differences) appeared only in secondary sources (news and a core.ac.uk THL brief). COPD and memory disorder prevalence figures were not found. These should not be asserted until a THL, Käypä hoito or Muistiliitto page is read.",
+     "confidence": "unverified"
+    },
+    {
+     "claim": "DALY, epidemiological transition, mortality vs morbidity, zoonosis and pandemic: no primary page was read. WHO indicator registry page 158 only returned navigation, so DALY is not defined by a read source.",
+     "confidence": "unverified"
+    }
+   ],
+   "recommendations": [
+    "Link, never type, any case count, incidence or life expectancy: use THL's tartuntatautirekisteri database (sampo.thl.fi), the THL TBE map, THL's food- and waterborne infections page, THL's sexual health statistics page, Syöpärekisteri's interactive application, Tilastokeskus StatFin and the WHO NCD fact sheet. Give each link the date it was read.",
+    "Concept glossary: use Terveyskirjasto for ilmaantuvuus and vallitsevuus and WHO for herd immunity and NCD risk factors, and write the rest (mortality, morbidity, epidemic, pandemic, zoonosis, epidemiological transition) in original words. Read one primary page each for DALY (WHO or IHME GBD), epidemiological transition and zoonosis (THL or Ruokavirasto) first, or label them model-only.",
+    "Read still-missing primary pages before the content workflow: THL waterborne-outbreaks page and water treatment (also STUK/Valvira or Ruokavirasto drinking-water pages), a THL page on Lyme disease, THL COPD and memory-disorder pages or Muistiliitto, THL Kansantaudit or the FinTerveys report, and WHO or THL pages on antibiotic resistance and zoonoses.",
+    "Chart tasks should use fictional numbers invented for the task. State that the data are made up and teach reading the axes, incidence vs prevalence, rate vs count and a population denominator, for example a made-up TBE or chlamydia rate by age band. Do not reuse register figures as the dataset, since they change.",
+    "Disease pages: describe risk factors as population-level and shaped by environment, income and access, with no language that blames individuals. Say that cancer, COPD, diabetes and memory disorders also occur in people with no risk factors. Point to student health care or a doctor for one's own symptoms. Keep the vaccine content evidence-based without false balance, and state that TBE vaccine does not cover Lyme.",
+    "Licence class: Terveyskirjasto, Käypä hoito, Syöpärekisteri and THL pages show no open licence on the pages read, so treat all as link-out. Re-check THL's reuse terms only if text is to be adapted. WHO terms were not read.",
+    "For waterborne and tick-borne exam content, link THL's RYMY-based page and the TBE map instead of copying lists of risk areas, since the area list changes yearly (as of the January 2026 expansion)."
+   ],
+   "versus_expected": "The brief's expectation of THL, Terveyskirjasto, Käypä hoito and WHO as mostly link-out sources holds: no open licence was found on any page read. The expected disease coverage (cardiovascular, T2D, cancers, COPD, memory) is only partly supported. WHO names cardiovascular, cancer, chronic respiratory disease and diabetes, but memory and mental disorders and Finnish prevalence figures lack a verified primary page. Infectious disease sources (TBE, waterborne, STI, measles, antibiotic resistance, respiratory viruses) are well covered by THL pages that can be linked. Several guessed THL URLs returned 404 and many THL pages were seen only as search summaries, so more page reads are needed than the brief assumed."
+  },
+  {
+   "key": "ethics-safety",
+   "summary": "Partial primary reads. Confirmed: ETENE's role and positions (page limited), Sekasin serves ages 12-29 (own page), Mieli Kriisipuhelin 09 2525 0111 is 24h but is a general adult-and-youth service, not youth-specific, and the 2018-2021 euthanasia working group result. Finlex act pages (abortion, patients' rights) returned only navigation, so legal specifics are unverified. THL vaccine page, Mieli suicide page and Duodecim etiikka were not readable. Concrete writer and checker rules below rest partly on model knowledge and are graded accordingly.",
+   "findings": [
+    {
+     "claim": "ETENE is the National Advisory Board on Social Welfare and Health Care Ethics; its English site lists statements (e.g. intersex children 2016, experimental care 2016) and sections 'Duties and members', 'Statements and opinions', 'Publications'. The fetched page gave no end-of-life or principles text, so link the statements and publications pages and read them before citing positions.",
+     "confidence": "verified",
+     "source_url": "https://etene.fi/en/"
+    },
+    {
+     "claim": "Sekasin chat: anonymous, free, for ages 12-29; open daily (weekdays 9-24, weekends 15-24 per page read today); under-16s are pointed to Apuu-chat. Qualifies as a youth help link; hours are changing facts, so link not copy.",
+     "confidence": "verified",
+     "source_url": "https://sekasin.fi/"
+    },
+    {
+     "claim": "MIELI ry Kriisipuhelin 09 2525 0111 is open 24h, anonymous, Finnish only; the page does not say it is youth-specific (it serves people in crisis generally), though Mieli lists peer groups for young people and support for suicidal thoughts. Under the brief's rule (help links only to services whose own pages say they serve young people), use Sekasin as the youth link and Mieli as a general 24h line with that wording, or link only the youth peer-group page after reading it.",
+     "confidence": "verified",
+     "source_url": "https://mieli.fi/fi/tukea-ja-apua/"
+    },
+    {
+     "claim": "Euthanasia in Finland: expert working group (8.5.2018-30.6.2021, report 31.8.2021) was unanimous that palliative and terminal care need developing, proposed amending the Patients' Rights Act, Health Care Act and Health Insurance Act, and did NOT reach a shared view on legalising euthanasia or assisted suicide; it drafted two possible laws and noted a third option of keeping current law. Good balanced anchor: present as 'no shared view' and 'open question', with date.",
+     "confidence": "verified",
+     "source_url": "https://valtioneuvosto.fi/en/-/1271139/expert-working-group-proposes-changes-to-palliative-care-no-shared-view-on-the-legalisation-of-euthanasia"
+    },
+    {
+     "claim": "Search snippets say active euthanasia is prosecutable as homicide under the Criminal Code while forgoing futile treatment (passive form) is accepted; Finnish Medical Association opposes active euthanasia. Only secondary or snippet sources read; confirm on Finlex (Rikoslaki) and the Lääkäriliitto 2024 background document before stating.",
+     "confidence": "likely",
+     "source_url": "https://www.laakariliitto.fi/wp-content/uploads/2025/09/FMA_Euthanasia_Background_Document_2024-1.pdf"
+    },
+    {
+     "claim": "Finlex pages for the Abortion Act 239/1970 and Patients' Rights Act 785/1992 exist and are current consolidated texts, but the fetch returned only navigation, so grounds, week limits, age rules, hoitotahto and sections 6 and 8 are NOT verified here. A fact-checker must read the Finlex text or the THL/STM page on abortion before the week and grounds are written.",
+     "confidence": "unverified",
+     "source_url": "https://www.finlex.fi/fi/lainsaadanto/1970/239"
+    },
+    {
+     "claim": "Ethical-analysis viewpoints, kid-friendly framing from a Finnish lukio health-education handout (Ahola-Launonen, 2018): consequentialism asks how welfare is maximised and harm minimised; rights and duty ethics ask what rights and duties exist; virtue ethics asks what a morally ideal person would do (Aristotelian tradition). A lukio philosophy glossary matches. Tieteen termipankki search did not return definitions for these terms, so do not cite it for them without a direct hit.",
+     "confidence": "likely",
+     "source_url": "https://blogi.eoppimispalvelut.fi/latu/files/2022/03/FI2-moduulin-kasitteet.pdf"
+    },
+    {
+     "claim": "WHO media guidance for suicide reporting (2023 update) stresses stories of coping and recovery, hope, and online/social-media considerations; the specific do/don't list was not on the fetched page (in a PDF). Use as the named safe-messaging basis; checker must open the PDF in WHO IRIS to cite items.",
+     "confidence": "verified",
+     "source_url": "https://www.who.int/publications/i/item/9789240076846"
+    },
+    {
+     "claim": "Duodecim Terveyskirjasto is dated and authored (example page 31.3.2025) and is suitable as a dated link target; the page tested had no ethics content, so Duodecim etiikka as a source was not located.",
+     "confidence": "verified",
+     "source_url": "https://www.terveyskirjasto.fi/dlk00045"
+    }
+   ],
+   "recommendations": [
+    "RULES FOR ALL ETHICS PAGES: (1) Legal facts first, in a box headed 'Mitä laki sanoo', each with Finlex or THL/STM link and date read; (2) then 'Eri näkökulmia': at least two or three positions labelled as positions, each stated in the words its holders would use, with the same length and tone, applied through the viewpoints (consequences, rights, duties, virtues, motives, values, norms); (3) the page never gives the answer and tasks ask students to analyse, not to say which side is right; (4) separate 'is' from 'ought': legal status, medical facts and values never share a sentence; (5) no loaded terms (not 'murha', 'tappaa lapsen', 'designer baby', 'kuolemanapu' as euphemism); use the statutory or clinical term and define it once; (6) no first-person or hypothetical about the student's own life; no task asks 'what would you do', use third-person cases or invented fictional persons (no real named individuals); (7) say 'many people, including believers and non-believers, hold differing views' rather than assigning views to groups; (8) inclusive: fertility treatment text covers single people, same-sex couples and trans people only as the current law allows (verify the Hedelmöityshoitolaki 2006 and its 2023 changes on Finlex before writing), without implying a 'normal' family; abortion text avoids judging reasons or women; use 'raskaana oleva' where the law's group is wider than women.",
+    "CHECKER TESTS (pass/fail): does each ethical page contain a legal-facts block with dated links; at least two distinct positions with symmetric treatment; no sentence that tells the student what to conclude; no emotive vocabulary; no method, dose, route or tool for ending life; help box present on end-of-life page; no real person or case named; every legal figure (weeks, ages) matches the Finlex text read in the same session; every viewpoint (virtue, consequence, rights, duty, motive, value, norm) defined once in own words with a neutral example not drawn from the sensitive topics.",
+    "EUTHANASIA/END-OF-LIFE: teach distinctions (palliative care, terminal care, forgoing treatment, hoitotahto, euthanasia, assisted suicide) as definitions with legal status; anchor the debate in the 2021 working group's 'no shared view' and Parliament's handling of the citizens' initiative (read the eduskunta page before citing); never describe how, with what, or where; no case stories of suicide; no numbers on methods; present palliative care as available and a right to symptom relief (verify the Patients' Rights Act wording); help box always: Sekasin (12-29, own page), Mieli Kriisipuhelin as general 24h line, plus 112 for emergencies and opiskeluterveydenhuolto; add a content note 'Aihe voi herättää tunteita, esimerkiksi läheisen kuolema tai omat ajatukset' and a line that the student can leave the page or talk to a trusted adult.",
+    "SAFETY FLAGS (contract set): euthanasia or end-of-life page = suicide_selfharm (help box mandatory) plus content note; abortion, fertility treatment, STIs, screening in pregnancy, gene technology about reproduction = sexuality; no flag for gene technology generally, prioritisation, patients' rights or vaccines; eating, substances and violence only if the NCD or lifestyle topic mentions them: alcohol/tobacco as risk factors are factual and low-risk but flag substances if the page describes use patterns, and cancer-risk pages that mention diet need no eating flag unless weight, calories or dieting appear (which the rules ban anyway). Content note (not flag) for cancer, memory disorders, grief, miscarriage, infertility, prenatal-screening results, and chronic illness, because students may have personal experience.",
+    "AVOID BLAME IN DISEASE CONTENT: describe risk factors as population-level probabilities, not causes in an individual; say 'riskitekijä' not 'syy'; always add structural and genetic factors (income, work, environment, heredity) beside lifestyle; no 'omaa syytä', 'huonot valinnat', 'laiska'; when discussing lung cancer or COPD do not equate smoking with fault, note never-smokers also get them (check THL/Käypä hoito page when citing); for 'freedom and responsibility in lifestyles' present responsibility as shared among individual, community and policy (Health in All Policies) and explicitly include the critiques of victim blaming; people with disease are named as people with, not 'sufferers' or 'victims'; no weights, BMI cutoffs or calories (project rule).",
+    "VACCINES WITHOUT FALSE BALANCE: state the evidence and the official programme (link THL, read the THL vaccination programme and safety pages, since the safety page URLs tried returned 404; locate the current ones from thl.fi navigation); describe side effects with frequency category from THL, not omitted and not dramatised; explain how safety is monitored; explain herd immunity; treat hesitancy as a communication topic ('miksi tieto ei aina vakuuta', trust, misinformation literacy) not as a 'both sides' debate about whether vaccines work; do not give a debunk-quote that repeats a myth in a vivid form (use 'truth sandwich': fact, brief myth labelled, fact); do not shame the unvaccinated; personal medical decisions go to the student health nurse.",
+    "SCREENING AND GENE TECHNOLOGY: give the screening criteria (benefit, harm, false positives, overdiagnosis) as a neutral framework applied to a fictional case; prenatal screening: legal facts first, voluntary nature (verify in current THL guidance), the viewpoint of disability rights movements and of parents' autonomy both presented, no wording that treats a person with a condition as a 'burden'; gene technology: separate somatic therapy, research, testing and germline editing, give the legal status as read from a primary page (Finlex Geenitekniikkalaki, Laki lääketieteellisestä tutkimuksesta), no 'playing God' framing.",
+    "PRIORITISATION: teach with the Finnish framework (read the ETENE or STM page on prioritisation and the Health Care Act on hoidon tarve and kiireellisyys before citing); show the competing criteria (need, benefit, equality, cost-effectiveness) applied to a fictional case with no real patient and no age or disability ranking presented as correct; state that decisions are made by medical criteria and law, not by social worth.",
+    "SOURCES STILL TO READ BEFORE WRITING: Finlex ajantasa text of 239/1970, 785/1992, 1237/2006 hedelmöityshoitolaki, 1326/1990 / 2012/ geenitekniikkalaki; THL abortion statistics and legal page; THL vaccination programme and safety pages; ETENE statements and publications (esp. end-of-life 2011, prioritisation, patients' rights) with their Finnish pages; eduskunta page on the euthanasia initiative; WHO media guide PDF; Mieli youth peer-support page; Tieteen termipankki via direct search for 'seurausetiikka' etc.; Duodecim Terveyskirjasto on ethics; any Nuorten Exit or Nuorisotalo help only if its own page names young people.",
+    "HELP LINK RULE: before including any service, read its page for the age group; currently verified for youth: Sekasin 12-29. Mieli Kriisipuhelin is general (adult and youth) and must be labelled as such. Always add 112 for acute danger and opiskeluterveydenhuolto / school welfare for the student's own questions."
+   ],
+   "versus_expected": "The brief's expectation (non-moralising, legal-facts-first, safe messaging, a help box, no false balance in vaccines) is confirmed in approach; its list of help services needs a correction, because only Sekasin is verified as a youth service and Mieli's crisis line is general. Verification of the Finlex legal details and the THL vaccine pages fell short, since the fetch returned only navigation or 404, so the rules are graded partly likely or unverified and name the pages to read next. The euthanasia 2021 working-group outcome and the ETENE role are verified."
+  },
+  {
+   "key": "exam",
+   "summary": "TE3 touches 38 of the 81 task rows in the brief-003 mapping (72 tasks; sub-parts split the rows to 81). Those rows are 880 of 1,680 points offered, which is an upper bound. The first number below is the module label; the second is my weighting. TE3-labelled rows are 380 p in the JSON (15 rows); the brief-003 critic moved A26-9 (30 p) to mixed, giving 350 p (21%), the figure in brief 010. My own weighting of the 23 mixed rows gives about 557 p, or 33%, TE3-touching [M]. The 38 rows and their weights are listed in findings. The weights are my judgement from each row's description. The JSON has no TE3 weights, and brief 008's TE2 re-map has none either. Exam coverage is almost all 'not TE1' (no existing topic carried it) and needs a TE3 re-map. Seven formats recur: ethical analysis scored by number of named viewpoints (4/7/10/13 of 15 content points, 5 p deducted if the material is unused); table builds; a 20-item true/false set; multiple choice with penalty; a drop-down cloze; diagram, chart and map reading; and short answers with character limits. YTL's 2024 and 2025 pages confirmed two of those rows each (spot checks below). The 2025 self-care task is a six-part, character-limited task, which the earlier mapping did not record.",
+   "findings": [
+    {
+     "claim": "Row list, part 1 (S=spring, A=autumn; session-task, points, module label, TE3 codes, what it asks, format, my TE3 weight). S23-1, 20 p, TE3, codes s2,s4,t1: order five child-mortality measures (child health clinics, vaccination, antibiotics, hospital network, public health act) and explain each; ordering plus explanation, source 1.A; weight 1.0. S23-6, 20 p, mixed, s4,s10,t2: reasons for regional differences in coronary heart disease prevalence from a map of age-standardised data (age not accepted); causal explanation from a map; weight 0.4. S23-7, 30 p, mixed, s3: health-promotion measures for mental health in environmental crises, climate anxiety; discussion with proposals, text 7.A; weight 0.3. S23-8, 30 p, mixed, s7,s8,s4: ethical analysis of falling ill with an STI from a first-person account (communicable-disease law classes, notification, shame, values, rights, duties, virtues); weight 0.7. A23-5, 20 p, mixed (critic: TE2), s4: concept of health risk from three texts (relative risk, exposure, subjective risk); 5 p deducted if texts unused; weight 0.2. A23-6, 20 p, TE2, s4: why survey data (FinTerveys 2017) and register data differ on obesity, blood pressure and depression; chart analysis; weight 0.2. A23-7, 30 p, TE3, s9,s7,s5,t4: ethical analysis of prioritisation in health care (what, why, levels, values, rights, consequences, motives, duties); no material; weight 1.0.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2023-03-29_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Row list, part 2 (2024). S24-1, 20 p, mixed, s4: 20 true/false items at 1 p each; most are TE2/TE3 (blood pressure, cholesterol, heart disease, diabetes, cancer prevention, vaccines, COPD, tobacco); weight 0.6. S24-2, 20 p, TE3, s4,t2: compare common cold and influenza on five perspectives (definition and cause, prevalence, symptoms, treatment, prevention) in a table pasted as a screenshot; weight 1.0. S24-3, 20 p, TE3, s1: order four disease explanation models (demonic, humoral, miasma, multi-causal) and describe causes and treatment in a table; weight 1.0. S24-8, 30 p, TE3, s7,s8,s9,t4: ethical analysis of biobank activity from video 8.A, several actors' viewpoints; weight 1.0. S24-9.1, 10 p, mixed, s4: draw a line chart of obesity by age group from a statistics table and explain; weight 0.2. S24-9.2, 20 p, mixed, s10,s2: societal measures against obesity organised by WHO's five health-promotion action areas; weight 0.3. A24-1, 20 p, mixed, s10: explain tooth-brushing results from a FinTerveys 2017 table by sex, age, education, region; weight 0.3. A24-3, 20 p, TE3, s4,t2: build a table of transmission route and two prevention methods for five infections (Lyme, HIV, influenza, malaria, salmonella) from given lists; weight 1.0. A24-9, 30 p, mixed, s4,s10: justify why water and its purity matter (fluid balance, contaminated water, hygiene, societal effects of shortage); text only; weight 0.5.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-03-22_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Row list, part 3 (2025). S25-1, 20 p, mixed, s4: name the concept for each of 20 definitions, 1 p each (sexual minorities, contraception, diseases, substances, society and environment); weight 0.4. S25-2, 20 p, TE1, s4: list the health effects of a holiday trip and classify as physical, psychological, social (2 p per correctly classed item); weight 0.15 (infection risk is incidental). S25-3, 20 p, mixed, s4,t2: explain how to strengthen the body's resistance (lifestyle, hygiene, vaccines, antibiotics, age); 2 p per means, 3 p if explained; weight 0.5. S25-4, 20 p, mixed, s6,t2: argue why home tests (tick-borne disease, covid, flu) need health competence, using two pictures of test kits; weight 0.4. S25-5, 20 p, TE3, s10,t4: discuss why health differences between population groups in Finland should be narrowed (cost, services, employment, ethics, social peace, international commitments; content 0-10, information 0-10); weight 1.0. S25-7.2, 20 p, mixed, s10: reduce alcohol use in Finland using WHO's five action areas, given in a table; weight 0.3. S25-9, 30 p, TE3, s7: ethical analysis of AI-produced text, from a 14-year-old's energy-drink question and the AI answer (content 15, information 15); weight 0.7. A25-1, 20 p, mixed, s10,s4,s2: ten multiple-choice items, +2 right, -1 wrong, 0 blank (depression, health belief model, WHO, stroke, tuberculosis, rheumatic disease, 1972 public health act, metabolic syndrome, retrospective study, carcinogens); weight 0.6. A25-3, 20 p, TE1, s4: define lactose-free, milk-free, gluten-free, vegan diets; weight 0.15.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-03-26_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Row list, part 4 (autumn 2025 TE3 rows). A25-2, 20 p, TE3, s6,t3,s5: self-care (itsehoito) and self-management (omahoito). YTL's page shows six parts (4+4+4+2+4+2 p) with limits of 600 characters (definitions) and 1000 characters (benefit/harm parts); weight 0.9. A25-7, 30 p, TE3, s4,s2,t1: name the model in diagram 7.A (2 p) and curves A, B, C (3 p), then analyse mortality, births and population across five stages (25 p: 15 content, 10 information); weight 1.0. A25-8, 30 p, TE3, s8,s7,s10: ethical analysis of abortion at global level from an intro text of WHO figures and law; content 4/7/10/13 for 1/2/3/4 viewpoints, information 0-15; weight 0.9.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Row list, part 5 (2026, grading from the YTL-linked Yle Abitreenit pages; the spring 2026 final PDF and the autumn 2026 criteria could not be read, so autumn 2026 rows rest on the exam description). S26-1.1-1.5, 20 p, mixed, s4,t2: find the error in five statements, 4 p each, 1000 characters each (promotion/prevention as main threat, epidemiology as infectious diseases only, cause of type 1 diabetes, Lyme borreliosis, BMI 30 weight-management definition); weight 0.6. S26-2, 20 p, mixed, s4,t2: three-column table of cancer risk factors with two individual and two societal ways to reduce each, from a text on how cancer develops; weight 0.6. S26-5, 20 p, mixed, s10,t4: socioeconomic position and health inequality from two figures (walking difficulty, years of life lost); weight 0.8. S26-7, 30 p, TE3, t1,s2: explain Health in All Policies and apply it to e-scooter safety from text 7.A; weight 1.0. S26-8, 30 p, mixed, s7,s8: ethical analysis of everyday food choices that affect health; weight 0.6. A26-1, 20 p, TE2, s4: ten multiple-choice items, 2 p each with penalty, on study designs for three text-and-chart sources (alcohol, e-cigarettes, type 2 diabetes prevention); weight 0.15. A26-2, 20 p, TE3, s4,s2,t2: ten drop-down blanks with penalty in a text on infectious disease (pathogens, outbreaks, epidemiological transition, immunity, vaccines, autoimmune disease); weight 1.0. A26-7, 30 p, mixed (critic: TE2), s2: how working-life change since 1950 affects work ability, from a video; weight 0.15. A26-8, 30 p, TE3, s5,t3: justify how forms of social support help a family with children in a hard situation, from text 8.A; weight 1.0. A26-9, 30 p, mixed (critic corrected from TE3), s3,s4,t2: how projected cancer-cost growth could be influenced, structured by WHO action areas, from a cost table 9.A and an age chart 9.B; weight 0.6.",
+     "confidence": "likely",
+     "source_url": "https://yle.fi/plus/abitreenit/2026/kevat/terveystieto/index.html"
+    },
+    {
+     "claim": "Points arithmetic. All 81 rows are 1,680 p. Rows with any TE3 code: 38 rows, 880 p (upper bound). By the JSON module label: TE3 380 p (15 rows), mixed 550 p, TE1 455 p, TE2 295 p. After the critic's four corrections TE3-only is 350 p (21%), the figure in brief 010 and brief 008. My weighted TE3 share over the 38 rows is about 557 p (33%), judged. The two TE2 re-map JSON/MD files have no TE3 weights, and the TE2 rows that belong to TE3 are noted in the areas below. TE3-only points per session (JSON labels): S23 20, A23 30, S24 70, A24 20, S25 50, A25 80, S26 30, A26 80.",
+     "confidence": "likely",
+     "source_url": "docs\\research\\2026-11-21-exam-cross-check.json"
+    },
+    {
+     "claim": "Area 1, explanation models of disease and public-health history (s1, s2, t1; rows S23-1, S24-3, A25-1 item on the 1972 public health act, S26-7 history of HiAP). Carry: the four models in chronological order (demonic, humoral, miasma, multi-causal), each with its view of cause and of treatment (2 p each per model); the five child-mortality measures in order with the reason each worked (neuvola, vaccination, antibiotics, hospital network, public health act of 1972); what HiAP is and when it arose. Formats: ordering plus table, ordering plus explanation, multiple-choice item. About 80 p [M].",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Area 2, epidemiological and demographic transition (s2, s4, t1; rows A25-7, A26-2 items, A25-1 and S26-1.2 on epidemiology). Carry: the model's name (epidemiologinen siirtymä, demografinen siirtymä or transitio), five stages with mortality, birth rate and population per stage, and causes (nutrition, sanitation, vaccines, family planning, chronic disease, ageing, shrinking population). The 3-curve diagram format needs reading practice, with each curve named. About 60-70 p [M].",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Area 3, non-communicable diseases and cancer (s4, t2; rows S23-6, S24-1, A25-1, S26-1, S26-2, A26-9, A23-6, A26-1). Carry: heart disease, stroke, type 2 and type 1 diabetes (cause), metabolic syndrome, COPD (tobacco), rheumatic disease, memory disorders, cancers; carcinogens; risk factors against incidence and prevalence, with age-standardised data (age is not an accepted cause on a standardised map); a three-column table of risk factors with two individual and two societal preventions each (screening, tobacco policy); survey versus register data; cancer-cost projection read with WHO action areas. Formats: map reading, table build, true/false items, chart plus cost table. About 130-150 p [M].",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Area 4, infectious diseases (s4, t2; rows S24-2, A24-3, A26-2, S25-3, S25-4, S26-1.2-1.4, A24-9, A25-1 tuberculosis item, S25-2 travel). Carry: pathogens, outbreaks, immunity, vaccines and herd immunity, autoimmune disease; common cold against influenza on five perspectives; transmission routes and two prevention methods each for Lyme (ticks), HIV, influenza, malaria, salmonella (food- and waterborne); water contamination, hygiene and shortage; strengthening resistance (hygiene, vaccines, antibiotics); home tests (tick-borne disease, covid, flu) and health competence. Formats: table from lists, drop-down cloze, error finding with 1000-character answers. About 120-130 p [M].",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Area 5, social and health services, self-care (s5, s6, t3; rows A26-8, A25-2, S25-4). Carry: forms of social support for a family with children in a hard situation applied to a case text; itsehoito against omahoito with examples, goals, individual and societal benefits and harms (itsehoito may widen inequality; omahoito may ease service load but cost more if badly done), written within 600 and 1000 characters. Service-choice case: who to go to for which situation. About 60 p [M].",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Area 6, ethical analysis, ethical and legal questions, prioritisation (s7, s8, s9, t4; rows A23-7, S24-8, S25-9, A25-8, S26-8, S23-8). Carry: the viewpoints (values, virtues, consequences, rights, duties, motives, norms) and the actors (donor, health care, society, global level, organiser). Scoring is by the number of viewpoints named and applied (4/7/10/13 of 15 content points); information processing is 15 p; 5 p is deducted when the supplied material is not used. Cases seen: prioritisation, biobank (video), AI-written health text, abortion (global; legal background: Finnish law allows abortion without grounds to week 12, per the YTL rubric), everyday food choices, STI with communicable-disease law. For abortion the rubric names unsafe abortion (WHO about 25 million a year) and when an embryo becomes a human. This area is about 160-180 p, the largest single block [M].",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-03-22_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Area 7, health inequality, Health in All Policies, WHO action areas (s3, s10, t1, t4; rows S25-5, S26-5, S26-7, A24-1, S24-9.2, S25-7.2, A26-9, S23-7, S23-6). Carry: inequality by sex, age, education, socioeconomic position, language and minority; years of life lost; arguments for narrowing gaps (cost, services, employment, ethics, social peace, international commitments); HiAP applied to a given text; the five WHO action areas as a frame (given in a table in S25-7.2, not given in S24-9.2 or A26-9); climate anxiety; chart drawing from a table (S24-9.1). Formats: two-figure reading, table by group, chart drawing, framework application. About 130-150 p [M].",
+     "confidence": "likely"
+    },
+    {
+     "claim": "Spot check 1, spring 2024 task 3 and task 8, YTL grading page: task 3 is 20 p, a table (template 3.A) pasted as a screenshot, answers not in table form capped at 10 p, 5 p per model (1 for order, 2 for causes, 2 for treatment), models monietiologinen teoria, miasmateoria, demonologinen selitysmalli, humoraalioppi. Task 8 is 30 p, biobank with video 8.A, content 0-15 by number of viewpoints, information processing 0-15, 5 p deducted if the source is not used. Both match the row list. Quote: 'Answers not in table form are capped at 10 points' is a paraphrase of the page's statement, not a verbatim quote.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-03-22_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Spot check 2, autumn 2025 tasks 7, 2 and 8, YTL grading page: task 7 is 30 p (7.1: 2 p, 7.2: 3 p, 7.3: 25 p with 15 content and 10 information), matches the row. Task 2 matches in topic and points but the page shows six sub-parts with 600/1000-character limits, which the brief-003 row did not carry. Task 8 matches (content 4/7/10/13, information 0-15). The brief-003 row for autumn 2025 task 2 should gain the format 'six sub-parts, 600/1000 characters'.",
+     "confidence": "verified",
+     "source_url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html"
+    },
+    {
+     "claim": "Format list TE3 must practise: ordering plus explanation (S23-1); comparison table built from given lists (S24-2, A24-3, S26-2); disease-model table with a 10 p cap when not tabular (S24-3); 20-item true/false (S24-1) and name-the-concept (S25-1); multiple choice with +2/-1/0 marking (A25-1) and drop-down cloze with penalty (A26-2); error finding with character limits (S26-1); six-part short answers with 600/1000-character limits (A25-2); diagram reading with named curves (A25-7); two-figure reading (S26-5); map reading (S23-6); statistics table and chart drawing (A24-1, S24-9.1); ethical analysis with 4/7/10/13 viewpoint scoring and the 5 p source deduction (A23-7, S24-8, S25-9, A25-8, S26-8); video (S24-8) and image (S25-4) material described in text; case application (A26-8, S26-7).",
+     "confidence": "likely"
+    }
+   ],
+   "recommendations": [
+    "Re-map against the 38 rows (880 p) listed in findings, using the weights as a starting point and the critic-corrected module labels (A26-9 mixed; A23-5 and A26-7 TE2). Treat the 15 TE3-only rows (350 p) as the full-coverage test, and the mixed rows by weight.",
+    "Give the ethical-analysis topics the most room. They carry about 160-180 p across six sessions. Teach the seven viewpoints (values, virtues, consequences, rights, duties, motives, norms) and the actors. Model answers must name at least four viewpoints, use the supplied material, and be split into content and information-processing halves. Cases: prioritisation, biobank, AI health text, abortion (with the legal facts and unsafe-abortion context), food choices, STI notification. Abortion and euthanasia stay non-moralising and safe-messaging compliant.",
+    "Make the epidemiological-transition topic a diagram task with five stages and three named curves, and a table of causes per stage (nutrition, sanitation, vaccines, family planning, chronic disease, ageing).",
+    "The disease topics should carry a fact table (cause, transmission, prevention) for Lyme/tick-borne, HIV and other STIs, influenza, malaria, salmonella and waterborne infection, plus cold against influenza, with exam tasks that build the table from given lists. Include type 1 against type 2 diabetes, metabolic syndrome, COPD, stroke, rheumatic disease, tuberculosis and carcinogens as concepts. Include water contamination, hygiene and global shortage (A24-9) and bone health.",
+    "The inequality topic needs real figure-reading tasks: two charts by socioeconomic group, an age-standardised map, a table by sex/age/education. State that age is not an accepted explanation for a standardised regional map. Teach the arguments for narrowing gaps, HiAP history and application, and the five WHO action areas as a given frame.",
+    "Add 20-item true/false and name-the-concept sets, a +2/-1/0 multiple-choice set, a drop-down cloze, and an error-finding set with the 1000-character limit, plus the 600/1000-character itsehoito/omahoito task, so every exam format has a TE3 practice task.",
+    "Re-read YTL's autumn 2023 and spring 2026 final criteria (not read here) before the re-map, and read the autumn 2026 criteria when YTL publishes them. Correct the A25-2 row to the six-part format."
+   ],
+   "versus_expected": "The brief's expectation that TE3-only tasks are about 21% of points is confirmed at 350 p (critic-corrected) and 380 p on raw labels. The brief's list of required content (cancer risk factors, COPD, incidence and prevalence, waterborne and tick-borne disease, inequality figure reading, HiAP history, ethical viewpoints, self-care and services) matches the rows. New findings: the TE3-touching share is higher than 21% once mixed rows are weighted (about 33%, 38 rows, 557 p [M]). The ethical-analysis block is the largest single area (6 rows, about 170 p). The exam scores ethical analysis by viewpoint count, with a 5 p source deduction. Brief 003's A25-2 row lacked the six-part, character-limited format. Only 2 pages were fully spot-checked: the autumn 2023 and spring 2026 final criteria and the autumn 2026 criteria were not read.",
+   "could_not_read": [
+    "ylioppilastutkinto.fi pages for the exam text: the grading pages at tiedostot.ylioppilastutkinto.fi were read instead, and no exam papers or attachments were read.",
+    "Spring 2026 final criteria PDF and autumn 2026 criteria: unreadable or not found in brief 003; I did not retry.",
+    "Autumn 2023 final criteria (9.11.2023) not opened separately."
+   ],
+   "sources_or_tools": [
+    {
+     "name": "YTL grading instructions, spring 2024",
+     "what": "Terveystieto exam grading page, tasks 3 and 8 checked",
+     "url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-03-22_TE_fi/grading-instructions.html",
+     "access": "open page",
+     "licence": "YTL, all rights reserved (link-out only)"
+    },
+    {
+     "name": "YTL grading instructions, autumn 2025",
+     "what": "Terveystieto exam grading page, tasks 2, 7 and 8 checked",
+     "url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html",
+     "access": "open page",
+     "licence": "YTL, all rights reserved (link-out only)"
+    },
+    {
+     "name": "Project mapping files",
+     "what": "Brief 003 mapping and brief 008 TE2 re-map",
+     "url": "docs\\research\\2026-11-21-exam-cross-check.json",
+     "access": "local file",
+     "licence": "project"
+    }
+   ]
+  }
+ ],
+ "critic": {
+  "gaps": [
+   "COVERAGE GAP (brief 010 names it, critic list omits it): brief 009's partial TE2 rows that belong in TE3 (measuring functional capacity, bone health as a disease-prevention case, water treatment) are not in the curriculum researcher's 10-topic list. Proposal below adds bone health and functional capacity to TE3.03 and water treatment to TE3.04. No researcher read a primary page on osteoporosis, functional capacity (TOIMIA, Työkykytalo) or water treatment (only the THL food- and waterborne page). All three are unverified until a page is read.",
+   "UNVERIFIED, exam-load-bearing: no primary page was read for memory disorders, COPD prevalence, Finnish NCD burden, DALY, the epidemiological transition (as a concept page), zoonosis, cancer incidence or risk factors (the Finnish Syöpärekisteri site returned 403; only the English cancerregistry.fi statistics page was read), or the screening programmes (ages conflict: breast 50-69 vs 50-68, cervical age range differs). The epidemiological transition alone carries 30 p (A25-7), so TE3.02 needs one read source for it, or the concept must be written in original words and graded M.",
+   "UNVERIFIED: euthanasia legal status. 'Not permitted' and 'prosecutable as homicide' rest on search snippets and a Lääkäriliitto PDF that was not read. The ETENE 2017 statement PDF was unreadable. The 2021 working group's 'no shared view' is verified (spot-checked). Status of citizens' initiative KAA 4/2024 is from a news item (MTV 5.10.2026); the eduskunta page could not be read.",
+   "CONTRADICTION, abortion law text: the facts-laws researcher says the Finlex consolidated 239/1970 (dated 2025-06-27) still shows the old grounds wording, although STM release 111/2023 confirms the 12-week on-request rule from 1.9.2023 (spot-checked) and act 762/2025 (in force 1.1.2026, decisions moved to Lupa- ja valvontavirasto) is in force. The likely cause is a misread or a stale consolidation, but this is unresolved. A human reviewer must read the current Finlex text before grounds or week limits other than the 12-week rule are written.",
+   "CONTRADICTION: MIELI Kriisipuhelin language. The ethics-safety researcher says Finnish only. The project's existing data/yearly-facts.yaml key 'kriisipuhelimet' says Finnish and Swedish (read 2026-11-21, page edited 21.10.2026). The earlier read is in a committed file. Keep the existing key and do not restate the languages.",
+   "CONTRADICTION (minor): Kela initial deductible given as 70 euros (materials, plain-language page) and as 70.33 euros (facts-laws, Kela apteekkitiedote). Both are changing figures and must be links only (key kela_laakekorvaukset).",
+   "CONFLICT WITH PROJECT RULE: exam row S26-1.5 (BMI 30 in a weight-management definition) and S24-9.1/S24-9.2, S23-6 (obesity charts) touch weight. CLAUDE.md bans numbers that invite comparison (weights, BMI cutoffs). TE3 practice tasks should use fictional non-weight data (for example a made-up TBE or chlamydia rate). The re-mapper should grade those rows as covered by format and concept, not by copying BMI content.",
+   "HELP-LINK RULE (brief 010: own page must say it serves young people): verified on own pages are Sekasin (12-29, spot-checked), MLL Lasten ja nuorten puhelin 116 111 (under 25, spot-checked), the Mielenterveystalo grief page and the Mielenterveystalo Nuoret page. Nuorten Kriisipiste and Nuorten turvatalo were seen only in the Red Cross list, not on their own pages, so they do not yet qualify. No own-page youth service was verified for sexual health beyond the Seta page (sexual and gender minority youth) and Väestöliitto's youth page (young people, no age range stated). MIELI Kriisipuhelin is a general line and must be labelled as such.",
+   "FACTS-LAWS researcher omitted 785/1992 7 §, the minor patient's position: a minor able to decide by age and development is treated in agreement with them. I read it in the Finlex XML. It belongs in TE3.09 beside 9 §.",
+   "EXAM MAPPING: the autumn 2023 final criteria, the spring 2026 final criteria and all autumn 2026 criteria were not read. The 2026 rows rest on Yle Abitreenit pages and the exam text. Weights (about 557 p, 33%) are the researcher's judgement [M]. The A25-2 row in the brief 003 JSON lacks the six-part, 600/1000-character format (confirmed on the YTL page).",
+   "MATERIALS: no page was found with an open licence (CC BY or CC BY-SA). THL, WHO and Finlex reuse-terms pages were not opened, so the 'link-out' class for them is a safe default, not a verified fact. Still to read before the inventory is complete: a cancer page, a screening page, a plain-language patients' rights page (potilasasiamies or Terveyskirjasto), an STI statistics page that opens (the THL sexual health statistics page was read by the epidemiology researcher and can serve), the THL waterborne-outbreak page and the ETENE ethical principles document (13.3.2026).",
+   "Several URLs in the materials output came from search snippets, not page reads (WHO history page, FINRISKI, North Karelia 1972 start, the 80% mortality fall, HiAP 2006 EU Presidency). None of them may appear in the link inventory or as stated facts.",
+   "Brief 010 expected answer 4 (at least 60% full coverage on the re-map) cannot be tested at research stage. It is a check for the re-mapper."
+  ],
+  "spot_checks": [
+   {
+    "claim": "Sekasin chat serves ages 12-29 and points under-16s to Apuu-chat (help-link rule)",
+    "result": "verified: the page states 'Anonyymi ja ilmainen chat 12–29-vuotiaille' and has a banner for under-16s pointing to Apuu-chat",
+    "url": "https://sekasin.fi/"
+   },
+   {
+    "claim": "MLL Lasten ja nuorten puhelin 116 111 is for all under-25s, free and anonymous, page updated 23.9.2026",
+    "result": "verified: the page says it is for all under-25s, free and nameless, updated 23.9.2026",
+    "url": "https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/"
+   },
+   {
+    "claim": "Abortion on the pregnant person's request alone up to the end of week 12 since 1.9.2023 (STM release 111/2023)",
+    "result": "verified: release 111/2023 dated 1.9.2023 states the rule and the effective date. This does not settle the Finlex consolidated-text contradiction.",
+    "url": "https://valtioneuvosto.fi/-/1271139/aborttilain-muutokset-tulevat-voimaan"
+   },
+   {
+    "claim": "YTL autumn 2025: task 2 self-care/own care in six parts with 600/1000-character limits; task 7 epidemiological transition, 2+3+25 p; task 8 abortion ethics scored 4/7/10/13 by viewpoints",
+    "result": "verified: task 2 is 4+4+4+2+4+2 = 20 p, 2.1-2.2 at most 600 characters, 2.3-2.6 at most 1000 characters. Task 7: 7.1 2 p (demographic transition also accepted), 7.2 3 p (A mortality, B birth rate, C population), 7.3 content 15 p (one point per curve per phase) plus 10 p information processing. Task 8: content 4/7/10/13 for 1-4 viewpoints, information processing 0-15.",
+    "url": "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html"
+   },
+   {
+    "claim": "The 2018-2021 expert working group did not reach a shared view on legalising euthanasia",
+    "result": "verified: no unanimous view; it drafted two possible bills and a third option of keeping current law; term 8.5.2018-30.6.2021, release 31.8.2021",
+    "url": "https://valtioneuvosto.fi/en/-/1271139/expert-working-group-proposes-changes-to-palliative-care-no-shared-view-on-the-legalisation-of-euthanasia"
+   },
+   {
+    "claim": "The Finlex open data API returns consolidated XML for 785/1992 dated 2023-04-14, including the minor-patient rules",
+    "result": "verified with curl: HTTP 200, 244 KB, dateConsolidated 2023-04-14, dateProduced 2026-10-15. 7 § (minor able to decide is treated in agreement with them) and the 9 § right of such a minor to forbid disclosure to the guardian were both read.",
+    "url": "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/1992/785"
+   }
+  ],
+  "versus_expected": [
+   {
+    "aspect": "1. About ten topics (list of ten areas)",
+    "verdict": "refined",
+    "note": "Ten topics confirmed, mapping almost one to one. Refinements: euthanasia moves from the ethical-questions topic to a topic with lifestyle freedom, patients' rights and prioritisation (09). Future health challenges join inequality (10). Bone health, functional capacity and water treatment (brief 009 carry-overs) must be added to 03 and 04."
+   },
+   {
+    "aspect": "1a. Epidemiological transition sits with history (topic 2)",
+    "verdict": "refined",
+    "note": "It stays in 02, but it is a 30 p exam task (A25-7: five phases, three named curves), so 02 needs a diagram-reading task as its centrepiece. Disease detail stays in 03 and 04."
+   },
+   {
+    "aspect": "1b. Non-communicable diseases incl. memory disorders, incidence and prevalence",
+    "verdict": "refined",
+    "note": "Incidence and prevalence are verified (Terveyskirjasto). WHO's four main NCD groups do not include memory disorders, and no Finnish prevalence page for memory disorders or COPD was read, so those parts stay link-to-be-found."
+   },
+   {
+    "aspect": "2. Links: THL, Terveyskirjasto, Käypä hoito, STM, Finlex, ETENE, Kela, Fimea, WHO; almost all link-out",
+    "verdict": "right",
+    "note": "All appear, and every page read is link-out (no open licence seen). Additions: Palko, Tilastokeskus, cancerregistry.fi, Valtioneuvosto releases. Finlex is readable only through the open data API."
+   },
+   {
+    "aspect": "3a. Euthanasia: safe messaging, no methods, help box",
+    "verdict": "right",
+    "note": "Confirmed. Anchor the debate on the verified 2021 'no shared view'. The help box uses Sekasin (12-29) and 116 111 (under 25), both verified, plus MIELI labelled general, 112 and student health care."
+   },
+   {
+    "aspect": "3b. Abortion and fertility treatment: inclusive, non-moralising, legal facts plus positions",
+    "verdict": "refined",
+    "note": "Approach confirmed. Legal facts need care: the 12-week rule is verified, the Finlex text may be stale against the 2023 and 762/2025 changes, and the 547/2025 fertility amendment was not read. Inclusive wording may only state what the current law allows."
+   },
+   {
+    "aspect": "3c. Disease pages not medical advice, no blame",
+    "verdict": "right",
+    "note": "Confirmed. Assessment guidance (subject level) excludes the student's own values and behaviour. Use 'riskitekijä' with structural and genetic factors, and say people without risk factors also fall ill."
+   },
+   {
+    "aspect": "3d. Vaccines without false balance",
+    "verdict": "right",
+    "note": "Confirmed: THL programme (voluntary, free) and WHO herd immunity concept verified. Treat hesitancy as a communication topic. TBE vaccine does not protect against Lyme (THL, verified)."
+   },
+   {
+    "aspect": "4a. Exam: TE3-only about 21% of points",
+    "verdict": "right",
+    "note": "350 p critic-corrected (380 p raw labels) of 1,680 p. TE3-touching rows: 38 rows, 880 p upper bound, about 557 p (33%) weighted [M]."
+   },
+   {
+    "aspect": "4b. TE3 suits ethical analysis, research-plan, chart-reading and service-choice tasks",
+    "verdict": "refined",
+    "note": "Ethical analysis is the largest block (about 170 p, 4/7/10/13 viewpoint scoring, 5 p deducted if the material is unused). No TE3 row is a research-plan task; the TE3 formats are tables built from lists, model-ordering tables, diagram and figure reading, cloze and multiple choice with penalty, error finding with character limits, and six-part short answers."
+   },
+   {
+    "aspect": "4c. Re-map at least 60% full and none at 0% on first pass",
+    "verdict": "refined",
+    "note": "Not testable now. Feasible only if every row in the list below is assigned to a topic (done in the proposal) and the BMI/obesity rows are covered by concept and format under the no-weights rule."
+   }
+  ],
+  "proposal": [
+   {
+    "task": "1",
+    "title": "TE3 topic list (order 21-30)",
+    "detail": "Front-matter ids follow te2 pattern: te3-NN-slug, module TE3. Every code covered: s1->21; s2->22; s3->22,30; s4->22,23,24; s5->25; s6->26; s7->27; s8->28,29; s9->29; s10->30; t1->21,22,30; t2->23,24,26; t3->25,26,29; t4->27,28,29,30.\n\n21 | te3-01-terveyskasitykset-ja-selitysmallit | 'Terveyskäsitykset ja sairauksien selitysmallit historiassa' | TE3.s1, TE3.t1 | Scope: lay and scientific health concepts (biomedical, biopsychosocial, salutogenic); disease explanation models in order (demonic, humoral, miasma, germ theory, multi-causal/risk factor), each with view of cause and treatment. | Link, do not repeat: TE1.01 (WHO definition, dimensions), TE1.03 (medikalisaatio, uskomushoidot). | flags [] | Exam: S24-3 (model-ordering table, 10 p cap if not tabular), A25-1 items.\n\n22 | te3-02-vaeston-terveyden-muutos | 'Miten yhteiskunta, tiede ja teknologia ovat muuttaneet väestön terveyttä' | TE3.s2, TE3.s4 (transition), TE3.s3 (part), TE3.t1 | Scope: epidemiological/demographic transition (5 phases, curves mortality-birth rate-population), hygiene, sanitation, vaccines, antibiotics, neuvola and kansanterveyslaki 1972, North Karelia project, welfare state, Health in All Policies as policy history (Helsinki 2013). | Link: TE2.06 (HiAP defined, exam task), TE1.01 (determinants). | flags [] | Exam: A25-7 (30 p diagram), S23-1 (order child-mortality measures), S26-7 (HiAP applied to e-scooters), A26-2 transition items, A25-1 1972 act item, S26-1.2 (epidemiology not only infections).\n\n23 | te3-03-tarttumattomat-taudit | 'Tarttumattomat kansantaudit: riskitekijät, ilmaantuvuus ja ehkäisy' | TE3.s4, TE3.t2 | Scope: CVD (coronary disease, stroke), type 2 vs type 1 diabetes, metabolic syndrome, cancers and carcinogens, COPD, rheumatic disease, memory disorders, bone health (osteoporosis) as a prevention case, measuring functional capacity; incidence vs prevalence, age-standardisation (age is not an answer on a standardised map), survey vs register data, prevention levels incl. screening (link 28), individual vs societal prevention. | Link: TE1.04-05 (nutrition, activity, sleep), TE2.10 (tobacco, alcohol, COPD, carcinogen classes), TE2.04 (radon), TE2.01-02 (risk, evidence). | flags [] | content_note: cancer, memory disorders and long-term illness may touch students' own lives; no blame; no weights or BMI. | Exam: S23-6, S24-1 (20 T/F), S26-1 (error finding, 1000 chars), S26-2 (3-column cancer table), A26-9 (cost table, WHO action areas; shared with 30), A23-6, A26-1 (light), A25-1, S24-9.1 (chart drawing; use non-weight data).\n\n24 | te3-04-tartuntataudit-ja-rokotukset | 'Tartuntataudit, rokotukset ja mikrobilääkeresistenssi' | TE3.s4, TE3.t2 | Scope: pathogens, transmission routes, outbreak vs epidemic vs pandemic, zoonosis, immunity, vaccines and herd immunity, national vaccination programme, autoimmune disease (concept), common cold vs influenza (5 perspectives), table of Lyme/TBE, HIV and other STIs (link back), influenza, malaria, salmonella, norovirus/Campylobacter waterborne; water treatment, contamination and global shortage; antibiotic resistance and correct use; home tests. | Link: TE1.06 (STI notification classes; says 'deepened in TE3', so deepen epidemiology, not classes), TE2.05 (vaccination and sleep). | flags [sexuality] only if STI section goes beyond a link to TE1.06, otherwise [] | Exam: S24-2, A24-3, A26-2 (drop-down cloze with penalty), S25-3, S25-4 (shared 26), A24-9, S26-1.3-1.4, S25-2 (light), S23-8 (law part).\n\n25 | te3-05-sosiaali-ja-terveyspalvelut | 'Sosiaali- ja terveyspalvelut: järjestäminen, tuottaminen ja käyttäminen' | TE3.s5, TE3.t3 | Scope: wellbeing services counties (21 + Helsinki + HUS), public/private/third sector, Kela, client fees and fee ceiling (links), student health care, who to go to in which situation, social support forms for families, critique (regional differences per 2025 interim evaluation). | Link: TE1.01, TE1.10 (student health care named). | flags [] | Exam: A26-8 (30 p social support case), S25-4 (part), A25-2 societal parts.\n\n26 | te3-06-itsehoito-omahoito-ja-laakkeet | 'Itsehoito, omahoito ja lääkkeet' | TE3.s6, TE3.t3, TE3.t2 | Scope: itsehoito vs omahoito (definition, example, goal), individual and societal benefits and harms (inequality, service load), self-care medicines vs prescription (Fimea status, 'Itsehoitolääke' label, pharmacy counselling), reliable medicine information, Kela reimbursement (link), home tests and health literacy, when to seek care. No medical advice. | Link: TE2.01-03 (information literacy, communication). | flags [] | Exam: A25-2 (six parts, 600/1000 characters), S25-4.\n\n27 | te3-07-eettisen-analyysin-nakokulmat | 'Eettisen analyysin näkökulmat' | TE3.s7, TE3.t4 | Scope: values, norms, virtues, consequences, rights, duties, motives, each defined once in original words with a neutral everyday example; actors (individual, professional, organisation, society, global); how the exam scores (4/7/10/13 by viewpoints, info processing 15, 5 p deducted if material unused); worked fictional cases (AI health text, everyday food choices). | Link: none required; points forward to 28-30. | flags [] | Exam: A23-7, S24-8, S25-9, S26-8, S23-8 (framework rows).\n\n28 | te3-08-hedelmoityshoidot-abortti-seulonnat-geenit | 'Eettiset ja oikeudelliset kysymykset: hedelmöityshoidot, raskaudenkeskeytys, seulonnat ja geeniteknologia' | TE3.s8 (part), TE3.t4 | Scope: per issue a 'Mitä laki sanoo' block (1237/2006, 239/1970 + 2023 reform + 762/2025, screening programmes as links, gene testing and biobanks, ETENE 2026 genetic information statement) then 2-3 symmetric positions through the viewpoints; screening criteria (benefit, harm, false positives, overdiagnosis); global unsafe abortion (WHO) for A25-8. | Link: TE1.06 (contraception), TE1.07 (rights, consent). | flags [sexuality] | content_note: infertility, miscarriage, abortion and prenatal screening results may be personal; nobody needs to share; tasks are on fictional cases. | Exam: A25-8 (30 p, global abortion ethics), S24-8 (biobank), S26-2 (screening as prevention), S23-8.\n\n29 | te3-09-elaman-loppu-potilaan-oikeudet-priorisointi | 'Elämän loppu, elintapojen vapaus ja vastuu, potilaan oikeudet ja priorisointi' | TE3.s8 (part), TE3.s9, TE3.t4, TE3.t3 | Scope: definitions with legal status (palliative care, terminal care, forgoing futile treatment, hoitotahto, organ donation presumed consent, euthanasia, assisted suicide), 2021 working group 'no shared view', initiative status as dated link; freedom and responsibility in lifestyles with victim-blaming critique and shared responsibility; ETENE principles 2026; 785/1992 (6, 7, 8, 9, 10 §); prioritisation (Palko: need, benefit, equality, cost-effectiveness) on a fictional case. If over 460 lines split into 29a end of life + lifestyle and 29b patients' rights + prioritisation (11 topics). | Link: TE2.06 (HiAP for shared responsibility). | flags [suicide_selfharm] | content_note: death of a loved one or one's own thoughts may come up; the student can leave the page or talk to a trusted adult; help at the end. | Exam: A23-7 (30 p prioritisation), S26-8 (food choices, freedom), S25-9 (part).\n\n30 | te3-10-terveyden-eriarvoisuus-ja-tulevaisuus | 'Terveyden eriarvoisuus Suomessa ja maailmalla sekä tulevaisuuden haasteet' | TE3.s10, TE3.s3, TE3.t4, TE3.t1 | Scope: inequality by sex, age, education, income, region, language, minority; reading figures (two-figure, age-standardised map, table by group, years of life lost); why and how to narrow gaps (cost, services, employment, ethics, social peace, international commitments); WHO five action areas as frame; global health (WHO SDH, SDGs, child mortality gap); future challenges (ageing, AMR, climate and climate anxiety, pandemics, digitalisation, genomics, AI, trust). | Link: TE1.01, TE2.04 (eriarvoisuus defined), TE2.06 (HiAP, sustainability). | flags [] | Exam: S25-5, S26-5, A24-1, S24-9.2, S25-7.2, A26-9, S23-7, S23-6 (shared with 23), S26-7 (shared with 22).",
+    "sources": [
+     "https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki",
+     "prompts\\010-te3.md",
+     "data\\curriculum-te1-te3.yaml",
+     "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html"
+    ]
+   },
+   {
+    "task": "2",
+    "title": "Link inventory per topic (only pages a researcher opened; read 2026-11-21; all link-out unless stated)",
+    "detail": "Format: title | url | publisher | licence_class | audience (as page states) | page date.\n\n21: Mitä terveys on? | https://www.terveyskirjasto.fi/dlk00903 | Duodecim (Terveyskirjasto) | link-out | general readers | 16.08.2024. Terveystiedon LOPS 2019 -tukimateriaali (teacher) | https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali | Opetushallitus | link-out | lukio teachers | undated. [No source on explanation models was read: gap.]\n\n22: Projektien mies koko sydämellä (North Karelia) | https://sydan.fi/artikkeli/projektien-mies-koko-sydamella/ | Sydänliitto | link-out (all rights reserved) | general readers | 12.3.2015, upd. 10.9.2018. Suomi näyttää esimerkkiä terveyden viemisessä poliittiseen päätöksentekoon | https://stm.fi/sv/-/suomi-nayttaa-esimerkkia-terveyden-viemisessa-poliittiseen-paatoksentekoon | STM/THL | link-out | media and public | 14.6.2013. HiAP approach | https://research.tuni.fi/centre-for-hiap-and-sdh/hiap-approach/ | WHO CC on HiAP, Tampere Universities | link-out | policymakers | undated. Kuolleet (life expectancy, infant mortality) | https://stat.fi/tilasto/kuol | Tilastokeskus | link-out (terms not read) | not stated | upd. 24.4.2026.\n\n23: Noncommunicable diseases | https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases | WHO | link-out | not stated | 25.9.2025. Ilmaantuvuus (glossary) | https://www.terveyskirjasto.fi/ltt01290 | Duodecim | link-out | general | 18.10.2016. Diabetes | https://www.terveyskirjasto.fi/dlk00011 | Duodecim | link-out | public, people with or at risk of diabetes | 16.02.2026. Keuhkoahtaumatauti | https://www.terveyskirjasto.fi/khp00012 | Duodecim (Käypä hoito patient version) | link-out | patients | 21.11.2019, being updated. Cancer statistics | https://cancerregistry.fi/statistics/ | Suomen Syöpärekisteri | link-out | not stated | undated. Väestön hyvinvointi | https://thl.fi/tilastot-ja-data/tilastot-aiheittain/sairastavuus-ja-tapaturmat | THL | link-out | not stated. Käypä hoito | https://www.kaypahoito.fi/ | Duodecim | link-out | mainly professionals (teacher link) | 2026. Geenitestaus | https://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk01176 | Duodecim | link-out | public, patients, relatives | 26.03.2026 (use in 28 too).\n\n24: Infektioiden tartunta, taudin synty ja leviäminen | https://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk00569 | Duodecim | link-out | not stated | 02.11.2026. Finnish national vaccination programme | https://thl.fi/en/our-view/it-s-important-to-keep-vaccination-coverage-high/finnish-national-vaccination-programme-which-vaccines-are-recommended-for-different-age-groups- | THL | link-out | general public | upd. 9.10.2026. Vaccination coverage among children | https://thl.fi/en/data-and-statistics/vaccinations/vaccination-coverage-among-children | THL | link-out | not stated | 30.6.2026. Herd immunity Q&A | https://www.who.int/news-room/questions-and-answers/item/herd-immunity-lockdowns-and-covid-19 | WHO | link-out | not stated | 31.12.2020 (concept only). TBE-rokote | https://thl.fi/aiheet/infektiotaudit-ja-rokotukset/rokotteet-a-o/tbe-rokote-eli-punkkirokote | THL | link-out | not stated | 2.7.2026. Puutiaisaivotulehduksen esiintyvyys | https://thl.fi/aiheet/infektiotaudit-ja-rokotukset/taudit-ja-taudinaiheuttajat-a-o/puutiaisaivotulehdus/puutiaisaivotulehduksen-esiintyvyys-suomessa | THL | link-out | not stated | undated. Puutiaiset ja niiden levittämät taudit | https://www.terveyskirjasto.fi/kpp00002 | Duodecim | link-out | general | 15.09.2026. Food- and waterborne infections | https://thl.fi/en/data-and-statistics/infectious-diseases/food-and-waterborne-infections | THL | link-out | not stated | 30.9.2026. Antimicrobial resistance | https://thl.fi/en/data-and-statistics/infectious-diseases/antimicrobial-resistance | THL | link-out | not stated | 23.10.2026. Antimicrobial resistance fact sheet | https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance | WHO | link-out | not stated | 16.7.2026. Seksuaali- ja lisääntymisterveys (STI statistics) | https://thl.fi/fi/tilastot-ja-data/tilastot-aiheittain/seksuaali-ja-lisaantymisterveys | THL | link-out | not stated | 5.11.2026. Seksitaudit | https://www.terveyskirjasto.fi/dlk00497 | Duodecim | link-out | general | 10.01.2023. (Optional One Health: Mikrobilääkeresistenssi | https://ruokavirasto.fi/teemat/mikrobilaakeresistenssi-amr | Ruokavirasto | link-out | not stated.) Excluded: THL-blogi vesijohtoverkosto 2015 (old opinion post).\n\n25: Hyvinvointialueet | https://stm.fi/hyvinvointialueet | STM | link-out | not stated | undated. Hyvinvointialueuudistuksen väliarviointi | https://valtioneuvosto.fi/-/1271139/hyvinvointialueuudistuksen-valiarviointi-uudistus-etenee-tavoitteiden-saavuttaminen-edellyttaa-korjauksia | Valtioneuvosto | link-out | not stated | 10.12.2025. Student health care | https://stm.fi/en/student-health-care | STM | link-out | not stated | undated. Terveydenhuollon maksukatto | https://stm.fi/terveydenhuollon-maksukatto | STM | link-out | not stated | undated. Opiskeluterveydenhuolto | https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto | THL | link-out | professionals (teacher link) | 11.11.2026.\n\n26: Lääkkeet | https://www.kela.fi/laakkeet | Kela | link-out | not stated | 10.11.2026. Lääkekorvaukset (selkokieli) | https://www.kela.fi/web/selkokieli/laakekorvaukset | Kela | link-out | people taking prescription medicines | 26.9.2026. Correct use of medicines | https://fimea.fi/en/for_public/correct-use-of-medicines | Fimea | link-out | general public | undated. Lisäneuvontaa vaativat itsehoitolääkkeet | https://fimea.fi/apteekit/lisaneuvontaa-vaativat-itsehoitolaakkeet | Fimea | link-out | pharmacies (teacher link) | undated. Lapset ja nuoret etsivät tietoa verkosta | https://fimea.fi/-/lapset-ja-nuoret-etsivat-tietoa-verkosta-laakekasvatusmateriaalit-auttavat-tunnistamaan-luotettavan-laaketiedon | Fimea | link-out | school-age, young people, teachers | 19.8.2026.\n\n27: ETENE | https://etene.fi/ | ETENE (STM) | link-out | not stated | principles published 13.3.2026 (document not opened). ETENE (English) | https://etene.fi/en/ | ETENE | link-out | not stated.\n\n28: Hedelmöityshoidot | https://www.terveyskirjasto.fi/dlk00870 | Duodecim | link-out | patients and public | 17.12.2025. Lapsettomuushoidot | https://www.terveyskirjasto.fi/dlk00732 | Duodecim | link-out | people with infertility | 17.12.2025. Laki hedelmöityshoidoista 1237/2006 | https://www.finlex.fi/fi/lainsaadanto/2006/1237 (read via opendata API) | Finlex | link-out (terms unread) | not stated | consolidated 2025-06-27. Raskaudenkeskeytys | https://www.terveyskirjasto.fi/dlk00166 | Duodecim | link-out | general | 12.02.2025. Aborttilain muutokset tulevat voimaan (111/2023) | https://valtioneuvosto.fi/-/1271139/aborttilain-muutokset-tulevat-voimaan | STM | link-out | not stated | 1.9.2023. Laki raskauden keskeyttämisestä 239/1970 | https://www.finlex.fi/fi/lainsaadanto/1970/239 | Finlex | link-out | not stated. Induced abortions | https://thl.fi/en/data-and-statistics/sexual-and-reproductive-health/induced-abortions | THL | link-out | not stated | 15.6.2026. Raskaudenkeskeytys (Käypä hoito) | https://www.kaypahoito.fi/hoi27050 | Duodecim | link-out | professionals (teacher link) | 6.11.2024. ETENE kannanotto geenitiedon luovuttamisesta | https://etene.fi/-/etene-on-julkaissut-kannanoton-geenitiedon-luovuttamisesta | ETENE | link-out | policymakers by content | 19.2.2026. Geenitestaus (above). [No screening page read: gap.]\n\n29: Laki potilaan asemasta ja oikeuksista 785/1992 | https://www.finlex.fi/fi/lainsaadanto/1992/785 (read via https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/1992/785) | Finlex | link-out | not stated | consolidated 2023-04-14. Hoitotahto | https://www.terveyskirjasto.fi/dlk00809 | Duodecim | link-out | general | 22.6.2026. Elinluovutustahto (STM 2010) | https://stm.fi/-/elinluovutustahto-kannattaa-kertoa-laheisille-ja-kirjata-paperille | STM | link-out | not stated | 24.8.2010. Kuolevan potilaan oireiden hoito | https://www.terveyskirjasto.fi/khp00072 | Duodecim | link-out | patients and public | 4.10.2019. Expert working group: no shared view on euthanasia | https://valtioneuvosto.fi/en/-/1271139/expert-working-group-proposes-changes-to-palliative-care-no-shared-view-on-the-legalisation-of-euthanasia | Valtioneuvosto/STM | link-out | not stated | 31.8.2021. Palliatiivinen hoito ja saattohoito lausuntopyyntö | https://valtioneuvosto.fi/-/1271139/lausuntopyynto-hyvinvointialueiden-velvoitetta-jarjestaa-palliatiivinen-hoito-ja-saattohoito-ehdotetaan-tasmennettavaksi | STM | link-out | not stated | 25.2.2026. Palkon periaatteet, 1. Johdanto | https://palveluvalikoima.fi/1.-johdanto | Palko (STM) | link-out | service organisers | undated. ETENE (above).\n\n30: Social determinants of health | https://www.who.int/news-room/fact-sheets/detail/social-determinants-of-health | WHO | link-out | governments, health leaders | 6.5.2025. Wellbeing Review 2025 news | https://thl.fi/en/our-view/there-are-persistent-inequalities-in-health-and-well-being-in-finland/thl-report-presents-116-recommendations-to-address-current-challenges-in-wellbeing-and-health | THL | link-out | not stated | 7.4.2026. Väestön hyvinvointi (THL, above; income-group life expectancy). Sosiaaliluokka on terveyden riskitekijä | https://blogi.thl.fi/sosiaaliluokka-on-terveyden-riskitekija/ | THL-blogi | link-out | not stated | 9.11.2018 (context only, no figures). WHO NCD fact sheet (above). Excluded: STM 2008 inequality release (historical only), Yle Abitreenit 'Oppimateriaalit: terveystieto' 2017 (old curriculum, says so on its face).",
+    "sources": [
+     "https://www.terveyskirjasto.fi/dlk00903",
+     "https://thl.fi/en/data-and-statistics/infectious-diseases/antimicrobial-resistance",
+     "https://palveluvalikoima.fi/1.-johdanto",
+     "https://www.who.int/news-room/fact-sheets/detail/social-determinants-of-health"
+    ]
+   },
+   {
+    "task": "3",
+    "title": "Help links for young people per flagged topic",
+    "detail": "Only services whose own page names young people. Read 2026-11-21.\n\n29 (suicide_selfharm, end of life and grief), mandatory help box: Sekasin-chat | https://sekasin.fi/ | own page: '12–29-vuotiaille', under-16s pointed to Apuu-chat (spot-checked; existing key sekasin_chat). Lasten ja nuorten puhelin 116 111 | https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/ | MLL | own page: all under 25, free, anonymous, upd. 23.9.2026 (spot-checked; new key mll_116111, hours linked not copied). Lapsen ja nuoren suru läheisen kuollessa | https://www.mielenterveystalo.fi/fi/kriisi-trauma/lapsen-ja-nuoren-suru-laheisen-kuollessa | Mielenterveystalo (HUS) | children and young people who lost a loved one and the adults around them. Mielenterveystalo Nuoret | https://mielenterveystalo.fi/fi/nuoret | young people and parents. Labelled general (not youth): MIELI Kriisipuhelin 09 2525 0111, 24 h (existing key kriisipuhelimet). Always: 112 in acute danger, and opiskeluterveydenhuolto / school welfare (existing key opiskeluterveydenhuolto).\n\n28 (sexuality: fertility, abortion, prenatal screening): opiskeluterveydenhuolto and the existing seksuaaliterveyspalvelut key; 116 111 (under 25); Väestöliitto 'Keitä olemme nuorten palveluissa?' | https://www.vaestoliitto.fi/nuoret/keita-olemme/ | young people, no age range stated; Seta 'Nuorten tuki- ja neuvontapalvelut' | https://nuoret.seta.fi/nuorille/nuorten-tuki-ja-neuvontapalvelut/ | label: mainly sexual and gender minority youth (Loiste 13-20, others 10-29). No own-page youth abortion counselling service verified.\n\n24 (sexuality flag only if the STI section is expanded): opiskeluterveydenhuolto and seksuaaliterveyspalvelut key; Väestöliitto youth page; Seta page (labelled). Hivpoint youth page returned 404, so do not use it.\n\nUnflagged topics with content notes (23 cancer/chronic illness; 30): point to opiskeluterveydenhuolto and 116 111; no box required.\n\nNot qualifying yet: Nuorten Kriisipiste and Nuorten turvatalo (audience seen only in the Red Cross list, own pages not read); Nuorten tukilinja ages conflict (12-20 vs 12-25).",
+    "sources": [
+     "https://sekasin.fi/",
+     "https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/",
+     "https://www.mielenterveystalo.fi/fi/kriisi-trauma/lapsen-ja-nuoren-suru-laheisen-kuollessa",
+     "https://nuoret.seta.fi/nuorille/nuorten-tuki-ja-neuvontapalvelut/",
+     "data\\yearly-facts.yaml"
+    ]
+   },
+   {
+    "task": "4",
+    "title": "TE3-specific safety rules for the style guide",
+    "detail": "R1 Law first: every ethics page (28, 29) opens each issue with a 'Mitä laki sanoo' block; each legal statement has a Finlex/STM/THL link with read date; statutory figures other than the verified 12-week rule (week 20/24 limits, ages) are linked, not typed, until a reviewer reads the current Finlex text.\nR2 Positions symmetric: at least two positions per issue, each in the words its holders use, similar length and tone, analysed through the seven viewpoints; never assign a view to a religious or other group ('ihmisillä on erilaisia näkemyksiä').\nR3 The page never concludes for the student; tasks say 'analysoi', not 'kumpi on oikeassa'; is and ought never share a sentence.\nR4 No loaded terms (murha, tappaa lapsen, suunnittelijavauva, 'leikkiä Jumalaa', 'kuolemanapu' as euphemism); use the statutory or clinical term, defined once; 'raskaana oleva' where the law's group is wider.\nR5 No personal disclosure: no 'mitä sinä tekisit', no personal positions graded; fictional third-person cases only; no real named private individuals or patient cases (assessment guidance excludes the student's own values and behaviour).\nR6 Inclusive fertility text describes who may receive treatment only as the current law allows, without implying a normal family; abortion text never judges reasons.\nR7 End of life (29): flag suicide_selfharm, content note, help box; no method, means, place, dose or tool; no suicide case stories; euthanasia debate anchored on the 2021 'no shared view' and dated initiative status; palliative care presented as care the county must provide (link the pending bill as pending).\nR8 Disease pages (23, 24): 'riskitekijä' not 'syy'; structural, environmental and genetic factors beside lifestyle; state that people with no risk factors also fall ill; no 'oma syy', 'huonot valinnat'; 'ihminen, jolla on ...' not 'sairastaja/uhri'; no weights, BMI cutoffs or calories (exam BMI/obesity rows covered by concept, practice data fictional non-weight).\nR9 Vaccines (24): evidence and the THL programme stated; side effects by THL frequency, neither omitted nor dramatised; herd immunity explained; hesitancy taught as communication and trust (truth sandwich, no vivid myth quotes); no shaming; own vaccination decisions go to the health nurse.\nR10 No medical advice (23-26): self-care page teaches concepts and reliable sources, gives no dosing; for own symptoms, opiskeluterveydenhuolto, doctor or 112.\nR11 Screening and gene technology (28): neutral criteria framework (benefit, harm, false positive, overdiagnosis) on a fictional case; disability-rights view and parental-autonomy view both presented; nobody described as a burden; somatic therapy, testing, research and germline editing kept distinct.\nR12 Prioritisation (29): competing criteria (need, benefit, equality, cost-effectiveness) on a fictional case; no age or disability ranking shown as correct; decisions rest on medical criteria and law, not social worth.\nR13 Figures: every changing figure is a dated link; chart tasks use invented data labelled as invented.\nChecker tests (pass/fail): legal block with dated links present; two or more symmetric positions; no concluding sentence; no emotive vocabulary; no method content; help box on 29; no real person; every viewpoint defined with a neutral example; content notes on 23, 28, 29.",
+    "sources": [
+     "CLAUDE.md",
+     "https://valtioneuvosto.fi/en/-/1271139/expert-working-group-proposes-changes-to-palliative-care-no-shared-view-on-the-legalisation-of-euthanasia",
+     "https://www.who.int/publications/i/item/9789240076846"
+    ]
+   },
+   {
+    "task": "5",
+    "title": "TE3 exam rows for the re-mapper",
+    "detail": "Format: session-task | points | module label (critic-corrected) | weight [M] | TE3 content | topic(s). Totals: 38 rows, 880 p upper bound; TE3-only 350 p; weighted about 557 p.\nS23-1 | 20 | TE3 | 1.0 | order 5 child-mortality measures and explain | 22\nS23-6 | 20 | mixed | 0.4 | CHD regional differences from age-standardised map (age not accepted) | 23, 30\nS23-7 | 30 | mixed | 0.3 | mental health promotion in environmental crises, climate anxiety | 30\nS23-8 | 30 | mixed | 0.7 | ethical analysis, falling ill with STI, communicable disease law | 27, 24, 28\nA23-5 | 20 | TE2 | 0.2 | health risk concepts | 23\nA23-6 | 20 | TE2 | 0.2 | survey vs register data | 23\nA23-7 | 30 | TE3 | 1.0 | ethical analysis of prioritisation | 29, 27\nS24-1 | 20 | mixed | 0.6 | 20 T/F on NCDs, vaccines, COPD, tobacco | 23, 24\nS24-2 | 20 | TE3 | 1.0 | cold vs influenza table, 5 perspectives | 24\nS24-3 | 20 | TE3 | 1.0 | order 4 disease models, cause and treatment table (10 p cap) | 21\nS24-8 | 30 | TE3 | 1.0 | ethical analysis of biobank from video | 28, 27\nS24-9.1 | 10 | mixed | 0.2 | line chart from statistics table | 23 (non-weight data)\nS24-9.2 | 20 | mixed | 0.3 | societal measures by WHO 5 action areas | 30\nA24-1 | 20 | mixed | 0.3 | explain health-behaviour table by sex, age, education, region | 30\nA24-3 | 20 | TE3 | 1.0 | transmission + 2 preventions for Lyme, HIV, flu, malaria, salmonella | 24\nA24-9 | 30 | mixed | 0.5 | water purity, contamination, hygiene, shortage | 24\nS25-1 | 20 | mixed | 0.4 | name the concept, 20 items | 23, 24\nS25-2 | 20 | TE1 | 0.15 | travel health effects | 24\nS25-3 | 20 | mixed | 0.5 | strengthening resistance (hygiene, vaccines, antibiotics) | 24\nS25-4 | 20 | mixed | 0.4 | home tests and health literacy | 26, 24\nS25-5 | 20 | TE3 | 1.0 | why narrow health differences in Finland | 30\nS25-7.2 | 20 | mixed | 0.3 | reduce alcohol use with WHO action areas (given) | 30\nS25-9 | 30 | TE3 | 0.7 | ethical analysis of AI-written health answer | 27\nA25-1 | 20 | mixed | 0.6 | 10 MC +2/-1/0 (WHO, stroke, TB, 1972 act, metabolic syndrome, carcinogens) | 21, 22, 23\nA25-2 | 20 | TE3 | 0.9 | itsehoito vs omahoito, six parts 4+4+4+2+4+2, 600/1000 chars (verified) | 26\nA25-3 | 20 | TE1 | 0.15 | special diets | none (TE1)\nA25-7 | 30 | TE3 | 1.0 | epidemiological transition diagram 2+3+25 (verified) | 22\nA25-8 | 30 | TE3 | 0.9 | global abortion ethics, 4/7/10/13 + 15 (verified) | 28, 27\nS26-1 | 20 | mixed | 0.6 | error finding x5, 1000 chars (epidemiology, T1D, Lyme, BMI) | 22, 23, 24\nS26-2 | 20 | mixed | 0.6 | cancer risk factor table, 2 individual + 2 societal ways | 23, 28\nS26-5 | 20 | mixed | 0.8 | SES and inequality from 2 figures | 30\nS26-7 | 30 | TE3 | 1.0 | HiAP explained and applied to e-scooters | 22, 30\nS26-8 | 30 | mixed | 0.6 | ethical analysis of everyday food choices | 27, 29\nA26-1 | 20 | TE2 | 0.15 | study-design MC | 23\nA26-2 | 20 | TE3 | 1.0 | drop-down cloze on infections, transition, immunity, vaccines | 24, 22\nA26-7 | 30 | TE2 | 0.15 | working life change and work ability | 23 (functional capacity)\nA26-8 | 30 | TE3 | 1.0 | social support forms for a family case | 25\nA26-9 | 30 | mixed | 0.6 | cancer cost projection by WHO action areas | 23, 30\nGrading-verified on YTL pages: S24-3, S24-8, A25-2, A25-7, A25-8. Not read: autumn 2023 and spring 2026 final criteria, autumn 2026 criteria (2026 rows likely).",
+    "sources": [
+     "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-03-22_TE_fi/grading-instructions.html",
+     "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html",
+     "docs\\research\\2026-11-21-exam-cross-check.json"
+    ]
+   },
+   {
+    "task": "6",
+    "title": "Changing facts that must be links (yearly-facts keys)",
+    "detail": "Existing keys to reuse: opiskeluterveydenhuolto, terveyskysely_opiskeluterveydenhuolto, kriisipuhelimet (keep its Finnish+Swedish wording), sekasin_chat, seksuaaliterveyspalvelut, kotitestit, riskin_kasitteet.\nNew keys (rule stable, figures linked), each with url and read 2026-11-21:\n- potilaslaki: 785/1992 6-10 § (agreement, refusal, minor 7 §, urgent care 8 §, minor's confidentiality 9 §, muistutus 10 §); opendata API, consolidated 2023-04-14.\n- raskaudenkeskeytyslaki: 12-week on-request rule from 1.9.2023 (STM 111/2023); 762/2025 from 1.1.2026; other limits linked pending review.\n- raskaudenkeskeytys_tilastot: THL induced abortions (link only).\n- hedelmoityshoitolaki: 1237/2006 (consent, donor 18+, right to donor identity at 18); 547/2025 unread.\n- kela_hedelmoityshoito: private treatment reimbursement from 1.5.2025 (Terveyskirjasto; Kela page unread, pending).\n- rokotusohjelma: voluntary, free, STM decides, counties deliver, THL guides; tables linked.\n- rokotuskattavuus: THL coverage page (MMR 95% target, figures linked).\n- tbe_rokotusalueet: risk areas change yearly; vaccine does not cover Lyme.\n- puutiaistaudit_tilastot: tartuntatautirekisteri (sampo.thl.fi; snippet only, re-read).\n- vesi_ja_ruokavalitteiset_epidemiat: THL RYMY page.\n- seksitaudit_tilastot: THL sexual and reproductive health statistics.\n- mikrobilaakeresistenssi: THL AMR page, WHO fact sheet.\n- syopatilastot: cancerregistry.fi statistics.\n- seulontaohjelmat: ages and intervals (pending; no page read).\n- hyvinvointialueet: 21 counties + Helsinki + HUS; steering arrangement changing.\n- asiakasmaksut_maksukatto: fee ceiling amount, under-18 fees count to guardian; fee bill for 1.3.2027 pending.\n- kela_laakekorvaukset: classes, deductible, annual cap (2026 and 2027 figures differ).\n- itsehoitolaakkeet: Fimea status and extra-counselling list.\n- hoitotahto: binding for named refusals when the person cannot decide; Omakanta.\n- elinluovutus: presumed consent since 1.8.2010 (101/2001).\n- eutanasia_tilanne: not legal (pending verification), 2021 working group, KAA 4/2024 status dated.\n- palliatiivinen_hoito_lakiesitys: STM draft 25.2.2026, target 1.1.2027 unconfirmed.\n- etene_periaatteet: principles 13.3.2026.\n- palko_priorisointi: Palko principles.\n- terveyserot_tilastot: THL Väestön hyvinvointi and Wellbeing Review 2025.\n- kuolleet_elinajanodote: Tilastokeskus Kuolleet / Kuolemansyyt.\n- who_ncd and who_sdh: WHO fact sheets (global figures linked).\n- hiap_helsinki_2013: 8th Global Conference, 10-14.6.2013.\n- mll_116111: under 25, free, anonymous; hours linked.",
+    "sources": [
+     "data\\yearly-facts.yaml",
+     "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/1992/785",
+     "https://www.kela.fi/laakkeet",
+     "https://stm.fi/terveydenhuollon-maksukatto"
+    ]
+   }
+  ]
+ }
+}
