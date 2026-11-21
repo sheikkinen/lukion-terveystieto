@@ -13,32 +13,18 @@ self_study_minutes: 70
 prerequisites: [te1-01-terveys-voimavarana]
 safety_flags: []
 official_links:
-  - title: "Mielenterveystalo: nuoret"
-    url: "https://www.mielenterveystalo.fi/fi/nuoret"
-    publisher: "Mielenterveystalo.fi (HUS)"
-    read: 2026-11-21
-  - title: "Opiskeluterveydenhuolto"
-    url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto"
-    publisher: "Terveyden ja hyvinvoinnin laitos (THL)"
-    read: 2026-11-21
-  - title: "Opiskeluhuolto"
-    url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
-  - title: "Sekasin-chat"
-    url: "https://sekasin.fi/"
-    publisher: "Sekasin-kollektiivi"
-    read: 2026-11-21
-  - title: "MIELI Kriisipuhelin"
-    url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/"
-    publisher: "MIELI Suomen Mielenterveys ry"
-    read: 2026-11-21
-  - title: "Itsetuntemus, vahvuudet ja arvot (opinto-ohjaus, aihe 05)"
-    url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/"
-    publisher: "Lukion opinto-ohjaus -sivusto"
-    read: 2026-11-21
+  - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
+  - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
+  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin-kollektiivi", read: 2026-11-21}
+  - {title: "MIELI Kriisipuhelin", url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
+  - {title: "Itsetuntemus, vahvuudet ja arvot (opinto-ohjaus, aihe 05)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
+  - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", read: 2026-11-21}
+  - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
+  - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", read: 2026-11-21}
 yearly_facts: [opiskeluterveydenhuolto, kriisipuhelimet]
-materials:
+materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
+linked_materials:
   - title: "TE1 Terveys voimavarana (verkkokurssin runko)"
     url: "https://aoe.fi/#/materiaali/1113"
     publisher: "Schildtin lukio (aoe.fi)"
@@ -169,6 +155,7 @@ Mallit auttavat suunnittelemaan viestintää ja tukea, koska ne näyttävät, mi
 **Harjoittelet:** Osaan 1 ja 3
 
 *Kuvitteellisia ajatuksia:*
+
 - (a) Veera: "Näin koulun terveysviestin ja ymmärsin, että tämä koskee minuakin."
 - (b) Aaro: "Olen onnistunut tässä ennenkin, joten uskon pystyväni siihen nytkin."
 - (c) Sami: "Kaikki ystäväni ovat jo kokeilleet. Opin katsomalla, miten he tekivät."
@@ -215,7 +202,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia.
 
-### K1: Oikein vai väärin -väittämät (20 p, 25 min)
+### K1: Oikein vai väärin -väittämät, 25 min (20 p)
 
 *Osa A20 · Harjoittelee: Osaan 1, 4, 5*
 
@@ -232,7 +219,7 @@ Päätä jokaisesta väittämästä, onko se oikein vai väärin. Perustele vali
 9. Mallit auttavat ymmärtämään, miksi pelkkä tieto ei aina muuta toimintaa.
 10. Mallit ottavat huomioon kaikki tulot, asuinpaikan ja palvelut yhtä painavasti kuin ihmisen ajatukset.
 
-### K2: Vertailu näkökulmittain (20 p, 35 min)
+### K2: Vertailu näkökulmittain, 35 min (20 p)
 
 *Osa B20 · Harjoittelee: Osaan 1, 3, 5*
 
@@ -241,12 +228,16 @@ Päätä jokaisesta väittämästä, onko se oikein vai väärin. Perustele vali
 Vertaile suunnitellun käyttäytymisen teoriaa ja terveysuskomusmallia seuraavista näkökulmista. Käytä aineistoa esimerkkinä.
 
 a) Mikä ohjaa toimintaa kummassakin mallissa?
+
 b) Miten läheisten ihmisten vaikutus huomioidaan?
+
 c) Mikä rooli on koetulla kontrollilla ja minäpystyvyydellä?
+
 d) Kumpi sopii paremmin kummankin kampanjatavan perustaksi ja miksi?
+
 e) Mitä rajoituksia molemmilla malleilla on?
 
-### K3: Teorian soveltaminen (30 p, 50 min)
+### K3: Teorian soveltaminen, 50 min (30 p)
 
 *Osa C30 · Harjoittelee: Osaan 2, 3, 4, 5*
 
@@ -257,12 +248,14 @@ e) Mitä rajoituksia molemmilla malleilla on?
 Koulu harkitsee kampanjaa.
 
 a) Analysoi aineiston avulla, mitä suunnitellun käyttäytymisen teorian käsitteitä siinä näkyy. (10 p)
+
 b) Selitä sosiaalis-kognitiivisen teorian tai terveysuskomusmallin avulla kaksi aineiston ajatusta. (8 p)
+
 c) Arvioi, mitä mallit eivät aineiston tilanteessa selitä, ja tee kaksi perusteltua ehdotusta kampanjaksi. Ota huomioon, että opiskelijat ovat eri muutosvaiheissa. (12 p)
 
 ## Mallivastaukset
 
-### K1: Mallivastaus
+### K1: Oikein vai väärin -väittämät, 25 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -280,6 +273,7 @@ c) Arvioi, mitä mallit eivät aineiston tilanteessa selitä, ja tee kaksi perus
 **Pisteytys**
 
 *Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
+
 - Jokainen väittämä 2 p: oikea valinta 1 p ja oikea perustelu tai korjaus 1 p. Yhteensä 10 × 2 p = 20 p.
 - Perustelu ilman oikeaa valintaa ei tuota pistettä.
 
@@ -297,7 +291,7 @@ c) Arvioi, mitä mallit eivät aineiston tilanteessa selitä, ja tee kaksi perus
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K2: Mallivastaus
+### K2: Vertailu näkökulmittain, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -314,9 +308,11 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Pisteytys**
 
 *Sisältö 10 p:*
+
 - Jokainen näkökulma a–e 2 p: oikea kuvaus molemmista malleista 1 p ja yhteys aineistoon tai selkeä esimerkki 1 p. Yhteensä 10 p.
 
 *Tiedonkäsittely 10 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+
 - 8–10 p: käsitteet ovat täsmällisiä, malleja verrataan jokaisessa kohdassa vastakkain, aineistoa käytetään ja johtopäätös d on perusteltu.
 - 4–7 p: mallit kuvataan oikein, mutta vertailu jää erilliseksi kuvaukseksi tai aineistoa käytetään vähän.
 - 0–3 p: vastaus kuvaa vain yhtä mallia tai käsitteet menevät sekaisin.
@@ -332,7 +328,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K3: Mallivastaus
+### K3: Teorian soveltaminen, 50 min (30 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -347,11 +343,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Pisteytys**
 
 *Sisältö 15 p:*
+
 - a) Vähintään kolme käsitettä (asenne, normi, kontrolli, aikomus) tunnistettu aineistosta ja oikein tulkittu 3 p; aikomuksen ja toiminnan yhteys selitetty 2 p. Yhteensä 5 p.
 - b) Kaksi ajatusta selitetty mallin käsitteillä, 2 p kumpikin. Yhteensä 4 p.
 - c) Mallien rajoitus aineistossa nimetty ja perusteltu 2 p; kaksi ehdotusta, joissa on keino, perustelu mallin käsitteellä ja muutosvaiheen huomioiminen, 2 p kumpikin. Yhteensä 6 p.
 
 *Tiedonkäsittely 15 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+
 - 12–15 p: käsitteet ovat täsmällisiä; analyysi nojaa aineiston lainauksiin; mallien rajat arvioidaan; ehdotukset ovat realistisia ja perusteltuja; vastaus etenee kohdittain.
 - 6–11 p: sisältö on pääosin oikein, mutta aineistoon viitataan vähän, arvio on yleinen tai ehdotukset jäävät perustelematta.
 - 0–5 p: vastaus luettelee käsitteitä, jää yleiselle tasolle tai ei käytä aineistoa.
@@ -400,7 +398,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Koeharjoitus ja exit | 10 | K1:n väittämät 1–5 yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit-lappu: yksi käsite, joka on vielä epäselvä. | Näytä K1:n pisteytys ja kysy: mistä kaksi pistettä syntyy? | Paperilla. | Tarkistus kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat harjoituksia kotiin tai kertaukseen. | – | – |
 
-## Tuntisuunnitelma (60 min)
+### Tuntisuunnitelma (60 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -412,7 +410,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Koeharjoitus ja exit | 7 | K1:n väittämät 1–2 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten kaksi pistettä jakautuu. | Paperilla. | Tarkistus kotona. |
 | Puskuri | 2 | Kysymykset. | Kerro K1–K3:sta kotiharjoituksina. | – | – |
 
-## Tuntisuunnitelma (45 min)
+### Tuntisuunnitelma (45 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -429,7 +427,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Piirrä taululle tyhjä kartta: asenne, normi, kontrolli, aikomus, toiminta. Opiskelijat pärjäävät tyhjällä paperilla.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Tee neljä mallikorttia (yksi malli per kortti) esittelyä varten, jos haluat.
-- Tutustu halutessasi Opetushallituksen tukimateriaaliin (linkitetyt materiaalit).
+- Tutustu halutessasi Opetushallituksen tukimateriaaliin (ks. Lähteet).
 
 ### Avoimet kysymykset
 
@@ -477,14 +475,10 @@ Tällä sivulla opiskellaan terveyttä ja elintapoja yleisesti. Jos sinulla on o
 **Apua saat myös:**
 
 - Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille.
+- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
 - [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.
-
-## Linkitetyt materiaalit
-
-Kootaan sivun tiedoista automaattisesti.
 
 ## Lähteet
 

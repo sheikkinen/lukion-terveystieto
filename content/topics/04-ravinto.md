@@ -14,40 +14,18 @@ prerequisites: [te1-01-terveys-voimavarana]
 safety_flags: [eating]
 content_note: "Tällä sivulla käsitellään syömistä ja painoa. Sivulla ei ole lukuja eikä vertailuja, ja lopussa on tietoa avusta."
 official_links:
-  - title: "Ravitsemus- ja ruokasuositukset"
-    url: "https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravitsemus--ja-ruokasuositukset/"
-    publisher: "Ruokavirasto"
-    read: 2026-11-21
-  - title: "Nuorten hyvinvointi"
-    url: "https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi"
-    publisher: "Terveyden ja hyvinvoinnin laitos (THL)"
-    read: 2026-11-21
-  - title: "Syömishäiriöliitto-SYLI: tukipalvelut"
-    url: "https://syomishairioliitto.fi/tukea/tukea-sairastuneelle"
-    publisher: "Syömishäiriöliitto-SYLI ry"
-    read: 2026-11-21
-  - title: "Opiskeluterveydenhuolto"
-    url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto"
-    publisher: "Terveyden ja hyvinvoinnin laitos (THL)"
-    read: 2026-11-21
-  - title: "Opiskeluhuolto"
-    url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
-  - title: "Mielenterveystalo: nuoret"
-    url: "https://www.mielenterveystalo.fi/fi/nuoret"
-    publisher: "Mielenterveystalo.fi (HUS)"
-    read: 2026-11-21
-  - title: "Sekasin-chat"
-    url: "https://sekasin.fi/"
-    publisher: "Sekasin-kollektiivi"
-    read: 2026-11-21
-  - title: "MIELI Kriisipuhelin"
-    url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/"
-    publisher: "MIELI Suomen Mielenterveys ry"
-    read: 2026-11-21
+  - {title: "Ravitsemus- ja ruokasuositukset", url: "https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravitsemus--ja-ruokasuositukset/", publisher: "Ruokavirasto", read: 2026-11-21}
+  - {title: "Nuorten hyvinvointi", url: "https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Syömishäiriöliitto-SYLI: tukipalvelut", url: "https://syomishairioliitto.fi/tukea/tukea-sairastuneelle", publisher: "Syömishäiriöliitto-SYLI ry", read: 2026-11-21}
+  - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
+  - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
+  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin-kollektiivi", read: 2026-11-21}
+  - {title: "MIELI Kriisipuhelin", url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
+  - {title: "Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
 yearly_facts: [ravitsemussuositus, syomishairio_apu, opiskeluterveydenhuolto, kriisipuhelimet]
-materials:
+materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
+linked_materials:
   - title: "Ravitsemus- ja ruokasuositukset"
     url: "https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravitsemus--ja-ruokasuositukset/"
     publisher: "Ruokavirasto"
@@ -159,6 +137,7 @@ Syömishäiriöt ovat vakavia sairauksia, joihin voi sairastua kuka tahansa iäs
 **Harjoittelet:** Osaan 3 ja 4
 
 *Kuvitteellisia kommentteja:*
+
 - (a) "Jos syöt tätä, olet terve ja onnistunut."
 - (b) "Terve ihminen näyttää tietynlaiselta, ja siitä näkee, miten hän elää."
 - (c) "Ruoka on myös yhdessäoloa, ja kehot ovat erilaisia."
@@ -204,7 +183,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia, eikä niissä ole lukuja.
 
-### K1: Virheiden tunnistaminen (20 p, 25 min)
+### K1: Virheiden tunnistaminen, 25 min (20 p)
 
 *Osa A20 · Harjoittelee: Osaan 1, 3, 4*
 
@@ -212,9 +191,16 @@ Alla olevassa kuvitteellisessa tekstissä on viisi asiavirhettä. Tunnista virhe
 
 *Aineisto (kuvitteellinen): "Ruoasta ja terveydestä"*
 
-> (1) Ruoka antaa keholle vain energiaa. (2) Monipuolinen ruoka tukee jaksamista ja kasvua. (3) Paino kertoo yksinään, onko ihminen terve. (4) Ruokavalintoihin vaikuttavat hinta, saatavuus, kulttuuri, ruokapuhe ja ympäristö. (5) Painonhallinnan tavoite on aina painon pienentäminen. (6) Jos ruokavalinnat eivät noudata suosituksia, kyse on aina laiskuudesta tai tahdonvoiman puutteesta. (7) Syömishäiriöön sairastuu vain tietynlainen ihminen, ja se johtuu aina ihannekuvista. (8) Viralliset ravitsemussuositukset päivittyvät, joten ne kannattaa tarkistaa alkuperäisestä lähteestä.
+> - (1) Ruoka antaa keholle vain energiaa.
+> - (2) Monipuolinen ruoka tukee jaksamista ja kasvua.
+> - (3) Paino kertoo yksinään, onko ihminen terve.
+> - (4) Ruokavalintoihin vaikuttavat hinta, saatavuus, kulttuuri, ruokapuhe ja ympäristö.
+> - (5) Painonhallinnan tavoite on aina painon pienentäminen.
+> - (6) Jos ruokavalinnat eivät noudata suosituksia, kyse on aina laiskuudesta tai tahdonvoiman puutteesta.
+> - (7) Syömishäiriöön sairastuu vain tietynlainen ihminen, ja se johtuu aina ihannekuvista.
+> - (8) Viralliset ravitsemussuositukset päivittyvät, joten ne kannattaa tarkistaa alkuperäisestä lähteestä.
 
-### K2: Vertailu näkökulmittain (20 p, 35 min)
+### K2: Vertailu näkökulmittain, 35 min (20 p)
 
 *Osa B20 · Harjoittelee: Osaan 3, 4*
 
@@ -223,12 +209,16 @@ Alla olevassa kuvitteellisessa tekstissä on viisi asiavirhettä. Tunnista virhe
 Vertaile sivuja A ja B seuraavista näkökulmista:
 
 a) Mitä sivu pitää terveyden mittarina?
+
 b) Miten sivu selittää terveyden syntymisen?
+
 c) Miten sivu voi vaikuttaa lukijan hyvinvointiin ja suhteeseen ruokaan?
+
 d) Millaisia ehdotuksia sivu antaa?
+
 e) Kumpaa sivua pidät luotettavampana ja miksi?
 
-### K3: Aineiston analyysi (30 p, 50 min)
+### K3: Aineiston analyysi, 50 min (30 p)
 
 *Osa C30 · Harjoittelee: Osaan 1, 2, 5*
 
@@ -237,12 +227,14 @@ e) Kumpaa sivua pidät luotettavampana ja miksi?
 > **Pohjanrannan lukion ruokailutauko lyhenee.** Lukion lukujärjestys tiivistyy ensi lukukaudella, ja ruokailutauko lyhenee. Ruokalan jono on jo nyt pitkä, ja moni opiskelija kertoo, ettei ehdi syödä rauhassa. Ruokalan vetäjä sanoo, että kasvisvaihtoehtoa ja erityisruokavalioita ei riitä kaikille, koska budjetti on pieni. Opiskelijakunta ehdottaa lisää ruokailupisteitä ja pidempää taukoa. Rehtori toteaa, että lukujärjestys on sidottu bussien aikatauluihin. Lähikaupassa ruoka on kallista, eikä kaikilla ole varaa ostaa omaa lounasta.
 
 a) Analysoi, mitkä ruokailuun vaikuttavat tekijät aineistossa näkyvät ja millä tasoilla ne ovat. (10 p)
+
 b) Selitä kahden aineiston tekijän vaikutusmekanismi opiskelijoiden jaksamiseen ja oppimiseen. (8 p)
+
 c) Arvioi, miten tilanne voi vaikuttaa opiskelijoiden väliseen eriarvoisuuteen ja tee kaksi perusteltua ehdotusta hyvän ruokailun tukemiseksi. (12 p)
 
 ## Mallivastaukset
 
-### K1: Mallivastaus
+### K1: Virheiden tunnistaminen, 25 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -257,6 +249,7 @@ Lauseet 2, 4 ja 8 ovat oikein.
 **Pisteytys**
 
 *Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
+
 - Jokainen viidestä virheestä 4 p: virheen tunnistaminen ja selitys, miksi se on väärin, 2 p; täsmällinen korjaus käsitteineen 2 p. Yhteensä 5 × 4 p = 20 p.
 - Oikean lauseen merkitseminen virheeksi: −1 p kerrallaan (ei alle nollan tehtävästä).
 
@@ -274,7 +267,7 @@ Lauseet 2, 4 ja 8 ovat oikein.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K2: Mallivastaus
+### K2: Vertailu näkökulmittain, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -291,10 +284,12 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Pisteytys**
 
 *Sisältö 10 p:*
+
 - Kohdat a–d, jokainen 2 p: oikea kuvaus molemmista sivuista 1 p ja perustelu tai esimerkki aineistosta 1 p. Yhteensä 8 p.
 - Kohta e: perusteltu kanta ja luotettavuuden arviointikriteeri 2 p.
 
 *Tiedonkäsittely 10 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+
 - 8–10 p: käsitteet (terveys, painonhallinta, hyvinvointi, painoleima) ovat täsmällisiä; sivuja verrataan vastakkain jokaisessa kohdassa; kanta on perusteltu.
 - 4–7 p: sivut kuvataan oikein, mutta vertailu jää erilliseksi kuvaukseksi tai perustelut yleisiksi.
 - 0–3 p: vastaus kuvaa vain yhtä sivua tai moralisoi.
@@ -311,7 +306,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K3: Mallivastaus
+### K3: Aineiston analyysi, 50 min (30 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -327,11 +322,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Pisteytys**
 
 *Sisältö 15 p:*
+
 - a) Tekijöitä vähintään kolmelta tasolta oikein luokiteltuna 3 p; voimavarojen ja kuormittavien tekijöiden erottaminen 2 p. Yhteensä 5 p.
 - b) Kaksi vaikutusmekanismia, kumpikin ketjuna aineiston tekijästä jaksamiseen tai oppimiseen, 2 p kumpikin. Yhteensä 4 p.
 - c) Eriarvoisuuden arviointi: kenelle vaikutus kohdistuu ja miksi 1 p, vastakkainen näkökulma 1 p; kaksi ehdotusta, joissa on toimija, keino ja perustelu, 2 p kumpikin. Yhteensä 6 p.
 
 *Tiedonkäsittely 15 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+
 - 12–15 p: käsitteet (taustatekijä, voimavara, vaikutusmekanismi, eriarvoisuus) ovat täsmällisiä; analyysi nojaa aineistoon; arvio punnitsee eri näkökulmia; ehdotukset ovat realistisia ja perusteltuja; vastaus etenee kohdittain.
 - 6–11 p: sisältö on pääosin oikein, mutta aineistoon viitataan vähän, arvio on yksipuolinen tai ehdotukset jäävät perustelematta.
 - 0–5 p: vastaus luettelee asioita, jää yleiselle tasolle tai ei käytä aineistoa.
@@ -380,7 +377,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Koeharjoitus ja exit | 10 | K1:n virheet 1–2 yksin (7 min) ja tarkistus (3 min). Exit-lappu: yksi käsite, joka on vielä epäselvä. | Näytä K1:n pisteytys ja kysy: mistä neljä pistettä syntyy? | Paperilla. | Tarkistus kotona. |
 | Puskuri | 5 | Kysymyksiä. Lopuksi kerro sivun lopun Apua ja tukea -osiosta. | Muistuta opiskeluterveydenhuollosta ja avun hakemisesta. | – | – |
 
-## Tuntisuunnitelma (60 min)
+### Tuntisuunnitelma (60 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -392,7 +389,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Koeharjoitus ja exit | 7 | K1:n virhe 1 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten neljä pistettä jakautuu. | Paperilla. | Tarkistus kotona. |
 | Puskuri | 2 | Kysymykset. Muistutus Apua ja tukea -osiosta. | Kerro K1–K3:sta kotiharjoituksina. | – | – |
 
-## Tuntisuunnitelma (45 min)
+### Tuntisuunnitelma (45 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -459,14 +456,10 @@ Tällä sivulla käsitellään syömistä ja painoa yleisesti. Jos syöminen, ru
 
 - [Syömishäiriöliitto-SYLI: tukipalvelut (luettu 21.11.2026)](https://syomishairioliitto.fi/tukea/tukea-sairastuneelle): tietoa tuesta ja palveluista syömishäiriöihin. Palvelut ja ikärajat ovat sivulla.
 - Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille.
+- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
 - [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.
-
-## Linkitetyt materiaalit
-
-Kootaan sivun tiedoista automaattisesti.
 
 ## Lähteet
 

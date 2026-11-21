@@ -13,36 +13,19 @@ self_study_minutes: 70
 prerequisites: []
 safety_flags: []
 official_links:
-  - title: "Constitution of the World Health Organization"
-    url: "https://www.who.int/about/governance/constitution"
-    publisher: "World Health Organization"
-    read: 2026-11-21
-  - title: "Nuorten hyvinvointi (THL)"
-    url: "https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi"
-    publisher: "Terveyden ja hyvinvoinnin laitos (THL)"
-    read: 2026-11-21
-  - title: "Opiskeluhuolto"
-    url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
-  - title: "Mielenterveystalo: nuoret"
-    url: "https://www.mielenterveystalo.fi/fi/nuoret"
-    publisher: "Mielenterveystalo.fi"
-    read: 2026-11-21
-  - title: "Sekasin-chat"
-    url: "https://sekasin.fi/"
-    publisher: "Sekasin Kollektiivi"
-    read: 2026-11-21
-  - title: "MIELI Kriisipuhelin"
-    url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/"
-    publisher: "MIELI Suomen Mielenterveys ry"
-    read: 2026-11-21
-  - title: "Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)"
-    url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/"
-    publisher: "Lukion opinto-ohjaus -sivusto"
-    read: 2026-11-21
+  - {title: "Constitution of the World Health Organization", url: "https://www.who.int/about/governance/constitution", publisher: "World Health Organization", read: 2026-11-21}
+  - {title: "Nuorten hyvinvointi (THL)", url: "https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
+  - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi", read: 2026-11-21}
+  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
+  - {title: "MIELI Kriisipuhelin", url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
+  - {title: "Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
+  - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
+  - {title: "TE1 Terveys voimavarana (Moodle-opintojakson pohja)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", read: 2026-11-21}
+  - {title: "TE01 Terveys voimavarana, verkko-opintojakson suunnitelma", url: "https://aoe.fi/#/materiaali/1852", publisher: "Espoon aikuislukio, Omnia (aoe.fi)", read: 2026-11-21}
 yearly_facts: [kouluterveyskysely, opiskeluterveydenhuolto, kriisipuhelimet]
-materials:
+materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
+linked_materials:
   - title: "Terveystiedon LOPS 2019 -tukimateriaali"
     url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali"
     publisher: "Opetushallitus"
@@ -198,7 +181,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia.
 
-### K1: Virheiden tunnistaminen (20 p, 25 min)
+### K1: Virheiden tunnistaminen, 25 min (20 p)
 
 *Osa A20 · Harjoittelee: Osaan 1, 2, 3*
 
@@ -206,9 +189,16 @@ Alla olevassa kuvitteellisessa blogitekstissä on viisi asiavirhettä. Tunnista 
 
 *Aineisto (kuvitteellinen): "Mitä terveys oikeastaan on?"*
 
-> (1) Terveys tarkoittaa yksinkertaisesti sitä, ettei ihmisellä ole mitään sairautta. (2) Terveyteen kuuluu kehon lisäksi myös mieli ja ihmissuhteet. (3) Terveyden taustatekijöitä ovat vain perimä ja elintavat, sillä muut asiat eivät terveyteen vaikuta. (4) Hyvä esimerkki voimavarasta on läheinen ystävä, jolle voi puhua. (5) Voimavarat ovat ominaisuuksia, jotka ihmisellä joko on tai ei ole syntymästä asti. (6) Terveyserot johtuvat siitä, että osa ihmisistä tekee huonompia valintoja kuin muut. (7) Asuinalueen palvelut ja turvallisuus voivat vaikuttaa siihen, miten ihmiset liikkuvat. (8) Terveyden edistäminen on terveydenhuollon tehtävä, ja se alkaa vasta, kun ihminen sairastuu.
+> - (1) Terveys tarkoittaa yksinkertaisesti sitä, ettei ihmisellä ole mitään sairautta.
+> - (2) Terveyteen kuuluu kehon lisäksi myös mieli ja ihmissuhteet.
+> - (3) Terveyden taustatekijöitä ovat vain perimä ja elintavat, sillä muut asiat eivät terveyteen vaikuta.
+> - (4) Hyvä esimerkki voimavarasta on läheinen ystävä, jolle voi puhua.
+> - (5) Voimavarat ovat ominaisuuksia, jotka ihmisellä joko on tai ei ole syntymästä asti.
+> - (6) Terveyserot johtuvat siitä, että osa ihmisistä tekee huonompia valintoja kuin muut.
+> - (7) Asuinalueen palvelut ja turvallisuus voivat vaikuttaa siihen, miten ihmiset liikkuvat.
+> - (8) Terveyden edistäminen on terveydenhuollon tehtävä, ja se alkaa vasta, kun ihminen sairastuu.
 
-### K2: Taulukon täydentäminen (20 p, 35 min)
+### K2: Taulukon täydentäminen, 35 min (20 p)
 
 *Osa B20 · Harjoittelee: Osaan 3, 4*
 
@@ -223,7 +213,7 @@ Täydennä taulukko vastausarkille. Valitse jokaiselle tasolle yksi tai kaksi ai
 | Yhteiskunnallinen | | | |
 | Globaali | | | |
 
-### K3: Aineiston analyysi (30 p, 50 min)
+### K3: Aineiston analyysi, 50 min (30 p)
 
 *Osa C30 · Harjoittelee: Osaan 1, 3, 4, 5*
 
@@ -232,12 +222,14 @@ Täydennä taulukko vastausarkille. Valitse jokaiselle tasolle yksi tai kaksi ai
 > **Järvelän nuorisotalo suljetaan säästösyistä.** Järvelän kunta sulkee nuorisotalon ensi vuonna, ja iltabussi keskustaan lakkautetaan. Nuoriso-ohjaajan mukaan talolla käy moni nuori, jolla ei ole muuta harrastusta. "Täällä saa olla rauhassa ja jutella aikuisen kanssa", hän sanoo. Valtuutettu perustelee päätöstä sillä, että kunnan on säästettävä ja että nuoret voivat harrastaa urheiluseuroissa. Lukiolainen Kim kertoo, että seurojen maksut ovat monelle liian kalliita ja että ilman iltabussia syrjäkylien nuoret jäävät kotiin. Lukio suunnittelee välitunneille maksutonta kerho- ja liikuntatoimintaa.
 
 a) Analysoi, mitkä terveyden taustatekijät ja voimavarat aineistossa näkyvät ja millä tasoilla ne ovat. (10 p)
+
 b) Selitä kahden aineiston tekijän vaikutusmekanismi nuorten terveyteen. (8 p)
+
 c) Arvioi, miten päätös voi vaikuttaa terveyseroihin nuorten välillä, ja tee kaksi perusteltua ehdotusta nuorten terveyden edistämiseksi Järvelässä. (12 p)
 
 ## Mallivastaukset
 
-### K1: Mallivastaus
+### K1: Virheiden tunnistaminen, 25 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -252,6 +244,7 @@ Lauseet 2, 4 ja 7 ovat oikein.
 **Pisteytys**
 
 *Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
+
 - Jokainen viidestä virheestä 4 p: virheen tunnistaminen ja selitys, miksi se on väärin, 2 p; täsmällinen korjaus käsitteineen 2 p. Yhteensä 5 × 4 p = 20 p.
 - Oikean lauseen merkitseminen virheeksi: −1 p kerrallaan (ei alle nollan tehtävästä).
 
@@ -268,7 +261,7 @@ Lauseet 2, 4 ja 7 ovat oikein.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K2: Mallivastaus
+### K2: Taulukon täydentäminen, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -284,10 +277,12 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Pisteytys**
 
 *Sisältö 10 p:*
+
 - Jokainen neljästä rivistä 2 p: aineistosta poimittu tekijä oikealla tasolla ja suojaava/kuormittava-merkintä 1 p; uskottava vaikutusmekanismi, jossa on välittävä tekijä, 1 p. Yhteensä 8 p.
 - Kahden tekijän yhteys selitetty ja perusteltu 2 p (pelkkä maininta 1 p).
 
 *Tiedonkäsittely 10 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+
 - 8–10 p: käsitteet ovat täsmällisiä, mekanismit etenevät ketjuna ja liittyvät Aaron tilanteeseen, yhteys on perusteltu.
 - 4–7 p: tekijät ovat oikein, mutta mekanismit jäävät yleisiksi tai osin irrallisiksi aineistosta.
 - 0–3 p: tekijöitä luetellaan ilman selityksiä, tai tasot menevät sekaisin.
@@ -303,7 +298,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K3: Mallivastaus
+### K3: Aineiston analyysi, 50 min (30 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -319,11 +314,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Pisteytys**
 
 *Sisältö 15 p:*
+
 - a) Taustatekijöitä vähintään kolmelta tasolta oikein luokiteltuna 3 p; voimavarojen tunnistaminen ja nimeäminen ulkoisiksi tai sisäisiksi 2 p. Yhteensä 5 p.
 - b) Kaksi vaikutusmekanismia, kumpikin ketjuna aineiston tekijästä terveyteen, 2 p kumpikin. Yhteensä 4 p.
 - c) Terveyserojen arviointi: kenelle vaikutus kohdistuu ja miksi 1 p, vastakkainen näkökulma 1 p; kaksi ehdotusta, joissa kerrotaan toimija, keino ja perustelu, 2 p kumpikin. Yhteensä 6 p.
 
 *Tiedonkäsittely 15 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+
 - 12–15 p: käsitteet (taustatekijä, voimavara, vaikutusmekanismi, terveyserot, terveyden edistäminen) ovat täsmällisiä; analyysi nojaa aineistoon; arvio punnitsee eri näkökulmia; ehdotukset ovat realistisia ja perusteltuja; vastaus etenee kohdittain.
 - 6–11 p: sisältö on pääosin oikein, mutta aineistoon viitataan vähän, arvio on yksipuolinen tai ehdotukset jäävät perustelematta.
 - 0–5 p: vastaus luettelee asioita, jää yleiselle tasolle tai ei käytä aineistoa.
@@ -372,7 +369,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Koeharjoitus ja exit | 10 | K1:n virheet 1–2 yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit-lappu: yksi käsite, joka on vielä epäselvä. | Näytä K1:n pisteytys ja kysy: mistä 4 pistettä syntyy? | Paperilla. | Tarkistus kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat harjoituksia kotiin tai kertaukseen. | – | – |
 
-## Tuntisuunnitelma (60 min)
+### Tuntisuunnitelma (60 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -384,7 +381,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Koeharjoitus ja exit | 7 | K1:n virhe 1 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten 4 pistettä jakautuu. | Paperilla. | Tarkistus kotona. |
 | Puskuri | 2 | Kysymykset. | Kerro K1–K3:sta kotiharjoituksina. | – | – |
 
-## Tuntisuunnitelma (45 min)
+### Tuntisuunnitelma (45 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -401,7 +398,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Piirrä tai tulosta neljän kehän pohja taululle. Opiskelijat pärjäävät tyhjällä paperilla.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Selvitä koulun opiskeluhuollon ja opiskeluterveydenhuollon yhteystiedot (esimerkki), jotta voit kertoa ne tarvittaessa.
-- Tutustu halutessasi Opetushallituksen tukimateriaalin kehämalliin (linkitetyt materiaalit).
+- Tutustu halutessasi Opetushallituksen tukimateriaalin kehämalliin (ks. Lähteet).
 
 ### Avoimet kysymykset
 
@@ -448,14 +445,11 @@ Tällä sivulla opiskellaan terveyttä yleisesti. Jos sinulla on omia oireita ta
 
 **Apua saat myös:**
 
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille.
+- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
+- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
 - [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.
-
-## Linkitetyt materiaalit
-
-Kootaan sivun tiedoista automaattisesti.
 
 ## Lähteet
 

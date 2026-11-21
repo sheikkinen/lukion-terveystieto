@@ -21,8 +21,14 @@ official_links:
   - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
   - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin-kollektiivi", read: 2026-11-21}
   - {title: "MIELI Kriisipuhelin", url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
+  - {title: "Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
+  - {title: "HOPS (opinto-ohjaus, aihe 06)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/06-hops/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
+  - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
+  - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", read: 2026-11-21}
+  - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", read: 2026-11-21}
 yearly_facts: [opiskeluterveydenhuolto, terveyskysely_opiskeluterveydenhuolto, kriisipuhelimet]
-materials:
+materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
+linked_materials:
   - title: "Terveystiedon LOPS 2019 -tukimateriaali"
     url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali"
     publisher: "Opetushallitus"
@@ -142,7 +148,7 @@ Hyvä oppimistavoite on konkreettinen, aikataulutettu ja realistinen. Siinä on 
 
 ### Mistä tukea saa?
 
-Opiskeluhuolto tukee opiskelijan hyvinvointia ja oppimista. Siihen kuuluvat kuraattori, psykologi ja terveydenhoitaja sekä opiskeluterveydenhuollon lääkäri. Opiskelijalla on oikeus opiskeluhuoltoon. Opiskeluterveydenhuolto toteuttaa opintojen alussa digitaalisen terveyskyselyn, jonka toisen asteen opiskelijat täyttävät syksystä 2026 alkaen (ks. [OPH:n uutinen](https://www.oph.fi/fi/uutiset/2026/digitaalinen-terveyskysely-kayttoon-kaikille-toisen-asteen-opiskelijoille)). Oppimisen tukea saa opettajalta ja koulun oppimisen tuesta. Palvelujen saatavuus vaihtelee alueittain, ja koulusi kertoo, miten aika varataan.
+Opiskeluhuolto tukee opiskelijan hyvinvointia ja oppimista. Siihen kuuluvat kuraattori, psykologi ja terveydenhoitaja sekä opiskeluterveydenhuollon lääkäri. Opiskelijalla on oikeus opiskeluhuoltoon. Opiskeluterveydenhuolto toteuttaa opintojen alussa digitaalisen terveyskyselyn, jonka toisen asteen opiskelijat täyttävät. Kyselyn käyttöönotosta kertoo [OPH:n uutinen](https://www.oph.fi/fi/uutiset/2026/digitaalinen-terveyskysely-kayttoon-kaikille-toisen-asteen-opiskelijoille). Oppimisen tukea saa opettajalta ja koulun oppimisen tuesta. Palvelujen saatavuus vaihtelee alueittain, ja koulusi kertoo, miten aika varataan.
 
 ## Tehtävät
 
@@ -212,7 +218,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia.
 
-### K1: Virheiden tunnistaminen (20 p, 25 min)
+### K1: Virheiden tunnistaminen, 25 min (20 p)
 
 *Osa A20 · Harjoittelee: Osaan 1, 3, 4, 5*
 
@@ -220,9 +226,16 @@ Alla olevassa kuvitteellisessa blogitekstissä on viisi asiavirhettä. Tunnista 
 
 *Aineisto (kuvitteellinen): "Opiskeluhyvinvointi on vain jaksamista"*
 
-> (1) Opiskelukyky riippuu vain opiskelijan omasta tahdonvoimasta. (2) Opiskelukykyyn vaikuttavat vaatimusten ja voimavarojen suhde sekä mahdollisuus palautua. (3) Tauot ja palautuminen ovat laiskuutta, koska opiskelussa pitää olla koko ajan työn alla. (4) Aktiivinen kertaus, kuten asian selittäminen omin sanoin, tukee muistamista usein paremmin kuin pelkkä uudelleenlukeminen. (5) Opiskeluhuolto on tarkoitettu vain niille, joilla on jo vakavia ongelmia. (6) Hyvässä tavoitteessa on tapa arvioida, onko tavoite saavutettu. (7) Jos tavoite jää saavuttamatta, se osoittaa, ettei opiskelija sovi lukioon. (8) Kaikille sopii sama oppimisen tapa.
+> - (1) Opiskelukyky riippuu vain opiskelijan omasta tahdonvoimasta.
+> - (2) Opiskelukykyyn vaikuttavat vaatimusten ja voimavarojen suhde sekä mahdollisuus palautua.
+> - (3) Tauot ja palautuminen ovat laiskuutta, koska opiskelussa pitää olla koko ajan työn alla.
+> - (4) Aktiivinen kertaus, kuten asian selittäminen omin sanoin, tukee muistamista usein paremmin kuin pelkkä uudelleenlukeminen.
+> - (5) Opiskeluhuolto on tarkoitettu vain niille, joilla on jo vakavia ongelmia.
+> - (6) Hyvässä tavoitteessa on tapa arvioida, onko tavoite saavutettu.
+> - (7) Jos tavoite jää saavuttamatta, se osoittaa, ettei opiskelija sovi lukioon.
+> - (8) Kaikille sopii sama oppimisen tapa.
 
-### K2: Taulukon täydentäminen (20 p, 30 min)
+### K2: Taulukon täydentäminen, 30 min (20 p)
 
 *Osa B20 · Harjoittelee: Osaan 3, 4, 5*
 
@@ -236,7 +249,7 @@ Täydennä taulukko vastausarkille. Valitse jokaiselle opiskelijalle sopiva oppi
 | Aaro, kemian laskut | | | |
 | Kim, ryhmätyön aikataulu | | | |
 
-### K3: Aineiston analyysi (30 p, 45 min)
+### K3: Aineiston analyysi, 45 min (30 p)
 
 *Osa C30 · Harjoittelee: Osaan 1, 2, 4, 5*
 
@@ -245,12 +258,14 @@ Täydennä taulukko vastausarkille. Valitse jokaiselle opiskelijalle sopiva oppi
 > **Nooran päiväkirja.** *Maanantai:* Uusi jakso alkoi. Päätin, että opiskelen nyt enemmän. *Tiistai:* Opiskelin illalla pitkään, ja tauot jäivät väliin. *Keskiviikko:* Aamulla oli vaikea keskittyä, ja kemian tunti meni ohi. *Torstai:* Opiskelin taas pitkään. Ystävät kysyivät, tulenko illalla mukaan, mutta jäin kotiin. *Perjantai:* Olen väsynyt ja ärtynyt. Mietin, onko minussa jotain vikaa, kun en jaksa. Opettaja sanoi tunnilla, että opiskeluhuoltoon voi tulla ilman erityistä syytä, mutta en halua vaivata.
 
 a) Analysoi, mitkä tekijät tukevat tai kuormittavat Nooran opiskeluhyvinvointia ja millä tasoilla ne ovat. (10 p)
+
 b) Arvioi Nooran tavoitetta ja opiskelutapaa ja kirjoita hänelle parempi tavoite ja suunnitelma. (8 p)
+
 c) Arvioi, miten koulu ja opiskeluhuolto voisivat tukea Nooraa, ja tee kaksi perusteltua ehdotusta opiskeluhyvinvoinnin edistämiseksi koulussa. (12 p)
 
 ## Mallivastaukset
 
-### K1: Mallivastaus
+### K1: Virheiden tunnistaminen, 25 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -265,6 +280,7 @@ Lauseet 2, 4 ja 6 ovat oikein.
 **Pisteytys**
 
 *Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
+
 - Jokainen viidestä virheestä 4 p: virheen tunnistaminen ja selitys, miksi se on väärin, 2 p; täsmällinen korjaus käsitteineen 2 p. Yhteensä 5 × 4 p = 20 p.
 - Oikean lauseen merkitseminen virheeksi: −1 p kerrallaan (ei alle nollan tehtävästä).
 
@@ -281,7 +297,7 @@ Lauseet 2, 4 ja 6 ovat oikein.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K2: Mallivastaus
+### K2: Taulukon täydentäminen, 30 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -296,10 +312,12 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Pisteytys**
 
 *Sisältö 10 p:*
+
 - Jokainen kolmesta rivistä 3 p: sopiva tapa ja perustelu 1 p, onnistumisen arviointitapa 1 p, uskottava tuki 1 p. Yhteensä 9 p.
 - Selitys siitä, miksi sama tapa ei sovi kaikille, 1 p.
 
 *Tiedonkäsittely 10 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+
 - 8–10 p: tavat on valittu tilanteen mukaan ja perusteltu käsitteillä, arviointi on konkreettista ja tuki realistista.
 - 4–7 p: tavat ovat sopivia, mutta perustelut tai arviointi jäävät yleisiksi.
 - 0–3 p: samat tavat toistuvat kaikilla riveillä ilman perustelua, tai riveille kirjoitetaan neuvoja ilman käsitteitä.
@@ -315,7 +333,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K3: Mallivastaus
+### K3: Aineiston analyysi, 45 min (30 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -330,11 +348,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Pisteytys**
 
 *Sisältö 15 p:*
+
 - a) Vähintään kolme kuormittavaa tai tukevaa tekijää oikein luokiteltuna 3 p; tasojen tunnistaminen 2 p. Yhteensä 5 p.
 - b) Tavoitteen puutteet tunnistettu 1 p; opiskelutavan arviointi 1 p; parempi tavoite on konkreettinen ja arvioitavissa 1 p; suunnitelmassa on varasuunnitelma 1 p. Yhteensä 4 p.
 - c) Opiskeluhuollon rooli ja kynnys arvioitu 2 p; kaksi ehdotusta, joissa on toimija, keino ja perustelu, 2 p kumpikin. Yhteensä 6 p.
 
 *Tiedonkäsittely 15 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+
 - 12–15 p: käsitteet (opiskeluhyvinvointi, vaatimukset, voimavarat, palautuminen, oppimisen tavat) ovat täsmällisiä; analyysi nojaa aineistoon; arvio punnitsee näkökulmia; ehdotukset ovat realistisia ja perusteltuja; vastaus etenee kohdittain.
 - 6–11 p: sisältö on pääosin oikein, mutta aineistoon viitataan vähän, arvio on yksipuolinen tai ehdotukset jäävät perustelematta.
 - 0–5 p: vastaus luettelee asioita, jää yleiselle tasolle tai ei käytä aineistoa.
@@ -383,7 +403,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Koeharjoitus ja exit | 10 | K1:n virheet 1–2 yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit-lappu: yksi käsite, joka on vielä epäselvä. | Näytä K1:n pisteytys ja kysy: mistä 4 pistettä syntyy? | Paperilla. | Tarkistus kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat harjoituksia kotiin tai kertaukseen. Muistuta avun reiteistä. | – | – |
 
-## Tuntisuunnitelma (60 min)
+### Tuntisuunnitelma (60 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -395,7 +415,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Koeharjoitus ja exit | 7 | K1:n virhe 1 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten 4 pistettä jakautuu. | Paperilla. | Tarkistus kotona. |
 | Puskuri | 2 | Kysymykset. | Kerro K1–K3:sta kotiharjoituksina. | – | – |
 
-## Tuntisuunnitelma (45 min)
+### Tuntisuunnitelma (45 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -462,16 +482,12 @@ Tällä sivulla opiskellaan opiskeluhyvinvointia yleisesti. Jos sinulla on omia 
 **Apua saat myös:**
 
 - Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille.
+- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
 - [Nyyti ry (luettu 21.11.2026)](https://www.nyyti.fi/): opiskelijoiden hyvinvoinnin tuki.
 - [Opiskeluun liittyvän uupumuksen ehkäisyn omahoito-ohjelma (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/omahoito/opiskelu-uupumuksen-ehkaisyn-omahoito-ohjelma): omahoito-ohjelma opiskelijoille.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
 - [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.
-
-## Linkitetyt materiaalit
-
-Kootaan sivun tiedoista automaattisesti.
 
 ## Lähteet
 

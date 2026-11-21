@@ -13,36 +13,18 @@ self_study_minutes: 70
 prerequisites: [te1-01-terveys-voimavarana]
 safety_flags: []
 official_links:
-  - title: "Terveyskirjasto"
-    url: "https://www.terveyskirjasto.fi/"
-    publisher: "Kustannus Oy Duodecim"
-    read: 2026-11-21
-  - title: "Terveyskylä"
-    url: "https://www.terveyskyla.fi/"
-    publisher: "Yliopistosairaalat"
-    read: 2026-11-21
-  - title: "Opiskeluterveydenhuolto"
-    url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto"
-    publisher: "Terveyden ja hyvinvoinnin laitos (THL)"
-    read: 2026-11-21
-  - title: "Opiskeluhuolto"
-    url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
-  - title: "Mielenterveystalo: nuoret"
-    url: "https://www.mielenterveystalo.fi/fi/nuoret"
-    publisher: "Mielenterveystalo.fi (HUS)"
-    read: 2026-11-21
-  - title: "Sekasin-chat"
-    url: "https://sekasin.fi/"
-    publisher: "Sekasin-kollektiivi"
-    read: 2026-11-21
-  - title: "MIELI Kriisipuhelin"
-    url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/"
-    publisher: "MIELI Suomen Mielenterveys ry"
-    read: 2026-11-21
+  - {title: "Terveyskirjasto", url: "https://www.terveyskirjasto.fi/", publisher: "Kustannus Oy Duodecim", read: 2026-11-21}
+  - {title: "Terveyskylä", url: "https://www.terveyskyla.fi/", publisher: "Yliopistosairaalat", read: 2026-11-21}
+  - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
+  - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
+  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin-kollektiivi", read: 2026-11-21}
+  - {title: "MIELI Kriisipuhelin", url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
+  - {title: "Tietolähteet (opinto-ohjaus, aihe 08)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/08-tietolahteet/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
+  - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
 yearly_facts: [opiskeluterveydenhuolto, kriisipuhelimet]
-materials:
+materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
+linked_materials:
   - title: "Terveyskirjasto (Duodecim)"
     url: "https://www.terveyskirjasto.fi/"
     publisher: "Kustannus Oy Duodecim"
@@ -174,6 +156,7 @@ Tiedon luotettavuuden arviointi on osa terveyslukutaitoa. Katso, kuka tiedon on 
 **Harjoittelet:** Osaan 3
 
 *Kuvitteellisia tilanteita:*
+
 - (a) Kasvojen juonteita aletaan kutsua hoitoa vaativaksi ongelmaksi.
 - (b) Ujon ihmisen ujoutta pidetään sairautena, vaikka se on persoonallisuuden piirre.
 - (c) Raskaus ja synnytys nähdään vain lääketieteellisenä tapahtumana, vaikka useimmat sujuvat ongelmitta.
@@ -205,7 +188,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia.
 
-### K1: Taulukon täydentäminen (20 p, 25 min)
+### K1: Taulukon täydentäminen, 25 min (20 p)
 
 *Osa A20 · Harjoittelee: Osaan 2, 3, 4*
 
@@ -219,7 +202,7 @@ Täydennä taulukko vastausarkille. Kirjoita jokaiselle ilmiölle selitys omin s
 | Elintapoihin puuttuminen | | | | |
 | Uskomus- eli vaihtoehtohoito | | | | |
 
-### K2: Aineiston analyysi (20 p, 35 min)
+### K2: Aineiston analyysi, 35 min (20 p)
 
 *Osa B20 · Harjoittelee: Osaan 5*
 
@@ -228,22 +211,26 @@ Täydennä taulukko vastausarkille. Kirjoita jokaiselle ilmiölle selitys omin s
 > **Veden voima -hoito: palauta tasapainosi!** Hoidon kehittäjä, joka on toiminut alalla vuosia, kertoo, että hoito poistaa kehosta kaiken, mikä aiheuttaa sairauksia. Sivulla ei ole tutkimuksia, mutta moni asiakas on ollut tyytyväinen. Hinta on korkea, ja hoitokertoja tarvitaan monta. Sivulla kehotetaan keskustelemaan hoidosta ennen kuin lääkäri sotkee asiaa.
 
 a) Arvioi aineiston luotettavuutta tutkimustiedon näkökulmasta. Nimeä ja perustele vähintään kolme heikkoa kohtaa. (10 p)
+
 b) Selitä, miksi ihminen voi silti valita tällaisen hoidon. (5 p)
+
 c) Kirjoita kunnioittava mutta asiallinen vastaus ystävälle, joka harkitsee hoitoa. (5 p)
 
-### K3: Eettinen analyysi (30 p, 50 min)
+### K3: Eettinen analyysi, 50 min (30 p)
 
 *Osa C30 · Harjoittelee: Osaan 2, 4*
 
 *Aineisto (kuvitteellinen):* Joenrannan kaupunki harkitsee, että asuinalueiden nopeusrajoitusta lasketaan ja katujen varsilta poistetaan pysäköintipaikkoja, jotta kävely ja pyöräily ovat turvallisempia. Kaupunginvaltuutettu puolustaa päätöstä sanomalla, että se suojaa kaikkia ja kaventaa eroja, koska kaikilla ei ole autoa. Autoilijoiden yhdistyksen edustaja sanoo, että päätös rajoittaa tavallista arkea ja että ihmisten pitäisi saada päättää itse, miten liikkuvat. Eräs asukas toteaa, että monet tietävät pyöräilyn olevan terveellistä mutta eivät uskalla pyöräillä, koska tiet tuntuvat vaarallisilta.
 
 a) Tunnista aineistosta eettiset kysymykset ja periaatteet, joita päätöksessä punnitaan. (10 p)
+
 b) Perustele kanta sekä päätöksen puolesta että sitä vastaan. (10 p)
+
 c) Arvioi, mikä on perusteltu ratkaisu, ja ehdota lievempi keino, joka tavoittaa saman päämäärän. (10 p)
 
 ## Mallivastaukset
 
-### K1: Mallivastaus
+### K1: Taulukon täydentäminen, 25 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -258,6 +245,7 @@ c) Arvioi, mikä on perusteltu ratkaisu, ja ehdota lievempi keino, joka tavoitta
 **Pisteytys**
 
 *Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
+
 - Jokainen viidestä rivistä 4 p: oikea selitys 1 p, osuva esimerkki 1 p, oikea hyöty tai suojaava puoli 1 p, oikea haitta tai kuormittava puoli 1 p. Yhteensä 5 × 4 p = 20 p.
 - Selitys, joka vain toistaa ilmiön nimeä, 0 p.
 
@@ -275,7 +263,7 @@ c) Arvioi, mikä on perusteltu ratkaisu, ja ehdota lievempi keino, joka tavoitta
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K2: Mallivastaus
+### K2: Aineiston analyysi, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -288,11 +276,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Pisteytys**
 
 *Sisältö 10 p:*
+
 - a) Kolme heikkoa kohtaa, jokainen nimetty ja perusteltu, 2 p kumpikin. Yhteensä 6 p.
 - b) Vähintään yksi uskottava syy perusteluineen 2 p.
 - c) Vastaus on kunnioittava ja asiallinen, ei kielto 1 p; vastaus ohjaa luotettavaan tietoon tai lääkäriin 1 p. Yhteensä 2 p.
 
 *Tiedonkäsittely 10 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+
 - 8–10 p: heikot kohdat on perusteltu tutkimustiedon käsittein ja viittaa aineistoon; syyt valintaan on ymmärretty; c on kunnioittava ja perusteltu.
 - 4–7 p: kohdat on tunnistettu, mutta perustelut jäävät yleisiksi tai c on vain kielto tai vain myötäily.
 - 0–3 p: vastaus luettelee epäilyjä ilman perusteita tai ei käytä aineistoa.
@@ -309,7 +299,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K3: Mallivastaus
+### K3: Eettinen analyysi, 50 min (30 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -322,12 +312,14 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Pisteytys**
 
 *Sisältö 15 p:*
+
 - a) Vähintään kolme eettistä periaatetta tai kysymystä tunnistettu aineistosta 4 p.
 - b) Perustelu puolesta 3 p ja perustelu vastaan 3 p. Yhteensä 6 p.
 - c) Perusteltu arvio ja kanta 3 p; lievempi keino ja sen perustelu 2 p. Yhteensä 5 p.
 - c) Kumpikin kanta hyväksytään, kunhan se on perusteltu eettisillä periaatteilla ja aineistolla. Mallivastauksen kanta on vain yksi mahdollinen ratkaisu; myös päinvastainen, perusteltu ratkaisu saa täydet pisteet.
 
 *Tiedonkäsittely 15 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+
 - 12–15 p: eettiset käsitteet ovat täsmällisiä; kummankin puolen perustelut ovat oikeudenmukaisia; arvio punnitsee ja kanta perustellaan; ehdotus on realistinen; vastaus etenee kohdittain.
 - 6–11 p: sisältö on pääosin oikein, mutta toinen puoli jää ohueksi, arvio on yleinen tai kanta jää perustelematta.
 - 0–5 p: vastaus on mielipide ilman perusteluja tai ei käytä aineistoa.
@@ -376,7 +368,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Koeharjoitus ja exit | 10 | K1:n rivit 1–2 yksin (7 min) ja tarkistus (3 min). Exit-lappu: yksi käsite, joka on vielä epäselvä. | Näytä K1:n pisteytys ja kysy: mistä neljä pistettä syntyy? | Paperilla. | Tarkistus kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat harjoituksia kotiin tai kertaukseen. | – | – |
 
-## Tuntisuunnitelma (60 min)
+### Tuntisuunnitelma (60 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -388,7 +380,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Koeharjoitus ja exit | 7 | K1:n rivi 1 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten neljä pistettä jakautuu. | Paperilla. | Tarkistus kotona. |
 | Puskuri | 2 | Kysymykset. | Kerro K1–K3:sta kotiharjoituksina. | – | – |
 
-## Tuntisuunnitelma (45 min)
+### Tuntisuunnitelma (45 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -405,7 +397,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Piirrä taululle kolme saraketta: arvot, tavat, olot. Opiskelijat pärjäävät tyhjällä paperilla.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Päätä etukäteen, miten käsittelet vaihtoehtohoidot kunnioittavasti: kysymys on tutkimustiedosta, ei ihmisistä.
-- Tutustu halutessasi Opetushallituksen tukimateriaaliin (linkitetyt materiaalit).
+- Tutustu halutessasi Opetushallituksen tukimateriaaliin (ks. Lähteet).
 
 ### Avoimet kysymykset
 
@@ -453,14 +445,10 @@ Tällä sivulla opiskellaan terveyttä ja terveyskulttuuria yleisesti. Jos sinul
 **Apua saat myös:**
 
 - Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille.
+- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
 - [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.
-
-## Linkitetyt materiaalit
-
-Kootaan sivun tiedoista automaattisesti.
 
 ## Lähteet
 

@@ -24,33 +24,6 @@ facts:
   read: '2026-11-21'
   note: 'TILA: ei virallista suositusta. Mielenterveystalon sivu luettu 2026-11-21: se antaa nuorille noin 8-10 tunnin ohjeen,
     mutta päiväystä ei näy; muiden lähteiden tuntiluvut ovat ristiriitaisia. Terveydenhuollon ammattilaisen tarkistettava ennen tuntilukuja.'
-- key: alkoholilaki
-  rule: Alkoholin ostamiselle ja hallussapidolle on lakiin perustuvat ikärajat. Sivusto ei toista ikärajoja eikä prosenttirajoja ennen kuin Finlexin ajantasainen teksti on luettu; alkoholilakia uudistetaan. Tarkista voimassa oleva teksti Finlexistä.
-  url: https://www.finlex.fi/fi/lainsaadanto/2017/1102
-  publisher: Finlex (alkoholilaki 1102/2017)
-  read: null
-  status: ei-luettu
-  note: Finlex-sivu aukeaa, mutta pykälätekstiä ei saatu luettua (sivu katkesi). Ikärajat luettu vain hakutuloksen
-    tiivistelmästä Alkon ohjeesta (Alkon sivu palautti 403). Alkoholilakia uudistettu 2025-2026 (STM tiedote 25.6.2026),
-    ikärajojen muutosta ei vahvistettu. Tarkistettava.
-- key: tupakkalaki
-  rule: Tupakka- ja nikotiinituotteiden myynti alle 18-vuotiaille on kielletty. Tupakkalakia on uudistettu vaiheittain
-    1.8.2025 alkaen, joten tarkista ajantasainen laki.
-  url: https://www.finlex.fi/fi/lainsaadanto/2016/549
-  publisher: Finlex (tupakkalaki 549/2016)
-  read: null
-  status: ei-luettu
-  note: 'Finlex-sivu aukeaa, pykälätekstiä ei luettu. Alaikäisille myynnin kielto jatkuu: valtioneuvoston tiedote
-    27.5.2025 (luettu). Nikotiinipussien hallussapitokiellosta alaikäisille ei saatu vahvistusta: väite ''hallussapitokielto''
-    on edelleen [M], ei sivustolle.'
-- key: huumausainelaki
-  rule: Huumausaineiden käyttö, hallussapito ja myynti ovat Suomessa rangaistavia. Aihe kuuluu TE2:een; TE1 vain
-    viittaa.
-  url: https://www.finlex.fi/fi/lainsaadanto/2008/373
-  publisher: Finlex (huumausainelaki 373/2008)
-  read: null
-  status: ei-luettu
-  note: EI LUETTU. Osoite on kriitikon tiedossa oleva laki; sivua ei avattu tässä ajossa (TE2-aihe).
 - key: opiskeluterveydenhuolto
   rule: Toisen asteen opiskelijalla on oikeus opiskeluterveydenhuollon palveluihin, jotka tukevat terveyttä, hyvinvointia
     ja opiskelukykyä. Omissa oireissa ota yhteys opiskeluterveydenhuoltoon, lääkäriin tai hätätilanteessa 112:een.

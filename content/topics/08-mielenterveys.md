@@ -20,8 +20,13 @@ official_links:
   - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin-kollektiivi", read: 2026-11-21}
   - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
   - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
+  - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
+  - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", read: 2026-11-21}
+  - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", read: 2026-11-21}
 yearly_facts: [kriisipuhelimet, opiskeluterveydenhuolto]
-materials:
+materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
+linked_materials:
   - title: "Terveystiedon LOPS 2019 -tukimateriaali"
     url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali"
     publisher: "Opetushallitus"
@@ -166,6 +171,7 @@ Ensimmäinen askel on usein puhua jollekulle. Koulussa apua antavat opiskeluhuol
 **Harjoittelet:** Osaan 1 ja 4
 
 Lauseet ovat kuvitteellisia kuultuja kommentteja:
+
 - (a) "Kuraattorilla käyvä on heikko."
 - (b) "Jos oikeasti haluaisi, pääsisi masennuksesta yli ottamalla itseään niskasta kiinni."
 - (c) "Meidän koulussa ei ole mielenterveysongelmia."
@@ -213,7 +219,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia.
 
-### K1: Oikein vai väärin -väittämät (20 p, 20 min)
+### K1: Oikein vai väärin -väittämät, 20 min (20 p)
 
 *Osa A20 · Harjoittelee: Osaan 1, 2, 3, 4*
 
@@ -230,7 +236,7 @@ Päätä, ovatko väittämät oikein vai väärin. Perustele jokainen valinta ly
 9. Avun pyytäminen on merkki heikkoudesta.
 10. Sama tekijä voi eri tilanteissa sekä suojata että kuormittaa mielenterveyttä.
 
-### K2: Vertailu näkökulmittain (20 p, 30 min)
+### K2: Vertailu näkökulmittain, 30 min (20 p)
 
 *Osa B20 · Harjoittelee: Osaan 2, 3, 4, 5*
 
@@ -242,7 +248,7 @@ Päätä, ovatko väittämät oikein vai väärin. Perustele jokainen valinta ly
 
 Vertaile lukioita mielenterveyttä suojaavien tekijöiden kannalta näillä näkökulmilla: (1) yhteisön ilmapiiri ja kuulumisen kokemus, (2) avun löytäminen ja hakeminen, (3) leimautuminen. Kerro lopuksi, millä tasolla (yksilö, yhteisö, yhteiskunta) lukioiden toimet vaikuttavat, ja ehdota yksi perusteltu kehitysidea Rauhalan lukiolle.
 
-### K3: Aineiston analyysi (30 p, 45 min)
+### K3: Aineiston analyysi, 45 min (30 p)
 
 *Osa C30 · Harjoittelee: Osaan 2, 3, 4, 5*
 
@@ -251,12 +257,14 @@ Vertaile lukioita mielenterveyttä suojaavien tekijöiden kannalta näillä näk
 > **Järvelän lukion opiskelijakunta haluaa vertaistukea ja avoimempaa keskustelua.** Opiskelijakunta ehdottaa vertaistukiryhmää ja lukuvuoden aikana järjestettävää keskusteluiltaa jaksamisesta. Puheenjohtaja Veera kertoo, että moni on puhunut jaksamisen vaikeuksista kavereille mutta ei kuraattorille, koska kuraattorin ovelle kävellään kaikkien nähden. Rehtori pitää ehdotusta hyvänä, mutta haluaa varmistaa, etteivät vertaisohjaajat jää yksin vaikeiden asioiden kanssa. Osa huoltajista pelkää, että aiheesta puhuminen vain lisää huolia. Kuraattori sanoo, että hänen luokseen voi tulla ilman erityistä syytä, ja ehdottaa, että vertaisohjaajat perehdytetään ja heille sovitaan aikuinen tuki.
 
 a) Analysoi, mitkä mielenterveyttä suojaavat ja kuormittavat tekijät aineistossa näkyvät ja millä tasoilla ne ovat. (10 p)
+
 b) Selitä kahden aineiston tekijän vaikutusmekanismi ketjuna mielenterveyteen. (8 p)
+
 c) Arvioi huoltajien ja rehtorin huolia ja tee kaksi perusteltua ehdotusta siitä, miten koulu voi tukea opiskelijoiden mielenterveyttä. (12 p)
 
 ## Mallivastaukset
 
-### K1: Mallivastaus
+### K1: Oikein vai väärin -väittämät, 20 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -274,6 +282,7 @@ c) Arvioi huoltajien ja rehtorin huolia ja tee kaksi perusteltua ehdotusta siit�
 **Pisteytys**
 
 *Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
+
 - Jokainen kymmenestä väittämästä 2 p: oikea valinta 1 p ja lyhyt perustelu tai korjaus 1 p. Yhteensä 10 × 2 p = 20 p.
 - Oikea valinta ilman perustelua 1 p. Perustelu ilman valintaa 0 p.
 
@@ -290,7 +299,7 @@ c) Arvioi huoltajien ja rehtorin huolia ja tee kaksi perusteltua ehdotusta siit�
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K2: Mallivastaus
+### K2: Vertailu näkökulmittain, 30 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -307,11 +316,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Pisteytys**
 
 *Sisältö 10 p:*
+
 - Jokainen kolmesta näkökulmasta 2 p: molemmat lukiot käsitelty 1 p; vaikutusmekanismi eli miksi toimintatapa suojaa tai ei suojaa 1 p. Yhteensä 6 p.
 - Tasot tunnistettu ja liitetty lukioiden toimiin 2 p.
 - Yksi perusteltu kehitysidea Rauhalan lukiolle 2 p (idea ilman perustelua 1 p).
 
 *Tiedonkäsittely 10 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+
 - 8–10 p: vertailu on tasapainoinen ja etenee näkökulmittain, käsitteet ovat täsmällisiä ja mekanismit ketjuja, arvio perustellaan.
 - 4–7 p: vertailu on pääosin oikein, mutta toinen lukio jää vähemmälle tai mekanismit jäävät yleisiksi.
 - 0–3 p: vastaus kuvaa lukioita erikseen vertailematta tai luettelee tekijöitä selittämättä.
@@ -327,7 +338,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K3: Mallivastaus
+### K3: Aineiston analyysi, 45 min (30 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -343,11 +354,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Pisteytys**
 
 *Sisältö 15 p:*
+
 - a) Suojaavia ja kuormittavia tekijöitä oikein luokiteltuna vähintään kolmelta kohdalta 3 p; tasojen tunnistaminen 2 p. Yhteensä 5 p.
 - b) Kaksi vaikutusmekanismia, kumpikin ketjuna aineiston tekijästä mielenterveyteen, 2 p kumpikin. Yhteensä 4 p.
 - c) Huolten arviointi molemmilta puolilta (huoltajat ja rehtori) 2 p; kaksi ehdotusta, joissa on toimija, keino ja perustelu, 2 p kumpikin. Yhteensä 6 p.
 
 *Tiedonkäsittely 15 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+
 - 12–15 p: käsitteet (suojaava tekijä, kuormittava tekijä, leimautuminen, vaikutusmekanismi) ovat täsmällisiä; analyysi nojaa aineistoon; arvio punnitsee huolia ja hyötyjä; ehdotukset ovat realistisia ja perusteltuja; vastaus etenee kohdittain.
 - 6–11 p: sisältö on pääosin oikein, mutta aineistoon viitataan vähän, arvio on yksipuolinen tai ehdotukset jäävät perustelematta.
 - 0–5 p: vastaus luettelee asioita, jää yleiselle tasolle tai ei käytä aineistoa.
@@ -396,7 +409,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Koeharjoitus ja exit | 10 | K1:n väittämät 1–4 yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit-lappu: yksi käsite, joka on vielä epäselvä. | Näytä, miten 2 pistettä jakautuu valintaan ja perusteluun. | Paperilla. | Tarkistus kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat harjoituksia kotiin tai kertaukseen. Kerro vielä, mistä apua saa. | – | – |
 
-## Tuntisuunnitelma (60 min)
+### Tuntisuunnitelma (60 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -408,7 +421,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Koeharjoitus ja exit | 7 | K1:n väittämät 1–2 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä pisteytys. | Paperilla. | Tarkistus kotona. |
 | Puskuri | 2 | Kysymykset. | Kerro K1–K3:sta kotiharjoituksina ja muistuta avun reiteistä. | – | – |
 
-## Tuntisuunnitelma (45 min)
+### Tuntisuunnitelma (45 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -477,16 +490,11 @@ Jos huolestut ystävästäsi, kuuntele häntä rauhallisesti ja kerro, että vä
 **Apua saat myös:**
 
 - Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille.
+- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia ja tietoa nuorille.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
 - [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.
 - [MIELI Suomen Mielenterveys ry (luettu 21.11.2026)](https://mieli.fi/): tietoa mielenterveydestä ja avusta.
 
-## Linkitetyt materiaalit
-
-Kootaan sivun tiedoista automaattisesti.
-
 ## Lähteet
-
 Kootaan sivun tiedoista automaattisesti.

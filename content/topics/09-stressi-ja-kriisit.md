@@ -20,8 +20,13 @@ official_links:
   - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin-kollektiivi", read: 2026-11-21}
   - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
   - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Opiskelutaidot (opinto-ohjaus, aihe 02)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/02-opiskelutaidot/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
+  - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
+  - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", read: 2026-11-21}
+  - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", read: 2026-11-21}
 yearly_facts: [kriisipuhelimet, opiskeluterveydenhuolto]
-materials:
+materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
+linked_materials:
   - title: "Terveystiedon LOPS 2019 -tukimateriaali"
     url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali"
     publisher: "Opetushallitus"
@@ -169,6 +174,7 @@ Jos ystäväsi puhuu siitä, ettei jaksa tai ettei halua elää, kuuntele hänt�
 **Harjoittelet:** Osaan 3 ja 5
 
 *Tapaukset (kuvitteellisia):*
+
 - (A) **Kim** muuttaa toiselle paikkakunnalle opiskelemaan ja asuu ensimmäistä kertaa yksin. Kotiin on ikävä, ja kaikki on uutta.
 - (B) **Veeran** kotitalossa syttyy tulipalo. Koti vahingoittuu eikä siellä voi asua, ja perhe muuttaa väliaikaisesti muualle.
 - (C) **Samin** läheinen ihminen kuolee äkillisesti.
@@ -216,7 +222,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia.
 
-### K1: Taulukon täydentäminen (20 p, 25 min)
+### K1: Taulukon täydentäminen, 25 min (20 p)
 
 *Osa A20 · Harjoittelee: Osaan 1, 2, 3, 4*
 
@@ -230,17 +236,19 @@ Täydennä taulukko vastausarkille. Kirjoita jokaiselle riville käsitteen merki
 | Traumaattinen kriisi | | | |
 | Tunnekeskeinen selviytymiskeino | | | |
 
-### K2: Teorian soveltaminen (20 p, 35 min)
+### K2: Teorian soveltaminen, 35 min (20 p)
 
 *Osa B20 · Harjoittelee: Osaan 2, 4, 5*
 
 *Aineisto (kuvitteellinen):* **Sami** valmistautuu ylioppilaskirjoituksiin. Samalla hänen paras ystävänsä on muuttanut toiselle paikkakunnalle. Sami huomaa, että keskittyminen on heikentynyt ja hän on ärtynyt. Hän on lopettanut kavereiden tapaamisen ja yrittää selvitä lukemalla vielä enemmän. Hän ajattelee: "Jos pyydän apua, muut luulevat, etten pärjää." Lukiossa on opiskeluhuolto, mutta Sami ei ole ottanut siihen yhteyttä.
 
 a) Kuvaa Samin tilanne stressin ketjuna: vaatimukset, arvio, stressireaktio ja palautuminen. (8 p)
+
 b) Luokittele Samin nykyiset selviytymiskeinot ongelmakeskeisiksi, tunnekeskeisiksi tai sosiaaliseksi tueksi ja arvioi niiden vahvuudet ja rajat. (6 p)
+
 c) Ehdota kaksi keinoa, joilla Samin kuormitusta voitaisiin vähentää, ja kerro, mikä niistä on yhteisön tai koulun tehtävä. (6 p)
 
-### K3: Eettinen analyysi (30 p, 50 min)
+### K3: Eettinen analyysi, 50 min (30 p)
 
 *Osa C30 · Harjoittelee: Osaan 4, 5*
 
@@ -249,12 +257,14 @@ Tämä tehtävä käsittelee ystävän huolta. Voit ohittaa sen, jos aihe tuntuu
 *Aineisto (kuvitteellinen):* **Kim** ja **Noor** ovat olleet ystäviä pitkään. Noor on viime aikoina vetäytynyt ja vaikuttaa hyvin uupuneelta, ja hän on sanonut asioita, jotka huolestuttavat Kimiä. Kim on päättänyt, että asiaan tarvitaan aikuinen. Hän pohtii, miten asian voi tehdä niin, että Noorin luottamus säilyy. Kim pelkää, että Noor suuttuu ja ystävyys päättyy. Koulussa on opiskeluhuolto, jossa Kim voisi käydä.
 
 a) Tunnista tilanteen osapuolet ja eettiset arvot ja periaatteet, jotka ovat vastakkain. (10 p)
+
 b) Esitä kaksi vaihtoehtoista tapaa, joilla Kim voi ottaa aikuisen mukaan, ja punnitse niiden seurauksia. (10 p)
+
 c) Perustele kannanotto siitä, miten Kimin kannattaa toimia, ja kerro, miten koulu ja yhteiskunta voivat tukea sekä Nooria että Kimiä. (10 p)
 
 ## Mallivastaukset
 
-### K1: Mallivastaus
+### K1: Taulukon täydentäminen, 25 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -269,6 +279,7 @@ c) Perustele kannanotto siitä, miten Kimin kannattaa toimia, ja kerro, miten ko
 **Pisteytys**
 
 *Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
+
 - Jokainen viidestä rivistä 4 p: merkitys 2 p, esimerkki 1 p, tukeva tekijä 1 p. Yhteensä 5 × 4 p = 20 p.
 - Merkitys vain nimeämällä toistettu käsite ("kriisi on kriisi") 0 p.
 
@@ -285,7 +296,7 @@ c) Perustele kannanotto siitä, miten Kimin kannattaa toimia, ja kerro, miten ko
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K2: Mallivastaus
+### K2: Teorian soveltaminen, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -298,11 +309,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Pisteytys**
 
 *Sisältö 10 p:*
+
 - a) Ketjun neljä osaa (vaatimukset, arvio, stressireaktio, palautuminen) poimittu aineistosta 1 p kumpikin. Yhteensä 4 p.
 - b) Selviytymiskeinot luokiteltu oikein (lukeminen ongelmakeskeiseksi; tunnekeskeinen keino ja sosiaalinen tuki puuttuvat tai ovat vähäisiä) 2 p; vähintään yksi vahvuus ja yksi raja perusteltu 1 p. Yhteensä 3 p.
 - c) Kaksi ehdotusta, joissa on keino ja perustelu, 1 p kumpikin; yhteisön tai koulun tehtävä tunnistettu 1 p. Yhteensä 3 p.
 
 *Tiedonkäsittely 10 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+
 - 8–10 p: käsitteet ovat täsmällisiä, ketju etenee aineistosta, keinojen vahvuuksia ja rajoja arvioidaan ja ehdotukset perustellaan.
 - 4–7 p: sisältö on pääosin oikein, mutta ketju jää osittaiseksi tai arvio yleiseksi.
 - 0–3 p: vastaus kuvaa Samia ilman käsitteitä tai antaa vain neuvoja.
@@ -320,7 +333,7 @@ Tehtävänannon osapisteet (a 8 p, b 6 p, c 6 p) sisältävät sekä sisällön 
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K3: Mallivastaus
+### K3: Eettinen analyysi, 50 min (30 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -334,11 +347,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Pisteytys**
 
 *Sisältö 15 p:*
+
 - a) Osapuolet tunnistettu 1 p; vähintään kolme arvoa tai periaatetta tunnistettu ja nimetty 3 p; vastakkainasettelu selitetty 1 p. Yhteensä 5 p.
 - b) Kaksi toimintatapaa esitetty, kummallekin sekä etu että haitta, 2 p kumpikin. Yhteensä 4 p.
 - c) Kannanotto esitetty ja perusteltu arvoilla 2 p; konkreettinen toimintatapa (avoimuus Nooralle, aikuinen, 112 tarvittaessa) 2 p; koulun ja yhteiskunnan tuki 2 p. Yhteensä 6 p.
 
 *Tiedonkäsittely 15 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+
 - 12–15 p: eettiset käsitteet (itsemääräämisoikeus, hyvän tekeminen, vahingon välttäminen, luottamus) ovat täsmällisiä; analyysi nojaa aineistoon; vaihtoehtoja punnitaan reilusti molemmin puolin; kannanotto on perusteltu ja kunnioittava; vastaus etenee kohdittain.
 - 6–11 p: sisältö on pääosin oikein, mutta arvoja ei nimetä tai vaihtoehtoja punnitaan yksipuolisesti.
 - 0–5 p: vastaus antaa vain neuvon ilman arvoja ja perusteluja tai ei käytä aineistoa.
@@ -387,7 +402,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Koeharjoitus ja exit | 10 | K1:n rivit 1–2 yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit-lappu: yksi käsite, joka on vielä epäselvä. | Näytä, miten 4 pistettä jakautuu riville. | Paperilla. | Tarkistus kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat harjoituksia kotiin tai kertaukseen ja että K3 on valinnainen. Muistuta avun reiteistä. | – | – |
 
-## Tuntisuunnitelma (60 min)
+### Tuntisuunnitelma (60 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -399,7 +414,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Koeharjoitus ja exit | 7 | K1:n rivi 1 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä pisteytys. | Paperilla. | Tarkistus kotona. |
 | Puskuri | 2 | Kysymykset. | Kerro K1–K3:sta kotiharjoituksina ja muistuta avun reiteistä. | – | – |
 
-## Tuntisuunnitelma (45 min)
+### Tuntisuunnitelma (45 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -469,15 +484,11 @@ Jos huolestut ystävästäsi, kuuntele häntä rauhallisesti ja kerro, että vä
 **Apua saat myös:**
 
 - Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille.
+- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille.
 - [Nyyti ry (luettu 21.11.2026)](https://www.nyyti.fi/): opiskelijoiden hyvinvoinnin tuki.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
 - [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.
-
-## Linkitetyt materiaalit
-
-Kootaan sivun tiedoista automaattisesti.
 
 ## Lähteet
 

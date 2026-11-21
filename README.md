@@ -17,16 +17,16 @@ aiheet voi lukea Markdown-tiedostoina:
 
 | Aihe | Tiedosto |
 |---|---|
-| 1. Mitä terveys on? Voimavarat ja terveyden taustatekijät | [te1-01](content/topics/te1-01-terveys-voimavarana.md) |
-| 2. Elintapoja selittävät mallit | [te1-02](content/topics/te1-02-elintapamallit.md) |
-| 3. Terveyskulttuurin ilmiöt | [te1-03](content/topics/te1-03-terveyskulttuuri.md) |
-| 4. Ravinto, syöminen ja painonhallinta | [te1-04](content/topics/te1-04-ravinto.md) |
-| 5. Liikunta, lepo ja uni | [te1-05](content/topics/te1-05-liikunta-ja-uni.md) |
-| 6. Seksuaalisuus ja seksuaaliterveys | [te1-06](content/topics/te1-06-seksuaaliterveys.md) |
-| 7. Seksuaalioikeudet, suostumus ja moninaisuus | [te1-07](content/topics/te1-07-seksuaalioikeudet.md) |
-| 8. Mielenterveyttä suojaavat tekijät | [te1-08](content/topics/te1-08-mielenterveys.md) |
-| 9. Stressi, kriisit ja kuormituksen hallinta | [te1-09](content/topics/te1-09-stressi-ja-kriisit.md) |
-| 10. Opiskeluhyvinvointi ja oma oppiminen | [te1-10](content/topics/te1-10-opiskeluhyvinvointi.md) |
+| 1. Mitä terveys on? Voimavarat ja terveyden taustatekijät | [te1-01](content/topics/01-terveys-voimavarana.md) |
+| 2. Elintapoja selittävät mallit | [te1-02](content/topics/02-elintapamallit.md) |
+| 3. Terveyskulttuurin ilmiöt | [te1-03](content/topics/03-terveyskulttuuri.md) |
+| 4. Ravinto, syöminen ja painonhallinta | [te1-04](content/topics/04-ravinto.md) |
+| 5. Liikunta, lepo ja uni | [te1-05](content/topics/05-liikunta-ja-uni.md) |
+| 6. Seksuaalisuus ja seksuaaliterveys | [te1-06](content/topics/06-seksuaaliterveys.md) |
+| 7. Seksuaalioikeudet, suostumus ja moninaisuus | [te1-07](content/topics/07-seksuaalioikeudet.md) |
+| 8. Mielenterveyttä suojaavat tekijät | [te1-08](content/topics/08-mielenterveys.md) |
+| 9. Stressi, kriisit ja kuormituksen hallinta | [te1-09](content/topics/09-stressi-ja-kriisit.md) |
+| 10. Opiskeluhyvinvointi ja oma oppiminen | [te1-10](content/topics/10-opiskeluhyvinvointi.md) |
 
 **Lisenssi:** CC BY 4.0, katso [LICENSE](LICENSE). Opetussuunnitelman tekstit ovat Opetushallituksen (ePerusteet), ja
 linkitetyillä materiaaleilla on omat ehtonsa. Ylioppilaskokeiden tehtäviä ei ole kopioitu: harjoitustehtävät ovat

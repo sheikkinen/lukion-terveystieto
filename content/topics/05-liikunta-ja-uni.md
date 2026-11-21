@@ -13,44 +13,22 @@ self_study_minutes: 70
 prerequisites: [te1-01-terveys-voimavarana]
 safety_flags: []
 official_links:
-  - title: "Liikkumisen suositukset"
-    url: "https://ukkinstituutti.fi/liikkuminen/liikkumisen-suositukset/"
-    publisher: "UKK-instituutti"
-    read: 2026-11-21
-  - title: "Lasten ja nuorten liikkumissuositus"
-    url: "https://ukkinstituutti.fi/liikkuminen/liikkumisen-suositukset/lasten-ja-nuorten-liikkumissuositus/"
-    publisher: "UKK-instituutti"
-    read: 2026-11-21
-  - title: "Kuinka paljon unta tarvitaan? (nuorten univaikeuksien omahoito)"
-    url: "https://www.mielenterveystalo.fi/fi/omahoito/nuorten-univaikeuksien-omahoito-ohjelma/kuinka-paljon-unta-tarvitaan"
-    publisher: "Mielenterveystalo.fi (HUS)"
-    read: 2026-11-21
-  - title: "Nuorten hyvinvointi (THL)"
-    url: "https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi"
-    publisher: "Terveyden ja hyvinvoinnin laitos (THL)"
-    read: 2026-11-21
-  - title: "Opiskeluterveydenhuolto"
-    url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto"
-    publisher: "Terveyden ja hyvinvoinnin laitos (THL)"
-    read: 2026-11-21
-  - title: "Opiskeluhuolto"
-    url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
-  - title: "Mielenterveystalo: nuoret"
-    url: "https://www.mielenterveystalo.fi/fi/nuoret"
-    publisher: "Mielenterveystalo.fi (HUS)"
-    read: 2026-11-21
-  - title: "Sekasin-chat"
-    url: "https://sekasin.fi/"
-    publisher: "Sekasin-kollektiivi"
-    read: 2026-11-21
-  - title: "MIELI Kriisipuhelin"
-    url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/"
-    publisher: "MIELI Suomen Mielenterveys ry"
-    read: 2026-11-21
+  - {title: "Liikkumisen suositukset", url: "https://ukkinstituutti.fi/liikkuminen/liikkumisen-suositukset/", publisher: "UKK-instituutti", read: 2026-11-21}
+  - {title: "Lasten ja nuorten liikkumissuositus", url: "https://ukkinstituutti.fi/liikkuminen/liikkumisen-suositukset/lasten-ja-nuorten-liikkumissuositus/", publisher: "UKK-instituutti", read: 2026-11-21}
+  - {title: "Kuinka paljon unta tarvitaan? (nuorten univaikeuksien omahoito)", url: "https://www.mielenterveystalo.fi/fi/omahoito/nuorten-univaikeuksien-omahoito-ohjelma/kuinka-paljon-unta-tarvitaan", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
+  - {title: "Nuorten hyvinvointi (THL)", url: "https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
+  - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
+  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin-kollektiivi", read: 2026-11-21}
+  - {title: "MIELI Kriisipuhelin", url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
+  - {title: "Ajankäyttö (opinto-ohjaus, aihe 03)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/03-ajankaytto/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
+  - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
+  - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", read: 2026-11-21}
+  - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", read: 2026-11-21}
 yearly_facts: [liikkumissuositus, unisuositus, opiskeluterveydenhuolto, kriisipuhelimet]
-materials:
+materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
+linked_materials:
   - title: "Terveystiedon LOPS 2019 -tukimateriaali"
     url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali"
     publisher: "Opetushallitus"
@@ -227,7 +205,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia.
 
-### K1: Oikein vai väärin -väittämät (20 p, 25 min)
+### K1: Oikein vai väärin -väittämät, 25 min (20 p)
 
 *Osa A20 · Harjoittelee: Osaan 1, 2*
 
@@ -244,7 +222,7 @@ Alla on kymmenen väittämää. Merkitse jokainen oikeaksi tai vääräksi ja pe
 9. Pitkän istumisen keskeyttäminen liikkeellä on hyödyllistä.
 10. Liikkumissuositus on kaikissa ikäryhmissä sama.
 
-### K2: Vertailu näkökulmittain (20 p, 35 min)
+### K2: Vertailu näkökulmittain, 35 min (20 p)
 
 *Osa B20 · Harjoittelee: Osaan 3, 4*
 
@@ -252,7 +230,7 @@ Alla on kymmenen väittämää. Merkitse jokainen oikeaksi tai vääräksi ja pe
 
 Vertaile kahta koulua neljästä näkökulmasta: a) liikkumisen mahdollisuudet, b) palautuminen ja uni, c) terveyserot opiskelijoiden välillä, d) kuka voi muuttaa tilannetta. Kirjoita lopuksi johtopäätös siitä, mikä tekijä vaikuttaa eniten.
 
-### K3: Aineiston analyysi (30 p, 50 min)
+### K3: Aineiston analyysi, 50 min (30 p)
 
 *Osa C30 · Harjoittelee: Osaan 3, 4, 5*
 
@@ -261,12 +239,14 @@ Vertaile kahta koulua neljästä näkökulmasta: a) liikkumisen mahdollisuudet, 
 > **Opiskelijakunta ehdottaa muutoksia koulupäivään.** Opiskelijakunnan puheenjohtaja esittää, että koulupäivä alkaisi myöhemmin ja että välitunneille tulisi liikuntatilaa. Hänen mukaansa moni väsyy koulussa, koska nukkumaanmeno siirtyy iltaisin myöhäiseksi. Rehtori huomauttaa, että bussiaikataulut ovat kunnan päätettävissä eikä koulu voi muuttaa niitä. Huoltaja huomauttaa, että myöhempi alku tarkoittaisi myöhäisempää päättymistä ja harrastukset siirtyisivät. Urheilua harrastava opiskelija kertoo, että iltaharjoitukset ovat hänelle tärkeä voimavara, mutta kaikki eivät harrasta mitään. Kuntalaisaloite ehdottaa, että koulun liikuntasali olisi iltaisin kaikkien nuorten käytössä.
 
 a) Analysoi, mitkä liikkumiseen ja nukkumiseen vaikuttavat tekijät aineistossa näkyvät ja millä tasoilla ne ovat. (10 p)
+
 b) Selitä kahden aineiston tekijän vaikutusmekanismi opiskelijoiden terveyteen. (8 p)
+
 c) Arvioi, kenelle ehdotukset ovat hyödyllisiä ja kenelle ne voivat olla haitallisia, ja tee kaksi perusteltua ehdotusta, joilla nuorten liikkumista ja lepoa voidaan tukea. (12 p)
 
 ## Mallivastaukset
 
-### K1: Mallivastaus
+### K1: Oikein vai väärin -väittämät, 25 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -286,6 +266,7 @@ Oikeita ovat väittämät 3, 5, 6 ja 9.
 **Pisteytys**
 
 *Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
+
 - Jokaisesta väittämästä 2 p: oikea merkintä 1 p ja asiallinen perustelu 1 p. Yhteensä 10 × 2 p = 20 p.
 - Perustelu ilman oikeaa merkintää tai väärä merkintä ilman perustelua ei tuota pisteitä. Miinuspisteitä ei anneta.
 
@@ -302,7 +283,7 @@ Oikeita ovat väittämät 3, 5, 6 ja 9.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K2: Mallivastaus
+### K2: Vertailu näkökulmittain, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -318,10 +299,12 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Pisteytys**
 
 *Sisältö 10 p:*
+
 - Jokainen neljästä näkökulmasta 2 p: molempien koulujen tilanne kuvattu aineiston pohjalta 1 p ja vaikutus terveyteen perusteltu mekanismina 1 p. Yhteensä 8 p.
 - Johtopäätös, jossa valitaan tekijä ja perustellaan se, 2 p (pelkkä maininta 1 p).
 
 *Tiedonkäsittely 10 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+
 - 8–10 p: vertailu on tasapainoista, näkökulmat pysyvät erillään, mekanismit ovat ketjuja ja johtopäätös nojaa vertailuun.
 - 4–7 p: vertailu on pääosin oikein, mutta mekanismit ovat yleisiä tai toista koulua käsitellään niukasti.
 - 0–3 p: koulut kuvataan erikseen eikä niitä verrata, tai näkökulmat menevät sekaisin.
@@ -337,7 +320,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K3: Mallivastaus
+### K3: Aineiston analyysi, 50 min (30 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -353,11 +336,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Pisteytys**
 
 *Sisältö 15 p:*
+
 - a) Taustatekijöitä vähintään kolmelta tasolta oikein luokiteltuna 3 p; voimavarojen tunnistaminen 2 p. Yhteensä 5 p.
 - b) Kaksi vaikutusmekanismia, kumpikin ketjuna aineiston tekijästä terveyteen, 2 p kumpikin. Yhteensä 4 p.
 - c) Hyödynsaajat ja haitankokijat perusteltu 1 p, vastakkainen näkökulma tai terveyserot 1 p; kaksi ehdotusta, joissa on toimija, keino ja perustelu, 2 p kumpikin. Yhteensä 6 p.
 
 *Tiedonkäsittely 15 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+
 - 12–15 p: käsitteet (taustatekijä, voimavara, vaikutusmekanismi, palautuminen, vuorokausirytmi, terveyserot) ovat täsmällisiä; analyysi nojaa aineistoon; arvio punnitsee eri näkökulmia; ehdotukset ovat realistisia ja perusteltuja; vastaus etenee kohdittain.
 - 6–11 p: sisältö on pääosin oikein, mutta aineistoon viitataan vähän, arvio on yksipuolinen tai ehdotukset jäävät perustelematta.
 - 0–5 p: vastaus luettelee asioita, jää yleiselle tasolle tai ei käytä aineistoa.
@@ -406,7 +391,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Koeharjoitus ja exit | 10 | K1:n väittämät 1–5 yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten 2 pistettä syntyy väittämästä. | Paperilla. | Tarkistus kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
-## Tuntisuunnitelma (60 min)
+### Tuntisuunnitelma (60 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -418,7 +403,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Koeharjoitus ja exit | 7 | K1:n väittämät 1–3 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä pisteytys. | Paperilla. | Tarkistus kotona. |
 | Puskuri | 2 | Kysymykset. | Kerro K1–K3:sta kotiharjoituksina. | – | – |
 
-## Tuntisuunnitelma (45 min)
+### Tuntisuunnitelma (45 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -483,14 +468,10 @@ Tällä sivulla opiskellaan liikkumista, lepoa ja unta yleisesti. Jos sinulla on
 **Apua saat myös:**
 
 - Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille.
+- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
 - [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille, myös nukkumiseen.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
 - [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.
-
-## Linkitetyt materiaalit
-
-Kootaan sivun tiedoista automaattisesti.
 
 ## Lähteet
 

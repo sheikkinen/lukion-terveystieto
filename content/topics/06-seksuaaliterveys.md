@@ -14,37 +14,22 @@ prerequisites: [te1-01-terveys-voimavarana]
 safety_flags: [sexuality]
 content_note: "Tällä sivulla käsitellään seksuaalisuutta ja seksuaaliterveyttä yleisellä tasolla. Sivulla ei kuvata seksuaalisia tekoja, kenenkään ei tarvitse kertoa omasta elämästään, ja lopussa on tietoa avusta."
 official_links:
-  - title: "Seksuaaliterveys (Väestöliitto)"
-    url: "https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/"
-    publisher: "Väestöliitto"
-    read: 2026-11-21
+  - {title: "Seksuaaliterveys (Väestöliitto)", url: "https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/", publisher: "Väestöliitto", read: 2026-11-21}
   - {title: "Väestöliitto: nuorten sivut", url: "https://www.vaestoliitto.fi/nuoret/", publisher: "Väestöliitto", read: 2026-11-21}
-  - title: "Tunne rintasi"
-    url: "https://tunnerintasi.fi/"
-    publisher: "Tunne rintasi ry"
-    read: 2026-11-21
-  - title: "Opiskeluterveydenhuolto"
-    url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto"
-    publisher: "Terveyden ja hyvinvoinnin laitos (THL)"
-    read: 2026-11-21
-  - title: "Opiskeluhuolto"
-    url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto"
-    publisher: "Opetushallitus"
-    read: 2026-11-21
-  - title: "Seta"
-    url: "https://seta.fi/"
-    publisher: "Seta ry"
-    read: 2026-11-21
-  - title: "Sekasin-chat"
-    url: "https://sekasin.fi/"
-    publisher: "Sekasin-kollektiivi"
-    read: 2026-11-21
-  - title: "MIELI Kriisipuhelin"
-    url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/"
-    publisher: "MIELI Suomen Mielenterveys ry"
-    read: 2026-11-21
+  - {title: "Tunne rintasi", url: "https://tunnerintasi.fi/", publisher: "Tunne rintasi ry", read: 2026-11-21}
+  - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
+  - {title: "Seta", url: "https://seta.fi/", publisher: "Seta ry", read: 2026-11-21}
+  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin-kollektiivi", read: 2026-11-21}
+  - {title: "MIELI Kriisipuhelin", url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
+  - {title: "Itsetuntemus, vahvuudet ja arvot (opinto-ohjaus, aihe 05)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
+  - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
+  - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", read: 2026-11-21}
+  - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", read: 2026-11-21}
+  - {title: "Rinnoista, menkoista ja gynejutuista", url: "https://aoe.fi/#/materiaali/3215", publisher: "Tunne rintasi ry ja Korento ry (aoe.fi)", read: 2026-11-21}
 yearly_facts: [seksuaaliterveyspalvelut, opiskeluterveydenhuolto, kriisipuhelimet]
-materials:
+materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
+linked_materials:
   - title: "Terveystiedon LOPS 2019 -tukimateriaali"
     url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali"
     publisher: "Opetushallitus"
@@ -225,7 +210,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia.
 
-### K1: Virheiden tunnistaminen (20 p, 25 min)
+### K1: Virheiden tunnistaminen, 25 min (20 p)
 
 *Osa A20 · Harjoittelee: Osaan 1, 4*
 
@@ -233,9 +218,16 @@ Alla olevassa kuvitteellisessa oppilaskunnan tiedotteessa on viisi asiavirhettä
 
 *Aineisto (kuvitteellinen): "Seksuaaliterveys lyhyesti"*
 
-> (1) Seksuaaliterveys tarkoittaa vain sitä, ettei ihmisellä ole sukupuolitautia. (2) Seksuaalisuus kuuluu ihmiseen koko elämän ajan, ja se on muutakin kuin seksiä. (3) Murrosiässä kaikkien keho ja mieli kehittyvät samassa järjestyksessä ja samaan aikaan. (4) Seksuaaliterveyden palveluja saa opiskeluterveydenhuollosta ja terveysasemilta. (5) Kaikki ehkäisymenetelmät suojaavat yhtä hyvin sekä raskaudelta että sukupuolitaudeilta. (6) Seksuaaliterveys on vain nuorten naisten asia. (7) Seksuaaliterveyteen vaikuttavat myös tiedon saanti ja palvelujen saatavuus. (8) Seksuaaliterveyden edistäminen on yksin terveystiedon opettajan tehtävä.
+> - (1) Seksuaaliterveys tarkoittaa vain sitä, ettei ihmisellä ole sukupuolitautia.
+> - (2) Seksuaalisuus kuuluu ihmiseen koko elämän ajan, ja se on muutakin kuin seksiä.
+> - (3) Murrosiässä kaikkien keho ja mieli kehittyvät samassa järjestyksessä ja samaan aikaan.
+> - (4) Seksuaaliterveyden palveluja saa opiskeluterveydenhuollosta ja terveysasemilta.
+> - (5) Kaikki ehkäisymenetelmät suojaavat yhtä hyvin sekä raskaudelta että sukupuolitaudeilta.
+> - (6) Seksuaaliterveys on vain nuorten naisten asia.
+> - (7) Seksuaaliterveyteen vaikuttavat myös tiedon saanti ja palvelujen saatavuus.
+> - (8) Seksuaaliterveyden edistäminen on yksin terveystiedon opettajan tehtävä.
 
-### K2: Taulukon täydentäminen (20 p, 35 min)
+### K2: Taulukon täydentäminen, 35 min (20 p)
 
 *Osa B20 · Harjoittelee: Osaan 2, 4*
 
@@ -250,7 +242,7 @@ Täydennä taulukko vastausarkille. Lisäksi selitä, mikä tekijä voi estää 
 | Kim | | | |
 | Veera | | | |
 
-### K3: Aineiston analyysi (30 p, 50 min)
+### K3: Aineiston analyysi, 50 min (30 p)
 
 *Osa C30 · Harjoittelee: Osaan 2, 3, 5*
 
@@ -259,12 +251,14 @@ Täydennä taulukko vastausarkille. Lisäksi selitä, mikä tekijä voi estää 
 > **Lukio uudistaa seksuaalikasvatuksensa.** Koulun terveystiedon opettaja kertoo, että seksuaaliterveydestä puhutaan jatkossa kahdella tunnilla, ja aiheet suunnitellaan yhdessä opiskelijakunnan kanssa. Opiskelijakunnan edustaja Sami kertoo, että moni on saanut tietonsa verkosta tai kavereilta, ja osa tiedoista on ollut ristiriitaisia. Terveydenhoitaja toteaa, että hyvinvointialue on vähentänyt hänen vastaanottoaikojaan, joten aikaa joutuu odottamaan. Huoltaja Aino kertoo olevansa huolissaan siitä, että aiheesta puhutaan koulussa, mutta pitää tärkeänä, että nuori saa oikeaa tietoa. Rehtori sanoo, että koulun käytävillä esiintyvään seksuaalisväritteiseen vitsailuun puututaan nyt tiukemmin.
 
 a) Analysoi, mitkä seksuaaliterveyteen vaikuttavat tekijät ja voimavarat aineistossa näkyvät ja millä tasoilla ne ovat. (10 p)
+
 b) Selitä kahden aineiston tekijän vaikutusmekanismi nuorten seksuaaliterveyteen. (8 p)
+
 c) Arvioi, miten uudistus ja vastaanottoaikojen vähentäminen vaikuttavat nuorten välisiin terveyseroihin, ja tee kaksi perusteltua ehdotusta seksuaaliterveyden edistämiseksi koulussa tai hyvinvointialueella. (12 p)
 
 ## Mallivastaukset
 
-### K1: Mallivastaus
+### K1: Virheiden tunnistaminen, 25 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -279,6 +273,7 @@ Lauseet 2, 4 ja 7 ovat oikein.
 **Pisteytys**
 
 *Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
+
 - Jokainen viidestä virheestä 4 p: virheen tunnistaminen ja selitys, miksi se on väärin, 2 p; täsmällinen korjaus käsitteineen 2 p. Yhteensä 5 × 4 p = 20 p.
 - Oikean lauseen merkitseminen virheeksi: −1 p kerrallaan (ei alle nollan tehtävästä).
 
@@ -295,7 +290,7 @@ Lauseet 2, 4 ja 7 ovat oikein.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K2: Mallivastaus
+### K2: Taulukon täydentäminen, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -311,10 +306,12 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Pisteytys**
 
 *Sisältö 10 p:*
+
 - Jokainen neljästä riveistä 2 p: sopiva palvelu tai tietolähde ja perustelu 1 p; uskottava este 1 p. Yhteensä 8 p.
 - Yhteiskunnan tason este nimetty, perusteltu tasoksi ja ratkaisu esitetty 2 p (pelkkä maininta 1 p).
 
 *Tiedonkäsittely 10 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+
 - 8–10 p: käsitteet ovat täsmällisiä, perustelut liittyvät henkilön tilanteeseen ja esteet ovat uskottavia.
 - 4–7 p: palvelut ovat sopivia, mutta perustelut ovat yleisiä tai esteet jäävät pintapuolisiksi.
 - 0–3 p: palveluja luetellaan ilman perusteluja tai ne eivät sovi tilanteeseen.
@@ -330,7 +327,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K3: Mallivastaus
+### K3: Aineiston analyysi, 50 min (30 p)
 
 **Malliksi kelpaava vastaus**
 
@@ -346,11 +343,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Pisteytys**
 
 *Sisältö 15 p:*
+
 - a) Taustatekijöitä vähintään kolmelta tasolta oikein luokiteltuna 3 p; voimavarojen ja kuormittavien tekijöiden tunnistaminen 2 p. Yhteensä 5 p.
 - b) Kaksi vaikutusmekanismia, kumpikin ketjuna aineiston tekijästä seksuaaliterveyteen, 2 p kumpikin. Yhteensä 4 p.
 - c) Terveyserojen arviointi: keihin vaikutus kohdistuu ja miksi 1 p, vastakkainen näkökulma 1 p; kaksi ehdotusta, joissa on toimija, keino ja perustelu, 2 p kumpikin. Yhteensä 6 p.
 
 *Tiedonkäsittely 15 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+
 - 12–15 p: käsitteet (taustatekijä, voimavara, vaikutusmekanismi, terveyserot, seksuaaliterveys) ovat täsmällisiä; analyysi nojaa aineistoon; arvio punnitsee eri näkökulmia; ehdotukset ovat realistisia ja perusteltuja; vastaus etenee kohdittain.
 - 6–11 p: sisältö on pääosin oikein, mutta aineistoon viitataan vähän, arvio on yksipuolinen tai ehdotukset jäävät perustelematta.
 - 0–5 p: vastaus luettelee asioita, jää yleiselle tasolle tai ei käytä aineistoa.
@@ -399,7 +398,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Koeharjoitus ja exit | 10 | K1:n virheet 1–2 yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä K1:n pisteytys ja kysy: mistä 4 pistettä syntyy? | Paperilla. | Tarkistus kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Muistuta, mistä apua saa (Apua ja tukea). | – | – |
 
-## Tuntisuunnitelma (60 min)
+### Tuntisuunnitelma (60 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -411,7 +410,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Koeharjoitus ja exit | 7 | K1:n virhe 1 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten 4 pistettä jakautuu. | Paperilla. | Tarkistus kotona. |
 | Puskuri | 2 | Kysymykset. | Muistuta Apua ja tukea -osiosta. | – | – |
 
-## Tuntisuunnitelma (45 min)
+### Tuntisuunnitelma (45 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -428,7 +427,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Piirrä neljän tason taulukko taululle. Opiskelijat pärjäävät tyhjällä paperilla.
 - Varaa nimettömiä lappuja tai laatikko kysymyksille ja exitiin.
 - Selvitä koulun opiskeluterveydenhuollon ja kuraattorin yhteystiedot (esimerkki) ja tarkista koulun seksuaalikasvatuksen suunnitelma.
-- Tutustu halutessasi Opetushallituksen tukimateriaaliin ja Tunne rintasi ry:n ja Korento ry:n avoimeen aineistoon (linkitetyt materiaalit). Älä kopioi niiden tehtäviä.
+- Tutustu halutessasi Opetushallituksen tukimateriaaliin ja Tunne rintasi ry:n ja Korento ry:n avoimeen aineistoon (ks. Lähteet). Älä kopioi niiden tehtäviä.
 
 ### Avoimet kysymykset
 
@@ -477,16 +476,12 @@ Tällä sivulla opiskellaan seksuaaliterveyttä yleisesti. Jos sinulla on omia o
 **Apua saat myös:**
 
 - Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- [Opiskeluhuolto (luettu 21.11.2026)](https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto): tietoa opiskeluhuollosta ja opiskelijan oikeudesta kuraattori- ja psykologipalveluihin. Sivu on kirjoitettu pääosin kouluille.
+- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
 - [Väestöliitto: seksuaaliterveys (luettu 21.11.2026)](https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/): tietoa seksuaaliterveydestä.
 - [Väestöliitto: nuorten sivut (luettu 21.11.2026)](https://www.vaestoliitto.fi/nuoret/): nuorille tarkoitettua tietoa ja seksuaalineuvontaa. Ikärajat ja palvelujen tilanne ovat sivulla.
 - [Seta (luettu 21.11.2026)](https://seta.fi/): tietoa ja tukea seksuaali- ja sukupuolivähemmistöihin kuuluville nuorille ja heidän läheisilleen.
 - [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
 - [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.
-
-## Linkitetyt materiaalit
-
-Kootaan sivun tiedoista automaattisesti.
 
 ## Lähteet
 

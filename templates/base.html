@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="fi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>$title</title>
+<meta name="description" content="$description">
+<meta name="color-scheme" content="light dark">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="$css">
+<link rel="stylesheet" href="$print_css" media="print">
+</head>
+<body class="$body_class">
+<a class="skip-link" href="#sisalto">Siirry sisältöön</a>
+<header class="site-header">
+<p class="site-name"><a href="$home">$site_name</a></p>
+<nav aria-label="Päävalikko">
+<ul class="nav-list">
+$nav
+</ul>
+</nav>
+</header>
+<!-- Site override of the lukio-runko v0.1.0 template: adds the review banner (docs/engine-issues.md). -->
+<main id="sisalto">
+<p class="box review-banner" role="note"><strong>Huom.</strong> Sisältöä ei ole vielä tarkastanut terveystiedon opettaja eikä terveydenhuollon ammattilainen. Sivusto ei anna terveysneuvontaa: omista oireista kysy opiskeluterveydenhuollosta tai lääkäriltä, ja hätätilanteessa soita 112.</p>
+$main
+</main>
+<footer class="site-footer">
+<p>Opetussuunnitelman perusteet tarkistettu $checked. Aikataulut ja koulun omat käytännöt ovat esimerkkejä: koulu päättää.</p>
+<ul class="footer-list">
+<li><a href="$privacy">Tietosuoja</a></li>
+<li><a href="$accessibility">Saavutettavuus</a></li>
+<li><a href="$sources">Lähteet</a></li>
+</ul>
+<p>$licence</p>
+</footer>
+$scripts
+</body>
+</html>

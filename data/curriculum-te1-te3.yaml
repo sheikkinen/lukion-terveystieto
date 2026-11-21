@@ -1,0 +1,242 @@
+# Generated earlier by the site's own fetcher from ePerusteet (TE1-TE3, with content groups). Kept for TE2 and TE3 work.
+# The engine reads data/curriculum.yaml, written by lukio-runko fetch-curriculum. Do not edit by hand.
+source:
+  url: https://eperusteet.opintopolku.fi/eperusteet-service/api/perusteet/6828810/kaikki
+  peruste_id: 6828810
+  diaarinumero: OPH-2263-2019
+  valid_from: '2021-08-01'
+  published: '2026-05-22'
+  modified: '2026-04-14'
+  checked: '2026-11-21'
+subject:
+  code: TE
+  id: 6834386
+  name: Terveystieto
+  objectives_intro: Terveystiedon opetuksen tavoitteena on, että
+  objectives:
+  - code: TE.yt1
+    id: 9560073
+    text: pystyy luomaan kokonaiskuvaa terveydestä ja sen yksilöllisistä, yhteisöllisistä, yhteiskunnallisista
+      ja globaaleista edellytyksistä, pystyy tekemään perusteltuja ehdotuksia siitä, miten omaa, muiden
+      ihmisten sekä ympäristön terveyttä ja turvallisuutta voidaan ylläpitää tai edistää, sekä osaa käyttää
+      terveystiedon käsitteitä asianmukaisesti
+  - code: TE.yt2
+    id: 9560074
+    text: osaa hakea tietoa eri lähteistä, soveltaa ja analysoida terveyteen liittyvää tietoa sekä arvioida
+      tiedon luotettavuutta ja pätevyyttä, ymmärtää tieteellisen tiedon ja arkitiedon eron terveyden ja
+      sairauksien riskien, syiden, vaikutusmekanismien ja seurausten selittämisessä sekä osaa perustella
+      näkemyksiään tutkimustiedon avulla
+  - code: TE.yt3
+    id: 9560075
+    text: osaa analysoida ja arvioida omien tarpeiden, käsitysten, kokemusten, asenteiden ja arvojen ohjaavaa
+      vaikutusta terveyteen liittyvissä valinnoissa sekä omien elintapojen ja kulutustottumusten vaikutuksia
+      terveyteen ja ympäristöön
+  - code: TE.yt4
+    id: 9560076
+    text: osaa analysoida terveyteen ja sairauksiin liittyviä eettisiä kysymyksiä sekä kestävän kehityksen
+      edellytyksiä ja vaikutuksia terveyteen
+  - code: TE.yt5
+    id: 9560077
+    text: osaa valita itselle sopivia ja tilanteen kannalta tarkoituksenmukaisia oppimisen tapoja sekä
+      osaa asettaa tavoitteita omalle oppimiselleen ja pystyy arvioimaan niiden saavuttamista realistisesti.
+modules:
+- code: TE1
+  id: 6834847
+  name: Terveys voimavarana
+  credits: 2
+  compulsory: true
+  description: Moduulissa luodaan kokonaiskuvaa ihmisen voimavaroista, terveyden edistämisestä sekä terveyttä
+    määrittävistä tekijöistä, niiden yhteyksistä ja vaikutusmekanismeista. Lisäksi syvennetään ja laajennetaan
+    perusopetuksen aikana hankittua ymmärrystä elintapojen merkityksestä terveydelle ja arvioidaan terveyden
+    edellytysten toteutumista omassa elämässä, perheessä ja lähiyhteisöissä.
+  objectives_intro: Moduulin tavoitteena on, että opiskelija
+  objectives:
+  - code: TE1.t1
+    id: 9560130
+    text: pystyy kuvailemaan ja jäsentelemään keskeisiä ihmisen voimavaroja ja terveyttä määrittäviä tekijöitä
+      sekä analysoimaan niiden yhteyksiä ja vaikutusmekanismeja terveyteen
+  - code: TE1.t2
+    id: 9560131
+    text: osaa selittää erilaisten terveyskulttuurien ilmiöiden muodostumista ja arvioida niiden merkitystä
+      terveydelle sekä soveltaa keskeisiä sosiaalipsykologisia malleja ja teorioita elintapojen omaksumisen
+      selittämisessä
+  - code: TE1.t3
+    id: 9560132
+    text: tunnistaa omiin elintapoihinsa vaikuttavia tekijöitä ja pystyy arvioimaan elintapavalintojen
+      merkitystä omalle ja lähiympäristön terveydelle sekä antamaan perusteltuja ehdotuksia siitä, miten
+      terveyttä edistäviä elintapoja voidaan ylläpitää ja vaarantavia ehkäistä.
+  content_groups:
+  - name: Terveyden kokonaisvaltaisuus
+    id: 9560118
+    items:
+    - code: TE1.s1
+      id: 9560120
+      text: terveyttä määrittävät keskeiset tekijät ja niiden vaikutusmekanismit
+    - code: TE1.s2
+      id: 9560121
+      text: 'terveyttä ja elintapoja selittävät keskeiset sosiaalipsykologiset teoriat ja mallit: suunnitellun
+        käyttäytymisen teoria, sosiaalis-kognitiivinen teoria, terveysuskomusmalli, muutosvaihemalli'
+    - code: TE1.s3
+      id: 9560122
+      text: 'terveyskulttuurisia ilmiöitä: terveyden arvostamisen ja käyttäytymisen välinen ristiriita,
+        medikalisaatio ja terveyteen sairastuminen, elintapoihin puuttuminen, uskomus- eli vaihtoehtohoidot'
+  - name: Kehon ja mielen hyvinvoinnin keskeiset perusteet
+    id: 9560123
+    items:
+    - code: TE1.s4
+      id: 9560125
+      text: terveyttä edistävä ravinto, liikunta, lepo, uni sekä painonhallinta
+    - code: TE1.s5
+      id: 9560126
+      text: seksuaalisuus, seksuaaliterveys, seksuaalioikeudet
+    - code: TE1.s6
+      id: 9560127
+      text: mielenterveyttä suojaavat yksilölliset, yhteisölliset ja yhteiskunnalliset tekijät, stressi
+        ja kriisit mielenterveyttä kuormittavina tekijöinä, keinoja kuormituksen hallintaan
+    - code: TE1.s7
+      id: 9560128
+      text: opiskeluhyvinvointi
+- code: TE2
+  id: 6834848
+  name: Terveys ja ympäristö
+  credits: 2
+  compulsory: false
+  description: Moduulissa kehitetään valmiuksia arvioida kriittisesti terveyteen liittyvää tietoa ja viestintää
+    sekä perehdytään tutkimustiedon hankkimisen periaatteisiin. Keskeistä on mediaympäristön ohella tarkastella
+    myös muiden elinympäristöjen terveysvaikutuksia sekä arvioida omien valintojen merkitystä ympäristön
+    terveellisyydelle. Lisäksi moduulissa syvennytään riippuvuuksiin ja niiden vaikutuksiin.
+  objectives_intro: Moduulin tavoitteena on, että opiskelija
+  objectives:
+  - code: TE2.t1
+    id: 9560155
+    text: tietää tutkimustiedon hankkimisen periaatteista ja tutkimusprosessin vaiheista sekä osaa soveltaa
+      näitä tietoja ja kuvata perustellen, miten terveyteen, terveyskäyttäytymiseen ja toimintakykyyn
+      liittyvistä aiheista voidaan saada luotettavaa ja monipuolista tutkimustietoa
+  - code: TE2.t2
+    id: 9560156
+    text: osaa hakea tietoa ja pystyy vertailemaan eri lähteiden luotettavuutta
+  - code: TE2.t3
+    id: 9560157
+    text: osaa kuvata terveysviestinnän muotoja ja vaikutuskeinoja sekä analysoida terveysviestinnän merkitystä
+      ihmisten terveyskäsityksille ja terveydelle
+  - code: TE2.t4
+    id: 9560158
+    text: osaa esitellä ja analysoida fyysisen ja psykososiaalisen ympäristön yhteyksiä ja vaikutuksia
+      terveydelle sekä arvioida omien elintapojen ja kulutustottumusten merkitystä ympäristön terveydelle
+      ja terveellisyydelle
+  - code: TE2.t5
+    id: 9560159
+    text: osaa eritellä riippuvuuden muotoja ja niiden syntyyn vaikuttavia tekijöitä sekä analysoida riippuvuuksiin
+      liittyviä terveys- ja muita haittoja.
+  content_groups:
+  - name: Terveyteen liittyvän tiedon hankinta, arviointi ja tulkinta
+    id: 9560140
+    items:
+    - code: TE2.s1
+      id: 9560142
+      text: tieteellinen tieto ja arkitieto, ajattelun vinoumia, tutkimusprosessin vaiheet, tutkimustiedon
+        luotettavuuden arviointi
+    - code: TE2.s2
+      id: 9560143
+      text: terveysviestinnän muotoja ja vaikutuskeinoja, terveysviestinnän merkityksen ja luotettavuuden
+        arviointi
+  - name: Ympäristön terveellisyys ja turvallisuus
+    id: 9560144
+    items:
+    - code: TE2.s3
+      id: 9560146
+      text: rakennetun ympäristön, luonnonympäristön ja psykososiaalisen ympäristön yhteyksiä ja vaikutuksia
+        terveyteen
+    - code: TE2.s4
+      id: 9560147
+      text: kestävä kehitys ja terveys
+    - code: TE2.s5
+      id: 9560148
+      text: ympäristöjen turvallisuus ja väkivallan ehkäisy
+    - code: TE2.s6
+      id: 9560149
+      text: työhyvinvointi
+  - name: Mielihyvä ja riippuvuus
+    id: 9560150
+    items:
+    - code: TE2.s7
+      id: 9560152
+      text: riippuvuuteen vaikuttavat biologiset, psyykkiset ja sosiaaliset mekanismit
+    - code: TE2.s8
+      id: 9560153
+      text: keskeiset aine- ja toiminnalliset riippuvuudet, riippuvuuksien syitä ja ehkäisykeinoja, riippuvuuksien
+        aiheuttamia haittoja
+- code: TE3
+  id: 6834849
+  name: Terveys ja yhteiskunta
+  credits: 2
+  compulsory: false
+  description: Moduulissa ohjataan tarkastelemaan laajasti terveyden edistämisen ja sairauksien ehkäisyn
+    historiallisia kehityslinjoja sekä tulevaisuuden haasteita yhteiskunnassa. Tehtävänä on avata keskeisiin
+    tarttumattomiin ja tartuntatauteihin liittyviä tekijöitä sekä tarkastella sosiaali- ja terveyspalvelujen,
+    itsehoidon ja omahoidon merkitystä terveydelle. Olennaista on myös perehtyä terveyteen ja sairauksiin
+    liittyviin eettisiin kysymyksiin sekä globaaleihin terveyshaasteisiin.
+  objectives_intro: Moduulin tavoitteena on, että opiskelija
+  objectives:
+  - code: TE3.t1
+    id: 9560256
+    text: osaa kuvata ja analysoida yhteiskunnallisten olosuhteiden, sosiaali- ja terveyspolitiikan ja
+      muun yhteiskuntapolitiikan, tieteen sekä teknologian muutosta, kehitystä ja yhteyksiä väestön terveyteen
+  - code: TE3.t2
+    id: 9560257
+    text: pystyy erittelemään keskeisten tarttumattomien ja tartuntatautien riskitekijöitä, esittämään
+      perusteltuja ratkaisuja näiden ehkäisemiseksi sekä arvioimaan sairauksien ja tautien merkitystä
+      yksilölle ja yhteiskunnalle sekä elintapojen vaikutuksia tarttumattomien ja tartuntatautien näkökulmasta
+  - code: TE3.t3
+    id: 9560258
+    text: osaa esitellä perustellen, mihin sosiaali- tai terveyspalveluihin yksilö voi hakeutua erilaisissa
+      tilanteissa, arvioida kriittisesti palvelujen järjestämistä ja tuottamista sekä arvioida sosiaali-
+      ja terveyspalvelujen, itsehoidon ja omahoidon merkitystä terveydelle
+  - code: TE3.t4
+    id: 9560259
+    text: osaa analysoida terveyteen ja sairauksiin liittyviä eettisiä kysymyksiä, kuvata ja arvioida
+      terveyteen ja terveyden eriarvoisuuteen vaikuttavia tekijöitä Suomessa ja globaalisti sekä analysoida
+      terveyserojen kaventamiseen vaikuttavia tekijöitä.
+  content_groups:
+  - name: Terveyden edistäminen ja sairauksien ehkäisy eri aikakausina
+    id: 9560215
+    items:
+    - code: TE3.s1
+      id: 9560217
+      text: terveyskäsityksiä ja sairauksien selitysmalleja
+    - code: TE3.s2
+      id: 9560218
+      text: keskeisiä väestöjen terveyteen vaikuttaneita yhteiskunnallisia, tieteeseen ja teknologiaan
+        liittyviä tekijöitä
+    - code: TE3.s3
+      id: 9560219
+      text: tulevaisuuden terveyshaasteita ja mahdollisuuksia
+  - name: Sairaudet ja hoito
+    id: 9560220
+    items:
+    - code: TE3.s4
+      id: 9560222
+      text: epidemiologinen siirtymä, keskeiset tarttumattomat ja tartuntataudit
+    - code: TE3.s5
+      id: 9560223
+      text: sosiaali- ja terveyspalvelujen järjestäminen, tuottaminen ja käyttäminen
+    - code: TE3.s6
+      id: 9560224
+      text: itsehoito ja omahoito
+  - name: Eettiset kysymykset
+    id: 9560225
+    items:
+    - code: TE3.s7
+      id: 9560227
+      text: 'eettisen analysoinnin näkökulmia: hyveet, seuraukset, oikeudet, velvollisuudet, motiivit,
+        arvot ja normit'
+    - code: TE3.s8
+      id: 9560228
+      text: keskeisiä terveyteen ja sairauksiin liittyviä eettisiä ja oikeudellisia kysymyksiä kuten hedelmöityshoidot,
+        abortti, elintapoihin liittyvä vapaus ja vastuu, seulonnat, geeniteknologia, eutanasia
+    - code: TE3.s9
+      id: 9560229
+      text: terveydenhuollon eettiset periaatteet, potilaan oikeudet, priorisointi
+    - code: TE3.s10
+      id: 9560230
+      text: terveys ja terveyden eriarvoisuus Suomessa ja globaalisti sekä niihin vaikuttaminen

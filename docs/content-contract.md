@@ -75,3 +75,26 @@ Sections (H2), in order, checked by the build:
 - A safety flag requires a content note and an "Apua ja tukea" section with 112 and dated help links. The figure
   scanner runs on flagged pages.
 - Plus every check of the opinto-ohjaus contract.
+
+## Addendum 2026-11-21: what the shared engine requires (brief 005)
+
+Written by the producer after the brief 005 judgement. The site is built by `lukio-runko` v0.1.0. Where the engine's
+format differs from this contract, the engine's format applies until an engine version supports the contract's
+form. The gaps are recorded in `docs/engine-issues.md` (E-1 to E-10).
+
+- **File names:** `content/topics/NN-slug.md` (the module comes from the front matter), not `te1-NN-slug.md`. The
+  topic ids stay `te1-NN-slug`, and pages live at `te1/NN-slug/`. (E-5)
+- **Linked materials:** the front-matter key is `linked_materials`, because the engine uses `materials` for lesson
+  supplies. Until the engine renders a "Linkitetyt materiaalit" list with licence classes, every non-excluded linked
+  material is also listed in `official_links`, so it shows in the generated *Lähteet* with its read date. Licence
+  classes stay in the front matter and in `data/materials.yaml`. (E-3, E-4)
+- **Lesson plans:** one `## Tuntisuunnitelma (75 min)` section, with `### Tuntisuunnitelma (60 min)` and
+  `### Tuntisuunnitelma (45 min)` inside it. (E-6)
+- **Exam tasks:** headings take the form `### K1: Nimi, 25 min (20 p)`, and each model answer repeats the same
+  heading. (E-7)
+- **Content notes:** `content_note` in the front matter is shown as a row near the top of both views ("Sisältöhuomautus"),
+  not as a box. Text before the first `##` heading is not rendered. (E-2)
+- **Review banner:** shown on every page by the site's `templates/base.html`, a copy of the engine template with the
+  banner. It must be re-synced when the engine pin moves. (E-1)
+- **Checks the engine does not run** (exam-task code coverage, points sums, Osaan coverage, material licences and
+  ages, help sections on flagged pages, the figure scanner, the privacy linter) stay with the checker agents. (E-8)

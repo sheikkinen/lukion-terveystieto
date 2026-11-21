@@ -104,7 +104,7 @@ The first time in a topic, use the full form; after that the short form. Theory 
   analyysi*, *eettinen analyysi*, *tutkimussuunnitelma*. Vary types across a module.
 - Front matter `type` slugs: `oikein-vaarin`, `virheiden-tunnistaminen`, `vertailu`, `taulukon-taydentaminen`,
   `teorian-soveltaminen`, `aineiston-analyysi`, `eettinen-analyysi`, `tutkimussuunnitelma`.
-- Heading: `### K1: Virheiden tunnistaminen (20 p, 25 min)`, then the line `*Osa A20 · Harjoittelee: Osaan 1, 5*`,
+- Heading: `### K1: Virheiden tunnistaminen, 25 min (20 p)` (the engine form; the model answer repeats it), then the line `*Osa A20 · Harjoittelee: Osaan 1, 5*`,
   then the task. Practice minutes: A20 20–30, B20 30–40, C30 45–60.
 - Material is self-written and labelled `*Aineisto (kuvitteellinen)*`, or a linked open or official source. Never
   text from publishers or YTL, never a past exam task reworded. Fictional figures are allowed only on unflagged pages
@@ -178,7 +178,7 @@ Recommended on every page, required on flagged pages. Three parts, in order:
 
 ## 13. Files and length
 
-- `content/topics/te1-NN-slug.md`; `id: te1-NN-slug`. Slugs: 01 terveys-voimavarana, 02 elintapamallit,
+- `content/topics/NN-slug.md`; `id: te1-NN-slug` (the engine adds the module). Slugs: 01 terveys-voimavarana, 02 elintapamallit,
   03 terveyskulttuuri, 04 ravinto, 05 liikunta-ja-uni, 06 seksuaaliterveys, 07 seksuaalioikeudet, 08 mielenterveys,
   09 stressi-ja-kriisit, 10 opiskeluhyvinvointi.
 - Whole topic 3,000–5,500 words, under 500 lines; Opiskelijalle 300–600 words.
