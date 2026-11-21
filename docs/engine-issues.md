@@ -109,3 +109,10 @@ checker agents until the engine has them.
   `../../../opetussuunnitelma/` from a lesson view (`tunti/`), with the section name in the link text.
 - **Wanted:** extra pages declared in `subject.yaml` (slug, title, nav or not), and heading ids so a link can name a
   section. When both exist, the section moves to its own page `tiedonkasittely`.
+
+## E-12: The future-date check uses the runner's clock
+
+`build.py` takes today from `date.today()`, which on GitHub's runners is UTC. A read date written in Finland after
+midnight (Finnish time) fails the build for two to three hours. The site's workflow now sets `TZ: Europe/Helsinki`
+for the build step (2026-11-22). The engine could take the time zone from `subject.yaml`, or allow one day of slack.
+The opinto-ohjaus site has the same exposure.

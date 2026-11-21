@@ -25,7 +25,10 @@ jobs:
       - name: Install the engine (lukio-runko, pinned in requirements.txt)
         run: python -m pip install -r requirements.txt
       # data/curriculum.yaml is committed, so the curriculum is not refetched here.
+      # Read dates are Finnish dates; the runner's UTC clock lags them by two to three hours.
       - name: Build the site and run the checks
+        env:
+          TZ: Europe/Helsinki
         run: lukio-runko build
       - uses: actions/upload-pages-artifact@v3
         with:
