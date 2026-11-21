@@ -22,6 +22,9 @@ official_links:
   - {title: "MIELI Kriisipuhelin", url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
   - {title: "Tietolähteet (opinto-ohjaus, aihe 08)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/08-tietolahteet/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
   - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
+  - {title: "Terveysosaamisella rakennetaan parempaa tulevaisuutta (Jyväskylän yliopisto)", url: "https://www.jyu.fi/fi/blogikirjoitus/terveysosaamisella-rakennetaan-parempaa-tulevaisuutta", publisher: "Jyväskylän yliopisto", read: 2026-11-21}
+  - {title: "Medikalisaatio: työryhmän loppuraportti 2019 (ylidiagnostiikka, ylihoito)", url: "https://www.laakariliitto.fi/wp-content/uploads/2025/03/Medikalisaatio_loppuraportti-2019_final.pdf", publisher: "Suomen Lääkäriliitto", read: 2026-11-21}
+  - {title: "Ravitsemus- ja terveysväiteopas", url: "https://www.ruokavirasto.fi/yritykset/oppaat/ravitsemus--ja-terveysvaiteopas/ravitsemus--ja-terveysvaiteopas--elintarvikealan-yrityksille-ja-valvojille/", publisher: "Ruokavirasto", read: 2026-11-21}
 yearly_facts: [opiskeluterveydenhuolto, kriisipuhelimet]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
@@ -61,7 +64,7 @@ linked_materials:
     audience: opiskelija
     read: 2026-11-21
 exam_tasks:
-  - {id: K1, type: taulukon-taydentaminen, part: A20, points: 20, minutes: 25, codes: [TE1.t2, TE1.s3]}
+  - {id: K1, type: kasitteiden-nimeaminen, part: A20, points: 20, minutes: 25, codes: [TE1.t2, TE1.s3]}
   - {id: K2, type: aineiston-analyysi, part: B20, points: 20, minutes: 35, codes: [TE1.s3, TE.yt2]}
   - {id: K3, type: eettinen-analyysi, part: C30, points: 30, minutes: 50, codes: [TE1.t2, TE1.s3, TE.yt4]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
@@ -82,39 +85,47 @@ last_reviewed: 2026-11-21
 
 **Tämän aiheen jälkeen**
 
-1. Osaan selittää, mitä terveyskulttuuri tarkoittaa ja miten sen ilmiöt muodostuvat.
+1. Osaan selittää, mitä terveyskulttuuri ja terveysosaaminen tarkoittavat ja miten terveyskulttuurin ilmiöt muodostuvat.
 2. Osaan selittää, miksi terveyden arvostaminen ja toiminta voivat olla ristiriidassa.
-3. Osaan kuvata medikalisaation ja terveyteen sairastumisen ja arvioida niiden hyötyjä ja haittoja.
+3. Osaan kuvata medikalisaation, terveyteen sairastumisen, ylidiagnostiikan ja ylihoidon ja arvioida niiden hyötyjä ja haittoja.
 4. Osaan analysoida elintapoihin puuttumista eettisesti ja perustella kantoja sekä puolesta että vastaan.
-5. Osaan arvioida uskomus- eli vaihtoehtohoitoja koskevan tiedon luotettavuutta tutkimustiedon avulla.
+5. Osaan arvioida uskomushoitoja koskevan tiedon ja terveysmainonnan luotettavuutta tutkimustiedon avulla.
 
 ### Mitä terveyskulttuuri on?
 
-Terveyskulttuuri tarkoittaa yhteisön tapaa ajatella ja toimia terveyden kanssa. Siihen kuuluvat arvot, uskomukset, tavat, palvelut ja säännöt. Esimerkiksi se, milloin lääkäriin mennään, miten sairaana ollaan ja mistä neuvoa kysytään, vaihtelee yhteisöstä toiseen. Terveyskulttuuri muodostuu perheessä, kaveriporukassa, alueella, maassa ja mediassa. Se muuttuu ajan myötä. Siksi sama asia voi näyttää eri kulttuureissa erilaiselta eikä yksi tapa ole kaikille ainoa oikea.
+Terveyskulttuuri tarkoittaa yhteisön tapaa ajatella ja toimia terveyden kanssa. Siihen kuuluvat arvot, uskomukset, tavat, palvelut ja säännöt. Esimerkiksi hoitoon hakeutuminen vaihtelee yhteisöstä toiseen. Terveyskulttuuri muodostuu perheessä, kaveriporukassa, alueella, maassa ja mediassa, ja se muuttuu ajan myötä. Yksi tapa ei siis ole kaikille ainoa oikea.
 
 ### Kun arvostus ja toiminta eivät kohtaa
 
-Moni pitää terveyttä tärkeänä, mutta toimii toisin. Ristiriita on tavallinen eikä kerro heikkoudesta. Syitä on monia. Tuttu tapa on helpompi kuin uusi. Lyhyen ajan hyöty tuntuu isommalta kuin pitkän ajan hyöty. Läheisten odotukset ohjaavat. Aikaa, rahaa tai mahdollisuuksia voi puuttua. Joskus ei usko, että oma teko vaikuttaa. Aiheen 02 mallit auttavat selittämään tätä.
+Moni pitää terveyttä tärkeänä mutta toimii toisin. Ristiriita on tavallinen eikä kerro heikkoudesta. Tuttu tapa on helpompi kuin uusi, lyhyen ajan hyöty tuntuu isommalta kuin pitkän, läheisten odotukset ohjaavat, ja aikaa, rahaa tai mahdollisuuksia voi puuttua. Aiheen 02 mallit auttavat selittämään tätä.
 
 ### Medikalisaatio
 
-**Medikalisaatio** tarkoittaa sitä, että tavallinen elämä alkaa tulla selitetyksi sairautena tai terveysongelmana. Esimerkiksi ikääntymisen merkit, tavallinen ujous tai ulkonäön erot voidaan alkaa nähdä lääketieteellisinä ongelmina. Siitä voi olla hyötyä: ihmiset saavat hoitoa ja ymmärrystä, ja leimautuminen vähenee. Siitä voi olla myös haittaa: normaali vaihtelu leimataan ongelmaksi, kustannukset kasvavat ja omat selviytymiskeinot unohtuvat. Tämä ei tarkoita, että todelliset sairaudet olisivat keksittyjä. Kysymys on siitä, missä raja kulkee ja kuka sen vetää.
+**Medikalisaatio** tarkoittaa sitä, että tavallinen elämä alkaa tulla selitetyksi sairautena tai terveysongelmana, esimerkiksi ikääntymisen merkit tai tavallinen ujous. Siitä voi olla hyötyä: ihmiset saavat hoitoa ja ymmärrystä, ja leimautuminen vähenee. Siitä voi olla myös haittaa: normaali vaihtelu leimataan ongelmaksi, kustannukset kasvavat ja omat selviytymiskeinot unohtuvat. Todelliset sairaudet eivät ole keksittyjä. Kysymys on siitä, missä raja kulkee ja kuka sen vetää.
+
+### Ylidiagnostiikka ja ylihoito
+
+Medikalisaatio voi johtaa tarpeettomaan tutkimiseen ja hoitoon ([Lääkäriliiton työryhmä](https://www.laakariliitto.fi/wp-content/uploads/2025/03/Medikalisaatio_loppuraportti-2019_final.pdf)). **Ylidiagnostiikka** tarkoittaa sellaisen sairauden tai riskin löytämistä, joka ei olisi aiheuttanut oireita. **Ylihoito** on hoitoa, josta ihminen ei hyödy tai jonka haitat ylittävät hyödyt. **Ylitutkimus** on testejä, joista ei voi odottaa terveyshyötyä. Haittoja ovat esimerkiksi stressi ja turha sairaudentunne. Tarpeellinen tutkimus ja hoito auttavat. Kysymys on siitä, milloin hyöty ylittää haitan.
 
 ### Terveyteen sairastuminen
 
-**Terveyteen sairastuminen** tarkoittaa tilannetta, jossa terveyden tavoittelu muuttuu itsetarkoitukseksi ja alkaa haitata elämää. Silloin ihminen voi ahdistua terveysasioista tai rajoittaa arkeaan ja ihmissuhteitaan terveyden nimissä. Ilmiö liittyy siihen, että terveyttä arvostetaan paljon ja siitä puhutaan jatkuvasti. Jos sinua askarruttaa, onko oma suhtautumisesi terveyteen kuormittavaa, voit puhua opiskeluterveydenhuollossa.
+**Terveyteen sairastuminen** tarkoittaa tilannetta, jossa terveyden tavoittelu muuttuu itsetarkoitukseksi ja alkaa haitata elämää: ihminen ahdistuu terveysasioista tai rajoittaa arkeaan terveyden nimissä. Ilmiö liittyy siihen, että terveydestä puhutaan jatkuvasti. Jos suhtautumisesi terveyteen tuntuu kuormittavalta, voit puhua opiskeluterveydenhuollossa.
 
 ### Elintapoihin puuttuminen
 
-Yhteiskunta voi pyrkiä vaikuttamaan elintapoihin laeilla, veroilla, ikärajoilla, kampanjoilla ja neuvonnalla. Se on **elintapoihin puuttumista**. Puuttumisen puolesta puhuu se, että se voi suojata ihmisiä ja kaventaa terveyseroja. Sitä vastaan puhuu ihmisen vapaus päättää omasta elämästään ja se, että puuttuminen voi tuntua holhoamiselta. Eettisessä analyysissä käytetään periaatteita, kuten itsemääräämisoikeus, hyvän tekeminen, vahingon välttäminen ja oikeudenmukaisuus. Kevyt keino, kuten tiedotus tai helpompi vaihtoehto, rajoittaa vähemmän kuin kielto tai vero. Hyvä perustelu kertoo, kuka hyötyy, kuka kantaa kustannukset ja onko lievempää keinoa.
+Yhteiskunta voi pyrkiä vaikuttamaan elintapoihin laeilla, veroilla, ikärajoilla, kampanjoilla ja neuvonnalla, esimerkiksi alkoholiin ja nikotiiniin liittyvillä säännöillä ([TE2](../../opetussuunnitelma/)). Se on **elintapoihin puuttumista**. Puolesta puhuu ihmisten suojelu ja terveyserojen kaventaminen, vastaan ihmisen vapaus ja holhouksen tunne. Eettisessä analyysissä käytetään periaatteita: itsemääräämisoikeus, hyvän tekeminen, vahingon välttäminen ja oikeudenmukaisuus. Kevyt keino, kuten tiedotus, rajoittaa vähemmän kuin kielto tai vero. Hyvä perustelu kertoo, kuka hyötyy, kuka kantaa kustannukset ja onko lievempää keinoa.
 
 ### Uskomus- eli vaihtoehtohoidot
 
-**Uskomushoidot** eli **vaihtoehtohoidot** ovat hoitoja, joiden vaikutuksesta ei ole riittävää tutkimusnäyttöä tai joiden toimintatapa ei sovi tieteelliseen selitykseen. Ihmiset valitsevat niitä monesta syystä: halutaan tulla kuulluksi, toivotaan apua, tai tavallinen hoito ei ole auttanut. Arvioi hoitoa tutkimustiedon avulla. Kysy, onko hoidon vaikutusta tutkittu hyvin, onko vaikutusmekanismi uskottava, kuka lupaa ja mitä hän hyötyy, ja lupaako hoito kaiken kaikille. Varoitusmerkki on kehotus lopettaa lääkärin määräämä hoito. Omista oireista kannattaa aina puhua lääkärin kanssa. Hoitoon voi suhtautua kunnioittavasti, vaikka arvioi sen näyttöä kriittisesti.
+**Uskomushoidot** eli **vaihtoehtohoidot** ovat hoitoja, joiden vaikutuksesta ei ole riittävää tutkimusnäyttöä tai joiden toimintatapa ei sovi tieteelliseen selitykseen. Ihmiset valitsevat niitä monesta syystä: halutaan tulla kuulluksi, toivotaan apua, tai tavallinen hoito ei ole auttanut. Arvioi hoitoa kysymällä, onko vaikutusta tutkittu hyvin, onko mekanismi uskottava, kuka lupaa ja mitä hän hyötyy ja lupaako hoito kaiken kaikille. Varoitusmerkki on kehotus lopettaa lääkärin määräämä hoito. Omista oireista kannattaa puhua lääkärin kanssa. Hoitoon voi suhtautua kunnioittavasti ja silti arvioida sen näyttöä kriittisesti.
+
+### Terveysosaaminen ja mainonta
+
+**Terveysosaaminen** on terveyttä edistävää osaamista: siihen kuuluvat terveystiedot, käytännön taidot, kriittinen ajattelu, itsetuntemus ja eettinen vastuullisuus ([Jyväskylän yliopisto](https://www.jyu.fi/fi/blogikirjoitus/terveysosaamisella-rakennetaan-parempaa-tulevaisuutta)). Kriittinen ajattelu auttaa tunnistamaan mainonnan keinot: kokemustarinat (mielipide ei ole näyttö), asiantuntijaan vetoaminen, luonnollisuus, pelko sekä ylilupaus ja kiire. Ruoalla ei saa luvata sairauden ehkäisyä tai parannusta ([Ruokavirasto](https://www.ruokavirasto.fi/yritykset/oppaat/ravitsemus--ja-terveysvaiteopas/ravitsemus--ja-terveysvaiteopas--elintarvikealan-yrityksille-ja-valvojille/)). Mainontaan perehdytään [TE2-moduulissa](../../opetussuunnitelma/).
 
 ### Terveystiedon lukutaito
 
-Tiedon luotettavuuden arviointi on osa terveyslukutaitoa. Katso, kuka tiedon on kirjoittanut, mihin se perustuu, milloin se on päivitetty ja onko sillä kaupallista tarkoitusta. Luotettava sivusto kertoo kirjoittajan ja lähteet. Esimerkkejä ovat [Terveyskirjasto](https://www.terveyskirjasto.fi/) ja [Terveyskylä](https://www.terveyskyla.fi/). Tässä aiheessa harjoitellaan lyhyttä tarkistuslistaa. Lähteiden järjestelmällinen vertailu syvenee TE2-moduulissa.
+Tiedon luotettavuuden arviointi on osa terveyslukutaitoa. Katso, kuka tiedon on kirjoittanut, mihin se perustuu, milloin se on päivitetty ja onko sillä kaupallista tarkoitusta. Esimerkkejä luotettavista sivuista ovat [Terveyskirjasto](https://www.terveyskirjasto.fi/) ja [Terveyskylä](https://www.terveyskyla.fi/). Lähteiden vertailu syvenee TE2-moduulissa.
 
 ## Tehtävät
 
@@ -140,12 +151,12 @@ Tiedon luotettavuuden arviointi on osa terveyslukutaitoa. Katso, kuka tiedon on 
 **Ilman laitetta:** Tehtävä tehdään paperilla ilman tätä sivua. Kirjoita paperille lähteen arviointilista: kirjoittaja, perusteet, päivämäärä, tarkoitus. Keksi kaksi kuvitteellista terveysväitettä, toinen kirjoitettu asiantuntijan sävyyn ja toinen mainoksen sävyyn, ja arvioi molemmat listan avulla. Tee vaiheet 3–5 niistä.
 **Harjoittelet:** Osaan 5
 
-*Mainos (kuvitteellinen):* "**KirkasMieli-kuuri** puhdistaa kehon myrkyistä ja parantaa kaikki vaivat muutamassa päivässä. Tuhannet ovat kokeneet muutoksen. Lopeta turhat lääkkeet ja luota luontoon!"
+*Mainos (kuvitteellinen):* "**KirkasMieli-kuuri** puhdistaa kehon myrkyistä ja parantaa kaikki vaivat muutamassa päivässä. Tuhannet ovat kokeneet muutoksen. Lopeta turhat lääkkeet ja luota luontoon! Tarjous päättyy sunnuntaina."
 
 1. Avaa [Terveyskirjasto](https://www.terveyskirjasto.fi/) ja valitse yleistä terveysaihetta käsittelevä artikkeli, esimerkiksi flunssan ehkäisystä.
 2. Etsi artikkelista kirjoittaja tai tarkastaja, päivämäärä ja lähteet. Kirjoita ne paperille.
 3. Katso mainos. Kirjoita sama tieto mainoksesta: kuka kirjoittaa, mihin väitteet perustuvat, milloin ja miksi?
-4. Alleviivaa mainoksesta kaksi väitettä, joilla ei ole perusteita, ja kirjoita kummallekin yksi kysymys, jonka esittäisit.
+4. Alleviivaa mainoksesta kaksi väitettä, joilla ei ole perusteita, nimeä niiden mainonnan keino ja kirjoita kummallekin yksi kysymys, jonka esittäisit.
 5. Kirjoita yksi lause siitä, mikä erottaa luotettavan terveystiedon mainoksesta.
 
 ### Tehtävä 3: Onko tämä medikalisaatiota?
@@ -176,31 +187,36 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
 
-1. Osaan selittää, mitä terveyskulttuuri tarkoittaa ja miten sen ilmiöt muodostuvat.
+1. Osaan selittää, mitä terveyskulttuuri ja terveysosaaminen tarkoittavat ja miten terveyskulttuurin ilmiöt muodostuvat.
 2. Osaan selittää, miksi terveyden arvostaminen ja toiminta voivat olla ristiriidassa.
-3. Osaan kuvata medikalisaation ja terveyteen sairastumisen ja arvioida niiden hyötyjä ja haittoja.
+3. Osaan kuvata medikalisaation, terveyteen sairastumisen, ylidiagnostiikan ja ylihoidon ja arvioida niiden hyötyjä ja haittoja.
 4. Osaan analysoida elintapoihin puuttumista eettisesti ja perustella kantoja sekä puolesta että vastaan.
-5. Osaan arvioida uskomus- eli vaihtoehtohoitoja koskevan tiedon luotettavuutta tutkimustiedon avulla.
+5. Osaan arvioida uskomushoitoja koskevan tiedon ja terveysmainonnan luotettavuutta tutkimustiedon avulla.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia.
+Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE1 yksin kattaa vain osan ylioppilaskokeesta: loput tulevat TE2- ja TE3-moduuleista.
 
-### K1: Taulukon täydentäminen, 25 min (20 p)
+### K1: Käsitteiden nimeäminen, 25 min (20 p)
 
-*Osa A20 · Harjoittelee: Osaan 2, 3, 4*
+*Osa A20 · Harjoittelee: Osaan 1, 2, 3, 4, 5*
 
-Täydennä taulukko vastausarkille. Kirjoita jokaiselle ilmiölle selitys omin sanoin, esimerkki, yksi hyöty tai suojaava puoli ja yksi haitta tai kuormittava puoli. Jokaisesta rivistä saa 4 p.
+Nimeä jokaisesta kuvitteellisesta tapauksesta ilmiö tai käsite, jonka se kuvaa, ja perustele valintasi yhdellä lauseella. Jokaisesta tapauksesta saa 2 p: käsite 1 p ja perustelu 1 p. Samaa käsitettä ei käytetä kahdesti.
 
-| Ilmiö | Selitys omin sanoin | Esimerkki | Hyöty tai suojaava puoli | Haitta tai kuormittava puoli |
-|---|---|---|---|---|
-| Terveyden arvostamisen ja käyttäytymisen ristiriita | | | | |
-| Medikalisaatio | | | | |
-| Terveyteen sairastuminen | | | | |
-| Elintapoihin puuttuminen | | | | |
-| Uskomus- eli vaihtoehtohoito | | | | |
+*Aineisto (kuvitteellinen):*
+
+1. Veera pitää liikuntaa tärkeänä, mutta ei jaksa lähteä iltaisin.
+2. Kunta laskee nopeusrajoitusta koulun ympäristössä, jotta kulkeminen olisi turvallisempaa.
+3. Aaro tarkistaa terveyssovellusta jatkuvasti, ahdistuu pienistä asioista ja jättää harrastuksia väliin terveyden nimissä.
+4. Tavallista ujoutta aletaan kutsua hoitoa vaativaksi häiriöksi.
+5. Noorin tarkastuksessa löytyy pieni muutos, joka ei olisi koskaan aiheuttanut oireita. Hän saa lisätutkimuksia ja kärsii turhasta huolesta.
+6. Sami saa lievään vaivaan hoitoa, josta ei ole hänelle hyötyä ja jonka haitat ovat hankalia.
+7. Hoito lupaa parantaa kaikki vaivat, eikä siitä ole tutkimusta.
+8. Mainoksessa lukee: "Tuhannet ovat olleet tyytyväisiä."
+9. Kim tarkistaa kirjoittajan ja lähteet ennen kuin uskoo terveysväitteeseen ja miettii, mitä tieto merkitsee muille.
+10. Alueella ajatellaan, että pieni vaiva paranee itsestään eikä lääkäriin mennä turhaan. Naapurit neuvovat toisiaan.
 
 ### K2: Aineiston analyysi, 35 min (20 p)
 
@@ -208,11 +224,11 @@ Täydennä taulukko vastausarkille. Kirjoita jokaiselle ilmiölle selitys omin s
 
 *Aineisto (kuvitteellinen verkkoteksti):*
 
-> **Veden voima -hoito: palauta tasapainosi!** Hoidon kehittäjä, joka on toiminut alalla vuosia, kertoo, että hoito poistaa kehosta kaiken, mikä aiheuttaa sairauksia. Sivulla ei ole tutkimuksia, mutta moni asiakas on ollut tyytyväinen. Hinta on korkea, ja hoitokertoja tarvitaan monta. Sivulla kehotetaan keskustelemaan hoidosta ennen kuin lääkäri sotkee asiaa.
+> **Veden voima -hoito: palauta tasapainosi!** Hoidon kehittäjä, joka on toiminut alalla vuosia, kertoo, että hoito poistaa kehosta kaiken, mikä aiheuttaa sairauksia. Hoito käyttää vain luonnon omia voimia. Sivulla ei ole tutkimuksia, mutta moni asiakas on ollut tyytyväinen. Hinta on korkea, ja hoitokertoja tarvitaan monta. Tarjous päättyy sunnuntaina. Sivulla kehotetaan keskustelemaan hoidosta ennen kuin lääkäri sotkee asiaa.
 
 a) Arvioi aineiston luotettavuutta tutkimustiedon näkökulmasta. Nimeä ja perustele vähintään kolme heikkoa kohtaa. (10 p)
 
-b) Selitä, miksi ihminen voi silti valita tällaisen hoidon. (5 p)
+b) Nimeä aineistosta kaksi mainonnan keinoa ja selitä, miksi ne voivat vakuuttaa. (5 p)
 
 c) Kirjoita kunnioittava mutta asiallinen vastaus ystävälle, joka harkitsee hoitoa. (5 p)
 
@@ -230,36 +246,39 @@ c) Arvioi, mikä on perusteltu ratkaisu, ja ehdota lievempi keino, joka tavoitta
 
 ## Mallivastaukset
 
-### K1: Taulukon täydentäminen, 25 min (20 p)
+### K1: Käsitteiden nimeäminen, 25 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
-| Ilmiö | Selitys omin sanoin | Esimerkki | Hyöty tai suojaava puoli | Haitta tai kuormittava puoli |
-|---|---|---|---|---|
-| Terveyden arvostamisen ja käyttäytymisen ristiriita | Ihminen pitää terveyttä tärkeänä mutta ei toimi sen mukaan. | Tiedetään, että pyöräily on terveellistä, mutta tiet tuntuvat vaarallisilta. | Ristiriidan tunnistaminen voi kertoa, mitkä esteet ovat poistettavissa. | Ristiriita voi tuntua huonoa omaatuntoa tuottavalta, jos sitä pidetään vain omana vikana. |
-| Medikalisaatio | Tavallinen elämä alkaa tulla selitetyksi sairautena tai ongelmana. | Ikääntymisen merkit nähdään hoitoa vaativana ongelmana. | Ihmiset saavat hoitoa ja ymmärrystä, ja leimautuminen vähenee. | Normaali vaihtelu leimataan ongelmaksi ja kustannukset kasvavat. |
-| Terveyteen sairastuminen | Terveyden tavoittelu muuttuu itsetarkoitukseksi ja haittaa elämää. | Ihminen rajoittaa arkeaan terveyden nimissä ja ahdistuu jatkuvasti terveysasioista. | Taustalla on terveyden arvostus, jonka avulla pääsee hoitoon, kun tilanteen tunnistaa. | Haittaa elämää ja ihmissuhteita. |
-| Elintapoihin puuttuminen | Yhteiskunta pyrkii vaikuttamaan elintapoihin laeilla, veroilla, ikärajoilla tai kampanjoilla. | Nopeusrajoituksen laskeminen asuinalueella. | Suojaa ihmisiä ja voi kaventaa terveyseroja. | Rajoittaa vapautta ja voi tuntua holhoamiselta. |
-| Uskomus- eli vaihtoehtohoito | Hoito, jonka vaikutuksesta ei ole riittävää tutkimusnäyttöä. | Hoito, joka lupaa parantaa kaikki vaivat ilman tutkimusta. | Voi tuoda kuulluksi tulemisen ja toivon kokemuksen. | Voi viivästyttää tehokasta hoitoa ja tuoda kuluja. |
+1. **Terveyden arvostamisen ja toiminnan ristiriita:** Veera pitää terveyttä tärkeänä mutta ei toimi sen mukaan.
+2. **Elintapoihin puuttuminen:** kunta ohjaa kulkemista päätöksellä, joka rajoittaa vapautta mutta suojaa.
+3. **Terveyteen sairastuminen:** terveyden tavoittelu on muuttunut itsetarkoitukseksi ja haittaa elämää.
+4. **Medikalisaatio:** tavallinen persoonallisuuden piirre selitetään sairautena.
+5. **Ylidiagnostiikka:** löydetään muutos, joka ei olisi aiheuttanut oireita, ja siitä seuraa lisätutkimuksia ja huolta.
+6. **Ylihoito:** hoidosta ei ole hyötyä tai sen haitat ylittävät hyödyt.
+7. **Uskomus- eli vaihtoehtohoito:** hoito lupaa kaiken ilman tutkimusnäyttöä.
+8. **Mainonnan keino, kokemustarina:** tyytyväisten määrä kuulostaa todisteelta mutta kertoo mielipiteen eikä vaikutusta.
+9. **Terveysosaaminen:** Kim käyttää kriittistä ajattelua ja eettistä vastuullisuutta.
+10. **Terveyskulttuuri:** yhteisön tavat ja uskomukset ohjaavat, milloin hoitoon mennään ja keneltä neuvoa kysytään.
 
 **Pisteytys**
 
 *Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
 
-- Jokainen viidestä rivistä 4 p: oikea selitys 1 p, osuva esimerkki 1 p, oikea hyöty tai suojaava puoli 1 p, oikea haitta tai kuormittava puoli 1 p. Yhteensä 5 × 4 p = 20 p.
-- Selitys, joka vain toistaa ilmiön nimeä, 0 p.
+- Jokainen tapaus 2 p: oikea käsite 1 p (sanastossa mainitut synonyymit käyvät) ja perustelu, joka yhdistää tapauksen käsitteeseen, 1 p. Yhteensä 10 × 2 p = 20 p.
+- Sama käsite kahdesti: toinen vastaus 0 p. Perustelu ilman oikeaa käsitettä ei tuota pistettä.
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
-*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A): käsitteiden käyttö, soveltaminen (esimerkit), analysointi (hyödyt ja haitat), arviointi (tasapainoinen näkemys), argumentaatio ja kokonaisuus (taulukko täytetty selkeästi).
+*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (läheisten käsitteiden ero, esimerkiksi medikalisaatio ja ylidiagnostiikka), soveltaminen (tapauksen yksityiskohta perustelussa), analysointi, arviointi ja argumentointi (perustelu kertoo, miksi käsite sopii).
 
 **Yhteensä:** 20 p
 
 **Tyypilliset virheet**
 
-- Selitys toistaa käsitteen ("medikalisaatio on asioiden medikalisointia").
-- Esimerkki on yleinen eikä kuvaa ilmiötä.
-- Vain hyöty tai vain haitta mainitaan. Esimerkiksi vaihtoehtohoidolle luetellaan vain huonoja puolia.
-- Medikalisaatio sekoitetaan siihen, että sairaus on todellinen.
+- Medikalisaatio, ylidiagnostiikka ja ylihoito sekoitetaan keskenään.
+- Perustelu toistaa tapauksen eikä kerro, miksi käsite sopii.
 - Terveyteen sairastuminen sekoitetaan tavalliseen kiinnostukseen terveydestä.
+- Mainonnan keinoksi nimetään "huono mainos" eikä sitä, mitä keino tekee.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -269,7 +288,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **a)** Aineistossa on useita heikkoja kohtia. *Tutkimusnäyttö puuttuu:* sivu myöntää, ettei tutkimuksia ole, ja luottaa asiakastyytyväisyyteen, joka ei kerro vaikutuksesta. *Epäuskottava mekanismi ja ylilupaus:* hoito väittää poistavansa kaiken sairauksia aiheuttavan, vaikka vaikutusmekanismia ei kerrota. *Intressi:* kehittäjä hyötyy hoidosta taloudellisesti, ja hinta on korkea. *Varoitusmerkki:* sivu houkuttelee olemaan kysymättä lääkäriltä.
 
-**b)** Ihminen voi valita hoidon, koska hän haluaa tulla kuulluksi, toivoo apua tai ei ole kokenut tavallisen hoidon auttavan. Hoitoon liittyy usein aikaa ja huomiota, ja se voi tuntua turvalliselta. Lisäksi tuttu, kehuva kokemus ohjaa, ja läheisten suositukset vahvistavat luottamusta.
+**b)** *Kokemustarina:* "moni asiakas on tyytyväinen" kuulostaa todisteelta, mutta kertoo mielipiteen eikä sitä, mikä vaikutti. *Asiantuntijaan vetoaminen:* kehittäjä on toiminut alalla vuosia, mutta se ei ole tutkimusnäyttöä. Muita keinoja ovat luonnollisuus, ylilupaus ja kiire ("tarjous päättyy sunnuntaina"). Ne vaikuttavat, koska ihminen toivoo apua ja haluaa tulla kuulluksi.
 
 **c)** *Esimerkkivastaus:* "Ymmärrän, että haluat löytää apua. Katsoin sivua, ja siinä ei kerrota tutkimuksista eikä siitä, miten hoito toimisi. Se myös kehottaa jättämään lääkärin pois, mikä huolestuttaa. Voisimme katsoa yhdessä, mitä Terveyskirjasto tai lääkäri sanoo samasta vaivasta. Se on sinun päätöksesi."
 
@@ -278,14 +297,15 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 *Sisältö 10 p:*
 
 - a) Kolme heikkoa kohtaa, jokainen nimetty ja perusteltu, 2 p kumpikin. Yhteensä 6 p.
-- b) Vähintään yksi uskottava syy perusteluineen 2 p.
+- b) Kaksi mainonnan keinoa nimetty ja selitetty, miksi ne vakuuttavat, 1 p kumpikin. Yhteensä 2 p.
 - c) Vastaus on kunnioittava ja asiallinen, ei kielto 1 p; vastaus ohjaa luotettavaan tietoon tai lääkäriin 1 p. Yhteensä 2 p.
 
-*Tiedonkäsittely 10 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+*Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
 - 8–10 p: heikot kohdat on perusteltu tutkimustiedon käsittein ja viittaa aineistoon; syyt valintaan on ymmärretty; c on kunnioittava ja perusteltu.
 - 4–7 p: kohdat on tunnistettu, mutta perustelut jäävät yleisiksi tai c on vain kielto tai vain myötäily.
 - 0–3 p: vastaus luettelee epäilyjä ilman perusteita tai ei käytä aineistoa.
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 20 p
 
@@ -293,7 +313,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 - Aineistoa pilkataan tai todetaan huuhaaksi ilman perusteluja.
 - Luotettavuutta arvioidaan vain sillä, että hinta on korkea.
-- Kohdassa b ihmistä syytetään tyhmyydestä.
+- Kohdassa b keinot vain luetellaan, tai ihmistä syytetään tyhmyydestä.
 - Kohdassa c kielletään tai käsketään lopettaa eikä kuunnella.
 - Tutkimusnäytön puuttumista ei yhdistetä väitteen luotettavuuteen.
 
@@ -318,11 +338,12 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - c) Perusteltu arvio ja kanta 3 p; lievempi keino ja sen perustelu 2 p. Yhteensä 5 p.
 - c) Kumpikin kanta hyväksytään, kunhan se on perusteltu eettisillä periaatteilla ja aineistolla. Mallivastauksen kanta on vain yksi mahdollinen ratkaisu; myös päinvastainen, perusteltu ratkaisu saa täydet pisteet.
 
-*Tiedonkäsittely 15 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+*Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
 - 12–15 p: eettiset käsitteet ovat täsmällisiä; kummankin puolen perustelut ovat oikeudenmukaisia; arvio punnitsee ja kanta perustellaan; ehdotus on realistinen; vastaus etenee kohdittain.
 - 6–11 p: sisältö on pääosin oikein, mutta toinen puoli jää ohueksi, arvio on yleinen tai kanta jää perustelematta.
 - 0–5 p: vastaus on mielipide ilman perusteluja tai ei käytä aineistoa.
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 10 p, b 10 p, c 10 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -352,7 +373,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 4. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 5. **Seuraava askel:** aihe 04 *Ravinto, syöminen ja painonhallinta*. Siinä sovellat opittua ruokavalintoihin.
 
-**Muistiinpanoihin:** Säilytä Tehtävän 1 sarakkeet ja K1:n täytetty taulukko. Kirjoita viiden ilmiön selitykset omin sanoin ja yksi hyöty ja haitta kustakin. Säilytä myös lähteen arviointilista: kuka, mihin perustuu, milloin, miksi.
+**Muistiinpanoihin:** Säilytä Tehtävän 1 sarakkeet ja K1:n käsitteet. Kirjoita ilmiöiden selitykset omin sanoin, mukaan lukien ylidiagnostiikka, ylihoito, terveysosaaminen ja mainonnan keinot, sekä yksi hyöty ja haitta kustakin. Säilytä myös lähteen arviointilista: kuka, mihin perustuu, milloin, miksi.
 
 ## Tuntisuunnitelma (75 min)
 
@@ -362,10 +383,10 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, jonka kaikki tietävät terveydestä mutta jota ei aina tehdä. | Kerää laput ja lue muutama ääneen. Ryhmittele: tieto, tavat, olot. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 10 | Oikein vai väärin -väittämät pareittain: "Terveyskulttuuri on kaikkialla samanlainen." "Medikalisaatio tarkoittaa, että sairaudet ovat keksittyjä." "Hoito on luotettava, jos moni on tyytyväinen." | Käy väittämät läpi. Vastausvihjeet: väärin, väärin, väärin. Kysy perustelut. | Väittämät paperilla. | Käsittele kaksi ensimmäistä. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: terveyskulttuuri, medikalisaatio, terveyteen sairastuminen, elintapoihin puuttuminen, vaihtoehtohoito. | Esittele viisi ilmiötä taululla, yksi esimerkki per ilmiö. Korosta, ettei hoitoja tai ihmisiä pilkata. | Jaa käsitteet paperilla. | Esittele vain kolme ensimmäistä. |
+| Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: terveyskulttuuri, medikalisaatio, terveyteen sairastuminen, elintapoihin puuttuminen, vaihtoehtohoito, ylidiagnostiikka, mainonnan keinot. | Esittele viisi ilmiötä taululla, yksi esimerkki per ilmiö. Korosta, ettei hoitoja tai ihmisiä pilkata. | Jaa käsitteet paperilla. | Esittele vain kolme ensimmäistä. |
 | Työskentely | 25 | Tehtävä 1 (20 min) yksin tai pareittain, sitten Tehtävän 3 vaiheet 1–2 (5 min). | Kierrä ja kysy: mitä arvoja ja oloja tässä näkyy? Muistuta, että analysoidaan Hiekkaharjua, ei itseä. | Pari tekee yhteisen taulukon. | Tehtävä 3 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vertaavat taulukoitaan ja valitsevat yhden asian, johon kaupunki tai koulu voisi vaikuttaa. | Kokoa ehdotukset taululle. Nosta esiin eettinen jännite: vapaus ja suojelu. | Yksin: kirjoita kaksi ehdotusta. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K1:n rivit 1–2 yksin (7 min) ja tarkistus (3 min). Exit-lappu: yksi käsite, joka on vielä epäselvä. | Näytä K1:n pisteytys ja kysy: mistä neljä pistettä syntyy? | Paperilla. | Tarkistus kotona. |
+| Koeharjoitus ja exit | 10 | K1:n tapaukset 1–4 yksin (7 min) ja tarkistus (3 min). Exit-lappu: yksi käsite, joka on vielä epäselvä. | Näytä K1:n pisteytys ja kysy: mistä kaksi pistettä syntyy? | Paperilla. | Tarkistus kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat harjoituksia kotiin tai kertaukseen. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -377,7 +398,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Opiskelijat kirjaavat viisi käsitettä. | Esittele ilmiöt taululla, yksi esimerkki per ilmiö. | Jaa käsitteet paperilla. | Kolme ilmiötä nyt, loput työskentelyn jälkeen. |
 | Työskentely | 25 | Tehtävä 1 (20 min), sitten Tehtävän 3 vaiheet 1–2 (5 min). | Kierrä ja kysy perusteluja. | Pari tekee yhteisen taulukon. | Tehtävä 3 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit valitsevat yhden ristiriidan syyn ja ehdottavat, miten kaupunki tai koulu voisi poistaa esteen. | Kokoa kolme ehdotusta taululle. | Yksin paperille. | Yksi yhteinen ehdotus. |
-| Koeharjoitus ja exit | 7 | K1:n rivi 1 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten neljä pistettä jakautuu. | Paperilla. | Tarkistus kotona. |
+| Koeharjoitus ja exit | 7 | K1:n tapaukset 1–2 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten kaksi pistettä jakautuu. | Paperilla. | Tarkistus kotona. |
 | Puskuri | 2 | Kysymykset. | Kerro K1–K3:sta kotiharjoituksina. | – | – |
 
 ### Tuntisuunnitelma (45 min)
@@ -417,9 +438,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Eriyttäminen
 
-**Helpompi polku:** Tee Tehtävässä 1 vain kaksi saraketta (arvot ja olot) ja kirjoita kumpaankin yksi asia. Tehtävässä 3 käsittele vain tilanne (a). Koetehtävistä K1:n kolme ensimmäistä riviä riittää.
+**Helpompi polku:** Tee Tehtävässä 1 vain kaksi saraketta (arvot ja olot) ja kirjoita kumpaankin yksi asia. Tehtävässä 3 käsittele vain tilanne (a). Koetehtävistä K1:n viisi ensimmäistä tapausta riittää.
 
-**Syvempi polku:** Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn kuuden kriteerin avulla. Vertaa Tehtävän 2 arviointilistaa [opinto-ohjauksen tietolähdeaiheeseen](https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/08-tietolahteet/): mitä samaa ja mitä eri näkökulmaa niissä on?
+**Syvempi polku:** Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn viiden kriteerin avulla. Vertaa Tehtävän 2 arviointilistaa [opinto-ohjauksen tietolähdeaiheeseen](https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/08-tietolahteet/): mitä samaa ja mitä eri näkökulmaa niissä on?
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Taulukkoon voi kirjoittaa omalla kielellä; koetehtävissä harjoitellaan suomenkielisiä käsitteitä.
 
@@ -429,6 +450,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *elintapoihin puuttuminen = yhteiskunta pyrkii ohjaamaan ihmisten tapoja*
 - *uskomushoito = hoito, jonka vaikutuksesta ei ole riittävästi tutkimustietoa*
 - *tutkimusnäyttö = tutkimuksilla todistettu tieto*
+- *ylidiagnostiikka = sairaus tai riski löydetään, vaikka se ei olisi aiheuttanut oireita*; *ylihoito = hoito, josta ei ole hyötyä*; *terveysosaaminen = terveyttä edistävä osaaminen*
 
 **Lukeminen, keskittyminen ja jännitys:** Tee taulukko kuvina tai yksittäisinä sanoina. Lue tapaus kahdessa osassa. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
 

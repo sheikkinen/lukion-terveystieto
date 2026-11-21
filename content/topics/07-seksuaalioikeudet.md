@@ -26,58 +26,17 @@ official_links:
   - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", read: 2026-11-21}
   - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", read: 2026-11-21}
   - {title: "International technical guidance on sexuality education (UNESCO)", url: "https://www.unesco.org/en/articles/international-technical-guidance-sexuality-education-evidence-informed-approach", publisher: "UNESCO", read: 2026-11-21}
+  - {title: "Hyvän vastauksen piirteet, terveystieto kevät 2023 (arvosteluohjeet)", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2023-03-29_TE_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta (YTL)", read: 2026-11-21}
 yearly_facts: [seksuaaliterveyspalvelut, opiskeluterveydenhuolto, kriisipuhelimet]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
-  - title: "Terveystiedon LOPS 2019 -tukimateriaali"
-    url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali"
-    publisher: "Opetushallitus"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja
-    read: 2026-11-21
-  - title: "TE1 Terveys voimavarana (verkkokurssin runko)"
-    url: "https://aoe.fi/#/materiaali/1113"
-    publisher: "Schildtin lukio (aoe.fi)"
-    licence_class: open-cc-by-sa
-    licence: "CC BY-SA 4.0"
-    audience: opettaja
-    read: 2026-11-21
-  - title: "TE01 Terveys voimavarana, verkko-opintojakso"
-    url: "https://aoe.fi/#/materiaali/1852"
-    publisher: "Omnia, Espoon aikuislukio (aoe.fi)"
-    licence_class: open-cc-by
-    licence: "CC BY 4.0"
-    audience: opettaja
-    read: 2026-11-21
-  - title: "Seta"
-    url: "https://seta.fi/"
-    publisher: "Seta ry"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija
-    read: 2026-11-21
-  - title: "Seksuaaliterveys (Väestöliitto)"
-    url: "https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/"
-    publisher: "Väestöliitto"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija
-    read: 2026-11-21
-  - title: "International technical guidance on sexuality education (UNESCO)"
-    url: "https://www.unesco.org/en/articles/international-technical-guidance-sexuality-education-evidence-informed-approach"
-    publisher: "UNESCO"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja
-    read: 2026-11-21
-  - title: "Opinto-ohjaussivusto: Itsetuntemus, vahvuudet ja arvot"
-    url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/"
-    publisher: "Lukion opinto-ohjaus (sisarsivusto)"
-    licence_class: open-cc-by
-    licence: "CC BY 4.0"
-    audience: opiskelija ja opettaja
-    read: 2026-11-21
+  - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
+  - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", licence_class: open-cc-by-sa, licence: "CC BY-SA 4.0", audience: opettaja, read: 2026-11-21}
+  - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", licence_class: open-cc-by, licence: "CC BY 4.0", audience: opettaja, read: 2026-11-21}
+  - {title: "Seta", url: "https://seta.fi/", publisher: "Seta ry", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
+  - {title: "Seksuaaliterveys (Väestöliitto)", url: "https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/", publisher: "Väestöliitto", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
+  - {title: "International technical guidance on sexuality education (UNESCO)", url: "https://www.unesco.org/en/articles/international-technical-guidance-sexuality-education-evidence-informed-approach", publisher: "UNESCO", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
+  - {title: "Opinto-ohjaussivusto: Itsetuntemus, vahvuudet ja arvot", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/", publisher: "Lukion opinto-ohjaus (sisarsivusto)", licence_class: open-cc-by, licence: "CC BY 4.0", audience: opiskelija ja opettaja, read: 2026-11-21}
 exam_tasks:
   - {id: K1, type: oikein-vaarin, part: A20, points: 20, minutes: 25, codes: [TE1.s5, TE1.t1]}
   - {id: K2, type: vertailu, part: B20, points: 20, minutes: 35, codes: [TE1.s5, TE1.t1]}
@@ -110,7 +69,7 @@ last_reviewed: 2026-11-21
 2. Osaan kuvata, mitä suostumus tarkoittaa, ja erottaa sen painostuksesta ja hiljaisuudesta.
 3. Osaan kuvata seksuaalisen ja sukupuolen moninaisuutta oikeilla käsitteillä ja selittää ketjuna, miten syrjintä ja tuki vaikuttavat terveyteen.
 4. Osaan jäsentää seksuaalioikeuksien toteutumiseen vaikuttavat tekijät yksilöllisiin, yhteisöllisiin, yhteiskunnallisiin ja globaaleihin tekijöihin.
-5. Osaan analysoida seksuaalioikeuksiin liittyvää eettistä kysymystä eri näkökulmista ja perustella ratkaisuehdotukseni.
+5. Osaan analysoida seksuaalioikeuksiin liittyvää eettistä kysymystä näkökulmista arvot, normit ja velvollisuudet, motiivit, seuraukset, oikeudet ja hyveet ja perustella ratkaisuehdotukseni.
 
 ### Mitä seksuaalioikeudet ovat?
 
@@ -137,9 +96,18 @@ Suostumusta ei ole, jos toista painostetaan, uhataan tai pyydetään uudestaan, 
 
 Esimerkki ketjusta: jos koulussa ei puhuta moninaisuudesta, nuori voi kokea olevansa yksin. Yksinäisyys voi lisätä kuormitusta ja vaikeuttaa avun hakemista. Jos koulussa on selvät pelisäännöt ja aikuinen, joka puuttuu pilkkaan, ketju kulkee toisin päin.
 
-### Eettinen kysymys
+### Eettisen analyysin näkökulmat
 
-Eettinen kysymys syntyy, kun arvot ovat ristiriidassa eikä yksi oikea vastaus ole ilmeinen. Esimerkiksi nuoren oikeus tietoon ja huoltajan toive saada tietoa ja olla mukana voivat vetää eri suuntiin siinä, miten asiasta kerrotaan. Eettisessä analyysissä selvitetään, ketä asia koskee, mitkä arvot ovat vastakkain ja mitä perusteluja kullakin puolella on. Lopuksi esitetään oma perusteltu kanta. Perustelu on tärkeämpi kuin se, kumman puolelle asettuu.
+Eettinen kysymys syntyy, kun arvot ovat ristiriidassa eikä yksi oikea vastaus ole ilmeinen. Esimerkiksi nuoren oikeus tietoon ja huoltajan toive olla mukana voivat vetää eri suuntiin. Eettisessä analyysissä selvitetään ensin, ketä asia koskee. Sitten asiaa tarkastellaan näkökulmista, jotka myös [ylioppilaskokeen arvosteluohjeissa](https://tiedostot.ylioppilastutkinto.fi/kokeet/2023-03-29_TE_fi/grading-instructions.html) nimetään:
+
+- **arvot:** mikä on tärkeää, esimerkiksi yhdenvertaisuus, turvallisuus tai yksityisyys
+- **normit ja velvollisuudet:** lait, säännöt ja se, mitä kenenkin pitää tehdä
+- **motiivit:** miksi kukin toimii niin kuin toimii
+- **seuraukset:** mitä toiminnasta seuraa kenellekin
+- **oikeudet:** mihin kullakin on oikeus
+- **hyveet:** millainen toiminta on rehellistä, reilua ja kunnioittavaa
+
+Lopuksi näkökulmia punnitaan ja esitetään oma perusteltu kanta. Perustelu on tärkeämpi kuin se, kumman puolelle asettuu.
 
 ### Mistä apua saa?
 
@@ -204,13 +172,13 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 2. Osaan kuvata, mitä suostumus tarkoittaa, ja erottaa sen painostuksesta ja hiljaisuudesta.
 3. Osaan kuvata seksuaalisen ja sukupuolen moninaisuutta oikeilla käsitteillä ja selittää ketjuna, miten syrjintä ja tuki vaikuttavat terveyteen.
 4. Osaan jäsentää seksuaalioikeuksien toteutumiseen vaikuttavat tekijät yksilöllisiin, yhteisöllisiin, yhteiskunnallisiin ja globaaleihin tekijöihin.
-5. Osaan analysoida seksuaalioikeuksiin liittyvää eettistä kysymystä eri näkökulmista ja perustella ratkaisuehdotukseni.
+5. Osaan analysoida seksuaalioikeuksiin liittyvää eettistä kysymystä näkökulmista arvot, normit ja velvollisuudet, motiivit, seuraukset, oikeudet ja hyveet ja perustella ratkaisuehdotukseni.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia.
+Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE1 yksin kattaa vain osan ylioppilaskokeesta: loput tulevat moduuleista TE2 ja TE3. Jos tehtävässä on aineisto, vastauksen pitää käyttää sitä, muuten kokonaispisteistä vähennetään 5 p ([ohje](../../opetussuunnitelma/)).
 
 ### K1: Oikein vai väärin -väittämät, 25 min (20 p)
 
@@ -245,11 +213,11 @@ Vertaile kahta koulua neljästä näkökulmasta: a) ilmapiiri ja turvallisuus, b
 
 > **Miten huoltajille kerrotaan moninaisuudesta?** Pajulan lukiossa sukupuolen ja seksuaalisen suuntautumisen moninaisuus kuuluu terveystiedon opetukseen, ja rehtori vahvistaa, että sisältö opetetaan kaikille. Osa huoltajista haluaisi, että koulu kertoo etukäteen laajasti, mitä tunneilla sanotaan, ja että he pääsevät keskustelemaan sisällöstä ennen tunteja. Heidän mukaansa asia liittyy perheen vakaumukseen. Opettaja sanoo, että tavallinen tiedote riittää, kuten muistakin aiheista, koska sisältö perustuu opetussuunnitelmaan ja koulun yhdenvertaisuustehtävään. Opiskelija Noor kertoo, että tieto auttaisi ymmärtämään myös kavereita ja perheenjäseniä. Rehtori haluaa löytää tavan, joka kunnioittaa sekä huoltajia että opiskelijoita.
 
-a) Erittele, ketä asia koskee ja mitkä arvot ovat aineistossa vastakkain. (8 p)
+a) Erittele, ketä asia koskee ja mikä on kiistan aihe. (5 p)
 
-b) Esitä perusteluja ainakin kahdelle eri kannalle siitä, miten huoltajille tiedotetaan ja heitä osallistetaan, ja arvioi niiden vahvuuksia. (10 p)
+b) Analysoi kysymystä vähintään kolmesta näkökulmasta: arvot, normit ja velvollisuudet, motiivit, seuraukset, oikeudet ja hyveet. Käytä aineistoa ja esitä perusteluja ainakin kahdelle eri kannalle. (15 p)
 
-c) Tee perusteltu ratkaisuehdotus ja arvioi, miten se vaikuttaisi nuorten hyvinvointiin ja terveyseroihin. (12 p)
+c) Tee perusteltu ratkaisuehdotus ja arvioi, miten se vaikuttaisi nuorten hyvinvointiin ja terveyseroihin. (10 p)
 
 ## Mallivastaukset
 
@@ -277,7 +245,7 @@ Oikeita ovat väittämät 1, 3, 5, 8 ja 10.
 - Jokaisesta väittämästä 2 p: oikea merkintä 1 p ja asiallinen perustelu 1 p. Yhteensä 10 × 2 p = 20 p.
 - Perustelu ilman oikeaa merkintää tai väärä merkintä ilman perustelua ei tuota pisteitä. Miinuspisteitä ei anneta.
 
-*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A): käsitteiden käyttö (seksuaalioikeudet, suostumus, sukupuoli-identiteetti, syrjintä), soveltaminen, analysointi (miksi väite on virheellinen), arviointi, argumentaatio ja kokonaisuus (perustelu yhdellä selkeällä lauseella).
+*Tiedonkäsittely* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); palautteeksi, ei pisteitä osassa A): käsitteiden käyttö (seksuaalioikeudet, suostumus, sukupuoli-identiteetti, syrjintä), soveltaminen, analysointi (miksi väite on virheellinen), arviointi, argumentaatio ja kokonaisuus (perustelu yhdellä selkeällä lauseella).
 
 **Yhteensä:** 20 p
 
@@ -310,11 +278,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Jokainen neljästä näkökulmasta 2 p: molempien koulujen tilanne kuvattu aineiston pohjalta 1 p ja vaikutus terveyteen perusteltu mekanismina 1 p. Yhteensä 8 p.
 - Johtopäätös, jossa valitaan tekijä ja perustellaan se, 2 p (pelkkä maininta 1 p).
 
-*Tiedonkäsittely 10 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+*Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); kokonaisarvio viiden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
 - 8–10 p: vertailu on tasapainoista, näkökulmat pysyvät erillään, mekanismit ovat ketjuja ja johtopäätös nojaa vertailuun.
 - 4–7 p: vertailu on pääosin oikein, mutta mekanismit ovat yleisiä tai toista koulua käsitellään niukasti.
 - 0–3 p: koulut kuvataan erikseen eikä niitä verrata, tai näkökulmat menevät sekaisin.
+
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 20 p
 
@@ -331,39 +301,40 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** Asia koskee opiskelijoita, huoltajia, opettajaa, rehtoria ja koko koulun yhteisöä. Aineistossa sisällön opettaminen ei ole kysymys: moninaisuus kuuluu opetussuunnitelman seksuaalioikeuksia koskevaan sisältöön ja koulun yhdenvertaisuusvelvoitteeseen, joten se opetetaan kaikille. Kiistan aihe on se, miten huoltajille kerrotaan ja miten heidät otetaan mukaan. Vastakkain ovat huoltajien toive tietää ja vaikuttaa siihen, mitä lapselle opetetaan, ja koulun tehtävä antaa kaikille tasapuolisesti tietoa sekä suojata opiskelijoita syrjinnältä. Mukana on myös nuoren oma oikeus tietoon.
+**a)** Asia koskee opiskelijoita, huoltajia, opettajaa, rehtoria ja koko koulun yhteisöä. Moninaisuuden opettaminen ei ole kiistan aihe: se kuuluu opetussuunnitelman seksuaalioikeuksia koskevaan sisältöön ja koulun yhdenvertaisuusvelvoitteeseen. Kiistan aihe on se, miten huoltajille kerrotaan ja miten heidät otetaan mukaan.
 
-**b)** *Kanta 1: koulu tiedottaa laajasti ja keskustelee huoltajien kanssa etukäteen.* Perustelut: avoimuus lisää luottamusta, huoltajat voivat tukea nuorta kotona ja huoli tulee kuulluksi ennen kuin siitä tulee riita. Vahvuus: kunnioittaa huoltajien asemaa kasvattajina. Heikkous: vie opettajien aikaa, ja keskustelu voi muuttua vaatimukseksi sisällön muuttamisesta, vaikka sisältö ei ole neuvoteltavissa.
-*Kanta 2: koulu tiedottaa tavalliseen tapaan kuten muistakin aiheista.* Perustelut: sisältö perustuu opetussuunnitelmaan, ja erityiskohtelu antaisi ymmärtää, että moninaisuus on poikkeuksellinen tai ongelmallinen aihe. Vahvuus: kohtelee aihetta kuten muita ja välttää leimaamista. Heikkous: huoltajat voivat kokea tulleensa ohitetuiksi, ja luottamus koulua kohtaan voi heiketä.
-Kumpi tahansa kanta voi olla perusteltu, kunhan perustelut nojaavat aineistoon, heikkoudet myönnetään eikä sisällön opettamista esitetä vapaaehtoisena.
+**b)** *Arvot:* vastakkain ovat perheen vakaumuksen ja luottamuksen kunnioittaminen sekä yhdenvertaisuus ja tiedon saaminen kaikille. *Oikeudet:* nuorella on oikeus tietoon ja syrjimättömään kohteluun. Huoltajilla on oikeus tietää, mitä opetetaan, ja osallistua kasvatukseen, mutta opetussuunnitelman sisältö ei ole neuvoteltavissa. *Normit ja velvollisuudet:* koulun velvollisuus on opettaa sisältö kaikille ja edistää yhdenvertaisuutta, ja huoltajat tukevat lapsen koulunkäyntiä. *Seuraukset:* laaja etukäteistiedotus lisää luottamusta, mutta vie aikaa ja voi muuttua sisällön neuvotteluksi. Tavallinen tiedote välttää leimaamista, mutta huoltajat voivat kokea tulleensa ohitetuiksi. *Motiivit:* huoltajia ohjaa huoli lapsesta ja perheen vakaumus, ei halu syrjiä. Opettajaa ohjaa halu kohdella aihetta kuten muita.
+*Kanta 1: koulu tiedottaa laajasti ja keskustelee etukäteen.* Vahvuus: kunnioittaa huoltajien asemaa. Heikkous: vie aikaa, ja keskustelu voi muuttua vaatimukseksi. *Kanta 2: koulu tiedottaa tavalliseen tapaan.* Vahvuus: kohtelee aihetta kuten muita. Heikkous: luottamus voi heiketä. Kumpi tahansa kanta voi olla perusteltu, kunhan heikkoudet myönnetään.
 
-**c)** *Ehdotus:* Moninaisuus opetetaan kaikille osana terveystietoa neutraalisti ja asiallisesti. Koulu kertoo etukäteen kaikissa aiheissa, mitä tunneilla käsitellään, ja järjestää huoltajille halutessaan yhteisen infotilaisuuden, jossa opettaja ja rehtori kertovat sisällöstä ja perusteista. Opettaja ei kehota ketään muuttamaan vakaumustaan vaan antaa tietoa ja korostaa kunnioitusta. Tämä kunnioittaa molempia puolia: kaikki opiskelijat saavat saman tiedon ja huoltajat tietävät, mitä opetetaan.
-*Vaikutus:* tieto ja turvallinen ilmapiiri tukevat kaikkien opiskelijoiden hyvinvointia ja voivat vähentää yksinäisyyttä ja pilkkaa. Moninaisuuteen kuuluvat nuoret hyötyvät eniten, koska he voivat kokea syrjintää. Terveyserot kaventuvat, kun kaikki saavat saman tiedon riippumatta kodista. Riskinä on, että huoltajat kokevat tulleensa ohitetuiksi, jos tiedotus ja keskustelu laiminlyödään.
+**c)** *Ehdotus:* Moninaisuus opetetaan kaikille neutraalisti ja asiallisesti. Koulu kertoo etukäteen kaikissa aiheissa, mitä tunneilla käsitellään, ja järjestää halutessaan huoltajille infotilaisuuden, jossa opettaja ja rehtori kertovat sisällöstä ja perusteista. Hyve kunnioitus toteutuu, kun molempia kuullaan.
+*Vaikutus:* tieto ja turvallinen ilmapiiri tukevat kaikkien opiskelijoiden hyvinvointia ja voivat vähentää yksinäisyyttä ja pilkkaa. Moninaisuuteen kuuluvat nuoret hyötyvät eniten. Terveyserot kaventuvat, kun kaikki saavat saman tiedon kodista riippumatta. Riski on, että huoltajat kokevat tulleensa ohitetuiksi, jos keskustelu laiminlyödään.
 
 **Pisteytys**
 
-*Sisältö 15 p (a 5 + b 5 + c 5):*
+*Sisältö 15 p (a 3 + b 9 + c 3):*
 
-Pisteet annetaan päättelyn laadusta ja aineiston käytöstä, ei siitä, kumman kannan vastaaja valitsee. Perusteltu kanta kummalla puolella tahansa ansaitsee saman pistemäärän.
+Pisteet annetaan päättelyn laadusta ja aineiston käytöstä, ei siitä, kumman kannan vastaaja valitsee.
 
-- a) Asianosaiset (vähintään kolme) 2 p; vastakkaiset arvot nimetty ja selitetty 3 p. Yhteensä 5 p.
-- b) Perustelut kahdelle kannalle, 2 p kumpikin; vahvuuksien ja heikkouksien arviointi 1 p. Yhteensä 5 p.
-- c) Perusteltu ehdotus, jossa on toimija ja keino, 2 p; vaikutus hyvinvointiin ja terveyseroihin perusteltu 2 p; riski tai vastakkainen näkökulma huomioitu 1 p. Yhteensä 5 p.
+- a) Asianosaiset (vähintään kolme) 2 p; kiistan aihe nimetty 1 p. Yhteensä 3 p.
+- b) Kolme näkökulmaa, kustakin 3 p: näkökulma nimetty ja sovellettu aineistoon 2 p, perustelu tai vastakkainen kanta 1 p. Yhteensä 9 p.
+- c) Perusteltu ehdotus, jossa on toimija ja keino, 2 p; vaikutus hyvinvointiin ja terveyseroihin 1 p. Yhteensä 3 p.
 
-*Tiedonkäsittely 15 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+*Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); kokonaisarvio viiden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
-- 12–15 p: käsitteet (seksuaalioikeudet, moninaisuus, syrjintä, terveyserot) ovat täsmällisiä; analyysi nojaa aineistoon; molemmat kannat esitetään reilusti; valittu kanta, kumpi tahansa, on perusteltu aineistolla; vastaus etenee kohdittain.
-- 6–11 p: sisältö on pääosin oikein, mutta toista kantaa kuvataan vähän tai kanta jää perustelematta.
+- 12–15 p: käsitteet ja näkökulmien nimet ovat täsmällisiä; analyysi nojaa aineistoon; näkökulmia punnitaan toisiaan vasten; molemmat kannat esitetään reilusti; valittu kanta, kumpi tahansa, on perusteltu aineistolla.
+- 6–11 p: sisältö on pääosin oikein, mutta näkökulmat jäävät luetteloksi, toista kantaa kuvataan vähän tai kanta jää perustelematta.
 - 0–5 p: vastaus on mielipide ilman perusteluja, luettelee asioita tai ei käytä aineistoa.
 
-Tehtävänannon osapisteet (a 8 p, b 10 p, c 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+Tehtävänannon osapisteet (a 5 p, b 15 p, c 10 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 30 p
 
 **Tyypilliset virheet**
 
 - Vastaus on oma mielipide, jossa toista kantaa vain moititaan.
-- Arvoristiriitaa ei nimetä: vastaus toteaa vain, että "mielipiteet eroavat".
+- Näkökulmat vain luetellaan eikä niitä sovelleta aineistoon, tai arvoristiriitaa ei nimetä.
 - Huoltajien huoli sivuutetaan tai sitä pilkataan.
 - Sisällön opettaminen esitetään valinnaisena tai kodin päätettävänä, vaikka kiista koskee vain tiedottamista ja osallistamista.
 - Ehdotus ei kerro, kuka toimii ja miten.
@@ -385,7 +356,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 4. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 5. **Seuraava askel:** aihe 08 *Mielenterveyttä suojaavat tekijät*. Siellä tutkit, mikä suojaa mieltä.
 
-**Muistiinpanoihin:** Säilytä Tehtävän 1 piirteet ja Tehtävän 2 käsitteet. Kirjoita käsitteet seksuaalioikeus, suostumus, seksuaalinen suuntautuminen, sukupuoli-identiteetti ja syrjintä omin sanoin. Kirjoita muistiin myös eettisen analyysin vaiheet.
+**Muistiinpanoihin:** Säilytä Tehtävän 1 piirteet ja Tehtävän 2 käsitteet. Kirjoita käsitteet seksuaalioikeus, suostumus, seksuaalinen suuntautuminen, sukupuoli-identiteetti ja syrjintä omin sanoin. Kirjoita muistiin myös eettisen analyysin vaiheet ja kuusi näkökulmaa.
 
 ## Tuntisuunnitelma (75 min)
 
@@ -450,7 +421,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Helpompi polku:** Tee Tehtävässä 1 vain suostumuksen kaksi ensimmäistä piirrettä ja kaksi vaihtoehtoista toimintatapaa. Tehtävässä 2 riittää kolme käsitettä: suuntautuminen, sukupuoli-identiteetti ja syrjintä. Koetehtävistä K1:n viisi ensimmäistä väittämää riittää.
 
-**Syvempi polku:** Etsi Tehtävän 1 tapauksesta kohta, jossa aikuinen tai ystävä voisi puuttua, ja perustele ajoitus. Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn kuuden kriteerin avulla. Vertaa tämän aiheen näkökulmaa [opinto-ohjauksen itsetuntemusaiheeseen](https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/): mikä on samaa ja mikä erilaista?
+**Syvempi polku:** Etsi Tehtävän 1 tapauksesta kohta, jossa aikuinen tai ystävä voisi puuttua, ja perustele ajoitus. Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn viiden kriteerin avulla. Vertaa tämän aiheen näkökulmaa [opinto-ohjauksen itsetuntemusaiheeseen](https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/): mikä on samaa ja mikä erilaista?
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Vastaukset voi kirjoittaa omalla kielellä; koetehtävissä harjoitellaan suomenkielisiä käsitteitä. Jos aihe on omassa kulttuurissa arka, siitä voi keskustella opettajan kanssa kahden kesken.
 

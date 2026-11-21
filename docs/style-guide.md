@@ -1,7 +1,7 @@
 # Style guide: voice, terms and form (terveystieto)
 
 **Written for brief 002, 2026-11-21.** Every topic writer follows this guide and copies the form of the sample topic
-`content/topics/te1-01-terveys-voimavarana.md`. The contract (`docs/content-contract.md`) says *which* sections exist;
+`content/topics/01-terveys-voimavarana.md`. The contract (`docs/content-contract.md`) says *which* sections exist;
 this guide says *how* they are written. Where they disagree, the contract wins. Base: the opinto-ohjaus style guide.
 
 ## 1. Voice
@@ -98,29 +98,103 @@ The first time in a topic, use the full form; after that the short form. Theory 
 ## 7. Exam tasks (`## Koetehtävät`)
 
 - The exam has three parts: **A20** (choose 1 of 3, content only), **B20** (2 of 3), **C30** (2 of 3); 120 points.
-  A topic with three tasks uses one of each part; with two, one B20 and one A20 or C30.
-- Task types (Finnish names): *oikein vai väärin -väittämät*, *virheiden tunnistaminen ja korjaaminen* (five errors,
-  4 p each), *vertailu näkökulmittain*, *taulukon täydentäminen*, *teorian soveltaminen*, *kuvion tai aineiston
-  analyysi*, *eettinen analyysi*, *tutkimussuunnitelma*. Vary types across a module.
-- Front matter `type` slugs: `oikein-vaarin`, `virheiden-tunnistaminen`, `vertailu`, `taulukon-taydentaminen`,
-  `teorian-soveltaminen`, `aineiston-analyysi`, `eettinen-analyysi`, `tutkimussuunnitelma`.
-- Heading: `### K1: Virheiden tunnistaminen, 25 min (20 p)` (the engine form; the model answer repeats it), then the line `*Osa A20 · Harjoittelee: Osaan 1, 5*`,
-  then the task. Practice minutes: A20 20–30, B20 30–40, C30 45–60.
+  A topic with three tasks uses one of each part; with two, one B20 and one A20 or C30. The section opens with one
+  line: TE1 alone covers only part of the exam; TE2 and TE3 carry the rest.
+- Heading `### K1: Virheiden tunnistaminen, 25 min (20 p)` (engine form), then `*Osa A20 · Harjoittelee: Osaan 1,
+  5*`, then the task. Sub-parts `a) … (8 p)` add up to the heading. Practice minutes: A20 20–30, B20 30–40, C30 45–60.
+- Type slugs (front matter `type`). Existing: `oikein-vaarin`, `virheiden-tunnistaminen` (five errors, 4 p each),
+  `vertailu`, `taulukon-taydentaminen`, `teorian-soveltaminen`, `aineiston-analyysi`, `eettinen-analyysi`,
+  `tutkimussuunnitelma`. New (templates in §7a): `luettele-ja-luokittele`, `maarittele-ja-esimerkki`, `monivalinta`,
+  `kasitteiden-nimeaminen`, `piirtaminen`, `aineiston-lukeminen`, `viitekehyksen-soveltaminen`,
+  `kasitteen-kritiikki`. Vary types across a module; no two topics share the same C30 sub-part split.
 - Material is self-written and labelled `*Aineisto (kuvitteellinen)*`, or a linked open or official source. Never
-  text from publishers or YTL, never a past exam task reworded. Fictional figures are allowed only on unflagged pages
-  and never about bodies, food, sleep hours or substances.
+  text from publishers or YTL, never a past exam task reworded: mirror the format, write our own content.
+- **Self-made data** (chart, table, map, image) is a Markdown table or a described picture, never an image file:
+  `*Taulukko 1 (kuvitteellinen): otsikko*` or `*Kuvaus kuvasta (kuvitteellinen): …*`. Figures are round, about
+  groups, opinions, environments or services, and never about bodies, food or nutrient amounts, calories, doses,
+  substance use or hours of sleep or exercise. Flagged pages use material without figures (categories, order,
+  described labels). A hypnogram is a table of sleep stages by sleep cycle (*jakso 1–5*), with no clock hours.
 - Tasks ask about concepts, mechanisms, cases and society; never the student's own health or behaviour.
+
+## 7a. Templates for the new formats
+
+Each template gives the task line, the scoring, and the model-answer pattern in two halves: *sisältö* (what earns
+content points) and *tiedonkäsittely* (the rubric half; in A20 written as feedback without points). Points are
+examples; keep the sum equal to the heading. A count or a penalty never takes a task below 0 p.
+
+**Luettele ja luokittele** (`luettele-ja-luokittele`, A20 or B20). *Tehtävä:* "Luettele kahdeksan [asiaa] ja
+luokittele ne [luokat]. Perustele luokka lyhyesti." Name the number and the classes in the task.
+- *Pisteytys (count rubric):* each distinct item in the right class with a reason 2 p (item 1 p, class and reason
+  1 p), counted up to the number asked; repeats and extra items 0 p. A20: 8 × 2 p + 4 p for one link between
+  classes; B20 content half: 5 × 2 p.
+- *Malli, sisältö:* a table `| Asia | Luokka | Perustelu |` with exactly the number asked.
+- *Malli, tiedonkäsittely:* a paragraph that compares the classes and judges which matter most for the case.
+
+**Määrittele ja anna esimerkki** (`maarittele-ja-esimerkki`, A20). *Tehtävä:* "Määrittele käsitteet A–D ja anna
+kustakin terveyteen liittyvä esimerkki." An optional character limit trains concision.
+- *Pisteytys:* per concept 5 p: core definition 2 p, a fitting example 2 p, the difference from a near concept 1 p.
+- *Malli, sisältö:* per concept one definition sentence, one example sentence (a fictional case), one contrast.
+- *Malli, tiedonkäsittely:* feedback on precision: the definition names the essential features, not a synonym.
+
+**Monivalinta, väärästä vähennys** (`monivalinta`, A20). *Tehtävä:* ten items, options a–d, one right. The
+instruction says: "Oikea vastaus 2 p, väärä −1 p, tyhjä 0 p. Tehtävän pisteet eivät mene alle nollan."
+- Variant with justification: four items × 5 p (right choice 1 p, a reason that uses a concept 4 p), no penalty.
+- *Malli, sisältö:* the right letter and one line why it is right and why the most tempting wrong option is wrong.
+- *Malli, tiedonkäsittely:* feedback on which items test a distinction (for example prevention versus promotion).
+
+**Käsitteiden nimeäminen** (`kasitteiden-nimeaminen`, A20 or a B20 sub-part). *Tehtävä:* short descriptions or
+fictional cases (*Kim (kuvitteellinen) …*); the student names the concept each one shows, with a one-line reason.
+- *Pisteytys:* per item 2 p: the concept 1 p (glossary synonyms accepted, §3), the reason tying case and concept 1 p.
+- *Malli, sisältö:* a numbered list `1. medikalisaatio: arkinen asia selitetään sairautena, koska …`.
+- *Malli, tiedonkäsittely:* feedback on telling near concepts apart (suojaava tekijä versus voimavara).
+
+**Piirrä malli tai kuvio** (`piirtaminen`, a sub-part of B20 or C30). *Tehtävä:* "Piirrä vastausarkille [malli]
+ja selitä …" or "Laadi taulukon 1 tiedoista pylväskuvio." The student draws on paper or in an editor.
+- *Pisteytys:* the drawing 3–5 p by element (boxes or stages in order, arrows, the return path; for a chart: title,
+  both axes named with units, a scale from zero, a legend, the source marked *kuvitteellinen*); the explanation
+  carries the rest.
+- *Malli, sisältö:* the drawing as a text figure in a code block (`esiharkinta → harkinta → …`) or a list of the
+  chart's elements, then the explanation stage by stage.
+- *Malli, tiedonkäsittely:* what the model or chart shows and what it hides (a model simplifies; a chart of
+  fictional groups shows no cause).
+
+**Lue kuvio, taulukko, kartta tai kuva** (`aineiston-lukeminen`, B20 or C30). *Tehtävä:* self-made data (§7) and
+three steps: "a) Kuvaile, mitä aineistossa näkyy. b) Selitä ilmiötä terveystiedon käsittein. c) Arvioi aineiston
+rajoja." The 5 p deduction for unused material applies.
+- *Pisteytys:* readings cited from the data (rows, groups, changes) 1 p each; explanations with a mechanism; the
+  limits (fictional, a single measurement, correlation is not cause).
+- *Malli, sisältö:* sentences that name the row or group: *Taulukon 1 mukaan ryhmässä B …*, then the mechanism.
+- *Malli, tiedonkäsittely:* compares groups or stages, judges what the data can and cannot show, concludes.
+
+**Sovella annettua viitekehystä** (`viitekehyksen-soveltaminen`, B20 or C30). *Tehtävä:* the framework stated in
+our own words with a dated link (for example the five action areas of health promotion, or the four levels of
+determinants), plus a fictional case: "Tee kustakin osa-alueesta yksi perusteltu ehdotus."
+- *Pisteytys:* per element: a concrete measure 1 p, who acts 1 p, the mechanism to health 1 p (C30: 5 × 3 p = 15 p).
+- *Malli, sisältö:* one paragraph per element, its name in bold, tied to a detail of the case.
+- *Malli, tiedonkäsittely:* judges feasibility, cost and who is reached, and which measure works best and why.
+
+**Arvioi käsitettä kriittisesti** (`kasitteen-kritiikki`, B20 or C30). *Tehtävä:* a concept or definition
+paraphrased with a dated link (never quoted at length): "Arvioi määritelmän vahvuuksia ja heikkouksia."
+- *Pisteytys:* strengths and weaknesses named and explained, 2–3 p each (for a definition of health: many-sided
+  versus static, an ideal no one reaches, a risk of medicalisation, hard to measure), an alternative view 2–3 p.
+- *Malli, sisältö:* a strength paragraph, a weakness paragraph, an alternative with its source.
+- *Malli, tiedonkäsittely:* weighs both sides, places the concept in its time and use, ends in a reasoned verdict.
 
 ## 8. Model answers (`## Mallivastaukset`)
 
-For each task an H3 with the same id: `### K1: Mallivastaus`. Then, in order:
-1. **Malliksi kelpaava vastaus**: original wording, full sentences, the length a good kokelas writes.
+For each task an H3 that repeats the task heading exactly (`### K1: Virheiden tunnistaminen, 25 min (20 p)`). Then:
+1. **Malliksi kelpaava vastaus**: original wording, full sentences, the length a good kokelas writes; in B20 and
+   C30 both the content and the information-processing work are visible (§7a patterns).
 2. **Pisteytys**:
    - *Sisältö*: points per required element, as a list that adds up (`- … 4 p`).
-   - *Tiedonkäsittely* (B20 and C30): half of the points (B20 10 + 10, C30 15 + 15), judged as a whole on the six
-     criteria *käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus*, in three bands
-     (B20: 0–3 / 4–7 / 8–10; C30: 0–5 / 6–11 / 12–15) with one line of description each.
-   - A20: content only, all points; the six criteria are given as feedback without points.
+   - *Tiedonkäsittely* (B20 and C30): half of the points (B20 10 + 10, C30 15 + 15), judged as a whole on the five
+     criteria *käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi*, in three bands (B20: 0–3 /
+     4–7 / 8–10; C30: 0–5 / 6–11 / 12–15), each with one line on what it means in this task. Its first line links
+     the shared rubric, `[tiedonkäsittelyn arviointi](../../opetussuunnitelma/)`: the section *Tiedonkäsittely
+     koetehtävissä* of the curriculum page (engine-issues E-11).
+   - A20: content only, all points; the five criteria are given as feedback without points.
+   - Every task with material ends its scoring with: `- Jos vastaus ei viittaa aineistoon, kokonaispisteistä
+     vähennetään 5 p.`
    - A last line `**Yhteensä:** 20 p` that equals the heading.
 3. **Tyypilliset virheet**: 3–5 bullets, e.g. *luettelee tekijöitä selittämättä mekanismia*.
 4. The fixed line, verbatim: `Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.`
@@ -129,8 +203,9 @@ For each task an H3 with the same id: `### K1: Mallivastaus`. Then, in order:
 
 - `## Itseopiskelun askel`: **Tavoite**, **Aikaa kuluu**, **Näin etenet** (numbered: lue → tee → harjoittele
   koetehtävä → pohdi → seuraava askel), **Muistiinpanoihin** (what to keep for exam revision).
-- Three H2 plans: `## Tuntisuunnitelma (75 min)`, `(60 min)`, `(45 min)`. The first opens with `**Tavoitetehtävä:**`
-  naming the goal task. Columns: `| Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |`.
+- One H2 plan `## Tuntisuunnitelma (75 min)` with H3 `(60 min)` and `(45 min)` inside it (E-6). It opens
+  with `**Tavoitetehtävä:**` naming the goal task.
+  Columns: `| Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |`.
   `Min` a bare integer, no total row. 75 min template: Virittäytyminen 5 / Aiemman tiedon aktivointi 10 / Lyhyt
   alustus 10 / Työskentely 25 / Pari- tai pienryhmäpohdinta 10 / Koeharjoitus ja exit 10 / Puskuri 5.
 - **The 45-minute plan keeps the goal task whole**; cut the warm-up, the discussion and the exam practice first.
@@ -182,7 +257,7 @@ Recommended on every page, required on flagged pages. Three parts, in order:
   03 terveyskulttuuri, 04 ravinto, 05 liikunta-ja-uni, 06 seksuaaliterveys, 07 seksuaalioikeudet, 08 mielenterveys,
   09 stressi-ja-kriisit, 10 opiskeluhyvinvointi.
 - Whole topic 3,000–5,500 words, under 500 lines; Opiskelijalle 300–600 words.
-- `## Linkitetyt materiaalit` and `## Lähteet` hold one line each: `Kootaan sivun tiedoista automaattisesti.`
+- `## Lähteet` holds one line: `Kootaan sivun tiedoista automaattisesti.` No hand-written Linkitetyt materiaalit (E-3).
 
 ## 14. Never
 

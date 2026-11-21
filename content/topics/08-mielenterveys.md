@@ -24,69 +24,31 @@ official_links:
   - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
   - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", read: 2026-11-21}
   - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", read: 2026-11-21}
+  - {title: "Miten tunnetaitoja opitaan? (Mielenterveystalo)", url: "https://www.mielenterveystalo.fi/fi/omahoito/nuorten-haastavan-kaytoksen-omahoito-ohjelma/miten-tunnetaitoja-opitaan", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
+  - {title: "Miksi sosiaalinen media koukuttaa? (Mielenterveystalo)", url: "https://www.mielenterveystalo.fi/fi/digihaitat/miksi-sosiaalinen-media-koukuttaa", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
+  - {title: "Mitä yksinäisyys on? (Mielenterveystalo)", url: "https://www.mielenterveystalo.fi/fi/omahoito/yksinaisyyden-omahoito-ohjelma/mita-yksinaisyys", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
+  - {title: "Ilmastoahdistus ja sen kanssa eläminen (MIELI)", url: "https://mieli.fi/tukea-ja-apua/ilmastoahdistus/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
+  - {title: "Alkoholi (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/alkoholi", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Nikotiinituotteet (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
 yearly_facts: [kriisipuhelimet, opiskeluterveydenhuolto]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
-  - title: "Terveystiedon LOPS 2019 -tukimateriaali"
-    url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali"
-    publisher: "Opetushallitus"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja
-    read: 2026-11-21
-  - title: "TE1 Terveys voimavarana (verkkokurssin runko)"
-    url: "https://aoe.fi/#/materiaali/1113"
-    publisher: "Schildtin lukio (aoe.fi)"
-    licence_class: open-cc-by-sa
-    licence: "CC BY-SA 4.0"
-    audience: opettaja
-    read: 2026-11-21
-  - title: "TE01 Terveys voimavarana, verkko-opintojakso"
-    url: "https://aoe.fi/#/materiaali/1852"
-    publisher: "Omnia, Espoon aikuislukio (aoe.fi)"
-    licence_class: open-cc-by
-    licence: "CC BY 4.0"
-    audience: opettaja
-    read: 2026-11-21
-  - title: "Mielenterveystalo Nuoret"
-    url: "https://www.mielenterveystalo.fi/fi/nuoret"
-    publisher: "Mielenterveystalo.fi (HUS)"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija
-    read: 2026-11-21
-  - title: "MIELI ry"
-    url: "https://mieli.fi/"
-    publisher: "MIELI Suomen Mielenterveys ry"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija
-    read: 2026-11-21
-  - title: "Kriisipuhelin"
-    url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/"
-    publisher: "MIELI Suomen Mielenterveys ry"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija
-    read: 2026-11-21
-  - title: "Sekasin-chat"
-    url: "https://sekasin.fi/"
-    publisher: "Sekasin-kollektiivi"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija
-    read: 2026-11-21
-  - title: "Opinto-ohjaussivusto: Hyvinvointi ja opiskelukyky"
-    url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/"
-    publisher: "Lukion opinto-ohjaus (sisarsivusto)"
-    licence_class: open-cc-by
-    licence: "CC BY 4.0"
-    audience: opiskelija ja opettaja
-    read: 2026-11-21
+  - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
+  - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", licence_class: open-cc-by-sa, licence: "CC BY-SA 4.0", audience: opettaja, read: 2026-11-21}
+  - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", licence_class: open-cc-by, licence: "CC BY 4.0", audience: opettaja, read: 2026-11-21}
+  - {title: "Mielenterveystalo Nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi (HUS)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
+  - {title: "MIELI ry", url: "https://mieli.fi/", publisher: "MIELI Suomen Mielenterveys ry", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
+  - {title: "Kriisipuhelin", url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/", publisher: "MIELI Suomen Mielenterveys ry", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
+  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin-kollektiivi", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
+  - {title: "Opinto-ohjaussivusto: Hyvinvointi ja opiskelukyky", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/", publisher: "Lukion opinto-ohjaus (sisarsivusto)", licence_class: open-cc-by, licence: "CC BY 4.0", audience: opiskelija ja opettaja, read: 2026-11-21}
+  - {title: "Mielenterveystalo: tunnetaidot", url: "https://www.mielenterveystalo.fi/fi/omahoito/nuorten-haastavan-kaytoksen-omahoito-ohjelma/miten-tunnetaitoja-opitaan", publisher: "Mielenterveystalo.fi (HUS)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
+  - {title: "Mielenterveystalo: sosiaalinen media", url: "https://www.mielenterveystalo.fi/fi/digihaitat/miksi-sosiaalinen-media-koukuttaa", publisher: "Mielenterveystalo.fi (HUS)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
+  - {title: "Mielenterveystalo: yksinäisyys", url: "https://www.mielenterveystalo.fi/fi/omahoito/yksinaisyyden-omahoito-ohjelma/mita-yksinaisyys", publisher: "Mielenterveystalo.fi (HUS)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
+  - {title: "MIELI: ilmastoahdistus", url: "https://mieli.fi/tukea-ja-apua/ilmastoahdistus/", publisher: "MIELI Suomen Mielenterveys ry", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
 exam_tasks:
   - {id: K1, type: oikein-vaarin, part: A20, points: 20, minutes: 20, codes: [TE1.t1, TE1.s6]}
   - {id: K2, type: vertailu, part: B20, points: 20, minutes: 30, codes: [TE1.t1, TE1.s6]}
-  - {id: K3, type: aineiston-analyysi, part: C30, points: 30, minutes: 45, codes: [TE1.t1, TE1.s6]}
+  - {id: K3, type: aineiston-lukeminen, part: C30, points: 30, minutes: 45, codes: [TE1.t1, TE1.s6]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links:
   - {title: "Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/", read: 2026-11-21}
@@ -106,7 +68,7 @@ last_reviewed: 2026-11-21
 
 1. Osaan kuvata mielenterveyden voimavarana, joka vaihtelee elämän aikana, ja erottaa sen mielenterveyden häiriöistä.
 2. Osaan nimetä mielenterveyttä suojaavia tekijöitä yksilön, yhteisön ja yhteiskunnan tasolla.
-3. Osaan selittää ketjuna, miten suojaava tekijä tukee mielenterveyttä ja miten kuormittavat tekijät voivat kasautua.
+3. Osaan selittää ketjuna, miten suojaava tekijä tukee mielenterveyttä ja kuormittavat tekijät kasautuvat, ja kuvata, miten tunnetaidot, sosiaalinen media, yksinäisyys ja ilmastoahdistus liittyvät mielenterveyteen.
 4. Osaan arvioida, miten leimautuminen ja syrjintä vaikuttavat mielenterveyteen ja avun hakemiseen.
 5. Osaan kertoa, mistä apua saa, ja tehdä perustellun ehdotuksen siitä, miten koulu tai yhteisö voi tukea mielenterveyttä.
 
@@ -124,19 +86,29 @@ Suojaava tekijä vahvistaa mielenterveyttä ja auttaa selviämään kuormitukses
 - **yhteisölliset tekijät:** turvalliset ihmissuhteet, kuulumisen kokemus, aikuinen jolle voi puhua, hyväksyvä ilmapiiri koulussa ja harrastuksissa
 - **yhteiskunnalliset tekijät:** opiskeluhuolto ja muut matalan kynnyksen palvelut, riittävä toimeentulo, turvallinen asuinympäristö, kiusaamisen ja syrjinnän ehkäisy sekä koulutus
 
-Suojaavat tekijät eivät poista vaikeuksia. Ne auttavat kestämään vaikeudet ja toipumaan niistä. Tätä kykyä kutsutaan psyykkiseksi palautumiskyvyksi eli resilienssiksi. Se ei ole synnynnäinen ominaisuus, vaan se rakentuu koko elämän ajan.
+Suojaavat tekijät auttavat kestämään vaikeudet ja toipumaan niistä. Tätä kykyä kutsutaan psyykkiseksi palautumiskyvyksi eli resilienssiksi. Se rakentuu koko elämän ajan.
 
 ### Miten suojaus toimii?
 
 Suojaava tekijä vaikuttaa ketjun kautta. Esimerkiksi turvallinen ystävyys auttaa puhumaan huolista. Kun huolista voi puhua, ne eivät kasva yksin mielessä. Silloin kuormitus pienenee ja jaksaminen paranee.
 
-Kuormittavat tekijät voivat toimia samalla tavalla toiseen suuntaan. Niitä voi kasautua, ja silloin ne painavat enemmän kuin yksittäin. Suojaavat tekijät toimivat kuin vastapaino. Sama tekijä voi myös suojata tai kuormittaa. Ystäväporukka voi antaa tukea, mutta myös paineita. Koevastauksessa ei riitä, että luettelet tekijöitä: kuvaa, mitä niiden välissä tapahtuu.
+Kuormittavat tekijät voivat kasautua, ja silloin ne painavat enemmän kuin yksittäin. Sama tekijä voi myös suojata tai kuormittaa. Ystäväporukka voi antaa tukea, mutta myös paineita.
 
 ### Leimautuminen ja avun hakeminen
 
-Leimautuminen tarkoittaa, että ihmiseen liitetään kielteisiä käsityksiä hänen mielenterveytensä vuoksi. Silloin ihminen voi salata vaikeuksiaan ja hakea apua myöhemmin. Syrjintä heikentää kuulumisen kokemusta, ja se kuormittaa mieltä.
+Leimautuminen tarkoittaa, että ihmiseen liitetään kielteisiä käsityksiä hänen mielenterveytensä vuoksi. Silloin ihminen voi salata vaikeuksiaan ja hakea apua myöhemmin.
 
-Puhetavat ovat yhteisön suojaavia tai kuormittavia tekijöitä. Asiallinen, kunnioittava puhe madaltaa kynnystä pyytää apua. Vitsailu mielenterveydestä tai oletus, että jaksamisen ongelmat johtuvat heikkoudesta, nostaa sitä.
+Asiallinen, kunnioittava puhe madaltaa kynnystä pyytää apua. Vitsailu mielenterveydestä nostaa sitä.
+
+### Tunteet, some, yksinäisyys ja ilmastoahdistus
+
+- **Tunnetaidot:** tunteen tunnistaminen, nimeäminen, ilmaiseminen ja säätely ovat opittavia taitoja, jotka vahvistuvat harjoittelulla ja turvallisessa ympäristössä ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/omahoito/nuorten-haastavan-kaytoksen-omahoito-ohjelma/miten-tunnetaitoja-opitaan)). Tunteen piilottaminen ei poista sitä.
+- **Sosiaalinen media:** se tukee yhteyttä, mutta sovellukset on suunniteltu pitämään käyttäjä mukana ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/digihaitat/miksi-sosiaalinen-media-koukuttaa)). Vertailu toisten kuvattuun elämään, jäämisen pelko ja verkkokiusaaminen voivat kuormittaa. Käyttötapa ratkaisee.
+- **Yksinäisyys:** pitkään jatkuva kokemus läheisyyden puutteesta, eri asia kuin valittu yksinolo. Se voi vahvistaa itseään, kun se muuttaa tapaa ajatella itsestä ja toisista ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/omahoito/yksinaisyyden-omahoito-ohjelma/mita-yksinaisyys)).
+- **Ilmastoahdistus:** ymmärrettävä reaktio ympäristön tilaan, ei sairaus. Jos se lamaannuttaa, siitä kannattaa puhua, ja tieto ja yhteinen toiminta voivat muuttaa sen voimaksi ([MIELI](https://mieli.fi/tukea-ja-apua/ilmastoahdistus/)).
+- **Alkoholi ja nikotiini** ovat elintapatekijöitä, jotka vaikuttavat terveyteen ([THL: alkoholi](https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/alkoholi), [THL: nikotiinituotteet](https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet)). Niitä käsitellään tarkemmin moduulissa [TE2](../../opetussuunnitelma/).
+
+Jos jokin näistä painaa mieltä, lue osio *Apua ja tukea*.
 
 ### Kun mieli on raskaalla
 
@@ -144,7 +116,7 @@ Joskus olo voi olla niin raskas, että ihminen ajattelee, ettei jaksa enää tai
 
 ### Mistä apua saa?
 
-Ensimmäinen askel on usein puhua jollekulle. Koulussa apua antavat opiskeluhuolto eli kuraattori, psykologi ja terveydenhoitaja sekä opiskeluterveydenhuollon lääkäri. Netissä on Mielenterveystalon omahoito-ohjelmia ja Sekasin-chat, ja Kriisipuhelimeen voi soittaa nimettömänä. Palvelujen saatavuus vaihtelee alueittain, ja koulusi kertoo, miten aika varataan.
+Usein ensimmäinen askel on puhua jollekulle. Koulussa apua antavat opiskeluhuolto eli kuraattori, psykologi ja terveydenhoitaja sekä opiskeluterveydenhuollon lääkäri. Netissä on Mielenterveystalon omahoito-ohjelmia ja Sekasin-chat, ja Kriisipuhelimeen voi soittaa nimettömänä. Koulusi kertoo, miten aika varataan.
 
 ## Tehtävät
 
@@ -209,7 +181,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 1. Osaan kuvata mielenterveyden voimavarana, joka vaihtelee elämän aikana, ja erottaa sen mielenterveyden häiriöistä.
 2. Osaan nimetä mielenterveyttä suojaavia tekijöitä yksilön, yhteisön ja yhteiskunnan tasolla.
-3. Osaan selittää ketjuna, miten suojaava tekijä tukee mielenterveyttä ja miten kuormittavat tekijät voivat kasautua.
+3. Osaan selittää ketjuna, miten suojaava tekijä tukee mielenterveyttä ja kuormittavat tekijät kasautuvat, ja kuvata, miten tunnetaidot, sosiaalinen media, yksinäisyys ja ilmastoahdistus liittyvät mielenterveyteen.
 4. Osaan arvioida, miten leimautuminen ja syrjintä vaikuttavat mielenterveyteen ja avun hakemiseen.
 5. Osaan kertoa, mistä apua saa, ja tehdä perustellun ehdotuksen siitä, miten koulu tai yhteisö voi tukea mielenterveyttä.
 
@@ -217,7 +189,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia.
+Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE1 yksin kattaa vain osan ylioppilaskokeesta: loput tulevat moduuleista TE2 ja TE3. Jos tehtävässä on aineisto, vastauksen pitää käyttää sitä, muuten kokonaispisteistä vähennetään 5 p ([ohje](../../opetussuunnitelma/)).
 
 ### K1: Oikein vai väärin -väittämät, 20 min (20 p)
 
@@ -248,19 +220,25 @@ Päätä, ovatko väittämät oikein vai väärin. Perustele jokainen valinta ly
 
 Vertaile lukioita mielenterveyttä suojaavien tekijöiden kannalta näillä näkökulmilla: (1) yhteisön ilmapiiri ja kuulumisen kokemus, (2) avun löytäminen ja hakeminen, (3) leimautuminen. Kerro lopuksi, millä tasolla (yksilö, yhteisö, yhteiskunta) lukioiden toimet vaikuttavat, ja ehdota yksi perusteltu kehitysidea Rauhalan lukiolle.
 
-### K3: Aineiston analyysi, 45 min (30 p)
+### K3: Aineiston lukeminen, 45 min (30 p)
 
 *Osa C30 · Harjoittelee: Osaan 2, 3, 4, 5*
 
-*Aineisto (kuvitteellinen paikallisuutinen):*
+*Taulukko 1 (kuvitteellinen): Järvelän lukion opiskelijakyselyn vastaukset kolmessa ryhmässä*
 
-> **Järvelän lukion opiskelijakunta haluaa vertaistukea ja avoimempaa keskustelua.** Opiskelijakunta ehdottaa vertaistukiryhmää ja lukuvuoden aikana järjestettävää keskusteluiltaa jaksamisesta. Puheenjohtaja Veera kertoo, että moni on puhunut jaksamisen vaikeuksista kavereille mutta ei kuraattorille, koska kuraattorin ovelle kävellään kaikkien nähden. Rehtori pitää ehdotusta hyvänä, mutta haluaa varmistaa, etteivät vertaisohjaajat jää yksin vaikeiden asioiden kanssa. Osa huoltajista pelkää, että aiheesta puhuminen vain lisää huolia. Kuraattori sanoo, että hänen luokseen voi tulla ilman erityistä syytä, ja ehdottaa, että vertaisohjaajat perehdytetään ja heille sovitaan aikuinen tuki.
+| Ryhmä | Kokee kuuluvansa joukkoon | Kokee yksinäisyyttä | Käyttää sovelluksia myöhään illalla | Tietää, mistä apua saa |
+|---|---|---|---|---|
+| A: ryhmäytymiseen osallistuneet | useimmat | harvat | moni | useimmat |
+| B: ryhmäytymiseen osallistumattomat | osa | moni | useimmat | osa |
+| C: etäopiskelijat | harvat | useimmat | useimmat | harvat |
 
-a) Analysoi, mitkä mielenterveyttä suojaavat ja kuormittavat tekijät aineistossa näkyvät ja millä tasoilla ne ovat. (10 p)
+*Kyselyn tekijän huomautus (kuvitteellinen): kysely tehtiin yhtenä päivänä, ja siihen vastasi vapaaehtoisesti vain osa opiskelijoista.*
 
-b) Selitä kahden aineiston tekijän vaikutusmekanismi ketjuna mielenterveyteen. (8 p)
+a) Kuvaile, mitä taulukossa näkyy, ja vertaa ryhmiä toisiinsa. (8 p)
 
-c) Arvioi huoltajien ja rehtorin huolia ja tee kaksi perusteltua ehdotusta siitä, miten koulu voi tukea opiskelijoiden mielenterveyttä. (12 p)
+b) Selitä terveystiedon käsittein, miten kuulumisen kokemus, yksinäisyys, sovellusten käyttö ja tieto avusta voivat liittyä mielenterveyteen ja toisiinsa. (12 p)
+
+c) Arvioi aineiston rajoja ja ehdota yksi perusteltu koulun toimi. (10 p)
 
 ## Mallivastaukset
 
@@ -286,7 +264,7 @@ c) Arvioi huoltajien ja rehtorin huolia ja tee kaksi perusteltua ehdotusta siit�
 - Jokainen kymmenestä väittämästä 2 p: oikea valinta 1 p ja lyhyt perustelu tai korjaus 1 p. Yhteensä 10 × 2 p = 20 p.
 - Oikea valinta ilman perustelua 1 p. Perustelu ilman valintaa 0 p.
 
-*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A): käsitteiden käyttö (mielenterveys, suojaava tekijä, leimautuminen), soveltaminen, analysointi (miksi väite on liian kapea), arviointi, argumentaatio ja kokonaisuus (selkeä rakenne väittämä kerrallaan).
+*Tiedonkäsittely* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); palautteeksi, ei pisteitä osassa A): käsitteiden käyttö (mielenterveys, suojaava tekijä, leimautuminen), soveltaminen, analysointi (miksi väite on liian kapea), arviointi, argumentaatio ja kokonaisuus (selkeä rakenne väittämä kerrallaan).
 
 **Yhteensä:** 20 p
 
@@ -321,11 +299,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Tasot tunnistettu ja liitetty lukioiden toimiin 2 p.
 - Yksi perusteltu kehitysidea Rauhalan lukiolle 2 p (idea ilman perustelua 1 p).
 
-*Tiedonkäsittely 10 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+*Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); kokonaisarvio viiden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
 - 8–10 p: vertailu on tasapainoinen ja etenee näkökulmittain, käsitteet ovat täsmällisiä ja mekanismit ketjuja, arvio perustellaan.
 - 4–7 p: vertailu on pääosin oikein, mutta toinen lukio jää vähemmälle tai mekanismit jäävät yleisiksi.
 - 0–3 p: vastaus kuvaa lukioita erikseen vertailematta tai luettelee tekijöitä selittämättä.
+
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 20 p
 
@@ -338,44 +318,43 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K3: Aineiston analyysi, 45 min (30 p)
+### K3: Aineiston lukeminen, 45 min (30 p)
 
 **Malliksi kelpaava vastaus**
 
-**a)** *Suojaavia tekijöitä:* yhteisöllisiä ovat ystävät, joille puhutaan, vertaistuki ja avoin keskustelu, ja yhteiskunnallisia kuraattori ja opiskeluhuolto sekä koulun toimet, joilla vertaisohjaajat perehdytetään. Yksilöllinen suojaava tekijä on kyky puhua huolista toiselle. *Kuormittavia tekijöitä:* kuraattorin ovelle meno kaikkien nähden voi tuoda leimautumisen pelon (yhteisöllinen), huoltajien pelko siitä, että puhuminen lisää huolia, voi hidastaa hanketta (yhteisöllinen), ja vertaisohjaajien kuormittuminen on riski, jos aikuisen tukea ei ole (yhteisöllinen ja yhteiskunnallinen).
+**a)** Taulukon 1 mukaan ryhmässä A useimmat kokevat kuuluvansa joukkoon ja yksinäisyyttä kokevat harvat, ja useimmat tietävät, mistä apua saa. Ryhmässä B kuulumista kokee osa, yksinäisyyttä moni ja avun reitit tietää osa. Ryhmässä C kuulumista kokevat harvat, yksinäisyyttä useimmat ja avun reitit tuntevat harvat. Myöhäinen sovellusten käyttö on yleisintä ryhmissä B ja C. Kuvio: kun kuulumisen kokemus on harvinaisempaa, yksinäisyys, myöhäinen käyttö ja tiedon puute yleistyvät.
 
-**b)** *Vertaistuki:* kun nuori voi puhua saman ikäisen kanssa, huoli ei jää yksin. Yksin jäänyt huoli voi kasvaa. Kun asia tulee puheeksi, voi saada tukea tai löytää apua, ja kuormitus kevenee.
-*Kuraattorin oven näkyvyys:* jos avun hakeminen näkyy muille, ihminen voi pelätä, mitä toiset ajattelevat. Pelko viivästyttää avun hakemista, ja silloin huolet ehtivät kasautua. Kun apu on helposti ja huomaamatta saatavilla, kynnys madaltuu.
+**b)** Kuulumisen kokemus on yhteisöllinen suojaava tekijä. Kun se puuttuu, huolista on vaikeampi puhua ja yksinäisyys voi pitkittyä. Pitkittynyt yksinäisyys voi vahvistaa itseään, koska se muuttaa tapaa ajatella itsestä ja toisista. Sosiaalinen media voi antaa yhteyden, mutta sovellukset on suunniteltu pitämään käyttäjä mukana, joten myöhäinen käyttö voi viedä lepoa, ja vertailu toisten elämään voi kuormittaa. Jos ei tiedä, mistä apua saa, avun hakeminen viivästyy ja kuormitus kasautuu. Tunnetaidot, kuten tunteiden nimeäminen ja ilmaiseminen, helpottavat puhumista, kun ryhmä ja turvallinen ilmapiiri tukevat sitä. Ryhmässä C useat kuormittavat tekijät voivat kasautua.
 
-**c)** Huoltajien huoli on ymmärrettävä, mutta puhuminen ei yleensä lisää kuormitusta, jos sitä ohjaavat osaavat aikuiset ja jos mukana on tieto avusta. Pitkä vaikeneminen voi pikemminkin vahvistaa leimaa. Huoli kannattaa silti ottaa vakavasti ja kertoa huoltajille etukäteen, mitä tapahtuu. Rehtorin huoli vertaisohjaajista on perusteltu: nuoret eivät ole ammattilaisia, eikä heidän pidä vastata vakavista tilanteista yksin.
-*Ehdotus 1:* Koulu järjestää vertaisohjaajille perehdytyksen ja sopii, että aikuinen on aina tavoitettavissa. Näin vertaisohjaajat tietävät rajansa ja osaavat ohjata avun piiriin.
-*Ehdotus 2:* Koulu tiedottaa huoltajille ja opiskelijoille, mitä keskusteluilta on ja mistä apua saa, ja kuraattori on tavattavissa myös muualla kuin ovensa takana, esimerkiksi ruokalassa. Näin leimautumisen pelko ja epätietoisuus vähenevät.
+**c)** *Rajat:* aineisto on kuvitteellinen ja yksi mittaus, vastaajat ovat vapaaehtoisia, ja taulukko kuvaa ryhmiä eikä yksilöitä. Se ei kerro syytä: ei voi päätellä, että sovellusten käyttö aiheuttaa yksinäisyyttä, sillä yhteys voi olla toisinpäin, tai taustalla voi olla kolmas tekijä, kuten etäopiskelu. *Ehdotus:* opiskeluhuolto ja rehtori järjestävät etäopiskelijoille oman ryhmäytymisen ja kertovat heille avun reiteistä. Se vahvistaa kuulumista ja madaltaa avun kynnystä.
 
 **Pisteytys**
 
 *Sisältö 15 p:*
 
-- a) Suojaavia ja kuormittavia tekijöitä oikein luokiteltuna vähintään kolmelta kohdalta 3 p; tasojen tunnistaminen 2 p. Yhteensä 5 p.
-- b) Kaksi vaikutusmekanismia, kumpikin ketjuna aineiston tekijästä mielenterveyteen, 2 p kumpikin. Yhteensä 4 p.
-- c) Huolten arviointi molemmilta puolilta (huoltajat ja rehtori) 2 p; kaksi ehdotusta, joissa on toimija, keino ja perustelu, 2 p kumpikin. Yhteensä 6 p.
+- a) Kunkin kolmen ryhmän tiedot luettu taulukosta 1 p kumpikin; ryhmien vertailussa näkyvä kuvio 1 p. Yhteensä 4 p.
+- b) Neljä yhteyttä (kuuluminen, yksinäisyys, sovellusten käyttö, tieto avusta), kustakin mekanismi 1 p; tekijän taso (yhteisöllinen tai yhteiskunnallinen) tunnistettu 1 p; kahden ilmiön yhteys toisiinsa 1 p. Yhteensä 6 p.
+- c) Kolme rajaa (kuvitteellinen ja yksi mittaus, vapaaehtoiset vastaajat, yhteys ei ole syy) 1 p kumpikin; ehdotus, jossa on toimija, keino ja perustelu, 2 p. Yhteensä 5 p.
 
-*Tiedonkäsittely 15 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+*Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); kokonaisarvio viiden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
-- 12–15 p: käsitteet (suojaava tekijä, kuormittava tekijä, leimautuminen, vaikutusmekanismi) ovat täsmällisiä; analyysi nojaa aineistoon; arvio punnitsee huolia ja hyötyjä; ehdotukset ovat realistisia ja perusteltuja; vastaus etenee kohdittain.
-- 6–11 p: sisältö on pääosin oikein, mutta aineistoon viitataan vähän, arvio on yksipuolinen tai ehdotukset jäävät perustelematta.
-- 0–5 p: vastaus luettelee asioita, jää yleiselle tasolle tai ei käytä aineistoa.
+- 12–15 p: aineistoa luetaan ryhmä kerrallaan ja ryhmiä verrataan; käsitteet (suojaava tekijä, yksinäisyys, leimautuminen, tunnetaidot) ovat täsmällisiä; mekanismit ovat ketjuja; ero yhteyden ja syyn välillä on perusteltu; ehdotus on realistinen.
+- 6–11 p: sisältö on pääosin oikein, mutta aineistoon viitataan vähän, mekanismit ovat yleisiä tai rajoja käsitellään niukasti.
+- 0–5 p: vastaus toistaa taulukon, kertoo yleisesti mielenterveydestä tai päättelee syyn aineistosta.
 
-Tehtävänannon osapisteet (a 10 p, b 8 p, c 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+Tehtävänannon osapisteet (a 8 p, b 12 p, c 10 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 30 p
 
 **Tyypilliset virheet**
 
-- Aineistoa ei käytetä, vaan vastaus kertoo yleisesti mielenterveydestä.
-- Huoltajien huoli torjutaan tai hyväksytään sellaisenaan, eikä sitä punnita.
-- Ehdotukset ovat yksilön keinoja ("opiskelijoiden pitäisi uskaltaa puhua"), vaikka kysytään koulun toimia.
-- Mekanismi pysähtyy puoliväliin ("leimautuminen on huono asia") eikä etene mielenterveyteen asti.
-- Vastaus antaa neuvoja kuvitteellisille henkilöille eikä analysoi tekijöitä.
+- Taulukko toistetaan sellaisenaan, eikä ryhmiä verrata toisiinsa.
+- Aineistosta päätellään syy ("sovellukset aiheuttavat yksinäisyyttä") tai yleistetään yksilöihin.
+- Mekanismi pysähtyy puoliväliin eikä etene mielenterveyteen asti.
+- Aineiston rajoista mainitaan vain "kuvitteellinen".
+- Ehdotus ei kerro toimijaa eikä keinoa.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -403,7 +382,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka voi suojata ihmisen mieltä yleisesti. | Kerää laput ja lue muutama ääneen. Ryhmittele ne taululle yksilön, yhteisön ja yhteiskunnan tekijöihin. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 10 | Oikein vai väärin -väittämät pareittain: "Mielenterveys on sama asia kuin sairauden puuttuminen." "Avun pyytäminen on heikkoutta." "Ystävät voivat suojata mieltä." | Käy väittämät läpi perustellen. Vastausvihjeet: väärin, väärin, oikein. Kytke ne lappujen ryhmiin. | Väittämät paperilla, opiskelija vastaa yksin. | Käsittele kaksi ensimmäistä. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: mielenterveys, suojaava tekijä, kuormittava tekijä, palautumiskyky, leimautuminen. | Piirrä kolme tasoa taululle ja kirjoita kuhunkin yksi esimerkki. Näytä yksi ketju. Kerro osiosta *Apua ja tukea* ja koulun palveluista. | Jaa käsitteet paperilla. | Siirrä leimautuminen pohdintavaiheeseen. |
+| Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: mielenterveys, suojaava tekijä, kuormittava tekijä, palautumiskyky, leimautuminen. | Piirrä kolme tasoa taululle ja kirjoita kuhunkin yksi esimerkki. Näytä yksi ketju. Mainitse tunnetaidot, some, yksinäisyys ja ilmastoahdistus. Kerro osiosta *Apua ja tukea*. | Jaa käsitteet paperilla. | Siirrä leimautuminen pohdintavaiheeseen. |
 | Työskentely | 25 | Tehtävä 1 (20 min) yksin tai pareittain, sitten Tehtävän 2 lauseet (a) ja (b) (5 min). | Kierrä ja kysy: miksi tämä tekijä on tällä tasolla? Muistuta, että analysoidaan Nooria, ei itseä. | Pari tekee yhteisen kartan. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Parit vertaavat karttoja ja ehdottavat yhden keinon, jolla koulu voisi madaltaa avun hakemisen kynnystä. | Kokoa ehdotukset taululle. Nosta esiin, että sama tekijä voi suojata ja kuormittaa. | Yksin: kirjoita kaksi ehdotusta. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n väittämät 1–4 yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit-lappu: yksi käsite, joka on vielä epäselvä. | Näytä, miten 2 pistettä jakautuu valintaan ja perusteluun. | Paperilla. | Tarkistus kotona. |
@@ -448,6 +427,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Mitkä suojaavista tekijöistä ovat yksilön vaikutettavissa ja mitkä eivät?
 - Miten puhetavat vaikuttavat siihen, kuka hakee apua?
 - Mitä koulu voi tehdä, jotta apuun on helppo tarttua?
+- Miten sosiaalinen media voi sekä tukea että kuormittaa kuulumista?
 - Kenen vastuulla on, että suojaavat tekijät ovat kaikkien saatavilla?
 
 ### Pelisäännöt ja oletusten tarkistus
@@ -462,7 +442,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Helpompi polku:** Tee Tehtävässä 1 vain yksilöllinen ja yhteisöllinen sarake ja etsi kummastakin kaksi tekijää. Käytä ketjun alkuna: *Kun Noorilla on ..., hän voi ..., ja siksi ...*. Koetehtävistä K1:n viisi ensimmäistä väittämää riittää.
 
-**Syvempi polku:** Etsi Tehtävän 1 tapauksesta tekijä, joka kuuluu kahdelle tasolle, ja perustele molemmat. Tee K3 kokonaan ja arvioi omaa vastaustasi tiedonkäsittelyn kuuden kriteerin avulla. Vertaa mielenterveyden suojaavia tekijöitä [opinto-ohjauksen hyvinvointiaiheeseen](https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/): mitä samaa ja mitä eri näkökulmaa niissä on?
+**Syvempi polku:** Etsi Tehtävän 1 tapauksesta tekijä, joka kuuluu kahdelle tasolle, ja perustele molemmat. Tee K3 kokonaan ja arvioi omaa vastaustasi tiedonkäsittelyn viiden kriteerin avulla. Vertaa mielenterveyden suojaavia tekijöitä [opinto-ohjauksen hyvinvointiaiheeseen](https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/): mitä samaa ja mitä eri näkökulmaa niissä on?
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Kartan voi kirjoittaa omalla kielellä; koetehtävissä harjoitellaan suomenkielisiä käsitteitä.
 
@@ -471,6 +451,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *kuormittava tekijä = asia, joka vie voimia*
 - *palautumiskyky = kyky toipua vaikeuksista*
 - *leimautuminen = kun ihmisestä ajatellaan huonosti hänen mielenterveytensä takia*
+- *yksinäisyys = pitkään jatkuva tunne, ettei ole tarpeeksi läheisyyttä*
 - *opiskeluhuolto = koulun palvelut, joista saa tukea hyvinvointiin*
 
 **Lukeminen, keskittyminen ja jännitys:** Tee kartta kuvina tai yksittäisinä sanoina. Lue tapaus kahdessa osassa. Voit ohittaa Pohdinnan kysymyksen tai K3:n, jos aihe tuntuu raskaalta. Koetehtävät voi tehdä osissa ilman aikarajaa.

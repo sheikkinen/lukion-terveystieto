@@ -22,6 +22,7 @@ official_links:
   - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", read: 2026-11-21}
   - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
   - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", read: 2026-11-21}
+  - {title: "Miten edetä kohti muutosta? (Mielenterveystalo, muutoksen vaiheet)", url: "https://www.mielenterveystalo.fi/fi/omahoito/sosiaalisen-median-kayton-vahentamisen-omahoito-ohjelma/miten-edeta-kohti-muutosta", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
 yearly_facts: [opiskeluterveydenhuolto, kriisipuhelimet]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
@@ -55,7 +56,7 @@ linked_materials:
     read: 2026-11-21
 exam_tasks:
   - {id: K1, type: oikein-vaarin, part: A20, points: 20, minutes: 25, codes: [TE1.t2, TE1.s2]}
-  - {id: K2, type: vertailu, part: B20, points: 20, minutes: 35, codes: [TE1.t2, TE1.s2, TE.yt3]}
+  - {id: K2, type: piirtaminen, part: B20, points: 20, minutes: 35, codes: [TE1.t2, TE1.s2]}
   - {id: K3, type: teorian-soveltaminen, part: C30, points: 30, minutes: 50, codes: [TE1.t2, TE1.s2, TE.yt3]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links:
@@ -78,7 +79,7 @@ last_reviewed: 2026-11-21
 1. Osaan nimetä neljä elintapoja selittävää sosiaalipsykologista mallia ja kuvata kunkin keskeiset käsitteet.
 2. Osaan soveltaa suunnitellun käyttäytymisen teoriaa kuvitteellisen henkilön toimintaan.
 3. Osaan soveltaa sosiaalis-kognitiivista teoriaa ja terveysuskomusmallia kuvitteelliseen tilanteeseen.
-4. Osaan kuvata muutosvaihemallin vaiheet ja selittää, millainen tuki sopii kullekin vaiheelle.
+4. Osaan kuvata muutosvaihemallin vaiheet, piirtää mallin ja selittää, millainen tuki sopii kullekin vaiheelle takapakki mukaan lukien.
 5. Osaan vertailla malleja ja arvioida, mitä ne selittävät hyvin ja mitä ne jättävät selittämättä.
 
 ### Miksi tieto ei aina riitä?
@@ -118,17 +119,17 @@ Huomaa sana *koettu*. Malli kuvaa ihmisen omaa arviota, ei sitä, mikä on totta
 
 Muutosvaihemallia kutsutaan myös transteoreettiseksi malliksi. Se kuvaa muutosta prosessina, jossa on vaiheita:
 
-1. **Esiharkinta:** muutosta ei vielä harkita.
-2. **Harkinta:** hyödyt ja haitat punnitaan.
-3. **Valmistautuminen:** suunnitellaan ja kokeillaan pieniä askelia.
-4. **Toiminta:** uusi tapa on käytössä.
-5. **Ylläpito:** uutta tapaa pidetään yllä.
+1. **Esiharkinta:** muutosta ei vielä harkita. Asiaa ei pidetä ongelmana, tai hyödyt tuntuvat pieniltä ja haitat suurilta. Tuki: tieto ja keskustelu ilman painostusta.
+2. **Harkinta:** hyödyt ja haitat punnitaan, ja ihminen on usein ristiriitainen. Minäpystyvyys on vielä heikko. Tuki: apu punnita hyötyjä ja esteitä.
+3. **Valmistautuminen:** suunnitellaan ja kokeillaan pieniä askelia. Tuki: konkreettinen suunnitelma ja pienet onnistumiset, jotka vahvistavat minäpystyvyyttä.
+4. **Toiminta:** uusi tapa on käytössä. Hyödyt painavat jo enemmän kuin haitat. Tuki: esteiden poisto ja kannustus.
+5. **Ylläpito:** uutta tapaa pidetään yllä, kunnes se tuntuu tavalliselta. Tuki: kannustus ja valmius takapakkiin.
 
-Takapakki kuuluu tavallisesti prosessiin. Moni kiertää vaiheita useammin kuin kerran. Tuki on siksi erilaista eri vaiheessa: esiharkinnassa auttaa tieto ja keskustelu, valmistautumisessa konkreettinen suunnitelma ja ylläpidossa kannustus.
+**Takapakki** eli retkahdus kuuluu tavallisesti prosessiin. Se ei ole epäonnistuminen vaan tilaisuus oppia, mikä tilanne tai este sen aiheutti ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/omahoito/sosiaalisen-median-kayton-vahentamisen-omahoito-ohjelma/miten-edeta-kohti-muutosta)). Moni kiertää vaiheita useammin kuin kerran, ja minäpystyvyys kasvaa onnistumisten myötä. Siksi tuki on erilaista eri vaiheessa, ja sama viesti ei sovi kaikille.
 
 ### Mallien vahvuudet ja rajat
 
-Mallit auttavat suunnittelemaan viestintää ja tukea, koska ne näyttävät, mihin voi vaikuttaa: tietoon, asenteisiin, läheisten tukeen, esteisiin tai pystyvyyteen. Ne eivät silti selitä kaikkea. Useimmat painottavat ihmisen ajattelua ja vähemmän tuloja, asuinpaikkaa tai palveluita. Muista aiheen 01 kehät: valinnat syntyvät oloissa. Mallit eivät myöskään tee kenestäkään syyllistä. Ne auttavat ymmärtämään, miksi sama ohje toimii yhdessä ryhmässä ja ei toisessa.
+Mallit auttavat suunnittelemaan viestintää ja tukea, koska ne näyttävät, mihin voi vaikuttaa: tietoon, asenteisiin, läheisten tukeen, esteisiin tai pystyvyyteen. Ne eivät silti selitä kaikkea. Useimmat painottavat ihmisen ajattelua ja vähemmän tuloja, asuinpaikkaa tai palveluita. Muista aiheen 01 kehät: valinnat syntyvät oloissa. Mallit eivät myöskään tee kenestäkään syyllistä. Ne auttavat ymmärtämään, miksi sama ohje toimii yhdessä ryhmässä ja ei toisessa. Samoilla malleilla voi selittää myös alkoholiin ja nikotiiniin liittyviä valintoja; niihin perehdytään [TE2-moduulissa](../../opetussuunnitelma/).
 
 ## Tehtävät
 
@@ -193,14 +194,14 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 1. Osaan nimetä neljä elintapoja selittävää sosiaalipsykologista mallia ja kuvata kunkin keskeiset käsitteet.
 2. Osaan soveltaa suunnitellun käyttäytymisen teoriaa kuvitteellisen henkilön toimintaan.
 3. Osaan soveltaa sosiaalis-kognitiivista teoriaa ja terveysuskomusmallia kuvitteelliseen tilanteeseen.
-4. Osaan kuvata muutosvaihemallin vaiheet ja selittää, millainen tuki sopii kullekin vaiheelle.
+4. Osaan kuvata muutosvaihemallin vaiheet, piirtää mallin ja selittää, millainen tuki sopii kullekin vaiheelle takapakki mukaan lukien.
 5. Osaan vertailla malleja ja arvioida, mitä ne selittävät hyvin ja mitä ne jättävät selittämättä.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia.
+Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE1 yksin kattaa vain osan ylioppilaskokeesta: loput tulevat TE2- ja TE3-moduuleista.
 
 ### K1: Oikein vai väärin -väittämät, 25 min (20 p)
 
@@ -219,23 +220,25 @@ Päätä jokaisesta väittämästä, onko se oikein vai väärin. Perustele vali
 9. Mallit auttavat ymmärtämään, miksi pelkkä tieto ei aina muuta toimintaa.
 10. Mallit ottavat huomioon kaikki tulot, asuinpaikan ja palvelut yhtä painavasti kuin ihmisen ajatukset.
 
-### K2: Vertailu näkökulmittain, 35 min (20 p)
+### K2: Piirrä malli ja kuvio, 35 min (20 p)
 
-*Osa B20 · Harjoittelee: Osaan 1, 3, 5*
+*Osa B20 · Harjoittelee: Osaan 1, 4*
 
-*Aineisto (kuvitteellinen):* Kaupunginosan nuorisotyöntekijät haluavat, että nuoret käyttäisivät kuulosuojaimia konserteissa. He keskustelevat kahdesta tavasta suunnitella kampanja. Ensimmäisessä kampanja vaikuttaisi siihen, mitä nuoret ajattelevat suojaimista ja mitä heidän kaverinsa tekevät. Toisessa kampanja kertoisi, miten alttiita kuulovauriolle konsertissa ollaan ja miten vakavia seuraukset ovat, ja muistuttaisi suojaimista konserttilippujen yhteydessä.
+*Taulukko 1 (kuvitteellinen): lukion pyöräilykampanjan kyselyyn vastanneet muutosvaiheittain (40 vastaajaa)*
 
-Vertaile suunnitellun käyttäytymisen teoriaa ja terveysuskomusmallia seuraavista näkökulmista. Käytä aineistoa esimerkkinä.
+| Muutosvaihe | Vastaajia |
+|---|---|
+| Esiharkinta | 12 |
+| Harkinta | 10 |
+| Valmistautuminen | 8 |
+| Toiminta | 6 |
+| Ylläpito | 4 |
 
-a) Mikä ohjaa toimintaa kummassakin mallissa?
+a) Piirrä vastausarkille muutosvaihemalli: vaiheet järjestyksessä, nuolet ja takapakin paluureitti. (6 p)
 
-b) Miten läheisten ihmisten vaikutus huomioidaan?
+b) Laadi taulukon 1 tiedoista pylväskuvio. (4 p)
 
-c) Mikä rooli on koetulla kontrollilla ja minäpystyvyydellä?
-
-d) Kumpi sopii paremmin kummankin kampanjatavan perustaksi ja miksi?
-
-e) Mitä rajoituksia molemmilla malleilla on?
+c) Selitä kuvion ja mallin avulla, millaista tukea kampanja antaisi kahdelle suurimmalle ryhmälle, ja arvioi, mitä kuvio ei kerro. (10 p)
 
 ### K3: Teorian soveltaminen, 50 min (30 p)
 
@@ -247,9 +250,9 @@ e) Mitä rajoituksia molemmilla malleilla on?
 
 Koulu harkitsee kampanjaa.
 
-a) Analysoi aineiston avulla, mitä suunnitellun käyttäytymisen teorian käsitteitä siinä näkyy. (10 p)
+a) Analysoi aineiston avulla, mitä suunnitellun käyttäytymisen teorian käsitteitä siinä näkyy. (8 p)
 
-b) Selitä sosiaalis-kognitiivisen teorian tai terveysuskomusmallin avulla kaksi aineiston ajatusta. (8 p)
+b) Selitä sosiaalis-kognitiivisen teorian tai terveysuskomusmallin avulla kaksi aineiston ajatusta. (10 p)
 
 c) Arvioi, mitä mallit eivät aineiston tilanteessa selitä, ja tee kaksi perusteltua ehdotusta kampanjaksi. Ota huomioon, että opiskelijat ovat eri muutosvaiheissa. (12 p)
 
@@ -277,7 +280,7 @@ c) Arvioi, mitä mallit eivät aineiston tilanteessa selitä, ja tee kaksi perus
 - Jokainen väittämä 2 p: oikea valinta 1 p ja oikea perustelu tai korjaus 1 p. Yhteensä 10 × 2 p = 20 p.
 - Perustelu ilman oikeaa valintaa ei tuota pistettä.
 
-*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A): käsitteiden käyttö (aikomus, normi, minäpystyvyys, vaihe), soveltaminen, analysointi (miksi väittämä on liian kapea), arviointi, argumentaatio ja kokonaisuus (selkeä rakenne väittämä kerrallaan).
+*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (aikomus, normi, minäpystyvyys, vaihe), soveltaminen, analysointi (miksi väittämä on liian kapea), arviointi ja argumentointi (selkeä rakenne väittämä kerrallaan).
 
 **Yhteensä:** 20 p
 
@@ -291,40 +294,44 @@ c) Arvioi, mitä mallit eivät aineiston tilanteessa selitä, ja tee kaksi perus
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K2: Vertailu näkökulmittain, 35 min (20 p)
+### K2: Piirrä malli ja kuvio, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
-**a)** Suunnitellun käyttäytymisen teoriassa toimintaa ohjaa aikomus, jonka muodostavat asenne, normi ja koettu kontrolli. Terveysuskomusmallissa toimintaa ohjaa uhan ja hyötyjen arvio: alttius, vakavuus, hyödyt ja esteet.
+**a)** Malli tekstikuvana:
 
-**b)** Teoriassa läheisten vaikutus on mukana suoraan subjektiivisena normina: jos ystävät eivät käytä suojaimia, nuori ei kenties käytä niitä. Terveysuskomusmallissa läheiset näkyvät välillisesti, esimerkiksi toimintaan kehottavana vihjeenä tai esteen kokemisena.
+```
+esiharkinta → harkinta → valmistautuminen → toiminta → ylläpito
+     ↑___________________ takapakki ___________________|
+```
 
-**c)** Teoriassa koettu kontrolli kertoo, onko toiminta omissa käsissä: mistä suojaimia saa ja mitä ne maksavat. Terveysuskomusmallissa minäpystyvyys on lisätty mukaan, ja se tarkoittaa uskoa omaan onnistumiseen. Molemmat ottavat huomioon sen, että ihminen voi haluta toimia mutta kokea sen vaikeaksi.
+**b)** Pylväskuvion osat: otsikko *Kyselyyn vastanneet muutosvaiheittain (kuvitteellinen, 40 vastaajaa)*; vaaka-akselilla muutosvaihe viidessä pylväässä järjestyksessä; pystyakselilla vastaajien määrä ja asteikko nollasta; pylväiden korkeudet 12, 10, 8, 6 ja 4; lähteeksi merkitty *kuvitteellinen*.
 
-**d)** Ensimmäinen kampanja (asenteet ja kavereiden toiminta) sopii teorian pohjaksi, koska se vaikuttaa asenteeseen ja normiin. Toinen kampanja (alttius, vakavuus, muistutus) sopii terveysuskomusmalliin, koska se vaikuttaa uhan arvioon ja antaa vihjeen. Parhaiten voi yhdistää molemmat.
-
-**e)** Molemmat painottavat ihmisen omaa ajattelua. Ne eivät kerro, miksi suojaimia ei ole saatavilla tai miksi ne maksavat. Ne olettavat myös, että toiminta on harkittua, vaikka usein se on tottumus.
+**c)** Kuvion mukaan suurimmat ryhmät ovat esiharkinta (12) ja harkinta (10), eli yhteensä 22 vastaajaa ei vielä toimi. Esiharkinnassa oleville sopii tieto ja keskustelu ilman painostusta, koska he eivät vielä näe muutoksen hyötyjä. Harkinnassa oleville sopii apu punnita hyötyjä ja esteitä sekä esteiden poisto, esimerkiksi turvallinen pyöräpaikka. Pieni ensimmäinen askel vahvistaa minäpystyvyyttä. Takapakki voi kohdata toimintavaiheessa olevia, ja sekin kuuluu prosessiin. Kuvio ei kerro, miksi vastaajat ovat tässä vaiheessa, eikä siitä näe olosuhteita, kuten pyöräteiden kuntoa. Se on yksi hetki eikä näytä muutosta ajassa, ja sen luvut ovat kuvitteellisia.
 
 **Pisteytys**
 
 *Sisältö 10 p:*
 
-- Jokainen näkökulma a–e 2 p: oikea kuvaus molemmista malleista 1 p ja yhteys aineistoon tai selkeä esimerkki 1 p. Yhteensä 10 p.
+- a) Viisi vaihetta oikeassa järjestyksessä 2 p; nuolet ja takapakin paluureitti 2 p. Yhteensä 4 p.
+- b) Otsikko ja molemmat akselit nimetty 1 p; pylväät ja asteikko nollasta oikein 1 p; lähde merkitty kuvitteelliseksi 1 p. Yhteensä 3 p.
+- c) Tuki esiharkinnassa olevalle 1 p ja harkinnassa olevalle 1 p; kuvion rajoitus nimetty 1 p. Yhteensä 3 p.
 
-*Tiedonkäsittely 10 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+*Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
-- 8–10 p: käsitteet ovat täsmällisiä, malleja verrataan jokaisessa kohdassa vastakkain, aineistoa käytetään ja johtopäätös d on perusteltu.
-- 4–7 p: mallit kuvataan oikein, mutta vertailu jää erilliseksi kuvaukseksi tai aineistoa käytetään vähän.
-- 0–3 p: vastaus kuvaa vain yhtä mallia tai käsitteet menevät sekaisin.
+- 8–10 p: malli ja kuvio yhdistetään, tuki perustellaan vaiheen hyödyillä, esteillä ja minäpystyvyydellä, ja kuvion rajat arvioidaan.
+- 4–7 p: piirrokset ovat oikein, mutta selitys jää yleiseksi tai kuvion rajoista mainitaan vain yksi yleinen huomio.
+- 0–3 p: vastaus piirtää mutta ei selitä, tai tulkitsee kuviota syiksi.
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 20 p
 
 **Tyypilliset virheet**
 
-- Mallit kuvataan peräkkäin eikä verrata toisiinsa näkökulma kerrallaan.
-- Koettu kontrolli ja minäpystyvyys tulkitaan samaksi asiaksi ilman eron selitystä.
-- Aineistoa ei käytetä esimerkkinä.
-- Rajoituksena mainitaan vain "mallit ovat yksinkertaisia" eikä kerrota, mitä ne jättävät selittämättä.
+- Vaiheet ovat väärässä järjestyksessä tai takapakin paluureitti puuttuu.
+- Kuvion akseleilla ei ole nimiä tai asteikko ei ala nollasta.
+- Kaikille ryhmille ehdotetaan samaa tukea.
+- Kuviosta päätellään syitä, joita aineisto ei kerro.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -348,13 +355,14 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - b) Kaksi ajatusta selitetty mallin käsitteillä, 2 p kumpikin. Yhteensä 4 p.
 - c) Mallien rajoitus aineistossa nimetty ja perusteltu 2 p; kaksi ehdotusta, joissa on keino, perustelu mallin käsitteellä ja muutosvaiheen huomioiminen, 2 p kumpikin. Yhteensä 6 p.
 
-*Tiedonkäsittely 15 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+*Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
 - 12–15 p: käsitteet ovat täsmällisiä; analyysi nojaa aineiston lainauksiin; mallien rajat arvioidaan; ehdotukset ovat realistisia ja perusteltuja; vastaus etenee kohdittain.
 - 6–11 p: sisältö on pääosin oikein, mutta aineistoon viitataan vähän, arvio on yleinen tai ehdotukset jäävät perustelematta.
 - 0–5 p: vastaus luettelee käsitteitä, jää yleiselle tasolle tai ei käytä aineistoa.
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
-Tehtävänannon osapisteet (a 10 p, b 8 p, c 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+Tehtävänannon osapisteet (a 8 p, b 10 p, c 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
 **Yhteensä:** 30 p
 
@@ -382,7 +390,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 4. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 5. **Seuraava askel:** aihe 03 *Terveyskulttuurin ilmiöt*. Siellä tutkit, miksi terveyden arvostus ja toiminta voivat olla ristiriidassa.
 
-**Muistiinpanoihin:** Säilytä Tehtävän 1 kartta ja Tehtävän 2 lajittelu. Kirjoita jokaisen mallin keskeiset käsitteet omin sanoin ja yksi esimerkki kustakin. Mallit tulevat vastaan kaikissa koetehtävissä, joissa selitetään elintapoja.
+**Muistiinpanoihin:** Säilytä Tehtävän 1 kartta ja Tehtävän 2 lajittelu. Kirjoita jokaisen mallin keskeiset käsitteet omin sanoin ja yksi esimerkki kustakin. Piirrä muutosvaihemalli muistiin. Mallit tulevat vastaan kaikissa koetehtävissä, joissa selitetään elintapoja.
 
 ## Tuntisuunnitelma (75 min)
 
@@ -449,7 +457,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Helpompi polku:** Tee Tehtävässä 1 vain kolme laatikkoa (asenne, normi, kontrolli) ilman aikomusta ja toimintaa. Tehtävässä 2 lajittele vain ajatukset (a)–(c). Koetehtävistä K1:n väittämät 1–5 riittävät.
 
-**Syvempi polku:** Selitä Tehtävän 1 tapaus myös terveysuskomusmallilla ja vertaa, mikä malli selittää tapausta paremmin. Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn kuuden kriteerin avulla. Vertaa malleja [opinto-ohjauksen itsetuntemusaiheeseen](https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/): mitä arvoista ja vahvuuksista voi oppia mallien rinnalla?
+**Syvempi polku:** Selitä Tehtävän 1 tapaus myös terveysuskomusmallilla ja vertaa, mikä malli selittää tapausta paremmin. Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn viiden kriteerin avulla. Vertaa malleja [opinto-ohjauksen itsetuntemusaiheeseen](https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/): mitä arvoista ja vahvuuksista voi oppia mallien rinnalla?
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Karttaan voi kirjoittaa omalla kielellä; koetehtävissä harjoitellaan suomenkielisiä käsitteitä.
 

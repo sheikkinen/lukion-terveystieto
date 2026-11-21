@@ -26,68 +26,24 @@ official_links:
   - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
   - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", read: 2026-11-21}
   - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", read: 2026-11-21}
+  - {title: "Melu (Kuuloliitto)", url: "https://www.kuuloliitto.fi/tietoa/melu/", publisher: "Kuuloliitto ry", read: 2026-11-21}
+  - {title: "Alkoholi (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/alkoholi", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Nikotiinituotteet (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
 yearly_facts: [opiskeluterveydenhuolto, terveyskysely_opiskeluterveydenhuolto, kriisipuhelimet]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
-  - title: "Terveystiedon LOPS 2019 -tukimateriaali"
-    url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali"
-    publisher: "Opetushallitus"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja
-    read: 2026-11-21
-  - title: "TE1 Terveys voimavarana (verkkokurssin runko)"
-    url: "https://aoe.fi/#/materiaali/1113"
-    publisher: "Schildtin lukio (aoe.fi)"
-    licence_class: open-cc-by-sa
-    licence: "CC BY-SA 4.0"
-    audience: opettaja
-    read: 2026-11-21
-  - title: "TE01 Terveys voimavarana, verkko-opintojakso"
-    url: "https://aoe.fi/#/materiaali/1852"
-    publisher: "Omnia, Espoon aikuislukio (aoe.fi)"
-    licence_class: open-cc-by
-    licence: "CC BY 4.0"
-    audience: opettaja
-    read: 2026-11-21
-  - title: "Nyyti ry"
-    url: "https://www.nyyti.fi/"
-    publisher: "Nyyti ry"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija
-    read: 2026-11-21
-  - title: "Opiskeluun liittyvän uupumuksen ehkäisyn omahoito-ohjelma"
-    url: "https://www.mielenterveystalo.fi/fi/omahoito/opiskelu-uupumuksen-ehkaisyn-omahoito-ohjelma"
-    publisher: "Mielenterveystalo.fi (HUS)"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija
-    read: 2026-11-21
-  - title: "Digitaalinen terveyskysely käyttöön kaikille toisen asteen opiskelijoille (uutinen 28.4.2026)"
-    url: "https://www.oph.fi/fi/uutiset/2026/digitaalinen-terveyskysely-kayttoon-kaikille-toisen-asteen-opiskelijoille"
-    publisher: "Opetushallitus"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija ja opettaja
-    read: 2026-11-21
-  - title: "Opinto-ohjaussivusto: Hyvinvointi ja opiskelukyky"
-    url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/"
-    publisher: "Lukion opinto-ohjaus (sisarsivusto)"
-    licence_class: open-cc-by
-    licence: "CC BY 4.0"
-    audience: opiskelija ja opettaja
-    read: 2026-11-21
-  - title: "Opinto-ohjaussivusto: HOPS"
-    url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/06-hops/"
-    publisher: "Lukion opinto-ohjaus (sisarsivusto)"
-    licence_class: open-cc-by
-    licence: "CC BY 4.0"
-    audience: opiskelija ja opettaja
-    read: 2026-11-21
+  - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
+  - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", licence_class: open-cc-by-sa, licence: "CC BY-SA 4.0", audience: opettaja, read: 2026-11-21}
+  - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", licence_class: open-cc-by, licence: "CC BY 4.0", audience: opettaja, read: 2026-11-21}
+  - {title: "Nyyti ry", url: "https://www.nyyti.fi/", publisher: "Nyyti ry", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
+  - {title: "Opiskeluun liittyvän uupumuksen ehkäisyn omahoito-ohjelma", url: "https://www.mielenterveystalo.fi/fi/omahoito/opiskelu-uupumuksen-ehkaisyn-omahoito-ohjelma", publisher: "Mielenterveystalo.fi (HUS)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
+  - {title: "Digitaalinen terveyskysely käyttöön kaikille toisen asteen opiskelijoille (uutinen 28.4.2026)", url: "https://www.oph.fi/fi/uutiset/2026/digitaalinen-terveyskysely-kayttoon-kaikille-toisen-asteen-opiskelijoille", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija ja opettaja, read: 2026-11-21}
+  - {title: "Opinto-ohjaussivusto: Hyvinvointi ja opiskelukyky", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/", publisher: "Lukion opinto-ohjaus (sisarsivusto)", licence_class: open-cc-by, licence: "CC BY 4.0", audience: opiskelija ja opettaja, read: 2026-11-21}
+  - {title: "Opinto-ohjaussivusto: HOPS", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/06-hops/", publisher: "Lukion opinto-ohjaus (sisarsivusto)", licence_class: open-cc-by, licence: "CC BY 4.0", audience: opiskelija ja opettaja, read: 2026-11-21}
+  - {title: "Kuuloliitto: melu", url: "https://www.kuuloliitto.fi/tietoa/melu/", publisher: "Kuuloliitto ry", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
 exam_tasks:
   - {id: K1, type: virheiden-tunnistaminen, part: A20, points: 20, minutes: 25, codes: [TE1.t3, TE1.s7, TE.yt5]}
-  - {id: K2, type: taulukon-taydentaminen, part: B20, points: 20, minutes: 30, codes: [TE1.s7, TE.yt5]}
+  - {id: K2, type: luettele-ja-luokittele, part: B20, points: 20, minutes: 30, codes: [TE1.s7, TE.yt5]}
   - {id: K3, type: aineiston-analyysi, part: C30, points: 30, minutes: 45, codes: [TE1.t3, TE1.s7, TE.yt5]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links:
@@ -109,7 +65,7 @@ last_reviewed: 2026-11-21
 **Tämän aiheen jälkeen**
 
 1. Osaan kuvata opiskeluhyvinvoinnin ja opiskelukyvyn osatekijöitä ja selittää, miten vaatimukset, voimavarat ja palautuminen vaikuttavat niihin.
-2. Osaan nimetä tekijöitä, jotka vaikuttavat opiskeluun ja elintapoihin, ja arvioida yleisellä tasolla, miten elintavat tukevat opiskelua.
+2. Osaan nimetä tekijöitä, jotka vaikuttavat opiskeluun ja elintapoihin, ja arvioida yleisellä tasolla, miten elintavat ja melu vaikuttavat opiskeluun ja kuuloon.
 3. Osaan kuvata erilaisia oppimisen tapoja ja valita tilanteeseen sopivan tavan perustellusti.
 4. Osaan asettaa oppimistavoitteen ja arvioida sen saavuttamista realistisesti.
 5. Osaan kertoa, mitä opiskeluhuolto ja opiskeluterveydenhuolto tarjoavat, ja tehdä perustellun ehdotuksen siitä, miten yhteisö voi tukea opiskeluhyvinvointia.
@@ -128,7 +84,11 @@ Kun vaatimukset ja voimavarat ovat tasapainossa, opiskelu sujuu. Jos vaatimukset
 
 ### Elintavat ja opiskelu
 
-Elintavat vaikuttavat jaksamiseen ja oppimiseen, mutta ne ovat vain yksi tekijä muiden joukossa. Säännöllinen ravinto, riittävä lepo ja uni, liikkuminen ja tauot tukevat keskittymistä ja muistamista. Elintapoihin vaikuttavat myös aikataulut, raha, koulumatkat ja yhteisön tapa toimia. Siksi niitä ei voi arvioida yksilön ”tahdonvoimana”. Moduulin aiheet 04 ja 05 käsittelevät niitä tarkemmin.
+Elintavat vaikuttavat jaksamiseen ja oppimiseen, mutta ne ovat vain yksi tekijä muiden joukossa. Säännöllinen ravinto, riittävä lepo ja uni, liikkuminen ja tauot tukevat keskittymistä ja muistamista. Elintapoihin vaikuttavat myös aikataulut, raha, koulumatkat ja yhteisön tapa toimia. Siksi niitä ei voi arvioida yksilön ”tahdonvoimana”. Alkoholi ja nikotiini ovat myös elintapatekijöitä ([THL: alkoholi](https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/alkoholi), [THL: nikotiinituotteet](https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet)), ja niitä käsitellään tarkemmin moduulissa [TE2](../../opetussuunnitelma/). Moduulin aiheet 04 ja 05 käsittelevät muita elintapoja.
+
+### Melu ja kuulo
+
+Melu on ääntä, joka häiritsee tai kuormittaa. Opiskeluympäristössä sitä tulee esimerkiksi käytävältä, ruokalasta, kotoa ja kuulokkeista. Melu voi häiritä keskittymistä, joten rauhallinen opiskelupaikka on ulkoinen voimavara. Kova melu voi myös vahingoittaa kuuloa, eikä vaurio korjaudu ([Kuuloliitto](https://www.kuuloliitto.fi/tietoa/melu/)). Kuuloa suojaavat esimerkiksi kuulosuojaimet kovissa tapahtumissa, kohtuullinen kuulokkeiden äänenvoimakkuus ja kuuntelutauot. Jos kuulo tuntuu heikentyneen, ota yhteys opiskeluterveydenhuoltoon. Koulu voi vähentää melua hiljaisilla tiloilla, äänieristyksellä ja yhteisillä pelisäännöillä.
 
 ### Oppimisen tavat
 
@@ -159,10 +119,10 @@ Opiskeluhuolto tukee opiskelijan hyvinvointia ja oppimista. Siihen kuuluvat kura
 **Ilman laitetta:** Tämä on paperitehtävä. Keksi paperille oma kuvitteellinen opiskelija ja kirjoita hänestä viisi lausetta: mitä vaatimuksia hänellä on, mitkä asiat tukevat häntä, mikä vaikeuttaa palautumista ja mihin hän voisi vaikuttaa itse. Tee sitten vaiheet 1–5 hänestä.
 **Harjoittelet:** Osaan 1 ja 2
 
-*Tapaus (kuvitteellinen):* **Sami** opiskelee lukion toista vuotta. Kursseja on paljon samaan aikaan, ja koeviikko lähestyy. Välipalat ja tauot jäävät usein väliin, koska Sami kiirehtii bussille. Hän opiskelee mieluiten ystävien kanssa, mutta kirjasto on kaukana. Opettaja antaa hyvää palautetta, jos sitä pyytää, mutta Sami ei halua vaivata. Kotona on rauhallista, mutta verkkoyhteys katkeilee.
+*Tapaus (kuvitteellinen):* **Sami** opiskelee lukion toista vuotta. Kursseja on paljon samaan aikaan, ja koeviikko lähestyy. Välipalat ja tauot jäävät usein väliin, koska Sami kiirehtii bussille. Hän opiskelee mieluiten ystävien kanssa, mutta kirjasto on kaukana. Opettaja antaa hyvää palautetta, jos sitä pyytää, mutta Sami ei halua vaivata. Kotona on rauhallista, mutta verkkoyhteys katkeilee. Käytävällä ja ruokalassa on usein kovaäänistä, ja bussissa Sami pitää kuulokkeita korvillaan.
 
 1. Kirjoita Samin vaatimukset paperin vasempaan reunaan ja voimavarat oikeaan reunaan. Merkitse voimavarat S (sisäinen) tai U (ulkoinen).
-2. Kirjoita, mikä tukee Samin palautumista ja mikä sitä vaikeuttaa.
+2. Kirjoita, mikä tukee Samin palautumista ja mikä sitä vaikeuttaa. Huomioi myös melu.
 3. Merkitse tekijät, jotka liittyvät elintapoihin (ravinto, tauot, lepo), ja kirjoita, miten ne voivat vaikuttaa opiskeluun.
 4. Ympyröi tekijät, jotka Sami voi itse valita, ja alleviivaa ne, joihin koulu tai yhteiskunta voisi vaikuttaa.
 5. Kirjoita yksi lause siitä, miten vaatimukset ja voimavarat ovat Samin tilanteessa suhteessa toisiinsa.
@@ -207,7 +167,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
 
 1. Osaan kuvata opiskeluhyvinvoinnin ja opiskelukyvyn osatekijöitä ja selittää, miten vaatimukset, voimavarat ja palautuminen vaikuttavat niihin.
-2. Osaan nimetä tekijöitä, jotka vaikuttavat opiskeluun ja elintapoihin, ja arvioida yleisellä tasolla, miten elintavat tukevat opiskelua.
+2. Osaan nimetä tekijöitä, jotka vaikuttavat opiskeluun ja elintapoihin, ja arvioida yleisellä tasolla, miten elintavat ja melu vaikuttavat opiskeluun ja kuuloon.
 3. Osaan kuvata erilaisia oppimisen tapoja ja valita tilanteeseen sopivan tavan perustellusti.
 4. Osaan asettaa oppimistavoitteen ja arvioida sen saavuttamista realistisesti.
 5. Osaan kertoa, mitä opiskeluhuolto ja opiskeluterveydenhuolto tarjoavat, ja tehdä perustellun ehdotuksen siitä, miten yhteisö voi tukea opiskeluhyvinvointia.
@@ -216,7 +176,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia.
+Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE1 yksin kattaa vain osan ylioppilaskokeesta: loput tulevat moduuleista TE2 ja TE3. Jos tehtävässä on aineisto, vastauksen pitää käyttää sitä, muuten kokonaispisteistä vähennetään 5 p ([ohje](../../opetussuunnitelma/)).
 
 ### K1: Virheiden tunnistaminen, 25 min (20 p)
 
@@ -235,19 +195,11 @@ Alla olevassa kuvitteellisessa blogitekstissä on viisi asiavirhettä. Tunnista 
 > - (7) Jos tavoite jää saavuttamatta, se osoittaa, ettei opiskelija sovi lukioon.
 > - (8) Kaikille sopii sama oppimisen tapa.
 
-### K2: Taulukon täydentäminen, 30 min (20 p)
+### K2: Luettele ja luokittele, 30 min (20 p)
 
-*Osa B20 · Harjoittelee: Osaan 3, 4, 5*
+*Osa B20 · Harjoittelee: Osaan 2, 5*
 
-*Aineisto (kuvitteellinen):* Kolme opiskelijaa: **Noor** valmistautuu kielikokeeseen, **Aaro** opettelee kemian laskutyyppejä ja **Kim** tekee ryhmätyötä, jonka aikataulu on epäselvä.
-
-Täydennä taulukko vastausarkille. Valitse jokaiselle opiskelijalle sopiva oppimisen tapa ja perustele se. Kirjoita lisäksi, miten onnistumista arvioidaan ja millainen tuki voisi auttaa. Selitä lopuksi lyhyesti, miksi sama tapa ei sovi kaikille.
-
-| Opiskelija ja tilanne | Sopiva oppimisen tapa ja perustelu | Miten onnistumista arvioidaan? | Tuki (opiskelija, yhteisö tai koulu) |
-|---|---|---|---|
-| Noor, kielikoe | | | |
-| Aaro, kemian laskut | | | |
-| Kim, ryhmätyön aikataulu | | | |
+Luettele viisi melun lähdettä tai tilannetta, jotka voivat vaikuttaa opiskeluun tai kuuloon opiskeluympäristössä. Luokittele ne: (A) opiskelija voi itse vaikuttaa, (B) koulu tai yhteisö voi vaikuttaa, (C) yhteiskunta voi vaikuttaa. Perustele luokka yhdellä lauseella. Vastaa taulukolla. Kirjoita lopuksi lyhyt perustelu sille, mikä luokka painaa eniten opiskelun ja kuulon kannalta.
 
 ### K3: Aineiston analyysi, 45 min (30 p)
 
@@ -255,11 +207,11 @@ Täydennä taulukko vastausarkille. Valitse jokaiselle opiskelijalle sopiva oppi
 
 *Aineisto (kuvitteellinen opiskelupäiväkirjan ote):*
 
-> **Nooran päiväkirja.** *Maanantai:* Uusi jakso alkoi. Päätin, että opiskelen nyt enemmän. *Tiistai:* Opiskelin illalla pitkään, ja tauot jäivät väliin. *Keskiviikko:* Aamulla oli vaikea keskittyä, ja kemian tunti meni ohi. *Torstai:* Opiskelin taas pitkään. Ystävät kysyivät, tulenko illalla mukaan, mutta jäin kotiin. *Perjantai:* Olen väsynyt ja ärtynyt. Mietin, onko minussa jotain vikaa, kun en jaksa. Opettaja sanoi tunnilla, että opiskeluhuoltoon voi tulla ilman erityistä syytä, mutta en halua vaivata.
+> **Nooran päiväkirja.** *Maanantai:* Uusi jakso alkoi. Päätin, että opiskelen nyt enemmän. *Tiistai:* Opiskelin illalla pitkään, ja tauot jäivät väliin. *Keskiviikko:* Aamulla oli vaikea keskittyä, ja kemian tunti meni ohi. *Torstai:* Luokassa oli koko päivän meluisaa, ja illalla kuulokkeet olivat kovalla. Opiskelin taas pitkään. Ystävät kysyivät, tulenko illalla mukaan, mutta jäin kotiin. *Perjantai:* Olen väsynyt ja ärtynyt. Mietin, onko minussa jotain vikaa, kun en jaksa. Opettaja sanoi tunnilla, että opiskeluhuoltoon voi tulla ilman erityistä syytä, mutta en halua vaivata.
 
-a) Analysoi, mitkä tekijät tukevat tai kuormittavat Nooran opiskeluhyvinvointia ja millä tasoilla ne ovat. (10 p)
+a) Analysoi, mitkä tekijät tukevat tai kuormittavat Nooran opiskeluhyvinvointia ja millä tasoilla ne ovat. (12 p)
 
-b) Arvioi Nooran tavoitetta ja opiskelutapaa ja kirjoita hänelle parempi tavoite ja suunnitelma. (8 p)
+b) Arvioi Nooran tavoitetta ja opiskelutapaa ja kirjoita hänelle parempi tavoite ja suunnitelma. (6 p)
 
 c) Arvioi, miten koulu ja opiskeluhuolto voisivat tukea Nooraa, ja tee kaksi perusteltua ehdotusta opiskeluhyvinvoinnin edistämiseksi koulussa. (12 p)
 
@@ -284,7 +236,9 @@ Lauseet 2, 4 ja 6 ovat oikein.
 - Jokainen viidestä virheestä 4 p: virheen tunnistaminen ja selitys, miksi se on väärin, 2 p; täsmällinen korjaus käsitteineen 2 p. Yhteensä 5 × 4 p = 20 p.
 - Oikean lauseen merkitseminen virheeksi: −1 p kerrallaan (ei alle nollan tehtävästä).
 
-*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A): käsitteiden käyttö (opiskeluhyvinvointi, opiskelukyky, palautuminen, voimavara), soveltaminen (esimerkit), analysointi (miksi väite on liian kapea), arviointi, argumentaatio ja kokonaisuus (selkeä rakenne virhe kerrallaan).
+*Tiedonkäsittely* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); palautteeksi, ei pisteitä osassa A): käsitteiden käyttö (opiskeluhyvinvointi, opiskelukyky, palautuminen, voimavara), soveltaminen (esimerkit), analysointi (miksi väite on liian kapea), arviointi, argumentaatio ja kokonaisuus (selkeä rakenne virhe kerrallaan).
+
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 20 p
 
@@ -297,39 +251,41 @@ Lauseet 2, 4 ja 6 ovat oikein.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K2: Taulukon täydentäminen, 30 min (20 p)
+### K2: Luettele ja luokittele, 30 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
-| Opiskelija ja tilanne | Sopiva oppimisen tapa ja perustelu | Miten onnistumista arvioidaan? | Tuki (opiskelija, yhteisö tai koulu) |
-|---|---|---|---|
-| Noor, kielikoe | Jaksotettu ja aktiivinen kertaus: sanoja kerrataan useana päivänä ja itseä testataan peittämällä käännös. Näin muistijälki vahvistuu ja Noor huomaa, mitkä sanat jäävät epäselviksi. | Noor testaa itsensä ennen koetta ja merkitsee, kuinka moni sana on hallussa. | Kaveri kuulustelee. Opettaja kertoo, mitä koe sisältää. |
-| Aaro, kemian laskut | Pilkkominen ja harjoittelu: laskutyyppi opetellaan vaihe kerrallaan ja tehdään sitten uusia tehtäviä ilman mallia. Niin Aaro oppii menetelmän eikä vain muista ratkaisua. | Aaro ratkaisee uuden tehtävän itse ja tarkistaa vastauksen. | Opettaja antaa palautetta virheistä. Kaveri selittää toisen ratkaisutavan. |
-| Kim, ryhmätyön aikataulu | Pilkkominen ja yhteinen suunnittelu: ryhmä jakaa työn osiin ja sopii välitavoitteet. Näin kuormitus jakautuu ja jokaisen vastuu on selvä. | Ryhmä tarkistaa välitavoitteet sovittuina päivinä. | Opettaja antaa aikataulupohjan. Ryhmän jäsenet tukevat toisiaan. |
+| Asia | Luokka | Perustelu |
+|---|---|---|
+| Kuulokkeiden kova äänenvoimakkuus | A | Opiskelija valitsee äänenvoimakkuuden ja pitää kuuntelutaukoja. |
+| Kova tapahtuma tai konsertti | A | Opiskelija voi käyttää kuulosuojaimia ja poistua hetkeksi hiljaiseen paikkaan. |
+| Käytävän ja ruokalan hälinä | B | Koulu voi lisätä äänieristystä ja tarjota hiljaisia opiskelutiloja. |
+| Avoin oppimistila ilman hiljaisia nurkkia | B | Yhteisö voi sopia pelisäännöistä ja koulu voi suunnitella tilat uudelleen. |
+| Rakennustyöt tai liikenne asuinalueella | C | Yhteiskunta rajoittaa melua määräyksillä ja kaavoituksella. |
 
-**Miksi sama tapa ei sovi kaikille:** Tehtävät, ajankäyttö ja opiskelijoiden tarpeet vaihtelevat. Sanojen opettelu vaatii eri tapaa kuin ryhmätyö tai laskutehtävä, joten tapa valitaan tilanteen mukaan.
+**Perustelu:** Luokat A ja B vaikuttavat opiskeluun heti: kun opiskelija voi suojata kuuloaan ja koulu tarjoaa rauhallisen tilan, keskittyminen ja palautuminen paranevat. Luokan C tekijät vaikuttavat kaikkiin, mutta muutos on hidas. Eniten painaa luokka B, koska koulun tilat ja pelisäännöt koskevat kaikkia, eivätkä ne riipu yksittäisen opiskelijan voimavaroista. Yksilön keinot ovat tärkeitä, mutta ne eivät yksin riitä, jos ympäristö on jatkuvasti meluisa.
 
 **Pisteytys**
 
-*Sisältö 10 p:*
+*Sisältö 10 p (laskentaperiaate):*
 
-- Jokainen kolmesta rivistä 3 p: sopiva tapa ja perustelu 1 p, onnistumisen arviointitapa 1 p, uskottava tuki 1 p. Yhteensä 9 p.
-- Selitys siitä, miksi sama tapa ei sovi kaikille, 1 p.
+- Jokainen viidestä eri asiasta 2 p: asia opiskelun tai kuulon kannalta relevantti 1 p; oikea luokka ja perustelu 1 p. Yhteensä 5 × 2 p = 10 p.
+- Toistot ja yli viisi asiaa 0 p. Perustelu ilman luokkaa 0 p.
 
-*Tiedonkäsittely 10 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+*Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); kokonaisarvio viiden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
-- 8–10 p: tavat on valittu tilanteen mukaan ja perusteltu käsitteillä, arviointi on konkreettista ja tuki realistista.
-- 4–7 p: tavat ovat sopivia, mutta perustelut tai arviointi jäävät yleisiksi.
-- 0–3 p: samat tavat toistuvat kaikilla riveillä ilman perustelua, tai riveille kirjoitetaan neuvoja ilman käsitteitä.
+- 8–10 p: luokat on vertailtu keskenään; valinta siitä, mikä painaa eniten, on perusteltu ketjulla (tekijä, vaikutus keskittymiseen tai kuuloon); käsitteet (voimavara, ympäristö, yhteisö) ovat täsmällisiä.
+- 4–7 p: luokat ovat oikein, mutta vertailu tai arvio on niukka.
+- 0–3 p: vastaus luettelee asioita ilman luokkien vertailua tai arviota.
 
 **Yhteensä:** 20 p
 
 **Tyypilliset virheet**
 
-- Kaikille kolmelle valitaan sama tapa ("kertaa enemmän").
-- Perustelu puuttuu tai on pelkkä väite ("tämä on hyvä tapa").
-- Arviointitapa on epämääräinen ("Noor huomaa, että osaa").
-- Tuki on vain yksilön omaa jaksamista, eikä yhteisön tai koulun tukea mainita.
+- Asia luetellaan useaan kertaan eri sanoin, ja vain osa lasketaan.
+- Luokka valitaan perustelematta ("koulu voi tehdä jotain").
+- Kaikki sijoitetaan luokkaan A, vaikka ympäristö ja yhteiskunta vaikuttavat melun määrään.
+- Arviosta puuttuu selitys siitä, miksi yksi luokka painaa eniten.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -337,7 +293,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** *Kuormittavia tekijöitä:* vaatimukset kasvavat, kun Noor opiskelee entistä enemmän (yksilöllinen), tauot ja palautuminen jäävät pois (yksilöllinen), keskittyminen heikkenee ja väsymys kasvaa (yksilöllinen), ystävien tapaaminen jää väliin ja sosiaalinen tuki vähenee (yhteisöllinen) sekä ajatus siitä, ettei avun pyytäminen sovi (yksilöllinen ja yhteisöllinen, koska siihen vaikuttaa ilmapiiri). *Tukevia tekijöitä:* opettajan viesti siitä, että opiskeluhuoltoon voi tulla ilman erityistä syytä (yhteisöllinen), opiskeluhuolto palveluna (yhteiskunnallinen) ja Nooran oma halu kehittää opiskelua (yksilöllinen voimavara).
+**a)** *Kuormittavia tekijöitä:* vaatimukset kasvavat, kun Noor opiskelee entistä enemmän (yksilöllinen), tauot ja palautuminen jäävät pois (yksilöllinen), keskittyminen heikkenee ja väsymys kasvaa (yksilöllinen), ystävien tapaaminen jää väliin ja sosiaalinen tuki vähenee (yhteisöllinen), melu luokassa ja kuulokkeiden kova äänenvoimakkuus kuormittavat keskittymistä ja kuuloa (ympäristö ja yksilö) sekä ajatus siitä, ettei avun pyytäminen sovi (yksilöllinen ja yhteisöllinen, koska siihen vaikuttaa ilmapiiri). *Tukevia tekijöitä:* opettajan viesti siitä, että opiskeluhuoltoon voi tulla ilman erityistä syytä (yhteisöllinen), opiskeluhuolto palveluna (yhteiskunnallinen) ja Nooran oma halu kehittää opiskelua (yksilöllinen voimavara).
 
 **b)** Tavoite "opiskelen enemmän" ei ole konkreettinen, aikataulutettu eikä arvioitavissa. Opiskelutapa ei sisällä taukoja eikä aktiivista kertausta, joten se kuormittaa. *Parempi tavoite:* "Selitän kolme kemian käsitettä omin sanoin ennen torstaita." *Suunnitelma:* opiskelua jaksotetaan lyhyempiin osiin ja tauoille jätetään aikaa, ja Noor testaa itsensä viimeisen päivän lopuksi. Jos tavoite ei toteudu, hän tarkistaa aikataulun ja pyytää opettajalta palautetta.
 
@@ -353,13 +309,15 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - b) Tavoitteen puutteet tunnistettu 1 p; opiskelutavan arviointi 1 p; parempi tavoite on konkreettinen ja arvioitavissa 1 p; suunnitelmassa on varasuunnitelma 1 p. Yhteensä 4 p.
 - c) Opiskeluhuollon rooli ja kynnys arvioitu 2 p; kaksi ehdotusta, joissa on toimija, keino ja perustelu, 2 p kumpikin. Yhteensä 6 p.
 
-*Tiedonkäsittely 15 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+*Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); kokonaisarvio viiden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
 - 12–15 p: käsitteet (opiskeluhyvinvointi, vaatimukset, voimavarat, palautuminen, oppimisen tavat) ovat täsmällisiä; analyysi nojaa aineistoon; arvio punnitsee näkökulmia; ehdotukset ovat realistisia ja perusteltuja; vastaus etenee kohdittain.
 - 6–11 p: sisältö on pääosin oikein, mutta aineistoon viitataan vähän, arvio on yksipuolinen tai ehdotukset jäävät perustelematta.
 - 0–5 p: vastaus luettelee asioita, jää yleiselle tasolle tai ei käytä aineistoa.
 
-Tehtävänannon osapisteet (a 10 p, b 8 p, c 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+Tehtävänannon osapisteet (a 12 p, b 6 p, c 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 30 p
 
@@ -456,7 +414,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Helpompi polku:** Tee Tehtävässä 2 vain vaiheet 1–3 ja käytä valmista alkua: *Noor valitsee ..., koska ...*. Koetehtävistä K1:n kolme ensimmäistä virhettä riittää.
 
-**Syvempi polku:** Etsi Tehtävän 1 tapauksesta tekijä, joka kuuluu kahdelle tasolle, ja perustele molemmat. Tee K3 kokonaan ja arvioi omaa vastaustasi tiedonkäsittelyn kuuden kriteerin avulla. Vertaa [opinto-ohjauksen hyvinvointiaihetta](https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/): mitä samaa ja mitä eri näkökulmaa siinä on?
+**Syvempi polku:** Etsi Tehtävän 1 tapauksesta tekijä, joka kuuluu kahdelle tasolle, ja perustele molemmat. Tee K3 kokonaan ja arvioi omaa vastaustasi tiedonkäsittelyn viiden kriteerin avulla. Vertaa [opinto-ohjauksen hyvinvointiaihetta](https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/): mitä samaa ja mitä eri näkökulmaa siinä on?
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Kartan voi kirjoittaa omalla kielellä; koetehtävissä harjoitellaan suomenkielisiä käsitteitä.
 

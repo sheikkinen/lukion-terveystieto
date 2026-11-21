@@ -96,3 +96,16 @@ checker agents until the engine has them.
 - **Engine:** `data/yearly-facts.yaml` fails the build for any fact without `read`, used or not.
 - **Site now:** the three unread law facts (alkoholilaki, tupakkalaki, huumausainelaki; no TE1 topic uses them)
   moved to `data/yearly-facts-pending.yaml`, which the engine does not read. They go back when their pages are read.
+
+## E-11: No extra static pages, and no heading anchors
+
+- **Brief 006:** a shared page `content/pages/tiedonkasittely.md` with the information-processing rubric, linked from
+  every topic's model answers.
+- **Engine:** writes only the six pages in `STATIC_PAGES` (`build.py`). Any other file in `content/pages/` is loaded
+  and its links are checked, but it is never written, so a link to it would break. Headings get no `id` (the Markdown
+  renderer has no `toc` or `attr_list` extension), so a link cannot point at a section.
+- **Site now (lead writer, brief 006, 2026-11-21):** the rubric is the section *Tiedonkäsittely koetehtävissä* of
+  `content/pages/opetussuunnitelma.md`. Topics link the page itself: `../../opetussuunnitelma/` from a topic page and
+  `../../../opetussuunnitelma/` from a lesson view (`tunti/`), with the section name in the link text.
+- **Wanted:** extra pages declared in `subject.yaml` (slug, title, nav or not), and heading ids so a link can name a
+  section. When both exist, the section moves to its own page `tiedonkasittely`.

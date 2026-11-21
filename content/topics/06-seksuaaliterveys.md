@@ -23,6 +23,10 @@ official_links:
   - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin-kollektiivi", read: 2026-11-21}
   - {title: "MIELI Kriisipuhelin", url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
   - {title: "Itsetuntemus, vahvuudet ja arvot (opinto-ohjaus, aihe 05)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
+  - {title: "Seksitaudit (sukupuolitaudit)", url: "https://www.terveyskirjasto.fi/dlk00497", publisher: "Terveyskirjasto (Duodecim)", read: 2026-11-21}
+  - {title: "Ilmoitettavat taudit ja mikrobit (tartuntatautien luokat)", url: "https://thl.fi/ohjeita-ammattilaisille/laakarin-tartuntatauti-ilmoitus/ilmoitettavat-taudit-ja-mikrobit", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Hedelmällisyystietoisuuden edistäminen Suomessa", url: "https://www.vaestoliitto.fi/ajankohtaista/hedelmallisyystietoisuuden-edistamisesta-suomessa-kannanotto/", publisher: "Väestöliitto", read: 2026-11-21}
+  - {title: "Hedelmällisyys laskee jo ennen 35. ikävuotta", url: "https://www.vaestoliitto.fi/artikkelit/hedelmallisyys-laskee-jo-ennen-35-ikavuotta/", publisher: "Väestöliitto", read: 2026-11-21}
   - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
   - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", read: 2026-11-21}
   - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", read: 2026-11-21}
@@ -81,7 +85,7 @@ linked_materials:
     audience: opiskelija ja opettaja
     read: 2026-11-21
 exam_tasks:
-  - {id: K1, type: virheiden-tunnistaminen, part: A20, points: 20, minutes: 25, codes: [TE1.s5, TE1.t1, TE1.t3]}
+  - {id: K1, type: maarittele-ja-esimerkki, part: A20, points: 20, minutes: 25, codes: [TE1.s5, TE1.t1, TE1.t3]}
   - {id: K2, type: taulukon-taydentaminen, part: B20, points: 20, minutes: 35, codes: [TE1.s5, TE1.t3]}
   - {id: K3, type: aineiston-analyysi, part: C30, points: 30, minutes: 50, codes: [TE1.s5, TE1.t1, TE1.t3]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
@@ -108,42 +112,48 @@ last_reviewed: 2026-11-21
 
 **Tämän aiheen jälkeen**
 
-1. Osaan kuvata seksuaalisuuden eri puolia ja selittää, mitä seksuaaliterveys tarkoittaa.
+1. Osaan kuvata seksuaalisuuden eri puolia ja selittää, mitä seksuaaliterveys ja hedelmällisyys tarkoittavat.
 2. Osaan luokitella seksuaaliterveyteen vaikuttavat tekijät yksilöllisiin, yhteisöllisiin, yhteiskunnallisiin ja globaaleihin tekijöihin.
 3. Osaan selittää ketjuna, miten jokin tekijä, esimerkiksi tiedon saanti tai palvelujen saatavuus, vaikuttaa seksuaaliterveyteen.
-4. Osaan arvioida, miten tiedon, ehkäisyn ja palvelujen käyttöä koskevat valinnat vaikuttavat ihmisen ja hänen läheistensä terveyteen, ja kertoa, mistä palveluja saa.
+4. Osaan arvioida, miten tiedon, ehkäisyn ja palvelujen käyttöä koskevat valinnat vaikuttavat ihmisen ja hänen läheistensä terveyteen, ja kertoa, mistä palveluja saa, sekä selittää, miten seksitaudit luokitellaan tartuntatauteina.
 5. Osaan tehdä perustellun ehdotuksen siitä, miten koulu, hyvinvointialue tai yhteiskunta voi edistää seksuaaliterveyttä.
 
 ### Mitä seksuaalisuus on?
 
-Seksuaalisuus on osa ihmisenä olemista koko elämän ajan. Siihen kuuluvat keho, tunteet, ajatukset, ihastuminen, läheisyys, identiteetti ja ihmissuhteet. Se on paljon muutakin kuin seksiä. Seksuaalisuus näkyy eri ihmisillä eri tavoin ja eri ikävaiheissa. Joku kokee sen voimakkaasti, toinen vähän tai ei lainkaan. Kaikki tavat ovat osa ihmisten moninaisuutta.
+Seksuaalisuus on osa ihmisenä olemista koko elämän ajan: keho, tunteet, ajatukset, ihastuminen, läheisyys, identiteetti ja ihmissuhteet. Se on paljon muutakin kuin seksiä. Joku kokee sen voimakkaasti, toinen vähän tai ei lainkaan. Kaikki tavat ovat osa moninaisuutta.
 
 ### Mitä seksuaaliterveys on?
 
-Seksuaaliterveys tarkoittaa fyysistä, tunne-elämän, henkistä ja sosiaalista hyvinvointia seksuaalisuuteen liittyen. Se ei ole vain sitä, ettei ole sairautta. Väestöliitto kuvaa asian [sivullaan](https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/). Sivun mukaan siihen kuuluvat esimerkiksi tyydyttävät ihmissuhteet, suoja seksuaaliselta kaltoinkohtelulta ja sukupuolitaudeilta sekä suunnitellut ja turvalliset raskaudet ja synnytykset. Seksuaaliterveys koskee kaikkia sukupuolia ja kaikkia seksuaalisia suuntautumisia.
+Seksuaaliterveys on fyysistä, tunne-elämän, henkistä ja sosiaalista hyvinvointia seksuaalisuuteen liittyen, ei vain sairauden puuttumista. [Väestöliiton](https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/) mukaan siihen kuuluvat esimerkiksi tyydyttävät ihmissuhteet, suoja seksuaaliselta kaltoinkohtelulta ja sukupuolitaudeilta sekä suunnitellut ja turvalliset raskaudet. Se koskee kaikkia sukupuolia ja suuntautumisia.
 
 ### Murrosikä ja erilaiset kehot
 
-Murrosiässä keho ja mieli kehittyvät. Aikataulu vaihtelee paljon, eikä kehitys etene kaikilla samassa järjestyksessä. Kehot ovat erilaisia, ja terveys ei näy ulkonäöstä. Omissa oireissa, kuten kivussa tai epätavallisessa muutoksessa, otetaan yhteys opiskeluterveydenhuoltoon. Tietoa kehon tuntemisesta antaa esimerkiksi [Tunne rintasi](https://tunnerintasi.fi/).
+Murrosiässä keho ja mieli kehittyvät, ja aikataulu vaihtelee paljon. Kehot ovat erilaisia, eikä terveys näy ulkonäöstä. Omissa oireissa otetaan yhteys opiskeluterveydenhuoltoon. Tietoa kehon tuntemisesta antaa [Tunne rintasi](https://tunnerintasi.fi/).
 
-### Ehkäisy ja sukupuolitaudit
+### Ehkäisy, sukupuolitaudit ja tartuntatautien luokat
 
-Raskauden ehkäisy ja sukupuolitautien ehkäisy ovat eri asioita. Ehkäisymenetelmiä on monenlaisia, ja vain osa niistä suojaa myös sukupuolitaudeilta. Sukupuolitauti voi olla oireeton, joten oireettomuus ei kerro, ettei tautia ole. Sukupuolitaudit ovat tavallisia terveysasioita, joita tutkitaan ja hoidetaan. Häpeään ei ole syytä. Menetelmän valinnassa auttavat terveydenhoitaja ja lääkäri. Palvelujen hinnat ja ikärajat vaihtelevat alueittain, joten ne tarkistetaan palvelun omilta sivuilta.
+Raskauden ehkäisy ja sukupuolitautien ehkäisy ovat eri asioita, ja vain osa menetelmistä suojaa myös sukupuolitaudeilta. Jokainen sukupuolitauti voi olla aluksi oireeton, joten oireettomuus ei kerro, ettei tautia ole. Ne ovat tavallisia terveysasioita, joita tutkitaan ja hoidetaan, eikä häpeään ole syytä. Kondomi ja suuseksisuoja suojaavat useimmilta tartunnoilta, ja rokotteet suojaavat esimerkiksi hepatiitti A:lta ja B:ltä sekä HPV:n aiheuttamilta syyliltä (Terveyskirjasto). Menetelmän valinnassa auttavat terveydenhoitaja ja lääkäri.
+
+Tartuntatautilain mukaan tartuntataudit jaetaan kolmeen luokkaan: yleisvaaralliset, valvottavat ja muut ilmoitettavat mikrobilöydökset. THL:n mukaan luokittelu palvelee ilmoittamista ja torjuntaa, ja yleisvaarallisen taudin hoito voi tarvittaessa tapahtua tahdonvastaisesti. THL:n luettelossa kuppa on yleisvaarallinen sekä HIV, tippuri ja klamydia valvottavia. Luokitus koskee tauteja, ei ihmisten arvioimista. Luettelo päivittyy [THL:n sivulla](https://thl.fi/ohjeita-ammattilaisille/laakarin-tartuntatauti-ilmoitus/ilmoitettavat-taudit-ja-mikrobit), ja aihetta syvennetään TE3-moduulissa.
+
+### Hedelmällisyys
+
+Hedelmällisyys tarkoittaa kykyä saada lapsia. Kaikki eivät halua lapsia, ja lapsia voi saada monin tavoin. Päätös kuuluu ihmiselle itselleen. Hedelmällisyyteen vaikuttavat ikä ja eräät sairaudet, ja hoitamattomat sukupuolitaudit voivat aiheuttaa lapsettomuutta. Väestöliiton mukaan hedelmällisyyttä koskevat tiedot ovat usein puutteellisia. Hedelmällisyyden suojaaminen on siksi tietoa ja palveluja: sukupuolitautien ehkäisyä ja testausta sekä tietoa iän vaikutuksesta. Alkoholi ja nikotiini ovat elintapatekijöitä, jotka vaikuttavat terveyteen; alkoholin yhteys hedelmällisyyteen tunnetaan huonosti. Niitä käsitellään tarkemmin [TE2-moduulissa](../../opetussuunnitelma/). Sivu ei anna lääketieteellisiä neuvoja.
 
 ### Mikä vaikuttaa seksuaaliterveyteen?
 
-Seksuaaliterveyteen vaikuttavat samat neljä tasoa kuin muuhunkin terveyteen:
+Vaikuttavat samat neljä tasoa:
 
-- **yksilölliset tekijät:** tiedot, taidot, kyky puhua rajoista ja toiveista, kokemus omasta kehosta
+- **yksilölliset tekijät:** tiedot, taidot, kyky puhua rajoista, kokemus omasta kehosta
 - **yhteisölliset tekijät:** ystävät, perhe, koulun ilmapiiri, verkkoyhteisöt
 - **yhteiskunnalliset tekijät:** seksuaalikasvatus, palvelujen saatavuus, lait, syrjintä
-- **globaalit tekijät:** verkossa leviävä tieto ja virheellinen tieto, maiden väliset erot palveluissa
+- **globaalit tekijät:** verkossa leviävä tieto ja virheellinen tieto
 
-Vaikutus kulkee usein ketjuna. Jos koulussa on vain vähän seksuaalikasvatusta, tieto jää ystävien kertoman varaan. Ystävien tieto voi olla virheellistä. Silloin ehkäisyyn ja palveluihin liittyvät päätökset tehdään puutteellisella tiedolla. Pitkä matka terveysasemalle voi vaikuttaa samalla tavalla: palvelu on olemassa, mutta siihen on vaikea päästä. Siksi seksuaaliterveyden edistäminen on koulun, kunnan ja hyvinvointialueen työtä eikä vain yksilön vastuu.
+Vaikutus kulkee usein ketjuna: vähäinen seksuaalikasvatus jättää tiedon ystävien varaan, ja heidän tietonsa voi olla virheellistä. Pitkä matka terveysasemalle voi estää palveluun pääsyn. Siksi edistäminen on koulun, kunnan ja hyvinvointialueen työtä, ei vain yksilön vastuu.
 
 ### Mistä apua ja tietoa saa?
 
-Seksuaaliterveyden palveluja saa opiskeluterveydenhuollosta ja terveysasemilta. Tietoa ja neuvontaa antavat myös järjestöt, esimerkiksi [Väestöliitto](https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/). Nuorille on myös oma [Väestöliiton nuorten sivusto](https://www.vaestoliitto.fi/nuoret/), jossa on tietoa ja neuvontaa; ikärajat ja palvelujen tilanne ovat sivulla. Aihe ei ole liian pieni tai noloa. Lisää on sivulla *Apua ja tukea*.
+Palveluja saa opiskeluterveydenhuollosta ja terveysasemilta. Tietoa antavat myös [Väestöliiton nuorten sivut](https://www.vaestoliitto.fi/nuoret/), jossa ikärajat ja palvelujen tilanne ovat nähtävissä. Mikään kysymys ei ole liian pieni.
 
 ## Tehtävät
 
@@ -198,34 +208,31 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
 
-1. Osaan kuvata seksuaalisuuden eri puolia ja selittää, mitä seksuaaliterveys tarkoittaa.
+1. Osaan kuvata seksuaalisuuden eri puolia ja selittää, mitä seksuaaliterveys ja hedelmällisyys tarkoittavat.
 2. Osaan luokitella seksuaaliterveyteen vaikuttavat tekijät yksilöllisiin, yhteisöllisiin, yhteiskunnallisiin ja globaaleihin tekijöihin.
 3. Osaan selittää ketjuna, miten jokin tekijä, esimerkiksi tiedon saanti tai palvelujen saatavuus, vaikuttaa seksuaaliterveyteen.
-4. Osaan arvioida, miten tiedon, ehkäisyn ja palvelujen käyttöä koskevat valinnat vaikuttavat ihmisen ja hänen läheistensä terveyteen, ja kertoa, mistä palveluja saa.
+4. Osaan arvioida, miten tiedon, ehkäisyn ja palvelujen käyttöä koskevat valinnat vaikuttavat ihmisen ja hänen läheistensä terveyteen, ja kertoa, mistä palveluja saa, sekä selittää, miten seksitaudit luokitellaan tartuntatauteina.
 5. Osaan tehdä perustellun ehdotuksen siitä, miten koulu, hyvinvointialue tai yhteiskunta voi edistää seksuaaliterveyttä.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia.
+Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE1 yksin kattaa vain osan ylioppilaskokeesta; TE2 ja TE3 kattavat loput.
 
-### K1: Virheiden tunnistaminen, 25 min (20 p)
+### K1: Määrittele ja anna esimerkki, 25 min (20 p)
 
 *Osa A20 · Harjoittelee: Osaan 1, 4*
 
-Alla olevassa kuvitteellisessa oppilaskunnan tiedotteessa on viisi asiavirhettä. Tunnista virheet, selitä, miksi ne ovat virheitä, ja korjaa ne terveystiedon käsitteitä käyttäen.
+Määrittele käsitteet a–d ja anna kustakin terveyteen liittyvä esimerkki kuvitteellisesta henkilöstä. Kerro lisäksi, miten käsite eroaa lähikäsitteestä.
 
-*Aineisto (kuvitteellinen): "Seksuaaliterveys lyhyesti"*
+a) seksuaaliterveys
 
-> - (1) Seksuaaliterveys tarkoittaa vain sitä, ettei ihmisellä ole sukupuolitautia.
-> - (2) Seksuaalisuus kuuluu ihmiseen koko elämän ajan, ja se on muutakin kuin seksiä.
-> - (3) Murrosiässä kaikkien keho ja mieli kehittyvät samassa järjestyksessä ja samaan aikaan.
-> - (4) Seksuaaliterveyden palveluja saa opiskeluterveydenhuollosta ja terveysasemilta.
-> - (5) Kaikki ehkäisymenetelmät suojaavat yhtä hyvin sekä raskaudelta että sukupuolitaudeilta.
-> - (6) Seksuaaliterveys on vain nuorten naisten asia.
-> - (7) Seksuaaliterveyteen vaikuttavat myös tiedon saanti ja palvelujen saatavuus.
-> - (8) Seksuaaliterveyden edistäminen on yksin terveystiedon opettajan tehtävä.
+b) hedelmällisyys
+
+c) oireeton tartunta
+
+d) valvottava tartuntatauti
 
 ### K2: Taulukon täydentäminen, 35 min (20 p)
 
@@ -246,47 +253,53 @@ Täydennä taulukko vastausarkille. Lisäksi selitä, mikä tekijä voi estää 
 
 *Osa C30 · Harjoittelee: Osaan 2, 3, 5*
 
-*Aineisto (kuvitteellinen koulun uutinen):*
+*Aineisto (kuvitteellinen kysely ja koulun tiedote):*
 
-> **Lukio uudistaa seksuaalikasvatuksensa.** Koulun terveystiedon opettaja kertoo, että seksuaaliterveydestä puhutaan jatkossa kahdella tunnilla, ja aiheet suunnitellaan yhdessä opiskelijakunnan kanssa. Opiskelijakunnan edustaja Sami kertoo, että moni on saanut tietonsa verkosta tai kavereilta, ja osa tiedoista on ollut ristiriitaisia. Terveydenhoitaja toteaa, että hyvinvointialue on vähentänyt hänen vastaanottoaikojaan, joten aikaa joutuu odottamaan. Huoltaja Aino kertoo olevansa huolissaan siitä, että aiheesta puhutaan koulussa, mutta pitää tärkeänä, että nuori saa oikeaa tietoa. Rehtori sanoo, että koulun käytävillä esiintyvään seksuaalisväritteiseen vitsailuun puututaan nyt tiukemmin.
+> **Lukion seksuaalikasvatus uudistui syksyllä.** Koulu kysyi opiskelijoilta ennen uudistusta ja sen jälkeen, mistä he ovat saaneet tietoa seksuaaliterveydestä. Kysely oli vapaaehtoinen ja nimetön. Ennen uudistusta vastasi 120 ja sen jälkeen 85 opiskelijaa. Tiedotteen mukaan terveydenhoitajan vastaanottoaikoja on samaan aikaan vähennetty. Taulukossa on lähteen maininneiden vastaajien määrä, ja vastaaja sai valita useita lähteitä.
 
-a) Analysoi, mitkä seksuaaliterveyteen vaikuttavat tekijät ja voimavarat aineistossa näkyvät ja millä tasoilla ne ovat. (10 p)
+| Mainittu tietolähde | Ennen uudistusta (120 vastaajaa) | Uudistuksen jälkeen (85 vastaajaa) |
+|---|---|---|
+| Koulun tunnit | 48 | 60 |
+| Kaverit | 78 | 47 |
+| Verkko ja some | 84 | 51 |
+| Terveydenhoitaja | 30 | 17 |
 
-b) Selitä kahden aineiston tekijän vaikutusmekanismi nuorten seksuaaliterveyteen. (8 p)
+a) Lue taulukkoa. Kuvaa kaksi muutosta lukuineen ja huomioi, että vastaajamäärät eroavat. Kerro lisäksi yksi asia, jota taulukosta ei voi päätellä. (8 p)
 
-c) Arvioi, miten uudistus ja vastaanottoaikojen vähentäminen vaikuttavat nuorten välisiin terveyseroihin, ja tee kaksi perusteltua ehdotusta seksuaaliterveyden edistämiseksi koulussa tai hyvinvointialueella. (12 p)
+b) Arvioi, kuinka luotettavasti aineisto kertoo koko koulun opiskelijoista. Käytä vähintään kolmea arviointikriteeriä. (10 p)
+
+c) Täydennä koululle toimintakehys: laadi taulukko, jossa on kaksi riviä ja sarakkeet tavoite, toimija, keino, seuranta ja kenet toimi ehkä jättää tavoittamatta. Perustele lyhyesti, miksi valitsit rivit. (12 p)
 
 ## Mallivastaukset
 
-### K1: Virheiden tunnistaminen, 25 min (20 p)
+### K1: Määrittele ja anna esimerkki, 25 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
-- **Virhe 1 (lause 1).** Seksuaaliterveys ei ole vain sairauden puuttumista. *Korjaus:* Seksuaaliterveys on fyysistä, tunne-elämän, henkistä ja sosiaalista hyvinvointia seksuaalisuuteen liittyen. Siihen kuuluvat esimerkiksi turvalliset ihmissuhteet, tieto, ehkäisy ja palvelut.
-- **Virhe 2 (lause 3).** Murrosiän kehitys on yksilöllistä. *Korjaus:* Kehitys alkaa eri aikaan, etenee eri järjestyksessä ja eri tahtia. Kehot ovat erilaisia, ja vaihtelu on tavallista.
-- **Virhe 3 (lause 5).** Menetelmät eroavat toisistaan. *Korjaus:* Ehkäisymenetelmiä on monenlaisia, ja vain osa niistä suojaa myös sukupuolitaudeilta. Raskauden ja sukupuolitautien ehkäisy ovat eri asioita.
-- **Virhe 4 (lause 6).** Seksuaaliterveys koskee kaikkia. *Korjaus:* Seksuaaliterveys koskee kaikkia sukupuolia ja seksuaalisia suuntautumisia, myös niitä, joilla ei ole kiinnostusta seksiin.
-- **Virhe 5 (lause 8).** Seksuaaliterveyden edistäminen ei ole yhden henkilön tehtävä. *Korjaus:* Sitä tekevät koulu, opiskeluterveydenhuolto, hyvinvointialue, järjestöt, perheet ja yhteiskunta esimerkiksi tiedolla, palveluilla ja turvallisella ilmapiirillä.
+**a)** Seksuaaliterveys on fyysistä, tunne-elämän, henkistä ja sosiaalista hyvinvointia seksuaalisuuteen liittyen. *Esimerkki:* Noor (kuvitteellinen) saa terveydenhoitajalta tietoa ehkäisystä ja kokee olonsa turvalliseksi. *Ero:* se ei ole pelkkää sairauden puuttumista.
 
-Lauseet 2, 4 ja 7 ovat oikein.
+**b)** Hedelmällisyys on kyky saada lapsia. *Esimerkki:* Aaro (kuvitteellinen) kysyy terveydenhoitajalta, miten ikä vaikuttaa hedelmällisyyteen. *Ero:* hedelmällisyys on kyky, ei lapsitoive eikä koko seksuaaliterveys.
+
+**c)** Oireeton tartunta on tartunta, joka ei aiheuta oireita. *Esimerkki:* Kim (kuvitteellinen) menee testiin, koska tartunta voi olla oireeton. *Ero:* oireettomuus ei tarkoita, ettei tartuntaa ole.
+
+**d)** Valvottava tartuntatauti on tartuntatautilain luokka, jonka taudeista tehdään ilmoitus torjuntaa varten. *Esimerkki:* tippurin löydös ilmoitetaan THL:lle. *Ero:* yleisvaarallisen taudin, kuten kupan, hoito voi tarvittaessa tapahtua tahdonvastaisesti.
 
 **Pisteytys**
 
 *Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
 
-- Jokainen viidestä virheestä 4 p: virheen tunnistaminen ja selitys, miksi se on väärin, 2 p; täsmällinen korjaus käsitteineen 2 p. Yhteensä 5 × 4 p = 20 p.
-- Oikean lauseen merkitseminen virheeksi: −1 p kerrallaan (ei alle nollan tehtävästä).
+- Jokainen käsite 5 p: ydinmääritelmä 2 p, sopiva esimerkki 2 p, ero lähikäsitteeseen 1 p. Yhteensä 4 × 5 p = 20 p.
 
-*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A): käsitteiden käyttö (seksuaalisuus, seksuaaliterveys, ehkäisy), soveltaminen (esimerkit), analysointi (miksi väite on liian kapea), arviointi, argumentaatio ja kokonaisuus (selkeä rakenne virhe kerrallaan).
+*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (määritelmä nimeää olennaiset piirteet), soveltaminen (esimerkki sopii käsitteeseen), analysointi (ero lähikäsitteeseen), arviointi ja argumentointi (täsmällisyys).
 
 **Yhteensä:** 20 p
 
 **Tyypilliset virheet**
 
-- Korjaus on pelkkä kieltolause eikä kerro, mikä on oikein.
-- Oikea lause 2, 4 tai 7 merkitään virheeksi.
-- Seksuaaliterveys rajataan vain raskauden ehkäisyyn tai tauteihin.
-- Virhe 5 korjataan toteamalla, että "kaikkien pitäisi huolehtia itse", jolloin yhteisön ja yhteiskunnan rooli unohtuu.
+- Määritelmänä on synonyymi tai esimerkki.
+- Seksuaaliterveys rajataan pelkkään ehkäisyyn tai tauteihin.
+- Oireettomuuden ajatellaan tarkoittavan, ettei tartuntaa ole.
+- Luokitus käsitetään arvioksi ihmisestä eikä ilmoitus- ja torjuntaluokaksi.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -309,8 +322,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 - Jokainen neljästä riveistä 2 p: sopiva palvelu tai tietolähde ja perustelu 1 p; uskottava este 1 p. Yhteensä 8 p.
 - Yhteiskunnan tason este nimetty, perusteltu tasoksi ja ratkaisu esitetty 2 p (pelkkä maininta 1 p).
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
-*Tiedonkäsittely 10 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+*Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); viisi kohtaa: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
 - 8–10 p: käsitteet ovat täsmällisiä, perustelut liittyvät henkilön tilanteeseen ja esteet ovat uskottavia.
 - 4–7 p: palvelut ovat sopivia, mutta perustelut ovat yleisiä tai esteet jäävät pintapuolisiksi.
@@ -331,40 +345,38 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** *Yhteiskunnallisia tekijöitä* ovat koulun seksuaalikasvatuksen määrä, hyvinvointialueen päätös vähentää vastaanottoaikoja ja palvelujen saatavuus. *Yhteisöllisiä tekijöitä* ovat opiskelijakunnan osallisuus, kaverien tieto, huoltajien huoli ja koulun käytävien ilmapiiri. *Yksilöllisiä tekijöitä* ovat tiedot ja taidot sekä se, miten helposti nuori kysyy. *Globaaleja tekijöitä* ovat verkon tieto ja virheellinen tieto. Voimavaroja ovat lisääntyvä seksuaalikasvatus, osallisuus, terveydenhoitaja ja aikuinen, joka puuttuu vitsailuun. Kuormittavia ovat ristiriitainen tieto, odotusaika ja seksuaalisväritteinen vitsailu.
+**a)** Koulun tunnit mainitsi ennen uudistusta 48 vastaajaa 120:stä ja sen jälkeen 60 vastaajaa 85:stä, joten sekä määrä että osuus kasvoi. Verkon ja somen mainitsijoita oli ensin 84 ja sitten 51. Määrä laski selvästi, mutta koska vastaajia oli vähemmän, osuus laski vain vähän ja verkko pysyi suurena lähteenä. Taulukosta ei voi päätellä, onko tieto ollut oikeaa tai onko nuorten seksuaaliterveys parantunut, sillä kysely kertoo vain lähteistä. Se ei myöskään kerro, miksi terveydenhoitajan maininnat vähenivät.
 
-**b)** *Vähentyneet vastaanottoajat:* kun ajan saa vasta pitkän odotuksen jälkeen, osa nuorista ei hae apua tai tekee päätöksiä ilman ammattilaisen tietoa. Silloin ehkäisyä ja oireita koskeva epävarmuus pitkittyy ja terveyshaitat voivat lisääntyä.
-*Käytävävitsailuun puuttuminen:* kun seksuaalisuutta koskeva pilkka vähenee, kouluun syntyy turvallisempi ilmapiiri. Nuori uskaltaa kysyä ja hakea apua, ja syrjinnän kuormitus vähenee.
+**b)** *Vastaajamäärä:* vastaajia oli ensin 120 ja sitten 85, joten ryhmät eivät ole samat, eikä luvuista voi päätellä yhden opiskelijan muutosta. *Vapaaehtoisuus:* vastasivat ehkä ne, joille aihe on helppo, joten aineisto ei välttämättä edusta kaikkia. *Kysymys:* "mainittu lähde" ei kerro lähteen laadusta tai siitä, kuinka paljon sen kautta on saatu tietoa. *Ajoitus:* vastaanottoaikojen vähennys on samaan aikaan, joten terveydenhoitajan luvun muutos ei kerro uudistuksesta. Aineisto antaa suuntaa mutta ei todista uudistuksen vaikutusta.
 
-**c)** Lisääntynyt seksuaalikasvatus tavoittaa kaikki opiskelijat, mikä kaventaa terveyseroja, koska tieto ei ole enää kavereiden tai verkon varassa. Vastaanottoaikojen vähentäminen voi kasvattaa eroja: ne, joilla on vaihtoehto, kuten oma yksityinen lääkäri tai helppo kulkuyhteys, saavat apua, mutta muut eivät. Toisaalta hyvinvointialueen resurssit ovat rajalliset, ja kaikkea ei voi tehdä kerralla. Huoltajan huoli on ymmärrettävä, mutta tieto tukee nuoren turvallisuutta.
-*Ehdotus 1:* Koulu voisi kertoa opiskelijoille ja huoltajille etukäteen, mitä tunneilla käsitellään, ja kutsua halukkaat tutustumaan materiaaleihin. Perustelu: avoimuus vähentää huolta ja tuo huoltajat tukemaan tiedon saantia.
-*Ehdotus 2:* Hyvinvointialue voisi lisätä terveydenhoitajan aikoja ja tarjota nimettömän verkkoyhteyden. Perustelu: matalampi kynnys auttaa niitäkin, joiden on vaikea tulla paikan päälle.
+**c)** Rivit vastaavat taulukon havaintoja: verkon osuus on edelleen suuri ja terveydenhoitajan osuus pienin.
+
+| Tavoite | Toimija | Keino | Seuranta | Ehkä tavoittamatta |
+|---|---|---|---|---|
+| Luotettava tieto kaikille | Opettaja ja opiskelijakunta | Tunneilla käydään läpi, miten verkon tietoa arvioidaan, ja kootaan luotettavien lähteiden lista | Kysely uudelleen, kysytään myös tiedon riittävyyttä | Opiskelijat, jotka ovat poissa tunneilta |
+| Apua on helppo saada | Hyvinvointialue ja koulu | Nimetön yhteydenottotapa terveydenhoitajalle ja tieto vastaanottoajoista kaikille | Seurataan, miten aikoja haetaan ja kuinka kauan odotus kestää | Ne, joilla ei ole nettiyhteyttä tai joille yhteydenotto on vaikeaa |
 
 **Pisteytys**
 
 *Sisältö 15 p:*
 
-- a) Taustatekijöitä vähintään kolmelta tasolta oikein luokiteltuna 3 p; voimavarojen ja kuormittavien tekijöiden tunnistaminen 2 p. Yhteensä 5 p.
-- b) Kaksi vaikutusmekanismia, kumpikin ketjuna aineiston tekijästä seksuaaliterveyteen, 2 p kumpikin. Yhteensä 4 p.
-- c) Terveyserojen arviointi: keihin vaikutus kohdistuu ja miksi 1 p, vastakkainen näkökulma 1 p; kaksi ehdotusta, joissa on toimija, keino ja perustelu, 2 p kumpikin. Yhteensä 6 p.
+- a) Kaksi taulukon muutosta oikein luettuna 2 p kumpikin; havainto, jota ei voi päätellä, 1 p. Yhteensä 5 p.
+- b) Kolme perusteltua arviointikriteeriä, 2 p kumpikin; johtopäätös aineiston käyttökelpoisuudesta 1 p. Yhteensä 7 p.
+- c) Kehyksen kaksi riviä, joissa kaikki sarakkeet on täytetty, 1 p kumpikin; rivien perustelu aineistosta 1 p. Yhteensä 3 p.
+- Jos vastaus ei viittaa taulukon lukuihin, kokonaispisteistä vähennetään 5 p.
 
-*Tiedonkäsittely 15 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+*Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); viisi kohtaa: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
-- 12–15 p: käsitteet (taustatekijä, voimavara, vaikutusmekanismi, terveyserot, seksuaaliterveys) ovat täsmällisiä; analyysi nojaa aineistoon; arvio punnitsee eri näkökulmia; ehdotukset ovat realistisia ja perusteltuja; vastaus etenee kohdittain.
-- 6–11 p: sisältö on pääosin oikein, mutta aineistoon viitataan vähän, arvio on yksipuolinen tai ehdotukset jäävät perustelematta.
-- 0–5 p: vastaus luettelee asioita, jää yleiselle tasolle tai ei käytä aineistoa.
+- 12–15 p: luvut luetaan oikein ja erotetaan syy ja yhteys toisistaan; luotettavuutta arvioidaan useilla kriteereillä; kehyksen keinot ovat realistisia ja kytkeytyvät aineistoon; vastaus on jäsennelty.
+- 6–11 p: luvut luetaan oikein, mutta arviointi on yleistä tai kehys ei kytkeydy aineistoon.
+- 0–5 p: vastaus toistaa taulukon lukuja, päättelee syitä ilman perusteita tai kehys jää tyhjäksi.
 
-Tehtävänannon osapisteet (a 10 p, b 8 p, c 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
-
-**Yhteensä:** 30 p
+**Yhteensä:** 30 p (a 8 p, b 10 p, c 12 p; osapisteet sisältävät sisällön ja tiedonkäsittelyn)
 
 **Tyypilliset virheet**
 
-- Vastaus kertoo yleisesti seksuaaliterveydestä eikä käytä aineistoa.
-- Ehdotukset koskevat vain nuoren omaa vastuuta ("nuorten pitäisi hakea tietoa"), vaikka kysytään koulun tai hyvinvointialueen keinoja.
-- Huoltajan näkökulma sivuutetaan tai sitä vain moititaan.
-- Mekanismi pysähtyy puoliväliin ("nuori ei saa aikaa") eikä etene terveyteen asti.
-- Seksuaaliterveys rajataan pelkkään ehkäisyyn.
+- Määrän ja osuuden muutos sekoitetaan keskenään, tai taulukosta päätellään seksuaaliterveyden parantuneen, vaikka kysely mittaa vain tietolähteitä.
+- Kehyksen keinot kohdistuvat vain nuoren omaan vastuuseen, ja "ehkä tavoittamatta" -sarake jää tyhjäksi.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -395,7 +407,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: seksuaalisuus, seksuaaliterveys, ehkäisy, vaikutusmekanismi. | Piirrä neljän tason taulukko taululle ja näytä yksi ketju tiedon puutteesta palveluun. | Jaa käsitteet paperilla. | Ehkäisy ja sukupuolitaudit kotiin. |
 | Työskentely | 25 | Tehtävä 1 (18 min) yksin tai pareittain, sitten Tehtävän 2 vaiheet 1–3 (7 min). | Kierrä ja kysy: millä tasolla tämä tekijä on? Muistuta, että analysoidaan Kimiä, ei itseä. | Pari tekee yhteisen taulukon. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät valitsevat yhden Kimin kuormittavan tekijän ja ehdottavat keinon, jolla koulu tai hyvinvointialue voisi poistaa sen. | Kokoa ehdotukset taululle tasoittain. Nosta esiin palvelut, tieto ja ilmapiiri. | Yksin: kirjoita kaksi ehdotusta. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K1:n virheet 1–2 yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä K1:n pisteytys ja kysy: mistä 4 pistettä syntyy? | Paperilla. | Tarkistus kotona. |
+| Koeharjoitus ja exit | 10 | K1:n käsitteet a–b yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä K1:n pisteytys ja kysy: mistä 5 pistettä syntyy? | Paperilla. | Tarkistus kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Muistuta, mistä apua saa (Apua ja tukea). | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -407,7 +419,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Opiskelijat kirjaavat käsitteet ja neljä tasoa. | Piirrä taulukko ja näytä yksi ketju. | Jaa käsitteet paperilla. | Ketju työskentelyn jälkeen. |
 | Työskentely | 25 | Tehtävä 1 (18 min), sitten Tehtävän 2 vaiheet 1–3 (7 min). | Kierrä ja kysy perusteluja tasoille. | Pari tekee yhteisen taulukon. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit valitsevat yhden esteen ja ehdottavat keinon koululle tai hyvinvointialueelle. | Kokoa kolme ehdotusta taululle. | Yksin paperille. | Yksi yhteinen ehdotus. |
-| Koeharjoitus ja exit | 7 | K1:n virhe 1 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten 4 pistettä jakautuu. | Paperilla. | Tarkistus kotona. |
+| Koeharjoitus ja exit | 7 | K1:n käsite a yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten 5 pistettä jakautuu. | Paperilla. | Tarkistus kotona. |
 | Puskuri | 2 | Kysymykset. | Muistuta Apua ja tukea -osiosta. | – | – |
 
 ### Tuntisuunnitelma (45 min)
@@ -448,9 +460,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Eriyttäminen
 
-**Helpompi polku:** Tee Tehtävässä 1 vain kolme saraketta (yksilö, yhteisö, yhteiskunta) ja sijoita niihin neljä tekijää. Käytä Tehtävässä 2 valmista ketjun alkua: *Kun tietoa ei ole, … , ja siksi …*. Koetehtävistä K1:n kaksi ensimmäistä virhettä riittää.
+**Helpompi polku:** Tee Tehtävässä 1 vain kolme saraketta (yksilö, yhteisö, yhteiskunta) ja sijoita niihin neljä tekijää. Käytä Tehtävässä 2 valmista ketjun alkua: *Kun tietoa ei ole, … , ja siksi …*. Koetehtävistä K1:n käsitteet a ja b riittävät.
 
-**Syvempi polku:** Etsi Tehtävän 1 tapauksesta tekijä, joka sekä tukee että kuormittaa, ja perustele molemmat. Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn kuuden kriteerin avulla. Vertaa tämän aiheen näkökulmaa [opinto-ohjauksen itsetuntemusaiheeseen](https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/): mikä on samaa ja mikä erilaista?
+**Syvempi polku:** Etsi Tehtävän 1 tapauksesta tekijä, joka sekä tukee että kuormittaa, ja perustele molemmat. Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn viiden arviointikohdan avulla. Vertaa tämän aiheen näkökulmaa [opinto-ohjauksen itsetuntemusaiheeseen](https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/): mikä on samaa ja mikä erilaista?
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Taulukkoon voi kirjoittaa omalla kielellä; koetehtävissä harjoitellaan suomenkielisiä käsitteitä. Jos jokin sana on arkaluonteinen omassa kulttuurissa, sen voi kirjoittaa lyhyesti ja aiheesta voi keskustella opettajan kanssa kahden kesken.
 

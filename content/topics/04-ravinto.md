@@ -23,6 +23,17 @@ official_links:
   - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin-kollektiivi", read: 2026-11-21}
   - {title: "MIELI Kriisipuhelin", url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
   - {title: "Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
+  - {title: "Terveyttä edistävä ruokavalio (ruokakolmio ja lautasmalli)", url: "https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/", publisher: "Ruokavirasto", read: 2026-11-21}
+  - {title: "Ravintoaineet", url: "https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravintoaineet/", publisher: "Ruokavirasto", read: 2026-11-21}
+  - {title: "Pakolliset pakkausmerkinnät", url: "https://www.ruokavirasto.fi/elintarvikkeet/ohjeita-kuluttajille/pakkausmerkinnat/pakolliset-pakkausmerkinnat/", publisher: "Ruokavirasto", read: 2026-11-21}
+  - {title: "Vegaaninen ruokavalio", url: "https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravitsemus--ja-ruokasuositukset/vegaaninen-ruokavalio/", publisher: "Ruokavirasto", read: 2026-11-21}
+  - {title: "D-vitamiini", url: "https://www.terveyskirjasto.fi/dlk01044", publisher: "Terveyskirjasto (Duodecim)", read: 2026-11-21}
+  - {title: "Osteoporoosi altistaa luun murtumille", url: "https://www.terveyskirjasto.fi/khp00023", publisher: "Terveyskirjasto (Duodecim)", read: 2026-11-21}
+  - {title: "Raudanpuute ja ravitsemus", url: "https://www.terveyskirjasto.fi/dlk01287", publisher: "Terveyskirjasto (Duodecim)", read: 2026-11-21}
+  - {title: "Kivennäisaineet", url: "https://www.terveyskirjasto.fi/dlk01309", publisher: "Terveyskirjasto (Duodecim)", read: 2026-11-21}
+  - {title: "Ravinnon rasvat", url: "https://www.terveyskirjasto.fi/dlk01074", publisher: "Terveyskirjasto (Duodecim)", read: 2026-11-21}
+  - {title: "Kasvisruokavaliot", url: "https://www.terveyskirjasto.fi/dlk01198", publisher: "Terveyskirjasto (Duodecim)", read: 2026-11-21}
+  - {title: "Terveyttä edistävä ruokavalio (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00935", publisher: "Terveyskirjasto (Duodecim)", read: 2026-11-21}
 yearly_facts: [ravitsemussuositus, syomishairio_apu, opiskeluterveydenhuolto, kriisipuhelimet]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
@@ -55,7 +66,7 @@ linked_materials:
     audience: opiskelija
     read: 2026-11-21
 exam_tasks:
-  - {id: K1, type: virheiden-tunnistaminen, part: A20, points: 20, minutes: 25, codes: [TE1.t1, TE1.s4]}
+  - {id: K1, type: monivalinta, part: A20, points: 20, minutes: 25, codes: [TE1.t1, TE1.s4]}
   - {id: K2, type: vertailu, part: B20, points: 20, minutes: 35, codes: [TE1.t3, TE1.s4]}
   - {id: K3, type: aineiston-analyysi, part: C30, points: 30, minutes: 50, codes: [TE1.t1, TE1.t3, TE1.s4]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
@@ -77,7 +88,7 @@ last_reviewed: 2026-11-21
 
 **Tämän aiheen jälkeen**
 
-1. Osaan kuvata ravinnon tehtävät kehossa ja mielessä ja selittää, miksi monipuolinen ruoka tukee terveyttä ja jaksamista.
+1. Osaan kuvata ravinnon ja keskeisten ravintoaineiden tehtävät ja ruokalähteet ja selittää, miksi monipuolinen ruoka tukee terveyttä ja jaksamista.
 2. Osaan nimetä ruokavalintoihin vaikuttavia yksilöllisiä, yhteisöllisiä, yhteiskunnallisia ja globaaleja tekijöitä.
 3. Osaan kuvata painonhallintaa terveyden ja hyvinvoinnin näkökulmasta ja selittää, miksi paino ei yksin kerro terveydestä.
 4. Osaan tunnistaa ruokapuheen, josta voi olla haittaa, ja löytää luotettavaa tietoa ja apua.
@@ -85,32 +96,55 @@ last_reviewed: 2026-11-21
 
 ### Mitä ravinto tekee?
 
-Ravinto antaa keholle energiaa, rakennusaineita ja aineita, jotka säätelevät toimintaa. Ruoka vaikuttaa jaksamiseen, keskittymiseen, mielialaan ja siihen, miten keho kasvaa ja korjaa itseään. Ravintoaineita ovat esimerkiksi hiilihydraatit, rasvat, proteiinit, vitamiinit, kivennäisaineet, ravintokuitu ja vesi. Kaikkia tarvitaan, ja eri ruoat antavat niitä eri tavoin. Siksi monipuolinen ruoka tukee terveyttä paremmin kuin se, että turvaudutaan vain yhteen ruoka-aineeseen.
+Ravinto antaa keholle energiaa, rakennusaineita ja säätelyaineita. Se vaikuttaa jaksamiseen, keskittymiseen, mielialaan ja kasvuun. Ravintoaineita ovat hiilihydraatit, rasvat, proteiinit, vitamiinit, kivennäisaineet, ravintokuitu ja vesi. Monipuolinen ruoka tukee terveyttä paremmin kuin yksi ruoka-aine. Suositusten määrät päivittyvät, joten ne luetaan [Ruokaviraston sivulta](https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravitsemus--ja-ruokasuositukset/).
 
-Suomessa on kansalliset ravitsemussuositukset. Niiden tarkat määrät päivittyvät, eikä niitä kirjoiteta tälle sivulle. Lue ne aina alkuperäisestä lähteestä: [Ruokaviraston ravitsemus- ja ruokasuositukset](https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravitsemus--ja-ruokasuositukset/).
+### Ravintoaineet: tehtävät ja ruokalähteet
+
+Taulukossa ei ole määriä. Ne luetaan Ruokaviraston ravintoainesivulta.
+
+| Ravintoaine | Tehtävä | Ruokalähteitä |
+|---|---|---|
+| Kalsium | rakentaa luustoa ja hampaita | maitovalmisteet, täydennetyt kasvijuomat |
+| D-vitamiini | auttaa imeyttämään kalsiumia | rasvainen kala, täydennetyt maito- ja rasvavalmisteet; iho auringonvalosta |
+| Rauta | kuljettaa happea | liha, kala, kananmuna, palkokasvit |
+| Jodi | tarvitaan kilpirauhashormoniin | maitovalmisteet, kala, kananmuna, jodioitu suola |
+| C-vitamiini | suojaa soluja, parantaa kasvien raudan imeytymistä | tuoreet kasvikset, marjat, hedelmät |
+| Rasvan laatu | pehmeä rasva sopii sydämelle ja verisuonille kovaa paremmin | pehmeä: kasviöljy, kala, pähkinät; kova: voi, rasvainen liha, kookos |
+| Suola | nesteiden tasapaino; liika kuormittaa verenpainetta | leipä, juusto, leikkeleet, valmisruoka |
+| Ravintokuitu | suoliston toiminta | täysjyvä, kasvikset, marjat, palkokasvit |
+
+Rasvan laadulla on enemmän merkitystä kuin määrällä. Kasvien rauta imeytyy lihan rautaa heikommin. C-vitamiini parantaa imeytymistä, ja kahvi, tee ja kalsium heikentävät sitä.
+
+### Ruokakolmio, lautasmalli ja pakkaus
+
+**Ruokakolmion** alaosassa ovat päivittäisen ruokavalion perusruoat ja yläosassa harvemmin syötävät. **Lautasmallissa** suurin osa aterian lautasesta on kasviksia ja loput perunaa tai täysjyvää ja proteiininlähde. Vegaaniselle on oma malli. Pakkauksessa ovat nimi, ainesosaluettelo (eniten oleva ensin, allergeenit korostettuina), vertailtavat ravintoarvot, päiväys ja valmistaja.
+
+### Erityisruokavaliot ja luusto
+
+Erityisruokavalio voi perustua allergiaan, sairauteen, uskontoon tai arvoihin. Kasvisruokavalioita ovat lakto-ovo-, lakto- ja vegaaniruokavalio. Vegaanisessa ruokavaliossa B12-vitamiini, jodi ja D-vitamiini tulevat usein täydennetyistä tuotteista.
+
+Luustoon kertyy rakennusaineita erityisesti nuoruudessa. Kalsium, D-vitamiini ja painoa kantava liikunta tukevat sitä, ja tupakointi pienentää luumassaa jo kasvuiässä. Alkoholi ja nikotiini ovat elintapatekijöitä, joita käsitellään tarkemmin [TE2-moduulissa](../../opetussuunnitelma/).
 
 ### Mikä ohjaa ruokavalintoja?
 
-Ruokavalinnat eivät ole vain tahdonvoiman asia. Ne syntyvät oloissa. Aiheen 01 neljä tasoa auttavat jäsentämään niitä:
+Ruokavalinnat syntyvät oloissa, eivät tahdonvoimasta yksin. Aiheen 01 neljä tasoa jäsentävät ne:
 
-- **yksilölliset tekijät:** makutottumukset, taidot, tieto, aikataulu, allergiat ja sairaudet
-- **yhteisölliset tekijät:** perheen ja ystävien tavat, kulttuuri, uskonto ja yhteiset ateriat
-- **yhteiskunnalliset tekijät:** ruoan hinta ja saatavuus, kouluruoka, mainonta ja ruokaan liittyvät lait
-- **globaalit tekijät:** ruoantuotanto, ilmasto, ympäristö ja ruoan hintaan vaikuttavat kriisit
+- **yksilölliset tekijät:** makutottumukset, taidot, tieto, aikataulu, allergiat
+- **yhteisölliset tekijät:** perheen ja ystävien tavat, kulttuuri, uskonto
+- **yhteiskunnalliset tekijät:** hinta, saatavuus, kouluruoka, mainonta, lait
+- **globaalit tekijät:** ruoantuotanto, ilmasto, kriisit
 
-Sama tekijä voi tukea tai kuormittaa. Yhteinen ateria voi olla voimavara, mutta kiire tai raha voi rajoittaa vaihtoehtoja. Siksi terveyttä edistävä ruokailu tarkoittaa myös oloja, joissa hyvä vaihtoehto on helppo ja kohtuuhintainen.
+Sama tekijä voi tukea tai kuormittaa. Siksi terveyttä edistävä ruokailu tarkoittaa myös oloja, joissa hyvä vaihtoehto on helppo ja kohtuuhintainen.
 
 ### Painonhallinta hyvinvoinnin näkökulmasta
 
-Opetussuunnitelmassa puhutaan painonhallinnasta. Tällä sivulla se tarkoittaa hyvinvointia, ei painon pienentämistä. Kehot ovat erilaisia, ja paino on vain yksi tieto kehosta. Se ei kerro yksinään terveydestä, jaksamisesta tai ihmisen arvosta. Paino muuttuu elämän aikana, esimerkiksi kasvun ja elämäntilanteiden mukana. Terveys näkyy myös siinä, miten ihminen jaksaa, nukkuu, liikkuu, on ihmisten kanssa ja suhtautuu itseensä.
-
-Monilla on tapana arvioida terveyttä ulkonäön perusteella. Se on harhaanjohtavaa ja voi tuottaa häpeää. Painoon kohdistuva leimaaminen voi heikentää hyvinvointia. Siksi keskitytään elintapoihin ja oloihin eikä lukuihin: säännölliseen ruokailuun, riittävään lepoon, liikkumiseen, sosiaalisiin suhteisiin ja siihen, että ruoka ei ole syyllisyyden aihe.
+Opetussuunnitelman painonhallinta tarkoittaa tällä sivulla hyvinvointia, ei painon pienentämistä. Kehot ovat erilaisia, ja paino on vain yksi tieto kehosta. Se ei kerro yksin terveydestä, jaksamisesta tai arvosta. Terveys näkyy myös siinä, miten ihminen jaksaa, nukkuu, liikkuu ja on ihmisten kanssa. Ulkonäöstä terveyttä ei voi päätellä, ja painoleima heikentää hyvinvointia. Siksi keskitytään elintapoihin ja oloihin, ei lukuihin.
 
 ### Ruokapuhe ja syömishäiriöt
 
-Ruoasta puhutaan paljon mediassa ja kaveriporukoissa. Puhe voi tukea tai kuormittaa. Haitallista on puhe, joka jakaa ruoat hyviin ja pahoihin, kehuu tai moittii ulkonäköä tai antaa ymmärtää, että arvo riippuu syömisestä. Voit arvioida ruokapuhetta kysymällä, kuka puhuu, mihin väite perustuu ja mitä hän haluaa.
+Ruokapuhe voi tukea tai kuormittaa. Haitallista on puhe, joka jakaa ruoat hyviin ja pahoihin, arvostelee ulkonäköä tai liittää arvon syömiseen. Arvioi puhetta kysymällä: kuka puhuu, mihin väite perustuu ja mitä hän haluaa?
 
-Syömishäiriöt ovat vakavia sairauksia, joihin voi sairastua kuka tahansa iästä, sukupuolesta ja taustasta riippumatta. Niille ei ole yhtä syytä, eivätkä ne ole kenenkään vika. Niistä voi toipua, ja varhain haettu apu auttaa. Jos syöminen, ruoka tai oma keho alkaa viedä paljon ajatuksia tai tuntua ahdistavalta, ota yhteyttä opiskeluterveydenhuoltoon. Jos olet huolissasi ystävästä, kerro huolesi luotettavalle aikuiselle. Apua ja yhteystietoja löytyy sivun lopusta.
+Syömishäiriöt ovat vakavia sairauksia, joihin voi sairastua kuka tahansa. Niillä ei ole yhtä syytä, eivätkä ne ole kenenkään vika. Niistä voi toipua, ja varhain haettu apu auttaa. Jos syöminen tai oma keho alkaa viedä paljon ajatuksia tai ahdistaa, ota yhteyttä opiskeluterveydenhuoltoon. Huolesta ystävästä voi kertoa luotettavalle aikuiselle. Apua on sivun lopussa.
 
 ## Tehtävät
 
@@ -171,7 +205,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
 
-1. Osaan kuvata ravinnon tehtävät kehossa ja mielessä ja selittää, miksi monipuolinen ruoka tukee terveyttä ja jaksamista.
+1. Osaan kuvata ravinnon ja keskeisten ravintoaineiden tehtävät ja ruokalähteet ja selittää, miksi monipuolinen ruoka tukee terveyttä ja jaksamista.
 2. Osaan nimetä ruokavalintoihin vaikuttavia yksilöllisiä, yhteisöllisiä, yhteiskunnallisia ja globaaleja tekijöitä.
 3. Osaan kuvata painonhallintaa terveyden ja hyvinvoinnin näkökulmasta ja selittää, miksi paino ei yksin kerro terveydestä.
 4. Osaan tunnistaa ruokapuheen, josta voi olla haittaa, ja löytää luotettavaa tietoa ja apua.
@@ -181,24 +215,24 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia, eikä niissä ole lukuja.
+Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia, eikä niissä ole lukuja. TE1 yksin kattaa vain osan ylioppilaskokeesta; TE2 ja TE3 kattavat loput.
 
-### K1: Virheiden tunnistaminen, 25 min (20 p)
+### K1: Monivalinta, 25 min (20 p)
 
 *Osa A20 · Harjoittelee: Osaan 1, 3, 4*
 
-Alla olevassa kuvitteellisessa tekstissä on viisi asiavirhettä. Tunnista virheet, selitä, miksi ne ovat virheitä, ja korjaa ne terveystiedon käsitteitä käyttäen.
+Valitse kohdissa 1–10 yksi oikea vaihtoehto. Oikea vastaus 2 p, väärä −1 p, tyhjä 0 p. Tehtävän pisteet eivät mene alle nollan.
 
-*Aineisto (kuvitteellinen): "Ruoasta ja terveydestä"*
-
-> - (1) Ruoka antaa keholle vain energiaa.
-> - (2) Monipuolinen ruoka tukee jaksamista ja kasvua.
-> - (3) Paino kertoo yksinään, onko ihminen terve.
-> - (4) Ruokavalintoihin vaikuttavat hinta, saatavuus, kulttuuri, ruokapuhe ja ympäristö.
-> - (5) Painonhallinnan tavoite on aina painon pienentäminen.
-> - (6) Jos ruokavalinnat eivät noudata suosituksia, kyse on aina laiskuudesta tai tahdonvoiman puutteesta.
-> - (7) Syömishäiriöön sairastuu vain tietynlainen ihminen, ja se johtuu aina ihannekuvista.
-> - (8) Viralliset ravitsemussuositukset päivittyvät, joten ne kannattaa tarkistaa alkuperäisestä lähteestä.
+1. Mikä auttaa kehoa imeyttämään ravinnon kalsiumia? a) C-vitamiini b) D-vitamiini c) ravintokuitu d) jodi
+2. Mikä parantaa kasvien raudan imeytymistä? a) kahvi b) kalsium c) C-vitamiinin lähde aterialla d) tee
+3. Mihin jodia tarvitaan? a) kilpirauhashormonin muodostukseen b) hapen kuljetukseen c) luuston rakentamiseen d) ruoan imeytymisen estämiseen
+4. Mikä on pehmeää rasvaa? a) voi b) rypsiöljy c) kookosrasva d) rasvainen liha
+5. Missä järjestyksessä ainesosat luetellaan pakkauksessa? a) aakkosjärjestyksessä b) painon mukaan, eniten oleva ensin c) hinnan mukaan d) satunnaisesti
+6. Mitä ruokakolmion alaosa kuvaa? a) harvoin syötäviä ruokia b) ruokia, joita päivittäisessä ruokavaliossa on eniten c) vain lisäravinteita d) vain juomia
+7. Mikä väite luustosta on oikein? a) luusto kasvaa vain vanhana b) tupakointi ei vaikuta luuhun c) kalsium, D-vitamiini ja painoa kantava liikunta tukevat luustoa d) vain maito riittää luuston tukemiseen
+8. Mikä väite vegaanisesta ruokavaliosta on oikein? a) kaikki ravintoaineet saa aina suunnittelematta b) täydennetyillä tuotteilla on usein merkitystä esimerkiksi B12-vitamiinin ja jodin saannissa c) se on aina vaarallinen d) se ei kuulu ruokasuosituksiin
+9. Mikä väite painosta ja terveydestä on oikein? a) paino kertoo yksin terveydestä b) paino on vain yksi tieto kehosta, eikä se kerro yksin terveydestä c) painon pienentäminen on aina painonhallinnan tavoite d) ulkonäöstä näkee terveyden
+10. Mikä kuvaa parhaiten ruokavalintoihin vaikuttavia tekijöitä? a) vain tahdonvoima b) yksilölliset, yhteisölliset, yhteiskunnalliset ja globaalit tekijät c) vain ruoan hinta d) vain tieto ravintoaineista
 
 ### K2: Vertailu näkökulmittain, 35 min (20 p)
 
@@ -226,44 +260,44 @@ e) Kumpaa sivua pidät luotettavampana ja miksi?
 
 > **Pohjanrannan lukion ruokailutauko lyhenee.** Lukion lukujärjestys tiivistyy ensi lukukaudella, ja ruokailutauko lyhenee. Ruokalan jono on jo nyt pitkä, ja moni opiskelija kertoo, ettei ehdi syödä rauhassa. Ruokalan vetäjä sanoo, että kasvisvaihtoehtoa ja erityisruokavalioita ei riitä kaikille, koska budjetti on pieni. Opiskelijakunta ehdottaa lisää ruokailupisteitä ja pidempää taukoa. Rehtori toteaa, että lukujärjestys on sidottu bussien aikatauluihin. Lähikaupassa ruoka on kallista, eikä kaikilla ole varaa ostaa omaa lounasta.
 
-a) Analysoi, mitkä ruokailuun vaikuttavat tekijät aineistossa näkyvät ja millä tasoilla ne ovat. (10 p)
+a) Piirrä aineiston pohjalta vaikutuskaavio. Laita keskelle "ruokailu koulupäivänä" ja ympärille vähintään viisi aineiston tekijää. Yhdistä tekijät nuolilla ja merkitse jokaiselle taso (yksilö, yhteisö, yhteiskunta) sekä se, onko tekijä voimavara vai kuormitus. (10 p)
 
-b) Selitä kahden aineiston tekijän vaikutusmekanismi opiskelijoiden jaksamiseen ja oppimiseen. (8 p)
+b) Valitse kaaviostasi yksi nuolten ketju ja kirjoita siitä selitys: miten tekijä vaikuttaa opiskelijan jaksamiseen ja oppimiseen ja mikä voi muuttaa tätä vaikutusta? (8 p)
 
-c) Arvioi, miten tilanne voi vaikuttaa opiskelijoiden väliseen eriarvoisuuteen ja tee kaksi perusteltua ehdotusta hyvän ruokailun tukemiseksi. (12 p)
+c) Kirjoita opiskelijakunnan lyhyt esitys rehtorille (5–8 virkettä). Kerro, mitä pyydätte, ketkä siitä hyötyvät eniten ja miten otatte huomioon ruokalan budjetin ja bussiaikataulut. (12 p)
 
 ## Mallivastaukset
 
-### K1: Virheiden tunnistaminen, 25 min (20 p)
+### K1: Monivalinta, 25 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
-- **Virhe 1 (lause 1).** Ruoka antaa energian lisäksi rakennusaineita ja säätelyaineita. *Korjaus:* Ravinto antaa energiaa, rakennusaineita ja aineita, jotka säätelevät elimistön toimintaa. Kaikkia tarvitaan.
-- **Virhe 2 (lause 3).** Paino ei yksin kerro terveydestä. *Korjaus:* Terveys on moniulotteinen: jaksaminen, mieli, ihmissuhteet ja elintavat vaikuttavat. Kehot ovat erilaisia, ja paino on vain yksi tieto.
-- **Virhe 3 (lause 5).** Painonhallinta ei tarkoita aina painon pienentämistä. *Korjaus:* Painonhallinta on hyvinvoinnin ylläpitämistä: ruokailun, liikkumisen, levon ja jaksamisen tasapainoa, ei lukujen tavoittelua.
-- **Virhe 4 (lause 6).** Ruokavalinnat eivät johdu vain tahdonvoimasta. *Korjaus:* Valinnat syntyvät oloissa, kuten hinnassa, saatavuudessa, kulttuurissa ja ajassa. Yhteiskunta ja yhteisö vaikuttavat siihen, onko hyvä vaihtoehto helppo.
-- **Virhe 5 (lause 7).** Syömishäiriöön voi sairastua kuka tahansa, eikä se johdu yhdestä syystä. *Korjaus:* Syömishäiriöt ovat vakavia sairauksia, joihin vaikuttavat monet tekijät. Ne eivät ole kenenkään vika, ja niihin saa apua ja niistä voi toipua.
-
-Lauseet 2, 4 ja 8 ovat oikein.
+1. **b)** D-vitamiini säätelee kalsiumin imeytymistä. C-vitamiini auttaa raudan imeytymisessä, ja se on houkutteleva väärä vaihtoehto.
+2. **c)** C-vitamiini parantaa kasvien raudan imeytymistä. Kahvi, tee ja kalsium heikentävät sitä.
+3. **a)** Jodi kuuluu kilpirauhashormoniin. Hapen kuljetus on raudan tehtävä.
+4. **b)** Rypsiöljy on pehmeää rasvaa. Voi, kookosrasva ja rasvainen liha ovat kovaa rasvaa.
+5. **b)** Ainesosat luetellaan painon mukaan, joten ensimmäisenä oleva on tuotteessa eniten.
+6. **b)** Alaosa kuvaa päivittäisen ruokavalion perustaa. Harvemmin syötävät ruoat ovat ylempänä.
+7. **c)** Luustoa tukevat kalsium, D-vitamiini ja painoa kantava liikunta. Tupakointi pienentää luumassaa.
+8. **b)** Täydennetyt tuotteet ovat usein tärkeitä vegaanisessa ruokavaliossa, ja ruokavalio vaatii suunnittelua.
+9. **b)** Paino on vain yksi tieto kehosta. Ulkonäkö ei kerro terveydestä.
+10. **b)** Valinnat syntyvät neljällä tasolla, eivät tahdonvoimasta yksin.
 
 **Pisteytys**
 
 *Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
 
-- Jokainen viidestä virheestä 4 p: virheen tunnistaminen ja selitys, miksi se on väärin, 2 p; täsmällinen korjaus käsitteineen 2 p. Yhteensä 5 × 4 p = 20 p.
-- Oikean lauseen merkitseminen virheeksi: −1 p kerrallaan (ei alle nollan tehtävästä).
+- Oikea vastaus 2 p, väärä −1 p, tyhjä 0 p. Yhteensä enintään 10 × 2 p = 20 p. Tehtävän pisteet eivät mene alle nollan.
 
-*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A): käsitteiden käyttö (ravinto, painonhallinta, terveys), soveltaminen (esimerkit), analysointi (miksi väite on liian kapea), arviointi, argumentaatio ja kokonaisuus (selkeä rakenne virhe kerrallaan).
+*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (ravintoaine, painonhallinta, taustatekijä), soveltaminen (kohdat 2 ja 8), analysointi (kohta 9), arviointi ja argumentointi (miksi houkutteleva vaihtoehto on väärä).
 
 **Yhteensä:** 20 p
 
 **Tyypilliset virheet**
 
-- Virhe korjataan pelkällä kieltolauseella eikä kerrota, mikä on oikein.
-- Painosta kirjoitetaan korjauksessa lukuja tai tavoitteita.
-- Oikea lause 2, 4 tai 8 merkitään virheeksi.
-- Syömishäiriön syyksi nimetään yksi tekijä tai syyllistetään sairastunutta.
-- Korjaus moralisoi ("pitäisi syödä paremmin") eikä selitä oloja.
+- Arvataan kaikkiin kohtiin, vaikka väärä vastaus maksaa pisteen ja tyhjä ei maksa mitään.
+- C-vitamiini ja D-vitamiini tai jodi ja rauta sekoitetaan.
+- Painon ajatellaan kertovan terveydestä yksin.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -287,8 +321,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 - Kohdat a–d, jokainen 2 p: oikea kuvaus molemmista sivuista 1 p ja perustelu tai esimerkki aineistosta 1 p. Yhteensä 8 p.
 - Kohta e: perusteltu kanta ja luotettavuuden arviointikriteeri 2 p.
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
-*Tiedonkäsittely 10 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+*Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); viisi kohtaa: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
 - 8–10 p: käsitteet (terveys, painonhallinta, hyvinvointi, painoleima) ovat täsmällisiä; sivuja verrataan vastakkain jokaisessa kohdassa; kanta on perusteltu.
 - 4–7 p: sivut kuvataan oikein, mutta vertailu jää erilliseksi kuvaukseksi tai perustelut yleisiksi.
@@ -301,7 +336,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Sivut kuvataan peräkkäin, ei vertailla.
 - Sivua A pilkataan tai sen lukijoita syyllistetään.
 - Kohdassa c ei kerrota mekanismia: miten sivu vaikuttaa.
-- Kohdassa e ei nimetä arviointikriteeriä.
 - Vastaus antaa lukijalle ruokavalio-ohjeita.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
@@ -310,39 +344,38 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** *Yhteiskunnallisia tekijöitä* ovat maksuton kouluruoka, ruokalan budjetti, lukujärjestyksen sidos bussien aikatauluihin ja ruoan hinta kaupassa. *Yhteisöllisiä tekijöitä* ovat opiskelijakunnan toiminta, ruokalan jono ja yhteisten ruokailuhetkien mahdollisuus. *Yksilöllisiä tekijöitä* ovat se, ehtiikö opiskelija syödä, ja se, onko hänellä varaa ostaa oma lounas. Erityisruokavaliot liittyvät yksilöön ja ruokalan tarjontaan. Voimavaroja ovat maksuton ruoka ja opiskelijakunta; kuormittavia ovat jono, lyhyt tauko ja rajalliset vaihtoehdot.
+**a)** Kaavion keskellä on "ruokailu koulupäivänä". Nuolet menevät keskelle seuraavista tekijöistä.
+*Lyhyt tauko* (yhteiskunta, kuormitus): lukujärjestys ja bussiaikataulut rajaavat aikaa. *Ruokalan budjetti* (yhteiskunta, kuormitus): vaikuttaa siihen, mitä on tarjolla. *Maksuton kouluruoka* (yhteiskunta, voimavara): ruoka on saatavilla ilman omaa rahaa. *Pitkä jono* (yhteisö, kuormitus): vie tauon ajan. *Opiskelijakunnan ehdotus* (yhteisö, voimavara): opiskelijat vaikuttavat omaan arkeensa. *Erityisruokavalio ja varat* (yksilö, kuormitus): jos vaihtoehtoa ei ole tai omaa lounasta ei voi ostaa, ruokailu vaikeutuu.
+Lisäksi nuoli lyhyestä tauosta jonoon näyttää, että tekijät kasautuvat.
 
-**b)** *Lyhyt tauko ja pitkä jono:* kun opiskelija ei ehdi syödä rauhassa, ruokailu jää vajaaksi tai kiireiseksi. Silloin energiaa ja ravintoaineita voi tulla vähemmän, ja jaksaminen ja keskittyminen koulupäivän jälkipuoliskolla heikkenevät, mikä vaikuttaa oppimiseen.
-*Rajalliset vaihtoehdot:* jos kasvisruokaa tai erityisruokavalioon sopivaa ruokaa ei riitä, osa opiskelijoista ei voi syödä ruokalassa. Heille ruokailu vaikeutuu, ja he joutuvat kantamaan kustannukset itse, mikä voi kuormittaa taloutta ja jaksamista.
+**b)** Ketju *lyhyt tauko, pitkä jono, kiireinen tai väliin jäävä ruokailu, väsymys iltapäivällä, oppimisen vaikeutuminen*: kun jonotus syö tauon, ruokailu jää kiireiseksi tai vajaaksi. Silloin energiaa ja ravintoaineita voi tulla vähemmän ja keskittyminen heikkenee iltapäivällä. Vaikutusta voi muuttaa se, että ruokailuajat porrastetaan tai ruokailupisteitä on enemmän. Vaikutus ei ole sama kaikilla: jos opiskelija ostaa lounaan kaupasta tai ottaa eväät, jono vaikuttaa häneen vähemmän.
 
-**c)** Tilanne voi kasvattaa eriarvoisuutta. Ne, joiden perheellä on varaa ostaa omaa ruokaa, selviävät, mutta ne, jotka luottavat maksuttomaan ruokaan, jäävät vähemmälle, jos jono on liian pitkä. Samoin erityisruokavalioista riippuvat opiskelijat ovat huonommassa asemassa. Toisaalta budjetti on todellinen ja rehtorin perustelu liikenneyhteyksistä myös, joten kaikkea ei voi ratkaista kerralla.
-*Ehdotus 1:* Koulu lisää ruokailupisteitä ja porrastaa ruokailuajat, jolloin jono lyhenee ilman, että lukujärjestyksen bussisidos muuttuu.
-*Ehdotus 2:* Kunta ja koulu varaavat erityisruokavalioille ja kasvisvaihtoehdoille oman osuuden budjetista ja kertovat tarjonnasta etukäteen. Näin maksuton ruoka tavoittaa kaikki.
+**c)** *Esityksen malli:* "Esitämme, että ruokailuajat porrastetaan ja ruokailupisteitä lisätään, jotta jono lyhenee. Muutos auttaa eniten niitä, jotka luottavat maksuttomaan kouluruokaan, ja niitä, joiden erityisruokavaliolle ei nyt ole riittävästi vaihtoehtoja. Ymmärrämme, että bussiaikataulut ovat kunnan päätettävissä, joten emme pyydä muuttamaan koulupäivän alkua tai loppua. Ehdotamme, että ruokalan budjetista varataan kasvisruoalle ja erityisruokavalioille oma osuus ja että tarjonnasta kerrotaan etukäteen. Ehdotamme kokeilua yhdeksi jaksoksi ja kokemusten kysymistä opiskelijoilta."
 
 **Pisteytys**
 
 *Sisältö 15 p:*
 
-- a) Tekijöitä vähintään kolmelta tasolta oikein luokiteltuna 3 p; voimavarojen ja kuormittavien tekijöiden erottaminen 2 p. Yhteensä 5 p.
-- b) Kaksi vaikutusmekanismia, kumpikin ketjuna aineiston tekijästä jaksamiseen tai oppimiseen, 2 p kumpikin. Yhteensä 4 p.
-- c) Eriarvoisuuden arviointi: kenelle vaikutus kohdistuu ja miksi 1 p, vastakkainen näkökulma 1 p; kaksi ehdotusta, joissa on toimija, keino ja perustelu, 2 p kumpikin. Yhteensä 6 p.
+- a) Viisi aineiston tekijää kaaviossa 5 p; taso oikein vähintään neljällä 2 p; voimavara tai kuormitus merkitty 1 p; tekijöiden yhteydet nuolilla 1 p. Yhteensä 9 p.
+- b) Valittu ketju etenee tekijästä jaksamiseen ja oppimiseen 3 p; vaikutusta muuttava tekijä tai poikkeus 1 p. Yhteensä 4 p.
+- c) Esitys sisältää konkreettisen pyynnön 1 p ja kenelle se hyödyttää 1 p. Yhteensä 2 p.
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
-*Tiedonkäsittely 15 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+*Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); viisi kohtaa: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
-- 12–15 p: käsitteet (taustatekijä, voimavara, vaikutusmekanismi, eriarvoisuus) ovat täsmällisiä; analyysi nojaa aineistoon; arvio punnitsee eri näkökulmia; ehdotukset ovat realistisia ja perusteltuja; vastaus etenee kohdittain.
-- 6–11 p: sisältö on pääosin oikein, mutta aineistoon viitataan vähän, arvio on yksipuolinen tai ehdotukset jäävät perustelematta.
-- 0–5 p: vastaus luettelee asioita, jää yleiselle tasolle tai ei käytä aineistoa.
+- 12–15 p: kaavio on selkeä ja nojaa aineistoon; käsitteet (taustatekijä, voimavara, vaikutusmekanismi) ovat täsmällisiä; esitys punnitsee rehtorin ja ruokalan rajoitteita ja perustelee pyynnöt; teksti on asiallista ja kohdennettua.
+- 6–11 p: kaavio on pääosin oikein, mutta nuolet jäävät perustelematta tai esityksestä puuttuu rajoitteiden huomiointi tai hyötyjien erittely.
+- 0–5 p: kaavio on luettelo ilman yhteyksiä, esitys yleinen tai aineistoa ei käytetä.
 
-Tehtävänannon osapisteet (a 10 p, b 8 p, c 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+Osapisteet sisältävät sekä sisällön että tiedonkäsittelyn: a 10 p, b 8 p, c 12 p. Esitys arvioidaan tekstilajinsa mukaan: vastaanottaja, pyyntö ja perustelu.
 
 **Yhteensä:** 30 p
 
 **Tyypilliset virheet**
 
-- Aineistoa ei käytetä, vaan vastaus kertoo yleisesti ruoasta.
-- Ehdotukset kohdistuvat vain yksilöön ("opiskelijoiden pitäisi ehtiä syödä paremmin").
-- Eriarvoisuus mainitaan, mutta ei kerrota, keihin se kohdistuu ja miksi.
-- Mekanismi pysähtyy puoliväliin ("ei ehdi syödä") eikä etene jaksamiseen tai oppimiseen.
+- Kaavio on luettelo tekijöistä, eikä nuolista näe, miten ne vaikuttavat toisiinsa.
+- Esitys kohdistuu vain yksilöön ("opiskelijoiden pitäisi ehtiä syödä paremmin").
+- Esitys sivuuttaa rajoitteet, joten pyyntö ei ole toteutettavissa.
 - Vastaus antaa ruokavalio-ohjeita tai arvioi opiskelijoiden syömistä.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
@@ -374,7 +407,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: ravinto, taustatekijä, painonhallinta, ruokapuhe. | Esittele ravinnon tehtävät ja neljä tasoa. Selitä, että painonhallinta tarkoittaa hyvinvointia, ei lukuja. Älä käytä esimerkkejä painosta tai ruokamääristä. | Jaa käsitteet paperilla. | Esittele vain ravinnon tehtävät ja tasot. |
 | Työskentely | 25 | Tehtävä 1 (20 min) yksin tai pareittain, sitten Tehtävän 2 vaiheet 1–2 (5 min). | Kierrä ja kysy: miksi tämä tekijä on tällä kehällä? Muistuta, että analysoidaan Samia, ei itseä. | Pari tekee yhteiset kehät. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät valitsevat kaksi tekijää, joihin koulu tai kunta voisi vaikuttaa, ja ehdottavat keinon. | Kokoa ehdotukset taululle tasoittain. Nosta esiin, että ruokailun oloihin voi vaikuttaa. | Yksin: kirjoita kaksi ehdotusta. | Yksi yhteinen keskustelu. |
-| Koeharjoitus ja exit | 10 | K1:n virheet 1–2 yksin (7 min) ja tarkistus (3 min). Exit-lappu: yksi käsite, joka on vielä epäselvä. | Näytä K1:n pisteytys ja kysy: mistä neljä pistettä syntyy? | Paperilla. | Tarkistus kotona. |
+| Koeharjoitus ja exit | 10 | K1:n kohdat 1–5 yksin (7 min) ja tarkistus (3 min). Exit-lappu: yksi käsite, joka on vielä epäselvä. | Näytä K1:n pisteytys ja kysy: mitä väärä vastaus maksaa? | Paperilla. | Tarkistus kotona. |
 | Puskuri | 5 | Kysymyksiä. Lopuksi kerro sivun lopun Apua ja tukea -osiosta. | Muistuta opiskeluterveydenhuollosta ja avun hakemisesta. | – | – |
 
 ### Tuntisuunnitelma (60 min)
@@ -386,7 +419,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Lyhyt alustus | 8 | Opiskelijat kirjaavat käsitteet. | Esittele ravinnon tehtävät, tasot ja painonhallinta hyvinvointina. | Jaa käsitteet paperilla. | Painonhallinta työskentelyn jälkeen. |
 | Työskentely | 25 | Tehtävä 1 (20 min), sitten Tehtävän 2 vaiheet 1–2 (5 min). | Kierrä ja kysy perusteluja. | Pari tekee yhteiset kehät. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit valitsevat yhden tekijän ja ehdottavat, miten koulu voisi tukea ruokailua. | Kokoa kolme ehdotusta taululle. | Yksin paperille. | Yksi yhteinen ehdotus. |
-| Koeharjoitus ja exit | 7 | K1:n virhe 1 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten neljä pistettä jakautuu. | Paperilla. | Tarkistus kotona. |
+| Koeharjoitus ja exit | 7 | K1:n kohdat 1–3 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten väärästä vähennetään. | Paperilla. | Tarkistus kotona. |
 | Puskuri | 2 | Kysymykset. Muistutus Apua ja tukea -osiosta. | Kerro K1–K3:sta kotiharjoituksina. | – | – |
 
 ### Tuntisuunnitelma (45 min)
@@ -411,7 +444,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Avoimet kysymykset
 
-- Mikä ohjaa ruokavalintoja enemmän: yksilön tahto vai olot?
 - Miten ruokapuhe voi tukea tai kuormittaa hyvinvointia?
 - Miksi paino ei yksin kerro terveydestä?
 - Miten koulu voi tukea hyvää ruokailua kaikille?
@@ -427,9 +459,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Eriyttäminen
 
-**Helpompi polku:** Tee Tehtävässä 1 vain kolme kehää (yksilö, yhteisö, yhteiskunta) ja sijoita neljä tekijää. Tehtävässä 2 käsittele vain kommentit (a) ja (c). Koetehtävistä K1:n kaksi ensimmäistä virhettä riittää.
+**Helpompi polku:** Tee Tehtävässä 1 vain kolme kehää (yksilö, yhteisö, yhteiskunta) ja sijoita neljä tekijää. Tehtävässä 2 käsittele vain kommentit (a) ja (c). Koetehtävistä K1:n viisi ensimmäistä kohtaa riittää.
 
-**Syvempi polku:** Etsi Tehtävän 1 tapauksesta tekijä, joka kuuluu kahdelle tasolle, ja perustele molemmat. Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn kuuden kriteerin avulla. Vertaa ruokailua [opinto-ohjauksen hyvinvointiaiheeseen](https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/): mitä samaa ja mitä eri näkökulmaa niissä on?
+**Syvempi polku:** Etsi Tehtävän 1 tapauksesta tekijä, joka kuuluu kahdelle tasolle, ja perustele molemmat. Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn viiden arviointikohdan avulla. Vertaa ruokailua [opinto-ohjauksen hyvinvointiaiheeseen](https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/): mitä samaa ja mitä eri näkökulmaa niissä on?
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Kehiin voi kirjoittaa omalla kielellä; koetehtävissä harjoitellaan suomenkielisiä käsitteitä.
 

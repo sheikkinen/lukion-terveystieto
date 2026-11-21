@@ -24,65 +24,23 @@ official_links:
   - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
   - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", read: 2026-11-21}
   - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", read: 2026-11-21}
+  - {title: "Mitä stressi on? (Mielenterveystalo)", url: "https://www.mielenterveystalo.fi/fi/omahoito/opiskelu-uupumuksen-ehkaisyn-omahoito-ohjelma/mita-stressi", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
+  - {title: "Stressin hallinta (MIELI)", url: "https://mieli.fi/tyoelama/muutokset-ja-haasteet/stressi/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
+  - {title: "Alkoholi (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/alkoholi", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
+  - {title: "Nikotiinituotteet (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
 yearly_facts: [kriisipuhelimet, opiskeluterveydenhuolto]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
-  - title: "Terveystiedon LOPS 2019 -tukimateriaali"
-    url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali"
-    publisher: "Opetushallitus"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opettaja
-    read: 2026-11-21
-  - title: "TE1 Terveys voimavarana (verkkokurssin runko)"
-    url: "https://aoe.fi/#/materiaali/1113"
-    publisher: "Schildtin lukio (aoe.fi)"
-    licence_class: open-cc-by-sa
-    licence: "CC BY-SA 4.0"
-    audience: opettaja
-    read: 2026-11-21
-  - title: "TE01 Terveys voimavarana, verkko-opintojakso"
-    url: "https://aoe.fi/#/materiaali/1852"
-    publisher: "Omnia, Espoon aikuislukio (aoe.fi)"
-    licence_class: open-cc-by
-    licence: "CC BY 4.0"
-    audience: opettaja
-    read: 2026-11-21
-  - title: "Mielenterveystalo Nuoret"
-    url: "https://www.mielenterveystalo.fi/fi/nuoret"
-    publisher: "Mielenterveystalo.fi (HUS)"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija
-    read: 2026-11-21
-  - title: "Nyyti ry"
-    url: "https://www.nyyti.fi/"
-    publisher: "Nyyti ry"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija
-    read: 2026-11-21
-  - title: "Kriisipuhelin"
-    url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/"
-    publisher: "MIELI Suomen Mielenterveys ry"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija
-    read: 2026-11-21
-  - title: "Sekasin-chat"
-    url: "https://sekasin.fi/"
-    publisher: "Sekasin-kollektiivi"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija
-    read: 2026-11-21
-  - title: "Opinto-ohjaussivusto: Opiskelutaidot"
-    url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/02-opiskelutaidot/"
-    publisher: "Lukion opinto-ohjaus (sisarsivusto)"
-    licence_class: open-cc-by
-    licence: "CC BY 4.0"
-    audience: opiskelija ja opettaja
-    read: 2026-11-21
+  - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
+  - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", licence_class: open-cc-by-sa, licence: "CC BY-SA 4.0", audience: opettaja, read: 2026-11-21}
+  - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", licence_class: open-cc-by, licence: "CC BY 4.0", audience: opettaja, read: 2026-11-21}
+  - {title: "Mielenterveystalo Nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi (HUS)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
+  - {title: "Nyyti ry", url: "https://www.nyyti.fi/", publisher: "Nyyti ry", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
+  - {title: "Kriisipuhelin", url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/", publisher: "MIELI Suomen Mielenterveys ry", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
+  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin-kollektiivi", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
+  - {title: "Opinto-ohjaussivusto: Opiskelutaidot", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/02-opiskelutaidot/", publisher: "Lukion opinto-ohjaus (sisarsivusto)", licence_class: open-cc-by, licence: "CC BY 4.0", audience: opiskelija ja opettaja, read: 2026-11-21}
+  - {title: "Mielenterveystalo: mitä stressi on", url: "https://www.mielenterveystalo.fi/fi/omahoito/opiskelu-uupumuksen-ehkaisyn-omahoito-ohjelma/mita-stressi", publisher: "Mielenterveystalo.fi (HUS)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
+  - {title: "MIELI: stressin hallinta", url: "https://mieli.fi/tyoelama/muutokset-ja-haasteet/stressi/", publisher: "MIELI Suomen Mielenterveys ry", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
 exam_tasks:
   - {id: K1, type: taulukon-taydentaminen, part: A20, points: 20, minutes: 25, codes: [TE1.t1, TE1.s6]}
   - {id: K2, type: teorian-soveltaminen, part: B20, points: 20, minutes: 35, codes: [TE1.t3, TE1.t1, TE1.s6]}
@@ -106,7 +64,7 @@ last_reviewed: 2026-11-21
 
 **Tämän aiheen jälkeen**
 
-1. Osaan selittää, mitä stressi on, ja erottaa tilanteen, jossa stressi auttaa, tilanteesta, jossa se kuormittaa.
+1. Osaan selittää, mitä stressi on, ja vertailla eustressiä ja distressiä sekä kuvata, miten tunteet ja stressi voivat vaikuttaa terveyteen.
 2. Osaan kuvata ketjuna, miten kuormitus kasautuu ja miksi pitkittynyt kuormitus ilman palautumista voi heikentää hyvinvointia.
 3. Osaan erottaa kehityskriisin ja traumaattisen kriisin toisistaan ja kuvata kriisin neljä vaihetta.
 4. Osaan arvioida, miten yksilö, yhteisö ja yhteiskunta voivat vahvistaa kuormituksen hallintaa, ja soveltaa selviytymiskeinojen jaottelua kuvitteellisessa tilanteessa.
@@ -114,15 +72,30 @@ last_reviewed: 2026-11-21
 
 ### Mitä stressi on?
 
-Stressi on keholle ja mielelle tuleva reaktio vaatimuksiin tai uhkaan. Elimistö käynnistää hälytystilan: stressihormonit nopeuttavat sykettä ja terävöittävät tarkkaavaisuutta. Lyhytaikaisena stressi voi auttaa, esimerkiksi ennen esitystä tai koetta. Se on tarkoituksenmukainen reaktio.
+Stressi on keholle ja mielelle tuleva reaktio vaatimuksiin tai uhkaan. Stressi ei ole sairaus eikä heikkouden merkki. Kuormitus syntyy, kun hälytystila jatkuu eikä keho ja mieli pääse palautumaan.
 
-Ongelma syntyy, kun hälytystila jatkuu eikä keho ja mieli pääse palautumaan. Silloin puhutaan kuormituksesta. Stressi ei ole sairaus eikä heikkouden merkki. Se kuuluu ihmisen normaaliin toimintaan.
+### Eustressi ja distressi
+
+Stressin kaksi puolta voi vertailla ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/omahoito/opiskelu-uupumuksen-ehkaisyn-omahoito-ohjelma/mita-stressi), [MIELI](https://mieli.fi/tyoelama/muutokset-ja-haasteet/stressi/)):
+
+| | Eustressi | Distressi |
+|---|---|---|
+| Mitä se on | myönteinen, energiaa antava stressi | haitallinen stressi, kun vaatimukset ylittävät voimavarat |
+| Keho | vireys nousee ja laskee tilanteen jälkeen | hälytystila jää päälle |
+| Näkyminen | innostus, tarmo, keskittyminen | väsymys, ärtyneisyys, univaikeudet, jännittyneisyys |
+| Seuraus | oppimista; palautuminen silti tarpeen | jaksaminen heikkenee |
+
+Sama tilanne voi olla eustressiä yhdelle ja distressiä toiselle. Ero riippuu vaatimusten ja voimavarojen suhteesta, tilanteen hallittavuudesta ja kestosta.
+
+### Miten tunteet ja stressi vaikuttavat terveyteen?
+
+Vaikutus kulkee kolmea reittiä. **Hormonaalinen reitti:** stressihormonit valmistavat toimintaan, mutta pitkään koholla ne kuormittavat elimistöä. **Hermostollinen reitti:** hälytystilassa osa hermostosta on vireessä, ja pitkittyessä se voi näkyä lihasjännityksenä, päänsärkynä, vatsaoireina ja univaikeuksina. **Käyttäytymisen reitti:** kuormitus muuttaa unta, syömistä, liikkumista ja ihmissuhteita. Joskus kuormitusta yritetään helpottaa alkoholilla tai nikotiinilla. Ne ovat elintapatekijöitä, jotka vaikuttavat terveyteen ([THL: alkoholi](https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/alkoholi), [THL: nikotiinituotteet](https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet)), ja niitä käsitellään tarkemmin moduulissa [TE2](../../opetussuunnitelma/). Jos oireet jatkuvat, ota yhteys opiskeluterveydenhuoltoon.
 
 ### Miten kuormitus kasautuu?
 
-Stressi syntyy usein siitä, miten ihminen arvioi vaatimukset ja omat voimavaransa. Jos vaatimukset tuntuvat suuremmilta kuin voimavarat, hälytystila käynnistyy. Siksi sama tilanne stressaa yhtä ja toista ei. Arvioon vaikuttavat esimerkiksi aiemmat kokemukset, tuki ja tilanteen hallittavuus.
+Stressi syntyy usein siitä, miten ihminen arvioi vaatimukset ja omat voimavaransa. Jos vaatimukset tuntuvat suuremmilta kuin voimavarat, hälytystila käynnistyy.
 
-Kuormitus etenee ketjuna: vaatimukset, arvio, stressireaktio ja sen jälkeen palautuminen tai kuormituksen jatkuminen. Jos palautumista ei tule, väsymys kasvaa, ja keskittyminen ja mieliala heikkenevät. Yleisiä merkkejä ovat ärtyneisyys, vetäytyminen ja jännittyneisyys. Ne ovat tavallisia reaktioita, ja niihin on apua. Jos sinulla on oireita, jotka jatkuvat, ota yhteys opiskeluterveydenhuoltoon.
+Kuormitus etenee ketjuna: vaatimukset, arvio, stressireaktio ja sen jälkeen palautuminen tai kuormituksen jatkuminen. Jos palautumista ei tule, väsymys kasvaa, ja keskittyminen ja mieliala heikkenevät. Nämä ovat tavallisia reaktioita, ja niihin on apua.
 
 ### Kriisi
 
@@ -131,7 +104,7 @@ Kriisi tarkoittaa tilannetta, jossa ihmisen tavalliset selviytymiskeinot eivät 
 - **Kehityskriisi** liittyy elämänvaiheen muutokseen, kuten muuttoon, uuden vaiheen alkuun tai ihmissuhteen muutokseen. Se ei aina ole äkillinen.
 - **Traumaattinen kriisi** syntyy äkillisestä, uhkaavasta tai suuresta tapahtumasta, kuten onnettomuudesta tai läheisen menetyksestä.
 
-Kriisin kulkua kuvataan usein neljällä vaiheella (Cullbergin kriisimalli): **sokkivaihe**, **reaktiovaihe**, **käsittelyvaihe** ja **uudelleensuuntautumisvaihe**. Sokissa tapahtunut tuntuu epätodelliselta. Reaktiovaiheessa tunteet ja ajatukset tulvivat. Käsittelyvaiheessa ihminen alkaa ymmärtää tapahtunutta. Uudelleensuuntautumisessa hän rakentaa arkea ja katsoo eteenpäin. Vaiheet eivät aina etene suoraan, ja jokainen kulkee niitä omaan tahtiinsa. Kriisireaktiot ovat normaaleja reaktioita poikkeavaan tilanteeseen, ja tuki helpottaa niitä.
+Kriisin kulkua kuvataan usein neljällä vaiheella (Cullbergin kriisimalli): **sokkivaihe**, **reaktiovaihe**, **käsittelyvaihe** ja **uudelleensuuntautumisvaihe**. Sokissa tapahtunut tuntuu epätodelliselta. Reaktiovaiheessa tunteet ja ajatukset tulvivat. Käsittelyvaiheessa ihminen alkaa ymmärtää tapahtunutta. Uudelleensuuntautumisessa hän rakentaa arkea ja katsoo eteenpäin. Vaiheet eivät aina etene suoraan, ja jokainen kulkee niitä omaan tahtiinsa. Reaktiot ovat normaaleja, ja tuki helpottaa niitä.
 
 ### Keinoja kuormituksen hallintaan
 
@@ -141,7 +114,7 @@ Selviytymiskeinot jaetaan usein kolmeen ryhmään:
 - **tunnekeskeiset keinot** auttavat säätelemään tunteita, esimerkiksi rentoutuminen, puhuminen tai luova tekeminen
 - **sosiaalinen tuki** on toisten antamaa apua, kuuntelua ja neuvoja
 
-Pitkään jatkuva välttely voi helpottaa hetkeksi mutta kasvattaa kuormitusta myöhemmin. Yhtä oikeaa keinoa ei ole: sopiva keino riippuu tilanteesta ja voimavaroista. Palautumista tukevat lepo, ihmissuhteet, mielekäs tekeminen ja luonnossa oleskelu.
+Pitkään jatkuva välttely voi helpottaa hetkeksi mutta kasvattaa kuormitusta myöhemmin. Sopiva keino riippuu tilanteesta ja voimavaroista. Palautumista tukevat lepo, ihmissuhteet, mielekäs tekeminen ja luonnossa oleskelu.
 
 Kuormituksen hallinta ei ole vain yksilön tehtävä. Yhteisö voi tasata aikatauluja ja luoda hyväksyvän ilmapiirin. Yhteiskunta tarjoaa opiskeluhuollon, terveydenhuollon ja kriisityön.
 
@@ -210,7 +183,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
 
-1. Osaan selittää, mitä stressi on, ja erottaa tilanteen, jossa stressi auttaa, tilanteesta, jossa se kuormittaa.
+1. Osaan selittää, mitä stressi on, ja vertailla eustressiä ja distressiä sekä kuvata, miten tunteet ja stressi voivat vaikuttaa terveyteen.
 2. Osaan kuvata ketjuna, miten kuormitus kasautuu ja miksi pitkittynyt kuormitus ilman palautumista voi heikentää hyvinvointia.
 3. Osaan erottaa kehityskriisin ja traumaattisen kriisin toisistaan ja kuvata kriisin neljä vaihetta.
 4. Osaan arvioida, miten yksilö, yhteisö ja yhteiskunta voivat vahvistaa kuormituksen hallintaa, ja soveltaa selviytymiskeinojen jaottelua kuvitteellisessa tilanteessa.
@@ -220,7 +193,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia.
+Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE1 yksin kattaa vain osan ylioppilaskokeesta: loput tulevat moduuleista TE2 ja TE3. Jos tehtävässä on aineisto, vastauksen pitää käyttää sitä, muuten kokonaispisteistä vähennetään 5 p ([ohje](../../opetussuunnitelma/)).
 
 ### K1: Taulukon täydentäminen, 25 min (20 p)
 
@@ -230,23 +203,23 @@ Täydennä taulukko vastausarkille. Kirjoita jokaiselle riville käsitteen merki
 
 | Käsite | Merkitys omin sanoin | Kuvitteellinen esimerkki | Mikä tukee selviytymistä tai palautumista? |
 |---|---|---|---|
-| Lyhytaikainen stressi | | | |
-| Pitkittynyt kuormitus | | | |
+| Eustressi | | | |
+| Distressi | | | |
 | Kehityskriisi | | | |
 | Traumaattinen kriisi | | | |
 | Tunnekeskeinen selviytymiskeino | | | |
 
 ### K2: Teorian soveltaminen, 35 min (20 p)
 
-*Osa B20 · Harjoittelee: Osaan 2, 4, 5*
+*Osa B20 · Harjoittelee: Osaan 1, 2, 4, 5*
 
 *Aineisto (kuvitteellinen):* **Sami** valmistautuu ylioppilaskirjoituksiin. Samalla hänen paras ystävänsä on muuttanut toiselle paikkakunnalle. Sami huomaa, että keskittyminen on heikentynyt ja hän on ärtynyt. Hän on lopettanut kavereiden tapaamisen ja yrittää selvitä lukemalla vielä enemmän. Hän ajattelee: "Jos pyydän apua, muut luulevat, etten pärjää." Lukiossa on opiskeluhuolto, mutta Sami ei ole ottanut siihen yhteyttä.
 
-a) Kuvaa Samin tilanne stressin ketjuna: vaatimukset, arvio, stressireaktio ja palautuminen. (8 p)
+a) Kuvaa Samin tilanne stressin ketjuna: vaatimukset, arvio, stressireaktio ja palautuminen. (6 p)
 
-b) Luokittele Samin nykyiset selviytymiskeinot ongelmakeskeisiksi, tunnekeskeisiksi tai sosiaaliseksi tueksi ja arvioi niiden vahvuudet ja rajat. (6 p)
+b) Luokittele Samin nykyiset selviytymiskeinot ongelmakeskeisiksi, tunnekeskeisiksi tai sosiaaliseksi tueksi ja arvioi niiden rajat. (5 p)
 
-c) Ehdota kaksi keinoa, joilla Samin kuormitusta voitaisiin vähentää, ja kerro, mikä niistä on yhteisön tai koulun tehtävä. (6 p)
+c) Selitä, miten Samin kuormitus voi vaikuttaa hänen terveyteensä kolmea reittiä (hormonaalinen, hermostollinen, käyttäytymisen kautta), ja ehdota yksi keino, jonka koulu voi tehdä. (9 p)
 
 ### K3: Eettinen analyysi, 50 min (30 p)
 
@@ -256,9 +229,9 @@ Tämä tehtävä käsittelee ystävän huolta. Voit ohittaa sen, jos aihe tuntuu
 
 *Aineisto (kuvitteellinen):* **Kim** ja **Noor** ovat olleet ystäviä pitkään. Noor on viime aikoina vetäytynyt ja vaikuttaa hyvin uupuneelta, ja hän on sanonut asioita, jotka huolestuttavat Kimiä. Kim on päättänyt, että asiaan tarvitaan aikuinen. Hän pohtii, miten asian voi tehdä niin, että Noorin luottamus säilyy. Kim pelkää, että Noor suuttuu ja ystävyys päättyy. Koulussa on opiskeluhuolto, jossa Kim voisi käydä.
 
-a) Tunnista tilanteen osapuolet ja eettiset arvot ja periaatteet, jotka ovat vastakkain. (10 p)
+a) Tunnista tilanteen osapuolet ja eettiset arvot ja periaatteet, jotka ovat vastakkain. (8 p)
 
-b) Esitä kaksi vaihtoehtoista tapaa, joilla Kim voi ottaa aikuisen mukaan, ja punnitse niiden seurauksia. (10 p)
+b) Esitä kaksi vaihtoehtoista tapaa, joilla Kim voi ottaa aikuisen mukaan, ja punnitse niiden seurauksia. (12 p)
 
 c) Perustele kannanotto siitä, miten Kimin kannattaa toimia, ja kerro, miten koulu ja yhteiskunta voivat tukea sekä Nooria että Kimiä. (10 p)
 
@@ -270,8 +243,8 @@ c) Perustele kannanotto siitä, miten Kimin kannattaa toimia, ja kerro, miten ko
 
 | Käsite | Merkitys omin sanoin | Kuvitteellinen esimerkki | Mikä tukee selviytymistä tai palautumista? |
 |---|---|---|---|
-| Lyhytaikainen stressi | Elimistön hälytystila, joka kestää vaatimuksen ajan ja auttaa suoriutumaan. Sen jälkeen keho palautuu. | Jännitys ennen esitelmää terävöittää keskittymistä. | Palautuminen esityksen jälkeen ja tunne, että tilanteen hallitsee. |
-| Pitkittynyt kuormitus | Hälytystila jatkuu, eikä palautumista tule. Väsymys kasvaa ja keskittyminen ja mieliala heikkenevät. | Pitkään jatkuva kiire, jossa ei ehdi pitää taukoa. | Tehtävien tasaaminen, tauot ja tuki ihmisiltä sekä tarvittaessa apu ammattilaiselta. |
+| Eustressi | Myönteinen, energiaa antava stressi, joka auttaa suoriutumaan. Keho palautuu tilanteen jälkeen. | Jännitys ennen esitelmää terävöittää keskittymistä. | Palautuminen esityksen jälkeen ja tunne, että tilanteen hallitsee. |
+| Distressi | Haitallinen stressi: hälytystila jatkuu, eikä palautumista tule. Väsymys kasvaa ja keskittyminen ja mieliala heikkenevät. | Pitkään jatkuva kiire, jossa ei ehdi pitää taukoa. | Tehtävien tasaaminen, tauot ja tuki ihmisiltä sekä tarvittaessa apu ammattilaiselta. |
 | Kehityskriisi | Elämänvaiheen muutoksen aiheuttama tilanne, jossa tutut keinot eivät hetkeksi riitä. Ei aina äkillinen. | Muutto toiselle paikkakunnalle opiskelemaan. | Ystävät, uudet tutut, rutiinit ja tieto siitä, että kriisi on tavallinen. |
 | Traumaattinen kriisi | Äkillinen, uhkaava tai suuri tapahtuma, joka järkyttää ja johon ei voi varautua. | Äkillinen onnettomuus tai läheisen menetys. | Turvallisuus, läheisten tuki, puhuminen ja kriisiapu. |
 | Tunnekeskeinen selviytymiskeino | Keino, joka säätelee tunteita eikä muuta tilannetta itse. | Rentoutuminen tai puhuminen ystävälle kuormittavasta tilanteesta. | Keino auttaa jaksamaan, ja sitä voi täydentää ongelmakeskeisellä keinolla. |
@@ -283,13 +256,13 @@ c) Perustele kannanotto siitä, miten Kimin kannattaa toimia, ja kerro, miten ko
 - Jokainen viidestä rivistä 4 p: merkitys 2 p, esimerkki 1 p, tukeva tekijä 1 p. Yhteensä 5 × 4 p = 20 p.
 - Merkitys vain nimeämällä toistettu käsite ("kriisi on kriisi") 0 p.
 
-*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A): käsitteiden käyttö (stressi, kuormitus, kriisi, selviytymiskeino), soveltaminen (esimerkit), analysointi (miksi esimerkki sopii), arviointi, argumentaatio ja kokonaisuus (selkeä rivi kerrallaan).
+*Tiedonkäsittely* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); palautteeksi, ei pisteitä osassa A): käsitteiden käyttö (stressi, kuormitus, kriisi, selviytymiskeino), soveltaminen (esimerkit), analysointi (miksi esimerkki sopii), arviointi, argumentaatio ja kokonaisuus (selkeä rivi kerrallaan).
 
 **Yhteensä:** 20 p
 
 **Tyypilliset virheet**
 
-- Lyhytaikainen stressi esitetään aina haitallisena.
+- Eustressi ja distressi sekoitetaan tai eustressi esitetään aina haitallisena. Sama tilanne voi olla kumpaakin.
 - Kehityskriisi ja traumaattinen kriisi sekoitetaan, koska tyyppi päätellään vain tapahtuman kokoon.
 - Esimerkki on liian yleinen eikä sovi käsitteeseen.
 - Tukeva tekijä on yksilön oma tahdonvoima, vaikka tukea on myös yhteisöissä ja palveluissa.
@@ -304,23 +277,25 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **b)** *Ongelmakeskeinen keino:* lukeminen lisää. Se kohdistuu tilanteeseen, mutta ilman taukoja ja ilman suunnitelmaa se ei vähennä vaatimuksia ja voi lisätä kuormitusta. *Tunnekeskeinen keino:* ei näy selvästi; ärtymystä ei käsitellä. *Sosiaalinen tuki:* Sami on vetäytynyt ja jättänyt opiskeluhuollon käyttämättä, joten tuki puuttuu. Vahvuus: Sami haluaa ratkaista tilanteen. Raja: keino on yksipuolinen eikä sisällä palautumista.
 
-**c)** *Ehdotus 1:* Sami sopii opettajan kanssa lukemisen aikataulusta ja ottaa mukaan tauot. Tämä on sekä Samin että koulun tehtävä, ja se pilkkoo vaatimukset ja antaa palautumisen. *Ehdotus 2:* Sami ottaa yhteyttä opiskeluhuoltoon tai kertoo ystävälle tilanteesta. Opiskeluhuolto kuuluu yhteiskunnan palveluihin ja koulun tehtäviin: koulun tulee tehdä sen löytäminen helpoksi ja kertoa, että apua voi hakea aikaisessa vaiheessa. Näin kuormitus kevenee ja Sami saa tukea.
+**c)** *Hormonaalinen reitti:* kun palautumista ei tule, stressihormonit pysyvät koholla ja kuormittavat elimistöä, mikä voi heikentää unta ja jaksamista. *Hermostollinen reitti:* hälytystila pitää Samin jännittyneenä, mikä voi näkyä lihasjännityksenä, päänsärkynä tai vatsaoireina ja heikentää keskittymistä. *Käyttäytymisen reitti:* kun Sami lukee yhä enemmän ja jättää tauot ja kaverit pois, uni ja palautuminen kärsivät, ja ihmissuhteiden tuki vähenee. *Ehdotus:* koulu esittelee opiskeluhuollon ryhmille ja sopii opettajien kanssa koeaikataulujen tasaamisesta. Näin Samin kynnys hakea apua madaltuu ja vaatimukset kevenevät.
 
 **Pisteytys**
 
 *Sisältö 10 p:*
 
 - a) Ketjun neljä osaa (vaatimukset, arvio, stressireaktio, palautuminen) poimittu aineistosta 1 p kumpikin. Yhteensä 4 p.
-- b) Selviytymiskeinot luokiteltu oikein (lukeminen ongelmakeskeiseksi; tunnekeskeinen keino ja sosiaalinen tuki puuttuvat tai ovat vähäisiä) 2 p; vähintään yksi vahvuus ja yksi raja perusteltu 1 p. Yhteensä 3 p.
-- c) Kaksi ehdotusta, joissa on keino ja perustelu, 1 p kumpikin; yhteisön tai koulun tehtävä tunnistettu 1 p. Yhteensä 3 p.
+- b) Selviytymiskeinot luokiteltu oikein (lukeminen ongelmakeskeiseksi; tunnekeskeinen keino ja sosiaalinen tuki puuttuvat tai ovat vähäisiä) 1 p; vähintään yksi raja perusteltu 1 p. Yhteensä 2 p.
+- c) Kolme reittiä, kustakin selitys Samin tilanteeseen sovellettuna 1 p kumpikin; ehdotus, jossa on toimija ja keino, 1 p. Yhteensä 4 p.
 
-*Tiedonkäsittely 10 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+*Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); kokonaisarvio viiden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
 - 8–10 p: käsitteet ovat täsmällisiä, ketju etenee aineistosta, keinojen vahvuuksia ja rajoja arvioidaan ja ehdotukset perustellaan.
 - 4–7 p: sisältö on pääosin oikein, mutta ketju jää osittaiseksi tai arvio yleiseksi.
 - 0–3 p: vastaus kuvaa Samia ilman käsitteitä tai antaa vain neuvoja.
 
-Tehtävänannon osapisteet (a 8 p, b 6 p, c 6 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+Tehtävänannon osapisteet (a 6 p, b 5 p, c 9 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 20 p
 
@@ -329,7 +304,8 @@ Tehtävänannon osapisteet (a 8 p, b 6 p, c 6 p) sisältävät sekä sisällön 
 - Samille annetaan neuvoja ("sinun pitäisi rentoutua"), vaikka tehtävä pyytää analyysiä.
 - Ketju jää kahteen osaan (vaatimukset ja stressi), eikä arviota tai palautumista kuvata.
 - Selviytymiskeinot luokitellaan väärin, esimerkiksi lukeminen tunnekeskeiseksi.
-- Ehdotukset ovat vain yksilön omia, eikä yhteisön tai koulun osuutta mainita.
+- Terveysvaikutus mainitaan yleisesti ("stressi on epäterveellistä") eikä reittejä eritellä.
+- Ehdotukset ovat vain yksilön omia, eikä koulun osuutta mainita.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -348,17 +324,19 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 *Sisältö 15 p:*
 
-- a) Osapuolet tunnistettu 1 p; vähintään kolme arvoa tai periaatetta tunnistettu ja nimetty 3 p; vastakkainasettelu selitetty 1 p. Yhteensä 5 p.
-- b) Kaksi toimintatapaa esitetty, kummallekin sekä etu että haitta, 2 p kumpikin. Yhteensä 4 p.
+- a) Osapuolet tunnistettu 1 p; vähintään kolme arvoa tai periaatetta nimetty 1 p; vastakkainasettelu selitetty 1 p. Yhteensä 3 p.
+- b) Kaksi toimintatapaa esitetty 1 p kumpikin; kummallekin etu ja haitta punnittu 2 p kumpikin. Yhteensä 6 p.
 - c) Kannanotto esitetty ja perusteltu arvoilla 2 p; konkreettinen toimintatapa (avoimuus Nooralle, aikuinen, 112 tarvittaessa) 2 p; koulun ja yhteiskunnan tuki 2 p. Yhteensä 6 p.
 
-*Tiedonkäsittely 15 p* (kokonaisarvio kuuden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentaatio, kokonaisuus):
+*Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); kokonaisarvio viiden kriteerin pohjalta: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
 - 12–15 p: eettiset käsitteet (itsemääräämisoikeus, hyvän tekeminen, vahingon välttäminen, luottamus) ovat täsmällisiä; analyysi nojaa aineistoon; vaihtoehtoja punnitaan reilusti molemmin puolin; kannanotto on perusteltu ja kunnioittava; vastaus etenee kohdittain.
 - 6–11 p: sisältö on pääosin oikein, mutta arvoja ei nimetä tai vaihtoehtoja punnitaan yksipuolisesti.
 - 0–5 p: vastaus antaa vain neuvon ilman arvoja ja perusteluja tai ei käytä aineistoa.
 
-Tehtävänannon osapisteet (a 10 p, b 10 p, c 10 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+Tehtävänannon osapisteet (a 8 p, b 12 p, c 10 p) sisältävät sekä sisällön että tiedonkäsittelyn.
+
+- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 30 p
 
@@ -455,7 +433,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Helpompi polku:** Tee Tehtävässä 1 ketjusta vain kolme ensimmäistä kohtaa. Käytä ketjun alkuna: *Kun Aarolla on ..., hän ajattelee ..., ja siksi ...*. Koetehtävästä K1 riittää kolme ensimmäistä riviä.
 
-**Syvempi polku:** Etsi Tehtävän 1 tapauksesta kohta, jossa arvio voisi muuttua, ja kerro, mikä sen muuttaisi. Tee K2 ja K3 kokonaan ja arvioi omaa vastaustasi tiedonkäsittelyn kuuden kriteerin avulla. Vertaa stressiä ja palautumista [opinto-ohjauksen opiskelutaitoihin](https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/02-opiskelutaidot/): mitä samaa ja mitä eri näkökulmaa niissä on?
+**Syvempi polku:** Etsi Tehtävän 1 tapauksesta kohta, jossa arvio voisi muuttua, ja kerro, mikä sen muuttaisi. Tee K2 ja K3 kokonaan ja arvioi omaa vastaustasi tiedonkäsittelyn viiden kriteerin avulla. Vertaa stressiä ja palautumista [opinto-ohjauksen opiskelutaitoihin](https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/02-opiskelutaidot/): mitä samaa ja mitä eri näkökulmaa niissä on?
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Ketjun voi kirjoittaa omalla kielellä; koetehtävissä harjoitellaan suomenkielisiä käsitteitä.
 
