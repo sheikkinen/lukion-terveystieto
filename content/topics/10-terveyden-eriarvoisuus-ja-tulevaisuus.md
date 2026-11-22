@@ -13,7 +13,9 @@ self_study_minutes: 85
 prerequisites: [te3-09-elaman-loppu-potilaan-oikeudet-priorisointi, te1-01-terveys-voimavarana]
 safety_flags: []
 content_note: "Tällä sivulla käsitellään terveyseroja, köyhyyttä ja tulevaisuuden uhkia, kuten ilmastonmuutosta ja pandemioita, yleisellä tasolla. Ne voivat herättää huolta. Kenenkään ei tarvitse kertoa omasta tilanteestaan, ja lopussa on tietoa avusta."
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch10-terveyden-eriarvoisuus"}]
 official_links:
+  - {title: "Visual novel: Terveyden eriarvoisuus Suomessa ja maailmalla sekä tulevaisuuden haasteet", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch10-terveyden-eriarvoisuus", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Social determinants of health (WHO, 6.5.2025)", url: "https://www.who.int/news-room/fact-sheets/detail/social-determinants-of-health", publisher: "Maailman terveysjärjestö (WHO)", read: 2026-11-21}
   - {title: "THL report presents 116 recommendations (Wellbeing Review 2025, THL 7.4.2026)", url: "https://thl.fi/en/our-view/there-are-persistent-inequalities-in-health-and-well-being-in-finland/thl-report-presents-116-recommendations-to-address-current-challenges-in-wellbeing-and-health", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Väestön hyvinvointi (THL)", url: "https://thl.fi/data-ja-tilastot/vaeston-hyvinvointi", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
@@ -45,11 +47,7 @@ linked_materials:
   - {title: "Terve Suomi -tutkimuksen tulokset (THL, 4.9.2026)", url: "https://thl.fi/tervesuomi/tulokset", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
   - {title: "Syövän kustannuskasvu hidastunut (Syöpäsäätiö, 20.5.2025)", url: "https://www.sttinfo.fi/tiedote/71176751/syovan-kustannuskasvu-hidastunut", publisher: "Syöpäsäätiö (STT Info)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
   - {title: "Cancer (WHO, 3.7.2026)", url: "https://www.who.int/news-room/fact-sheets/detail/cancer", publisher: "Maailman terveysjärjestö (WHO)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
-exam_tasks:
-  - {id: K1, type: luettele-ja-luokittele, part: A20, points: 20, minutes: 25, codes: [TE3.s10, TE3.t4]}
-  - {id: K2, type: aineiston-lukeminen, part: B20, points: 20, minutes: 35, codes: [TE3.s10, TE3.t1]}
-  - {id: K3, type: viitekehyksen-soveltaminen, part: C30, points: 30, minutes: 55, codes: [TE3.s10, TE3.s3, TE3.t4]}
-  - {id: K4, type: aineiston-lukeminen, part: B20, points: 20, minutes: 35, codes: [TE3.s10, TE3.s3, TE3.t1]}
+exam_tasks: [{id: K1, type: luettele-ja-luokittele, part: A20, points: 20, minutes: 25, codes: [TE3.s10, TE3.t4]}, {id: K2, type: aineiston-lukeminen, part: B20, points: 20, minutes: 35, codes: [TE3.s10, TE3.t1]}, {id: K3, type: viitekehyksen-soveltaminen, part: C30, points: 30, minutes: 55, codes: [TE3.s10, TE3.s3, TE3.t4]}, {id: K4, type: aineiston-lukeminen, part: B20, points: 20, minutes: 35, codes: [TE3.s10, TE3.s3, TE3.t1]}]
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
 school_adapts: ["Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"]
@@ -170,6 +168,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan kuvata tulevaisuuden terveyshaasteita ja mahdollisuuksia ja arvioida, miten niihin voi varautua.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Terveyden eriarvoisuus Suomessa ja maailmalla sekä tulevaisuuden haasteet](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch10-terveyden-eriarvoisuus). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

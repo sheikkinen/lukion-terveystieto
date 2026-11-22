@@ -13,7 +13,9 @@ self_study_minutes: 90
 prerequisites: [te3-03-tarttumattomat-taudit]
 safety_flags: [sexuality]
 content_note: "Tällä sivulla käsitellään tartuntatauteja, ja yksi koetehtävä koskee kuvitteellista sukupuoliteitse tarttuvaa tartuntatautia. Kenenkään ei tarvitse kertoa omasta terveydestään tai elämästään, ja lopussa on tietoa avusta."
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch04-tartuntataudit"}]
 official_links:
+  - {title: "Visual novel: Tartuntataudit, rokotukset ja mikrobilääkeresistenssi", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch04-tartuntataudit", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Infektioiden tartunta, taudin synty ja leviäminen (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00569", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
   - {title: "Finnish national vaccination programme (THL)", url: "https://thl.fi/en/our-view/it-s-important-to-keep-vaccination-coverage-high/finnish-national-vaccination-programme-which-vaccines-are-recommended-for-different-age-groups-", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Vaccination coverage among children (THL)", url: "https://thl.fi/en/data-and-statistics/vaccinations/vaccination-coverage-among-children", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
@@ -73,11 +75,7 @@ linked_materials:
   - {title: "Laki potilaan asemasta ja oikeuksista 785/1992 (Finlex)", url: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/1992/785", publisher: "Oikeusministeriö (Finlex)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
   - {title: "Norovirus (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00738", publisher: "Suomalainen Lääkäriseura Duodecim", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: yleisö, read: 2026-11-22}
   - {title: "Väestöliitto: seksuaaliterveys", url: "https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/", publisher: "Väestöliitto", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-22}
-exam_tasks:
-  - {id: K1, type: monivalinta, part: A20, points: 20, minutes: 25, codes: [TE3.s4, TE3.t2]}
-  - {id: K2, type: vertailu, part: B20, points: 20, minutes: 35, codes: [TE3.s4, TE3.t2]}
-  - {id: K3, type: viitekehyksen-soveltaminen, part: C30, points: 30, minutes: 55, codes: [TE3.t2, TE3.s4]}
-  - {id: K4, type: eettinen-analyysi, part: C30, points: 30, minutes: 55, codes: [TE3.s4, TE3.t2]}
+exam_tasks: [{id: K1, type: monivalinta, part: A20, points: 20, minutes: 25, codes: [TE3.s4, TE3.t2]}, {id: K2, type: vertailu, part: B20, points: 20, minutes: 35, codes: [TE3.s4, TE3.t2]}, {id: K3, type: viitekehyksen-soveltaminen, part: C30, points: 30, minutes: 55, codes: [TE3.t2, TE3.s4]}, {id: K4, type: eettinen-analyysi, part: C30, points: 30, minutes: 55, codes: [TE3.s4, TE3.t2]}]
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
 school_adapts: ["Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"]
@@ -194,6 +192,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan selittää, miten puhdas vesi ja hygienia katkaisevat tartuntareittejä, miksi kotitestin tulos voi johtaa harhaan ja mitä matkustaja huomioi.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Tartuntataudit, rokotukset ja mikrobilääkeresistenssi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch04-tartuntataudit). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

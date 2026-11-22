@@ -13,7 +13,9 @@ self_study_minutes: 85
 prerequisites: [te3-07-eettisen-analyysin-nakokulmat, te1-06-seksuaaliterveys]
 safety_flags: [sexuality]
 content_note: "Tällä sivulla käsitellään lapsettomuutta, raskaudenkeskeytystä, seulontoja ja geenitietoa laista ja eri näkemyksistä käsin. Aiheet voivat olla joillekin henkilökohtaisia: kenenkään ei tarvitse kertoa omasta elämästään tai kannastaan, tehtävät koskevat kuvitteellisia tilanteita, ja lopussa on tietoa avusta."
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch08-hedelmoityshoidot-ja-seulonnat"}]
 official_links:
+  - {title: "Visual novel: Eettiset ja oikeudelliset kysymykset", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch08-hedelmoityshoidot-ja-seulonnat", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Hedelmöityshoidot (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00870", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
   - {title: "Laki hedelmöityshoidoista 1237/2006", url: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2006/1237", publisher: "Finlex", read: 2026-11-21}
   - {title: "Raskaudenkeskeytys (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00166", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
@@ -166,6 +168,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan kertoa, miten raskaudenkeskeytyksen turvallisuus ja saatavuus vaihtelevat maailmassa, ja arvioida tätä eettisesti.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Eettiset ja oikeudelliset kysymykset](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch08-hedelmoityshoidot-ja-seulonnat). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

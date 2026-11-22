@@ -13,7 +13,9 @@ self_study_minutes: 90
 prerequisites: [te3-02-vaeston-terveyden-muutos]
 safety_flags: []
 content_note: "Tällä sivulla käsitellään syöpää ja pitkäaikaissairauksia, jotka voivat koskettaa läheisiäsi tai sinua. Kenenkään ei tarvitse kertoa omista kokemuksistaan, tehtävät ovat kuvitteellisista tapauksista, ja lopussa on tietoa avusta."
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch03-tarttumattomat-taudit"}]
 official_links:
+  - {title: "Visual novel: Tarttumattomat kansantaudit", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch03-tarttumattomat-taudit", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Noncommunicable diseases (WHO)", url: "https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases", publisher: "Maailman terveysjärjestö (WHO)", read: 2026-11-22}
   - {title: "Ilmaantuvuus (Terveyskirjaston sanasto)", url: "https://www.terveyskirjasto.fi/ltt01290", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
   - {title: "Diabetes (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00011", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
@@ -43,11 +45,7 @@ linked_materials:
   - {title: "Fyysisen toimintakyvyn mittaaminen ja arviointi väestötutkimuksissa (TOIMIA-suositus S029)", url: "https://www.julkari.fi/bitstream/handle/10024/140538/TOIMIA_S029_Fyysisen_toimintakyvyn_mittaaminen_ja_arviointi_vaestotutkimuksissa.pdf?sequence=5", publisher: "TOIMIA-verkosto (THL, Julkari)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja ja tutkijat", read: 2026-11-21}
   - {title: "Nivelreuma - yleisin tulehduksellinen reumasairaus (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/khp00022", publisher: "Suomalainen Lääkäriseura Duodecim (Käypä hoito -potilasversio)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "potilaat", read: 2026-11-22}
   - {title: "Syövän kustannuskasvu hidastunut (Syöpäsäätiö, STT-tiedote)", url: "https://www.sttinfo.fi/tiedote/71176751/syovan-kustannuskasvu-hidastunut", publisher: "Syöpäsäätiö", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "opettaja ja media", read: 2026-11-22}
-exam_tasks:
-  - {id: K1, type: virheiden-tunnistaminen, part: A20, points: 20, minutes: 25, codes: [TE3.s4, TE3.t2]}
-  - {id: K2, type: taulukon-taydentaminen, part: B20, points: 20, minutes: 35, codes: [TE3.s4, TE3.t2]}
-  - {id: K3, type: aineiston-lukeminen, part: C30, points: 30, minutes: 55, codes: [TE3.t2, TE3.s4]}
-  - {id: K4, type: aineiston-lukeminen, part: B20, points: 20, minutes: 35, codes: [TE3.s4, TE3.t2]}
+exam_tasks: [{id: K1, type: virheiden-tunnistaminen, part: A20, points: 20, minutes: 25, codes: [TE3.s4, TE3.t2]}, {id: K2, type: taulukon-taydentaminen, part: B20, points: 20, minutes: 35, codes: [TE3.s4, TE3.t2]}, {id: K3, type: aineiston-lukeminen, part: C30, points: 30, minutes: 55, codes: [TE3.t2, TE3.s4]}, {id: K4, type: aineiston-lukeminen, part: B20, points: 20, minutes: 35, codes: [TE3.s4, TE3.t2]}]
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
 school_adapts: ["Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"]
@@ -172,6 +170,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 7. Osaan selittää, mitä sairauden kustannukset ovat.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Tarttumattomat kansantaudit](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch03-tarttumattomat-taudit). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

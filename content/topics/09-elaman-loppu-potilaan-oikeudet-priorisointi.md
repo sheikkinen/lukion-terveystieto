@@ -13,7 +13,9 @@ self_study_minutes: 85
 prerequisites: [te3-07-eettisen-analyysin-nakokulmat, te3-08-hedelmoityshoidot-abortti-seulonnat-geenit]
 safety_flags: [suicide_selfharm]
 content_note: "Tällä sivulla käsitellään vakavaa sairautta, kuolemaa ja hoitopäätöksiä yleisellä tasolla. Sivulla ei kuvata keinoja eikä yksittäisten ihmisten tarinoita, kenenkään ei tarvitse kertoa omasta elämästään, ja lopussa on tietoa avusta. Voit poistua sivulta tai puhua luotettavan aikuisen kanssa."
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch09-elaman-loppu"}]
 official_links:
+  - {title: "Visual novel: Elämän loppu, elintapojen vapaus ja vastuu, potilaan oikeudet ja priorisointi", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch09-elaman-loppu", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Laki potilaan asemasta ja oikeuksista 785/1992", url: "https://www.finlex.fi/fi/lainsaadanto/1992/785", publisher: "Finlex", read: 2026-11-21}
   - {title: "Hoitotahto (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00809", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
   - {title: "Kuolevan potilaan oireiden hoito (Terveyskirjasto, Käypä hoito -potilasversio)", url: "https://www.terveyskirjasto.fi/khp00072", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
@@ -155,6 +157,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan kuvata eutanasiakeskustelun eri näkemykset niiden omilla perusteilla ottamatta kantaa.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Elämän loppu, elintapojen vapaus ja vastuu, potilaan oikeudet ja priorisointi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch09-elaman-loppu). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

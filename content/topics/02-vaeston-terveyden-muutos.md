@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 85
 prerequisites: [te3-01-terveyskasitykset-ja-selitysmallit]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch02-vaeston-terveyden-muutos"}]
 official_links:
+  - {title: "Visual novel: Miten yhteiskunta, tiede ja teknologia ovat muuttaneet väestön terveyttä", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch02-vaeston-terveyden-muutos", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Kuolleet (Tilastokeskus)", url: "https://stat.fi/fi/tilasto/kuol", publisher: "Tilastokeskus", read: 2026-11-21}
   - {title: "Epidemiological transition (Wikipedia)", url: "https://en.wikipedia.org/wiki/Epidemiological_transition", publisher: "Wikipedia", read: 2026-11-21}
   - {title: "Kansanterveyslaki (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Kansanterveyslaki", publisher: "Wikipedia", read: 2026-11-22}
@@ -40,11 +42,7 @@ linked_materials:
   - {title: "Lapsikuolleisuuden väheneminen ilmentää yhteiskunnan muutosta ja kehitystasoa (Tilastokeskus)", url: "https://stat.fi/artikkelit/2010/art_2010-06-07_007.html?s=0", publisher: "Tilastokeskus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija ja opettaja, read: 2026-11-22}
   - {title: "Penisilliini (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Penisilliini", publisher: "Wikipedia", licence_class: open-cc-by-sa, licence: "CC BY-SA 4.0", audience: syventävä opiskelija ja opettaja, read: 2026-11-22}
   - {title: "Terveys- ja sosiaalipalvelujen historiaa Suomessa (opetusdiat, peda.net)", url: "https://peda.net/id/d6ab74266f7:file/download/cb94834fe7d190ba902d43bd14695675bc98f30d/TE3%20terveys-ja%20sosiaalipalveluiden%20historiaa%20Suomessa.pdf", publisher: "peda.net (opetusmateriaali, tekijä ei ilmene)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
-exam_tasks:
-  - {id: K1, type: taydennys, part: A20, points: 20, minutes: 25, codes: [TE3.s2, TE3.s3, TE3.s4]}
-  - {id: K2, type: viitekehyksen-soveltaminen, part: B20, points: 20, minutes: 35, codes: [TE3.s3]}
-  - {id: K3, type: kuvaajan-vaiheet, part: C30, points: 30, minutes: 55, codes: [TE3.s4, TE3.s2, TE3.t1, TE3.s3]}
-  - {id: K4, type: mallien-jarjestaminen, part: A20, points: 20, minutes: 25, codes: [TE3.s2, TE3.s3, TE3.s4, TE3.t1]}
+exam_tasks: [{id: K1, type: taydennys, part: A20, points: 20, minutes: 25, codes: [TE3.s2, TE3.s3, TE3.s4]}, {id: K2, type: viitekehyksen-soveltaminen, part: B20, points: 20, minutes: 35, codes: [TE3.s3]}, {id: K3, type: kuvaajan-vaiheet, part: C30, points: 30, minutes: 55, codes: [TE3.s4, TE3.s2, TE3.t1, TE3.s3]}, {id: K4, type: mallien-jarjestaminen, part: A20, points: 20, minutes: 25, codes: [TE3.s2, TE3.s3, TE3.s4, TE3.t1]}]
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
 school_adapts: ["Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"]
@@ -160,6 +158,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan arvioida, miksi väestön terveyden muutos on usean tekijän tulos ja miksi epidemiologia ei koske vain tartuntatauteja.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Miten yhteiskunta, tiede ja teknologia ovat muuttaneet väestön terveyttä](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch02-vaeston-terveyden-muutos). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

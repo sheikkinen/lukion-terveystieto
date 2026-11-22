@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 80
 prerequisites: [te1-01-terveys-voimavarana]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch01-terveyskasitykset"}]
 official_links:
+  - {title: "Visual novel: Terveyskäsitykset ja sairauksien selitysmallit historiassa", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch01-terveyskasitykset", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Mitä terveys on? (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00903", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
   - {title: "Humoraalioppi (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Humoraalioppi", publisher: "Wikipedia", read: 2026-11-21}
   - {title: "Miasma (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Miasmateoria", publisher: "Wikipedia", read: 2026-11-21}
@@ -150,6 +152,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan arvioida, mitä nykyinen monisyinen selitysmalli selittää hyvin ja mitä se voi jättää huomaamatta.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Terveyskäsitykset ja sairauksien selitysmallit historiassa](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch01-terveyskasitykset). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

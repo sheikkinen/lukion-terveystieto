@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 85
 prerequisites: [te3-01-terveyskasitykset-ja-selitysmallit, te1-07-seksuaalioikeudet]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch07-eettinen-analyysi"}]
 official_links:
+  - {title: "Visual novel: Eettisen analyysin näkökulmat", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch07-eettinen-analyysi", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Sosiaali- ja terveysalan eettiset periaatteet (ETENE:n tiedote, 13.3.2026)", url: "https://etene.fi/-/etene-on-julkistanut-sosiaali-ja-terveysalan-eettiset-periaatteet", publisher: "Sosiaali- ja terveysalan eettinen neuvottelukunta (ETENE)", read: 2026-11-21}
   - {title: "ETENE", url: "https://etene.fi/etusivu", publisher: "Sosiaali- ja terveysalan eettinen neuvottelukunta (ETENE)", read: 2026-11-21}
   - {title: "ETENE (English)", url: "https://etene.fi/en/frontpage", publisher: "Sosiaali- ja terveysalan eettinen neuvottelukunta (ETENE)", read: 2026-11-21}
@@ -149,6 +151,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan koota analyysista punnitun kokonaisuuden, joka ei julista voittajaa, ja tiedän, mistä ylioppilaskokeessa eettisen analyysin pisteet muodostuvat.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Eettisen analyysin näkökulmat](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch07-eettinen-analyysi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

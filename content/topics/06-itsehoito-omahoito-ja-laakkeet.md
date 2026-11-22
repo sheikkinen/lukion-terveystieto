@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 90
 prerequisites: [te3-05-sosiaali-ja-terveyspalvelut]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch06-itsehoito-ja-laakkeet"}]
 official_links:
+  - {title: "Visual novel: Itsehoito, omahoito ja lääkkeet", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch06-itsehoito-ja-laakkeet", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Lääkkeet (Kela)", url: "https://www.kela.fi/laakkeet", publisher: "Kela", read: 2026-11-21}
   - {title: "Lääkekorvaukset (selkokieli, Kela)", url: "https://www.kela.fi/web/selkokieli/laakekorvaukset", publisher: "Kela", read: 2026-11-21}
   - {title: "Correct use of medicines (Fimea)", url: "https://fimea.fi/en/for_public/correct-use-of-medicines", publisher: "Fimea", read: 2026-11-21}
@@ -148,6 +150,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan kertoa, miten Kela korvaa lääkkeitä ja miksi maksut ja korvaukset vaikuttavat siihen, miten hoitoon päästään.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Itsehoito, omahoito ja lääkkeet](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch06-itsehoito-ja-laakkeet). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

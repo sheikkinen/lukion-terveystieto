@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 90
 prerequisites: [te1-10-opiskeluhyvinvointi]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch05-palvelut"}]
 official_links:
+  - {title: "Visual novel: Sosiaali- ja terveyspalvelut", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch05-palvelut", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Hyvinvointialueet (STM)", url: "https://stm.fi/hyvinvointialueet", publisher: "Sosiaali- ja terveysministeriö (STM)", read: 2026-11-21}
   - {title: "Hyvinvointialueuudistuksen väliarviointi (valtioneuvosto, 10.12.2025)", url: "https://valtioneuvosto.fi/-/1271139/hyvinvointialueuudistuksen-valiarviointi-uudistus-etenee-tavoitteiden-saavuttaminen-edellyttaa-korjauksia", publisher: "Valtioneuvosto", read: 2026-11-21}
   - {title: "Student health care (STM)", url: "https://stm.fi/en/student-health-care", publisher: "Sosiaali- ja terveysministeriö (STM)", read: 2026-11-21}
@@ -158,6 +160,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan kuvata perheen tukimuotoja ja luokitella ne taloudelliseksi tueksi, palveluiksi ja vertaistueksi.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Sosiaali- ja terveyspalvelut](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch05-palvelut). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 
