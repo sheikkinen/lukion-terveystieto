@@ -105,3 +105,11 @@ Written by the producer after the brief 011 judgement. The exam drives (briefs 0
 to some topics, where a brief asked for one new task per topic and the existing three could not take the new format.
 `## Koetehtävät` may therefore hold 2–4 tasks. A fourth task needs a brief that asks for it, a matching model answer,
 and the same checks as the others. Lesson plans that name the tasks say "K1–K4" where a fourth exists.
+
+## Addendum 2026-11-22: no review banner (D-008)
+
+The operator removed the site-wide review banner ("banner: remove"). The rule "every page says Sisältöä ei ole vielä
+tarkastanut…" is withdrawn, and the site's `templates/base.html` override is deleted, so the engine's own template
+applies (E-1 no longer needs re-syncing). `review_status` stays in every front matter as the record of human review.
+The rules on medical advice are unchanged: the front page says the site gives no health advice, and every page sends
+students with their own symptoms to student health care, a doctor or 112.

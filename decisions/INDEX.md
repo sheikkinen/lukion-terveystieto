@@ -9,3 +9,4 @@
 | D-005 | 2026-11-21 | Images for the terveystieto site within the existing image budget: the €10 granted for opinto-ohjaus images (its D-007), $0.55 spent there ("continue with existing budget") | operator [O] | brief 007 |
 | D-006 | 2026-11-21 | Diagrams in Mermaid where they fit (flowcharts, cycles, levels, mind maps), rendered to SVG ahead of the build ("note: mermaid provides good flowcharts etc") | operator [O] | brief 007 addendum |
 | D-007 | 2026-11-21 | Write TE3 *Terveys ja yhteiskunta* next, after the TE2 exam drive ("Start TE3") | operator [O] | brief 010 |
+| D-008 | 2026-11-22 | Remove the site-wide review banner ("banner: remove"); review_status stays in the front matter, and the pages still give no medical advice | operator [O] | brief 013 |
