@@ -10,3 +10,4 @@
 | D-006 | 2026-11-21 | Diagrams in Mermaid where they fit (flowcharts, cycles, levels, mind maps), rendered to SVG ahead of the build ("note: mermaid provides good flowcharts etc") | operator [O] | brief 007 addendum |
 | D-007 | 2026-11-21 | Write TE3 *Terveys ja yhteiskunta* next, after the TE2 exam drive ("Start TE3") | operator [O] | brief 010 |
 | D-008 | 2026-11-22 | Remove the site-wide review banner ("banner: remove"); review_status stays in the front matter, and the pages still give no medical advice | operator [O] | brief 013 |
+| D-009 | 2026-11-22 | Link the TE1 visual novel chapters, one per topic, at the end of Pohdinta, in the sources and on the topic cards; engine pin v0.2.0 for card links ("Yes, add and push", answering the game-engine session's request relayed on the operator's behalf) | operator [O] | game-engine session |

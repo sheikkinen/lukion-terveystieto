@@ -13,7 +13,10 @@ self_study_minutes: 70
 prerequisites: [te1-01-terveys-voimavarana]
 safety_flags: [sexuality]
 content_note: "Tällä sivulla käsitellään seksuaalisuutta ja seksuaaliterveyttä yleisellä tasolla. Sivulla ei kuvata seksuaalisia tekoja, kenenkään ei tarvitse kertoa omasta elämästään, ja lopussa on tietoa avusta."
+card_links:
+  - {label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch06-seksuaaliterveys"}
 official_links:
+  - {title: "Visual novel: Seksuaalisuus ja seksuaaliterveys", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch06-seksuaaliterveys", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Seksuaaliterveys (Väestöliitto)", url: "https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/", publisher: "Väestöliitto", read: 2026-11-21}
   - {title: "Väestöliitto: nuorten sivut", url: "https://www.vaestoliitto.fi/nuoret/", publisher: "Väestöliitto", read: 2026-11-21}
   - {title: "Tunne rintasi", url: "https://tunnerintasi.fi/", publisher: "Tunne rintasi ry", read: 2026-11-21}
@@ -209,6 +212,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan tehdä perustellun ehdotuksen siitä, miten koulu, hyvinvointialue tai yhteiskunta voi edistää seksuaaliterveyttä.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Seksuaalisuus ja seksuaaliterveys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch06-seksuaaliterveys). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

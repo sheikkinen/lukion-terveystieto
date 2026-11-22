@@ -13,7 +13,10 @@ self_study_minutes: 65
 prerequisites: [te1-06-seksuaaliterveys]
 safety_flags: [sexuality, violence]
 content_note: "Tällä sivulla käsitellään seksuaalioikeuksia, suostumusta ja seksuaalista väkivaltaa yleisellä tasolla. Sivulla ei kuvata tekoja, kenenkään ei tarvitse kertoa omasta elämästään, ja lopussa on tietoa avusta."
+card_links:
+  - {label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch07-seksuaalioikeudet"}
 official_links:
+  - {title: "Visual novel: Seksuaalioikeudet, suostumus ja moninaisuus", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch07-seksuaalioikeudet", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Seta", url: "https://seta.fi/", publisher: "Seta ry", read: 2026-11-21}
   - {title: "Seksuaaliterveys (Väestöliitto)", url: "https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/", publisher: "Väestöliitto", read: 2026-11-21}
   - {title: "Rikosuhripäivystys", url: "https://www.riku.fi/", publisher: "Rikosuhripäivystys (RIKU)", read: 2026-11-21}
@@ -175,6 +178,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan analysoida seksuaalioikeuksiin liittyvää eettistä kysymystä näkökulmista arvot, normit ja velvollisuudet, motiivit, seuraukset, oikeudet ja hyveet ja perustella ratkaisuehdotukseni.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Seksuaalioikeudet, suostumus ja moninaisuus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch07-seksuaalioikeudet). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

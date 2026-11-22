@@ -12,7 +12,10 @@ duration_options: [45, 60, 75]
 self_study_minutes: 70
 prerequisites: []
 safety_flags: []
+card_links:
+  - {label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch01-mita-terveys-on"}
 official_links:
+  - {title: "Visual novel: Mitä terveys on?", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch01-mita-terveys-on", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Constitution of the World Health Organization", url: "https://www.who.int/about/governance/constitution", publisher: "World Health Organization", read: 2026-11-21}
   - {title: "Nuorten hyvinvointi (THL)", url: "https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
@@ -192,6 +195,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan erottaa terveyden edistämisen sairauksien ehkäisystä ja tehdä perustellun ehdotuksen siitä, miten yhteisö tai yhteiskunta voi edistää terveyttä Ottawan asiakirjan viiden toiminta-alueen avulla.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Mitä terveys on?](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch01-mita-terveys-on). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

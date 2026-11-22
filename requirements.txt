@@ -1,2 +1,2 @@
 # The site engine, pinned to a tag. For local work on the engine: python -m pip install --user -e <engine folder>
-lukio-runko @ git+https://github.com/sheikkinen/lukio-runko@v0.1.0
+lukio-runko @ git+https://github.com/sheikkinen/lukio-runko@v0.2.0

@@ -12,7 +12,10 @@ duration_options: [45, 60, 75]
 self_study_minutes: 70
 prerequisites: [te1-01-terveys-voimavarana]
 safety_flags: []
+card_links:
+  - {label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch05-liikunta-ja-uni"}
 official_links:
+  - {title: "Visual novel: Liikunta, lepo ja uni", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch05-liikunta-ja-uni", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Liikkumisen suositukset", url: "https://ukkinstituutti.fi/liikkuminen/liikkumisen-suositukset/", publisher: "UKK-instituutti", read: 2026-11-21}
   - {title: "Lasten ja nuorten liikkumissuositus", url: "https://ukkinstituutti.fi/liikkuminen/liikkumisen-suositukset/lasten-ja-nuorten-liikkumissuositus/", publisher: "UKK-instituutti", read: 2026-11-21}
   - {title: "Kuinka paljon unta tarvitaan? (nuorten univaikeuksien omahoito)", url: "https://www.mielenterveystalo.fi/fi/omahoito/nuorten-univaikeuksien-omahoito-ohjelma/kuinka-paljon-unta-tarvitaan", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
@@ -211,6 +214,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan tehdä perustellun ehdotuksen siitä, miten koulu, kunta tai yhteiskunta voi tukea liikkumista ja lepoa.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Liikunta, lepo ja uni](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch05-liikunta-ja-uni). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

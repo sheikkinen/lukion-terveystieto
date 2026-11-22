@@ -13,7 +13,10 @@ self_study_minutes: 70
 prerequisites: [te1-01-terveys-voimavarana]
 safety_flags: [eating]
 content_note: "Tällä sivulla käsitellään syömistä ja painoa. Sivulla ei ole lukuja eikä vertailuja, ja lopussa on tietoa avusta."
+card_links:
+  - {label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch04-ravinto"}
 official_links:
+  - {title: "Visual novel: Ravinto, syöminen ja painonhallinta", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch04-ravinto", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Ravitsemus- ja ruokasuositukset", url: "https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravitsemus--ja-ruokasuositukset/", publisher: "Ruokavirasto", read: 2026-11-21}
   - {title: "Nuorten hyvinvointi", url: "https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Syömishäiriöliitto-SYLI: tukipalvelut", url: "https://syomishairioliitto.fi/tukea/tukea-sairastuneelle", publisher: "Syömishäiriöliitto-SYLI ry", read: 2026-11-21}
@@ -212,6 +215,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan tehdä perustellun ehdotuksen siitä, miten koulu tai yhteiskunta voi tukea hyvää ruokailua.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Ravinto, syöminen ja painonhallinta](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch04-ravinto). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

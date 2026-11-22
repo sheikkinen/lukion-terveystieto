@@ -12,7 +12,10 @@ duration_options: [45, 60, 75]
 self_study_minutes: 75
 prerequisites: [te1-01-terveys-voimavarana]
 safety_flags: []
+card_links:
+  - {label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch10-opiskeluhyvinvointi"}
 official_links:
+  - {title: "Visual novel: Opiskeluhyvinvointi ja oma oppiminen", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch10-opiskeluhyvinvointi", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
   - {title: "Digitaalinen terveyskysely käyttöön kaikille toisen asteen opiskelijoille (uutinen 28.4.2026)", url: "https://www.oph.fi/fi/uutiset/2026/digitaalinen-terveyskysely-kayttoon-kaikille-toisen-asteen-opiskelijoille", publisher: "Opetushallitus", read: 2026-11-21}
   - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
@@ -171,6 +174,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan kertoa, mitä opiskeluhuolto ja opiskeluterveydenhuolto tarjoavat, ja tehdä perustellun ehdotuksen siitä, miten yhteisö voi tukea opiskeluhyvinvointia.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Opiskeluhyvinvointi ja oma oppiminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch10-opiskeluhyvinvointi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 
