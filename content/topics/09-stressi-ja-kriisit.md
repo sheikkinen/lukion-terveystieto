@@ -93,9 +93,9 @@ Vaikutus kulkee kolmea reittiä. **Hormonaalinen reitti:** stressihormonit valmi
 
 ### Miten kuormitus kasautuu?
 
-Stressi syntyy usein siitä, miten ihminen arvioi vaatimukset ja omat voimavaransa. Jos vaatimukset tuntuvat suuremmilta kuin voimavarat, hälytystila käynnistyy.
+Stressi syntyy siitä, miten ihminen arvioi vaatimukset ja omat voimavaransa. Jos vaatimukset tuntuvat suuremmilta kuin voimavarat, hälytystila käynnistyy.
 
-Kuormitus etenee ketjuna: vaatimukset, arvio, stressireaktio ja sen jälkeen palautuminen tai kuormituksen jatkuminen. Jos palautumista ei tule, väsymys kasvaa, ja keskittyminen ja mieliala heikkenevät. Nämä ovat tavallisia reaktioita, ja niihin on apua.
+Kuormitus etenee ketjuna (kaavio osion lopussa): vaatimukset, arvio, stressireaktio, sitten palautuminen tai kuormituksen jatkuminen. Jos palautumista ei tule, väsymys kasvaa, ja keskittyminen ja mieliala heikkenevät. Nämä ovat tavallisia reaktioita, joihin on apua.
 
 ### Kriisi
 

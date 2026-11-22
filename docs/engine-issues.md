@@ -116,3 +116,9 @@ checker agents until the engine has them.
 midnight (Finnish time) fails the build for two to three hours. The site's workflow now sets `TZ: Europe/Helsinki`
 for the build step (2026-11-22). The engine could take the time zone from `subject.yaml`, or allow one day of slack.
 The opinto-ohjaus site has the same exposure.
+
+## E-13: A picture can only be placed at the end of a whole H2 section
+
+A figure that illustrates one model answer (for example K3's) is placed after the last model answer, because
+`placement` takes an H2 title only. The text says where the figure is (brief 013). The engine could accept an H3
+heading as the placement.

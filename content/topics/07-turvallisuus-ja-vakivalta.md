@@ -104,7 +104,7 @@ Oikeusministeriön mukaan raiskauksen määritelmä perustuu siihen, osallistuuk
 
 ### Ehkäisy kolmella tasolla
 
-Ehkäisy toimii parhaiten monella tasolla yhtä aikaa ja jatkuvasti:
+Ehkäisy toimii parhaiten monella tasolla yhtä aikaa ja jatkuvasti (kaavio tämän osion lopussa):
 
 - **Yksilö:** tunne- ja vuorovaikutustaidot, tieto omista oikeuksista ja rohkeus puuttua sivusta.
 - **Koulu:** selkeät säännöt, kiusaamisen vastaiset toimintatavat, turvallisuussuunnitelma, aikuisten läsnäolo ja opiskeluhuolto, jota on helppo lähestyä.

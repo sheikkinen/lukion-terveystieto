@@ -65,7 +65,7 @@ last_reviewed: 2026-11-21
 
 ### Tutkimus etenee vaiheittain
 
-Vaiheita on kuusi. (1) **Tutkimuskysymys** tarkennetaan mitattavaksi: ei "onko koulu hyvä?" vaan "kuinka moni kokee kuuluvansa kouluyhteisöön?" (2) **Asetelma ja suunnitelma:** valitaan tapa vastata sekä otos ja mittari. (3) **Aineiston keruu:** tutkittavilta pyydetään suostumus, ja vastaukset käsitellään nimettöminä. (4) **Analyysi** tiivistää aineiston tuloksiksi. (5) **Raportointi** kertoo tulokset ja rajoitukset, jotta muut voivat arvioida ne. (6) **Vertaisarviointi ja toisto:** asiantuntijat lukevat työn, ja muut voivat toistaa tutkimuksen.
+Vaiheita on kuusi (kaavio osion lopussa). (1) **Tutkimuskysymys** tarkennetaan mitattavaksi: ei "onko koulu hyvä?" vaan "kuinka moni kokee kuuluvansa kouluyhteisöön?" (2) **Asetelma ja suunnitelma:** valitaan tapa vastata sekä otos ja mittari. (3) **Aineiston keruu:** tutkittavilta pyydetään suostumus, ja vastaukset käsitellään nimettöminä. (4) **Analyysi** tiivistää aineiston tuloksiksi. (5) **Raportointi** kertoo tulokset ja rajoitukset, jotta muut voivat arvioida ne. (6) **Vertaisarviointi ja toisto:** asiantuntijat lukevat työn, ja muut voivat toistaa tutkimuksen.
 
 ### Tutkimustyypit ja käsitteet
 
@@ -90,7 +90,7 @@ Kaikkia ei voi tutkia, joten tutkitaan **otos**, jonka halutaan kuvaavan **perus
 
 ### Riski
 
-**Riski** on todennäköisyys, että jokin ei-toivottu tapahtuma toteutuu. **Altiste** on tekijä, jolle ihminen joutuu alttiiksi; joutuminen on **altistumista**. **Riskitekijä** lisää tapahtuman todennäköisyyttä. **Absoluuttinen riski** kertoo, kuinka monelle sadasta tapahtuma sattuu. **Suhteellinen riski** vertaa altistuneiden ja altistumattomien riskiä: kaksi sadasta ja neljä sadasta tarkoittaa kaksinkertaista suhteellista riskiä, vaikka ero on kaksi sadasta. **Subjektiivinen riski** on ihmisen oma arvio, ja uutiset ja optimismivinouma vääristävät sitä.
+**Riski** on todennäköisyys, että jokin ei-toivottu tapahtuma toteutuu. **Altiste** on tekijä, jolle ihminen joutuu alttiiksi; joutuminen on **altistumista**. **Riskitekijä** lisää tapahtuman todennäköisyyttä. **Absoluuttinen riski** kertoo, kuinka monelle sadasta tapahtuma sattuu. **Suhteellinen riski** vertaa altistuneiden ja altistumattomien riskiä: kaksi sadasta ja neljä sadasta tarkoittaa kaksinkertaista suhteellista riskiä, vaikka ero on kaksi sadasta (kaavio osion lopussa). **Subjektiivinen riski** on ihmisen oma arvio, ja uutiset ja optimismivinouma vääristävät sitä.
 
 ### Kyselytieto ja rekisteritieto
 
@@ -102,7 +102,7 @@ Kaikkia ei voi tutkia, joten tutkitaan **otos**, jonka halutaan kuvaavan **perus
 
 ### Miten vertailet lähteitä?
 
-Vertaa vähintään kahta lähdettä samoilla kysymyksillä: kuka tekee, miksi, mihin tieto perustuu, kuinka vanha se on ja kertooko lähde epävarmuudesta. Hyvä lähde nimeää asetelman ja otoksen. Apuna ovat [Asiantuntijalähteen arviointi -video](https://aoe.fi/#/materiaali/3006) ja sen kaavio, avoimia mutta täällä vain linkitettyjä.
+Vertaa vähintään kahta lähdettä samoilla kysymyksillä: kuka tekee, miksi, mihin tieto perustuu, kuinka vanha se on ja kertooko lähde epävarmuudesta. Hyvä lähde nimeää asetelman ja otoksen. Apuna ovat [Asiantuntijalähteen arviointi -video](https://aoe.fi/#/materiaali/3006) ja sen kaavio, avoimia, vain linkitettyjä.
 
 ## Tehtävät
 
@@ -368,7 +368,7 @@ Akselit: vaaka talvi 1–3, pysty kaatumisia sataa kulkijaa kohti, 0–6
 Viiva A: 4 – 5 – 3    Viiva B: 2 – 2 – 1    Selite: A, B
 ```
 
-Kuviosta näkyy, että viiva A on joka talvi viivan B yläpuolella.
+Mallikuva on tämän osion lopussa. Kuviosta näkyy, että viiva A on joka talvi viivan B yläpuolella.
 
 **b)** *Teksti 1* on suhteellinen riski: se vertaa reittejä (kolmantena talvena 3 ja 1) mutta ei kerro riskin suuruutta. Absoluuttinen ero on kolme sadasta miinus yksi sadasta eli kaksi sadasta, ja kahtena ensimmäisenä talvena suhde oli pienempi. *Teksti 2* on absoluuttinen riski: se kertoo, monelleko sadasta kaatuminen sattui, mutta vain yhdeltä talvelta. *Teksti 3* on subjektiivinen riski: se on Kimin oma arvio. Optimismivinouma ja yleistäminen yhdestä kokemuksesta tekevät siitä luotettavan vain Kimin omalle kokemukselle. Taulukon mukaan reitillä A kaatui joka talvi kolmesta viiteen sadasta.
 

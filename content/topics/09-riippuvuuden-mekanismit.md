@@ -86,7 +86,7 @@ Riippuvuutta ei selitä yksi syy. Siihen vaikuttavat samaan aikaan kolme mekanis
 ### Riippuvuuden tunnusmerkit
 
 - **Sietokyky eli toleranssi:** saman vaikutuksen saaminen vaatii yhä enemmän, koska elimistö sopeutuu.
-- **Vieroitusoireet:** epämiellyttäviä oireita, kun aine tai toiminta jää pois. Ne helpottavat usein, kun siihen palaa, joten kehä pysyy yllä. Lopettamisen tuki kuuluu ammattilaisille.
+- **Vieroitusoireet:** epämiellyttäviä oireita, kun aine tai toiminta jää pois. Ne helpottavat usein, kun siihen palaa, joten kehä pysyy yllä (kaavio tämän osion lopussa). Lopettamisen tuki kuuluu ammattilaisille.
 - **Kontrollin menetys:** ei pysty pysähtymään tai pitämään omaa päätöstään.
 - **Repsahdus:** paluu entiseen lopettamisen jälkeen. Se on yleinen osa toipumista eikä epäonnistuminen.
 

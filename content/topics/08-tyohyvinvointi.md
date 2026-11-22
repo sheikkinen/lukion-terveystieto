@@ -91,7 +91,7 @@ Vielä 1950-luvulla maatalous oli Suomen pääelinkeino, ja suurin osa tiloista 
 
 ### Työkykytalo
 
-**Työkykytalo** on Työterveyslaitoksen käyttämä kuva työkyvystä. Siinä on neljä kerrosta alhaalta ylös: terveys ja toimintakyky, osaaminen, arvot, asenteet ja motivaatio sekä johtaminen, työyhteisö ja työolot. Perhe, lähiyhteisö ja yhteiskunnan arvot ja lait vaikuttavat taloon ulkopuolelta. Kuva muistuttaa, että työkyky syntyy ihmisen ja työn yhteisvaikutuksesta.
+**Työkykytalo** on Työterveyslaitoksen käyttämä kuva työkyvystä. Siinä on neljä kerrosta alhaalta ylös (kaavio tämän osion lopussa): terveys ja toimintakyky, osaaminen, arvot, asenteet ja motivaatio sekä johtaminen, työyhteisö ja työolot. Perhe, lähiyhteisö ja yhteiskunnan arvot ja lait vaikuttavat taloon ulkopuolelta. Kuva muistuttaa, että työkyky syntyy ihmisen ja työn yhteisvaikutuksesta.
 
 ### Työhyvinvoinnin tukeminen ja kyselyn lukeminen
 

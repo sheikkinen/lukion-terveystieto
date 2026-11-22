@@ -66,7 +66,7 @@ Ruokaan ja kehoon liittyvän puheen vaikutuksia käsiteltiin aiheessa [Ravinto](
 
 ### Vaikutuskeinot
 
-**Vaikutuskeino** on tapa, jolla viesti pyrkii saamaan lukijan ajattelemaan tai toimimaan tietyllä tavalla. Tavallisia keinoja ovat:
+**Vaikutuskeino** on tapa, jolla viesti pyrkii saamaan lukijan ajattelemaan tai toimimaan tietyllä tavalla. Tavallisia keinoja ovat (kaavio tämän osion lopussa):
 
 - **tunteisiin vetoaminen:** pelko, syyllisyys, ilo tai ylpeys
 - **asiantuntijaan tai tunnettuun henkilöön vetoaminen:** "tohtori suosittelee"

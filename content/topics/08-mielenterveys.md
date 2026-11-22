@@ -80,19 +80,19 @@ Mielenterveys on eri asia kuin mielenterveyden häiriö. Häiriöt ovat sairauks
 
 ### Suojaavat tekijät
 
-Suojaava tekijä vahvistaa mielenterveyttä ja auttaa selviämään kuormituksesta. Tekijät jaetaan kolmelle tasolle:
+Suojaava tekijä vahvistaa mielenterveyttä ja auttaa selviämään kuormituksesta. Tekijät jaetaan kolmelle tasolle (kaavio osion lopussa):
 
 - **yksilölliset tekijät:** tunteiden säätely, ongelmanratkaisutaidot, myönteinen käsitys itsestä, kyky pyytää apua ja merkitykselliseksi koettu tekeminen
 - **yhteisölliset tekijät:** turvalliset ihmissuhteet, kuulumisen kokemus, aikuinen jolle voi puhua, hyväksyvä ilmapiiri koulussa ja harrastuksissa
 - **yhteiskunnalliset tekijät:** opiskeluhuolto ja muut matalan kynnyksen palvelut, riittävä toimeentulo, turvallinen asuinympäristö, kiusaamisen ja syrjinnän ehkäisy sekä koulutus
 
-Suojaavat tekijät auttavat kestämään vaikeudet ja toipumaan niistä. Tätä kykyä kutsutaan psyykkiseksi palautumiskyvyksi eli resilienssiksi. Se rakentuu koko elämän ajan.
+Suojaavat tekijät auttavat kestämään vaikeudet ja toipumaan niistä. Sitä kutsutaan psyykkiseksi palautumiskyvyksi eli resilienssiksi. Se rakentuu koko elämän ajan.
 
 ### Miten suojaus toimii?
 
-Suojaava tekijä vaikuttaa ketjun kautta. Esimerkiksi turvallinen ystävyys auttaa puhumaan huolista. Kun huolista voi puhua, ne eivät kasva yksin mielessä. Silloin kuormitus pienenee ja jaksaminen paranee.
+Suojaava tekijä vaikuttaa ketjun kautta. Esimerkiksi turvallinen ystävyys auttaa puhumaan huolista. Kun huolista voi puhua, ne eivät kasva yksin mielessä. Kuormitus pienenee ja jaksaminen paranee.
 
-Kuormittavat tekijät voivat kasautua, ja silloin ne painavat enemmän kuin yksittäin. Sama tekijä voi myös suojata tai kuormittaa. Ystäväporukka voi antaa tukea, mutta myös paineita.
+Kuormittavat tekijät voivat kasautua, ja ne painavat enemmän kuin yksittäin. Sama tekijä voi myös suojata tai kuormittaa. Ystäväporukka voi antaa tukea, mutta myös paineita.
 
 ### Leimautuminen ja avun hakeminen
 

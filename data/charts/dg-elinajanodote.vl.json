@@ -3,7 +3,11 @@
   "description": "Vastasyntyneen elinajanodote sukupuolen mukaan Suomessa joka kymmenes vuosi 1975-2025. Arvot ovat tiedostosta data/charts/dg-elinajanodote.csv, joka on otos Tilastokeskuksen taulukosta 12am Vastasyntyneen elinajanodote sukupuolen mukaan, 1751-2025 (StatFin, kuolleet). Lähde: Tilastokeskus, https://pxdata.stat.fi/PxWeb/pxweb/fi/StatFin/StatFin__kuol/statfin_kuol_pxt_12am.px/ (haettu rajapinnasta https://pxdata.stat.fi/PXWeb/api/v1/fi/StatFin/kuol/12am.px). Lisenssi CC BY 4.0. Luettu 22.11.2026.",
   "title": {
     "text": "Vastasyntyneen elinajanodote",
-    "subtitle": "Suomi, lähde: Tilastokeskus",
+    "subtitle": [
+      "Suomi",
+      "Lähde: Tilastokeskus, CC BY 4.0,",
+      "luettu 22.11.2026"
+    ],
     "anchor": "start"
   },
   "width": 270,
@@ -98,8 +102,11 @@
         "title": "Vuosi",
         "values": [
           1975,
+          1985,
           1995,
-          2015
+          2005,
+          2015,
+          2025
         ],
         "format": "d",
         "grid": false,

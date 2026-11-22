@@ -117,7 +117,7 @@ Huomaa sana *koettu*. Malli kuvaa ihmisen omaa arviota, ei sitä, mikä on totta
 
 ### Muutosvaihemalli
 
-Muutosvaihemallia kutsutaan myös transteoreettiseksi malliksi. Se kuvaa muutosta prosessina, jossa on vaiheita:
+Muutosvaihemallia kutsutaan transteoreettiseksi malliksi. Se kuvaa muutosta prosessina, jossa on vaiheita (kaavio osion lopussa):
 
 1. **Esiharkinta:** muutosta ei vielä harkita. Asiaa ei pidetä ongelmana, tai hyödyt tuntuvat pieniltä ja haitat suurilta. Tuki: tieto ja keskustelu ilman painostusta.
 2. **Harkinta:** hyödyt ja haitat punnitaan, ja ihminen on usein ristiriitainen. Minäpystyvyys on vielä heikko. Tuki: apu punnita hyötyjä ja esteitä.
@@ -125,7 +125,7 @@ Muutosvaihemallia kutsutaan myös transteoreettiseksi malliksi. Se kuvaa muutost
 4. **Toiminta:** uusi tapa on käytössä. Hyödyt painavat jo enemmän kuin haitat. Tuki: esteiden poisto ja kannustus.
 5. **Ylläpito:** uutta tapaa pidetään yllä, kunnes se tuntuu tavalliselta. Tuki: kannustus ja valmius takapakkiin.
 
-**Takapakki** eli retkahdus kuuluu tavallisesti prosessiin. Se ei ole epäonnistuminen vaan tilaisuus oppia, mikä tilanne tai este sen aiheutti ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/omahoito/sosiaalisen-median-kayton-vahentamisen-omahoito-ohjelma/miten-edeta-kohti-muutosta)). Moni kiertää vaiheita useammin kuin kerran, ja minäpystyvyys kasvaa onnistumisten myötä. Siksi tuki on erilaista eri vaiheessa, ja sama viesti ei sovi kaikille.
+**Takapakki** eli retkahdus kuuluu tavallisesti prosessiin. Se ei ole epäonnistuminen vaan tilaisuus oppia, mikä tilanne tai este sen aiheutti ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/omahoito/sosiaalisen-median-kayton-vahentamisen-omahoito-ohjelma/miten-edeta-kohti-muutosta)). Moni kiertää vaiheita useammin kuin kerran, ja minäpystyvyys kasvaa onnistumisten myötä. Siksi tuki vaihtelee vaiheen mukaan, eikä sama viesti sovi kaikille.
 
 ### Mallien vahvuudet ja rajat
 

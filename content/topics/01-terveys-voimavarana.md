@@ -101,14 +101,14 @@ Voimavara auttaa jaksamaan, toimimaan ja selviytymään vaikeuksista. **Sisäisi
 
 ### Terveyden taustatekijät
 
-Terveyden taustatekijät eli terveyttä määrittävät tekijät vaikuttavat terveyteen. Ne jaetaan usein neljälle tasolle:
+Terveyden taustatekijät eli terveyttä määrittävät tekijät vaikuttavat terveyteen. Ne jaetaan neljälle tasolle:
 
 - **yksilölliset tekijät:** perimä, ikä, elintavat (myös alkoholi ja nikotiini, ks. [TE2](../../opetussuunnitelma/)), tiedot ja taidot
 - **yhteisölliset tekijät:** perhe, ystävät, koulu, harrastukset ja työpaikka
 - **yhteiskunnalliset tekijät:** koulutus, toimeentulo, asuminen, lait ja palvelut
 - **globaalit tekijät:** ilmasto, ympäristö, maailmantalous, kriisit ja tartuntataudit
 
-Tasoja kuvataan sisäkkäisinä kehinä (Dahlgrenin ja Whiteheadin kehämalli): keskellä on yksilö ja uloimpana yhteiskunnan ja ympäristön olot. Sama tekijä voi suojata tai kuormittaa. Ystävät voivat antaa tukea tai luoda painetta.
+Tasoja kuvataan sisäkkäisinä kehinä (Dahlgrenin ja Whiteheadin kehämalli, kaavio osion lopussa): keskellä yksilö, uloimpana yhteiskunnan ja ympäristön olot. Sama tekijä voi suojata tai kuormittaa. Ystävät voivat antaa tukea tai luoda painetta.
 
 Monet tekijät eivät ole ihmisen valittavissa. Elintavat ovat valintoja, mutta valinnat syntyvät oloissa: mitä lähikaupassa myydään, paljonko on aikaa ja rahaa ja millaista tukea saa. Siksi ihmisryhmien välillä on **terveyseroja** eli terveyden eriarvoisuutta. Ajankohtaista tietoa löydät [THL:n Nuorten hyvinvointi -sivulta](https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi).
 
@@ -122,9 +122,9 @@ Terveyden edistäminen vahvistaa voimavaroja ja terveyden edellytyksiä ennen on
 
 ### Ottawan asiakirjan viisi toiminta-aluetta
 
-WHO:n Ottawan asiakirjassa (1986) on viisi toiminta-aluetta ([WHO](https://www.who.int/publications/i/item/ottawa-charter-for-health-promotion), [teksti](https://archive.org/download/WHOHPRHEP95.1/WHO_HPR_HEP_95.1_text.pdf)):
+Ottawan asiakirjassa (WHO 1986) on viisi toiminta-aluetta (kaavio osion lopussa) ([WHO](https://www.who.int/publications/i/item/ottawa-charter-for-health-promotion), [teksti](https://archive.org/download/WHOHPRHEP95.1/WHO_HPR_HEP_95.1_text.pdf)):
 
-- **Terveyttä edistävä yhteiskuntapolitiikka:** päättäjät arvioivat päätösten terveysvaikutukset, esimerkiksi laeissa ja veroissa.
+- **Terveyttä edistävä yhteiskuntapolitiikka:** päättäjät arvioivat päätösten terveysvaikutukset, esimerkiksi laeissa.
 - **Terveyttä tukevat ympäristöt:** koulu, työ ja asuinalue tukevat terveyttä.
 - **Yhteisön toiminta:** asukkaat ja järjestöt toimivat yhdessä.
 - **Henkilökohtaiset taidot:** ihminen osaa hakea tietoa ja toimia terveytensä hyväksi.
@@ -366,7 +366,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Aikaa kuluu:** noin 70 minuuttia.
 
-**Näin etenet:**
+**Näin etenet** (kaavio osion lopussa):
 
 1. **Lue** osio Opiskelijalle (8 min).
 2. **Tee** Tehtävä 1 (20 min) ja Tehtävä 2 (10 min). Tehtävä 3 on lisätehtävä (15 min).

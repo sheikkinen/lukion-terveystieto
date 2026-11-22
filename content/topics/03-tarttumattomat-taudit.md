@@ -73,22 +73,22 @@ last_reviewed: 2026-11-21
 
 ### Ilmaantuvuus ja esiintyvyys
 
-**Ilmaantuvuus** kertoo, montako uutta tapausta syntyy väestössä tietyn ajan kuluessa ([Terveyskirjasto](https://www.terveyskirjasto.fi/ltt01290)). **Esiintyvyys** kertoo, kuinka suurella osalla väestöstä tauti on tiettynä hetkenä tai jaksona.
+**Ilmaantuvuus** kertoo, montako uutta tapausta syntyy väestössä tietyn ajan kuluessa ([Terveyskirjasto](https://www.terveyskirjasto.fi/ltt01290)). **Esiintyvyys** kertoo, kuinka suurella osalla väestöstä tauti on tiettynä aikana.
 
 Alueita vertaillaan suhteuttamalla tapaukset väestöön, esimerkiksi sataatuhatta asukasta kohti. **Ikävakioitu luku** poistaa väestön ikärakenteen vaikutuksen.
 
 ### Riskitekijä ei ole syy
 
-**Riskitekijä** lisää sairastumisen todennäköisyyttä, mutta ei määrää sitä. Ilman riskitekijöitä voi sairastua, ja moni riskitekijöistä huolimatta ei. **Suojaava tekijä** pienentää todennäköisyyttä: esimerkiksi liikunta (ks. osteoporoosi alla). WHO luettelee käyttäytymiseen liittyviksi riskitekijöiksi tupakan, epäterveellisen ruokavalion, haitallisen alkoholinkäytön ja liian vähäisen liikunnan. Terveys ei kuitenkaan näy painosta.
+**Riskitekijä** lisää sairastumisen todennäköisyyttä, mutta ei määrää sitä. Ilman riskitekijöitä voi sairastua, ja moni riskitekijöistä huolimatta ei. **Suojaava tekijä** pienentää todennäköisyyttä: esimerkiksi liikunta (ks. osteoporoosi alla). WHO luettelee käyttäytymisriskeiksi tupakan, epäterveellisen ruokavalion, haitallisen alkoholinkäytön ja liian vähäisen liikunnan. Terveys ei kuitenkaan näy painosta.
 
-Elintavat ovat aina osa oloja: työ, asuinympäristö, toimeentulo ja perimä vaikuttavat siihen, mitä voi valita. Siksi sairastunutta ei syyllistetä.
+Elintavat ovat osa oloja: työ, asuinympäristö, toimeentulo ja perimä vaikuttavat valintoihin. Siksi sairastunutta ei syyllistetä.
 
 ### Esimerkkejä taudeista
 
 - **Tyypin 1 diabetes** on autoimmuunisairaus. Elimistön puolustus tuhoaa insuliinia tuottavia soluja.
-- **Tyypin 2 diabeteksessa** insuliinin vaikutus on heikentynyt. Se todetaan yleensä aikuisena. Se voi olla pitkään oireeton ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00011)).
-- **Keuhkoahtaumatauti** (COPD) on krooninen keuhkosairaus. Tärkein riskitekijä on tupakointi. Muita ovat pölyinen työ, passiivinen tupakointi ja harvinainen perinnöllinen puutos ([Terveyskirjasto](https://www.terveyskirjasto.fi/khp00012)).
-- **Syöpä** on joukko sairauksia. Ilmaantuvuutta seuraa [Syöpärekisteri](https://cancerregistry.fi/statistics/). Karsinogeenit eli syöpää aiheuttavat aineet luokitellaan näytön mukaan ([TE2 aihe 10](../../te2/10-riippuvuudet/)).
+- **Tyypin 2 diabeteksessa** insuliinin vaikutus on heikentynyt. Se todetaan yleensä aikuisena. Se voi kehittyä pitkään ilman selviä oireita ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00011)).
+- **Keuhkoahtaumatauti** (COPD) on krooninen keuhkosairaus. Tärkein riskitekijä on tupakointi, muita pölyinen työ, passiivinen tupakointi ja harvinainen perinnöllinen puutos ([Terveyskirjasto](https://www.terveyskirjasto.fi/khp00012)).
+- **Syöpä** on joukko sairauksia. Ilmaantuvuutta seuraa [Syöpärekisteri](https://cancerregistry.fi/statistics/). Karsinogeenit eli syöpää aiheuttavat aineet luokitellaan näytön vahvuuden mukaan ([TE2 aihe 10](../../te2/10-riippuvuudet/)).
 
 ### Muistisairaudet, metabolinen oireyhtymä, luusto, nivelet ja toimintakyky
 
@@ -99,6 +99,8 @@ Elintavat ovat aina osa oloja: työ, asuinympäristö, toimeentulo ja perimä va
 - **Toimintakyvyä mitataan** itsearviokysymyksillä ja testeillä: puristusvoima, tuolilta nousu, kävelynopeus ([TOIMIA-suositus S029](https://www.julkari.fi/bitstream/handle/10024/140538/TOIMIA_S029_Fyysisen_toimintakyvyn_mittaaminen_ja_arviointi_vaestotutkimuksissa.pdf?sequence=5)).
 
 ### Ehkäisyn tasot
+
+Kaavio osion lopussa kokoaa tasot.
 
 - **Ensisijainen ehkäisy** pyrkii estämään sairauden syntymisen: terveyden edistäminen, rokotukset ja riskien vähentäminen.
 - **Toissijainen ehkäisy** löytää sairauden tai sen esiasteen varhain, esimerkiksi **seulonnalla** eli tutkimuksella, joka tehdään oireettomille ([aihe 08](../../te3/08-hedelmoityshoidot-abortti-seulonnat-geenit/)).

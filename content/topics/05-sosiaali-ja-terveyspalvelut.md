@@ -90,7 +90,7 @@ Perheen tuki jaetaan kolmeen ryhmään. **Taloudellinen tuki** on rahaa tai korv
 - **Keskusteluapu:** järjestöjen palvelut, esimerkiksi [Sekasin-chat](https://sekasin.fi/) tai [Lasten ja nuorten puhelin](https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/).
 - **Muiden asioiden kohdalla:** oman hyvinvointialueen verkkosivu kertoo, mistä neuvonta ja päivystys löytyvät.
 
-Sivu ei neuvo hoitamaan omia oireita. Palveluohjaus tarkoittaa tässä sitä, että opit tuntemaan reitit.
+Sivu ei neuvo hoitamaan omia oireita. Palveluohjaus tarkoittaa tässä reittien tuntemista (kaavio tämän osion lopussa).
 
 ### Mikä palvelujärjestelmässä on vaikeaa?
 

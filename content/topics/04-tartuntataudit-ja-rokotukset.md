@@ -97,7 +97,7 @@ last_reviewed: 2026-11-21
 
 ### Miten tartuntatauti leviää?
 
-Mikrobin pääsy elimistöön ei vielä tarkoita sairautta: mikrobin pitää voittaa elimistön puolustus. Siihen vaikuttavat mikrobimäärä, vastustuskyky ja mikrobin kyky aiheuttaa tautia ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00569)). **Tartuntaketju** on lähde → tartuntatie → vastaanottaja; ehkäisy katkaisee sen jostain kohdasta.
+Mikrobin pääsy elimistöön ei vielä tarkoita sairautta: mikrobin pitää voittaa elimistön puolustus. Siihen vaikuttavat mikrobimäärä, vastustuskyky ja mikrobin kyky aiheuttaa tautia ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00569)). **Tartuntaketju** on lähde → tartuntatie → vastaanottaja; ehkäisy katkaisee sen jostain kohdasta (kaavio tämän osion lopussa).
 
 **Tartuntatiet** ovat kosketus (usein kädet), ilma, suu (ruoka ja juoma) sekä veri. Sukupuoliteitse tarttuvat esimerkiksi HIV ja klamydia, lisää [TE1:ssä](../../te1/06-seksuaaliterveys/). **Pandemia** on maantieteellisesti laaja epidemia (Terveyskirjasto). **Epidemia** tarkoittaa, että sairaustapauksia on tietyssä väestössä ja tiettynä aikana odotettua enemmän (Lääkärilehti). Eläimestä ihmiseen tarttuva on **zoonoosi** ([Ruokavirasto](https://www.ruokavirasto.fi/zoonoosikeskus/zoonoosit/)). Kaikki taudit eivät tartu: **autoimmuunisairaudessa** puolustus hyökkää omia kudoksia vastaan ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00010)).
 

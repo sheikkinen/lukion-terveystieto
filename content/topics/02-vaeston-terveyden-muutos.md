@@ -307,7 +307,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** Kuvio piirretään seuraavasti. Vaaka-akselilla ovat vaiheet 1, 2 ja 3, pystyakselilla taso (matala–korkea).
+**a)** Mallikuva on Mallivastausten lopussa. Kuvio piirretään seuraavasti. Vaaka-akselilla ovat vaiheet 1, 2 ja 3, pystyakselilla taso (matala–korkea).
 
 ```
 taso

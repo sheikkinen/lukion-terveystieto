@@ -60,7 +60,7 @@ last_reviewed: 2026-11-22
 
 Eettisen analyysin näkökulmat opit jo TE1:ssä, kun pohdit seksuaalioikeuksia ([TE1: Seksuaalioikeudet](../../te1/07-seksuaalioikeudet/)). TE3:ssa niitä ei opeteta uudestaan vaan käytetään terveydenhuollon kysymyksissä: mitä ne tarkoittavat, kun päätöksen tekee ammattilainen, organisaatio tai yhteiskunta, ja kenen näkökulmasta kysymys on ylipäätään esitetty.
 
-Pikakertaus kuvitteellisella tapauksella: Kim löytää kadulta lompakon, jossa on rahaa ja henkilökortti. Kim miettii, palauttaako sen. Syvennys-sarake näyttää, mitä näkökulma tarkoittaa terveydenhuollossa.
+Pikakertaus kuvitteellisella tapauksella: Kim löytää kadulta lompakon, jossa on rahaa ja henkilökortti. Kim miettii, palauttaako sen (kaavio tämän osion lopussa). Syvennys-sarake näyttää, mitä näkökulma tarkoittaa terveydenhuollossa.
 
 | Näkökulma | Kysymys | Lompakkotapaus | Terveydenhuollon syvennys |
 |---|---|---|---|

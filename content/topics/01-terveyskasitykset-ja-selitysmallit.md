@@ -77,7 +77,7 @@ TE1:ssä opit, että terveys on moniulotteinen ja että WHO:n määritelmää on
 
 Lähteet: [humoraalioppi](https://fi.wikipedia.org/wiki/Humoraalioppi), [kansanparannus](https://fi.wikipedia.org/wiki/Kansanl%C3%A4%C3%A4kint%C3%A4), [miasma](https://fi.wikipedia.org/wiki/Miasmateoria), [mikrobiteoria](https://fi.wikipedia.org/wiki/Mikrobiteoria), [Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00903).
 
-Humoraalioppi selitti sairaudet luonnollisilla syillä, ja keskiajalla se voitti maagisen lääkeopin. Mallit elivät siis pitkään rinnakkain.
+Humoraalioppi selitti sairaudet luonnollisilla syillä, ja keskiajalla se voitti maagisen lääkeopin. Mallit elivät pitkään rinnakkain (kaavio tämän osion lopussa).
 
 ### Miksi käsitykset muuttuivat?
 

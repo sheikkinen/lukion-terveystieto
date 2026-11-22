@@ -272,9 +272,11 @@ images:
     placement: header
     decorative: true
     prompt: >-
-      A warm school common room with sofas, plants and big windows: small groups of students talk and laugh, one
-      student who was sitting alone is waved over to join a friendly group, one shows a friend a phone with a blank
-      screen. Varied young people, a welcoming sense of belonging.
+      Flat vector illustration of a bright school common room, wide view. One long sofa stands in the centre, and on it
+      sit four students close together, laughing and talking. At the left edge one more student stands up from a
+      beanbag and walks towards them, while one of the four waves a hand to invite them over. Everyone's hands are empty,
+      resting in laps or waving. The wooden floor is completely bare and clean, with no objects, papers or litter anywhere. A few potted plants and big
+      windows with an open sky behind. A welcoming sense of belonging. Simple geometric shapes, solid colour fills.
     alt: Opiskelijat juttelevat koulun oleskelutilassa, ja yksin istunut kutsutaan mukaan porukkaan.
 
   - id: il-te2-06-kestava-kehitys
@@ -285,9 +287,11 @@ images:
     placement: header
     decorative: true
     prompt: >-
-      Young people tend a community garden on a sunny day next to a school: two plant seedlings in raised wooden beds,
-      one carries a watering can, one parks a bicycle. Solar panels on a low roof and a few small wind turbines far
-      away on a hill. Hopeful, calm and cooperative.
+      Clear, simple composition with one focal group in the centre: three smiling, relaxed young people tend raised wooden garden beds
+      with seedlings on a sunny day next to a school, one holds a watering can, one kneels by the soil, one carries a
+      small tray of seedlings. Behind them a calm, uncluttered background with a low school building with solar panels
+      on its roof and a few small wind turbines far away on a green hill. Plenty of empty space around the group, a
+      single bicycle parked at the edge. Hopeful, calm and cooperative.
     alt: Nuoret hoitavat yhteisöpuutarhaa koulun vieressä, taustalla aurinkopaneeleja ja tuulivoimaloita.
 
   - id: il-te2-07-turvallisuus-ja-vakivalta
@@ -298,11 +302,13 @@ images:
     placement: header
     decorative: true
     prompt: >-
-      A well-lit upper secondary school entrance on a calm autumn afternoon: older teenage students aged 16 to 19 in
-      varied casual clothes (hoodies, jeans, jackets) walk out together in small groups, two cyclists wear helmets on
-      a bike lane, a friendly adult in a casual sweater stands by the open door smiling, lamps line a wide clear path
-      with a pedestrian crossing. No small children, no school uniforms, no ties, no shorts. A safe, caring and
-      ordinary everyday mood.
+      Flat vector illustration made of simple geometric shapes and solid colour fills, no gradients, no texture, no
+      realistic detail, like a minimalist poster. A plain pale school building with a wide open door and a few big windows;
+      trees are simple round green shapes, the path is a plain pale strip with a plain pedestrian crossing and a few
+      lamp posts. Even bright daylight across the whole picture. Four tall teenage students aged 17 to 19 with grown-up
+      proportions and backpacks, in hoodies, jeans and jackets, walk out together; two of them ride bicycles on the bike
+      lane, and both riders have a round pale-blue bicycle helmet on their heads (the helmets are clearly visible). A friendly adult in a casual sweater stands by the door smiling. No
+      small children, no school uniforms. A safe, caring and ordinary everyday mood.
     alt: Opiskelijat kävelevät yhdessä valoisaa koulun pihatietä, ja kypäräpäinen pyöräilijä odottaa suojatien vieressä.
 
   - id: il-te2-08-tyohyvinvointi
@@ -366,9 +372,12 @@ images:
     placement: header
     decorative: true
     prompt: >-
-      Students visit a calm local history museum: they look at an old wooden farmhouse model, a hand-drawn old town map
-      and a row of simple framed landscape paintings from different centuries. One student points along the row while
-      the others listen with interest. Soft gallery light.
+      Flat vector illustration made of simple geometric shapes and solid colour fills, no brush strokes, no texture, no
+      realistic detail. Four tall students aged 17 to 19 with grown-up proportions and backpacks visit a calm local
+      history museum room with plain pale walls. They look at a small wooden farmhouse model on a plinth, a plain pale
+      map on the wall that is only a few soft coloured shapes for land and water, and three simple framed paintings, each
+      a plain colour block of soft hills and a sky. One student points at a painting while the others listen with
+      interest. Nothing else on the walls. Soft even gallery light.
     alt: Opiskelijat katsovat paikallismuseossa vanhaa talon pienoismallia, karttaa ja maalauksia.
 
   - id: il-te3-02-vaeston-terveyden-muutos

@@ -207,7 +207,9 @@
             ],
             "format": "d",
             "grid": false,
-            "aria": false
+            "aria": false,
+            "labelFontSize": 13,
+            "labelExpr": "[datum.value, ['Nälkä','Rutot','Sairaus','Ikä','Erot'][datum.value-1]]"
           }
         },
         "y": {
