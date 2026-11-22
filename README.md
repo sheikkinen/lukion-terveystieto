@@ -1,8 +1,7 @@
 # Lukion terveystieto
 
-> **Huom.** Sisältöä ei ole vielä tarkastanut terveystiedon opettaja eikä terveydenhuollon ammattilainen. Se on
-> luonnos tarkastettavaksi. Sivusto ei anna terveysneuvontaa: omista oireista kysy opiskeluterveydenhuollosta tai
-> lääkäriltä, ja hätätilanteessa soita 112.
+> **Huom.** Sivusto ei anna terveysneuvontaa: omista oireista kysy opiskeluterveydenhuollosta tai lääkäriltä, ja
+> hätätilanteessa soita 112.
 
 Avoin, CC BY 4.0 -lisensoitu materiaali lukion terveystietoon. Se seuraa lukion opetussuunnitelman perusteita 2019.
 Valmiina ovat pakollinen moduuli TE1 *Terveys voimavarana* ja valtakunnalliset valinnaiset TE2 *Terveys ja ympäristö*
@@ -57,7 +56,8 @@ omia, ja niiden pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintola
 ## Tunnetut puutteet / known issues
 
 - [ ] **Expert review not done:** a terveystieto teacher (curriculum fit and exam tasks), a health professional
-  (facts), and a safe-messaging reviewer (topics 04, 08, 09) should read the content before wider use.
+  (facts), and a safe-messaging reviewer (topics 04, 08, 09) should read the content. The site banner saying it was
+  unreviewed was removed at the operator's request (D-008).
 - [ ] **Law texts not read in full:** the alcohol, tobacco and student health care rules rest on summaries. The site
   states only age limits and links the laws.
 - [ ] **Sleep:** no official Finnish recommendation was found, so the topics state no hours.

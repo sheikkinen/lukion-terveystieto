@@ -22,8 +22,9 @@ original words.
 - **Producer** (the long session) writes the briefs, runs the workflows and reports.
 - **Builders, checkers, judge:** workflow agents. Builders own separate files; checkers and the judge wrote nothing
   they check.
-- **Human reviewers** (needed before wider use): a terveystieto teacher (curriculum and exam tasks) and a health
-  professional (facts). The site says until then that it has not been reviewed by them.
+- **Human reviewers** (recommended): a terveystieto teacher (curriculum and exam tasks) and a health professional
+  (facts). Their sign-off is recorded in `review_status`. The site-wide review banner was removed by the operator
+  (D-008); the pages still give no medical advice and send students to student health care.
 
 ## Rules in force
 
