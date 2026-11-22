@@ -60,7 +60,7 @@ The first time in a topic, use the full form; after that the short form. Theory 
 | opiskeluhyvinvointi | opiskelukunto | Links to opinto-ohjaus topic 04. |
 | opiskeluterveydenhuolto; opiskeluhuolto; hyvinvointialue | kouluterveydenhuolto (for lukio), sote-alue | Terveydenhoitaja, lääkäri; kuraattori, psykologi. |
 | itsemurha; kuoli itsemurhaan; itsetuhoisuus | teki itsemurhan, epäonnistunut itsemurha | Safe messaging (§10). |
-| henkilö, jolla on syömishäiriö | anorektikko, bulimikko | Person first. |
+| syömishäiriö; syömishäiriötä sairastava | anorektikko, bulimikko (as labels) | Plain Finnish; no labels that reduce a person to the disorder. |
 | ylioppilaskoe; kokelas; Ylioppilastutkintolautakunta (YTL) | YO-koe | |
 
 ## 4. "Osaan" outcomes
@@ -299,7 +299,7 @@ no own objective and TE2.t4 is the nearest. Link TE1 by page (`../../te1/03-terv
 | mielihyvä; palkitsemisjärjestelmä; aineriippuvuus; toiminnallinen riippuvuus | addiktio, koukku (as terms) | |
 | sietokyky (toleranssi); vieroitusoireet; kontrollin menetys; repsahdus | "retkahdus" as failure | |
 | suorat ja epäsuorat haitat; ehkäisevä päihdetyö; haittojen vähentäminen; hoitoon hakeutuminen | | Harm reduction defined only; its detail belongs to services. |
-| henkilö, jolla on päihderiippuvuus; henkilö, joka käyttää; väkivaltaa kokenut; väkivaltaa käyttävä | narkkari, alkoholisti, addikti, juoppo, puhdas, uhri (as a label) | Person first; never *mitä hänellä oli päällä*. |
+| päihderiippuvuus; riippuvainen; huumeita käyttävä ihminen (EHYT); väkivaltaa kokenut; väkivaltaa käyttävä | narkkari, nisti, alkoholisti or addikti as an identity, juoppo, puhdas, uhri (as a label) | Plain neutral Finnish is fine; no demeaning labels or blame; never *mitä hänellä oli päällä*. |
 
 **Material-based tasks.** TE2 tasks are mostly material-based: in a topic of three, at least two carry material; one
 concept task without material (A20, `maarittele-ja-esimerkki` or `kasitteiden-nimeaminen`) is kept across the module.
@@ -361,7 +361,7 @@ Opiskelijalle and Tehtävät (`../../te1/…`); the lesson view sits one level d
 | terveyskäsitys; maallikon ja tieteen; biolääketieteellinen, biopsykososiaalinen, salutogeeninen | lääketieteellinen malli (alone) | Salutogeeninen eli terveyslähtöinen; *koherenssin tunne*: ymmärrettävyys, hallittavuus, merkityksellisyys. |
 | selitysmalli: yliluonnollinen (demonologinen), humoraalioppi, miasmateoria, mikrobiteoria, monisyinen malli | taikausko, "alkeellinen" | Each with its cause and its treatment; past people are not mocked. |
 | epidemiologinen siirtymä; väestöllinen siirtymä; kuolleisuus, syntyvyys | väestöräjähdys (as a term) | Phases and curves named in the task. |
-| tarttumaton tauti; tartuntatauti; tartuntatie; rokotusohjelma; laumasuoja; mikrobilääkeresistenssi | elintapasairaus, superbakteeri | *Riskitekijä*, never *syy* alone; *henkilö, jolla on …*, never *sairastaja*, *uhri*, *oma syy*. |
+| tarttumaton tauti; tartuntatauti; tartuntatie; rokotusohjelma; laumasuoja; mikrobilääkeresistenssi | elintapasairaus, superbakteeri | *Riskitekijä*, never *syy* alone; no blame (*oma syy*) and no *uhri* as a label; *sairastaja* is ordinary Finnish. |
 | ilmaantuvuus; esiintyvyys; ikävakioitu | yleisyys (for both) | Ilmaantuvuus new cases, esiintyvyys all cases. |
 | hyvinvointialue; julkinen, yksityinen, kolmas sektori; itsehoito; omahoito | sote-alue, itselääkitys | Itsehoito on one's own, omahoito planned with a professional. Fees linked only. |
 | eettisen analyysin näkökulmat: arvot, normit, hyveet, seuraukset, oikeudet, velvollisuudet, motiivit | moraali (for all) | Plus actors: yksilö, ammattilainen, organisaatio, yhteiskunta, globaali. |

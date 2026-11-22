@@ -127,7 +127,7 @@ Alkoholi kulkee istukan läpi sikiölle ja haittaa sen kasvua ja keskushermoston
 1. Kirjoita lauseet paperille.
 2. Valitse jokaisesta yksi sana, joka syyllistää.
 3. Kirjoita kunkin lauseen viereen, mitä mekanismia lause ohittaa.
-4. Kirjoita lause uudelleen niin, että siinä on henkilö ensin ja riippuvuus terveydentilana.
+4. Kirjoita lause uudelleen niin, ettei se syyllistä ja riippuvuus näkyy terveydentilana.
 5. Kirjoita yksi syy, miksi syyllistäminen vaikeuttaa avun hakemista.
 
 ### Tehtävä 3: Tutki nuorille tarkoitettua palvelua
@@ -455,7 +455,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Kerro tunnin alussa, että aihe voi herättää tunteita, että tauon voi pitää ja että tehtävän voi jättää väliin. Ketään ei pakoteta puhumaan.
 - Kerro, että terveydenhoitaja ja opiskeluhuoltotiimi ovat käytettävissä. Jos opiskelija kertoo huolestaan, kuuntele, kiitä luottamuksesta ja ohjaa terveydenhoitajalle tai opiskeluhuoltoon. Koulun henkilökunnalla, kuten opettajalla, terveydenhoitajalla ja kuraattorilla, on ohjeet siitä, miten toimitaan, kun alaikäisen avun tarve tulee tietoon; tarkista koulusi ohjeista, milloin ja miten tehdään esimerkiksi lastensuojeluilmoitus, jonka tarkoitus on saada tuki. Kerro asia neutraalisti.
 - Sarja tunteja toimii paremmin kuin yksittäinen tunti ([THL](https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa), [EHYT](https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/)). Liitä tämä aihe aiheeseen 10.
-- **Oletusten tarkistus ennen tuntia:** Oletanko, että riippuvuus on aina aineisiin liittyvää? Oletanko, että kenelläkään ryhmässä ei ole läheistä, jolla on riippuvuus? Käytänkö sanoja, jotka leimaavat? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
+- **Oletusten tarkistus ennen tuntia:** Oletanko, että riippuvuus on aina aineisiin liittyvää? Oletanko, että kenelläkään ryhmässä ei ole läheistä, jolla on riippuvuus? Käytänkö leimaavia sanoja, kuten *narkkari* tai *juoppo*? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
 

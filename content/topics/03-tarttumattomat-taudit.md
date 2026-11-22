@@ -67,7 +67,7 @@ last_reviewed: 2026-11-21
 
 ### Mitkä taudit ovat tarttumattomia?
 
-**Tarttumaton tauti** ei leviä ihmisestä toiseen. WHO nimeää neljä pääryhmää: sydän- ja verisuonitaudit, syövät, krooniset hengityselinsairaudet ja diabetes ([WHO](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases)). Tarttumattomat taudit vaikuttavat usein **toimintakykyyn** eli kykyyn selviytyä arjesta. Sanotaan *henkilö, jolla on sairaus*, ei *sairastaja*.
+**Tarttumaton tauti** ei leviä ihmisestä toiseen. WHO nimeää neljä pääryhmää: sydän- ja verisuonitaudit, syövät, krooniset hengityselinsairaudet ja diabetes ([WHO](https://www.who.int/news-room/fact-sheets/detail/noncommunicable-diseases)). Tarttumattomat taudit vaikuttavat usein **toimintakykyyn** eli kykyyn selviytyä arjesta.
 
 ### Ilmaantuvuus ja esiintyvyys
 
@@ -421,7 +421,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat arvioivat pareittain, onko 100 uutta tapausta 100 000 asukasta kohti paljon vai vähän. | Kysy, mitä tarvitaan arvioon (väestön koko, aikajakso). | Arvaus omaan vihkoon. | Yksi arvaus ääneen. |
 | Aiemman tiedon aktivointi | 10 | Parit kertaavat TE2:n riskin käsitteet ja kysely- ja rekisteritiedon eron. | Kirjoita taululle: riski, riskitekijä. | Yksin paperille. | Vain riskitekijä. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat neljä pääryhmää, ilmaantuvuuden ja esiintyvyyden ja ehkäisyn kolme tasoa. | Esittele esimerkit: tyypin 1 ja 2 diabetes sekä COPD. Korosta kieltä: henkilö, jolla on sairaus. | Taulukko paperilla. | Ehkäisyn tasot kotiin. |
+| Lyhyt alustus | 10 | Opiskelijat kirjaavat neljä pääryhmää, ilmaantuvuuden ja esiintyvyyden ja ehkäisyn kolme tasoa. | Esittele esimerkit: tyypin 1 ja 2 diabetes sekä COPD. Korosta kieltä: riskitekijä, ei syy. | Taulukko paperilla. | Ehkäisyn tasot kotiin. |
 | Työskentely | 25 | Tehtävä 2 kokonaan pareittain (20 min), sitten Tehtävän 1 vaiheet 3–4 (5 min). | Kierrä ja kysy: mikä näistä on valittavissa ja mikä ei? | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vastaavat Pohdinnan kysymykseen 1: miten sairastuneesta puhutaan syyllistämättä? | Kokoa sanavalinnat taululle. | Yksin kirjoittaen. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n virheet 1–3 yksin (7 min) ja tarkistus (3 min). Exit-lappu: ilmaantuvuus ja esiintyvyys omin sanoin. | Näytä, mistä virheen 4 pistettä syntyy. | Paperilla. | Tarkistus kotona. |
@@ -463,7 +463,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Pelisäännöt ja oletusten tarkistus
 
 - Puhutaan kuvitteellisista tapauksista ja väestöistä. Kenenkään ei tarvitse kertoa oman tai läheisensä sairaudesta. Jos opiskelija kertoo, kuuntele ja ohjaa tarvittaessa opiskeluterveydenhuoltoon. Sairastunutta ei syytetä, eikä riskitekijöistä puhuta moraalisesti. Painosta ei puhuta luvuin.
-- **Oletusten tarkistus ennen tuntia:** Oletanko, että joku luokasta ei ole kokenut sairautta läheltä? Esitänkö elintavat pelkästään yksilön valintoina? Käytänkö sanoja *sairastaja* tai *oma syy*? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
+- **Oletusten tarkistus ennen tuntia:** Oletanko, että joku luokasta ei ole kokenut sairautta läheltä? Esitänkö elintavat pelkästään yksilön valintoina? Käytänkö ilmausta *oma syy*? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
 

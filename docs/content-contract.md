@@ -113,3 +113,12 @@ tarkastanut…" is withdrawn, and the site's `templates/base.html` override is d
 applies (E-1 no longer needs re-syncing). `review_status` stays in every front matter as the record of human review.
 The rules on medical advice are unchanged: the front page says the site gives no health advice, and every page sends
 students with their own symptoms to student health care, a doctor or 112.
+
+## Addendum 2026-11-22: plain Finnish instead of person-first wording (D-012)
+
+The rule "henkilö, jolla on sairaus, ei sairastaja" and "henkilö ensin" is withdrawn: it came from the site's own
+style decision, not from the curriculum or a Finnish language authority. Plain neutral Finnish is fine (*sairastaja*,
+*riippuvuus*, *riippuvainen*, *syömishäiriötä sairastava*). What stays out: demeaning labels that reduce a person to a
+condition (*narkkari*, *nisti*, *juoppo*, *anorektikko* as a label) and blame (*oma syy*, *syypää*). For drug use the
+site prefers *huumeita käyttävä ihminen*, as the prevention organisation EHYT recommends. Person-first wording is
+allowed but not required.
