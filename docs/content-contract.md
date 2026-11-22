@@ -122,3 +122,13 @@ style decision, not from the curriculum or a Finnish language authority. Plain n
 condition (*narkkari*, *nisti*, *juoppo*, *anorektikko* as a label) and blame (*oma syy*, *syypää*). For drug use the
 site prefers *huumeita käyttävä ihminen*, as the prevention organisation EHYT recommends. Person-first wording is
 allowed but not required.
+
+## Addendum 2026-11-22: the shared content guideline (lukio-runko v0.4.0)
+
+This contract now extends the shared guideline in the engine, `docs/content-guideline.md` in sheikkinen/lukio-runko
+(v0.4.0, pinned in requirements.txt). In short: every teaching claim, rule or model-answer criterion names its basis
+(a curriculum code from the topic's list, a matriculation exam requirement, a cited source or an operator decision) or
+is labelled as the site's own framing (*sivuston oma jäsennys*); value questions are written as weighing and model
+answers accept any well-argued view; checkers and judges verify claims against their basis, not against this site's
+style guide or earlier drafts; and the guideline's watch list of English habits applies. Where this contract and the
+guideline differ, the guideline applies until this contract is amended.
