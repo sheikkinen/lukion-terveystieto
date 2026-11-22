@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 75
 prerequisites: [te1-09-stressi-ja-kriisit, te1-10-opiskeluhyvinvointi]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch08-tyohyvinvointi"}]
 official_links:
+  - {title: "Visual novel: Työhyvinvointi", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch08-tyohyvinvointi", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Nuori työntekijä (Työsuojelu.fi)", url: "https://tyosuojelu.fi/tyosuhde/nuori-tyontekija", publisher: "Työsuojeluhallinto (Lupa- ja valvontavirasto)", read: 2026-11-21}
   - {title: "Laki nuorista työntekijöistä 998/1993 (Finlex)", url: "https://www.finlex.fi/fi/lainsaadanto/1993/998", publisher: "Finlex (oikeusministeriö)", read: 2026-11-21}
   - {title: "Työterveyshuoltolaki 1383/2001 (Finlex)", url: "https://www.finlex.fi/fi/lainsaadanto/2001/1383", publisher: "Finlex (oikeusministeriö)", read: 2026-11-21}
@@ -159,6 +161,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan kertoa, kuka vastaa työn turvallisuudesta, mitä työterveyshuolto tekee ja mistä nuori työntekijä löytää tietoa oikeuksistaan.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Työhyvinvointi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch08-tyohyvinvointi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

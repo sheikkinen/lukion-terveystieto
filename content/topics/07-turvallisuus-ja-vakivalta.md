@@ -13,7 +13,9 @@ self_study_minutes: 70
 prerequisites: [te1-07-seksuaalioikeudet]
 safety_flags: [violence]
 content_note: "Tällä sivulla käsitellään väkivaltaa ja turvallisuutta yleisellä tasolla: sivulla ei kuvata tekoja eikä ole lukuja, kenenkään ei tarvitse kertoa omasta elämästään, voit jättää tehtävän väliin, ja lopussa on tietoa avusta."
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch07-turvallisuus-ja-vakivalta"}]
 official_links:
+  - {title: "Visual novel: Ympäristöjen turvallisuus ja väkivallan ehkäisy", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch07-turvallisuus-ja-vakivalta", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Väkivalta (THL)", url: "https://thl.fi/data-ja-tilastot/vakivalta", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Uusi seksuaalirikoslaki (oikeusministeriö)", url: "https://oikeusministerio.fi/seksuaalirikoslaki", publisher: "Oikeusministeriö", read: 2026-11-21}
   - {title: "Turvallinen mikroliikenne edellyttää sääntöjä ja vastuuta (liikenne- ja viestintäministeriö, 25.2.2026)", url: "https://valtioneuvosto.fi/-/1410829/turvallinen-mikroliikenne-edellyttaa-saantoja-ja-vastuuta", publisher: "Liikenne- ja viestintäministeriö (valtioneuvosto)", read: 2026-11-21}
@@ -189,6 +191,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan suunnitella väkivallan ehkäisyä yksilön, koulun ja yhteiskunnan tasolla ja kertoa, mistä apua saa.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Ympäristöjen turvallisuus ja väkivallan ehkäisy](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch07-turvallisuus-ja-vakivalta). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

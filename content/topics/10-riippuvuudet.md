@@ -13,7 +13,9 @@ self_study_minutes: 80
 prerequisites: [te2-09-riippuvuuden-mekanismit, te1-02-elintapamallit]
 safety_flags: [substances]
 content_note: "Tällä sivulla käsitellään aineita, rahapelaamista ja pelaamista yleisellä tasolla. Sivulla ei ole lukuja, määriä eikä käyttötapoja, aineiden haitat kerrotaan vain sanoin, kenenkään ei tarvitse kertoa omasta tai läheistensä elämästä, tehtävän voi jättää väliin, ja lopussa on tietoa avusta."
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch10-riippuvuudet"}]
 official_links:
+  - {title: "Visual novel: Aine- ja toiminnalliset riippuvuudet", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch10-riippuvuudet", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Nuortenlinkki", url: "https://nuortenlinkki.fi/", publisher: "A-klinikkasäätiö", read: 2026-11-21}
   - {title: "Päihdehaittojen ja riippuvuuksien ehkäisy (STM)", url: "https://stm.fi/paihdehaittojen-ehkaisy", publisher: "Sosiaali- ja terveysministeriö", read: 2026-11-21}
   - {title: "Uudistettu alkoholilaki (valtioneuvoston tiedote 25.6.2026)", url: "https://valtioneuvosto.fi/-/1271139/uudistettu-alkoholilaki-mahdollistaa-alkoholijuomien-toimitukset-asiakkaille-ja-sallii-vakevien-verkkomainonnan-", publisher: "Sosiaali- ja terveysministeriö (valtioneuvosto)", read: 2026-11-21}
@@ -56,11 +58,7 @@ linked_materials:
   - {"title": "Peluuri", "url": "https://www.peluuri.fi/", "publisher": "Peluuri", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja (ikärajaa tai nuorten ohjeita ei mainita)", "read": 2026-11-21}
   - {"title": "Päihdekasvatus (EHYT)", "url": "https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/", "publisher": "Ehkäisevä päihdetyö EHYT ry", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja (ammattilaiset)", "read": 2026-11-21}
   - {"title": "Ehkäisevä päihdetyö kouluissa ja oppilaitoksissa (THL)", "url": "https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa", "publisher": "Terveyden ja hyvinvoinnin laitos (THL)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja (ammattilaiset)", "read": 2026-11-21}
-exam_tasks:
-  - {id: K1, type: monivalinta, part: A20, points: 20, minutes: 25, codes: [TE2.s8, TE2.t5]}
-  - {id: K2, type: viestinnan-analyysi, part: B20, points: 20, minutes: 35, codes: [TE2.s8, TE2.t5]}
-  - {id: K3, type: viitekehyksen-soveltaminen, part: C30, points: 30, minutes: 55, codes: [TE2.s8, TE2.t5]}
-  - {id: K4, type: kasitteiden-nimeaminen, part: A20, points: 20, minutes: 25, codes: [TE2.s8, TE2.t5]}
+exam_tasks: [{id: K1, type: monivalinta, part: A20, points: 20, minutes: 25, codes: [TE2.s8, TE2.t5]}, {id: K2, type: viestinnan-analyysi, part: B20, points: 20, minutes: 35, codes: [TE2.s8, TE2.t5]}, {id: K3, type: viitekehyksen-soveltaminen, part: C30, points: 30, minutes: 55, codes: [TE2.s8, TE2.t5]}, {id: K4, type: kasitteiden-nimeaminen, part: A20, points: 20, minutes: 25, codes: [TE2.s8, TE2.t5]}]
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
 school_adapts:
@@ -182,6 +180,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan kertoa, mitkä lait ja ikärajat säätelevät aineita ja rahapelejä, mistä ajantasaisen tiedon löytää ja miksi lait muuttuvat.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen. Tätä itsearviointia ei pisteytetä eikä se mittaa omaa elämääsi.
+
+**Pelaa aiheesta visual novel:** [Aine- ja toiminnalliset riippuvuudet](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch10-riippuvuudet). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

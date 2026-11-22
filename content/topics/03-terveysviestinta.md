@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 75
 prerequisites: [te2-01-tieto-ja-vinoumat, te1-03-terveyskulttuuri]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch03-terveysviestinta"}]
 official_links:
+  - {title: "Visual novel: Terveysviestintä ja sen vaikutuskeinot", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch03-terveysviestinta", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Faktabaari EDU", url: "https://faktabaari.fi/edu/", publisher: "Avoin Yhteiskunta ry (Faktabaari)", read: 2026-11-21}
   - {title: "Mediataitokoulu: mainonta", url: "https://mediataitokoulu.fi/avainsanat/mainonta/", publisher: "Kuvi (Taide- ja kulttuurivirasto), Mediataitokoulu", read: 2026-11-21}
   - {title: "Mediataitokoulu: tekoäly", url: "https://mediataitokoulu.fi/avainsanat/tekoaly/", publisher: "Kuvi (Taide- ja kulttuurivirasto), Mediataitokoulu", read: 2026-11-21}
@@ -168,6 +170,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 6. Osaan arvioida pakkauksen terveysväitettä ja kotitestin lupauksia: onko väite sallittu ja mitä tulos ei kerro.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Terveysviestintä ja sen vaikutuskeinot](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch03-terveysviestinta). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

@@ -11,3 +11,4 @@
 | D-007 | 2026-11-21 | Write TE3 *Terveys ja yhteiskunta* next, after the TE2 exam drive ("Start TE3") | operator [O] | brief 010 |
 | D-008 | 2026-11-22 | Remove the site-wide review banner ("banner: remove"); review_status stays in the front matter, and the pages still give no medical advice | operator [O] | brief 013 |
 | D-009 | 2026-11-22 | Link the TE1 visual novel chapters, one per topic, at the end of Pohdinta, in the sources and on the topic cards; engine pin v0.2.0 for card links ("Yes, add and push", answering the game-engine session's request relayed on the operator's behalf) | operator [O] | game-engine session |
+| D-010 | 2026-11-22 | Link the TE2 visual novel chapters the same way as TE1 (D-009), under the operator's standing pre-approval ("Docs cookbook will be sending more visual novels. Preapproval to add the links in similar manner"); files at the 500-line cap write exam_tasks as a one-line list | operator [O] | game-engine session |

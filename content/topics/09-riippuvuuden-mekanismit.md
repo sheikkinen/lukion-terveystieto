@@ -13,7 +13,9 @@ self_study_minutes: 70
 prerequisites: [te1-08-mielenterveys, te1-09-stressi-ja-kriisit]
 safety_flags: [substances]
 content_note: "Tällä sivulla käsitellään mielihyvää ja sitä, miten riippuvuus voi syntyä, yleisellä tasolla. Sivulla ei ole lukuja eikä tietoa käyttömääristä tai käyttötavoista, aineiden haitoista kerrotaan vain sanoin, kenenkään ei tarvitse kertoa omasta elämästään, tehtävän voi jättää väliin, ja lopussa on tietoa avusta."
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch09-riippuvuuden-mekanismit"}]
 official_links:
+  - {title: "Visual novel: Mielihyvä ja riippuvuuden mekanismit", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch09-riippuvuuden-mekanismit", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Nuortenlinkki", url: "https://nuortenlinkki.fi/", publisher: "A-klinikkasäätiö", read: 2026-11-21}
   - {title: "Päihdekasvatus (EHYT)", url: "https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/", publisher: "Ehkäisevä päihdetyö EHYT ry", read: 2026-11-21}
   - {title: "Ehkäisevä päihdetyö kouluissa ja oppilaitoksissa (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
@@ -40,11 +42,7 @@ linked_materials:
   - {"title": "Alkoholin käytön aiheuttamia sikiövaurioita voidaan ehkäistä (THL-blogi, tammikuu 2020)", "url": "https://blogi.thl.fi/alkoholin-kayton-aiheuttamia-sikiovaurioita-voidaan-ehkaista-kulutusta-mittaava-verikoe-pitaisi-ottaa-osaksi-aitiysneuvoloiden-seulontatutkimuksia/", "publisher": "Terveyden ja hyvinvoinnin laitos (THL)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja ja ammattilaiset", "read": 2026-11-21}
   - {"title": "Nikotiinituotteet (THL, ammattilaisohje)", "url": "https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet", "publisher": "Terveyden ja hyvinvoinnin laitos (THL)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja ja ammattilaiset", "read": 2026-11-21}
   - {"title": "Päihdelinkki", "url": "https://paihdelinkki.fi/", "publisher": "A-klinikkasäätiö", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja (aikuiset ja läheiset)", "read": 2026-11-21}
-exam_tasks:
-  - {id: K1, type: kasitteiden-nimeaminen, part: A20, points: 20, minutes: 25, codes: [TE2.s7, TE2.t5]}
-  - {id: K2, type: piirtaminen, part: B20, points: 20, minutes: 35, codes: [TE2.s7, TE2.t5]}
-  - {id: K3, type: aineiston-analyysi, part: C30, points: 30, minutes: 55, codes: [TE2.s7, TE2.t5]}
-  - {id: K4, type: oikein-vaarin, part: B20, points: 20, minutes: 30, codes: [TE2.s7, TE2.t5]}
+exam_tasks: [{id: K1, type: kasitteiden-nimeaminen, part: A20, points: 20, minutes: 25, codes: [TE2.s7, TE2.t5]}, {id: K2, type: piirtaminen, part: B20, points: 20, minutes: 35, codes: [TE2.s7, TE2.t5]}, {id: K3, type: aineiston-analyysi, part: C30, points: 30, minutes: 55, codes: [TE2.s7, TE2.t5]}, {id: K4, type: oikein-vaarin, part: B20, points: 20, minutes: 30, codes: [TE2.s7, TE2.t5]}]
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
 school_adapts:
@@ -162,6 +160,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan kertoa, mitkä tekijät suojaavat riippuvuudelta ja mitkä kuormittavat, ja mistä nuori saa apua.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen. Tätä itsearviointia ei pisteytetä eikä se mittaa omaa elämääsi.
+
+**Pelaa aiheesta visual novel:** [Mielihyvä ja riippuvuuden mekanismit](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch09-riippuvuuden-mekanismit). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

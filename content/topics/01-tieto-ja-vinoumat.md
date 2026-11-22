@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 75
 prerequisites: [te1-03-terveyskulttuuri]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch01-tieto-ja-vinoumat"}]
 official_links:
+  - {title: "Visual novel: Tieteellinen tieto, arkitieto ja ajattelun vinoumat", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch01-tieto-ja-vinoumat", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Käypä hoito -suositukset", url: "https://www.kaypahoito.fi/", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
   - {title: "Terveyskirjasto", url: "https://www.terveyskirjasto.fi/", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
   - {title: "Tieto (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:tieto", publisher: "Tieteen termipankki", read: 2026-11-21}
@@ -32,14 +34,9 @@ linked_materials:
   - {title: "Tieto (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:tieto", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0", audience: opettaja ja syventävä opiskelija, read: 2026-11-21}
   - {title: "Faktabaari EDU", url: "https://faktabaari.fi/edu/", publisher: "Avoin Yhteiskunta ry", licence_class: link-out, licence: "Creative Commons, versio ei ilmoitettu; käsitellään link-out-aineistona", audience: opettaja ja opiskelija, read: 2026-11-21}
   - {title: "Argumenttikortit argumenttien luotettavuuden arviointiin", url: "https://aoe.fi/#/materiaali/3554", publisher: "Tampereen yliopisto (aoe.fi)", licence_class: link-out, licence: "CC BY-NC-ND 4.0", audience: opettaja, read: 2026-11-21}
-exam_tasks:
-  - {id: K1, type: maarittele-ja-esimerkki, part: A20, points: 20, minutes: 25, codes: [TE2.s1, TE2.t1]}
-  - {id: K2, type: viestinnan-analyysi, part: B20, points: 20, minutes: 35, codes: [TE2.s1, TE2.t1]}
-  - {id: K3, type: tutkimustiedon-arviointi, part: C30, points: 30, minutes: 55, codes: [TE2.t1, TE2.t2, TE2.s1]}
-  - {id: K4, type: oikein-vaarin, part: A20, points: 20, minutes: 25, codes: [TE2.t1, TE2.t3, TE2.s1, TE2.s3, TE2.s5, TE2.s7]}
+exam_tasks: [{id: K1, type: maarittele-ja-esimerkki, part: A20, points: 20, minutes: 25, codes: [TE2.s1, TE2.t1]}, {id: K2, type: viestinnan-analyysi, part: B20, points: 20, minutes: 35, codes: [TE2.s1, TE2.t1]}, {id: K3, type: tutkimustiedon-arviointi, part: C30, points: 30, minutes: 55, codes: [TE2.t1, TE2.t2, TE2.s1]}, {id: K4, type: oikein-vaarin, part: A20, points: 20, minutes: 25, codes: [TE2.t1, TE2.t3, TE2.s1, TE2.s3, TE2.s5, TE2.s7]}]
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
-sibling_links:
-  - {title: "Tietolähteet ja ohjauspalvelut (opinto-ohjaus, aihe 08)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/08-tietolahteet/", read: 2026-11-21}
+sibling_links: [{title: "Tietolähteet ja ohjauspalvelut (opinto-ohjaus, aihe 08)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/08-tietolahteet/", read: 2026-11-21}]
 school_adapts: ["Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"]
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; aineistot on kirjoitettu tehtäviin.", "Tehtävissä arvioidaan kuvitteellisia väitteitä ja henkilöitä; omasta terveydestä ei tarvitse kertoa kenellekään.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-21
@@ -170,6 +167,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan selittää lumevaikutuksen ja kertoa, miksi kokeessa tarvitaan vertailuryhmä.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Tieteellinen tieto, arkitieto ja ajattelun vinoumat](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch01-tieto-ja-vinoumat). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

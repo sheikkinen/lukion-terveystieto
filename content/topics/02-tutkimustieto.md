@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 75
 prerequisites: [te2-01-tieto-ja-vinoumat, te1-03-terveyskulttuuri]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch02-tutkimustieto"}]
 official_links:
+  - {title: "Visual novel: Tutkimusprosessi ja tutkimustiedon luotettavuus", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch02-tutkimustieto", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Asiantuntijalähteen arviointi (aoe.fi 3006)", url: "https://aoe.fi/#/materiaali/3006", publisher: "Hämeen ammattikorkeakoulu (aoe.fi)", read: 2026-11-21}
   - {title: "Asiantuntijalähteen arviointi -kaavio (aoe.fi 3050)", url: "https://aoe.fi/#/materiaali/3050", publisher: "Hämeen ammattikorkeakoulu (aoe.fi)", read: 2026-11-21}
   - {title: "Terveyskirjasto", url: "https://www.terveyskirjasto.fi/", publisher: "Kustannus Oy Duodecim", read: 2026-11-21}
@@ -38,14 +40,9 @@ linked_materials:
   - {title: "Käypä hoito: outoja sanoja ja terminologiaa", url: "https://www.kaypahoito.fi/khk00061", publisher: "Suomalainen Lääkäriseura Duodecim", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija ja opettaja, read: 2026-11-21}
   - {title: "Mixed methods (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Nimitys:mixed_methods", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0", audience: opettaja ja syventävä opiskelija, read: 2026-11-21}
   - {title: "Empiiriset tieteet (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:empiiriset_tieteet", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0", audience: opettaja ja syventävä opiskelija, read: 2026-11-21}
-exam_tasks:
-  - {id: K1, type: monivalinta, part: A20, points: 20, minutes: 25, codes: [TE2.s1, TE2.t1]}
-  - {id: K2, type: aineiston-lukeminen, part: B20, points: 20, minutes: 35, codes: [TE2.s1, TE2.t1, TE2.t2]}
-  - {id: K3, type: tutkimussuunnitelma, part: C30, points: 30, minutes: 50, codes: [TE2.t1, TE2.t2, TE2.s1]}
-  - {id: K4, type: kuvion-tulkinta, part: B20, points: 20, minutes: 35, codes: [TE2.t1, TE2.t2, TE2.s1]}
+exam_tasks: [{id: K1, type: monivalinta, part: A20, points: 20, minutes: 25, codes: [TE2.s1, TE2.t1]}, {id: K2, type: aineiston-lukeminen, part: B20, points: 20, minutes: 35, codes: [TE2.s1, TE2.t1, TE2.t2]}, {id: K3, type: tutkimussuunnitelma, part: C30, points: 30, minutes: 50, codes: [TE2.t1, TE2.t2, TE2.s1]}, {id: K4, type: kuvion-tulkinta, part: B20, points: 20, minutes: 35, codes: [TE2.t1, TE2.t2, TE2.s1]}]
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
-sibling_links:
-  - {title: "Tietolähteet ja ohjauspalvelut (opinto-ohjaus, aihe 08)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/08-tietolahteet/", read: 2026-11-21}
+sibling_links: [{title: "Tietolähteet ja ohjauspalvelut (opinto-ohjaus, aihe 08)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/08-tietolahteet/", read: 2026-11-21}]
 school_adapts: ["Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"]
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; aineistot on kirjoitettu tehtäviin.", "Tehtävissä analysoidaan kuvitteellisia tutkimuksia ja lähteitä; omasta terveydestä ei tarvitse kertoa kenellekään.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-21
@@ -170,6 +167,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan hakea terveystietoa ja vertailla useita lähteitä, joiden tarkoitus, menetelmä ja ikä ovat erilaiset.
 6. Osaan erottaa tutkimustyyppejä ja niiden käsitteitä: määrällinen ja laadullinen, havainnoiva ja kokeellinen, kohortti, tilastollinen merkitsevyys.
 7. Osaan erottaa riskin, altisteen ja riskitekijän sekä suhteellisen ja absoluuttisen riskin toisistaan ja lukea riskiä koskevia tekstejä.
+
+**Pelaa aiheesta visual novel:** [Tutkimusprosessi ja tutkimustiedon luotettavuus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch02-tutkimustieto). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

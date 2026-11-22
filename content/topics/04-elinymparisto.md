@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 75
 prerequisites: [te1-01-terveys-voimavarana, te2-01-tieto-ja-vinoumat]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch04-elinymparisto"}]
 official_links:
+  - {title: "Visual novel: Rakennettu ja luonnonympäristö ja terveys", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch04-elinymparisto", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Ilmanlaatu Suomessa (Ilmatieteen laitos)", url: "https://www.ilmatieteenlaitos.fi/ilmanlaatu", publisher: "Ilmatieteen laitos", read: 2026-11-21}
   - {title: "Ilmanlaatuindeksi (Ilmatieteen laitos)", url: "https://www.ilmatieteenlaitos.fi/ilmanlaatuindeksi", publisher: "Ilmatieteen laitos", read: 2026-11-21}
   - {title: "Ilmansaasteiden terveysvaikutukset (Ilmatieteen laitos)", url: "https://www.ilmatieteenlaitos.fi/saasteet-ja-terveys", publisher: "Ilmatieteen laitos", read: 2026-11-21}
@@ -213,6 +215,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan ehdottaa toimia, jotka tekevät ympäristöstä terveydelle suosiollisemman, Ottawan asiakirjan viiden toiminta-alueen avulla.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Rakennettu ja luonnonympäristö ja terveys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch04-elinymparisto). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

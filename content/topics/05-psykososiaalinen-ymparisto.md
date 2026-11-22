@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 75
 prerequisites: [te1-09-stressi-ja-kriisit, te1-10-opiskeluhyvinvointi]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch05-psykososiaalinen-ymparisto"}]
 official_links:
+  - {title: "Visual novel: Psykososiaalinen ympäristö ja mediaympäristö", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch05-psykososiaalinen-ymparisto", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Mediataitokoulu: materiaalipankki", url: "https://mediataitokoulu.fi/materiaalipankki/", publisher: "Kuvi (Taide- ja kulttuurivirasto), Mediataitokoulu", read: 2026-11-21}
   - {title: "Nuorten hyvinvointi (THL)", url: "https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Kouluterveyskysely (THL)", url: "https://thl.fi/tutkimus/hankkeet/kouluterveyskysely", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
@@ -55,10 +57,7 @@ linked_materials:
     licence: "Kaikki oikeudet pidätetään"
     audience: opiskelija
     read: 2026-11-21
-exam_tasks:
-  - {id: K1, type: kasitteiden-nimeaminen, part: A20, points: 20, minutes: 25, codes: [TE2.s3, TE2.t4, TE2.t3]}
-  - {id: K2, type: aineiston-lukeminen, part: B20, points: 20, minutes: 35, codes: [TE2.s3, TE2.t4]}
-  - {id: K3, type: viitekehyksen-soveltaminen, part: C30, points: 30, minutes: 55, codes: [TE2.s3, TE2.t4, TE2.t3]}
+exam_tasks: [{id: K1, type: kasitteiden-nimeaminen, part: A20, points: 20, minutes: 25, codes: [TE2.s3, TE2.t4, TE2.t3]}, {id: K2, type: aineiston-lukeminen, part: B20, points: 20, minutes: 35, codes: [TE2.s3, TE2.t4]}, {id: K3, type: viitekehyksen-soveltaminen, part: C30, points: 30, minutes: 55, codes: [TE2.s3, TE2.t4, TE2.t3]}]
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links:
   - title: "Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)"
@@ -208,6 +207,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 5. Osaan tehdä perustellun ehdotuksen yhteisön tai koulun psykososiaalisen ympäristön kehittämiseksi terveyden edistämisen viiden toiminta-alueen avulla.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Psykososiaalinen ympäristö ja mediaympäristö](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch05-psykososiaalinen-ymparisto). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 

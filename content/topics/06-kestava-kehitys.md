@@ -12,7 +12,9 @@ duration_options: [45, 60, 75]
 self_study_minutes: 75
 prerequisites: [te1-01-terveys-voimavarana]
 safety_flags: []
+card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch06-kestava-kehitys"}]
 official_links:
+  - {title: "Visual novel: Kestävä kehitys ja terveys", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch06-kestava-kehitys", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Kestävän kehityksen käsikirja lukioille (aoe.fi 4038)", url: "https://aoe.fi/#/materiaali/4038", publisher: "SASKY koulutuskuntayhtymä (aoe.fi)", read: 2026-11-21}
   - {title: "Kestävä kehitys -opintojakso lukioon (aoe.fi 2842)", url: "https://aoe.fi/#/materiaali/2842", publisher: "SASKY koulutuskuntayhtymä (aoe.fi)", read: 2026-11-21}
   - {title: "Kestävää tulevaisuutta lukiolaisille! (aoe.fi 2284)", url: "https://aoe.fi/#/materiaali/2284", publisher: "Helsingin kaupunki (aoe.fi)", read: 2026-11-21}
@@ -205,6 +207,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 6. Osaan selittää, mitä ilmastoahdistus on ja miten sitä lievitetään yksilön, yhteisön ja yhteiskunnan tasolla.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
+
+**Pelaa aiheesta visual novel:** [Kestävä kehitys ja terveys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch06-kestava-kehitys). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
 
 ## Koetehtävät
 
