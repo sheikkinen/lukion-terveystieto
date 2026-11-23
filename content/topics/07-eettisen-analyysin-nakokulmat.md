@@ -132,7 +132,7 @@ Ylioppilaskokeessa eettisen analyysin sisältöpisteet määräytyvät sen mukaa
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi sama tosiasia voi johtaa eri johtopäätöksiin eri näkökulmista katsottuna?
 2. Mitä päätöksessä voi jäädä huomaamatta, jos joku, johon päätös vaikuttaa, ei ole paikalla?
@@ -147,11 +147,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Eettisen analyysin näkökulmat](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch07-eettinen-analyysi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Eettisen analyysin näkökulmat](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch07-eettinen-analyysi).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE3 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE2-moduuleista.
 
 ### K1: Nimeä näkökulma, 25 min (20 p)
 
@@ -229,8 +227,6 @@ b) Kerro, miten näkökulmat painavat toisiinsa nähden ja mitä päätöksentek
 - Normi ja velvollisuus sekoittuvat (sivuston oma jäsennys: normi on yhteinen sääntö, velvollisuus syntyy roolista tai lupauksesta; perusteltu toinen luokitus hyväksytään).
 - Perustelu toistaa kuvauksen eikä yhdistä sitä näkökulmaan.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Tekoälyneuvoja, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -262,8 +258,6 @@ Tehtävänannon osapisteet (a 8 p, b 12 p) sisältävät sekä sisällön että 
 - Näkökulma nimetään, mutta sitä ei käytetä tapauksen asioihin.
 - Vastaus ilmoittaa kannan perustelematta ja punnitsematta.
 - Tosiasia ja arvo sekoittuvat, eikä vastauksesta näe, kumpi on tarkistettavaa ja kumpi arvo.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Koulun ruokalan valikoima, 55 min (30 p)
 
@@ -306,8 +300,6 @@ Tehtävänannon osapisteet (a 22 p, b 8 p) sisältävät sekä sisällön että 
 - Näkökulmia on vain yksi tai kaksi, vaikka tehtävä pyytää vähintään kolmea.
 - Tosiasia (*makeat juomat poistetaan*) ja arvo (*se on oikein*) esitetään niin, ettei vastauksesta näe, kumpi on kumpaa.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat nimetä eettisen analyysin näkökulmat ja käyttää niitä kuvitteellisen tilanteen analyysiin niin, että vastakkaiset perustelut näkyvät.
@@ -326,7 +318,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Kuka voi vaikuttaa?) tehdään kokonaan kaikissa tuntimalleissa. Kaikki tilanteet ovat kuvitteellisia. Ketään ei pyydetä kertomaan omasta arvomaailmastaan, uskonnostaan tai terveydestään.
+**Tavoitetehtävä:** Tehtävä 2 (Kuka voi vaikuttaa?) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -360,7 +352,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita näkökulmien taulukko taululle tai jaa se paperilla. Tehtävät toimivat ilman tulosteita. Varaa nimettömiä lappuja.
+- Kirjoita näkökulmien taulukko taululle tai jaa se paperilla. Varaa nimettömiä lappuja.
 - Lue ETENE:n tiedote ja YTL:n arvosteluohje (ks. Lähteet). Ne ovat link-out-aineistoa: linkitä, älä kopioi.
 - Valitse Tehtävän 2 vastakkaisille kannoille sellainen kuvitteellinen tilanne, joka ei kosketa kenenkään oikeaa elämää luokassa.
 
@@ -393,11 +385,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *velvollisuus = se, mitä on pakko tehdä roolin tai lupauksen vuoksi*; *motiivi = tarkoitus, miksi joku tekee jotain*
 - *toimija = joku, joka voi vaikuttaa asiaan*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee seitsemän näkökulmaa seitsemäksi kortiksi ja lajittele kortit tapauksen mukaan. Lue aineistot lause kerrallaan ja alleviivaa toimija ja perustelu. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Tee seitsemän näkökulmaa seitsemäksi kortiksi ja lajittele kortit tapauksen mukaan. Lue aineistot lause kerrallaan ja alleviivaa toimija ja perustelu.
 
 **Ilman laitetta:** Tehtävät 1, 2 ja 3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

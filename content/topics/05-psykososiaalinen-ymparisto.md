@@ -183,7 +183,7 @@ Ilmapiiristä kertovaa tietoa saadaan esimerkiksi kyselyistä. THL:n [Kouluterve
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi koulun tai harrastusryhmän yhteiset pelisäännöt voivat tukea hyvinvointia enemmän kuin yksittäisen ihmisen ponnistelu?
 2. Mitä hyvää ja mitä huonoa on siinä, että palvelun algoritmi päättää, mitä ihmiselle näytetään?
@@ -199,11 +199,11 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Psykososiaalinen ympäristö ja mediaympäristö](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch05-psykososiaalinen-ymparisto). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Psykososiaalinen ympäristö ja mediaympäristö](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch05-psykososiaalinen-ymparisto).
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Merkkirajan ylityksen vähennys (−1 p, −2 p) on yksinkertaistus: YTL:n asteikko riippuu tehtävästä ja ylityksen suuruudesta, ks. arvosteluohje. Aineistot ovat kuvitteellisia. TE2 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE3-moduuleista.
+Merkkirajan ylityksen vähennys (−1 p, −2 p) on yksinkertaistus: YTL:n asteikko riippuu tehtävästä ja ylityksen suuruudesta, ks. arvosteluohje.
 
 ### K1: Käsitteiden nimeäminen, 25 min (20 p)
 
@@ -298,8 +298,6 @@ Vastauksen enimmäispituus on 4 000 merkkiä välilyönteineen. Rajan ylittävä
 - Perustelu toistaa kuvauksen eikä käytä käsitettä.
 - Kohdissa 9 ja 10 jompikumpi ympäristö nimetään tarkentamatta, mitä siihen kuuluu.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Aineiston lukeminen, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -334,8 +332,6 @@ Tehtävänannon osapisteet (a 6 p, b 8 p, c 6 p) sisältävät sekä sisällön 
 - Selitys esitetään varmana, vaikka aineisto ei kerro syytä.
 - Poikkileikkausta luetaan niin, että samojen ihmisten kokemus olisi muuttunut.
 - Rajoiksi luetellaan yleisiä asioita ("kysely voi olla väärin") ilman yhteyttä aineistoon.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Viitekehyksen soveltaminen, 55 min (30 p)
 
@@ -382,8 +378,6 @@ Tehtävänannon osapisteet (a 15 p, b 9 p, c 6 p) sisältävät sekä sisällön
 - Videota pidetään yhtä luotettavana kuin koulun kuvausta, koska siinä on tunteita ja kuvia.
 - Vastaus nimeää ihmisryhmiä (pilkkaajat, pilkatut tai somen käyttäjät) ilman perustetta.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää, miten ilmapiiri, kuuluminen ja digitaalinen ympäristö vaikuttavat terveyteen, ja osaat tehdä ehdotuksen ilmapiirin kehittämiseksi.
@@ -402,7 +396,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (mediaympäristön analyysi) tehdään kokonaan kaikissa tuntimalleissa. Kaikki esimerkit ovat kuvitteellisia. Ketään ei pyydetä kertomaan omasta somen käytöstään, kavereistaan tai kokemuksistaan.
+**Tavoitetehtävä:** Tehtävä 2 (mediaympäristön analyysi) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -470,9 +464,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *algoritmi = ohjelma, joka valitsee, mitä näet palvelussa*
 - *yksinäisyys = kokemus, että ihmissuhteita on liian vähän tai ne eivät ole läheisiä; FOMO = pelko jäädä paitsi*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue Kimin päivä kohta kerrallaan ja peitä muut. Taulukko voi olla rivi kerrallaan. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa. Kaikki tehtävät ja koetehtävät toimivat paperilla; Tehtävän 3 vaihe 5 on valinnainen.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue Kimin päivä kohta kerrallaan ja peitä muut. Taulukko voi olla rivi kerrallaan. Kaikki tehtävät ja koetehtävät toimivat paperilla; Tehtävän 3 vaihe 5 on valinnainen.
 
 ## Lähteet
 

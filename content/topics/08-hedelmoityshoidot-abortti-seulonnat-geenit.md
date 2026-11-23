@@ -149,7 +149,7 @@ Sivuston oma jäsennys: neljä geeniteknologian käyttöä.
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi laki ja eettinen näkemys voivat erota toisistaan?
 2. Miksi yhteiskunta järjestää seulonnan, vaikka siihen liittyy haittoja?
@@ -165,11 +165,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Eettiset ja oikeudelliset kysymykset](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch08-hedelmoityshoidot-ja-seulonnat). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Eettiset ja oikeudelliset kysymykset](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch08-hedelmoityshoidot-ja-seulonnat).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia, ellei toisin sanota. TE3 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE2-moduuleista.
 
 ### K1: Seulonta ja geenit lyhyesti, 25 min (20 p)
 
@@ -268,8 +266,6 @@ b) Analysoi videota kahdesta eettisen analyysin näkökulmasta, esimerkiksi oike
 - Seulonta määritellään vain sairauden hoitamiseksi, vaikka se etsii oireettomia.
 - Geeniteknologiasta kirjoitetaan yleisesti nimeämättä kahta eri käyttöä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Kaksi seulontaa, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -300,8 +296,6 @@ Tehtävänannon osapisteet (a 8 p, b 12 p) sisältävät sekä sisällön että 
 - Kirjoitetaan, että B on huono seulonta, vaikka tehtävä pyytää punnitsemaan hyötyä ja haittaa.
 - Käsitteet mainitaan mutta niitä ei yhdistetä taulukon riveihin.
 - Merkkirajoitus ylittyy, koska taulukon rivit toistetaan kokonaan.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Raskaudenkeskeytys maailmalla, 55 min (30 p)
 
@@ -342,8 +336,6 @@ Tehtävänannon osapisteet (a 7 p, b 15 p, c 8 p) sisältävät sekä sisällön
 - Näkökulmat mainitaan, mutta niitä ei sovelleta aineiston sanoihin.
 - Aineiston 1 tietoa ei käytetä, vaikka se on tehtävän keskeinen lähtötieto.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K4: Biopankin esittelyvideo, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -375,8 +367,6 @@ Tehtävänannon osapisteet (a 8 p, b 12 p) sisältävät sekä sisällön että 
 - Toinen kanta kuvataan ohuemmin kuin toinen, jolloin vastaus vaikuttaa jo valmiiksi päätyneeltä.
 - Puuttuvia asioita luetellaan liittämättä niitä aineiston 2 kohtiin.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa lain ja eettisen näkemyksen, arvioida seulontaa ja erottaa geeniteknologian käytöt.
@@ -395,7 +385,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (Laki vai näkemys?) tehdään kokonaan kaikissa tuntimalleissa. Sisältö voi olla henkilökohtainen: kaikki tapaukset ovat kuvitteellisia. Ketään ei pyydetä kertomaan omasta elämästään tai kannastaan.
+**Tavoitetehtävä:** Tehtävä 1 (Laki vai näkemys?) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -429,7 +419,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita lain peruspiirteet ja näkemystaulukot taululle tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita. Varaa nimettömiä lappuja.
+- Kirjoita lain peruspiirteet ja näkemystaulukot taululle tai jaa ne paperilla. Varaa nimettömiä lappuja.
 - Lue lain Finlex-sivut ja LVV:n sivu itse ennen tuntia: lait muuttuvat, ja sivun teksti on ajantasainen vain luettuna päivänä.
 - Käypä hoito -suositus on ammattilaisille kirjoitettu link-out-aineisto: linkitä, älä kopioi.
 
@@ -461,11 +451,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *ylidiagnosointi = löydetään tila, josta ei olisi koskaan tullut oireita*
 - *geenitestaus = testi, joka kertoo perimän muutoksista*; *periytyä = siirtyä lapsille*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee taulukot värikoodaten: laki yhdellä värillä, näkemys toisella. Lue yksi kappale kerrallaan ja peitä muut. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Tee taulukot värikoodaten: laki yhdellä värillä, näkemys toisella. Lue yksi kappale kerrallaan ja peitä muut.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

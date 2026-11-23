@@ -144,7 +144,7 @@ Kun tartuntataudit väistyvät, epidemiologia ei lopu: se koskee myös pitkäaik
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi hyödyllinenkin terveystoimi voi kohdata vastustusta yhteisössä? Mitä Pohjois-Karjalan esimerkistä voi oppia?
 2. Kun ihmiset elävät keskimäärin pidempään, mitä se tarkoittaa palveluille ja yhteiskunnalle?
@@ -160,11 +160,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Miten yhteiskunta, tiede ja teknologia ovat muuttaneet väestön terveyttä](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch02-vaeston-terveyden-muutos). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Miten yhteiskunta, tiede ja teknologia ovat muuttaneet väestön terveyttä](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch02-vaeston-terveyden-muutos).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE3 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE2-moduuleista.
 
 ### K1: Siirtymän täydentäminen, 25 min (20 p)
 
@@ -264,8 +262,6 @@ Perustelut: (2) hygienia ja rokotukset vähentävät ensin kuolemia, ja syntyvyy
 - Kansanterveyslaki sekoitetaan valtion rooliin, vaikka laki velvoitti kunnat.
 - Arvaaminen jokaiseen aukkoon: väärä vastaus vie pisteen, joten arvaus kannattaa vain, kun yksi vaihtoehto on suljettu pois.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Terveys kaikissa politiikoissa, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -300,8 +296,6 @@ Tehtävänannon osapisteet (a 5 p, b 9 p, c 6 p) sisältävät sekä sisällön 
 - Terveysvaikutus mainitaan ilman mekanismia (*liikenne on terveellistä*).
 - Vain myönteiset vaikutukset huomioidaan; kauppiaiden toimeentulohuoli unohtuu.
 - Merkkirajoitus ylittyy, koska a-kohdassa kerrataan koko aineisto.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Siirtymän käyrät ja Naapurimaa, 55 min (30 p)
 
@@ -352,8 +346,6 @@ Tehtävänannon osapisteet (a 13 p, b 9 p, c 8 p) sisältävät sekä sisällön
 - c-kohdassa tehdään terveydenhuollon toimi (*lisätään lääkäreitä*) eikä toimea, joka kohdistuu muiden alojen päätöksiin.
 - Aineistoa 2 ei käytetä: vaihe sijoitetaan ilman perusteluja.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K4: Terveydenhuollon kehitysaskeleet järjestykseen, 25 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -387,8 +379,6 @@ Neuvola on ensimmäinen, sairaalaverkosto neljäs ja kansanterveyslaki viimeinen
 - Calmette-rokotus ja penisilliini sekoitetaan: rokote ehkäisee, antibiootti hoitaa bakteeritaudin.
 - Täydentävyys jää kirjoittamatta, ja vastaus vain toistaa listan.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat kuvata epidemiologisen siirtymän ja selittää, miten tiede, teknologia ja yhteiskunnan päätökset ovat muuttaneet väestön terveyttä.
@@ -407,7 +397,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (siirtymän kolme käyrää) tehdään kokonaan kaikissa tuntimalleissa. Kaikki tapaukset ovat historiallisia tai kuvitteellisia. Ketään ei pyydetä kertomaan omasta tai perheensä terveydestä.
+**Tavoitetehtävä:** Tehtävä 1 (siirtymän kolme käyrää) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -441,7 +431,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Piirrä viiden vaiheen taulukko taululle tai jaa se paperilla. Tehtävät toimivat ilman tulosteita.
+- Piirrä viiden vaiheen taulukko taululle tai jaa se paperilla.
 - Lue halutessasi Sydänliiton artikkeli ja STM:n tiedote (ks. Lähteet). Ne ovat link-out-aineistoa: linkitä, älä kopioi. Wikipedian artikkelit ovat CC BY-SA -aineistoa, joten nekin vain linkitetään.
 - Terveydenhuollon kehitysaskelten järjestystä harjoitellaan K4:ssä. Lähteet antavat neuvolalle 1922 ja 1944, penisilliinin massavalmistukselle 1944 ja kansanterveyslain säätämiselle 1972; Calmette-rokotus on sodan ajalta ja sairaalaverkosto sotien jälkeen. Siksi vain askelten 2 ja 3 keskinäinen järjestys on vapaa. Lähteet eivät yhdistä antibiootteja, sairaalaverkostoa tai kansanterveyslakia lasten kuolleisuuteen, eikä tehtävä väitä sitä. Peda.netin opetusdiat ovat tekijätöntä opetusmateriaalia, ei virallinen lähde. Calmette-rokotuksen ja sairaalaverkoston ajoitukselle ei ole virallista lähdettä tällä sivulla.
 - Tilastokeskuksen lukuja ei kirjoiteta sivulle. Jos haluat näyttää elinajanodotteen kehityksen, avaa Tilastokeskuksen sivu tunnilla ja lue luvut sieltä.
@@ -475,11 +465,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *kansanterveyslaki = laki, joka velvoitti kunnat järjestämään perusterveydenhuollon*
 - *terveys kaikissa politiikoissa = terveys otetaan huomioon kaikissa päätöksissä, ei vain terveydenhuollossa*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee käyrät kuvina ja värikoodein. Lue viiden vaiheen taulukko rivi kerrallaan ja peitä muut. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Tee käyrät kuvina ja värikoodein. Lue viiden vaiheen taulukko rivi kerrallaan ja peitä muut.
 
 **Ilman laitetta:** Tehtävät 1 ja 3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 2 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

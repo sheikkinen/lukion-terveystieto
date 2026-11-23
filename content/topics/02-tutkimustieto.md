@@ -151,7 +151,7 @@ Vertaa vähintään kahta lähdettä samoilla kysymyksillä: kuka tekee, miksi, 
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi tutkimustuloksen uskominen vaatii luottamusta ihmisiin, joita ei tunne? Mikä tekee luottamuksesta perustellun?
 2. Mitä hyötyä ja mitä haittaa on siitä, että tutkimus kertoo ensin vain yhteydestä eikä syystä?
@@ -166,11 +166,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 6. Osaan erottaa tutkimustyyppejä ja niiden käsitteitä: määrällinen ja laadullinen, havainnoiva ja kokeellinen, kohortti, tilastollinen merkitsevyys.
 7. Osaan erottaa riskin, altisteen ja riskitekijän sekä suhteellisen ja absoluuttisen riskin toisistaan ja lukea riskiä koskevia tekstejä.
 
-**Pelaa aiheesta visual novel:** [Tutkimusprosessi ja tutkimustiedon luotettavuus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch02-tutkimustieto). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Tutkimusprosessi ja tutkimustiedon luotettavuus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch02-tutkimustieto).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE2 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE3-moduuleista.
 
 ### K1: Monivalinta, 25 min (20 p)
 
@@ -275,8 +273,6 @@ c) Arvioi, mitä hiekoittamattomalle reitille altistuminen kertoo riskistä ja m
 - Suuri otos oletetaan automaattisesti edustavaksi.
 - Yhteydestä päätellään syy.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Aineiston lukeminen, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -309,8 +305,6 @@ Tehtävänannon osapisteet (a 5 p, b 9 p, c 6 p) sisältävät sekä sisällön 
 - Vastaus kuvaa vain yhden lukusarjan eikä vertaa kyselyä ja rekisteriä.
 - Viihtyvien määrän ja osuuden ero jää huomaamatta.
 - Vastaus toteaa, että taukotila ei toimi, vaikka aineisto ei sitä näytä. Se ei myöskään osoita, että taukotila toimii.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Tutkimussuunnitelma, 50 min (30 p)
 
@@ -348,8 +342,6 @@ Tehtävänannon osapisteet (a 10 p, b 14 p, c 6 p) sisältävät sekä sisällö
 - Suunnitelma luettelee vaiheita mutta ei kerro, miten asetelma vastaa kysymykseen.
 - Vertailuryhmää ei ole tai se valitaan niin, että ryhmät eroavat jo alussa.
 - Viesti valtuutetuille lupaa varmuutta, jota aineisto ei anna.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K4: Kuvion tulkinta, 35 min (20 p)
 
@@ -393,8 +385,6 @@ Tehtävänannon osapisteet (a 6 p, b 8 p, c 6 p) sisältävät sekä sisällön 
 - Kuviosta puuttuu akselin nimi, asteikko tai selite.
 - Eron perusteella päätellään, että hiekoitus on syy.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat kuvata tutkimusprosessin, nimetä asetelmia ja arvioida otosta ja yhteyttä kuvitteellisista tutkimuksista.
@@ -413,7 +403,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (tutkimuksen suunnittelu) tehdään kokonaan kaikissa tuntimalleissa. Kaikki esimerkit ovat kuvitteellisia. Ketään ei pyydetä kertomaan omasta terveydestään tai kokemuksistaan.
+**Tavoitetehtävä:** Tehtävä 1 (tutkimuksen suunnittelu) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -447,7 +437,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita taululle tutkimuksen kuusi vaihetta ja neljä asetelmaa tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita. Tutustu halutessasi aoe.fi:n asiantuntijalähteen arvioinnin videoon ja kaavioon (ks. Lähteet; vain linkitetty). Varaa nimettömiä lappuja.
+- Kirjoita taululle tutkimuksen kuusi vaihetta ja neljä asetelmaa tai jaa ne paperilla. Tutustu halutessasi aoe.fi:n asiantuntijalähteen arvioinnin videoon ja kaavioon (ks. Lähteet; vain linkitetty). Varaa nimettömiä lappuja.
 
 ### Avoimet kysymykset
 
@@ -470,11 +460,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Sarakkeisiin voi kirjoittaa omalla kielellä; koetehtävissä harjoitellaan suomenkielisiä käsitteitä. *tutkimuskysymys = kysymys, johon tutkimus vastaa; asetelma = suunnitelma siitä, miten tietoa kerätään ja verrataan; otos = pieni joukko, joka edustaa isoa joukkoa; yhteys = kaksi asiaa tapahtuu yhdessä; syy-seuraussuhde = yksi asia aiheuttaa toisen; sekoittava tekijä = kolmas asia, joka vaikuttaa molempiin; kysely = tieto kerätään kysymällä; rekisteri = tieto on kirjattu muuhun tarkoitukseen; altiste = asia, jolle ihminen joutuu alttiiksi; riski = todennäköisyys, että jotain ikävää tapahtuu*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue taulukko rivi kerrallaan ja peitä muut. Merkitse luvut, joita käytät vastauksessa. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Lue taulukko rivi kerrallaan ja peitä muut. Merkitse luvut, joita käytät vastauksessa.
 
 **Ilman laitetta:** Tehtävät 1 ja 3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 2 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

@@ -142,7 +142,7 @@ Työpaikat selvittävät hyvinvointia **henkilöstökyselyillä**. Kysely kertoo
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miten vastuu työhyvinvoinnista jakautuu työpaikan ja työntekijän kesken, ja millä perusteilla?
 2. Miksi työpaikka voi tuntua eri ihmisistä eri tavalla turvalliselta? Mitä työpaikka voisi tehdä, jotta kaikki uskaltavat kysyä ja kertoa ongelmista?
@@ -158,11 +158,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Työhyvinvointi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch08-tyohyvinvointi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Työhyvinvointi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch08-tyohyvinvointi).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE2 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE3-moduuleista.
 
 ### K1: Luettele ja luokittele, 25 min (20 p)
 
@@ -260,8 +258,6 @@ b) Fyysinen ja psykososiaalinen ympäristö vaikuttavat toisiinsa: jos melu est�
 - Luokat sekoittuvat: esihenkilön tuki sijoitetaan fyysiseen ympäristöön.
 - Yhteys luokkien välillä on pelkkä toteamus ilman mekanismia.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Kuvion tulkinta, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -297,8 +293,6 @@ Tehtävänannon osapisteet (a 5 p, b 9 p, c 6 p) sisältävät sekä sisällön 
 - Vastaus päättelee, että iltavuoron esihenkilö on huono, vaikka aineisto ei kerro syytä.
 - Määriä vertaillaan ottamatta huomioon, että ryhmät ovat eri kokoisia.
 - Terveysvaikutukset luetellaan selittämättä, miten tauon puute johtaa niihin.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Aineiston analyysi, 55 min (30 p)
 
@@ -338,8 +332,6 @@ Tehtävänannon osapisteet (a 8 p, b 10 p, c 12 p) sisältävät sekä sisällö
 - Toimenpiteet kohdistuvat vain nuoreen, eikä niissä arvioida työpaikan osuutta ("nuoren pitäisi uskaltaa").
 - Nuoren työntekijän erityinen suoja unohtuu tai rajat esitetään muistinvaraisina lukuina.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K4: Määrittele ja anna esimerkki, 25 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -367,8 +359,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Työelämän rakennemuutos sekoitetaan yksittäiseen työpaikan vaihtoon.
 - Käsitteen vastaus ylittää 300 merkin rajan, jolloin loppu jää huomiotta.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat kuvata työn vaatimukset ja voimavarat, erottaa fyysisen ja psykososiaalisen työympäristön ja kertoa, mistä nuori työntekijä saa tietoa turvastaan.
@@ -387,7 +377,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (Veeran työvuoro) tehdään kokonaan kaikissa tuntimalleissa. Kaikki tapaukset ovat kuvitteellisia. Ketään ei pyydetä kertomaan omasta työstään, terveydestään tai jaksamisestaan.
+**Tavoitetehtävä:** Tehtävä 1 (Veeran työvuoro) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -425,7 +415,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Piirrä vaaka ja kolme tasoa taululle tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita.
+- Piirrä vaaka ja kolme tasoa taululle tai jaa ne paperilla.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Avaa Työsuojelu.fi:n nuoren työntekijän sivu ennen tuntia ja lue se itse. Se on link-out-aineistoa: linkitä, älä kopioi.
 - Tutustu halutessasi Työterveyslaitoksen sivuun ja aoe.fi-verkkokurssiin (ks. Lähteet).
@@ -464,11 +454,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *työkykytalo = kuva, jossa työkyky on neljän kerroksen talo*
 - *tietotyö = työ, jossa käsitellään pääasiassa tietoa*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue tapaus kahdessa osassa ja merkitse vaatimukset ja voimavarat eri väreillä tai merkeillä. Taulukko voi olla helpompi lukea, kun peität muut rivit. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Lue tapaus kahdessa osassa ja merkitse vaatimukset ja voimavarat eri väreillä tai merkeillä. Taulukko voi olla helpompi lukea, kun peität muut rivit.
 
 **Ilman laitetta:** Tehtävät 1 ja 3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 2 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

@@ -181,7 +181,7 @@ Sivuston oma näkemys: ruokapuhe voi tukea tai kuormittaa, ja kuormittavaa on pu
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi ruokavalinnat eivät ole vain tahdonvoiman asia?
 2. Miten ruokapuhe voi vaikuttaa siihen, miten ihmiset kokevat itsensä ja toisensa?
@@ -197,11 +197,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Ravinto, syöminen ja painonhallinta](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch04-ravinto). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Ravinto, syöminen ja painonhallinta](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch04-ravinto).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia, eikä niissä ole lukuja. TE1 yksin kattaa vain osan ylioppilaskokeesta; TE2 ja TE3 kattavat loput.
 
 ### K1: Monivalinta, 25 min (20 p)
 
@@ -286,8 +284,6 @@ c) Kirjoita opiskelijakunnan lyhyt esitys rehtorille (5–8 virkettä). Kerro, m
 - C-vitamiini ja D-vitamiini tai jodi ja rauta sekoitetaan.
 - Painon ajatellaan kertovan terveydestä yksin.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Vertailu näkökulmittain, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -323,8 +319,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Sivua A pilkataan tai sen lukijoita syyllistetään.
 - Kohdassa c ei kerrota mekanismia: miten sivu vaikuttaa.
 - Vastaus antaa lukijalle ruokavalio-ohjeita.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Aineiston analyysi, 50 min (30 p)
 
@@ -363,8 +357,6 @@ Osapisteet sisältävät sekä sisällön että tiedonkäsittelyn: a 10 p, b 8 p
 - Esitys sivuuttaa rajoitteet, joten pyyntö ei ole toteutettavissa.
 - Vastaus antaa ruokavalio-ohjeita tai arvioi opiskelijoiden syömistä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat kuvata ravinnon tehtävät ja selittää, mikä ohjaa ruokavalintoja ja miksi painoa ei käytetä yksin terveyden mittarina.
@@ -383,7 +375,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (ruokavalintojen taustatekijät) tehdään kokonaan kaikissa tuntimalleissa. Ryhmätyö tehdään kuvitteellisilla tapauksilla. Kukaan ei kerro omasta syömisestään, kehostaan tai painostaan, eikä kukaan punnitse tai mittaa mitään.
+**Tavoitetehtävä:** Tehtävä 1 (ruokavalintojen taustatekijät) tehdään kokonaan kaikissa tuntimalleissa. Kukaan ei kerro omasta syömisestään, kehostaan tai painostaan, eikä kukaan punnitse tai mittaa mitään.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -421,7 +413,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Piirrä neljän kehän pohja taululle. Opiskelijat pärjäävät tyhjällä paperilla.
+- Piirrä neljän kehän pohja taululle.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Sivuston ohje opettajalle: älä tuo tunnille ruokaa, vaakaa, mittanauhaa tai ravintotaulukoita. Älä käytä ennen–jälkeen-kuvia.
 
@@ -453,11 +445,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *ruokapuhe = se, miten ruoasta puhutaan*
 - *taustatekijä = asia, joka vaikuttaa taustalla*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee kehät kuvina tai yksittäisinä sanoina. Lue tapaus kahdessa osassa. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Tee kehät kuvina tai yksittäisinä sanoina. Lue tapaus kahdessa osassa.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

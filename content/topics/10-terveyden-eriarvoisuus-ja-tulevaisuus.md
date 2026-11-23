@@ -153,7 +153,7 @@ Tulevaisuuden haasteista tarkastellaan neljää kysymystä:
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi ryhmien välinen ero ei kerro yksittäisestä ihmisestä?
 2. Miksi tulevaisuuden haasteisiin varautuminen vaatii useiden alojen yhteistyötä?
@@ -169,11 +169,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Terveyden eriarvoisuus Suomessa ja maailmalla sekä tulevaisuuden haasteet](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch10-terveyden-eriarvoisuus). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Terveyden eriarvoisuus Suomessa ja maailmalla sekä tulevaisuuden haasteet](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch10-terveyden-eriarvoisuus).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE3 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE2-moduuleista.
 
 ### K1: Terveyserojen tekijät luokiteltuina, 25 min (20 p)
 
@@ -274,8 +272,6 @@ c) Arvioi, mitä ennuste olettaa ja miksi kustannus ei yksin kerro hoidon arvoa 
 - Tekijä toistetaan eri sanoilla (tulot ja palkka).
 - Yhteyttä ei selitetä mekanismina.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Alueiden terveyserot, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -311,8 +307,6 @@ Tehtävänannon osapisteet (a 6 p, b 8 p, c 6 p) sisältävät sekä sisällön 
 - Yhteys esitetään syynä (*palvelujen puute aiheuttaa sairautta*).
 - Rajat jäävät yleisiksi (*lisää tutkimusta*).
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K3: Kaupungin erot ja viisi toiminta-aluetta, 55 min (30 p)
 
 **Malliksi kelpaava vastaus**
@@ -347,8 +341,6 @@ Tehtävänannon osapisteet (a 6 p, b 16 p, c 8 p) sisältävät sekä sisällön
 - Kaikki ehdotukset kohdistuvat yksilöön, jolloin yhteiskuntapolitiikka ja ympäristöt jäävät pois.
 - c-kohdassa ei punnita tavoittavuutta ja toteutettavuutta eikä mainita tulevaisuuden haastetta.
 - Alueen B sairastavuus selitetään pelkästään asukkaiden omilla valinnoilla.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K4: Syövän kustannukset ja ennuste, 35 min (20 p)
 
@@ -386,8 +378,6 @@ Tehtävänannon osapisteet (a 6 p, b 8 p, c 6 p) sisältävät sekä sisällön 
 - Toiminta-alueet nimetään, mutta ehdotus ei kerro, miten ennusteen oletus muuttuisi.
 - Syövästä kirjoitetaan yleisesti, eikä taulukon lukuja käytetä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat lukea terveyserojen taulukkoa, selittää erojen syyt ja ehdottaa keinoja Ottawan viiden toiminta-alueen avulla.
@@ -406,7 +396,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (Lue taulukkoa ryhmittäin) tehdään kokonaan kaikissa tuntimalleissa. Kaikki aineistot ovat kuvitteellisia. Ketään ei pyydetä kertomaan omasta tai perheensä tilanteesta.
+**Tavoitetehtävä:** Tehtävä 1 (Lue taulukkoa ryhmittäin) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -440,7 +430,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita taulukon lukemisen muistilista ja Ottawan viisi aluetta taululle. Tehtävät toimivat ilman tulosteita. Varaa nimettömiä lappuja.
+- Kirjoita taulukon lukemisen muistilista ja Ottawan viisi aluetta taululle. Varaa nimettömiä lappuja.
 - Avaa THL:n sivut ja tarvittaessa hae ajantasaiset luvut itse; sivun teksti ei sisällä lukuja.
 - Linkitetyt aineistot ovat link-out-aineistoa: linkitä, älä kopioi.
 
@@ -472,11 +462,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *taustatekijä = asia, joka vaikuttaa terveyteen taustalla*; *välittävä tekijä = asia, joka kuljettaa vaikutuksen*
 - *mikrobilääkeresistenssi = mikrobi ei enää reagoi lääkkeeseen*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue taulukko rivi kerrallaan ja peitä muut. Piirrä taulukosta nuolet: mikä liittyy mihinkin. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Lue taulukko rivi kerrallaan ja peitä muut. Piirrä taulukosta nuolet: mikä liittyy mihinkin.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

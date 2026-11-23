@@ -162,7 +162,7 @@ Lopuksi näkökulmia punnitaan ja esitetään oma perusteltu kanta. Perustelu on
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi oikeuksiin kuuluu myös velvollisuus kunnioittaa toisten oikeuksia? Anna esimerkki kuvitteellisesta tilanteesta.
 2. Mitä koulu voi tehdä, jotta jokainen opiskelija kokee kuuluvansa joukkoon?
@@ -178,11 +178,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Seksuaalioikeudet, suostumus ja moninaisuus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch07-seksuaalioikeudet). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Seksuaalioikeudet, suostumus ja moninaisuus](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch07-seksuaalioikeudet).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE1 yksin kattaa vain osan ylioppilaskokeesta: loput tulevat moduuleista TE2 ja TE3.
 
 ### K1: Oikein vai väärin -väittämät, 25 min (20 p)
 
@@ -260,8 +258,6 @@ Oikeita ovat väittämät 1, 3, 5, 8 ja 10.
 - Suuntautumista kuvataan valintana tai sairautena.
 - Syrjinnän vaikutukset rajataan "vain tunteisiin" eikä terveyteen ja jaksamiseen.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Vertailu näkökulmittain, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -297,8 +293,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Johtopäätös ei nojaa vertailuun.
 - Ketju jää kesken: mainitaan pilkka, mutta ei sitä, miten se vaikuttaa hyvinvointiin.
 - Aineiston ulkopuolisia seikkoja lisätään vastaukseen.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Eettinen analyysi, 50 min (30 p)
 
@@ -342,8 +336,6 @@ Tehtävänannon osapisteet (a 5 p, b 15 p, c 10 p) sisältävät sekä sisällö
 - Ehdotus ei kerro, kuka toimii ja miten.
 - Vaikutus nuorten terveyteen jää mainitsematta.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää, mitä seksuaalioikeudet ja suostumus ovat, ja analysoida eettistä kysymystä eri näkökulmista.
@@ -362,7 +354,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (Erota suostumus painostuksesta) tehdään kokonaan kaikissa tuntimalleissa. Ryhmätyö tehdään kuvitteellisilla tapauksilla. Kukaan ei kerro omista suhteistaan, kokemuksistaan tai seksuaalisuudestaan.
+**Tavoitetehtävä:** Tehtävä 1 (Erota suostumus painostuksesta) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -435,11 +427,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *sukupuoli-identiteetti = kokemus omasta sukupuolesta*
 - *syrjintä = ihmisen huonompi kohtelu esimerkiksi suuntautumisen tai sukupuolen vuoksi*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee vastaukset sanoin tai kuvin. Lue tapaus kahdessa osassa. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Tee vastaukset sanoin tai kuvin. Lue tapaus kahdessa osassa.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

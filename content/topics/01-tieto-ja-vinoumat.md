@@ -154,7 +154,7 @@ Terveystiedon lukutaidon perusteet opit TE1-aiheessa [Terveyskulttuurin ilmiöt]
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi ihmiset uskovat usein tarinaa helpommin kuin tilastoa? Mitä hyvää ja mitä huonoa siinä on?
 2. Miten koulu, media tai some-palvelu voisi auttaa ihmisiä tunnistamaan vinoumia?
@@ -169,11 +169,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Tieteellinen tieto, arkitieto ja ajattelun vinoumat](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch01-tieto-ja-vinoumat). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Tieteellinen tieto, arkitieto ja ajattelun vinoumat](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch01-tieto-ja-vinoumat).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE2 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE3-moduuleista.
 
 ### K1: Määrittele ja anna esimerkki, 25 min (20 p)
 
@@ -280,8 +278,6 @@ Päätä jokaisesta väittämästä, onko se oikein vai väärin. Oikea vastaus 
 - Tieteellinen tieto kuvataan lopullisena totuutena eikä itseään korjaavana.
 - Vertaisarviointi sekoitetaan siihen, että tulos olisi varmasti oikea.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Viestinnän analyysi, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -315,8 +311,6 @@ Tehtävänannon osapisteet (a 12 p, b 8 p) sisältävät sekä sisällön että 
 - Vinoumat nimetään, mutta vastaus ei kerro, miksi päätelmä ei pidä.
 - Vastaus väittää Puhdin olevan tehoton, vaikka aineisto ei kerro sitä; tehtävä koskee päättelyä, ei juomaa.
 - Tutkimussuunnitelmasta puuttuu vertailuryhmä, jolloin paranemisen syy jää auki.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Tutkimustiedon arviointi, 55 min (30 p)
 
@@ -359,8 +353,6 @@ Tehtävänannon osapisteet (a 14 p, b 7 p, c 9 p) sisältävät sekä sisällön
 - Vastausprosentin ja valikoitumisen merkitystä ei huomata: suuri luku näyttää vakuuttavalta.
 - B esitetään lopullisena totuutena, vaikka se on yksi tutkimus.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K4: Oikein vai väärin, 20 väittämää, 25 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -395,8 +387,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Yhteydestä päätellään syy.
 - Yksi tutkimus tai vakuuttava tarina esitetään riittävänä näyttönä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa tiedon lajit ja tunnistaa ajattelun vinoumia ja lumevaikutuksen kuvitteellisista viesteistä.
@@ -415,7 +405,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (vinoumat ryhmächatista) tehdään kokonaan kaikissa tuntimalleissa. Kaikki esimerkit ovat kuvitteellisia. Ketään ei pyydetä kertomaan omista uskomuksistaan tai terveydestään.
+**Tavoitetehtävä:** Tehtävä 2 (vinoumat ryhmächatista) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -449,7 +439,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita taululle vinoumat tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita. Varaa nimettömiä lappuja.
+- Kirjoita taululle vinoumat tai jaa ne paperilla. Varaa nimettömiä lappuja.
 - Tutustu halutessasi Tampereen yliopiston argumenttikortteihin ja Faktabaari EDU:n materiaaleihin (ks. Lähteet). Ne ovat link-out-aineistoa: linkitä, älä kopioi.
 
 ### Avoimet kysymykset
@@ -474,11 +464,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 2. Sarakkeisiin voi kirjoittaa omalla kielellä; koetehtävissä harjoitellaan suomenkielisiä käsitteitä. *arkitieto = tieto, jonka moni tietää mutta jota ei ole tutkittu; kokemustieto = tieto omasta tai toisen kokemuksesta; tieteellinen tieto = tutkimalla avoimin menetelmin saatu tieto; vinouma = ajattelun oikopolku, joka johtaa harhaan; näyttö = tutkimustulokset, jotka tukevat väitettä; vertaisarviointi = toiset tutkijat tarkistavat tutkimuksen ennen julkaisua; katsaus = tutkimus, joka kokoaa yhteen monta tutkimusta; lumevaikutus = odotus muuttaa koettua oloa*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue keskustelu viesti kerrallaan ja peitä muut. Merkitse vinoumat värein tai symbolein. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Lue keskustelu viesti kerrallaan ja peitä muut. Merkitse vinoumat värein tai symbolein.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

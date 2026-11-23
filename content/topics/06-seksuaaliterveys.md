@@ -192,7 +192,7 @@ Palveluja saa opiskeluterveydenhuollosta ja terveysasemilta. Tietoa antavat myö
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi seksuaaliterveydestä on joskus vaikea puhua, ja miten koulu voi tehdä puhumisesta helpompaa kaikille?
 2. Mitä hyötyä ja mitä haittaa on siitä, että tietoa saa nimettömästi verkosta?
@@ -208,11 +208,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Seksuaalisuus ja seksuaaliterveys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch06-seksuaaliterveys). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Seksuaalisuus ja seksuaaliterveys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch06-seksuaaliterveys).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE1 yksin kattaa vain osan ylioppilaskokeesta; TE2 ja TE3 kattavat loput.
 
 ### K1: Määrittele ja anna esimerkki, 25 min (20 p)
 
@@ -295,8 +293,6 @@ c) Täydennä koululle toimintakehys: laadi taulukko, jossa on kaksi riviä ja s
 - Oireettomuuden ajatellaan tarkoittavan, ettei tartuntaa ole.
 - Luokitus käsitetään arvioksi ihmisestä eikä ilmoitus- ja torjuntaluokaksi.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Taulukon täydentäminen, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -331,8 +327,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Vastaus antaa henkilölle lääketieteellisiä neuvoja eikä ohjaa palveluun.
 - Este kirjoitetaan vain henkilön tunteeksi ("noloa"), eikä sen tasoa nimetä.
 - Kimin kohdalla oletetaan, että suuntautumisessa on jotakin korjattavaa.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Aineiston analyysi, 50 min (30 p)
 
@@ -370,8 +364,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Luokan muutos luetaan väärin tai vastaajaryhmien ero unohtuu, tai taulukosta päätellään seksuaaliterveyden parantuneen, vaikka kysely mittaa vain tietolähteitä.
 - Kehyksen keinot kohdistuvat vain nuoren omaan vastuuseen, ja "ehkä tavoittamatta" -sarake jää tyhjäksi.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää, mitä seksuaaliterveys on ja mikä siihen vaikuttaa, ja tiedät, mistä palveluja saa.
@@ -390,7 +382,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (Kimin tekijäkartta) tehdään kokonaan kaikissa tuntimalleissa. Ryhmätyö tehdään kuvitteellisilla tapauksilla. Kukaan ei kerro omasta kehostaan, seksuaalisuudestaan tai kokemuksistaan.
+**Tavoitetehtävä:** Tehtävä 1 (Kimin tekijäkartta) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -428,7 +420,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Piirrä neljän tason taulukko taululle. Opiskelijat pärjäävät tyhjällä paperilla.
+- Piirrä neljän tason taulukko taululle.
 - Varaa nimettömiä lappuja tai laatikko kysymyksille ja exitiin.
 - Tarkista koulun seksuaalikasvatuksen suunnitelma.
 - Tutustu halutessasi Opetushallituksen tukimateriaaliin ja Tunne rintasi ry:n ja Korento ry:n avoimeen aineistoon (ks. Lähteet). Älä kopioi niiden tehtäviä.
@@ -466,11 +458,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *palvelu = apu, jonka ammattilainen tai järjestö antaa*
 - *vaikutusmekanismi = tapa, jolla asia vaikuttaa: mitä tapahtuu ensin ja mitä sitten*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee tekijäkartta sanoin tai kuvin. Lue tapaus kahdessa osassa. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Tee tekijäkartta sanoin tai kuvin. Lue tapaus kahdessa osassa.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

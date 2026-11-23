@@ -173,7 +173,7 @@ Matkaripuli tarttuu ruoan ja juoman mukana ([Terveyskirjasto](https://www.tervey
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mitä hyötyä ja haittaa on siitä, miten rokotuksista puhutaan? Vastauksella ei ole yhtä oikeaa muotoa.
 2. Mitä hyötyä on siitä, että rokotusohjelma on maksuton ja vapaaehtoinen? Entä mitä haittaa?
@@ -189,11 +189,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Tartuntataudit, rokotukset ja mikrobilääkeresistenssi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch04-tartuntataudit). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Tartuntataudit, rokotukset ja mikrobilääkeresistenssi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch04-tartuntataudit).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE3 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE2-moduuleista.
 
 ### K1: Monivalinta tartuntataudeista, 25 min (20 p)
 
@@ -287,8 +285,6 @@ d) Punnitse, miten yksityisyys ja muiden suojelu voidaan sovittaa yhteen, ja ker
 
 **Tyypilliset virheet:** Borrelioosin ja TBE:n sekoittaminen: rokote kuuluu vain TBE:lle; Malariaan oletetaan matkailijan rokote; suoja on pistojen torjunta ja estolääkitys; Infektio ja sairaus menevät sekaisin kohdassa 2; Laumasuoja ymmärretään niin, että kaikkien pitää sairastaa tauti; Käsihuuhteen oletetaan korvaavan käsienpesun.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Flunssa ja influenssa, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -320,8 +316,6 @@ Tehtävänannon osapisteet (a 12 p, b 8 p) sisältävät sekä sisällön että 
 
 **Tyypilliset virheet:** Flunssaan oletetaan rokote tai antibioottien auttavan: kumpikin on virustauti, ja antibiootit eivät tehoa; Influenssaa pidetään vain voimakkaana flunssana: ero on aiheuttajassa ja rokotteessa, ei vain oireiden voimakkuudessa; Vertailu kertoo vain toisesta taudista tai jättää ehkäisyn pois; b-kohdassa neuvotaan ottamaan antibiootteja ennaltaehkäisevästi; Suomessa ei suositella rutiininomaista antibioottikuuria puutiaisen pureman jälkeen; Merkkirajoitus ylittyy, koska a-kohdassa toistetaan aineisto.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K3: Vesiepidemia kunnassa, 55 min (30 p)
 
 **Malliksi kelpaava vastaus**
@@ -351,8 +345,6 @@ Tehtävänannon osapisteet (a 9 p, b 12 p, c 9 p) sisältävät sekä sisällön
 **Yhteensä:** 30 p
 
 **Tyypilliset virheet:** Kaikki ehdotukset kohdistuvat samaan lenkkiin (esimerkiksi vain käsienpesu); Toimijaa ei nimetä: *pitäisi tehdä* ilman, kuka tekee; c-kohdassa ei yhdistetä vettä resistenssiin vaan kerrotaan vain, että vesi on tärkeää; Selitetään, että kaikkien vettä juoneiden olisi pitänyt sairastua.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K4: Tartuntatauti ja yksityisyys, 55 min (30 p)
 
@@ -387,8 +379,6 @@ Tehtävänannon osapisteet (a 6 p, b 8 p, c 10 p, d 6 p) sisältävät sekä sis
 
 **Tyypilliset virheet:** Tippuri luokitellaan yleisvaaralliseksi tai luokka käsitetään arvioksi ihmisestä: luokka koskee tautia, ei ihmistä; Salassapidon oletetaan estävän ilmoituksen kokonaan; Näkökulmat luetellaan ilman, että ne sovelletaan tapaukseen; Robinia syytetään tai hänen tilanteensa tuomitaan; Annetaan yksi oikea ratkaisu perustelematta.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää tartuntaketjun, vertailla tartuntatauteja, kertoa rokotusohjelmasta ja laumasuojasta sekä selittää mikrobilääkeresistenssin.
@@ -407,7 +397,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (tartuntaketju ja sen katkaisu) tehdään kokonaan kaikissa tuntimalleissa. Kaikki tapaukset ovat kuvitteellisia. Ketään ei pyydetä kertomaan omasta tai perheensä sairastamisesta tai rokotuksista.
+**Tavoitetehtävä:** Tehtävä 1 (tartuntaketju ja sen katkaisu) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -441,7 +431,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Piirrä tartuntaketju taululle tai jaa se paperilla. Tehtävät toimivat ilman tulosteita. Avaa tunnilla THL:n rokotusohjelman taulukko ja kattavuussivu; älä kopioi lukuja materiaaleihin. Tilastot ja TBE-alueet muuttuvat.
+- Piirrä tartuntaketju taululle tai jaa se paperilla. Avaa tunnilla THL:n rokotusohjelman taulukko ja kattavuussivu; älä kopioi lukuja materiaaleihin. Tilastot ja TBE-alueet muuttuvat.
 - Jäljellä oleva aukko: vedenpuhdistuksesta ja vedenlaatuvaatimuksista sivulla ei ole tietoa; vesiepidemiasta on vain tutkiminen, syyn etsintä ja keittoneuvo THL:n oppaan mukaan. Autoimmuunisairaudet ja zoonoosit ovat määritelminä, ja matkailijan rokotteista ei ole sivulla tietoa (lähde Terveyskirjasto dlk00584 on linkitetty). Linkitetty YTL:n arvosteluohje mainitsee zoonoosit kerran, mutta ei autoimmuunisairauksia eikä matkailijan rokotteita ([YTL, luettu 22.11.2026](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html)); niitä voi opetella tarvittaessa muualta. HIV:n ehkäisystä ja tautiluokista on lisää TE1:n seksuaaliterveys-aiheessa.
 
 ### Avoimet kysymykset
@@ -467,11 +457,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *tartuntatauti = tauti, joka leviää ihmisestä toiseen tai eläimestä ihmiseen*; *tartuntatie = reitti, jota mikrobi kulkee*; *epidemia = tapauksia on tavallista enemmän tietyssä väestössä ja ajassa*; *pandemia = hyvin laaja epidemia*; *rokote = valmiste, joka opettaa elimistön puolustuksen tunnistamaan mikrobin*; *laumasuoja = riittävän monen immuniteetti suojaa myös muita*
 - *mikrobilääkeresistenssi = mikrobi ei enää reagoi lääkkeeseen*; *kotitesti = testi, jonka tekee itse kotona*; *zoonoosi = tauti, joka voi siirtyä eläimestä ihmiseen ja päinvastoin*; *autoimmuunisairaus = pitkäaikainen sairaus, jossa elimistön puolustus hyökkää omia kudoksia vastaan*; *ilmoitettava tauti = tauti, josta lääkäri tai laboratorio tekee ilmoituksen THL:lle*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue taulukko rivi kerrallaan ja peitä muut. Piirrä ketju nuolilla ja eri väreillä. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se helpottaa.
+**Lukeminen, keskittyminen ja jännitys:** Lue taulukko rivi kerrallaan ja peitä muut. Piirrä ketju nuolilla ja eri väreillä.
 
 **Ilman laitetta:** Tehtävät 1 ja 3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 2 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

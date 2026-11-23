@@ -167,7 +167,7 @@ Lauseet ovat kuvitteellisia kuultuja kommentteja:
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mitä hyötyä ja mitä haittaa on siitä, että mielenterveys nähdään voimavarana eikä vain sairauden puuttumisena?
 2. Ajattele jotakin yhteisöä, kuten luokkaa, joukkuetta tai kuoroa. Mikä saa jäsenet puhumaan avoimesti jaksamisesta, ja mikä saa heidät vaikenemaan?
@@ -183,11 +183,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Mielenterveyttä suojaavat tekijät](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch08-mielenterveys). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Mielenterveyttä suojaavat tekijät](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch08-mielenterveys).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE1 yksin kattaa vain osan ylioppilaskokeesta: loput tulevat moduuleista TE2 ja TE3.
 
 ### K1: Oikein vai väärin -väittämät, 20 min (20 p)
 
@@ -273,8 +271,6 @@ c) Arvioi aineiston rajoja ja ehdota yksi perusteltu koulun toimi. (10 p)
 - Väittämän 10 arvioidaan ehdottomasti oikeaksi tai vääräksi, vaikka tekijä voi toimia kumpaankin suuntaan.
 - Väittämissä 3, 4 ja 8 taso jää perustelematta.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Vertailu näkökulmittain, 30 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -313,8 +309,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Tasoja ei mainita, vaikka tehtävä pyytää niitä.
 - Ehdotus on yleinen ("pitäisi puhua enemmän") eikä kerro, kuka tekee mitä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K3: Aineiston lukeminen, 45 min (30 p)
 
 **Malliksi kelpaava vastaus**
@@ -352,8 +346,6 @@ Tehtävänannon osapisteet (a 8 p, b 12 p, c 10 p) sisältävät sekä sisällö
 - Aineiston rajoista mainitaan vain "kuvitteellinen".
 - Ehdotus ei kerro toimijaa eikä keinoa.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat jäsentää mielenterveyttä suojaavat tekijät kolmelle tasolle ja selittää yhden suojaavan tekijän vaikutuksen ketjuna.
@@ -372,7 +364,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (suojaavien tekijöiden kartta) tehdään kokonaan kaikissa tuntimalleissa. Ryhmätyö tehdään kuvitteellisella tapauksella. Kukaan ei kerro omasta mielenterveydestään.
+**Tavoitetehtävä:** Tehtävä 1 (suojaavien tekijöiden kartta) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -410,7 +402,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Piirrä kolmen tason pohja taululle. Opiskelijat pärjäävät tyhjällä paperilla.
+- Piirrä kolmen tason pohja taululle.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Selvitä koulun opiskeluhuollon yhteystiedot ja ajanvaraus (esimerkki) ja koulun toimintatapa, kun opiskelija on huolissaan toisesta.
 - Lue osion *Apua ja tukea* linkit ennen tuntia. Pidä sävy rauhallisena äläkä lisää tarinoita tai yksityiskohtia.
@@ -452,11 +444,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *yksinäisyys = pitkään jatkuva tunne, ettei ole tarpeeksi ihmissuhteita tai läheisyyttä*
 - *opiskeluhuolto = koulun palvelut, joista saa tukea hyvinvointiin*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee kartta kuvina tai yksittäisinä sanoina. Lue tapaus kahdessa osassa. Koetehtävät voi tehdä osissa ilman aikarajaa.
+**Lukeminen, keskittyminen ja jännitys:** Tee kartta kuvina tai yksittäisinä sanoina. Lue tapaus kahdessa osassa.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 Kootaan sivun tiedoista automaattisesti.

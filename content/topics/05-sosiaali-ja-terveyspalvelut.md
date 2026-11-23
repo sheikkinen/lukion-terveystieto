@@ -149,7 +149,7 @@ Valtioneuvoston väliarviointi nostaa esiin alueellisia eroja ja korjattavaa ([v
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mitä hyötyä ja mitä haittaa on siitä, että samasta palvelusta vastaa yksi alue koko alueensa asukkaille?
 2. Miksi palvelun tuottajan vaihtuminen voi tuntua asiakkaasta isolta, vaikka järjestäjä pysyy samana?
@@ -164,11 +164,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Sosiaali- ja terveyspalvelut](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch05-palvelut). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Sosiaali- ja terveyspalvelut](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch05-palvelut).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE3 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE2-moduuleista.
 
 ### K1: Täydennä teksti, 25 min (20 p)
 
@@ -255,8 +253,6 @@ c) Arvioi tukijärjestelmän toimivuutta Kimin tapauksessa: miten alueelliset er
 - Järjestämisvastuu ja tuottaminen sekoitetaan, ja ajatellaan, että hyvinvointialue tuottaa kaiken itse.
 - Kolmas sektori sekoitetaan yksityiseen sektoriin, koska molemmat ovat julkisen sektorin ulkopuolella.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Palvelun valinta, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -289,8 +285,6 @@ Tehtävänannon osapisteet (a 9 p, b 11 p) sisältävät sekä sisällön että 
 - Seuraava askel puuttuu: vastaus nimeää palvelun mutta ei kerro, mitä tehdään ensin.
 - Yksityinen palvelu esitetään vain nopeana tai vain kalliina; vertailu vaatii molemmat puolet.
 - Vastaus ei käytä toimeentuloa ja asuinpaikkaa perusteluina.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Perheen tuki, 55 min (30 p)
 
@@ -329,8 +323,6 @@ Tehtävänannon osapisteet (a 10 p, b 9 p, c 11 p) sisältävät sekä sisällö
 - c-kohdassa todetaan, että "järjestelmä ei toimi", mutta ei yhdistetä havaintoa Kimin tilanteeseen.
 - Parannusehdotus on yleinen ("lisää rahaa") eikä kerro, kuka toimii.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat kertoa, kuka palveluja järjestää, tuottaa ja korvaa, ja valita tilanteeseen sopivan palvelun.
@@ -349,7 +341,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Kuka auttaa?) tehdään kokonaan kaikissa tuntimalleissa. Kaikki tilanteet ovat kuvitteellisia. Ketään ei pyydetä kertomaan omasta terveydestään tai perheestään.
+**Tavoitetehtävä:** Tehtävä 2 (Kuka auttaa?) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -383,7 +375,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita palvelukartan runko taululle tai jaa se paperilla. Tehtävät toimivat ilman tulosteita. Varaa nimettömiä lappuja.
+- Kirjoita palvelukartan runko taululle tai jaa se paperilla. Varaa nimettömiä lappuja.
 - Lue STM:n sivu *Hyvinvointialueet* ja väliarviointi (ks. Lähteet). Ne ovat link-out-aineistoa: linkitä, älä kopioi.
 
 ### Avoimet kysymykset
@@ -414,11 +406,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *asiakasmaksu = maksu, jonka asiakas maksaa palvelusta*; *maksukatto = enimmäismäärä, jonka verran maksuja kertyy vuodessa*
 - *viimesijainen = vasta silloin, kun muu ei auta*
 
-**Lukeminen, keskittyminen ja jännitys:** Piirrä palvelukartta isolle paperille värein. Lue taulukko rivi kerrallaan ja peitä muut. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Piirrä palvelukartta isolle paperille värein. Lue taulukko rivi kerrallaan ja peitä muut.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

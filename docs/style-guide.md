@@ -92,14 +92,17 @@ The first time in a topic, use the full form; after that the short form. Theory 
 
 ## 6. Pohdinta
 
-- 2–3 prompts about ideas, communities or fictional cases, opened with *Kirjoita omaan muistioosi. Voit ohittaa
-  kysymyksen.* Yes: *Mikä luokassa tai harrastusporukassa voi tukea jäsenten hyvinvointia?* No: *Miten sinä nukut?*
+- 2–3 prompts about ideas, communities or fictional cases, opened with *Kirjoita vastaukset omaan muistioosi.* That
+  the student need not show the answers or write about their own health is said once on the path page (`polku.md`),
+  not on every topic (norm-ledger row 5, operator 2026-11-23: "Remove repeats"). Yes: *Mikä luokassa tai harrastusporukassa voi tukea jäsenten hyvinvointia?* No: *Miten sinä nukut?*
 
 ## 7. Exam tasks (`## Koetehtävät`)
 
 - The exam has three parts: **A20** (choose 1 of 3, content only), **B20** (2 of 3), **C30** (2 of 3); 120 points.
-  A topic with three tasks uses one of each part; with two, one B20 and one A20 or C30. The section opens with one
-  line: TE1 alone covers only part of the exam; TE2 and TE3 carry the rest.
+  A topic with three tasks uses one of each part; with two, one B20 and one A20 or C30. The section opens straight
+  with K1. That the tasks are the site's own, that materials are fictional and that one module covers only part of
+  the exam is said once on the front page and the curriculum page (`etusivu.md`, `opetussuunnitelma.md`), not on
+  every topic (norm-ledger row 5, operator 2026-11-23: "Remove repeats").
 - Heading `### K1: Virheiden tunnistaminen, 25 min (20 p)` (engine form), then `*Osa A20 · Harjoittelee: Osaan 1,
   5*`, then the task. Sub-parts `a) … (8 p)` add up to the heading. Practice minutes: A20 20–30, B20 30–40, C30 45–60.
 - Type slugs (front matter `type`). Existing: `oikein-vaarin`, `virheiden-tunnistaminen` (five errors, 4 p each),
@@ -201,7 +204,10 @@ For each task an H3 that repeats the task heading exactly (`### K1: Virheiden tu
      name the appropriate use of the material as a mark of a mature answer and state no fixed deduction for not using it.
    - A last line `**Yhteensä:** 20 p` that equals the heading.
 3. **Tyypilliset virheet**: 3–5 bullets, e.g. *luettelee tekijöitä selittämättä mekanismia*.
-4. The fixed line, verbatim: `Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.`
+
+The former fixed line "Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan." is not written
+under model answers: it is said once on the front page and the curriculum page (norm-ledger row 5, operator
+2026-11-23: "Remove repeats").
 
 ## 9. Self-study and lesson plans
 
@@ -213,10 +219,19 @@ For each task an H3 that repeats the task heading exactly (`### K1: Virheiden tu
   `Min` a bare integer, no total row. 75 min template: Virittäytyminen 5 / Aiemman tiedon aktivointi 10 / Lyhyt
   alustus 10 / Työskentely 25 / Pari- tai pienryhmäpohdinta 10 / Koeharjoitus ja exit 10 / Puskuri 5.
 - **The 45-minute plan keeps the goal task whole**; cut the warm-up, the discussion and the exam practice first.
+- `**Tavoitetehtävä:**` names the goal task only. Fictional cases and not asking students about themselves are
+  stated on etusivu and polku, and at most once in a topic's `### Pelisäännöt ja oletusten tarkistus`.
 - After the 45-minute table: `### Valmistelu` (≤ 5 lines), `### Avoimet kysymykset` (5–8), `### Pelisäännöt ja
-  oletusten tarkistus`.
+  oletusten tarkistus`. Valmistelu does not repeat "Tehtävät toimivat ilman tulosteita": paper use is said once on
+  the accessibility page (`saavutettavuus.md`).
 - `## Eriyttäminen`: **Helpompi polku**, **Syvempi polku**, **S2 ja selkeä kieli** (mini glossary), **Lukeminen,
-  keskittyminen ja jännitys**, **Ilman laitetta**, **Tuki**.
+  keskittyminen ja jännitys**, **Ilman laitetta**. The former **Tuki** line (learning support and exam special
+  arrangements) and "Koetehtävät voi tehdä osissa ilman aikarajaa" are said once on the path page (`polku.md`), not
+  on every topic (norm-ledger row 5, operator 2026-11-23: "Remove repeats").
+- The visual-novel line in Pohdinta is the link and the chapter title only; what the stories are is said once on the
+  path page.
+- Yearly-fact rules (`data/yearly-facts.yaml`) state the fact only. That changing figures are linked, not copied, is
+  said once on the front page (*Ajantasaisuus*); a rule does not add "Sivusto ei kirjoita lukuja…".
 
 ## 10. Safety and inclusion: do and don't
 

@@ -4,7 +4,11 @@ description: Opiskelijan polku terveystiedon aiheiden läpi. Merkinnät ja muist
 ---
 Tämä polku vie sinut läpi terveystiedon aiheet. Aiheet ovat suositellussa järjestyksessä. Järjestys on esimerkki, ja voit edetä myös omassa järjestyksessäsi.
 
-Jokaisessa aiheessa luet tekstin, teet tehtävän, harjoittelet koetehtävää ja tarkistat sen mallivastauksella, pohdit ja katsot, mikä on seuraava askel. Kirjoita tärkeimmät käsitteet omiin muistiinpanoihisi kokeeseen kertaamista varten.
+Jokaisessa aiheessa luet tekstin, teet tehtävän, harjoittelet koetehtävää ja tarkistat sen mallivastauksella, pohdit ja katsot, mikä on seuraava askel. Kirjoita tärkeimmät käsitteet omiin muistiinpanoihisi kokeeseen kertaamista varten. Koetehtävät voi tehdä osissa ja ilman aikarajaa.
+
+Jokaisesta aiheesta on myös visual novel -tarina, joka perustuu aiheen sisältöön. Sen voi pelata selaimessa myös puhelimella.
+
+Jos lukeminen tai kirjoittaminen on sinulle hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä. Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 Tehtävissä tarkastellaan kuvitteellisia henkilöitä. Sinun ei tarvitse kirjoittaa omasta terveydestäsi mitään.
 

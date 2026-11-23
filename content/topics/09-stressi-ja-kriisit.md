@@ -171,7 +171,7 @@ Kuormituksen hallinta ei ole vain yksilön tehtävä. Yhteisö voi tasata aikata
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Milloin stressi on hyödyllistä ja milloin haitallista? Mistä ero syntyy?
 2. Mitä koulu voisi muuttaa, jotta kuormitus ei kasautuisi, ja mitä se ei voi muuttaa?
@@ -187,11 +187,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Stressi, kriisit ja kuormituksen hallinta](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch09-stressi-ja-kriisit). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Stressi, kriisit ja kuormituksen hallinta](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch09-stressi-ja-kriisit).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE1 yksin kattaa vain osan ylioppilaskokeesta: loput tulevat moduuleista TE2 ja TE3.
 
 ### K1: Taulukon täydentäminen, 25 min (20 p)
 
@@ -263,8 +261,6 @@ c) Perustele kannanotto siitä, miten Kimin kannattaa toimia, ja kerro, miten ko
 - Esimerkki on liian yleinen eikä sovi käsitteeseen.
 - Tukeva tekijä on yksilön oma tahdonvoima, vaikka tukea on myös yhteisöissä ja palveluissa.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Teorian soveltaminen, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -301,8 +297,6 @@ Tehtävänannon osapisteet (a 6 p, b 5 p, c 9 p) sisältävät sekä sisällön 
 - Selviytymiskeinot luokitellaan ilman perustelua.
 - Terveysvaikutus mainitaan yleisesti ("stressi on epäterveellistä") eikä mekanismeja eritellä.
 - Ehdotukset ovat vain yksilön omia, eikä koulun osuutta mainita.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Eettinen analyysi, 50 min (30 p)
 
@@ -342,8 +336,6 @@ Tehtävänannon osapisteet (a 10 p, b 12 p, c 8 p) sisältävät sekä sisällö
 - Vastaus moralisoi Nooria tai Kimiä sen sijaan, että analysoi tilannetta.
 - Koulun ja yhteiskunnan tuki puuttuu, ja vastuu jää yksin Kimille.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää stressin ketjuna ja erottaa kriisin tyypit ja vaiheet.
@@ -362,7 +354,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (stressin ketju) tehdään kokonaan kaikissa tuntimalleissa. Ryhmätyö tehdään kuvitteellisilla tapauksilla. Kukaan ei kerro omasta jaksamisestaan tai kriiseistään.
+**Tavoitetehtävä:** Tehtävä 1 (stressin ketju) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -400,7 +392,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Piirrä stressin ketju ja kriisin neljä vaihetta taululle. Opiskelijat pärjäävät tyhjällä paperilla.
+- Piirrä stressin ketju ja kriisin neljä vaihetta taululle.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Pidä sävy rauhallisena äläkä lisää tarinoita tai yksityiskohtia kriiseistä.
 
@@ -438,11 +430,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *traumaattinen kriisi = kriisi, joka syntyy äkillisestä ja suuresta tapahtumasta*
 - *selviytymiskeino = tapa, jolla ihminen selviää vaikeasta tilanteesta*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee ketju kuvina tai yksittäisinä sanoina. Lue tapaus kahdessa osassa. Koetehtävät voi tehdä osissa ilman aikarajaa.
+**Lukeminen, keskittyminen ja jännitys:** Tee ketju kuvina tai yksittäisinä sanoina. Lue tapaus kahdessa osassa.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

@@ -152,7 +152,7 @@ Tekoäly kirjoittaa sujuvaa tekstiä, mutta se voi myös **hallusinoida**: keksi
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mikä tekee vaikuttajan suosituksesta uskottavan tai epäuskottavan? Milloin ihmiset ansaitsevat tietää, että viesti on mainos?
 2. Milloin tunteisiin vetoava terveyskampanja on perusteltu ja milloin se menee liian pitkälle?
@@ -169,11 +169,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Terveysviestintä ja sen vaikutuskeinot](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch03-terveysviestinta). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Terveysviestintä ja sen vaikutuskeinot](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch03-terveysviestinta).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE2 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE3-moduuleista.
 
 ### K1: Käsitteiden nimeäminen, 25 min (20 p)
 
@@ -268,8 +266,6 @@ c) Kirjoita kuvitteelliselle Samille, joka harkitsee molempia, lyhyt vastaus: mi
 - Perustelu toistaa käsitteen eikä kerro, mikä tilanteessa sen osoittaa.
 - Sosiaalinen todiste ja niukkuus sekoitetaan.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Eettinen analyysi, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -302,8 +298,6 @@ Tehtävänannon osapisteet (a 9 p, b 6 p, c 5 p) sisältävät sekä sisällön 
 - Vastaus keskittyy vain Kimin kokemukseen eikä ota huomioon muita osapuolia.
 - Vastaus tuomitsee tekoälyn perustelematta tai ottamatta huomioon vastauksen sanamuotoja. Hyvin perusteltu tuomitseva tai puoltava kanta kelpaa.
 - Periaatteet ovat toiveita ("pitäisi olla hyvä") eivätkä sisällä perustelua.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Aineiston analyysi, 60 min (30 p)
 
@@ -340,8 +334,6 @@ Tehtävänannon osapisteet (a 12 p, b 10 p, c 8 p) sisältävät sekä sisällö
 - Uudelleenmuotoilu poistaa vaikuttamisen mutta jättää kaupallisen yhteyden esittämättä, vaikka tehtävä pyytää avoimempaa versiota.
 - Vastaus neuvoo lukijaa, mitä pitää ostaa tai käyttää, sen sijaan että arvioisi viestejä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K4: Viestinnän analyysi, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -376,8 +368,6 @@ Tehtävänannon osapisteet (a 6 p, b 8 p, c 6 p) sisältävät sekä sisällön 
 - Kotitestiä tai juomaa väitetään tehottomaksi, vaikka aineisto ei sitä kerro: arvioidaan väitettä, ei tuotetta.
 - Viesti Samille neuvoo ostamaan tai olemaan ostamatta sen sijaan, että kertoisi, miten väitteen arvioi.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat tunnistaa viestin muodon ja vaikutuskeinot ja arvioida viestin luotettavuutta ja eettisyyttä.
@@ -396,7 +386,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (vaikutuskeinot postauksesta) tehdään kokonaan kaikissa tuntimalleissa. Kaikki esimerkit ovat kuvitteellisia. Ketään ei pyydetä kertomaan omista ostoksistaan, seuraamistaan tileistä tai terveydestään.
+**Tavoitetehtävä:** Tehtävä 2 (vaikutuskeinot postauksesta) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -434,7 +424,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita taululle vaikutuskeinot tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita.
+- Kirjoita taululle vaikutuskeinot tai jaa ne paperilla.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Tutustu halutessasi Faktabaari EDU:n ja Mediataitokoulun materiaaleihin (ks. Lähteet). Ne ovat link-out-aineistoa: linkitä, älä kopioi.
 
@@ -470,11 +460,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *viherpesu = tuote esitetään ympäristöystävällisemmäksi kuin se on*
 - *hallusinointi = tekoäly keksii uskottavalta kuulostavaa tietoa*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue viesti rivi kerrallaan ja peitä muut. Merkitse vaikutuskeinot väreillä tai symboleilla. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Lue viesti rivi kerrallaan ja peitä muut. Merkitse vaikutuskeinot väreillä tai symboleilla.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

@@ -149,3 +149,35 @@ The operator limited help blocks and content notes (D-014; guideline section 4).
 - The medical-advice rule is unchanged: pages give no medical advice. The words "every page sends students with their
   own symptoms to student health care, a doctor or 112" in the D-008 addendum no longer ask for a referral sentence
   on every page; the front page's statement that the site gives no health advice covers it.
+
+## Addendum 2026-11-23: site-wide notes are said once (norm-ledger row 5)
+
+The operator decided the repeated per-page notes (answering "Decide on the repeated per-page notes now?": "Remove
+repeats"). This applies row 5 of the norm ledger in lukio-runko (`docs/norm-ledger.md`): a site-wide fact is stated
+once on a site page, and topic pages do not repeat it. The engine pin moves to lukio-runko v0.5.1, which no longer
+stamps the yearly-facts note, the self-study storage note or the timing stamp *(esimerkki, koulu päättää)* on topic
+pages.
+
+- **Model answers:** item 5's "fixed line" ("Pisteytys on sivuston oma harjoitusohje, ei
+  ylioppilastutkintolautakunnan.") is withdrawn from topics. It is said on the front page (*Koetehtävät*) and the
+  curriculum page (*Terveystieto lyhyesti*, *Näin mallivastaus on rakennettu*).
+- **Koetehtävät:** no opening line that the tasks are the site's own, that the materials are fictional or that one
+  module covers only part of the exam. The curriculum page states the exam coverage once, with YTL's rules for the
+  reaali exams as its basis; each material keeps its own *kuvitteellinen* label (item 4).
+- **Pohdinta:** opens with "Kirjoita vastaukset omaan muistioosi." only. The path page says the student need not
+  write about their own health and that notes stay in the browser.
+- **Lesson plans:** `**Tavoitetehtävä:**` names the goal task only; fictional cases and not asking students about
+  themselves are stated on etusivu and polku, and at most once in a topic's *Pelisäännöt ja oletusten tarkistus*. Valmistelu no longer says
+  "Tehtävät toimivat ilman tulosteita" or its TE1 form "Opiskelijat pärjäävät tyhjällä paperilla" (the accessibility
+  page says tasks work on paper). The link-out line beside a named material ("Ne ovat link-out-aineistoa: linkitä,
+  älä kopioi.") is a licence line and stays.
+- **Eriyttäminen:** no **Tuki** line and no "Koetehtävät voi tehdä osissa ilman aikarajaa"; both are said once on the
+  path page.
+- **Visual novel:** each topic keeps its link and chapter title; what the stories are is said once on the path page.
+- **Yearly facts:** rules in `data/yearly-facts.yaml` state the fact only; "Sivusto ei kirjoita lukuja…" and similar
+  editorial notes are removed, because the front page (*Ajantasaisuus*) says once that changing figures are linked.
+- **Unchanged:** the one help block in TE1 08 mielenterveys (D-014), the services TE3 05 teaches as subject content,
+  task instructions, lesson steps, model answers and their criteria, curriculum texts, sources and the licence line.
+- The front page no longer says that heavy pages open with a content note and that every topic ends with help
+  information; that sentence predates D-014 and was no longer true.
+- The review table is `docs/review/2026-11-23-repeat-cleanup.md`.

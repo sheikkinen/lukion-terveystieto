@@ -189,7 +189,7 @@ Päästöt syntyvät sekä yksilön valinnoista että rakenteista, kuten energia
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi kestävä kehitys on myös terveyskysymys eikä vain ympäristökysymys?
 2. Millä perusteella voi sanoa, että päätös on oikeudenmukainen tuleville sukupolville?
@@ -206,11 +206,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Kestävä kehitys ja terveys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch06-kestava-kehitys). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Kestävä kehitys ja terveys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch06-kestava-kehitys).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE2 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE3-moduuleista.
 
 ### K1: Määrittele ja anna esimerkki, 25 min (20 p)
 
@@ -284,8 +282,6 @@ c) Esitä perusteltu kanta: kenen vastuulla ympäristön ja terveyden suojelu en
 - Ero lähikäsitteeseen puuttuu tai on pelkkä "ne ovat eri asioita".
 - Vastaus ylittää merkkirajan.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Aineiston analyysi, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -317,8 +313,6 @@ Tehtävänannon osapisteet (a 8 p, b 12 p) sisältävät sekä sisällön että 
 - Eri ryhmien erilaiset vaikutukset jäävät huomaamatta: kaikki oletetaan hyötyjiksi.
 - Terveys kaikissa politiikoissa selitetään sanoilla "terveys on tärkeää" ilman päätöksen arviointia.
 - Ulottuvuudet luetellaan nimeltä ilman aineiston yksityiskohtaa.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Eettinen analyysi, 55 min (30 p)
 
@@ -358,8 +352,6 @@ Tehtävänannon osapisteet (a 8 p, b 14 p, c 8 p) sisältävät sekä sisällön
 - Kanta on moralisoiva ("ihmisten pitäisi vain tehdä oikein").
 - Vastaus unohtaa tulevat sukupolvet.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää, miten kestävän kehityksen neljä ulottuvuutta liittyvät terveyteen, ja osaat arvioida päätöksen terveysvaikutuksia.
@@ -378,7 +370,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (neljän ulottuvuuden taulukko) tehdään kokonaan kaikissa tuntimalleissa. Kaikki esimerkit ovat kuvitteellisia. Ketään ei pyydetä kertomaan omista kulutustottumuksistaan, taloudestaan tai asumisestaan.
+**Tavoitetehtävä:** Tehtävä 1 (neljän ulottuvuuden taulukko) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -416,7 +408,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita taululle neljä ulottuvuutta tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita.
+- Kirjoita taululle neljä ulottuvuutta tai jaa ne paperilla.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Tutustu halutessasi aoe.fi-aineistoihin (ks. Lähteet): käsikirja 4038 on CC BY, kaksi muuta CC BY-SA. Linkitä, älä kopioi.
 
@@ -455,11 +447,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *ilmastoahdistus = ahdistus ilmastonmuutoksesta; ei sairaus*
 - *terveys kaikissa politiikoissa = päätöksen terveysvaikutukset arvioidaan ennen päätöstä*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue Koivusaaren suunnitelma lause kerrallaan ja peitä muut. Taulukon rivit voi täyttää yksi kerrallaan. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Lue Koivusaaren suunnitelma lause kerrallaan ja peitä muut. Taulukon rivit voi täyttää yksi kerrallaan.
 
 **Ilman laitetta:** Kaikki tehtävät, koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 vaihe 5 on korvattu kolmella keinolla.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

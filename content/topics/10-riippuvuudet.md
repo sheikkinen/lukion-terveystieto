@@ -158,7 +158,7 @@ Valtioneuvoston tiedotteen mukaan nikotiinipussien myynti alle 18-vuotiaille kie
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mitä perusteita on sille, että kunta rajoittaisi alkoholin ja nikotiinituotteiden markkinointia, ja mitä perusteita sitä vastaan? Mikä perustelu painaa mielestäsi enemmän ja miksi?
 2. Miksi pelottelun ei ole osoitettu toimivan, ja mitä sen tilalla voi tehdä?
@@ -174,11 +174,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen. Tätä itsearviointia ei pisteytetä eikä se mittaa omaa elämääsi.
 
-**Pelaa aiheesta visual novel:** [Aine- ja toiminnalliset riippuvuudet](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch10-riippuvuudet). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Aine- ja toiminnalliset riippuvuudet](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch10-riippuvuudet).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia eikä niissä ole lukuja. TE2 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE3-moduuleista.
 
 ### K1: Monivalinta, 25 min (20 p)
 
@@ -272,8 +270,6 @@ Nimeä kustakin kuvitteellisesta tapauksesta käsite ja perustele valintasi yhde
 - Pelaaminen tai ajankäyttö tulkitaan sellaisenaan riippuvuudeksi.
 - Arvataan, vaikka tehtävän väärä vastaus vähentää pisteitä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Viestinnän analyysi, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -308,8 +304,6 @@ Tehtävänannon osapisteet (a 10 p, b 6 p, c 4 p) sisältävät sekä sisällön
 - Selitys on "se vaikuttaa pelaajiin" ilman mekanismia.
 - Vastaus syyllistää pelaajaa ("pelaaja on heikko") eikä käsittele suunnittelua.
 - Muutosehdotukset ovat kieltoja ("kielletään pelit") eivätkä perusteltuja muutoksia.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Viitekehyksen soveltaminen, 55 min (30 p)
 
@@ -347,8 +341,6 @@ Tehtävänannon osapisteet (a 16 p, b 14 p) sisältävät sekä sisällön että
 - Näkökulmista esitetään vain toinen, tai ehkäisyn tarve esitetään valinnaisena (ehkäisy kuuluu TE2.s8:n sisältöön).
 - Lain tila kirjoitetaan muistinvaraisena lukuna.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K4: Käsitteiden nimeäminen, 25 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -381,8 +373,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Karsinogeenin luokka tulkitaan suurimmaksi riskiksi vahvimman näytön sijaan.
 - Perustelu toistaa tapauksen sanoja tai syyllistää käyttäjää, eikä kerro mekanismia.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat kertoa keskeiset riippuvuudet, erottaa haittojen tasot, tunnistaa ohjailevia suunnitteluratkaisuja ja ehdottaa ehkäisykeinoja.
@@ -401,7 +391,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (haittakartta) tehdään kokonaan kaikissa tuntimalleissa. Kaikki tapaukset ovat kuvitteellisia, eikä käyttötapoja kuvata. Ketään ei pyydetä kertomaan omasta tai läheisten käytöstä, pelaamisesta tai kokemuksista.
+**Tavoitetehtävä:** Tehtävä 1 (haittakartta) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -439,7 +429,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Piirrä haittataulukko taululle tai jaa se paperilla. Tehtävät toimivat ilman tulosteita. Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
+- Piirrä haittataulukko taululle tai jaa se paperilla. Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Lue EHYTin ja THL:n sivut ehkäisevästä päihdetyöstä ja lainsäädäntölinkit etukäteen (ks. Lähteet). Lait uudistuvat: tarkista ajantasainen tieto. Älä käytä testejä, kokemuspuheenvuoroja tai vierailijoita, jotka kertovat pahimman tapauksensa.
 
 ### Avoimet kysymykset
@@ -467,11 +457,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 *aineriippuvuus = riippuvuus aineeseen; toiminnallinen riippuvuus = riippuvuus toimintaan; suora haitta = haitta, joka johtuu aineesta tai toiminnasta itsestään; epäsuora haitta = haitta, joka syntyy elämän seurauksena; ehkäisevä päihdetyö = toimet, jotka estävät haittoja ennen kuin ne syntyvät; haittojen vähentäminen = toimet, jotka vähentävät haittoja, vaikka käyttö jatkuu; hoitoon hakeutuminen = avun hakeminen terveydenhuollosta; vaihteleva palkkio = palkkio, joka tulee arvaamatta; karsinogeeni = syöpää aiheuttava aine; mini-interventio = lyhyt keskustelu riskikäytön vähentämiseksi*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue aineisto kappale kerrallaan ja alleviivaa kohdat värein. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Lue aineisto kappale kerrallaan ja alleviivaa kohdat värein.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

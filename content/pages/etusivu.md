@@ -26,7 +26,7 @@ Jokaisessa aiheessa on omia harjoitustehtäviä, jotka mukailevat ylioppilaskoke
 
 ## Terveys ja turvallisuus
 
-Sivusto opettaa terveystietoa ja terveyslukutaitoa. Se ei anna terveysneuvontaa eikä arvioi kenenkään omaa terveyttä. Tehtävissä tarkastellaan kuvitteellisia henkilöitä, eikä kenenkään tarvitse kertoa omasta terveydestään. Raskaita aiheita käsittelevien sivujen alussa on sisältöhuomautus, ja jokaisen aiheen lopussa kerrotaan, mistä saa apua.
+Sivusto opettaa terveystietoa ja terveyslukutaitoa. Se ei anna terveysneuvontaa eikä arvioi kenenkään omaa terveyttä. Tehtävissä tarkastellaan kuvitteellisia henkilöitä, eikä kenenkään tarvitse kertoa omasta terveydestään.
 
 ## Ajantasaisuus
 

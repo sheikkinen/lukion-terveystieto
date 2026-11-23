@@ -141,7 +141,7 @@ Itsehoidon raja tulee vastaan, kun oma tieto ei riitä. Arvosteluohjeessa itseho
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi hyvä tietolähde kertoo myös tiedon rajoista?
 2. Miksi sama ohje voi olla kaikille sopiva, mutta ei kaikille saavutettava?
@@ -156,11 +156,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Itsehoito, omahoito ja lääkkeet](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch06-itsehoito-ja-laakkeet). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Itsehoito, omahoito ja lääkkeet](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch06-itsehoito-ja-laakkeet).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE3 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE2-moduuleista.
 
 ### K1: Itsehoito ja omahoito lyhyesti, 25 min (20 p)
 
@@ -253,8 +251,6 @@ c) Arvioi linjausta terveyden eriarvoisuuden näkökulmasta: kenen vastuulle ter
 - Hyödyt ja haitat sekoitetaan yksilön ja yhteiskunnan tasolla.
 - Haitan pienentämiseksi esitetään "lisää tietoa" kertomatta, kuka toimii ja miten.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Kotitestin mainos, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -290,8 +286,6 @@ Tehtävänannon osapisteet (a 8 p, b 6 p, c 6 p) sisältävät sekä sisällön 
 - Hoitoon hakeutumisen ehdoksi asetetaan pelkkä testin tulos.
 - Merkkirajoitus ylittyy, koska a-kohdassa kerrotaan koko mainoksen sisältö.
 - Itsehoitolääke ja omahoito sekoitetaan, tai oletetaan, että Kela korvaa kaikki lääkkeet kokonaan.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Itsehoidon vahvistaminen alueella, 55 min (30 p)
 
@@ -330,8 +324,6 @@ Tehtävänannon osapisteet (a 5 p, b 13 p, c 12 p) sisältävät sekä sisällö
 - Eriarvoisuus mainitaan, mutta ei perustella, miten linjaus siihen vaikuttaa.
 - Parannusehdotus on yleinen (*lisää tiedotusta*) eikä kerro, kuka toimii.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa itsehoidon ja omahoidon, arvioida niiden hyötyjä ja haittoja ja arvioida kotitestin tai verkkotiedon luotettavuutta.
@@ -350,7 +342,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 3 (Verkkopalvelun hyödyt ja haitat) tehdään kokonaan kaikissa tuntimalleissa. Kaikki tapaukset ovat kuvitteellisia. Ketään ei pyydetä kertomaan omasta terveydestään tai lääkkeidensä käytöstä.
+**Tavoitetehtävä:** Tehtävä 3 (Verkkopalvelun hyödyt ja haitat) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -384,7 +376,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita hyöty-haittataulukon runko taululle tai jaa se paperilla. Tehtävät toimivat ilman tulosteita. Varaa nimettömiä lappuja.
+- Kirjoita hyöty-haittataulukon runko taululle tai jaa se paperilla. Varaa nimettömiä lappuja.
 - Lue Fimean nuorille suunnattu sivu ja Terveyskirjaston artikkeli kotitesteistä (ks. Lähteet). Ne ovat link-out-aineistoa: linkitä, älä kopioi.
 
 ### Avoimet kysymykset
@@ -415,11 +407,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *korvaus = rahasumma, jonka Kela maksaa osasta kustannuksia*
 - *terveyslukutaito = taito etsiä, ymmärtää ja arvioida terveystietoa*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee hyöty-haittataulukko isolle paperille. Lue mainoksen virkkeet yksi kerrallaan ja alleviivaa väitteet. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Tee hyöty-haittataulukko isolle paperille. Lue mainoksen virkkeet yksi kerrallaan ja alleviivaa väitteet.
 
 **Ilman laitetta:** Tehtävät 1 ja 3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 2 aineisto on tehtävässä, joten sekin onnistuu paperilla.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

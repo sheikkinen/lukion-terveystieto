@@ -110,8 +110,6 @@ Sivuston oma jäsennys (kaavio tämän osion lopussa):
 
 ## Tehtävät
 
-Tehtävissä on kuvitteellisia tapauksia, joissa ei kuvata väkivaltaa. Voit jättää minkä tahansa tehtävän väliin. Kenenkään ei tarvitse kertoa omasta tai läheistensä elämästä.
-
 ### Tehtävä 1: Arvioi koulun turvallisuutta
 
 **Aika:** 15 min
@@ -170,7 +168,7 @@ Tehtävissä on kuvitteellisia tapauksia, joissa ei kuvata väkivaltaa. Voit jä
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi vastuu väkivallasta on aina sillä, joka sitä käyttää, vaikka ympäristö vaikuttaa siihen, miten väkivaltaa tapahtuu?
 2. Mitkä asiat helpottavat sivustakatsojaa puuttumaan asiaan ja mitkä vaikeuttavat sitä?
@@ -186,11 +184,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Ympäristöjen turvallisuus ja väkivallan ehkäisy](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch07-turvallisuus-ja-vakivalta). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Ympäristöjen turvallisuus ja väkivallan ehkäisy](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch07-turvallisuus-ja-vakivalta).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia, eikä niissä ole lukuja eikä väkivallan kuvausta. TE2 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE3-moduuleista.
 
 ### K1: Virheiden tunnistaminen, 25 min (20 p)
 
@@ -266,8 +262,6 @@ c) Arvioi, miten ehkäisy ja avun saatavuus täydentävät toisiaan ja mitä jat
 - Korjaus on pelkkä kielto ("ei pidä paikkaansa") ilman oikeaa tietoa.
 - Lähisuhdeväkivallan kokijaksi oletetaan vain yksi sukupuoli.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Taulukon täydentäminen, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -303,8 +297,6 @@ Tehtävänannon osapisteet (a 12 p, b 8 p) sisältävät sekä sisällön että 
 - Keino on yleinen ("tieto auttaa") eikä liity väkivallan muotoon.
 - Ehkäisyn vastuu siirretään kokijalle ("jokaisen pitää varoa").
 - Arvio toteaa vain, että tasot täydentävät toisiaan, selittämättä miten.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Aineiston analyysi, 55 min (30 p)
 
@@ -342,8 +334,6 @@ Tehtävänannon osapisteet (a 9 p, b 13 p, c 8 p) sisältävät sekä sisällön
 - Ehkäisy ja apu käsitellään erillisinä, eikä jatkuvuuden merkitystä arvioida.
 - Ehdotukset ovat yleisiä ("lisätään tietoa") eivätkä liity aineiston puutteisiin.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää, miten ympäristöt tukevat turvallisuutta, ja suunnitella väkivallan ehkäisyä kolmella tasolla.
@@ -362,7 +352,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (tapaus) tehdään kokonaan kaikissa tuntimalleissa. Kaikki esimerkit ovat kuvitteellisia eikä tapauksissa kuvata väkivaltaa. Ketään ei pyydetä kertomaan omasta tai läheistensä kokemuksesta.
+**Tavoitetehtävä:** Tehtävä 2 (tapaus) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -438,11 +428,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *riskitekijä = asia, joka lisää todennäköisyyttä väestössä*
 - *suojaava tekijä = asia, joka vähentää todennäköisyyttä*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue tapaus lause kerrallaan ja peitä muut. Aiheen voi käsitellä tauoin. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Lue tapaus lause kerrallaan ja peitä muut. Aiheen voi käsitellä tauoin.
 
 **Ilman laitetta:** Kaikki tehtävät, koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 vaihe 1 on ohitettavissa.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

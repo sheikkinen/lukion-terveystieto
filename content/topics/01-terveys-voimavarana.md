@@ -177,7 +177,7 @@ Sivuston oma vinkki: taso kertoo, *missä* tekijä on, toiminta-alue *mitä* teh
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mitä hyötyä ja mitä haittaa voi olla siitä, että terveyttä ajatellaan voimavarana eikä vain sairauden puuttumisena?
 2. Ajattele jotakin yhteisöä, kuten luokkaa, joukkuetta tai kuoroa. Mikä siinä voi tukea jäsenten hyvinvointia, ja mikä voi kuormittaa?
@@ -193,11 +193,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Mitä terveys on?](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch01-mita-terveys-on). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Mitä terveys on?](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch01-mita-terveys-on).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE1 yksin kattaa vain osan ylioppilaskokeesta: loput tulevat TE2- ja TE3-moduuleista.
 
 ### K1: Virheiden tunnistaminen, 25 min (20 p)
 
@@ -279,8 +277,6 @@ Lauseet 2, 4 ja 7 ovat oikein.
 - Taustatekijöiden tasot luetellaan ilman esimerkkejä.
 - Terveyseroja selitetään edelleen vain valinnoilla tai "asenteilla".
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Käsitteen kritiikki, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -312,8 +308,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Aaron tapausta ei käytetä, vaan vastaus pysyy yleisellä tasolla.
 - Määritelmä tuomitaan tai hyväksytään kokonaan ilman punnintaa.
 - Vaihtoehto esitetään ilman perustelua, miksi se sopii koulun työhön.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Viitekehyksen soveltaminen, 50 min (30 p)
 
@@ -355,8 +349,6 @@ Tehtävänannon osapisteet (a 15 p, b 8 p, c 7 p) sisältävät sekä sisällön
 - Luokittelu edistämiseksi tai ehkäisyksi jää perustelematta, tai paras ehdotus valitaan perustelematta.
 - Aineistoa ei käytetä, vaan vastaus kertoo yleisesti nuorten terveydestä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat jäsentää terveyden taustatekijät neljälle tasolle ja selittää yhden vaikutusmekanismin ketjuna.
@@ -375,7 +367,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (taustatekijöiden kehät) tehdään kokonaan kaikissa tuntimalleissa. Ryhmätyö tehdään kuvitteellisilla tapauksilla. Kukaan ei kerro omasta terveydestään, ellei itse halua.
+**Tavoitetehtävä:** Tehtävä 1 (taustatekijöiden kehät) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -413,7 +405,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Piirrä tai tulosta neljän kehän pohja taululle. Opiskelijat pärjäävät tyhjällä paperilla.
+- Piirrä tai tulosta neljän kehän pohja taululle.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Tutustu halutessasi Opetushallituksen tukimateriaalin kehämalliin (ks. Lähteet).
 
@@ -448,11 +440,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *terveyserot = terveyden erot ihmisryhmien välillä*
 - *toiminta-alue = yksi Ottawan asiakirjan viidestä tavasta edistää terveyttä*; *ehkäisy = toimi, joka estää tietyn sairauden*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee kehät kuvina tai yksittäisinä sanoina. Lue tapaus kahdessa osassa. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Tee kehät kuvina tai yksittäisinä sanoina. Lue tapaus kahdessa osassa.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

@@ -177,7 +177,7 @@ Tiedon luotettavuuden arviointi kuuluu terveystiedon yleisiin tavoitteisiin ([TE
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi terveyden arvostaminen ja toiminta voivat olla ristiriidassa myös silloin, kun ihmisellä on hyvä tieto?
 2. Mikä saa ihmisen luottamaan vaihtoehtohoitoon, ja miten häntä voi kunnioittaa ja silti kertoa tutkimustiedosta?
@@ -193,11 +193,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Terveyskulttuurin ilmiöt](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch03-terveyskulttuuri). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Terveyskulttuurin ilmiöt](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch03-terveyskulttuuri).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE1 yksin kattaa vain osan ylioppilaskokeesta: loput tulevat TE2- ja TE3-moduuleista.
 
 ### K1: Käsitteiden nimeäminen, 25 min (20 p)
 
@@ -282,8 +280,6 @@ c) Arvioi, mikä on perusteltu ratkaisu. Voit ehdottaa myös lievempää keinoa,
 - Terveyteen sairastuminen sekoitetaan tavalliseen kiinnostukseen terveydestä.
 - Mainonnan keinoksi nimetään "huono mainos" eikä sitä, mitä keino tekee.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Aineiston analyysi, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -318,8 +314,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Kohdassa b keinot vain luetellaan, tai ihmistä syytetään tyhmyydestä.
 - Kohdassa c ei nimetä aineistosta yhtään huolta tai ei ohjata luotettavaan tietoon.
 - Tutkimusnäytön puuttumista ei yhdistetä väitteen luotettavuuteen.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Eettinen analyysi, 50 min (30 p)
 
@@ -359,8 +353,6 @@ Tehtävänannon osapisteet (a 10 p, b 10 p, c 10 p) sisältävät sekä sisäll�
 - Ehdotettu lievempi keino ei tavoita samaa päämäärää.
 - Päätöstä tuomitaan moraalisesti sen sijaan, että sitä analysoitaisiin.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää terveyskulttuurin ilmiöitä ja arvioida vaihtoehtohoitoa koskevaa tietoa.
@@ -379,7 +371,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (terveyskulttuuri ja ristiriita) tehdään kokonaan kaikissa tuntimalleissa. Ryhmätyö tehdään kuvitteellisilla tapauksilla. Kukaan ei kerro omasta terveydestään tai hoidoistaan.
+**Tavoitetehtävä:** Tehtävä 1 (terveyskulttuuri ja ristiriita) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -417,7 +409,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Piirrä taululle kolme saraketta: arvot, tavat, olot. Opiskelijat pärjäävät tyhjällä paperilla.
+- Piirrä taululle kolme saraketta: arvot, tavat, olot.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Päätä etukäteen, miten käsittelet vaihtoehtohoidot kunnioittavasti: kysymys on tutkimustiedosta, ei ihmisistä.
 - Tutustu halutessasi Opetushallituksen tukimateriaaliin (ks. Lähteet).
@@ -453,11 +445,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *tutkimusnäyttö = tutkimuksilla todistettu tieto*
 - *ylidiagnostiikka = sairaus tai riski löydetään, vaikka se ei olisi aiheuttanut oireita*; *ylihoito = hoito, josta ei ole hyötyä*; *terveysosaaminen = terveyttä edistävä osaaminen*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee taulukko kuvina tai yksittäisinä sanoina. Lue tapaus kahdessa osassa. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Tee taulukko kuvina tai yksittäisinä sanoina. Lue tapaus kahdessa osassa.
 
 **Ilman laitetta:** Tehtävät 1 ja 3, kaikki koetehtävät ja mallivastaukset toimivat paperilla. Tehtävän 2 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

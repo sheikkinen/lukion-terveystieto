@@ -196,7 +196,7 @@ Ottawan asiakirjan ([WHO](https://www.who.int/publications/i/item/ottawa-charter
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi asuinpaikka voi vaikuttaa terveyteen, vaikka kaksi ihmistä tekisi samat elintapavalinnat?
 2. Kenen vastuulla on koulun sisäilma: kunnan, koulun, opiskelijoiden vai kaikkien yhdessä?
@@ -212,11 +212,11 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Rakennettu ja luonnonympäristö ja terveys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch04-elinymparisto). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Rakennettu ja luonnonympäristö ja terveys](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch04-elinymparisto).
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Merkkirajan ylityksen vähennys (−1 p, −2 p) on yksinkertaistus: YTL:n asteikko riippuu tehtävästä ja ylityksen suuruudesta, ks. arvosteluohje. Aineistot ovat kuvitteellisia. TE2 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE3-moduuleista.
+Merkkirajan ylityksen vähennys (−1 p, −2 p) on yksinkertaistus: YTL:n asteikko riippuu tehtävästä ja ylityksen suuruudesta, ks. arvosteluohje.
 
 ### K1: Luettele sisäilman altisteet, 25 min (20 p)
 
@@ -300,8 +300,6 @@ c) Kirjoita, mitä opiskelijoiden yksittäiset kulutus- ja kulkuvalinnat voivat 
 - Vaikutus esitetään varmana kaikille ("radon aiheuttaa syövän"), vaikka riski kasvaa altistuksen mukana.
 - Vastaus ylittää merkkirajan, koska jokaista altistetta selitetään pitkästi.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Aineiston lukeminen, 35 min (20 p)
 
 **Malliksi kelpaava vastaus** (noin 1 500 merkkiä)
@@ -338,8 +336,6 @@ Tehtävänannon osapisteet (a 6 p, b 8 p, c 6 p) sisältävät sekä sisällön 
 - Pitoisuuden eroja selitetään vain maaperällä, vaikka talon tiiveys ja ilmanvaihto vaikuttavat.
 - Vastaus pelottelee eikä kerro, että mittaus ja korjaus ovat mahdollisia.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K3: Viitekehyksen soveltaminen, 55 min (30 p)
 
 **Malliksi kelpaava vastaus**
@@ -373,8 +369,6 @@ Tehtävänannon osapisteet (a 20 p, b 6 p, c 4 p) sisältävät sekä sisällön
 - Ehdotuksen sijoitusta toiminta-alueelle ei perustella. Mikä tahansa perusteltu sijoitus kelpaa.
 - Ehdotukset eivät liity uutisen tilanteeseen.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat nimetä ympäristön altisteita, selittää niiden vaikutusmekanismeja ja ehdottaa toimia viiden toiminta-alueen avulla.
@@ -393,7 +387,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (altiste, mekanismi, vaikutus) tehdään kokonaan kaikissa tuntimalleissa. Kaikki esimerkit ovat kuvitteellisia. Ketään ei pyydetä kertomaan kotiolosuhteistaan tai terveydestään.
+**Tavoitetehtävä:** Tehtävä 2 (altiste, mekanismi, vaikutus) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -431,7 +425,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Piirrä taululle kehämalli ja kolme ympäristöä tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita.
+- Piirrä taululle kehämalli ja kolme ympäristöä tai jaa ne paperilla.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Katso halutessasi Työterveyslaitoksen sisäilmasivu ja THL:n näkemys (ks. Lähteet). Ne on kirjoitettu aikuisille, joten käytä niitä taustana, älä opiskelijoille jaettavana.
 - Selvitä, kenelle koulussa sisäilmasta ilmoitetaan, ja kerro se opiskelijoille (esimerkki).
@@ -468,11 +462,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *terveyden eriarvoisuus = terveyden erot ryhmien välillä*
 - *toiminta-alue = yksi viidestä tavasta edistää terveyttä*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue taulukko rivi kerrallaan ja peitä muut. Merkitse altiste, mekanismi ja vaikutus kolmella värillä. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Lue taulukko rivi kerrallaan ja peitä muut. Merkitse altiste, mekanismi ja vaikutus kolmella värillä.
 
 **Ilman laitetta:** Tehtävät 1 ja 3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 2 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

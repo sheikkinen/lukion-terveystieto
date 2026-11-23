@@ -14,6 +14,10 @@ official_links:
     url: https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html
     publisher: Ylioppilastutkintolautakunta
     read: 2026-11-21
+  - title: Reaaliaineiden kokeiden määräykset ja ohjeet
+    url: https://www.ylioppilastutkinto.fi/fi/tutkinnon-toimeenpano/maaraykset-ja-ohjeet/koekohtaiset-maaraykset-ja-ohjeet/reaaliaineiden
+    publisher: Ylioppilastutkintolautakunta
+    read: 2026-11-23
 ---
 Tällä sivulla näkyvät terveystiedon tavoitteet ja sisällöt sellaisina kuin ne ovat Lukion opetussuunnitelman perusteissa 2019. Sanamuoto haetaan ePerusteet-palvelun rajapinnasta, eikä sitä muuteta. Perusteet on tarkistettu {{curriculum_checked}}, ja tietueen viimeisin julkaisupäivä on {{curriculum_published}}.
 
@@ -23,6 +27,7 @@ Jokaisen tavoitteen ja sisällön vieressä näkyy, mitkä sivuston aiheet sitä
 
 - Terveystiedossa on lukiossa yksi pakollinen moduuli, TE1 *Terveys voimavarana*, ja kaksi valtakunnallista valinnaista moduulia, TE2 ja TE3. Sivustolla on kaikki kolme moduulia.
 - Terveystieto arvioidaan numeroarvosanalla, ja siinä voi osallistua ylioppilaskokeeseen. Sivuston koetehtävät ja niiden pisteytys ovat sivuston omia harjoitusohjeita, eivät ylioppilastutkintolautakunnan.
+- Ylioppilastutkintolautakunta laatii kokeen tehtävät oppiaineen pakollisten ja valtakunnallisten valinnaisten opintojen mukaan ([reaaliaineiden kokeiden määräykset](https://www.ylioppilastutkinto.fi/fi/tutkinnon-toimeenpano/maaraykset-ja-ohjeet/koekohtaiset-maaraykset-ja-ohjeet/reaaliaineiden)). Terveystiedon koe voi siis käsitellä kaikkia kolmea moduulia, ja yhden moduulin koetehtävät harjoittavat vain osaa kokeesta.
 - Arviointi kohdistuu tietoihin ja taitoihin. Opiskelijan omia elintapoja, arvoja tai terveyttä ei arvioida.
 - Opetushallitus on julkaissut opettajille [terveystiedon tukimateriaalin](https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali). Sivusto linkittää sen eikä kopioi sitä.
 - Lukion opiskelijalla on oikeus opiskeluhuoltoon. Tämä sivu on tiivistelmä, ei lakiteksti; tarkka sanamuoto on opetussuunnitelman perusteissa ja [lukiolaissa (714/2018)](https://www.finlex.fi/fi/lainsaadanto/2018/714).

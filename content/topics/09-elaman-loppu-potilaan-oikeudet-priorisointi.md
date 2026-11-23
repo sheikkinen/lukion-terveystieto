@@ -140,7 +140,7 @@ WHO:n mukaan terveyteen vaikuttavat esimerkiksi koulutus, työ- ja asumisolot, j
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi hoitotahto ja eutanasia ovat eri asioita?
 2. Mitä perusteita on sille, että vastuu on yksilön, yhteinen tai molempien?
@@ -156,11 +156,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Elämän loppu, elintapojen vapaus ja vastuu, potilaan oikeudet ja priorisointi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch09-elaman-loppu). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Elämän loppu, elintapojen vapaus ja vastuu, potilaan oikeudet ja priorisointi](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch09-elaman-loppu).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE3 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE2-moduuleista.
 
 ### K1: Käsitteiden määrittely, 25 min (20 p)
 
@@ -238,8 +236,6 @@ c) Punnitse, mitkä näkökohdat ovat keskenään ristiriidassa, ja kuvaa, mitä
 - Esimerkki puuttuu tai se kertoo omasta tilanteesta kuvitteellisen sijaan.
 - Priorisointi määritellään vain säästämiseksi, vaikka kustannus on vain yksi peruste.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Kolme viestiä vapaudesta ja vastuusta, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -270,8 +266,6 @@ Tehtävänannon osapisteet (a 8 p, b 12 p) sisältävät sekä sisällön että 
 - Viesti hylätään tai hyväksytään perustelematta; tehtävä pyytää arvioimaan syyllistämisen riskiä.
 - Vastuun jakoa ei perustella, vaan yksilön tai yhteiseen vastuuseen vain viitataan.
 - Ehdotus on yleinen (*lisää tietoa*) eikä kerro, kuka toimii.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Kuka saa lisäpalvelun?, 55 min (30 p)
 
@@ -308,8 +302,6 @@ Tehtävänannon osapisteet (a 5 p, b 17 p, c 8 p) sisältävät sekä sisällön
 - Käsitteet tarve, hyöty, tasa-arvo ja kustannusvaikuttavuus mainitaan mutta niitä ei yhdistetä taulukkoon.
 - Päätöksentekijän huomioon otettavia asioita ei kuvata, vaan kerrotaan vain, mikä vaihtoehto valittaisiin.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa elämän lopun käsitteet, analysoida vapautta ja vastuuta ja arvioida priorisointia.
@@ -328,7 +320,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (Vapaus ja vastuu) tehdään kokonaan kaikissa tuntimalleissa. Aihe voi olla joillekin henkilökohtainen: kaikki tapaukset ovat kuvitteellisia. Ketään ei pyydetä kertomaan omasta terveydestään, menetyksistään tai kannastaan.
+**Tavoitetehtävä:** Tehtävä 2 (Vapaus ja vastuu) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -362,7 +354,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Varaa nimettömiä lappuja. Tehtävät toimivat ilman tulosteita.
+- Varaa nimettömiä lappuja.
 - Tarkista ennen tuntia eutanasian ja palliatiivisen hoidon lainsäädännön ajantasainen tilanne virallisesta lähteestä. Tämä sivu ei väitä oikeudellisesta asemasta muuta kuin STM:n 2021 tiedotteen. Eduskunnassa mahdollisesti käsiteltävää aloitetta ei kirjoiteta tälle sivulle.
 
 ### Avoimet kysymykset
@@ -391,11 +383,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *eutanasia = toinen henkilö aiheuttaa kuoleman pyynnöstä*; *oletettu suostumus = luovutus on mahdollinen, ellei vainajan tiedetä tai ole syytä olettaa vastustaneen*
 - *priorisointi = tärkeysjärjestys, kun rahaa on vähän*; *syyllistäminen = syyn laittaminen yhden ihmisen niskoille*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee näkemystaulukko väreillä. Lue yksi kappale kerrallaan ja peitä muut. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Tee näkemystaulukko väreillä. Lue yksi kappale kerrallaan ja peitä muut.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

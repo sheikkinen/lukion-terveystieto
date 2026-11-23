@@ -193,7 +193,7 @@ Opetussuunnitelma nimeää valintoja ohjaaviksi tekijöiksi tarpeet, käsitykset
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mitä hyötyä ja mitä haittaa on siitä, että liikkumista ajatellaan laajemmin kuin urheiluna? Kenelle laaja määritelmä voisi olla erityisen tärkeä?
 2. Mikä koulun aikataulussa tai ympäristössä voi tukea palautumista ja mikä kuormittaa?
@@ -209,11 +209,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Liikunta, lepo ja uni](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch05-liikunta-ja-uni). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Liikunta, lepo ja uni](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch05-liikunta-ja-uni).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE1 yksin kattaa vain osan ylioppilaskokeesta; TE2 ja TE3 kattavat loput.
 
 ### K1: Oikein vai väärin -väittämät, 25 min (20 p)
 
@@ -304,8 +302,6 @@ Oikeita ovat väittämät 3, 5, 6, 9 ja 10.
 - Unen tarpeelle annetaan tuntimäärä, vaikka tehtävässä riittää todeta, että tarve vaihtelee.
 - Väittämän 8 kohdalla vastataan vain yksilön motivaatiosta ja unohdetaan olosuhteet.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Hypnogrammin lukeminen, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -337,8 +333,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Vastaus ei viittaa taulukon jaksoihin.
 - Vilkeuni ja syvä uni sekoitetaan.
 - Yhdestä kuvitteellisesta yöstä tehdään yleissääntö tai siihen lisätään tuntimääriä.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Aineiston analyysi, 50 min (30 p)
 
@@ -379,8 +373,6 @@ Tehtävänannon osapisteet (a 12 p, b 8 p, c 10 p) sisältävät sekä sisällö
 - Mekanismi pysähtyy puoliväliin ("nuoret ovat väsyneitä") eikä etene terveyteen asti.
 - Vastaukseen lisätään tuntimääriä tai minuutteja, vaikka aineistossa ei ole niitä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää, mikä ohjaa liikkumista ja nukkumista, ja tehdä perustellun ehdotuksen terveyden edistämiseksi.
@@ -399,7 +391,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (Noorin arjen kartoitus) tehdään kokonaan kaikissa tuntimalleissa. Ryhmätyö tehdään kuvitteellisilla tapauksilla. Kukaan ei kerro omasta liikkumisestaan tai nukkumisestaan.
+**Tavoitetehtävä:** Tehtävä 1 (Noorin arjen kartoitus) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -437,7 +429,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Piirrä tai tulosta Noorin taulukon pohja taululle. Opiskelijat pärjäävät tyhjällä paperilla.
+- Piirrä tai tulosta Noorin taulukon pohja taululle.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Selvitä koulun liikuntatilat ja kerhot (esimerkki).
 - Avaa UKK-instituutin suositus etukäteen, jos haluat näyttää, miten se on jäsennelty. Älä kirjoita lukuja taululle.
@@ -472,11 +464,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *vuorokausirytmi = elimistön sisäinen kello, joka ohjaa vireyttä ja väsymystä*
 - *olosuhde = asia ympärillä, joka vaikuttaa valintoihin*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee taulukko sanoin tai kuvin. Lue tapaus kahdessa osassa. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Tee taulukko sanoin tai kuvin. Lue tapaus kahdessa osassa.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

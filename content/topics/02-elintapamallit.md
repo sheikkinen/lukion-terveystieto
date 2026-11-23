@@ -184,7 +184,7 @@ Mallit auttavat suunnittelemaan viestintää ja tukea, koska ne näyttävät, mi
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi sama terveysviesti voi toimia yhdessä ryhmässä mutta ei toisessa?
 2. Mitä hyötyä ja mitä rajoja on sillä, että malli selittää toimintaa ajatuksilla ja kokemuksilla?
@@ -200,11 +200,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Miksi toimimme niin kuin toimimme?](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch02-elintapamallit). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Miksi toimimme niin kuin toimimme?](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch02-elintapamallit).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE1 yksin kattaa vain osan ylioppilaskokeesta: loput tulevat TE2- ja TE3-moduuleista.
 
 ### K1: Oikein vai väärin -väittämät, 25 min (20 p)
 
@@ -295,8 +293,6 @@ c) Arvioi, mitä mallit eivät aineiston tilanteessa selitä, ja tee kaksi perus
 - Muutosvaiheiden ajatellaan etenevän vain eteenpäin.
 - Perustelu toistaa väittämän eikä selitä sitä.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Piirrä malli ja kuvio, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -335,8 +331,6 @@ esiharkinta → harkinta → valmistautuminen → toiminta → ylläpito
 - Kaikille ryhmille ehdotetaan samaa tukea.
 - Kuviosta päätellään syitä, joita aineisto ei kerro.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K3: Teorian soveltaminen, 50 min (30 p)
 
 **Malliksi kelpaava vastaus**
@@ -374,8 +368,6 @@ Tehtävänannon osapisteet (a 9 p, b 9 p, c 12 p) sisältävät sekä sisällön
 - Muutosvaiheita ei huomioida, vaan kaikille ehdotetaan samaa viestiä.
 - Kampanjaa ehdotetaan kaikkeen, eikä kunnan tai yhteiskunnan roolia mainita.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat nimetä neljä mallia ja soveltaa suunnitellun käyttäytymisen teoriaa kuvitteelliseen tapaukseen.
@@ -394,7 +386,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (suunnitellun käyttäytymisen kartta) tehdään kokonaan kaikissa tuntimalleissa. Ryhmätyö tehdään kuvitteellisilla tapauksilla. Kukaan ei kerro omista elintavoistaan.
+**Tavoitetehtävä:** Tehtävä 1 (suunnitellun käyttäytymisen kartta) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -432,7 +424,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Piirrä taululle tyhjä kartta: asenne, normi, kontrolli, aikomus, toiminta. Opiskelijat pärjäävät tyhjällä paperilla.
+- Piirrä taululle tyhjä kartta: asenne, normi, kontrolli, aikomus, toiminta.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Tee neljä mallikorttia (yksi malli per kortti) esittelyä varten, jos haluat.
 - Tutustu halutessasi Opetushallituksen tukimateriaaliin (ks. Lähteet).
@@ -467,11 +459,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *minäpystyvyys = usko siihen, että onnistuu tässä asiassa*
 - *muutosvaihe = kohta, jossa ihminen on muutosprosessissa*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee kartta kuvina tai yksittäisinä sanoina. Lue tapaus kahdessa osassa. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Tee kartta kuvina tai yksittäisinä sanoina. Lue tapaus kahdessa osassa.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

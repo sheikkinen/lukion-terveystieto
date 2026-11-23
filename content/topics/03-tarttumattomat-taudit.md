@@ -153,7 +153,7 @@ Ehkäisyssä on yksilön ja yhteiskunnan keinoja (lait, palvelut, ympäristö, h
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Pohdi, miten yksilön valinnat ja ihmisen olot yhdessä vaikuttavat siihen, miten vastuuta sairastumisesta voidaan arvioida. Mikä tahansa perusteltu näkemys käy.
 2. Milloin seulonta voi olla hyödyllistä ja milloin siitä voi olla haittaa?
@@ -171,11 +171,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Tarttumattomat kansantaudit](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch03-tarttumattomat-taudit). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Tarttumattomat kansantaudit](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch03-tarttumattomat-taudit).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE3 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE2-moduuleista.
 
 ### K1: Virheiden tunnistaminen, 25 min (20 p)
 
@@ -279,8 +277,6 @@ c) Arvioi, mitä ennuste ei kerro, ja perustele, miksi ehkäisyn kustannusta kan
 - Korjaus tehdään vain kieltämällä väite eikä kerrota, mikä on oikein.
 - Kohdassa 3 kirjoitetaan *myös tupakoimattomat sairastuvat aina* (oikein: muitakin riskitekijöitä on) ja kohdassa 4 *riskitekijä aiheuttaa aina sairauden* (oikein: riskitekijä lisää todennäköisyyttä, ja ilman riskitekijöitäkin voi sairastua).
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Tautien riskitekijät ja ehkäisy, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -319,8 +315,6 @@ Tehtävänannon osapisteet (a 16 p, b 4 p) sisältävät sekä sisällön että 
 - Riskitekijänä kirjoitetaan tauti tai oire eikä tekijää, joka lisää riskiä.
 - b-kohdassa todetaan vain, että riskit ovat todennäköisyyksiä, mutta ei yhdistetä todennäköisyyttä vastuun arviointiin.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K3: Kolme aluetta ja ikärakenne, 55 min (30 p)
 
 **Malliksi kelpaava vastaus**
@@ -354,8 +348,6 @@ Tehtävänannon osapisteet (a 9 p, b 11 p, c 10 p) sisältävät sekä sisällö
 - Alueen B ero C:hen selitetään iällä, vaikka ikävakioitu luku on jo poistanut ikärakenteen.
 - Esiintyvyys ja ilmaantuvuus sekoitetaan: alueen B suurta esiintyvyyttä selitetään uusilla tapauksilla.
 - c-kohdassa todetaan, että aineisto on liian pieni, mutta ei kerrota, miksi se rajoittaa päätelmiä, tai ehdotus on yleinen (*parannetaan terveyttä*) eikä kerro, kuka toimii.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K4: Syöpäkustannukset ja ehkäisy, 35 min (20 p)
 
@@ -391,8 +383,6 @@ Tehtävänannon osapisteet (a 6 p, b 8 p, c 6 p) sisältävät sekä sisällön 
 - Ehkäisyn väitetään aina pienentävän kustannuksia, vaikka ehkäisy ja seulonta maksavat itsekin.
 - Kustannuksen kasvun syyksi kirjoitetaan vain ikääntyminen, tai vastauksessa ei viitata taulukkoon tai aineistoon 2.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat erottaa ilmaantuvuuden ja esiintyvyyden, kuvata tarttumattomien tautien riskitekijöitä, punnita vastuun arviointia ja ehdottaa ehkäisyn keinoja.
@@ -411,7 +401,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (riskitekijöiden kartta) tehdään kokonaan kaikissa tuntimalleissa. Kaikki tapaukset ovat kuvitteellisia. Ketään ei pyydetä kertomaan omasta tai läheistensä sairaudesta.
+**Tavoitetehtävä:** Tehtävä 2 (riskitekijöiden kartta) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -445,7 +435,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Piirrä neljä kehää taululle tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita.
+- Piirrä neljä kehää taululle tai jaa ne paperilla.
 - Lue halutessasi WHO:n tietosivu ja Terveyskirjaston artikkelit (ks. Lähteet). Ne ovat link-out-aineistoa: linkitä, älä kopioi. Luvut avataan tunnilla linkeistä, ei kirjoiteta.
 - Jäljellä oleva aukko: sydäntautien ja diabeteksen tarkempi erittely puuttuu. Karsinogeenien luokat linkitetään TE2:n aiheeseen 10 (Opiskelijalle), ja kysely- ja rekisteritieto TE2:n aiheeseen *Tutkimustieto* (Eriyttäminen, Syvempi polku, nimeää aiheen sanoin). Nivelreuma on yksi lähteellinen kohta; muita reumasairauksia ei käsitellä. Syövän kustannukset opitaan K4:n aineistosta ja Syöpäsäätiön tiedotteesta, ja lukuja ei kirjoiteta sivulle. Muistisairaudet, metabolinen oireyhtymä, osteoporoosi, nivelreuma ja toimintakyvyn mittaaminen ovat sivuston lisäys, ja ne on lähteistetty lyhyinä kohtina.
 
@@ -473,11 +463,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *ikävakioitu = luku, josta ikärakenteen vaikutus on poistettu*; *riskitekijä = asia, joka lisää sairastumisen todennäköisyyttä*
 - *seulonta = tutkimus, joka tehdään ihmisille, joilla ei ole oireita*; *toimintakyky = kyky selvitä arjesta*; *osteoporoosi = luukato, jossa luu murtuu helposti*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue K3:n taulukko sarake kerrallaan ja peitä muut. Alleviivaa lukuja eri väreillä. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Lue K3:n taulukko sarake kerrallaan ja peitä muut. Alleviivaa lukuja eri väreillä.
 
 **Ilman laitetta:** Tehtävät 2 ja 3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 1 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

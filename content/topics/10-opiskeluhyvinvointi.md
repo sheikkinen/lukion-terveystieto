@@ -158,7 +158,7 @@ Opiskeluhuolto tukee opiskelijan hyvinvointia ja oppimista. Siihen kuuluvat kura
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mitä hyötyä ja mitä haittaa voi olla siitä, että opiskeluhyvinvointi nähdään yhteisön asiana eikä vain yksilön?
 2. Mikä tekee oppimistavoitteesta realistisen? Mitä tapahtuu, jos tavoitteet ovat liian helppoja tai liian vaikeita?
@@ -174,11 +174,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Opiskeluhyvinvointi ja oma oppiminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch10-opiskeluhyvinvointi). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Opiskeluhyvinvointi ja oma oppiminen](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch10-opiskeluhyvinvointi).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE1 yksin kattaa vain osan ylioppilaskokeesta: loput tulevat moduuleista TE2 ja TE3.
 
 ### K1: Virheiden tunnistaminen, 25 min (20 p)
 
@@ -250,8 +248,6 @@ Lauseet 2, 4 ja 6 ovat oikein.
 - Palautumista käsitellään vain lepona, eikä yhteyttä kuormitukseen ja jaksamiseen selitetä.
 - Opiskeluhuoltoa kuvataan yleisesti ("sieltä saa apua") eikä kerrota, kuka siellä auttaa ja milloin.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Luettele ja luokittele, 30 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -287,8 +283,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Luokka valitaan perustelematta ("koulu voi tehdä jotain").
 - Kaikki sijoitetaan luokkaan A eikä perustella, miksi ympäristö ja yhteiskunta eivät vaikuttaisi.
 - Arviosta puuttuu selitys siitä, miksi yksi luokka painaa eniten.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Aineiston analyysi, 45 min (30 p)
 
@@ -329,8 +323,6 @@ Tehtävänannon osapisteet (a 12 p, b 6 p, c 12 p) sisältävät sekä sisällö
 - Ehdotukset ovat vain yksilön keinoja, vaikka kysytään koulun toimia.
 - Vastaus ei tunnista, miksi Noor ei halua hakea apua, eikä pohdi kynnyksen madaltamista.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää, mistä opiskeluhyvinvointi koostuu, ja valita oppimisen tavan ja tavoitteen tilanteeseen.
@@ -349,7 +341,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 2 (oppimisen suunnittelu kuvitteelliselle opiskelijalle) tehdään kokonaan kaikissa tuntimalleissa. Ryhmätyö tehdään kuvitteellisilla tapauksilla. Kukaan ei kerro omasta terveydestään tai jaksamisestaan, ellei itse halua.
+**Tavoitetehtävä:** Tehtävä 2 (oppimisen suunnittelu kuvitteelliselle opiskelijalle) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -387,7 +379,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Piirrä vaakakuppi tai kaksi saraketta (vaatimukset ja voimavarat) taululle. Opiskelijat pärjäävät tyhjällä paperilla.
+- Piirrä vaakakuppi tai kaksi saraketta (vaatimukset ja voimavarat) taululle.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Selvitä koulun oppimisen tuen käytännöt.
 - Tutustu halutessasi OPH:n uutiseen digitaalisesta terveyskyselystä ja kerro, miten kysely toteutetaan koulussasi.
@@ -426,11 +418,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *oppimisen tapa = tapa, jolla opiskelee*
 - *opiskeluhuolto = koulun palvelut, joista saa tukea hyvinvointiin ja oppimiseen*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee kartta kuvina tai yksittäisinä sanoina. Lue tapaus kahdessa osassa. Koetehtävät voi tehdä osissa ilman aikarajaa.
+**Lukeminen, keskittyminen ja jännitys:** Tee kartta kuvina tai yksittäisinä sanoina. Lue tapaus kahdessa osassa.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

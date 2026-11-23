@@ -138,7 +138,7 @@ Alkoholi kulkee istukan läpi sikiölle ja haittaa sen kasvua ja keskushermoston
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Miksi riippuvuudesta puhutaan helposti luonteenvikana ja mitä haittaa leimaavilla sanoilla voi olla?
 2. Mitkä suojaavista tekijöistä kuuluvat koululle, harrastukselle tai kaveriporukalle? Miten yhteisö voi tukea jäseniään?
@@ -154,11 +154,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen. Tätä itsearviointia ei pisteytetä eikä se mittaa omaa elämääsi.
 
-**Pelaa aiheesta visual novel:** [Mielihyvä ja riippuvuuden mekanismit](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch09-riippuvuuden-mekanismit). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Mielihyvä ja riippuvuuden mekanismit](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch09-riippuvuuden-mekanismit).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia eikä niissä ole lukuja. TE2 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE3-moduuleista.
 
 ### K1: Käsitteiden nimeäminen, 25 min (20 p)
 
@@ -240,8 +238,6 @@ c) Kirjoita kampanjan tekijälle viesti, joka korjaa yhden väitteen syyllistäm
 - Kontrollin menetys selitetään pelkästään tahdonvoiman puutteena.
 - Perustelu toistaa tapauksen sanoja eikä kerro, mikä tekee siitä juuri tämän käsitteen.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Piirrä malli, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -291,8 +287,6 @@ Tehtävänannon osapisteet (a 6 p, b 8 p, c 6 p) sisältävät sekä sisällön 
 - Kaavio esitetään sääntönä, jonka mukaan jokainen edistyy samalla tavalla.
 - Riippuvuus kuvataan vain valintana tai heikkoutena.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K3: Aineiston analyysi, 55 min (30 p)
 
 **Malliksi kelpaava vastaus**
@@ -331,8 +325,6 @@ Tehtävänannon osapisteet (a 11 p, b 8 p, c 11 p) sisältävät sekä sisällö
 - Ehkäisykeinot ovat vain yksilön tasolla, eikä yhteisöä tai yhteiskuntaa mainita.
 - Käytetään aineiston ulkopuolisia lukuja tai esimerkkejä aineista, vaikka tehtävä koskee mekanismeja.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K4: Oikein vai väärin, 30 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -367,8 +359,6 @@ Tehtävänannon osapisteet (a 10 p, b 6 p, c 4 p) sisältävät sekä sisällön
 - FASD kuvataan ohimeneväksi tai sen syy pannaan raskaana olevan syyksi, tai väite 1 hylätään ilman kehityksen selitystä.
 - Viestissä moralisoidaan tai pelotellaan.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat selittää riippuvuuden kolme mekanismia, nimetä tunnusmerkit ja kertoa, miksi riippuvuus luokitellaan terveydentilaksi.
@@ -387,7 +377,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (Ellan mekanismikartta) tehdään kokonaan kaikissa tuntimalleissa. Kaikki tapaukset ovat kuvitteellisia, eikä aineita tai toimintoja nimetä. Ketään ei pyydetä kertomaan omasta tai läheisten käytöstä, pelaamisesta tai kokemuksista.
+**Tavoitetehtävä:** Tehtävä 1 (Ellan mekanismikartta) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -425,7 +415,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Piirrä kolme laatikkoa taululle tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita. Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
+- Piirrä kolme laatikkoa taululle tai jaa ne paperilla. Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Lue EHYTin ja THL:n sivut ehkäisevästä päihdetyöstä ennen tuntia (ks. Lähteet).
 - Älä käytä pelaamisen tai käytön testejä, kokemuspuheenvuoroja tai vierailijoita, jotka kertovat pahimman tapauksensa.
 
@@ -461,11 +451,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *repsahdus = paluu entiseen lopettamisen jälkeen*
 - *suojaava tekijä = asia, joka auttaa ehkäisemään ongelmia; kuormittava tekijä = asia, joka lisää ongelmien riskiä*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue tapaus kahdessa osassa ja merkitse mekanismit eri värein tai merkein. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Lue tapaus kahdessa osassa ja merkitse mekanismit eri värein tai merkein.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 

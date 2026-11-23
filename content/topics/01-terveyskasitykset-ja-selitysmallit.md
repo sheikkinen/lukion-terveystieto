@@ -138,7 +138,7 @@ Terveyskirjaston mukaan sairaudet syntyvät usein monen tekijän yhteisvaikutuks
 
 ## Pohdinta
 
-Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
+Kirjoita vastaukset omaan muistioosi.
 
 1. Mikä nykyinen käsitys terveydestä voisi näyttää sadan vuoden päästä yhtä oudolta kuin suoneniskentä nyt? Miksi?
 2. Miksi uusi, parempi selitys voi kohdata vastustusta yhteisössä tai ammattikunnassa?
@@ -153,11 +153,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
-**Pelaa aiheesta visual novel:** [Terveyskäsitykset ja sairauksien selitysmallit historiassa](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch01-terveyskasitykset). Tarina perustuu tämän aiheen sisältöön, ja sen voi pelata selaimessa myös puhelimella.
+**Pelaa aiheesta visual novel:** [Terveyskäsitykset ja sairauksien selitysmallit historiassa](https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch01-terveyskasitykset).
 
 ## Koetehtävät
-
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE3 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE2-moduuleista.
 
 ### K1: Selitysmallien järjestäminen taulukkoon, 25 min (20 p)
 
@@ -242,8 +240,6 @@ Huomio: yliluonnollisia selityksiä käytettiin kansanlääkinnässä vielä hum
 - Miasmateoria ja mikrobiteoria menevät sekaisin, koska molemmissa puhutaan likaisuudesta.
 - Monisyinen malli kuvataan pelkkinä elintapoina, jolloin perimä ja yhteiskunnan tekijät puuttuvat.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ### K2: Terveyskäsitysten vertailu, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
@@ -274,8 +270,6 @@ Tehtävänannon osapisteet (a 8 p, b 12 p) sisältävät sekä sisällön että 
 - Salutogeeninen näkökulma sekoitetaan biopsykososiaaliseen, koska molemmat ovat laajoja; erottava piirre on sivuston tulkinnan mukaan se, että salutogeneesi kysyy terveyden lähteitä eikä sairauden syitä.
 - Biolääketieteellinen näkökulma esitetään vääränä, vaikka se on monessa tilanteessa välttämätön.
 - Merkkirajoitus ylittyy, koska a-kohdassa kerrataan ehdotukset kokonaan.
-
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### K3: Kaupungin taudit ja muuttuva selitys, 55 min (30 p)
 
@@ -320,8 +314,6 @@ Tehtävänannon osapisteet (a 7 p, b 11 p, c 12 p) sisältävät sekä sisällö
 - c-kohdassa kampanja tyrmätään tai hyväksytään ilman punnintaa; elintavat ovat osa monisyistä mallia, puute on vain niiden yksinoikeus.
 - Parannusehdotus on yleinen ("lisää tietoa") eikä kerro, kuka toimii ja miksi se vaikuttaa.
 
-Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
-
 ## Itseopiskelun askel
 
 **Tavoite:** Osaat esitellä sairauksien selitysmallit aikajärjestyksessä ja kertoa, miten terveyskäsitys ja selitysmalli ohjaavat toimintaa.
@@ -340,7 +332,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (selitysmallien aikajana) tehdään kokonaan kaikissa tuntimalleissa. Kaikki tapaukset ovat historiallisia tai kuvitteellisia. Ketään ei pyydetä kertomaan omasta terveydestään tai perheensä uskomuksista.
+**Tavoitetehtävä:** Tehtävä 1 (selitysmallien aikajana) tehdään kokonaan kaikissa tuntimalleissa.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
@@ -374,7 +366,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita selitysmallien taulukko taululle tai jaa se paperilla. Tehtävät toimivat ilman tulosteita. Varaa nimettömiä lappuja.
+- Kirjoita selitysmallien taulukko taululle tai jaa se paperilla. Varaa nimettömiä lappuja.
 - Lue halutessasi Terveyskirjaston artikkeli *Mitä terveys on?* ja OPH:n terveystiedon tukimateriaali (ks. Lähteet). Ne ovat link-out-aineistoa: linkitä, älä kopioi. Wikipedian artikkelit ovat CC BY-SA -aineistoa, joten nekin vain linkitetään.
 
 ### Avoimet kysymykset
@@ -406,11 +398,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *riskitekijä = asia, joka lisää sairastumisen todennäköisyyttä*
 - *salutogeeninen = terveyslähtöinen: kysyy, mikä pitää terveenä*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee aikajana kuvina tai symboleina. Lue selitysmallien taulukko rivi kerrallaan ja peitä muut. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Tee aikajana kuvina tai symboleina. Lue selitysmallien taulukko rivi kerrallaan ja peitä muut.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
-
-**Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
 
 ## Lähteet
 
