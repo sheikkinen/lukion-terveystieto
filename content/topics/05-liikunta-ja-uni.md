@@ -22,9 +22,6 @@ official_links:
   - {title: "Nuorten hyvinvointi (THL)", url: "https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
-  - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
-  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin-kollektiivi", read: 2026-11-21}
-  - {title: "MIELI Kriisipuhelin", url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
   - {title: "Ajankäyttö (opinto-ohjaus, aihe 03)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/03-ajankaytto/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
   - {title: "Uni on korvaamatonta, varsinkin aivojen palautumiselle", url: "https://www.ttl.fi/tyopiste/uni-on-korvaamatonta-varsinkin-aivojen-palautumiselle", publisher: "Työterveyslaitos", read: 2026-11-21}
   - {title: "Unettomuus (unen vaiheet ja univaihesyklit)", url: "https://www.terveyskirjasto.fi/dlk00534", publisher: "Terveyskirjasto (Duodecim)", read: 2026-11-21}
@@ -33,7 +30,9 @@ official_links:
   - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
   - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", read: 2026-11-21}
   - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", read: 2026-11-21}
-yearly_facts: [liikkumissuositus, unisuositus, opiskeluterveydenhuolto, kriisipuhelimet]
+  - {title: "Liikkumisen määrittelyä", url: "https://ukkinstituutti.fi/liikkuminen/liikkumisen-maarittelya/", publisher: "UKK-instituutti", read: 2026-11-22}
+  - {title: "Ylioppilastutkinnon hyvän vastauksen piirteet, terveystieto (syksy 2024)", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
+yearly_facts: [liikkumissuositus, unisuositus]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - title: "Terveystiedon LOPS 2019 -tukimateriaali"
@@ -99,7 +98,6 @@ sibling_links:
     read: 2026-11-21
 school_adapts:
   - "Koulun liikuntatilat, välituntitoiminta ja kerhot (esimerkki)"
-  - "Opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot ja ajanvaraus (esimerkki)"
 accessibility:
   - "Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä."
   - "Tehtävissä analysoidaan kuvitteellisia henkilöitä; omasta liikkumisesta tai nukkumisesta ei tarvitse kertoa kenellekään."
@@ -123,11 +121,11 @@ Ne eivät ole suorituksia vaan voimavaroja: ne auttavat jaksamaan, oppimaan ja v
 
 ### Liikkuminen
 
-Liikkuminen on kaikkea, missä keho on liikkeessä: urheilua, koulumatkoja, rappusia, tanssia. Liikkua voi kävellen, pyörällä, pyörätuolilla tai apuvälineillä. Se vahvistaa lihaksia, luustoa ja sydäntä. Aivoissa liikunta lisää verenkiertoa ja tukee uusien hermoyhteyksien muodostumista, ja se voi parantaa keskittymistä, muistia ja mielialaa. Kohtuullinen liikunta vahvistaa elimistön puolustusta, mutta hyvin rankka liikunta voi heikentää sitä hetkeksi. Liikunta voi myös helpottaa nukahtamista. Pitkä istuminen kuormittaa, joten tauot liikkeellä auttavat. Hyöty ei riipu kehon koosta eikä suorituksesta. Nuorten suosituksen luvut luetaan [UKK-instituutin sivulta](https://ukkinstituutti.fi/liikkuminen/liikkumisen-suositukset/lasten-ja-nuorten-liikkumissuositus/).
+Liikkuminen eli fyysinen aktiivisuus on UKK-instituutin mukaan kaikkea lihasvoimalla tuotettua liikettä ([UKK-instituutti](https://ukkinstituutti.fi/liikkuminen/liikkumisen-maarittelya/)). Sivuston esimerkkejä ovat urheilu, koulumatkat, rappuset ja tanssi. Instituutin mukaan jo lyhyet arjen liikkumishetket voivat parantaa terveyttä. Liikkua voi kävellen, pyörällä, pyörätuolilla tai apuvälineillä. Terveyskirjaston mukaan liikunta vahvistaa lihaksia ja luustoa ja vähentää sydän- ja aivoinfarktien riskiä. Kohtuullinen liikunta tehostaa elimistön puolustusta, mutta hyvin rankka liikunta voi heikentää vastustuskykyä hetkeksi. Runsas yhtäjaksoinen istuminen lisää terveysriskejä, ja lyhyet tauot liikkeellä tukevat vireyttä ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00934)). UKK-instituutin mukaan liikunta tehostaa aivojen verenkiertoa ja vahvistaa aivoalueiden välisiä yhteyksiä, ja se voi parantaa keskittymistä, muistia ja mielialaa sekä helpottaa nukahtamista ([UKK-instituutti](https://ukkinstituutti.fi/elintapaohjaus/liikkuminen-ja-hyvinvointi/liikunta-ja-mielen-hyvinvointi/)). Nuorten suosituksen luvut luetaan [UKK-instituutin sivulta](https://ukkinstituutti.fi/liikkuminen/liikkumisen-suositukset/lasten-ja-nuorten-liikkumissuositus/).
 
 ### Lepo ja palautuminen
 
-**Palautuminen** tarkoittaa kehon ja mielen toipumista kuormituksesta. Se voi olla oleilua, musiikkia, ystäviä tai ulkoilua, ja se vaihtelee ihmisittäin. Kuormitus ja palautuminen tarvitsevat tasapainon.
+**Palautuminen** tarkoittaa kehon ja mielen toipumista kuormituksesta. Se voi olla oleilua, musiikkia, ystäviä tai ulkoilua, ja se vaihtelee ihmisittäin. Kuormitus ja palautuminen tarvitsevat tasapainon. Sivuston oma jäsennys: **lepo** on aikaa, jolloin kuormitus vähenee ja palautuminen on mahdollista, ja uni on yöllä tapahtuvaa lepoa.
 
 ### Uni ja unen vaiheet
 
@@ -139,20 +137,16 @@ Yö koostuu toistuvista jaksoista, joissa perusuni (NREM) ja vilkeuni (REM) vuor
 |---|---|---|
 | N1 torke | nukahtaminen | siirtymä uneen |
 | N2 kevyt uni | hengitys ja verenkierto rauhoittuvat | uni syvenee |
-| N3 syvä uni | aivotoiminta hidasta | aivojen energiavarastot täyttyvät, aivot puhdistuvat, keho lepää, vastustuskyky vahvistuu |
+| N3 syvä uni | aivotoiminta hidasta | aivojen energiavarastot täyttyvät varsinkin syvän unen aikana |
 | REM vilkeuni | aivotoiminta vilkasta, silmät liikkuvat, lihakset veltot | unien näkeminen |
 
-Syvä uni painottuu alkuyöhön ja vilkeuni loppuyöhön. Stressi vaikeuttaa syvään uneen pääsyä. Unen vähyys nostaa tulehdusmerkkejä hieman ja vähentää rokotuksen jälkeisiä vasta-aineita, joten vastustuskyky voi heiketä.
+Syvä uni painottuu alkuyöhön ja vilkeuni loppuyöhön. Stressi vaikeuttaa syvään uneen pääsyä. Työterveyslaitoksen artikkelin mukaan unen aikana aivot myös puhdistuvat kuona-aineista ([TTL](https://www.ttl.fi/tyopiste/uni-on-korvaamatonta-varsinkin-aivojen-palautumiselle)). Saman artikkelin mukaan vastustuskyky vahvistuu unen aikana, ja tutkimuksissa unen vähyys on liittynyt lievään tulehdustilaan ja heikompaan rokotevasteeseen.
 
 Alkoholi ja nikotiini ovat elintapatekijöitä, jotka vaikuttavat terveyteen. Niitä käsitellään tarkemmin [TE2-moduulissa](../../opetussuunnitelma/).
 
 ### Mikä ohjaa liikkumista ja nukkumista?
 
-Liikkumiseen ja nukkumiseen vaikuttavat tarpeet, käsitykset, asenteet, arvot ja olosuhteet. Käsitys "liikunta on vain urheilua" voi saada ajattelemaan, ettei liiku, vaikka arjessa on paljon liikettä. Ystävyyden arvostaminen voi siirtää nukkumaanmenoa. Valinnat tehdään oloissa: bussiaikataulut, liikuntapaikat, harrastusten hinta, kodin äänet ja koulun aikataulu ovat yhteisön ja yhteiskunnan tason taustatekijöitä. Siksi terveyden edistämisen keinot koskevat usein koko yhteisöä, ja kasautuvat tekijät voivat kasvattaa terveyseroja.
-
-### Jos jokin huolettaa
-
-Jos uni ei pitkään onnistu tai liikkuminen tuottaa kipua, ota yhteyttä opiskeluterveydenhuoltoon. Lisää on sivulla *Apua ja tukea*.
+Opetussuunnitelma nimeää valintoja ohjaaviksi tekijöiksi tarpeet, käsitykset, kokemukset, asenteet ja arvot (TE.yt3). Sivuston lisäys on viides tekijä, olosuhteet. Käsitys "liikunta on vain urheilua" voi saada ajattelemaan, ettei liiku, vaikka arjessa on paljon liikettä. Ystävyyden arvostaminen voi siirtää nukkumaanmenoa. Valinnat tehdään oloissa: bussiaikataulut, liikuntapaikat, harrastusten hinta, kodin äänet ja koulun aikataulu ovat yhteisön ja yhteiskunnan tason taustatekijöitä. Sivuston oma päätelmä: siksi terveyden edistämisen keinot koskevat usein koko yhteisöä, ja kasautuvat tekijät voivat kasvattaa terveyseroja.
 
 ## Tehtävät
 
@@ -201,7 +195,7 @@ Jos uni ei pitkään onnistu tai liikkuminen tuottaa kipua, ota yhteyttä opiske
 
 Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
 
-1. Miksi on hyödyllistä ajatella liikkumista laajemmin kuin urheiluna? Kenelle laaja määritelmä on erityisen tärkeä?
+1. Mitä hyötyä ja mitä haittaa on siitä, että liikkumista ajatellaan laajemmin kuin urheiluna? Kenelle laaja määritelmä voisi olla erityisen tärkeä?
 2. Mikä koulun aikataulussa tai ympäristössä voi tukea palautumista ja mikä kuormittaa?
 3. Kuka vastaa siitä, että nuorilla on mahdollisuus liikkua ja levätä: nuori itse, perhe, koulu vai yhteiskunta? Perustele kahdella syyllä.
 
@@ -280,11 +274,11 @@ c) Arvioi, kenelle ehdotukset ovat hyödyllisiä ja kenelle ne voivat olla haita
 
 1. **Väärin.** Liikkuminen vaikuttaa kehon lisäksi mieleen: se voi kohentaa mielialaa ja keskittymistä.
 2. **Väärin.** Lepoon kuuluu myös valveilla tapahtuva palautuminen, kuten rauhallinen oleilu ja mieluisa tekeminen.
-3. **Oikein.** Unen aikana aivot palautuvat: esimerkiksi syvässä unessa aivojen energiavarastot täyttyvät ja aivot puhdistuvat.
+3. **Oikein.** Unen aikana aivot palautuvat: Työterveyslaitoksen mukaan esimerkiksi syvässä unessa aivojen energiavarastot täyttyvät ja unen aikana aivot puhdistuvat kuona-aineista.
 4. **Väärin.** Unen tarve vaihtelee yksilöllisesti.
 5. **Oikein.** Vuorokausirytmi on elimistön sisäinen kello, joka ohjaa vireyttä ja väsymystä.
 6. **Oikein.** Arkiliikunta, kuten koulumatkat, on liikkumista.
-7. **Väärin.** Terveydelle on hyötyä myös arkiliikunnasta ja monenlaisesta liikkeestä, ei vain urheilusta.
+7. **Väärin.** Terveydelle on hyötyä myös arkiliikunnasta ja monenlaisesta liikkeestä, ei vain urheilusta: UKK-instituutin mukaan jo lyhyet arjen liikkumishetket voivat parantaa terveyttä.
 8. **Väärin.** Liikkumiseen vaikuttavat myös olosuhteet: kulkuyhteydet, tilat, kustannukset ja yhteisön tuki.
 9. **Oikein.** Pitkän istumisen tauottaminen liikkeellä on hyödyllistä.
 10. **Oikein.** Syvä uni painottuu yön alkuun, ja vilkeunijaksot pitenevät yön edetessä.
@@ -297,6 +291,7 @@ Oikeita ovat väittämät 3, 5, 6, 9 ja 10.
 
 - Jokaisesta väittämästä 2 p: oikea merkintä 1 p ja asiallinen perustelu 1 p. Yhteensä 10 × 2 p = 20 p.
 - Perustelu ilman oikeaa merkintää tai väärä merkintä ilman perustelua ei tuota pisteitä. Miinuspisteitä ei anneta.
+- Kohta 2 noudattaa sivuston omaa jäsennystä levosta ja palautumisesta (ks. Opiskelijalle).
 
 *Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (liikkuminen, lepo, palautuminen, uni, vuorokausirytmi), soveltaminen (esimerkit arjesta), analysointi (miksi väite on liian suppea), arviointi, argumentointi (perustelu yhdellä selkeällä lauseella).
 
@@ -317,7 +312,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **a)** Taulukon 1 mukaan syvää unta on jaksoissa 1 ja 2 paljon, jaksossa 3 vähän ja jaksossa 5 ei lainkaan. Vilkeuni on jaksossa 1 hyvin lyhyt mutta pitenee jaksoihin 4 ja 5. Jaksossa 3 on lyhyt heräily.
 
-**b)** Syvässä unessa aivotoiminta on hidasta, aivojen energiavarastot täyttyvät, aivot puhdistuvat jätteistä ja keho lepää. Vastustuskyky vahvistuu. Vilkeunessa aivotoiminta on vilkasta, silmät liikkuvat ja lihakset ovat veltot. Kun uni jää vähäiseksi tai katkeilee, syvää unta ja vilkeunta kertyy vähemmän. Silloin keskittyminen, mieliala ja oppiminen voivat heikentyä, ja unen vähyys heikentää myös vastustuskykyä, koska tulehdusmerkit nousevat ja vasta-aineita muodostuu vähemmän.
+**b)** Syvässä unessa aivotoiminta on hidasta ja aivojen energiavarastot täyttyvät. Työterveyslaitoksen artikkelin mukaan unen aikana aivot myös puhdistuvat kuona-aineista. Vilkeunessa aivotoiminta on vilkasta, silmät liikkuvat ja lihakset ovat veltot. Kun uni jää vähäiseksi tai katkeilee, syvää unta ja vilkeunta kertyy vähemmän. Silloin keskittyminen, mieliala ja oppiminen voivat heikentyä. Työterveyslaitoksen artikkelin mukaan tutkimuksissa unen vähyys on myös liittynyt lievään tulehdustilaan ja heikompaan rokotevasteeseen.
 
 **c)** Taulukko on kuvitteellinen ja koskee yhtä henkilöä, joten siitä ei voi yleistää. Se kuvaa kestoja vain sanoin. Taulukko ei kerro, miksi heräily tapahtui tai miten henkilö jaksoi päivällä, joten syy-yhteyttä ei voi päätellä. Tämän takia tulkinta on suuntaa antava.
 
@@ -326,9 +321,8 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 *Sisältö 10 p:*
 
 - a) Kolme havaintoa taulukosta, jotka nimeävät jakson ja suunnan, 1 p kukin. Yhteensä 3 p.
-- b) Syvän unen tehtävät 2 p, vilkeunen tehtävä 1 p, ketju unen vähyydestä jaksamiseen tai vastustuskykyyn 2 p. Yhteensä 5 p.
+- b) Kaksi oikeaa unen tai univaiheen tehtävää 3 p (esimerkiksi energiavarastojen täyttyminen, aivojen puhdistuminen tai unien näkeminen); ketju unen vähyydestä jaksamiseen tai vastustuskykyyn varovasti ilmaistuna (voi-sanoin) 2 p. Yhteensä 5 p.
 - c) Kaksi rajaa (yksi henkilö tai kuvitteellisuus, ei syy-yhteyttä) 1 p kumpikin. Yhteensä 2 p.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 *Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); viisi kohtaa: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
@@ -350,7 +344,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** *Yhteiskunnallisia tekijöitä* ovat kunnan päättämät bussiaikataulut, koulun aikatauluratkaisut ja liikuntapaikkojen käyttö. *Yhteisöllisiä tekijöitä* ovat koulun ja opiskelijakunnan toiminta, huoltajien näkemykset sekä urheiluseuran tai harrastuksen yhteisö. *Yksilöllisiä tekijöitä* ovat unen ja liikkumisen tarpeet, nukkumaanmenon ajankohta sekä käsitys siitä, mikä on tärkeää. Voimavaroina näkyvät harrastus (ulkoinen), ystävät ja yhteisö sekä liikuntasali kaikkien käytössä. Sisäinen voimavara on esimerkiksi kokemus kuulumisesta joukkoon.
+**a)** *Yhteiskunnallisia tekijöitä* ovat kunnan päättämät bussiaikataulut, koulun aikatauluratkaisut ja liikuntapaikkojen käyttö. *Yhteisöllisiä tekijöitä* ovat koulun ja opiskelijakunnan toiminta, huoltajien näkemykset sekä urheiluseuran tai harrastuksen yhteisö. *Yksilöllisiä tekijöitä* ovat unen ja liikkumisen tarpeet, nukkumaanmenon ajankohta sekä käsitys siitä, mikä on tärkeää. Voimavaroina näkyvät harrastus, ystävät ja yhteisö sekä liikuntasali kaikkien käytössä. Aiheen 01 jäsennyksellä (sivuston oma) harrastus on ulkoinen ja kokemus kuulumisesta joukkoon sisäinen voimavara.
 
 **b)** *Koulupäivän alun siirtäminen:* myöhempi alku sopisi niille, jotka nukahtavat illalla myöhään, kuten aineiston puheenjohtaja kuvaa. Silloin unta voisi kertyä aamulla enemmän, ja vireys ja oppiminen voisivat helpottua. Toisaalta päivä päättyy myöhemmin, mikä voi lyhentää iltapäivän aikaa liikkumiselle ja palautumiselle.
 *Liikuntasali iltaisin kaikkien käytössä:* kun maksuton tila on saatavilla, myös ne nuoret, joilla ei ole harrastusta tai rahaa, voivat liikkua. Liikkuminen vahvistaa kehoa, parantaa mielialaa ja tukee unta, ja yhteinen tekeminen lisää kuulumisen kokemusta.
@@ -363,10 +357,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 *Sisältö 15 p:*
 
-- a) Taustatekijöitä vähintään kolmelta tasolta oikein luokiteltuna 3 p; voimavarojen tunnistaminen 2 p. Yhteensä 5 p.
+- a) Taustatekijöitä vähintään kolmelta tasolta, tasot perusteltu, 3 p (muu perusteltu sijoitus kelpaa); voimavarojen tunnistaminen 2 p. Yhteensä 5 p.
 - b) Kaksi vaikutusmekanismia, kumpikin ketjuna aineiston tekijästä terveyteen, 2 p kumpikin. Yhteensä 4 p.
 - c) Hyödynsaajat ja haitankokijat perusteltu 1 p, vastakkainen näkökulma tai terveyserot 1 p; kaksi ehdotusta, joissa on toimija, keino ja perustelu, 2 p kumpikin. Yhteensä 6 p.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 *Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); viisi kohtaa: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
@@ -446,12 +439,12 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 - Piirrä tai tulosta Noorin taulukon pohja taululle. Opiskelijat pärjäävät tyhjällä paperilla.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
-- Selvitä koulun liikuntatilat, kerhot ja opiskeluterveydenhuollon yhteystiedot (esimerkki).
+- Selvitä koulun liikuntatilat ja kerhot (esimerkki).
 - Avaa UKK-instituutin suositus etukäteen, jos haluat näyttää, miten se on jäsennelty. Älä kirjoita lukuja taululle.
 
 ### Avoimet kysymykset
 
-- Miksi liikkumista on hyödyllistä ajatella laajemmin kuin urheiluna?
+- Mitä hyötyä ja mitä haittaa on siitä, että liikkumista ajatellaan laajemmin kuin urheiluna?
 - Mikä erottaa levon, palautumisen ja unen toisistaan?
 - Miten sama tekijä, kuten ilta-aika verkossa, voi sekä tukea että kuormittaa hyvinvointia?
 - Mitkä liikkumisen ja nukkumisen tekijät ovat yksilön valittavissa ja mitkä eivät?
@@ -460,10 +453,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Analysoidaan kuvitteellisia henkilöitä ja ilmiöitä. Älä pyydä opiskelijoita kertomaan omasta liikkumisestaan, nukkumisestaan tai perheensä arjesta.
-- Jos opiskelija kertoo huolestaan, kuuntele, kiitä luottamuksesta ja ohjaa opiskeluterveydenhuoltoon tai opiskeluhuoltoon koulun käytännön mukaan.
-- Älä arvioi liikkumista tai nukkumista hyväksi tai huonoksi ihmisenä olemisena. Puhu tekijöistä ja oloista.
-- **Oletusten tarkistus ennen tuntia:** Oletanko, että kaikki voivat liikkua samalla tavalla, harrastaa urheilua tai nukkua rauhallisessa kodissa? Liitänkö liikkumisen kehon kokoon tai ulkonäköön? Puhunko vain urheilusta? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
+- Sivuston ehdotus opettajalle: tunnilla analysoidaan Noorin tapausta ja muita kuvitteellisia esimerkkejä. Älä pyydä opiskelijoita kertomaan omasta liikkumisestaan, nukkumisestaan tai perheensä arjesta.
+- Noorin taulukko ja koetehtävät arvioidaan, opiskelijan omat liikunta- ja nukkumistavat eivät: [Opetushallituksen tukimateriaalissa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali) terveyskäyttäytyminen, arvot ja asenteet on rajattu arvioinnin ulkopuolelle. Sivuston ehdotus opettajalle: älä esitä liikkumista tai nukkumista ihmisen arvon mittarina.
+- **Oletusten tarkistus ennen tuntia (sivuston ehdotus opettajalle):** Oletanko, että kaikki voivat liikkua samalla tavalla, harrastaa urheilua tai nukkua rauhallisessa kodissa? Liitänkö liikkumisen kehon kokoon tai ulkonäköön? Puhunko vain urheilusta? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
 
@@ -474,7 +466,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Taulukkoon voi kirjoittaa omalla kielellä; koetehtävissä harjoitellaan suomenkielisiä käsitteitä.
 
 - *liikkuminen = kaikki liike, ei vain urheilu*
-- *lepo = aika, jolloin keho ja mieli toipuvat*
+- *lepo = aika, jolloin kuormitus vähenee ja palautuminen on mahdollista*
 - *palautuminen = toipuminen kuormituksesta*
 - *uni = yöllä tapahtuva lepo, jonka aikana aivot ja keho palautuvat*
 - *vuorokausirytmi = elimistön sisäinen kello, joka ohjaa vireyttä ja väsymystä*
@@ -485,20 +477,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-**Jos olet välittömässä vaarassa, soita hätänumeroon 112.**
-
-Tällä sivulla opiskellaan liikkumista, lepoa ja unta yleisesti. Jos sinulla on omia oireita tai huolia, esimerkiksi pitkään kestäneitä univaikeuksia tai liikkumiseen liittyvää kipua, ota yhteyttä opiskeluterveydenhuoltoon eli terveydenhoitajaan tai lääkäriin. Voit puhua myös kuraattorin tai psykologin kanssa. Koulusi kertoo, miten aika varataan (esimerkki). Avun pyytäminen on tavallista ja järkevää.
-
-**Apua saat myös:**
-
-- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
-- [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille, myös nukkumiseen.
-- [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
-- [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.
 
 ## Lähteet
 

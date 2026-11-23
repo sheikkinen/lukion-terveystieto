@@ -11,20 +11,15 @@ role: core
 duration_options: [45, 60, 75]
 self_study_minutes: 70
 prerequisites: [te1-01-terveys-voimavarana]
-safety_flags: [eating]
-content_note: "Tällä sivulla käsitellään syömistä ja painoa. Sivulla ei ole lukuja eikä vertailuja, ja lopussa on tietoa avusta."
+safety_flags: []
 card_links:
   - {label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch04-ravinto"}
 official_links:
   - {title: "Visual novel: Ravinto, syöminen ja painonhallinta", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch04-ravinto", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Ravitsemus- ja ruokasuositukset", url: "https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravitsemus--ja-ruokasuositukset/", publisher: "Ruokavirasto", read: 2026-11-21}
   - {title: "Nuorten hyvinvointi", url: "https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
-  - {title: "Syömishäiriöliitto-SYLI: tukipalvelut", url: "https://syomishairioliitto.fi/tukea/tukea-sairastuneelle", publisher: "Syömishäiriöliitto-SYLI ry", read: 2026-11-21}
   - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
-  - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
-  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin-kollektiivi", read: 2026-11-21}
-  - {title: "MIELI Kriisipuhelin", url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
   - {title: "Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
   - {title: "Terveyttä edistävä ruokavalio (ruokakolmio ja lautasmalli)", url: "https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/", publisher: "Ruokavirasto", read: 2026-11-21}
   - {title: "Ravintoaineet", url: "https://www.ruokavirasto.fi/elintarvikkeet/terveytta-edistava-ruokavalio/ravintoaineet/", publisher: "Ruokavirasto", read: 2026-11-21}
@@ -37,7 +32,10 @@ official_links:
   - {title: "Ravinnon rasvat", url: "https://www.terveyskirjasto.fi/dlk01074", publisher: "Terveyskirjasto (Duodecim)", read: 2026-11-21}
   - {title: "Kasvisruokavaliot", url: "https://www.terveyskirjasto.fi/dlk01198", publisher: "Terveyskirjasto (Duodecim)", read: 2026-11-21}
   - {title: "Terveyttä edistävä ruokavalio (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00935", publisher: "Terveyskirjasto (Duodecim)", read: 2026-11-21}
-yearly_facts: [ravitsemussuositus, syomishairio_apu, opiskeluterveydenhuolto, kriisipuhelimet]
+  - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-22}
+  - {title: "Lihavuus (Lääkärikirja Duodecim)", url: "https://www.terveyskirjasto.fi/dlk00042/lihavuus", publisher: "Terveyskirjasto (Duodecim)", read: 2026-11-23}
+  - {title: "Ylioppilastutkinnon hyvän vastauksen piirteet, terveystieto (syksy 2024)", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
+yearly_facts: [ravitsemussuositus]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - title: "Ravitsemus- ja ruokasuositukset"
@@ -54,20 +52,6 @@ linked_materials:
     licence: "Kaikki oikeudet pidätetään"
     audience: opiskelija
     read: 2026-11-21
-  - title: "Mielenterveystalo Nuoret (apu)"
-    url: "https://www.mielenterveystalo.fi/fi/nuoret"
-    publisher: "Mielenterveystalo.fi (HUS)"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija
-    read: 2026-11-21
-  - title: "Syömishäiriöliitto-SYLI: tukipalvelut"
-    url: "https://syomishairioliitto.fi/tukea/tukea-sairastuneelle"
-    publisher: "Syömishäiriöliitto-SYLI ry"
-    licence_class: link-out
-    licence: "Kaikki oikeudet pidätetään"
-    audience: opiskelija
-    read: 2026-11-21
 exam_tasks:
   - {id: K1, type: monivalinta, part: A20, points: 20, minutes: 25, codes: [TE1.t1, TE1.s4]}
   - {id: K2, type: vertailu, part: B20, points: 20, minutes: 35, codes: [TE1.t3, TE1.s4]}
@@ -78,7 +62,6 @@ sibling_links:
     url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/"
     read: 2026-11-21
 school_adapts:
-  - "Koulun opiskeluhuollon ja opiskeluterveydenhuollon yhteystiedot ja ajanvaraus (esimerkki)"
   - "Koulun ruokailun käytännöt ja erityisruokavaliot (esimerkki)"
 accessibility:
   - "Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä."
@@ -94,7 +77,7 @@ last_reviewed: 2026-11-21
 1. Osaan kuvata ravinnon ja keskeisten ravintoaineiden tehtävät ja ruokalähteet ja selittää, miksi monipuolinen ruoka tukee terveyttä ja jaksamista.
 2. Osaan nimetä ruokavalintoihin vaikuttavia yksilöllisiä, yhteisöllisiä, yhteiskunnallisia ja globaaleja tekijöitä.
 3. Osaan kuvata painonhallintaa terveyden ja hyvinvoinnin näkökulmasta ja selittää, miksi paino ei yksin kerro terveydestä.
-4. Osaan tunnistaa ruokapuheen, josta voi olla haittaa, ja löytää luotettavaa tietoa ja apua.
+4. Osaan arvioida ruokapuhetta ja löytää luotettavaa tietoa.
 5. Osaan tehdä perustellun ehdotuksen siitä, miten koulu tai yhteiskunta voi tukea hyvää ruokailua.
 
 ### Mitä ravinto tekee?
@@ -130,24 +113,22 @@ Luustoon kertyy rakennusaineita erityisesti nuoruudessa. Kalsium, D-vitamiini ja
 
 ### Mikä ohjaa ruokavalintoja?
 
-Ruokavalinnat syntyvät oloissa, eivät tahdonvoimasta yksin. Aiheen 01 neljä tasoa jäsentävät ne:
+Sivuston oma jäsennys: ruokavalintoihin vaikuttavat tekijät voi järjestää aiheen 01 neljälle tasolle.
 
 - **yksilölliset tekijät:** makutottumukset, taidot, tieto, aikataulu, allergiat
 - **yhteisölliset tekijät:** perheen ja ystävien tavat, kulttuuri, uskonto
 - **yhteiskunnalliset tekijät:** hinta, saatavuus, kouluruoka, mainonta, lait
 - **globaalit tekijät:** ruoantuotanto, ilmasto, kriisit
 
-Sama tekijä voi tukea tai kuormittaa. Siksi terveyttä edistävä ruokailu tarkoittaa myös oloja, joissa hyvä vaihtoehto on helppo ja kohtuuhintainen.
+Sama tekijä voi tukea tai kuormittaa. Sivuston oma päätelmä: terveyttä edistävään ruokailuun kuuluvat myös olot, joissa hyvä vaihtoehto on helppo ja kohtuuhintainen.
 
 ### Painonhallinta hyvinvoinnin näkökulmasta
 
-Opetussuunnitelman painonhallinta tarkoittaa tällä sivulla hyvinvointia, ei painon pienentämistä. Kehot ovat erilaisia, ja paino on vain yksi tieto kehosta. Se ei kerro yksin terveydestä, jaksamisesta tai arvosta. Terveys näkyy myös siinä, miten ihminen jaksaa, nukkuu, liikkuu ja on ihmisten kanssa. Ulkonäöstä terveyttä ei voi päätellä, ja painoleima heikentää hyvinvointia. Siksi keskitytään elintapoihin ja oloihin, ei lukuihin.
+Opetussuunnitelma mainitsee painonhallinnan (TE1.s4) mutta ei määrittele sitä. Sivuston oma rajaus: tällä sivulla painonhallintaa käsitellään hyvinvointina eikä painon muuttamisena, ja keskitytään elintapoihin ja oloihin, ei lukuihin. Paino on vain yksi tieto kehosta: Terveyskirjaston mukaan painoindeksi ei yksilötasolla kerro rasvan ja lihaksen suhteesta, rasvakudoksen sijainnista, toimintakyvystä eikä terveyshaittojen asteesta ([Terveyskirjasto: Lihavuus](https://www.terveyskirjasto.fi/dlk00042/lihavuus)).
 
-### Ruokapuhe ja syömishäiriöt
+### Ruokapuhe
 
-Ruokapuhe voi tukea tai kuormittaa. Haitallista on puhe, joka jakaa ruoat hyviin ja pahoihin, arvostelee ulkonäköä tai liittää arvon syömiseen. Arvioi puhetta kysymällä: kuka puhuu, mihin väite perustuu ja mitä hän haluaa?
-
-Syömishäiriöt ovat vakavia sairauksia, joihin voi sairastua kuka tahansa. Niillä ei ole yhtä syytä, eivätkä ne ole kenenkään vika. Niistä voi toipua, ja varhain haettu apu auttaa. Jos syöminen tai oma keho alkaa viedä paljon ajatuksia tai ahdistaa, ota yhteyttä opiskeluterveydenhuoltoon. Huolesta ystävästä voi kertoa luotettavalle aikuiselle. Apua on sivun lopussa.
+Sivuston oma näkemys: ruokapuhe voi tukea tai kuormittaa, ja kuormittavaa on puhe, joka arvostelee ulkonäköä tai liittää ihmisen arvon syömiseen. Ruoista voi silti puhua ravitsemuksen kannalta. Arvioi puhetta kysymällä: kuka puhuu, mihin väite perustuu ja mitä hän haluaa?
 
 ## Tehtävät
 
@@ -170,7 +151,7 @@ Syömishäiriöt ovat vakavia sairauksia, joihin voi sairastua kuka tahansa. Nii
 
 **Aika:** 10 min
 **Tarvitset:** paperia ja kynän
-**Ilman laitetta:** Tehtävä tehdään paperilla ilman tätä sivua. Keksi kolme kuvitteellista ruokapuheen kommenttia: yksi, joka jakaa ruoat hyviin ja huonoihin, yksi, joka yhdistää terveyden ulkonäköön, ja yksi, joka on kannustava ja kehoja arvostava. Tee vaiheet 1–5 niistä.
+**Ilman laitetta:** Tehtävä tehdään paperilla ilman tätä sivua. Keksi kolme kuvitteellista ruokapuheen kommenttia: yksi, joka arvostelee ulkonäköä, yksi, joka yhdistää terveyden ulkonäköön, ja yksi, joka on kannustava ja kehoja arvostava. Tee vaiheet 1–5 niistä.
 **Harjoittelet:** Osaan 3 ja 4
 
 *Kuvitteellisia kommentteja:*
@@ -181,7 +162,7 @@ Syömishäiriöt ovat vakavia sairauksia, joihin voi sairastua kuka tahansa. Nii
 
 1. Kirjoita kommentit (a)–(c) paperille allekkain.
 2. Merkitse jokaiselle, tukeeko vai kuormittaako se hyvinvointia, ja kirjoita yksi syy.
-3. Alleviivaa kommenteista kohta, joka jakaa ruoat tai ihmiset hyviin ja huonoihin tai yhdistää arvon ulkonäköön.
+3. Alleviivaa kommenteista kohta, joka jakaa ihmiset hyviin ja huonoihin tai yhdistää arvon ulkonäköön.
 4. Kirjoita kommentti (a) tai (b) uudelleen niin, että se on tosi eikä kuormita.
 5. Kirjoita yksi lause siitä, miksi paino ei yksin kerro terveydestä.
 
@@ -211,7 +192,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 1. Osaan kuvata ravinnon ja keskeisten ravintoaineiden tehtävät ja ruokalähteet ja selittää, miksi monipuolinen ruoka tukee terveyttä ja jaksamista.
 2. Osaan nimetä ruokavalintoihin vaikuttavia yksilöllisiä, yhteisöllisiä, yhteiskunnallisia ja globaaleja tekijöitä.
 3. Osaan kuvata painonhallintaa terveyden ja hyvinvoinnin näkökulmasta ja selittää, miksi paino ei yksin kerro terveydestä.
-4. Osaan tunnistaa ruokapuheen, josta voi olla haittaa, ja löytää luotettavaa tietoa ja apua.
+4. Osaan arvioida ruokapuhetta ja löytää luotettavaa tietoa.
 5. Osaan tehdä perustellun ehdotuksen siitä, miten koulu tai yhteiskunta voi tukea hyvää ruokailua.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
@@ -237,7 +218,7 @@ Valitse kohdissa 1–10 yksi oikea vaihtoehto. Oikea vastaus 2 p, väärä −1 
 7. Mikä väite luustosta on oikein? a) luusto kasvaa vain vanhana b) tupakointi ei vaikuta luuhun c) kalsium, D-vitamiini ja painoa kantava liikunta tukevat luustoa d) vain maito riittää luuston tukemiseen
 8. Mikä väite vegaanisesta ruokavaliosta on oikein? a) kaikki ravintoaineet saa aina suunnittelematta b) täydennetyillä tuotteilla on usein merkitystä esimerkiksi B12-vitamiinin ja jodin saannissa c) se on aina vaarallinen d) se ei kuulu ruokasuosituksiin
 9. Mikä väite painosta ja terveydestä on oikein? a) paino kertoo yksin terveydestä b) paino on vain yksi tieto kehosta, eikä se kerro yksin terveydestä c) painon pienentäminen on aina painonhallinnan tavoite d) ulkonäöstä näkee terveyden
-10. Mikä kuvaa parhaiten ruokavalintoihin vaikuttavia tekijöitä? a) vain tahdonvoima b) yksilölliset, yhteisölliset, yhteiskunnalliset ja globaalit tekijät c) vain ruoan hinta d) vain tieto ravintoaineista
+10. Mikä väite pitää paikkansa? a) ruokavalintoihin vaikuttaa vain tahdonvoima b) ruokavalintoihin vaikuttavia tekijöitä voi jäsentää yksilöllisiin, yhteisöllisiin, yhteiskunnallisiin ja globaaleihin tekijöihin c) ruokavalintoihin vaikuttaa vain ruoan hinta d) ruokavalintoihin vaikuttaa vain tieto ravintoaineista
 
 ### K2: Vertailu näkökulmittain, 35 min (20 p)
 
@@ -285,14 +266,15 @@ c) Kirjoita opiskelijakunnan lyhyt esitys rehtorille (5–8 virkettä). Kerro, m
 6. **b)** Alaosa kuvaa päivittäisen ruokavalion perustaa. Harvemmin syötävät ruoat ovat ylempänä.
 7. **c)** Luustoa tukevat kalsium, D-vitamiini ja painoa kantava liikunta. Tupakointi pienentää luumassaa.
 8. **b)** Täydennetyt tuotteet ovat usein tärkeitä vegaanisessa ruokavaliossa, ja ruokavalio vaatii suunnittelua.
-9. **b)** Paino on vain yksi tieto kehosta. Ulkonäkö ei kerro terveydestä.
-10. **b)** Valinnat syntyvät neljällä tasolla, eivät tahdonvoimasta yksin.
+9. **b)** Paino on vain yksi tieto kehosta: Terveyskirjaston mukaan painoindeksi ei yksilötasolla kerro kehon koostumuksesta eikä terveyshaittojen asteesta.
+10. **b)** Tekijät voi jäsentää neljälle tasolle (sivuston oma jäsennys, ks. aihe 01). Muut vaihtoehdot nimeävät vain yhden tekijän.
 
 **Pisteytys**
 
 *Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
 
 - Oikea vastaus 2 p, väärä −1 p, tyhjä 0 p. Yhteensä enintään 10 × 2 p = 20 p. Tehtävän pisteet eivät mene alle nollan.
+- Kohta 9 perustuu Terveyskirjaston painoindeksitietoon, kohta 10 sivuston omaan jäsennykseen (ks. Opiskelijalle).
 
 *Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (ravintoaine, painonhallinta, taustatekijä), soveltaminen (kohdat 2 ja 8), analysointi (kohta 9), arviointi ja argumentointi (miksi houkutteleva vaihtoehto on väärä).
 
@@ -314,7 +296,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **b)** Sivu A selittää terveyden syntyvän yksilön ulkonäön ja painon hallinnasta, eli se näkee syyn vain yksilössä. Sivu B selittää terveyden syntyvän monesta tekijästä, joihin kuuluvat sekä omat tavat että olot ja ihmissuhteet.
 
-**c)** Sivu A voi aiheuttaa häpeää ja huonoa suhdetta ruokaan ja omaan kehoon, ja se voi tuottaa painoleimaa. Sivu B tukee hyvinvointia, koska se ei yhdistä arvoa ulkonäköön ja ottaa kehojen eroavuuden huomioon.
+**c)** Sivu A voi saada lukijan arvioimaan itseään ja muita ulkonäön perusteella, mikä voi kuormittaa suhdetta ruokaan ja omaan kehoon. Sivu B ei yhdistä arvoa ulkonäköön ja ottaa kehojen eroavuuden huomioon, joten se tuskin kuormittaa samalla tavalla.
 
 **d)** Sivu A ehdottaa tiettyä ulkonäköä tavoitteeksi, mikä ei ole terveysperusteinen eikä kaikille mahdollinen. Sivu B ehdottaa kokonaisuutta: ruokailua, lepoa, liikkumista ja ihmissuhteita.
 
@@ -326,11 +308,10 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 - Kohdat a–d, jokainen 2 p: oikea kuvaus molemmista sivuista 1 p ja perustelu tai esimerkki aineistosta 1 p. Yhteensä 8 p.
 - Kohta e: perusteltu kanta ja luotettavuuden arviointikriteeri 2 p.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 *Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); viisi kohtaa: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
-- 8–10 p: käsitteet (terveys, painonhallinta, hyvinvointi, painoleima) ovat täsmällisiä; sivuja verrataan vastakkain jokaisessa kohdassa; kanta on perusteltu.
+- 8–10 p: käsitteet (terveys, painonhallinta, hyvinvointi) ovat täsmällisiä; sivuja verrataan vastakkain jokaisessa kohdassa; kanta on perusteltu.
 - 4–7 p: sivut kuvataan oikein, mutta vertailu jää erilliseksi kuvaukseksi tai perustelut yleisiksi.
 - 0–3 p: vastaus kuvaa vain yhtä sivua tai moralisoi.
 
@@ -361,10 +342,9 @@ Lisäksi nuoli lyhyestä tauosta jonoon näyttää, että tekijät kasautuvat.
 
 *Sisältö 15 p:*
 
-- a) Viisi aineiston tekijää kaaviossa 5 p; taso oikein vähintään neljällä 2 p; voimavara tai kuormitus merkitty 1 p; tekijöiden yhteydet nuolilla 1 p. Yhteensä 9 p.
+- a) Viisi aineiston tekijää kaaviossa 5 p; taso nimetty ja perusteltu vähintään neljällä 2 p (tasot ovat sivuston oma jäsennys, ja muu perusteltu sijoitus kelpaa); voimavara tai kuormitus merkitty 1 p; tekijöiden yhteydet nuolilla 1 p. Yhteensä 9 p.
 - b) Valittu ketju etenee tekijästä jaksamiseen ja oppimiseen 3 p; vaikutusta muuttava tekijä tai poikkeus 1 p. Yhteensä 4 p.
 - c) Esitys sisältää konkreettisen pyynnön 1 p ja kenelle se hyödyttää 1 p. Yhteensä 2 p.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 *Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/); viisi kohtaa: käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
@@ -407,45 +387,43 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka vaikuttaa siihen, mitä ihmiset syövät. | Kerro tunnin alussa sisältöhuomautus: tunnilla käsitellään syömistä ja painoa, lukuja ei käytetä. Lue lappuja ja ryhmittele: yksilö, yhteisö, yhteiskunta, maailma. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
+| Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka vaikuttaa siihen, mitä ihmiset syövät. | Lue lappuja ja ryhmittele: yksilö, yhteisö, yhteiskunta, maailma. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 10 | Oikein vai väärin -väittämät pareittain: "Ruokavalinnat riippuvat vain tahdonvoimasta." "Ruoka vaikuttaa jaksamiseen ja keskittymiseen." "Kehot ovat erilaisia." | Vastausvihjeet: väärin, oikein, oikein. Perustele. Kytke lappuihin. | Väittämät paperilla. | Käsittele kaksi ensimmäistä. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: ravinto, taustatekijä, painonhallinta, ruokapuhe. | Esittele ravinnon tehtävät ja neljä tasoa. Selitä, että painonhallinta tarkoittaa hyvinvointia, ei lukuja. Älä käytä esimerkkejä painosta tai ruokamääristä. | Jaa käsitteet paperilla. Tai: parit yhdistävät sivun ravintoaine-taulukosta ravintoaineen sen tehtävään ja ruokalähteeseen. | Esittele vain ravinnon tehtävät ja tasot. |
+| Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: ravinto, taustatekijä, painonhallinta, ruokapuhe. | Esittele ravinnon tehtävät ja neljä tasoa. Kerro sivun rajaus: painonhallintaa käsitellään hyvinvointina, ei lukuina. Älä käytä esimerkkejä painosta tai ruokamääristä. | Jaa käsitteet paperilla. Tai: parit yhdistävät sivun ravintoaine-taulukosta ravintoaineen sen tehtävään ja ruokalähteeseen. | Esittele vain ravinnon tehtävät ja tasot. |
 | Työskentely | 25 | Tehtävä 1 (20 min) yksin tai pareittain, sitten Tehtävän 2 vaiheet 1–2 (5 min). | Kierrä ja kysy: miksi tämä tekijä on tällä kehällä? Muistuta, että analysoidaan Samia, ei itseä. | Pari tekee yhteiset kehät. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät valitsevat kaksi tekijää, joihin koulu tai kunta voisi vaikuttaa, ja ehdottavat keinon. | Kokoa ehdotukset taululle tasoittain. Nosta esiin, että ruokailun oloihin voi vaikuttaa. | Yksin: kirjoita kaksi ehdotusta. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n kohdat 1–5 yksin (7 min) ja tarkistus (3 min). Exit-lappu: yksi käsite, joka on vielä epäselvä. | Näytä K1:n pisteytys ja kysy: mitä väärä vastaus maksaa? | Paperilla. | Tarkistus kotona. |
-| Puskuri | 5 | Kysymyksiä. Lopuksi kerro sivun lopun Apua ja tukea -osiosta. | Muistuta opiskeluterveydenhuollosta ja avun hakemisesta. | – | – |
+| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat harjoituksia kotiin tai kertaukseen. | – | – |
 
 ### Tuntisuunnitelma (60 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 4 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka vaikuttaa siihen, mitä ihmiset syövät. | Kerro sisältöhuomautus. Lue muutama lappu ja ryhmittele taululle. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
+| Virittäytyminen | 4 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka vaikuttaa siihen, mitä ihmiset syövät. | Lue muutama lappu ja ryhmittele taululle. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 6 | Kaksi oikein vai väärin -väittämää pareittain: "Ruokavalinnat riippuvat vain tahdonvoimasta." "Kehot ovat erilaisia." | Vastausvihjeet: väärin, oikein. Perustele lyhyesti. | Väittämät paperilla. | Käsittele vain ensimmäinen. |
 | Lyhyt alustus | 8 | Opiskelijat kirjaavat käsitteet. | Esittele ravinnon tehtävät, tasot ja painonhallinta hyvinvointina. | Jaa käsitteet paperilla. | Painonhallinta työskentelyn jälkeen. |
 | Työskentely | 25 | Tehtävä 1 (20 min), sitten Tehtävän 2 vaiheet 1–2 (5 min). | Kierrä ja kysy perusteluja. | Pari tekee yhteiset kehät. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit valitsevat yhden tekijän ja ehdottavat, miten koulu voisi tukea ruokailua. | Kokoa kolme ehdotusta taululle. | Yksin paperille. | Yksi yhteinen ehdotus. |
 | Koeharjoitus ja exit | 7 | K1:n kohdat 1–3 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten väärästä vähennetään. | Paperilla. | Tarkistus kotona. |
-| Puskuri | 2 | Kysymykset. Muistutus Apua ja tukea -osiosta. | Kerro K1–K3:sta kotiharjoituksina. | – | – |
+| Puskuri | 2 | Kysymykset. | Kerro K1–K3:sta kotiharjoituksina. | – | – |
 
 ### Tuntisuunnitelma (45 min)
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen | 2 | Kysymys ääneen: mikä vaikuttaa siihen, mitä ihmiset syövät? Muutama vastaus. Sisältöhuomautus. | Kirjoita vastaukset taululle neljään ryhmään. | Opiskelijat kirjoittavat vastauksen itselleen. | – |
+| Virittäytyminen | 2 | Kysymys ääneen: mikä vaikuttaa siihen, mitä ihmiset syövät? Muutama vastaus. | Kirjoita vastaukset taululle neljään ryhmään. | Opiskelijat kirjoittavat vastauksen itselleen. | – |
 | Aiemman tiedon aktivointi | 3 | Yksi väittämä koko ryhmälle: "Ruokavalinnat riippuvat vain tahdonvoimasta." | Vastausvihje: väärin. Kysy, miksi. | Väittämä paperilla. | Jätä pois. |
 | Lyhyt alustus | 7 | Opiskelijat kirjaavat käsitteet. | Esittele ravinnon tehtävät, tasot ja painonhallinta hyvinvointina. | Jaa käsitteet paperilla. | Painonhallinta kotiin. |
 | Työskentely | 22 | Tehtävä 1 kokonaan (20 min). Lopuksi jokainen kirjoittaa yhden lauseen: miksi valinta ei ole vain tahdonvoimaa (2 min). | Kierrä ja kysy perusteluja. Tehtävä 1 tehdään kokonaan, ei lyhennetä. | Pari tekee yhteiset kehät. | Lause kotiin. |
 | Pari- tai pienryhmäpohdinta | 5 | Koko ryhmä valitsee yhden tekijän ja ehdottaa keinon koululle tai kunnalle. | Kirjoita ehdotus taululle ja kysy: miksi se voisi vaikuttaa? | Yksin paperille. | Pohdinta kotiin. |
-| Koeharjoitus ja exit | 4 | Exit-lappu: yksi epäselvä käsite. K1 kotiin. Muistutus Apua ja tukea -osiosta. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
+| Koeharjoitus ja exit | 4 | Exit-lappu: yksi epäselvä käsite. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
 | Puskuri | 2 | Kysymykset. | – | – | – |
 
 ### Valmistelu
 
 - Piirrä neljän kehän pohja taululle. Opiskelijat pärjäävät tyhjällä paperilla.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
-- Tarkista koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki) ja kerro ne tunnin lopussa.
-- Älä tuo tunnille ruokaa, vaakaa, mittanauhaa tai ravintotaulukoita. Älä käytä ennen–jälkeen-kuvia.
-- Ajattele ennakkoon, miten reagoit, jos opiskelija kertoo syömiseen tai kehoon liittyvästä huolesta: kuuntele, kiitä luottamuksesta ja ohjaa opiskeluterveydenhuoltoon.
+- Sivuston ohje opettajalle: älä tuo tunnille ruokaa, vaakaa, mittanauhaa tai ravintotaulukoita. Älä käytä ennen–jälkeen-kuvia.
 
 ### Avoimet kysymykset
 
@@ -457,10 +435,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Analysoidaan kuvitteellisia henkilöitä ja ilmiöitä. Älä pyydä opiskelijoita kertomaan omasta syömisestään, kehostaan, painostaan tai perheensä ruokailusta. Älä pyydä vertailemaan itseään toisiin.
-- Jos opiskelija kertoo huolestaan, kuuntele, kiitä luottamuksesta ja ohjaa opiskeluterveydenhuoltoon tai opiskeluhuoltoon koulun käytännön mukaan.
-- Älä arvioi ruokia hyviksi tai pahoiksi eikä ihmisiä heidän syömisensä tai kehonsa perusteella. Puhu tekijöistä ja oloista.
-- **Oletusten tarkistus ennen tuntia:** Oletanko, että kaikilla on varaa ruokaan, rauhallinen ruokailuhetki tai tietynlainen koti? Liitänkö terveyden painoon, kehon kokoon tai tiettyyn sukupuoleen? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
+- Sivuston ehdotus opettajalle: tunnilla analysoidaan Samin tapausta ja muita kuvitteellisia esimerkkejä. Älä pyydä opiskelijoita kertomaan omasta syömisestään, kehostaan, painostaan tai perheensä ruokailusta. Älä pyydä vertailemaan itseään toisiin.
+- Opiskelijan omat ruokatavat eivät ole arvioinnin kohde, sillä [Opetushallituksen tukimateriaali](https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali) sulkee terveyskäyttäytymisen, arvot ja asenteet arvioinnin ulkopuolelle. Sivuston ehdotus opettajalle: älä arvioi ihmisiä heidän syömisensä tai kehonsa perusteella, vaan puhu tekijöistä ja oloista.
+- **Oletusten tarkistus ennen tuntia (sivuston ehdotus opettajalle):** Oletanko, että kaikilla on varaa ruokaan, rauhallinen ruokailuhetki tai tietynlainen koti? Liitänkö terveyden painoon, kehon kokoon tai tiettyyn sukupuoleen? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
 
@@ -472,31 +449,15 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 - *ravinto = ruoan sisältämät aineet, jotka keho tarvitsee*
 - *monipuolinen = erilaisia ruokia, ei vain yhtä*
-- *painonhallinta = hyvinvoinnin ylläpito, ei painon pienentäminen*
+- *painonhallinta = tällä sivulla hyvinvoinnin ylläpito, ei painon muuttaminen (sivuston rajaus)*
 - *ruokapuhe = se, miten ruoasta puhutaan*
-- *painoleima = ihmisen leimaaminen painon perusteella*
 - *taustatekijä = asia, joka vaikuttaa taustalla*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee kehät kuvina tai yksittäisinä sanoina. Lue tapaus kahdessa osassa. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa. Jos aihe tuntuu raskaalta, voit tehdä Tehtävän 3 etkä Tehtävää 2.
+**Lukeminen, keskittyminen ja jännitys:** Tee kehät kuvina tai yksittäisinä sanoina. Lue tapaus kahdessa osassa. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-**Jos olet välittömässä vaarassa, soita hätänumeroon 112.**
-
-Tällä sivulla käsitellään syömistä ja painoa yleisesti. Jos syöminen, ruoka tai oma keho alkaa viedä paljon ajatuksia tai tuntua ahdistavalta, tai jos huolestut ystävästä, ota yhteyttä opiskeluterveydenhuoltoon eli terveydenhoitajaan tai lääkäriin. Voit puhua myös kuraattorin tai psykologin kanssa. Koulusi kertoo, miten aika varataan (esimerkki). Avun pyytäminen on tavallista ja järkevää, eikä sinun tarvitse selvittää asiaa yksin.
-
-**Apua saat myös:**
-
-- [Syömishäiriöliitto-SYLI: tukipalvelut (luettu 21.11.2026)](https://syomishairioliitto.fi/tukea/tukea-sairastuneelle): tietoa tuesta ja palveluista syömishäiriöihin. Palvelut ja ikärajat ovat sivulla.
-- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
-- [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille.
-- [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
-- [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.
 
 ## Lähteet
 

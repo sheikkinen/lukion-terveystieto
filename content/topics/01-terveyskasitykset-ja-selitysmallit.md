@@ -19,22 +19,20 @@ official_links:
   - {title: "Humoraalioppi (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Humoraalioppi", publisher: "Wikipedia", read: 2026-11-21}
   - {title: "Miasma (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Miasmateoria", publisher: "Wikipedia", read: 2026-11-21}
   - {title: "Mikrobiteoria (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Mikrobiteoria", publisher: "Wikipedia", read: 2026-11-21}
-  - {title: "Kansanparannus (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Kansanl%C3%A4%C3%A4kint%C3%A4", publisher: "Wikipedia", read: 2026-11-21}
+  - {title: "Kansanparannus (Wikipedia; artikkelissa ei ole lähteitä)", url: "https://fi.wikipedia.org/wiki/Kansanl%C3%A4%C3%A4kint%C3%A4", publisher: "Wikipedia", read: 2026-11-21}
   - {title: "Foundations of Contemporary Health Science and Practice (luku 1)", url: "https://openpub.libraries.rutgers.edu/studyhealthdeterminants/chapter/chapter-1/", publisher: "Rutgers University Libraries (Pressbooks)", read: 2026-11-21}
-  - {title: "Salutogeeniset terveys- ja hyvinvointimittarit terveystutkimuksessa (Hoitotiede 2022)", url: "https://journal.fi/hoitotiede/article/view/128988", publisher: "Hoitotieteiden Tutkimusseura (journal.fi)", read: 2026-11-21}
+  - {title: "Salutogeeniset terveys- ja hyvinvointimittarit terveystutkimuksessa (Hoitotiede 2022)", url: "https://journal.fi/hoitotiede/article/view/128988", publisher: "Hoitotieteiden Tutkimusseura (journal.fi)", read: 2026-11-22}
   - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
-  - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi", read: 2026-11-21}
-  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
-yearly_facts: [opiskeluterveydenhuolto]
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Mitä terveys on? (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00903", publisher: "Suomalainen Lääkäriseura Duodecim", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija ja opettaja, read: 2026-11-21}
   - {title: "Humoraalioppi (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Humoraalioppi", publisher: "Wikipedia", licence_class: open-cc-by-sa, licence: "CC BY-SA 4.0", audience: syventävä opiskelija ja opettaja, read: 2026-11-21}
   - {title: "Miasma (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Miasmateoria", publisher: "Wikipedia", licence_class: open-cc-by-sa, licence: "CC BY-SA 4.0", audience: syventävä opiskelija ja opettaja, read: 2026-11-21}
   - {title: "Mikrobiteoria (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Mikrobiteoria", publisher: "Wikipedia", licence_class: open-cc-by-sa, licence: "CC BY-SA 4.0", audience: syventävä opiskelija ja opettaja, read: 2026-11-21}
-  - {title: "Kansanparannus (Wikipedia)", url: "https://fi.wikipedia.org/wiki/Kansanl%C3%A4%C3%A4kint%C3%A4", publisher: "Wikipedia", licence_class: open-cc-by-sa, licence: "CC BY-SA 4.0", audience: syventävä opiskelija ja opettaja, read: 2026-11-21}
+  - {title: "Kansanparannus (Wikipedia; artikkelissa ei ole lähteitä)", url: "https://fi.wikipedia.org/wiki/Kansanl%C3%A4%C3%A4kint%C3%A4", publisher: "Wikipedia", licence_class: open-cc-by-sa, licence: "CC BY-SA 4.0", audience: syventävä opiskelija ja opettaja, read: 2026-11-21}
   - {title: "Foundations of Contemporary Health Science and Practice (luku 1)", url: "https://openpub.libraries.rutgers.edu/studyhealthdeterminants/chapter/chapter-1/", publisher: "Rutgers University Libraries (Pressbooks)", licence_class: link-out, licence: "CC BY-NC-ND 4.0", audience: opettaja, read: 2026-11-21}
-  - {title: "Salutogeeniset terveys- ja hyvinvointimittarit terveystutkimuksessa (Hoitotiede 2022)", url: "https://journal.fi/hoitotiede/article/view/128988", publisher: "Hoitotieteiden Tutkimusseura (journal.fi)", licence_class: link-out, licence: "Sivulla ei näy lisenssiä; käsitellään link-out-aineistona", audience: opettaja, read: 2026-11-21}
+  - {title: "Salutogeeniset terveys- ja hyvinvointimittarit terveystutkimuksessa (Hoitotiede 2022)", url: "https://journal.fi/hoitotiede/article/view/128988", publisher: "Hoitotieteiden Tutkimusseura (journal.fi)", licence_class: link-out, licence: "Sivulla ei näy lisenssiä; käsitellään link-out-aineistona", audience: opettaja, read: 2026-11-22}
   - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
 exam_tasks:
   - {id: K1, type: mallien-jarjestaminen, part: A20, points: 20, minutes: 25, codes: [TE3.s1, TE3.t1]}
@@ -42,7 +40,7 @@ exam_tasks:
   - {id: K3, type: aineiston-lukeminen, part: C30, points: 30, minutes: 55, codes: [TE3.t1, TE3.s1]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
-school_adapts: ["Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; aineistot on kirjoitettu tehtäviin.", "Tehtävissä analysoidaan historiaa ja kuvitteellisia henkilöitä; omasta terveydestä ei tarvitse kertoa kenellekään.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-21
 ---
@@ -59,15 +57,17 @@ last_reviewed: 2026-11-21
 
 ### Kuka määrittelee terveyden?
 
-TE1:ssä opit, että terveys on moniulotteinen ja että WHO:n määritelmää on arvosteltu ([TE1: Mitä terveys on?](../../te1/01-terveys-voimavarana/)). **Maallikon terveyskäsitys** lähtee kokemuksesta: terveys on ennen kaikkea ihmisen oma kokemus, ja vakavasti sairas voi kokea itsensä terveeksi ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00903)). **Tieteen terveyskäsitys** perustuu tutkittuun tietoon (ks. [TE2: tieteellinen tieto](../../te2/01-tieto-ja-vinoumat/)). Tieteessäkin terveyttä katsotaan eri näkökulmista:
+TE1:ssä opit, että terveys on moniulotteinen ja että WHO:n määritelmää on arvosteltu ([TE1: Mitä terveys on?](../../te1/01-terveys-voimavarana/)). **Maallikon terveyskäsitys** lähtee kokemuksesta: terveys on ennen kaikkea ihmisen oma kokemus, ja vakavasti sairas voi kokea itsensä terveeksi ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00903)). **Tieteen terveyskäsitys** perustuu tutkittuun tietoon (ks. [TE2: tieteellinen tieto](../../te2/01-tieto-ja-vinoumat/)). Tieteessäkin terveyttä katsotaan eri näkökulmista. Tämä jaottelu on sivuston oma jäsennys:
 
-- **Biolääketieteellinen näkökulma:** sairaus on poikkeama elimistön normaalista toiminnasta. Normaalin raja on kuitenkin vaikea vetää, koska se vaihtelee ihmisestä ja kulttuurista toiseen ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00903)). Näkökulma on edistänyt tartuntatautien hoitoa, kirurgiaa ja lääkkeitä. Sen heikkous on, että mieli, sosiaaliset olot ja pitkäaikaissairaudet jäävät sivuun ([Rutgers 2026](https://openpub.libraries.rutgers.edu/studyhealthdeterminants/chapter/chapter-1/)).
+- **Biolääketieteellinen näkökulma:** sairaus on poikkeama elimistön normaalista toiminnasta. Normaalin raja on kuitenkin vaikea vetää, koska se vaihtelee ihmisestä ja kulttuurista toiseen ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00903)). Sen heikkous on, että mieli, sosiaaliset olot ja pitkäaikaissairaudet jäävät sivuun ([Rutgers 2026](https://openpub.libraries.rutgers.edu/studyhealthdeterminants/chapter/chapter-1/)).
 - **Biopsykososiaalinen näkökulma:** elimistö, mieli ja sosiaaliset olot vaikuttavat yhdessä sairastumiseen ja toipumiseen. Mallin esitti George Engel vuonna 1977 ([Rutgers 2026](https://openpub.libraries.rutgers.edu/studyhealthdeterminants/chapter/chapter-1/)).
-- **Salutogeeninen eli terveyslähtöinen näkökulma:** se kysyy, mikä pitää ihmisen terveenä, ei vain sitä, mikä sairastuttaa. Terveystutkimuksessa tätä näkökulmaa on mitattu muun muassa koherenssin tunteen mittareilla. Artikkeli etsii salutogeenisia mittareita myös koherenssin tunteen mittarien ulkopuolelta ([Hoitotiede 2022, luettu 21.11.2026](https://journal.fi/hoitotiede/article/view/128988)).
+- **Salutogeeninen eli terveyslähtöinen näkökulma:** se kysyy, mikä pitää ihmisen terveenä (sivuston tiivistys). Hoitotiede-lehden katsauksen mukaan salutogeenisen näkökulman mittareilla voi tutkia terveyden kokemusta ja voimavaroja, ja katsaus löysi yhdeksän mittaria ([Hoitotiede 2022, luettu 22.11.2026](https://journal.fi/hoitotiede/article/view/128988)).
 
 ### Sairauksien selitysmallit
 
 **Selitysmalli** kertoo, mistä sairauden ajatellaan johtuvan. Malli ohjaa myös hoitoa.
+
+Taulukko on sivuston oma jäsennys; opetussuunnitelma ei nimeä malleja. *Demonologinen* ja *riskitekijämalli* ovat sivuston nimiä.
 
 | Selitysmalli | Milloin vallalla | Sairauden syy | Hoito ja ehkäisy |
 |---|---|---|---|
@@ -77,21 +77,21 @@ TE1:ssä opit, että terveys on moniulotteinen ja että WHO:n määritelmää on
 | mikrobiteoria | 1800-luvun loppupuolelta | tietty mikrobi, kuten bakteeri tai virus | hygienia, aseptiikka, taudinaiheuttajan torjunta |
 | monisyinen malli eli riskitekijämalli | nykyään | monen tekijän yhteisvaikutus | ehkäisy yksilön ja yhteiskunnan toimin |
 
-Lähteet: [humoraalioppi](https://fi.wikipedia.org/wiki/Humoraalioppi), [kansanparannus](https://fi.wikipedia.org/wiki/Kansanl%C3%A4%C3%A4kint%C3%A4), [miasma](https://fi.wikipedia.org/wiki/Miasmateoria), [mikrobiteoria](https://fi.wikipedia.org/wiki/Mikrobiteoria), [Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00903).
+Lähteet: [humoraalioppi](https://fi.wikipedia.org/wiki/Humoraalioppi), [kansanparannus (Wikipedia, lähteetön artikkeli)](https://fi.wikipedia.org/wiki/Kansanl%C3%A4%C3%A4kint%C3%A4), [miasma](https://fi.wikipedia.org/wiki/Miasmateoria), [mikrobiteoria](https://fi.wikipedia.org/wiki/Mikrobiteoria), [Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00903).
 
-Humoraalioppi selitti sairaudet luonnollisilla syillä, ja keskiajalla se voitti maagisen lääkeopin. Mallit elivät pitkään rinnakkain (kaavio tämän osion lopussa).
+Mallit elivät pitkään rinnakkain (kaavio tämän osion lopussa).
 
 ### Miksi käsitykset muuttuivat?
 
-**Tiede ja teknologia:** Antoni van Leeuwenhoek näki mikrobeja ensimmäisenä 1670-luvulla. John Snow osoitti vuonna 1854, että kolera levisi Lontoossa juomaveden kautta. Ignaz Semmelweis vaati 1840-luvulla lääkäreitä pesemään kädet ennen synnytyksiä. Louis Pasteurin ja Robert Kochin työ 1860-luvulta alkaen vakiinnutti mikrobiteorian ([mikrobiteoria](https://fi.wikipedia.org/wiki/Mikrobiteoria)).
+**Tiede ja teknologia:** Antoni van Leeuwenhoek havaitsi mikrobit ensimmäisenä 1670-luvulla, ja Ignaz Semmelweis pakotti vuonna 1847 lääkärit pesemään kädet ennen raskaana olevien tutkimista ([mikrobiteoria](https://fi.wikipedia.org/wiki/Mikrobiteoria)). John Snow osoitti vuonna 1854, että kolera levisi Lontoossa juomaveden kautta, mutta vasta Pasteurin, Kochin ja muiden löydökset 1860-luvulta alkaen todistivat mikrobit eräiden tautien aiheuttajiksi ([miasma](https://fi.wikipedia.org/wiki/Miasmateoria)).
 
-**Yhteiskunta:** uusi tieto ei voittanut heti. Snow'n havainto ei kumonnut miasmateoriaa saman tien, ja Semmelweisin ajatuksia vastustettiin kiivaasti ([miasma](https://fi.wikipedia.org/wiki/Miasmateoria)). Väärä teoriakin saattoi johtaa hyödyllisiin toimiin: miasmakäsitys vauhditti asuinolojen parantamista.
+**Yhteiskunta:** Semmelweisin käsienpesuajatusta vastustettiin kiivaasti. Väärä teoriakin saattoi johtaa hyödyllisiin toimiin: miasmateoria vaikutti elinolojen parantamiseen 1800-luvun puolivälissä (sama miasma-artikkeli).
 
 Mahahaavaa hoidettiin ennen leikkauksella. Kun se tunnistettiin bakteerin aiheuttamaksi tulehdukseksi, hoidoksi tulivat antibiootit ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00903)).
 
 ### Malli ohjaa vastuuta
 
-Selitysmalli kertoo myös, kenen tehtävä terveys on. Monisyisen mallin mukaan terveyteen vaikuttavat perimä, elinympäristö, elintavat, sosiaaliset suhteet ja toimeentulo yhdessä ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00903)). **Riskitekijä** lisää sairastumisen todennäköisyyttä, mutta ei määrää sitä. Ihminen voi sairastua ilman yhtään tunnettua riskitekijää. Jos malli kaventuu pelkkiin elintapoihin, vastuu siirtyy helposti yksilölle ja sairastunutta syyllistetään. Vertaa medikalisaatioon ([TE1: Terveyskulttuurin ilmiöt](../../te1/03-terveyskulttuuri/)).
+Terveyskirjaston mukaan sairaudet syntyvät usein monen tekijän yhteisvaikutuksesta ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00903)); nimi *monisyinen malli* on sivuston oma. **Riskitekijä** lisää sairastumisen todennäköisyyttä, mutta ei määrää sitä. Ihminen voi sairastua ilman yhtään tunnettua riskitekijää. Jos malli kaventuu pelkkiin elintapoihin, voi syntyä käsitys, että vastuu kuuluu vain yksilölle. Onko näin, riippuu siitä, miten malli esitetään; tämä on sivuston oma pohdinta.
 
 ## Tehtävät
 
@@ -134,7 +134,7 @@ Selitysmalli kertoo myös, kenen tehtävä terveys on. Monisyisen mallin mukaan 
 2. Kirjoita kahteen sarakkeeseen: vanha selitys ja hoito, uusi selitys ja hoito.
 3. Kirjoita, mikä tieteen tai tekniikan kehitys teki muutoksen mahdolliseksi.
 4. Kirjoita, kenen tehtäväksi sairauden hoito kummassakin vaiheessa asettuu.
-5. Kirjoita lopuksi kaksi lausetta monisyisestä mallista: yksi asia, jonka se selittää hyvin, ja yksi tilanne, jossa se voi johtaa sairastuneen syyllistämiseen.
+5. Kirjoita lopuksi kaksi lausetta monisyisestä mallista: yksi asia, jonka se selittää hyvin, ja yksi etu ja yksi rajoitus, kun malli korostaa elintapoja.
 
 ## Pohdinta
 
@@ -171,7 +171,7 @@ Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyyp
 > - **D. Terveydenhoitaja nykyään:** "Sydänsairauksiin vaikuttavat perimä, asuinalue, toimeentulo ja elintavat yhdessä. Tarvitaan sekä yksilön että kunnan toimia."
 > - **E. Kaupunginlääkäri:** "Kuume nousee suolta ja löyhkäävistä kujista. Suo on kuivattava ja jätteet vietävä pois."
 
-Tee taulukko, jossa on sarakkeet *Järjestys*, *Kuvaus (A–E)*, *Selitysmalli*, *Käsitys sairauden syystä* ja *Hoito tai ehkäisy*. Järjestä kuvaukset aikajärjestykseen sen mukaan, milloin kuvauksen selitysmalli oli vallitseva, ja täydennä rivit omin sanoin. Vastaa taulukkona.
+Tee taulukko, jossa on sarakkeet *Järjestys*, *Kuvaus (A–E)*, *Selitysmalli*, *Käsitys sairauden syystä* ja *Hoito tai ehkäisy*. Järjestä kuvaukset aikajärjestykseen sen mukaan, milloin kuvauksen selitysmallin aika alkoi (järjestys on sivuston oma, koska mallit elivät osin päällekkäin), ja täydennä rivit omin sanoin. Vastaa taulukkona.
 
 ### K2: Terveyskäsitysten vertailu, 35 min (20 p)
 
@@ -222,16 +222,15 @@ c) Arvioi aineiston 2 kampanjaa monisyisen selitysmallin ja yhden terveyskäsity
 | 4 | B | mikrobiteoria | Tietty mikrobi, kuten bakteeri, aiheuttaa tietyn taudin. | Hygienia ja aseptiikka: kädet pestään, välineet steriloidaan, taudinaiheuttajan leviäminen estetään. |
 | 5 | D | monisyinen malli eli riskitekijämalli | Sairaus syntyy monen tekijän, kuten perimän, ympäristön, toimeentulon ja elintapojen, yhteisvaikutuksena. | Ehkäisy sekä yksilön valinnoilla että yhteiskunnan toimilla, esimerkiksi asuinalueen ja palvelujen kautta. |
 
-Huomio: yliluonnollisia selityksiä käytettiin kansanlääkinnässä vielä humoraaliopin rinnalla. Järjestys kertoo, milloin kukin malli oli vallitseva.
+Huomio: yliluonnollisia selityksiä käytettiin kansanlääkinnässä vielä humoraaliopin rinnalla. Järjestys on sivuston oma ja perustuu siihen, milloin mallin aika alkoi; mallit elivät osin päällekkäin.
 
 **Pisteytys**
 
 *Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
 
-- Jokainen viidestä rivistä 4 p: selitysmalli nimetty oikein 1 p; käsitys syystä 1 p; hoito tai ehkäisy, joka seuraa syystä, 1 p; rivi oikealla paikalla järjestyksessä 1 p. Yhteensä 5 × 4 p = 20 p.
+- Jokainen viidestä rivistä 4 p: selitysmalli nimetty oikein 1 p; käsitys syystä 1 p; hoito tai ehkäisy, joka seuraa syystä, 1 p; rivi oikealla paikalla järjestyksessä 1 p. Lähteet ajoittavat toisistaan erilleen vain humoraaliopin, miasmateorian ja mikrobiteorian, joten järjestyspiste annetaan niiden keskinäisestä järjestyksestä (humoraalioppi ennen miasmateoriaa ja miasmateoria ennen mikrobiteoriaa). Yliluonnollinen selitys kelpaa ensimmäiseksi tai toiseksi, kun vastaus perustelee valinnan, ja nykyinen malli kelpaa viimeiseksi. Yhteensä 5 × 4 p = 20 p.
 - Mallin nimeksi kelpaavat myös synonyymit (*demonologinen selitysmalli*, *humoraalipatologia*, *bakteeriteoria*, *monitekijäinen malli*).
 - Jos vastaus ei ole taulukko, rivit pisteytetään samoin, mutta järjestyksen pisteet annetaan vain, jos järjestys on yksiselitteinen.
-- Jos vastaus ei viittaa aineistoon (kuvauksiin A–E), kokonaispisteistä vähennetään 5 p.
 
 *Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (mallin nimi on täsmällinen), soveltaminen (kuvauksen vihje, kuten *mikroskooppi* tai *löyhkä*, yhdistetään malliin), analysointi (hoito johdetaan syykäsityksestä), arviointi ja argumentointi (taulukko on selkeä, ja rinnakkaisuus huomataan).
 
@@ -265,7 +264,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 8–10 p: näkökulma perustellaan muistion sanoilla; ehdotuksen 3 voimavarat nimetään; vertailu punnitsee, kenet kukin ehdotus tavoittaa; yhdistelmä on perusteltu.
 - 4–7 p: näkökulmat on nimetty oikein, mutta vertailu on luetteleva tai yleinen.
 - 0–3 p: vastaus kuvaa ehdotukset uudelleen nimeämättä näkökulmia tai vertailematta niitä.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 8 p, b 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -273,7 +271,7 @@ Tehtävänannon osapisteet (a 8 p, b 12 p) sisältävät sekä sisällön että 
 
 **Tyypilliset virheet**
 
-- Salutogeeninen näkökulma sekoitetaan biopsykososiaaliseen, koska molemmat ovat laajoja; erottava piirre on, että salutogeneesi kysyy terveyden lähteitä eikä sairauden syitä.
+- Salutogeeninen näkökulma sekoitetaan biopsykososiaaliseen, koska molemmat ovat laajoja; erottava piirre on sivuston tulkinnan mukaan se, että salutogeneesi kysyy terveyden lähteitä eikä sairauden syitä.
 - Biolääketieteellinen näkökulma esitetään vääränä, vaikka se on monessa tilanteessa välttämätön.
 - Merkkirajoitus ylittyy, koska a-kohdassa kerrataan ehdotukset kokonaan.
 
@@ -291,11 +289,11 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 *Yhteiskunta:* päätöksen teki valtuusto, jossa kustannus ja vanha käsitys painoivat. Uusi tieto haastoi lääkärien aiemmat käsitykset, eikä ammattikunta luopunut niistä heti. Viive näkyy siinä, että tieto tuli 1870-luvulla mutta vesijohto vasta 1890-luvulla. Hitaus kohdistui epätasa-arvoisesti: keskusta sai suojan ennen laitakaupunkia.
 
-**c)** Monisyisen mallin mukaan pitkäaikaissairauksiin vaikuttavat yhdessä perimä, elinympäristö, toimeentulo, sosiaaliset suhteet ja elintavat. Kampanja huomioi elintavat ja ihmisen oman toiminnan, mikä on yksi mallin osa. Se jättää huomiotta muut osat: perimää ei voi valita, ja asuinalue, tulot ja palvelut rajaavat valintoja. Iskulause *Terveys on sinun käsissäsi* siirtää vastuun yksilölle. Se voi syyllistää sairastuneita, vaikka ihminen voi sairastua ilman yhtään riskitekijää. Kampanja toistaa siis 1800-luvun virheen toisin päin: silloin keskustan toimet unohtivat laitakaupungin, nyt yksilöön kohdistuva viesti unohtaa olot.
+**c)** Terveyskirjaston mukaan sairaudet syntyvät usein monen tekijän yhteisvaikutuksesta; tekijöitä ovat esimerkiksi perimä, elinympäristö, toimeentulo ja elintavat (sivuston esimerkki). Kampanja huomioi elintavat ja ihmisen oman toiminnan, mikä on yksi mallin osa. Se jättää huomiotta muut osat: perimää ei voi valita, ja asuinalue, tulot ja palvelut rajaavat valintoja. Iskulause *Terveys on sinun käsissäsi* painottaa yksilön valintoja. Painotus on perusteltu, koska valinnoilla voi vaikuttaa riskeihin, mutta se jättää taustalle olot. Riskitekijä ei myöskään määrää sairastumista: ihminen voi sairastua ilman yhtään riskitekijää. Johtopäätös: kampanja on hyödyllinen, jos sen rinnalla parannetaan oloja; toinen perusteltu näkemys voisi pitää yksilön valintaa tärkeimpänä, kunhan se nimeää valintojen rajat.
 
 Salutogeenisesta näkökulmasta kampanja ei kysy, mikä auttaa asukkaita pysymään terveinä. Se ei myöskään vahvista voimavaroja: käsky "valitse terveellisesti" ei auta, jos vaihtoehtoja ei ole.
 
-*Parannusehdotus:* kaupunki tekee terveelliset valinnat helpoiksi kaikilla asuinalueilla, esimerkiksi turvallisilla kävelyreiteillä, edullisilla liikuntapaikoilla ja lähipalveluilla, ja suunnittelee ne yhdessä asukkaiden kanssa. Toimi vaikuttaa olojen kautta koko väestöön. Asukkaiden osallisuus vahvistaa hallittavuutta ja merkityksellisyyttä. Se ei myöskään syyllistä ketään.
+*Parannusehdotus (yksi mahdollinen):* kaupunki tekee terveelliset valinnat helpoiksi kaikilla asuinalueilla, esimerkiksi turvallisilla kävelyreiteillä, edullisilla liikuntapaikoilla ja lähipalveluilla, ja suunnittelee ne yhdessä asukkaiden kanssa. Toimi vaikuttaa olojen kautta koko väestöön. Asukkaiden osallisuus vahvistaa hallittavuutta ja merkityksellisyyttä. Se ei jätä vastuuta pelkästään yksilölle.
 
 **Pisteytys**
 
@@ -303,7 +301,7 @@ Salutogeenisesta näkökulmasta kampanja ei kysy, mikä auttaa asukkaita pysymä
 
 - a) Käsityksen muutos kuvattu taulukon vaiheiden mukaan (paha ilma, jäte, vesi ja mikrobi) 2 p; käsityksen ja toimen yhteys selitetty vähintään kahdessa vaiheessa 2 p. Yhteensä 4 p.
 - b) Selitys sille, miksi väärän teorian toimi auttoi (jäte ja likavesi pois juomavedestä) 2 p; tieteen ja teknologian näkökulma 1 p; yhteiskunnan näkökulma (kustannus, päätöksenteko, vanhat käsitykset) 1 p; laitakaupungin ero selitetty 1 p. Yhteensä 5 p.
-- c) Monisyinen malli nimetty ja selitetty 1 p; mitä kampanja huomioi 1 p; mitä se jättää huomiotta ja vastuun siirtyminen yksilölle 2 p; terveyskäsityksen näkökulma sovellettu 1 p; perusteltu parannusehdotus 1 p. Yhteensä 6 p.
+- c) Monisyinen malli nimetty ja selitetty 1 p; mitä kampanja korostaa 1 p; mitä se jättää huomiotta 2 p; terveyskäsityksen näkökulma sovellettu 1 p; perusteltu johtopäätös ja parannusehdotus 1 p. Pisteytetään päättelyn laatu, ei johtopäätöstä: yksilön valintaa painottava näkemys hyväksytään, kun se nimeää myös rajat. Yhteensä 6 p.
 
 *Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
@@ -313,15 +311,13 @@ Salutogeenisesta näkökulmasta kampanja ei kysy, mikä auttaa asukkaita pysymä
 
 Tehtävänannon osapisteet (a 7 p, b 11 p, c 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
-
 **Yhteensä:** 30 p
 
 **Tyypilliset virheet**
 
 - b-kohdassa todetaan vain, että teoria oli väärä, eikä selitetä, miksi toimi silti auttoi.
 - Yhteiskunnan näkökulma puuttuu, vaikka taulukossa on valtuuston kiista ja laitakaupunki.
-- c-kohdassa kampanja tyrmätään kokonaan; elintavat ovat osa monisyistä mallia, puute on vain niiden yksinoikeus.
+- c-kohdassa kampanja tyrmätään tai hyväksytään ilman punnintaa; elintavat ovat osa monisyistä mallia, puute on vain niiden yksinoikeus.
 - Parannusehdotus on yleinen ("lisää tietoa") eikä kerro, kuka toimii ja miksi se vaikuttaa.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
@@ -378,7 +374,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita selitysmallien taulukko taululle tai jaa se paperilla. Tehtävät toimivat ilman tulosteita. Varaa nimettömiä lappuja ja selvitä koulun opiskeluterveydenhuollon yhteystiedot (esimerkki).
+- Kirjoita selitysmallien taulukko taululle tai jaa se paperilla. Tehtävät toimivat ilman tulosteita. Varaa nimettömiä lappuja.
 - Lue halutessasi Terveyskirjaston artikkeli *Mitä terveys on?* ja OPH:n terveystiedon tukimateriaali (ks. Lähteet). Ne ovat link-out-aineistoa: linkitä, älä kopioi. Wikipedian artikkelit ovat CC BY-SA -aineistoa, joten nekin vain linkitetään.
 
 ### Avoimet kysymykset
@@ -392,14 +388,14 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Pelisäännöt ja oletusten tarkistus
 
 - Historian ihmisiä ei pilkata: he toimivat aikansa parhaan tiedon mukaan. Arvioidaan malleja, ei ihmisiä.
-- Kansanparannusta, uskontoja tai perheiden perinteitä ei arvioida eikä niistä kysytä. Jos opiskelija kysyy omasta terveydestään, ohjaa opiskeluterveydenhuoltoon.
+- Kansanparannusta, uskontoja tai perheiden perinteitä ei arvioida eikä niistä kysytä.
 - **Oletusten tarkistus ennen tuntia:** Esitänkö sairastumisen omana syynä? Liitänkö yliluonnolliset selitykset tiettyyn kansaan tai uskontoon? Esitänkö nykytiedon lopullisena? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
 
 **Helpompi polku:** Tee Tehtävässä 1 aikajana kolmella mallilla (humoraalioppi, miasmateoria, mikrobiteoria) ja lisää muut myöhemmin. Käytä apulausetta: *Mallin mukaan sairaus johtuu …, joten sitä hoidetaan …*. Koetehtävistä K1:n kuvaukset A, B ja E riittävät.
 
-**Syvempi polku:** Lue [miasma-artikkeli](https://fi.wikipedia.org/wiki/Miasmateoria) ja [mikrobiteoria-artikkeli](https://fi.wikipedia.org/wiki/Mikrobiteoria) ja kirjoita, miksi John Snow'n havainto ei heti kumonnut miasmateoriaa. Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn viiden kriteerin avulla. Vertaa salutogeenista näkökulmaa TE1:n voimavaran käsitteeseen (linkki TE1-aiheeseen on Opiskelijalle-osiossa).
+**Syvempi polku:** Lue [miasma-artikkeli](https://fi.wikipedia.org/wiki/Miasmateoria) ja [mikrobiteoria-artikkeli](https://fi.wikipedia.org/wiki/Mikrobiteoria) ja kirjoita, miksi John Snow'n havainnosta kului vuosia ennen kuin mikrobit todistettiin taudin aiheuttajiksi. Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn viiden kriteerin avulla. Vertaa salutogeenista näkökulmaa TE1:n voimavaran käsitteeseen (linkki TE1-aiheeseen on Opiskelijalle-osiossa).
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Aikajanaan voi kirjoittaa omalla kielellä; koetehtävissä harjoitellaan suomenkielisiä käsitteitä.
 
@@ -415,18 +411,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-**Jos olet välittömässä vaarassa, soita hätänumeroon 112.**
-
-Tällä sivulla opiskellaan terveyskäsitysten ja sairauksien selitysten historiaa yleisesti. Sivu ei neuvo, miten omia oireita hoidetaan. Jos sinulla on omia oireita tai huolia terveydestäsi, ota yhteyttä opiskeluterveydenhuoltoon eli terveydenhoitajaan tai lääkäriin. Avun pyytäminen on tavallista ja järkevää.
-
-**Apua saat myös:**
-
-- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): tietoa ja omahoito-ohjelmia nuorille.
-- [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille. Ikäraja ja aukioloajat ovat sivulla.
 
 ## Lähteet
 

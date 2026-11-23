@@ -19,9 +19,6 @@ official_links:
   - {title: "Constitution of the World Health Organization", url: "https://www.who.int/about/governance/constitution", publisher: "World Health Organization", read: 2026-11-21}
   - {title: "Nuorten hyvinvointi (THL)", url: "https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
-  - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi", read: 2026-11-21}
-  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
-  - {title: "MIELI Kriisipuhelin", url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
   - {title: "Hyvinvointi ja opiskelukyky (opinto-ohjaus, aihe 04)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/04-hyvinvointi/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
   - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
   - {title: "TE1 Terveys voimavarana (Moodle-opintojakson pohja)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", read: 2026-11-21}
@@ -30,7 +27,8 @@ official_links:
   - {title: "Ottawa Charter, asiakirjan teksti (WHO 1986, arkistoitu)", url: "https://archive.org/download/WHOHPRHEP95.1/WHO_HPR_HEP_95.1_text.pdf", publisher: "World Health Organization (Internet Archive)", read: 2026-11-21}
   - {title: "Health as Complete Well-Being: The WHO Definition and Beyond (Schramme 2023)", url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10849326/", publisher: "Public Health Ethics (PubMed Central)", read: 2026-11-21}
   - {title: "Hyvinvoinnin ja terveyden edistäminen ehkäisee sairauksia ja vähentää terveyseroja (THL-blogi)", url: "https://blogi.thl.fi/hyvinvoinnin-ja-terveyden-edistaminen-ehkaisee-sairauksia-ja-vahentaa-terveyseroja-hallitusohjelman-toimeenpano-ratkaisee-tavoitteiden-toteutumisen/", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
-yearly_facts: [kouluterveyskysely, opiskeluterveydenhuolto, kriisipuhelimet]
+  - {title: "Ylioppilastutkinnon hyvän vastauksen piirteet, terveystieto (syksy 2024)", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
+yearly_facts: [kouluterveyskysely]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - title: "Terveystiedon LOPS 2019 -tukimateriaali"
@@ -73,8 +71,7 @@ sibling_links:
   - title: "Itsetuntemus, vahvuudet ja arvot (opinto-ohjaus, aihe 05)"
     url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/"
     read: 2026-11-21
-school_adapts:
-  - "Koulun opiskeluhuollon ja opiskeluterveydenhuollon yhteystiedot ja ajanvaraus (esimerkki)"
+school_adapts: []
 accessibility:
   - "Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä."
   - "Tehtävissä analysoidaan kuvitteellisia henkilöitä; omasta terveydestä ei tarvitse kertoa kenellekään."
@@ -87,20 +84,20 @@ last_reviewed: 2026-11-21
 **Tämän aiheen jälkeen**
 
 1. Osaan kuvata terveyden moniulotteisena kokonaisuutena, käyttää käsitteitä terveys, voimavara, terveyden taustatekijä ja terveyden edistäminen täsmällisesti ja arvioida WHO:n vuoden 1948 määritelmää kriittisesti.
-2. Osaan nimetä ihmisen keskeisiä voimavaroja ja jäsentää ne sisäisiin ja ulkoisiin.
+2. Osaan nimetä ihmisen keskeisiä voimavaroja ja jäsentää ne perustellusti, esimerkiksi sisäisiin ja ulkoisiin.
 3. Osaan luokitella terveyden taustatekijät yksilöllisiin, yhteisöllisiin, yhteiskunnallisiin ja globaaleihin tekijöihin.
 4. Osaan selittää ketjuna, miten jokin taustatekijä vaikuttaa terveyteen.
 5. Osaan erottaa terveyden edistämisen sairauksien ehkäisystä ja tehdä perustellun ehdotuksen siitä, miten yhteisö tai yhteiskunta voi edistää terveyttä Ottawan asiakirjan viiden toiminta-alueen avulla.
 
 ### Mitä terveys on?
 
-Terveys on enemmän kuin se, ettei ole sairautta. Siihen kuuluvat fyysinen, psyykkinen ja sosiaalinen puoli, ja ne vaikuttavat toisiinsa. WHO kuvasi terveyden jo [perustamisasiakirjassaan](https://www.who.int/about/governance/constitution) täydellisenä hyvinvoinnin tilana. Määritelmää on arvosteltu kolmesta syystä: täydellistä tilaa tuskin kukaan saavuttaa, se kuvaa pysyvää tilaa vaikka terveys vaihtelee, ja se voi medikalisoida tavallisia vaikeuksia. Puolustajien mukaan *täydellinen* voi tarkoittaa myös *kattavaa* ([Schramme 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10849326/)).
+Terveys on enemmän kuin se, ettei ole sairautta. Siihen kuuluvat fyysinen, psyykkinen ja sosiaalinen puoli, ja ne vaikuttavat toisiinsa. WHO kuvasi terveyden jo [perustamisasiakirjassaan](https://www.who.int/about/governance/constitution) täydellisenä hyvinvoinnin tilana. Määritelmää on kritisoitu: täydellisyyden vaatimus kuulostaa utopistiselta, ja määritelmä voi medikalisoida tavallisia vaikeuksia. Schrammen mukaan määritelmä vain näyttää kuvaavan pysyvää tilaa, ja *täydellinen* voi tarkoittaa myös *kattavaa* ([Schramme 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10849326/)).
 
-Siksi terveys nähdään usein **voimavarana**: se auttaa elämään omannäköistä elämää. Pitkäaikaissairas voi kokea itsensä terveeksi ja toimia hyvin.
+Ottawan asiakirjassa terveys nähdään **voimavarana** jokapäiväiseen elämään eikä elämän päämääränä ([Ottawan asiakirjan teksti](https://archive.org/download/WHOHPRHEP95.1/WHO_HPR_HEP_95.1_text.pdf)).
 
 ### Voimavarat
 
-Voimavara auttaa jaksamaan, toimimaan ja selviytymään vaikeuksista. **Sisäisiä voimavaroja** ovat esimerkiksi tiedot, taidot, arvot, itsetuntemus ja tunteiden säätely. **Ulkoisia voimavaroja** ovat esimerkiksi ihmissuhteet, turvallinen ympäristö, koulutus ja palvelut. Voimavaroja voi kasvattaa, ja ne voivat myös hetkeksi heiketä.
+Voimavara auttaa jaksamaan, toimimaan ja selviytymään vaikeuksista. Sivuston oma jäsennys: **sisäisiä voimavaroja** ovat esimerkiksi tiedot, taidot, arvot, itsetuntemus ja tunteiden säätely, **ulkoisia** ihmissuhteet, turvallinen ympäristö, koulutus ja palvelut. Voimavaroja voi kasvattaa, ja ne voivat myös hetkeksi heiketä.
 
 ### Terveyden taustatekijät
 
@@ -111,17 +108,17 @@ Terveyden taustatekijät eli terveyttä määrittävät tekijät vaikuttavat ter
 - **yhteiskunnalliset tekijät:** koulutus, toimeentulo, asuminen, lait ja palvelut
 - **globaalit tekijät:** ilmasto, ympäristö, maailmantalous, kriisit ja tartuntataudit
 
-Tasoja kuvataan sisäkkäisinä kehinä (Dahlgrenin ja Whiteheadin kehämalli, kaavio osion lopussa): keskellä yksilö, uloimpana yhteiskunnan ja ympäristön olot. Sama tekijä voi suojata tai kuormittaa. Ystävät voivat antaa tukea tai luoda painetta.
+Sivuston oma kehäkaavio (osion lopussa) perustuu opetussuunnitelman neljään tasoon (TE.yt1) ja on muokattu Dahlgrenin ja Whiteheadin (1991) mallista, kuten [OPH:n kuvio](https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali). Esimerkkien sijoittelu tasoille on sivuston oma jäsennys. Tekijä voi kuulua kahdelle tasolle, ja sama tekijä voi suojata tai kuormittaa.
 
-Monet tekijät eivät ole ihmisen valittavissa. Elintavat ovat valintoja, mutta valinnat syntyvät oloissa: mitä lähikaupassa myydään, paljonko on aikaa ja rahaa ja millaista tukea saa. Siksi ihmisryhmien välillä on **terveyseroja** eli terveyden eriarvoisuutta. Ajankohtaista tietoa löydät [THL:n Nuorten hyvinvointi -sivulta](https://thl.fi/data-ja-tilastot/lapset-ja-nuoret/nuorten-hyvinvointi).
+Monet tekijät eivät ole ihmisen valittavissa. Elintavat ovat valintoja, mutta valinnat syntyvät oloissa: mitä lähikaupassa myydään, paljonko on aikaa ja rahaa ja millaista tukea saa. Ihmisryhmien välillä on myös **terveyseroja** eli terveyden eriarvoisuutta.
 
 ### Miten tekijät vaikuttavat?
 
-**Vaikutusmekanismi** kertoo, *miten* tekijä vaikuttaa terveyteen. Usein se on ketju: pitkä koulumatka vähentää vapaa-aikaa, vähäinen vapaa-aika vähentää lepoa ja harrastuksia, ja ne vaikuttavat jaksamiseen. Koevastauksessa ei riitä luetella tekijöitä. Selitä, mitä niiden välissä tapahtuu. Tekijät vaikuttavat myös toisiinsa: toimeentulo asumiseen ja asuminen ihmissuhteisiin.
+**Vaikutusmekanismi** kertoo, *miten* tekijä vaikuttaa terveyteen. Usein se on ketju: pitkä koulumatka vähentää vapaa-aikaa, vähäinen vapaa-aika vähentää lepoa ja harrastuksia, ja ne vaikuttavat jaksamiseen. Ylioppilaskokeen [arvosteluohje](https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html) palkitsee perustelujen kattavuutta. Sivuston oma vinkki: selitä, mitä tekijöiden välissä tapahtuu.
 
 ### Terveyden edistäminen ja ehkäisy
 
-Terveyden edistäminen vahvistaa voimavaroja ja terveyden edellytyksiä ennen ongelmia. Sitä tekevät yksilöt, koulut, kunnat, hyvinvointialueet ja valtio, esimerkiksi maksuton kouluruoka tai turvallinen pyörätie. **Sairauksien ehkäisy** kohdistuu tiettyyn sairauteen tai riskiin, kuten rokotus. Toimet menevät osin päällekkäin, sillä edistäminen ehkäisee myös sairauksia ([THL-blogi](https://blogi.thl.fi/hyvinvoinnin-ja-terveyden-edistaminen-ehkaisee-sairauksia-ja-vahentaa-terveyseroja-hallitusohjelman-toimeenpano-ratkaisee-tavoitteiden-toteutumisen/)). Koevastauksessa nimeä, kumpaa ehdotus tekee. Hyvä ehdotus kertoo myös, kuka toimii, mitä tehdään ja miksi se vaikuttaa.
+Ottawan asiakirjan mukaan **terveyden edistäminen** on prosessi, jonka avulla ihmiset voivat lisätä terveytensä hallintaa ja parantaa terveyttään ([teksti](https://archive.org/download/WHOHPRHEP95.1/WHO_HPR_HEP_95.1_text.pdf)). Sitä tekevät yksilöt, koulut, kunnat, hyvinvointialueet ja valtio, esimerkiksi maksuton kouluruoka tai turvallinen pyörätie. Sivuston oma jäsennys: **sairauksien ehkäisy** kohdistuu tiettyyn sairauteen tai riskiin, kuten rokotus. Rajat menevät osin päällekkäin: THL:n blogin mukaan edistäminen ehkäisee myös sairauksia ([THL-blogi](https://blogi.thl.fi/hyvinvoinnin-ja-terveyden-edistaminen-ehkaisee-sairauksia-ja-vahentaa-terveyseroja-hallitusohjelman-toimeenpano-ratkaisee-tavoitteiden-toteutumisen/)).
 
 ### Ottawan asiakirjan viisi toiminta-aluetta
 
@@ -133,7 +130,7 @@ Ottawan asiakirjassa (WHO 1986) on viisi toiminta-aluetta (kaavio osion lopussa)
 - **Henkilökohtaiset taidot:** ihminen osaa hakea tietoa ja toimia terveytensä hyväksi.
 - **Terveyspalvelujen suuntaaminen uudelleen:** palvelut painottavat edistämistä ja ehkäisyä.
 
-Taso kertoo, *missä* tekijä on. Toiminta-alue kertoo, *mitä* tehdään.
+Sivuston oma vinkki: taso kertoo, *missä* tekijä on, toiminta-alue *mitä* tehdään.
 
 ## Tehtävät
 
@@ -149,7 +146,7 @@ Taso kertoo, *missä* tekijä on. Toiminta-alue kertoo, *mitä* tehdään.
 1. Piirrä paperille neljä sisäkkäistä kehää ja nimeä ne sisältä ulospäin: yksilölliset, yhteisölliset, yhteiskunnalliset ja globaalit tekijät.
 2. Sijoita jokainen tapauksen taustatekijä sille kehälle, jolle se mielestäsi kuuluu.
 3. Merkitse tekijän viereen plus, jos se suojaa Veeran terveyttä, ja miinus, jos se kuormittaa. Joskus molemmat sopivat.
-4. Ympyröi Veeran voimavarat ja kirjoita viereen S, jos voimavara on sisäinen, tai U, jos se on ulkoinen.
+4. Ympyröi Veeran voimavarat ja kirjoita viereen S, jos voimavara on sivuston jäsennyksen mukaan sisäinen, tai U, jos se on ulkoinen. Voit perustella myös oman lajittelusi.
 5. Kirjoita kehien alle yksi lause siitä, mikä tekijä on Veeran itse valittavissa ja mikä ei.
 
 ### Tehtävä 2: Selitä vaikutusmekanismi ketjuna
@@ -189,7 +186,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
 
 1. Osaan kuvata terveyden moniulotteisena kokonaisuutena, käyttää käsitteitä terveys, voimavara, terveyden taustatekijä ja terveyden edistäminen täsmällisesti ja arvioida WHO:n vuoden 1948 määritelmää kriittisesti.
-2. Osaan nimetä ihmisen keskeisiä voimavaroja ja jäsentää ne sisäisiin ja ulkoisiin.
+2. Osaan nimetä ihmisen keskeisiä voimavaroja ja jäsentää ne perustellusti, esimerkiksi sisäisiin ja ulkoisiin.
 3. Osaan luokitella terveyden taustatekijät yksilöllisiin, yhteisöllisiin, yhteiskunnallisiin ja globaaleihin tekijöihin.
 4. Osaan selittää ketjuna, miten jokin taustatekijä vaikuttaa terveyteen.
 5. Osaan erottaa terveyden edistämisen sairauksien ehkäisystä ja tehdä perustellun ehdotuksen siitä, miten yhteisö tai yhteiskunta voi edistää terveyttä Ottawan asiakirjan viiden toiminta-alueen avulla.
@@ -255,11 +252,11 @@ c) Luokittele ehdotuksesi terveyden edistämiseksi tai sairauksien ehkäisyksi j
 
 **Malliksi kelpaava vastaus**
 
-- **Virhe 1 (lause 1).** Terveys ei ole vain sairauden puuttumista. Terveys on moniulotteinen: siihen kuuluvat fyysinen, psyykkinen ja sosiaalinen puoli. *Korjaus:* Terveys on voimavara, jonka avulla ihminen voi toimia ja elää omannäköistä elämää. Myös pitkäaikaissairas voi kokea itsensä terveeksi.
+- **Virhe 1 (lause 1).** Terveys ei ole vain sairauden puuttumista. Terveys on moniulotteinen: siihen kuuluvat fyysinen, psyykkinen ja sosiaalinen puoli. *Korjaus:* Ottawan asiakirjassa terveys on voimavara jokapäiväiseen elämään.
 - **Virhe 2 (lause 3).** Terveyden taustatekijöitä on monella tasolla, ei vain perimä ja elintavat. *Korjaus:* Terveyteen vaikuttavat yksilölliset tekijät (esim. perimä, elintavat, taidot), yhteisölliset tekijät (perhe, ystävät, koulu), yhteiskunnalliset tekijät (koulutus, toimeentulo, palvelut, lait) ja globaalit tekijät (ilmasto, maailmantalous, kriisit).
-- **Virhe 3 (lause 5).** Voimavarat eivät ole synnynnäisiä ja pysyviä. *Korjaus:* Voimavarat voivat olla sisäisiä (taidot, tiedot, itsetuntemus) tai ulkoisia (ihmissuhteet, palvelut, ympäristö). Niitä voi vahvistaa, ja ne vaihtelevat elämäntilanteen mukaan.
+- **Virhe 3 (lause 5).** Voimavarat eivät ole synnynnäisiä ja pysyviä. *Korjaus:* Voimavarat voivat olla esimerkiksi sisäisiä (taidot, tiedot, itsetuntemus) tai ulkoisia (ihmissuhteet, palvelut, ympäristö), mikä on sivuston oma jäsennys. Niitä voi vahvistaa, ja ne vaihtelevat elämäntilanteen mukaan.
 - **Virhe 4 (lause 6).** Terveyserot eivät johdu vain yksilön valinnoista. *Korjaus:* Sosioekonominen asema, kuten koulutus, tulot ja asuminen, vaikuttaa elinoloihin, altistumiseen kuormittaville tekijöille ja mahdollisuuksiin käyttää palveluja. Valinnat syntyvät näissä oloissa. Myös heikko terveys voi heikentää asemaa.
-- **Virhe 5 (lause 8).** Terveyden edistäminen ei ala vasta sairastuttua, eikä se ole vain terveydenhuollon tehtävä. *Korjaus:* Terveyden edistäminen vahvistaa voimavaroja ja terveyden edellytyksiä ennen ongelmia. Sitä tekevät myös koulut, kunnat, järjestöt, yhteisöt ja lainsäätäjä, esimerkiksi kouluruoalla ja turvallisilla liikkumisreiteillä.
+- **Virhe 5 (lause 8).** Terveyden edistäminen ei ala vasta sairastuttua, eikä se ole vain terveydenhuollon tehtävä. *Korjaus:* Ottawan asiakirjan mukaan terveyden edistäminen on prosessi, jonka avulla ihmiset voivat lisätä terveytensä hallintaa ja parantaa terveyttään. Sitä tekevät myös koulut, kunnat, järjestöt, yhteisöt ja lainsäätäjä, esimerkiksi kouluruoalla ja turvallisilla liikkumisreiteillä.
 
 Lauseet 2, 4 ja 7 ovat oikein.
 
@@ -269,10 +266,9 @@ Lauseet 2, 4 ja 7 ovat oikein.
 
 - Jokainen viidestä virheestä 4 p: virheen tunnistaminen ja selitys, miksi se on väärin, 2 p; täsmällinen korjaus käsitteineen 2 p. Yhteensä 5 × 4 p = 20 p.
 - Oikean lauseen merkitseminen virheeksi: −1 p kerrallaan (ei alle nollan tehtävästä).
+- Voimavarojen jako sisäisiin ja ulkoisiin on sivuston oma jäsennys, ja mikä tahansa perusteltu lajittelu kelpaa.
 
 *Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (terveys, voimavara, taustatekijä, terveyden edistäminen), soveltaminen (esimerkit), analysointi (miksi väite on liian kapea), arviointi ja argumentointi (selkeä rakenne virhe kerrallaan).
-
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 20 p
 
@@ -291,16 +287,16 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **a)** *Vahvuus 1:* määritelmä näkee terveyden laajana. Siihen kuuluvat fyysinen, psyykkinen ja sosiaalinen puoli, joten terveys ei ole vain sairauden puuttumista. *Vahvuus 2:* se ohjaa katsomaan oloja ja ihmissuhteita eikä vain sairaanhoitoa, joten se sopii terveyden edistämisen pohjaksi.
 
-**b)** *Heikkous 1, tavoittamaton ihanne:* jos hyvinvoinnin pitää olla täydellistä, Aaro ei olisi koskaan terve, koska sairaus ei poistu. Hän kokee kuitenkin elämänsä hyväksi ja toimii hyvin. *Heikkous 2, staattisuus:* määritelmä kuvaa tilaa eikä sitä, että terveys vaihtelee ja ihminen sopeutuu. Aaron viikot ovat parempia ja huonompia. Lisäksi vaatimus täydellisyydestä voi medikalisoida tavallisia elämän vaikeuksia.
+**b)** *Heikkous 1, tavoittamaton ihanne:* jos hyvinvoinnin pitää olla täydellistä, Aaro ei olisi koskaan terve, koska sairaus ei poistu. Hän kokee kuitenkin elämänsä hyväksi ja toimii hyvin. *Heikkous 2, staattisuus:* sana *tila* voi vaikuttaa siltä, että määritelmä ei huomioi vaihtelua ja sopeutumista. Aaron viikot ovat parempia ja huonompia. Schrammen mukaan vaikutelma on kuitenkin vain näennäinen, joten väite vaatii perustelun. Lisäksi vaatimus täydellisyydestä voi medikalisoida tavallisia elämän vaikeuksia.
 
-**c)** *Vaihtoehto:* terveys voimavarana, eli kykynä toimia ja elää omannäköistä elämää sairaudesta huolimatta. Siinä Aaro on terve. Määritelmää voi puolustaa: jos *täydellinen* tarkoittaa kattavaa, kritiikki lievenee ([Schramme 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10849326/)). Koulun terveyden edistämiseen voimavaranäkökulma sopii paremmin, koska se tukee myös pitkäaikaissairaita ja ohjaa vahvistamaan voimavaroja. WHO:n laaja määritelmä muistuttaa silti, että kolme puolta kuuluvat yhteen.
+**c)** *Vaihtoehto:* terveys voimavarana jokapäiväiseen elämään (Ottawan asiakirja), eli kykynä toimia sairaudesta huolimatta. Siinä Aaro on terve. Määritelmää voi puolustaa: jos *täydellinen* tarkoittaa kattavaa, kritiikki lievenee ([Schramme 2023](https://pmc.ncbi.nlm.nih.gov/articles/PMC10849326/)). Koulun terveyden edistämiseen voimavaranäkökulma sopii paremmin, koska se tukee myös pitkäaikaissairaita ja ohjaa vahvistamaan voimavaroja. WHO:n laaja määritelmä muistuttaa silti, että kolme puolta kuuluvat yhteen.
 
 **Pisteytys**
 
 *Sisältö 10 p:*
 
 - a) Kaksi vahvuutta perusteluineen, 2 p kumpikin. Yhteensä 4 p.
-- b) Kaksi heikkoutta, joista kumpikin on selitetty Aaron tapauksella tai mekanismilla, 2 p kumpikin. Yhteensä 4 p.
+- b) Kaksi heikkoutta, joista kumpikin on selitetty Aaron tapauksella tai mekanismilla, 2 p kumpikin. Yhteensä 4 p. Staattisuus kelpaa heikkoudeksi vain perusteltuna.
 - c) Vaihtoehtoinen näkökulma nimetty ja selitetty 2 p.
 
 *Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
@@ -308,8 +304,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 8–10 p: vahvuuksia ja heikkouksia punnitaan, Aaron tapausta käytetään, kanta on perusteltu ja määritelmä sijoitetaan aikaansa ja käyttöön.
 - 4–7 p: vahvuudet ja heikkoudet on nimetty, mutta Aaroon viitataan vähän tai kanta jää perustelematta.
 - 0–3 p: vastaus toteaa vain, että määritelmä on hyvä tai huono, tai ei käytä aineistoa.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
-
 **Yhteensä:** 20 p
 
 **Tyypilliset virheet**
@@ -341,7 +335,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 - a) Jokainen viidestä toiminta-alueesta 2 p: ehdotuksessa on toimija ja keino 1 p; mekanismi terveyteen 1 p. Yhteensä 10 p.
 - b) Paras ehdotus valittu ja perusteltu aineiston tai kustannusten avulla 2 p.
-- c) Edistämisen ja ehkäisyn ero oikein ja luokittelu perusteltu 3 p.
+- c) Luokittelu edistämiseksi tai ehkäisyksi perusteltu 3 p. Jako on sivuston oma jäsennys ja rajat menevät päällekkäin, joten pisteet tulevat perustelun laadusta.
 
 *Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
@@ -351,8 +345,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 Tehtävänannon osapisteet (a 15 p, b 8 p, c 7 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
-
 **Yhteensä:** 30 p
 
 **Tyypilliset virheet**
@@ -360,7 +352,7 @@ Tehtävänannon osapisteet (a 15 p, b 8 p, c 7 p) sisältävät sekä sisällön
 - Toiminta-alueet nimetään, mutta ehdotus on sama jokaisessa kohdassa tai siitä puuttuu toimija.
 - Ehdotus on yksilön keino ("nuorten pitäisi liikkua") eikä yhteisön tai yhteiskunnan keino.
 - Mekanismi pysähtyy puoliväliin eikä etene terveyteen asti.
-- Edistäminen ja ehkäisy sekoitetaan, tai paras ehdotus valitaan perustelematta.
+- Luokittelu edistämiseksi tai ehkäisyksi jää perustelematta, tai paras ehdotus valitaan perustelematta.
 - Aineistoa ei käytetä, vaan vastaus kertoo yleisesti nuorten terveydestä.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
@@ -379,7 +371,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 4. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 5. **Seuraava askel:** aihe 02 *Elintapoja selittävät mallit*. Siellä tutkit, miksi ihmiset toimivat niin kuin toimivat.
 
-**Muistiinpanoihin:** Säilytä Tehtävän 1 kehät ja Tehtävän 2 ketju. Kirjoita niiden viereen käsitteet terveys, voimavara, taustatekijä, vaikutusmekanismi ja terveyden edistäminen omin sanoin. Lisää Ottawan viisi toiminta-aluetta ja WHO:n määritelmän kolme kritiikkiä. Ne ovat koko moduulin pohja.
+**Muistiinpanoihin:** Säilytä Tehtävän 1 kehät ja Tehtävän 2 ketju. Kirjoita niiden viereen käsitteet terveys, voimavara, taustatekijä, vaikutusmekanismi ja terveyden edistäminen omin sanoin. Lisää Ottawan viisi toiminta-aluetta ja WHO:n määritelmän kritiikki ja puolustus. Ne ovat koko moduulin pohja.
 
 ## Tuntisuunnitelma (75 min)
 
@@ -423,7 +415,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 - Piirrä tai tulosta neljän kehän pohja taululle. Opiskelijat pärjäävät tyhjällä paperilla.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
-- Selvitä koulun opiskeluhuollon ja opiskeluterveydenhuollon yhteystiedot (esimerkki), jotta voit kertoa ne tarvittaessa.
 - Tutustu halutessasi Opetushallituksen tukimateriaalin kehämalliin (ks. Lähteet).
 
 ### Avoimet kysymykset
@@ -437,10 +428,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Analysoidaan kuvitteellisia henkilöitä ja ilmiöitä. Älä pyydä opiskelijoita kertomaan omista elintavoistaan, terveydestään tai perheestään.
-- Jos opiskelija kertoo huolestaan, kuuntele, kiitä luottamuksesta ja ohjaa opiskeluterveydenhuoltoon tai opiskeluhuoltoon koulun käytännön mukaan.
-- Älä arvioi elintapoja hyviksi tai huonoiksi ihmisinä. Puhu tekijöistä ja oloista.
-- **Oletusten tarkistus ennen tuntia:** Oletanko, että kaikilla on kaksi vanhempaa, turvallinen koti tai varaa harrastuksiin? Liitänkö terveyden painoon, kehon kokoon tai tiettyyn sukupuoleen? Esitänkö elintavat vain yksilön vastuuna? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
+- Sivuston ehdotus opettajalle: tunnilla analysoidaan Veeran tapausta ja muita kuvitteellisia esimerkkejä. Älä pyydä opiskelijoita kertomaan omista elintavoistaan, terveydestään tai perheestään.
+- Veeran kehät ja koetehtävät arvioidaan käsitteiden ja perustelujen mukaan: [Opetushallituksen tukimateriaali](https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali) rajaa arvioinnin ulkopuolelle opiskelijan terveyskäyttäytymisen, arvot ja asenteet. Sivuston ehdotus opettajalle: puhu taustatekijöistä ja oloista, älä ihmisistä hyvinä tai huonoina.
+- **Oletusten tarkistus ennen tuntia (sivuston ehdotus opettajalle):** Oletanko, että kaikilla on kaksi vanhempaa, turvallinen koti tai varaa harrastuksiin? Liitänkö terveyden painoon, kehon kokoon tai tiettyyn sukupuoleen? Esitänkö elintavat vain yksilön vastuuna? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
 
@@ -454,7 +444,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *voimavara = asia, joka auttaa jaksamaan ja selviytymään*
 - *taustatekijä = asia, joka vaikuttaa terveyteen taustalla*
 - *vaikutusmekanismi = tapa, jolla asia vaikuttaa: mitä tapahtuu ensin ja mitä sitten*
-- *terveyden edistäminen = toimet, jotka vahvistavat terveyttä ennen ongelmia*
+- *terveyden edistäminen = toimet, joiden avulla ihmiset voivat vaikuttaa terveyteensä ja parantaa sitä*
 - *terveyserot = terveyden erot ihmisryhmien välillä*
 - *toiminta-alue = yksi Ottawan asiakirjan viidestä tavasta edistää terveyttä*; *ehkäisy = toimi, joka estää tietyn sairauden*
 
@@ -463,20 +453,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-**Jos olet välittömässä vaarassa, soita hätänumeroon 112.**
-
-Tällä sivulla opiskellaan terveyttä yleisesti. Jos sinulla on omia oireita tai huolia terveydestäsi, ota yhteyttä opiskeluterveydenhuoltoon eli terveydenhoitajaan tai lääkäriin. Voit puhua myös kuraattorin tai psykologin kanssa. Koulusi kertoo, miten aika varataan (esimerkki). Avun pyytäminen on tavallista ja järkevää.
-
-**Apua saat myös:**
-
-- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
-- [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille.
-- [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
-- [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.
 
 ## Lähteet
 

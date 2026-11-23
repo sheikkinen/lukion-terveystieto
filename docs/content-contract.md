@@ -132,3 +132,20 @@ is labelled as the site's own framing (*sivuston oma jäsennys*); value question
 answers accept any well-argued view; checkers and judges verify claims against their basis, not against this site's
 style guide or earlier drafts; and the guideline's watch list of English habits applies. Where this contract and the
 guideline differ, the guideline applies until this contract is amended.
+
+## Addendum 2026-11-23: one help block only (D-014)
+
+The operator limited help blocks and content notes (D-014; guideline section 4). Section 9 above, "`## Apua ja tukea`
+... recommended on every page", is superseded:
+
+- **One help block only,** in TE1 `08-mielenterveys`. It sits inside `## Opiskelijalle` as an H3, because the engine
+  checks every section listed in `subject.yaml` on every topic and `## Apua ja tukea` is no longer listed. No other
+  topic has a help block, a 112 line, helpline pointers or wellbeing referrals. A link that supports the subject
+  content (for example services as TE3 05 teaches them) stays in `official_links`.
+- **No content notes.** `content_note` is withdrawn from the front matter and from `subject.yaml`; the content-note
+  rules in "A topic file" and in the 2026-11-21 addendum no longer apply.
+- **Build checks:** the line "A safety flag requires a content note and an 'Apua ja tukea' section with 112 and dated
+  help links" is withdrawn. The figure scanner still runs on pages with `safety_flags`; the flags stay as a record.
+- The medical-advice rule is unchanged: pages give no medical advice. The words "every page sends students with their
+  own symptoms to student health care, a doctor or 112" in the D-008 addendum no longer ask for a referral sentence
+  on every page; the front page's statement that the site gives no health advice covers it.

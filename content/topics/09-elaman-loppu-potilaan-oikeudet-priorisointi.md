@@ -11,12 +11,11 @@ role: core
 duration_options: [45, 60, 75]
 self_study_minutes: 85
 prerequisites: [te3-07-eettisen-analyysin-nakokulmat, te3-08-hedelmoityshoidot-abortti-seulonnat-geenit]
-safety_flags: [suicide_selfharm]
-content_note: "Tällä sivulla käsitellään vakavaa sairautta, kuolemaa ja hoitopäätöksiä yleisellä tasolla. Sivulla ei kuvata keinoja eikä yksittäisten ihmisten tarinoita, kenenkään ei tarvitse kertoa omasta elämästään, ja lopussa on tietoa avusta. Voit poistua sivulta tai puhua luotettavan aikuisen kanssa."
+safety_flags: []
 card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch09-elaman-loppu"}]
 official_links:
   - {title: "Visual novel: Elämän loppu, elintapojen vapaus ja vastuu, potilaan oikeudet ja priorisointi", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch09-elaman-loppu", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
-  - {title: "Laki potilaan asemasta ja oikeuksista 785/1992", url: "https://www.finlex.fi/fi/lainsaadanto/1992/785", publisher: "Finlex", read: 2026-11-21}
+  - {title: "Laki potilaan asemasta ja oikeuksista 785/1992", url: "https://www.finlex.fi/fi/lainsaadanto/1992/785", publisher: "Finlex", read: 2026-11-23}
   - {title: "Hoitotahto (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00809", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
   - {title: "Kuolevan potilaan oireiden hoito (Terveyskirjasto, Käypä hoito -potilasversio)", url: "https://www.terveyskirjasto.fi/khp00072", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
   - {title: "Expert working group proposes changes to palliative care: no shared view on the legalisation of euthanasia (31.8.2021)", url: "https://valtioneuvosto.fi/en/-/1271139/expert-working-group-proposes-changes-to-palliative-care-no-shared-view-on-the-legalisation-of-euthanasia", publisher: "Sosiaali- ja terveysministeriö (STM)", read: 2026-11-21}
@@ -26,28 +25,27 @@ official_links:
   - {title: "Palkon periaatteet: 1. Johdanto", url: "https://palveluvalikoima.fi/1.-johdanto", publisher: "Palveluvalikoimaneuvosto (Palko)", read: 2026-11-21}
   - {title: "Social determinants of health (WHO, 6.5.2025)", url: "https://www.who.int/news-room/fact-sheets/detail/social-determinants-of-health", publisher: "Maailman terveysjärjestö (WHO)", read: 2026-11-21}
   - {title: "Suomi näyttää esimerkkiä terveyden viemisessä poliittiseen päätöksentekoon (STM, 14.6.2013)", url: "https://stm.fi/sv/-/suomi-nayttaa-esimerkkia-terveyden-viemisessa-poliittiseen-paatoksentekoon", publisher: "Sosiaali- ja terveysministeriö (STM)", read: 2026-11-21}
-  - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
-  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin (MIELI ry ja kumppanit)", read: 2026-11-21}
-  - {title: "Lasten ja nuorten puhelin 116 111 (Nuortennetti)", url: "https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/", publisher: "Mannerheimin Lastensuojeluliitto (MLL)", read: 2026-11-21}
-  - {title: "Lapsen ja nuoren suru läheisen kuollessa (Mielenterveystalo)", url: "https://www.mielenterveystalo.fi/fi/kriisi-trauma/lapsen-ja-nuoren-suru-laheisen-kuollessa", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
-  - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
-  - {title: "MIELI Kriisipuhelin", url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
-yearly_facts: [potilaslaki, hoitotahto, elinluovutus, palliatiivinen_hoito_lakiesitys, eutanasia_tilanne, etene_periaatteet, palko_priorisointi, who_sdh, hiap_helsinki_2013, opiskeluterveydenhuolto, sekasin_chat, mll_116111, kriisipuhelimet]
+  - {title: "Terveystiedon ylioppilaskoe, kevät 2026: arvosteluohje", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2026-03-20_TE_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta (YTL)", read: 2026-11-23}
+  - {title: "Suomen perustuslaki 731/1999 (6 § Yhdenvertaisuus)", url: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/1999/731", publisher: "Finlex", read: 2026-11-22}
+  - {title: "What is Health in All Policies (HiAP)? (Tampereen yliopisto)", url: "https://research.tuni.fi/centre-for-hiap-and-sdh/hiap-approach/", publisher: "Tampereen yliopisto", read: 2026-11-22}
+yearly_facts: [potilaslaki, hoitotahto, elinluovutus, palliatiivinen_hoito_lakiesitys, eutanasia_tilanne, etene_periaatteet, palko_priorisointi, who_sdh, hiap_helsinki_2013]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
-  - {title: "Laki potilaan asemasta ja oikeuksista 785/1992", url: "https://www.finlex.fi/fi/lainsaadanto/1992/785", publisher: "Finlex", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
+  - {title: "Laki potilaan asemasta ja oikeuksista 785/1992", url: "https://www.finlex.fi/fi/lainsaadanto/1992/785", publisher: "Finlex", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-23}
   - {title: "Hoitotahto (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00809", publisher: "Suomalainen Lääkäriseura Duodecim", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: yleisö, read: 2026-11-21}
   - {title: "Kuolevan potilaan oireiden hoito (Terveyskirjasto, Käypä hoito -potilasversio)", url: "https://www.terveyskirjasto.fi/khp00072", publisher: "Suomalainen Lääkäriseura Duodecim", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: potilaat ja yleisö, read: 2026-11-21}
   - {title: "Expert working group proposes changes to palliative care: no shared view on the legalisation of euthanasia (31.8.2021)", url: "https://valtioneuvosto.fi/en/-/1271139/expert-working-group-proposes-changes-to-palliative-care-no-shared-view-on-the-legalisation-of-euthanasia", publisher: "Sosiaali- ja terveysministeriö (STM)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
   - {title: "Laki ihmisen elinten, kudosten ja solujen lääketieteellisestä käytöstä 101/2001 (kudoslaki)", url: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2001/101", publisher: "Finlex", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
   - {title: "Palkon periaatteet: 1. Johdanto", url: "https://palveluvalikoima.fi/1.-johdanto", publisher: "Palveluvalikoimaneuvosto (Palko)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
+  - {title: "Suomen perustuslaki 731/1999 (6 § Yhdenvertaisuus)", url: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/1999/731", publisher: "Finlex", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
+  - {title: "What is Health in All Policies (HiAP)? (Tampereen yliopisto)", url: "https://research.tuni.fi/centre-for-hiap-and-sdh/hiap-approach/", publisher: "Tampereen yliopisto", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: yleisö, read: 2026-11-22}
 exam_tasks:
   - {id: K1, type: maarittele-ja-esimerkki, part: A20, points: 20, minutes: 25, codes: [TE3.s8, TE3.s9]}
   - {id: K2, type: vertailu, part: B20, points: 20, minutes: 35, codes: [TE3.s8, TE3.t4]}
   - {id: K3, type: eettinen-analyysi, part: C30, points: 30, minutes: 55, codes: [TE3.s9, TE3.t4]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
-school_adapts: ["Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; aineistot on kirjoitettu tehtäviin.", "Tehtävissä analysoidaan lakia ja kuvitteellisia tilanteita; omasta terveydestä, menetyksistä tai kannasta ei tarvitse kertoa kenellekään.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-21
 ---
@@ -57,19 +55,19 @@ last_reviewed: 2026-11-21
 **Tämän aiheen jälkeen**
 
 1. Osaan määritellä palliatiivisen hoidon, hoitotahdon, oletetun suostumuksen elinluovutuksessa ja eutanasian ja erottaa toisistaan lain, asiantuntijaryhmän tiedon ja mielipiteet.
-2. Osaan analysoida elintapoihin liittyvää vapautta ja vastuuta, tunnistaa syyllistämisen ja kuvata yhteisen vastuun.
+2. Osaan analysoida elintapoihin liittyvää vapautta ja vastuuta, tunnistaa syyllistämisen ja kuvata eri näkemyksiä vastuusta.
 3. Osaan kertoa, mitä potilaan oikeudet ovat potilaslain mukaan ja mihin terveydenhuollon eettisiä periaatteita tarvitaan.
-4. Osaan selittää, mitä priorisointi tarkoittaa, ja analysoida sitä kilpailevien perusteiden avulla ketään arvottamatta.
-5. Osaan kuvata eutanasiakeskustelun eri näkemykset niiden omilla perusteilla ottamatta kantaa.
+4. Osaan selittää, mitä priorisointi tarkoittaa, ja analysoida sitä kilpailevien perusteiden avulla.
+5. Osaan kuvata eutanasiakeskustelun eri näkemykset niiden omilla perusteilla.
 
 ### Elämän lopun käsitteet
 
-Keskustelu koskee vakavasti sairaiden hoitoa, ei mielenterveyden kriisiä. Apua kriisiin: *Apua ja tukea*.
+Kolmijako lakiin, asiantuntijatietoon ja mielipiteeseen on sivuston oma jäsennys.
 
-- **Palliatiivinen hoito** lievittää oireita ja tukee elämänlaatua, kun sairautta ei voi parantaa. **Saattohoito** on sen vaihe, kun kuolema on lähellä ([Terveyskirjasto](https://www.terveyskirjasto.fi/khp00072)). STM:n lakimuutos on vasta luonnos ([STM](https://valtioneuvosto.fi/-/1271139/lausuntopyynto-hyvinvointialueiden-velvoitetta-jarjestaa-palliatiivinen-hoito-ja-saattohoito-ehdotetaan-tasmennettavaksi)).
-- **Hoitotahdossa** ihminen voi etukäteen kieltäytyä tietyistä hoidoista tilanteessa, jossa hän ei itse pysty päättämään hoidostaan. Tietystä hoidosta kieltäytyminen sitoo ammattihenkilöitä, muut loppuvaiheen toiveet eivät sido, mutta ne pyritään toteuttamaan ([Terveyskirjasto, luettu 21.11.2026](https://www.terveyskirjasto.fi/dlk00809)).
-- **Oletettu suostumus:** Kudoslain 9 §:n mukaan kuolleelta voidaan irrottaa elimiä, jos hänen tahtonsa ei ole tiedossa eikä ole syytä olettaa hänen vastustaneen. Eläessään tehtyä kieltoa noudatetaan. Jos aikuinen ei ole voinut ottaa kantaa, lähiomainen tai muu läheinen voi estää toimenpiteen ([Finlex, ajantasainen teksti luettu 21.11.2026](https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2001/101)).
-- **Eutanasia** tarkoittaa, että toinen henkilö aiheuttaa ihmisen kuoleman tämän pyynnöstä. **Avustettu itsemurha** tarkoittaa, että ihminen kuolee toisen antamalla avulla. Ne eivät ole sama asia kuin palliatiivinen hoito tai hoidosta kieltäytyminen. Keinoja ei kuvata. Asiantuntijaryhmä totesi vuonna 2021, ettei sillä ole yhteistä näkemystä eutanasian laillistamisesta ([STM 2021](https://valtioneuvosto.fi/en/-/1271139/expert-working-group-proposes-changes-to-palliative-care-no-shared-view-on-the-legalisation-of-euthanasia)).
+- **Palliatiivinen hoito** lievittää oireita ja tukee elämänlaatua, kun sairautta ei voi parantaa. **Saattohoito** on sen vaihe, kun kuolema on lähellä ([Terveyskirjasto](https://www.terveyskirjasto.fi/khp00072)).
+- **Hoitotahdossa** ihminen voi etukäteen kieltäytyä tietyistä hoidoista tilanteessa, jossa hän ei itse pysty päättämään hoidostaan. Tietystä hoidosta kieltäytyminen sitoo ammattihenkilöitä. Muut loppuvaiheen toiveet eivät sido, mutta ne pyritään toteuttamaan ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00809)).
+- **Oletettu suostumus:** Kudoslain 9 §:n mukaan kuolleelta voidaan irrottaa elimiä, jos hänen tahtonsa ei ole tiedossa eikä ole syytä olettaa hänen vastustaneen. Eläessään tehtyä kieltoa noudatetaan. Jos aikuinen ei ole voinut ottaa kantaa, lähiomainen tai muu läheinen voi estää toimenpiteen ([Finlex](https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2001/101)).
+- Sivuston oma määritelmä: **eutanasia** tarkoittaa, että toinen aiheuttaa ihmisen kuoleman tämän pyynnöstä. **Avustettu itsemurha** tarkoittaa, että ihminen päättää itse elämänsä toisen antamien keinojen avulla. Ne eivät ole sama asia kuin palliatiivinen hoito tai hoidosta kieltäytyminen. Asiantuntijaryhmä totesi vuonna 2021, ettei sillä ole yhteistä näkemystä eutanasian laillistamisesta ([STM 2021](https://valtioneuvosto.fi/en/-/1271139/expert-working-group-proposes-changes-to-palliative-care-no-shared-view-on-the-legalisation-of-euthanasia)).
 
 | Näkemys | Perustelu | Näkökulma |
 |---|---|---|
@@ -78,7 +76,7 @@ Keskustelu koskee vakavasti sairaiden hoitoa, ei mielenterveyden kriisiä. Apua 
 
 ### Elintapojen vapaus ja vastuu
 
-Vapauteen tehdä omia valintoja kuuluu vastuu, mutta valinnat tehdään olosuhteissa. WHO:n tietosivun mukaan terveyteen vaikuttavat esimerkiksi koulutus, työ- ja asumisolot, ja korkeammin koulutetuilla on väestötasolla parempi terveys ([WHO 6.5.2025](https://www.who.int/news-room/fact-sheets/detail/social-determinants-of-health)). **Syyllistäminen** tarkoittaa, että sairastumisen syy laitetaan yksin ihmisen niskoille. Terveys kaikissa politiikoissa tarkoittaa, että terveysvaikutukset otetaan huomioon kaikilla politiikan aloilla ([STM](https://stm.fi/sv/-/suomi-nayttaa-esimerkkia-terveyden-viemisessa-poliittiseen-paatoksentekoon); ks. [TE2: kestävä kehitys](../../te2/06-kestava-kehitys/)). Kaksi näkemystä:
+WHO:n mukaan terveyteen vaikuttavat esimerkiksi koulutus, työ- ja asumisolot, ja korkeammin koulutetuilla on väestötasolla parempi terveys ([WHO](https://www.who.int/news-room/fact-sheets/detail/social-determinants-of-health)). **Syyllistäminen** tarkoittaa, että sairastumisen syy laitetaan yksin ihmisen niskoille. Terveys kaikissa politiikoissa tarkoittaa, että terveys otetaan huomioon kaikessa päätöksenteossa ja kaikilla hallinnon aloilla ([YTL:n arvosteluohje, kevät 2026](https://tiedostot.ylioppilastutkinto.fi/kokeet/2026-03-20_TE_fi/grading-instructions.html)).
 
 | Näkemys | Perustelu | Näkökulma |
 |---|---|---|
@@ -87,13 +85,13 @@ Vapauteen tehdä omia valintoja kuuluu vastuu, mutta valinnat tehdään olosuhte
 
 ### Potilaan oikeudet ja eettiset periaatteet
 
-**Mitä laki sanoo.** Potilaslaki antaa oikeuden hyvään hoitoon, tiedonsaantiin ja itsemääräämiseen. Hoito perustuu suostumukseen, potilas voi kieltäytyä. Alaikäisen mielipide otetaan huomioon kehitystason mukaan. Tiedot ovat salassa pidettäviä, ja potilas voi tehdä muistutuksen ([Finlex 785/1992](https://www.finlex.fi/fi/lainsaadanto/1992/785)).
+**Mitä laki sanoo.** Potilaslaki antaa oikeuden terveydentilan edellyttämään hoitoon voimavarojen rajoissa (3 §) ja tiedonsaantiin (5 §). Potilasta hoidetaan yhteisymmärryksessä hänen kanssaan, ja hän voi kieltäytyä tietystä hoidosta (6 §). Alaikäisen mielipide selvitetään, kun se on hänen ikäänsä ja kehitystasoonsa nähden mahdollista (7 §). Potilasasiakirjojen tiedot ovat salassa pidettäviä (13 §), ja hoitoonsa tyytymätön potilas voi tehdä muistutuksen (10 §) ([Finlex 785/1992](https://www.finlex.fi/fi/lainsaadanto/1992/785)).
 
-**Eettiset periaatteet.** ETENEn uudistetut eettiset periaatteet kokoavat sosiaali- ja terveysalan perusarvot. Ne eivät anna valmiita vastauksia ([ETENE 13.3.2026](https://etene.fi/-/etene-on-julkistanut-sosiaali-ja-terveysalan-eettiset-periaatteet)). Sivuston oma jäsennys: *itsemääräämisoikeus*, *hyvän tekeminen*, *vahingon välttäminen* ja *oikeudenmukaisuus*.
+**Eettiset periaatteet.** ETENE on julkaissut eettiset periaatteet, jotka eivät anna valmiita vastauksia ([ETENE 13.3.2026](https://etene.fi/-/etene-on-julkistanut-sosiaali-ja-terveysalan-eettiset-periaatteet)). Sivuston oma jäsennys, peräisin kansainvälisestä bioetiikasta eikä ETENEn lista: *itsemääräämisoikeus*, *hyvän tekeminen*, *vahingon välttäminen* ja *oikeudenmukaisuus*.
 
 ### Priorisointi
 
-**Priorisointi** tarkoittaa tärkeysjärjestyksen asettamista, kun varoja on rajallisesti. Palveluvalikoimaneuvosto (Palko) antaa suosituksia julkisesti rahoitettujen palvelujen valikoimasta ([Palko](https://palveluvalikoima.fi/1.-johdanto)). Eettisessä keskustelussa käytetään usein neljää perustetta (sivuston oma jäsennys): **tarve**, **hyöty**, **tasa-arvo** ja **kustannusvaikuttavuus**. Päätösten tulee perustua lääketieteellisiin perusteisiin ja lakiin, ei iän, vamman tai yhteiskunnallisen arvon mukaan arvottamiseen.
+**Priorisointi** tarkoittaa tärkeysjärjestyksen asettamista, kun varoja on rajallisesti. Palveluvalikoimaneuvosto (Palko) antaa suosituksia julkisesti rahoitettujen palvelujen valikoimasta ([Palko](https://palveluvalikoima.fi/1.-johdanto)). Sivuston oma jäsennys nimeää neljä perustetta: **tarve**, **hyöty**, **tasa-arvo** ja **kustannusvaikuttavuus**. Perustuslain 6 §:n mukaan ketään ei saa ilman hyväksyttävää perustetta asettaa eri asemaan muun muassa iän, terveydentilan tai vammaisuuden vuoksi ([Finlex](https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/1999/731)).
 
 ## Tehtävät
 
@@ -107,10 +105,10 @@ Vapauteen tehdä omia valintoja kuuluu vastuu, mutta valinnat tehdään olosuhte
 *Tilanteet (kuvitteellisia):* **1.** Aaro on kirjannut etukäteen, ettei halua tiettyjä hoitoja, jos hän ei itse pysty päättämään. **2.** Noorin sairaus ei parane, ja hoito keskittyy oireiden lievittämiseen. **3.** Vainaja ei ollut kieltäytynyt elinluovutuksesta. **4.** Keskustelufoorumilla kysytään, saako joku aiheuttaa sairaan ihmisen kuoleman tämän pyynnöstä.
 
 1. Kirjoita jokaisen tilanteen viereen käsite: hoitotahto, palliatiivinen hoito, oletettu suostumus tai eutanasia.
-2. Kirjoita tilanteelle 4, onko kyse lain tiedosta, asiantuntijaryhmän tiedosta vai mielipiteestä, ja mihin lähteeseen se perustuu.
+2. Kirjoita jokaisen väitteen viereen, onko se lain tosiasia, asiantuntijaryhmän tieto vai mielipide, ja mihin lähteeseen se perustuu: **a.** Hoitotahdossa voi kieltäytyä tietyistä hoidoista. **b.** Asiantuntijaryhmällä ei ollut vuonna 2021 yhteistä näkemystä eutanasian laillistamisesta. **c.** Ihmisellä pitää olla oikeus päättää omasta kuolemastaan.
 3. Piirrä taulukko: näkemys A ja näkemys B (Opiskelijalle). Merkitse kummallekin perustelu ja kaksi eettisen analyysin näkökulmaa.
 4. Kirjoita kummallekin näkemykselle yksi asia, jonka toinen näkemys ottaa vakavasti.
-5. Kirjoita lause siitä, miksi sivu ei voi kertoa, kumpi on oikeassa.
+5. Kirjoita, mitkä tosiasiat ja mitkä arvot vaikuttavat siihen, kumpaa näkemystä pitää vahvempana.
 
 ### Tehtävä 2: Vapaus ja vastuu
 
@@ -123,7 +121,7 @@ Vapauteen tehdä omia valintoja kuuluu vastuu, mutta valinnat tehdään olosuhte
 
 1. Kirjoita kolme asiaa, jotka vaikuttavat Ellan terveyteen ja joihin hän ei itse voi vaikuttaa.
 2. Kirjoita, miten iskulause voisi saada Ellan tuntemaan itsensä syylliseksi.
-3. Kirjoita, mikä Ellan tapauksessa kertoo siitä, että riskitekijä ei ole syy.
+3. Kirjoita, mikä Ellan tapauksessa kertoo siitä, että riskitekijä ei ole syy ([TE3: tarttumattomat taudit](../../te3/03-tarttumattomat-taudit/)).
 4. Kirjoita kolme toimijaa (yksilö, kunta, valtio) ja yksi asia, jonka kukin voi tehdä.
 5. Kirjoita yhteen lauseeseen, miten terveys kaikissa politiikoissa liittyy tapaukseen.
 
@@ -145,16 +143,16 @@ Vapauteen tehdä omia valintoja kuuluu vastuu, mutta valinnat tehdään olosuhte
 Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
 
 1. Miksi hoitotahto ja eutanasia ovat eri asioita?
-2. Miksi yhteinen vastuu ei tarkoita, ettei ihmisellä olisi vastuuta?
-3. Mitä menetetään, jos priorisointi tehdään pelkän hinnan perusteella?
+2. Mitä perusteita on sille, että vastuu on yksilön, yhteinen tai molempien?
+3. Mitä hyötyä ja haittaa on siitä, että priorisoinnissa painotetaan hintaa?
 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
 
 1. Osaan määritellä palliatiivisen hoidon, hoitotahdon, oletetun suostumuksen elinluovutuksessa ja eutanasian ja erottaa toisistaan lain, asiantuntijaryhmän tiedon ja mielipiteet.
-2. Osaan analysoida elintapoihin liittyvää vapautta ja vastuuta, tunnistaa syyllistämisen ja kuvata yhteisen vastuun.
+2. Osaan analysoida elintapoihin liittyvää vapautta ja vastuuta, tunnistaa syyllistämisen ja kuvata eri näkemyksiä vastuusta.
 3. Osaan kertoa, mitä potilaan oikeudet ovat potilaslain mukaan ja mihin terveydenhuollon eettisiä periaatteita tarvitaan.
-4. Osaan selittää, mitä priorisointi tarkoittaa, ja analysoida sitä kilpailevien perusteiden avulla ketään arvottamatta.
-5. Osaan kuvata eutanasiakeskustelun eri näkemykset niiden omilla perusteilla ottamatta kantaa.
+4. Osaan selittää, mitä priorisointi tarkoittaa, ja analysoida sitä kilpailevien perusteiden avulla.
+5. Osaan kuvata eutanasiakeskustelun eri näkemykset niiden omilla perusteilla.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
@@ -186,7 +184,7 @@ A) hoitotahto  B) palliatiivinen hoito  C) potilaan itsemääräämisoikeus  D) 
 
 a) Nimeä, kenelle kukin viesti asettaa vastuun, ja perustele sanoilla viestistä. Kirjoita enintään 800 merkkiä. (8 p)
 
-b) Arvioi, miten viesti 1 voi syyllistää sairastunutta ja miten viestit 2 ja 3 vastaisivat siihen. Käsittele yhteistä vastuuta ja tee yksi perusteltu ehdotus. Kirjoita enintään 1500 merkkiä. (12 p)
+b) Arvioi, miten viesti 1 voi syyllistää sairastunutta ja miten viestit 2 ja 3 vastaisivat siihen. Punnitse yksilön ja yhteisen vastuun perusteita ja tee yksi perusteltu ehdotus. Kirjoita enintään 1500 merkkiä. (12 p)
 
 ### K3: Kuka saa lisäpalvelun?, 55 min (30 p)
 
@@ -206,7 +204,7 @@ a) Nimeä kolme toimijaa, joita päätös koskee. (5 p)
 
 b) Analysoi päätöstä vähintään kolmen eettisen analyysin näkökulman avulla ja käytä aineiston tietoja. Käytä myös käsitteitä tarve, hyöty, tasa-arvo ja kustannusvaikuttavuus. (17 p)
 
-c) Punnitse, mitkä näkökohdat ovat keskenään ristiriidassa, ja kuvaa, mitä päätöksentekijän tulee ottaa huomioon. Älä ota kantaa siihen, kumpi vaihtoehto valitaan, äläkä arvota ihmisiä iän tai vamman mukaan. (8 p)
+c) Punnitse, mitkä näkökohdat ovat keskenään ristiriidassa, ja kuvaa, mitä päätöksentekijän tulee ottaa huomioon. Perusteltu valinta vaihtoehtojen A ja B välillä hyväksytään, kun perusteet (tarve, hyöty, tasa-arvo, kustannusvaikuttavuus) punnitaan. (8 p)
 
 ## Mallivastaukset
 
@@ -218,9 +216,9 @@ c) Punnitse, mitkä näkökohdat ovat keskenään ristiriidassa, ja kuvaa, mitä
 
 **B)** Palliatiivinen hoito on hoitoa, joka lievittää oireita ja tukee elämänlaatua, kun sairautta ei voi parantaa. Esimerkki: Noor (kuvitteellinen) saa oireiden hoitoa ja tukea. Se eroaa parantavasta hoidosta tavoitteessa.
 
-**C)** Itsemääräämisoikeus on potilaan oikeus osallistua hoitonsa päätöksiin: hoito perustuu hänen suostumukseensa, ja hän voi kieltäytyä hoidosta. Esimerkki: Kim (kuvitteellinen) saa tiedon vaihtoehdoista ennen päätöstä. Se eroaa oikeudesta tietoon siinä, että se koskee päätöstä.
+**C)** Itsemääräämisoikeus on potilaan oikeus osallistua hoitonsa päätöksiin: häntä hoidetaan yhteisymmärryksessä hänen kanssaan, ja hän voi kieltäytyä tietystä hoidosta (potilaslaki 6 §). Esimerkki: Kim (kuvitteellinen) saa tiedon vaihtoehdoista ennen päätöstä. Se eroaa oikeudesta tietoon siinä, että se koskee päätöstä.
 
-**D)** Priorisointi on tärkeysjärjestyksen asettamista, kun varoja on rajallisesti. Esimerkki: hyvinvointialue (kuvitteellinen) valitsee, mihin palveluun lisäraha kohdistetaan. Se eroaa säästämisestä siinä, että valinnan perusteena ovat tarve, hyöty ja oikeudenmukaisuus.
+**D)** Priorisointi on tärkeysjärjestyksen asettamista, kun varoja on rajallisesti. Esimerkki: hyvinvointialue (kuvitteellinen) valitsee, mihin palveluun lisäraha kohdistetaan. Se eroaa pelkästä säästämisestä siinä, että perusteina voivat olla tarve, hyöty, tasa-arvo ja kustannusvaikuttavuus.
 
 **Pisteytys**
 
@@ -238,7 +236,7 @@ c) Punnitse, mitkä näkökohdat ovat keskenään ristiriidassa, ja kuvaa, mitä
 - Hoitotahto sekoitetaan eutanasiaan; hoitotahdossa kieltäydytään hoidosta, eutanasiassa toinen aiheuttaa kuoleman.
 - Palliatiivinen hoito kuvataan hoidon lopettamiseksi, vaikka se on oireiden hoitoa.
 - Esimerkki puuttuu tai se kertoo omasta tilanteesta kuvitteellisen sijaan.
-- Priorisointi määritellään säästämiseksi.
+- Priorisointi määritellään vain säästämiseksi, vaikka kustannus on vain yksi peruste.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -248,21 +246,20 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **a)** Viesti 1 asettaa vastuun yksilölle: *sinun käsissäsi* ja *valitse viisaasti*. Viesti 2 asettaa vastuun kunnalle: *teemme valinnat helpoiksi*. Viesti 3 jakaa vastuun: yksilö vastaa omasta terveydestään ja kunta tarjoaa tukea.
 
-**b)** Viesti 1 voi syyllistää sairastunutta, koska se antaa ymmärtää, että terveys on pelkästään valintojen tulos. Riskitekijä ei kuitenkaan määrää sairastumista, ja ihminen voi sairastua ilman yhtään riskitekijää. Lisäksi valinnat tehdään olosuhteissa: WHO:n tietosivun mukaan koulutus sekä työ- ja asumisolot vaikuttavat terveyteen, ja korkeammin koulutetuilla on väestötasolla parempi terveys. Viesti 2 vastaa tähän suoraan, koska se muuttaa olosuhteita. Se vastaa terveys kaikissa politiikoissa -ajatusta, jossa terveysvaikutukset huomioidaan eri aloilla. Viesti 3 on välimuoto: se säilyttää vastuun yksilöllä mutta tarjoaa tukea niille, jotka sitä tarvitsevat. Sen heikkous on, että tuki jää niiden varaan, jotka osaavat hakea sitä. Yhteinen vastuu tarkoittaa, että yksilöllä on vastuuta, mutta yhteiskunnan tehtävä on varmistaa, että vaihtoehtoja on kaikilla. Ehdotukseni: kunta yhdistää viestit 2 ja 3, eli rakentaa lähipalvelut kaikille alueille ja tarjoaa lisäksi tukea heille, jotka sitä tarvitsevat. Näin kampanja ei syyllistä ketään, ja se tavoittaa myös ne, joilla on vähemmän mahdollisuuksia.
+**b)** Viesti 1 voi syyllistää sairastunutta, koska se antaa ymmärtää, että terveys on pelkästään valintojen tulos. Riskitekijä ei kuitenkaan määrää sairastumista, ja ihminen voi sairastua ilman yhtään riskitekijää. Lisäksi valinnat tehdään olosuhteissa: WHO:n tietosivun mukaan koulutus sekä työ- ja asumisolot vaikuttavat terveyteen, ja korkeammin koulutetuilla on väestötasolla parempi terveys. Viesti 2 vastaa tähän suoraan, koska se muuttaa olosuhteita. Se vastaa terveys kaikissa politiikoissa -ajatusta, jossa terveysvaikutukset huomioidaan eri aloilla. Viesti 3 on välimuoto: se säilyttää vastuun yksilöllä mutta tarjoaa tukea niille, jotka sitä tarvitsevat. Sen heikkous on, että tuki jää niiden varaan, jotka osaavat hakea sitä. Näkemyksen B mukaan yhteinen vastuu tarkoittaa, että yksilöllä on vastuuta, mutta yhteiskunnan tehtävä on varmistaa, että vaihtoehtoja on kaikilla. Yksi perusteltu ehdotus (muutkin hyväksytään, myös yksilön vastuuta painottava): kunta yhdistää viestit 2 ja 3, eli rakentaa lähipalvelut kaikille alueille ja tarjoaa lisäksi tukea heille, jotka sitä tarvitsevat. Näin kampanja ei syyllistä ketään, ja se tavoittaa myös ne, joilla on vähemmän mahdollisuuksia.
 
 **Pisteytys**
 
 *Sisältö 10 p:*
 
 - a) Jokaisen kolmen viestin vastuun kohde nimetty ja perusteltu viestin sanoilla 1 p kustakin. Yhteensä 3 p.
-- b) Syyllistämisen mekanismi selitetty (valinta nähdään syynä) 2 p; riskitekijä ei ole syy, ihminen voi sairastua ilman riskitekijää 1 p; olosuhteet rajaavat valintoja 2 p; yhteinen vastuu ja terveys kaikissa politiikoissa 1 p; perusteltu ehdotus 1 p. Yhteensä 7 p.
+- b) Syyllistämisen mekanismi selitetty (valinta nähdään syynä) 2 p; riskitekijä ei ole syy, ihminen voi sairastua ilman riskitekijää 1 p (empiirinen tosiasia); vapauden ja olosuhteiden punninta todisteiden (esimerkiksi WHO) avulla 2 p; yksilön tai yhteisen vastuun perusteltu painotus 1 p; perusteltu ehdotus 1 p. Mikä tahansa hyvin perusteltu painotus hyväksytään, myös yksilön vastuun korostaminen. Yhteensä 7 p.
 
 *Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
-- 8–10 p: vastaus käyttää taulukon sanoja; viestit vertaillaan; arvioi hyötyä ja heikkoutta; ehdotus tulee analyysista.
+- 8–10 p: vastaus käyttää taulukon sanoja, vertailee viestejä ja arvioi niiden hyötyjä ja heikkouksia; ehdotus tulee analyysista.
 - 4–7 p: viestit tunnistetaan oikein, mutta arvio jää yleiseksi tai ehdotus puuttuu.
 - 0–3 p: vastaus kertoo mielipiteen eikä käytä taulukkoa.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 8 p, b 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -270,8 +267,8 @@ Tehtävänannon osapisteet (a 8 p, b 12 p) sisältävät sekä sisällön että 
 
 **Tyypilliset virheet**
 
-- Kirjoitetaan, että viesti 1 on väärä, vaikka vapaus ja vastuu kuuluvat kuvaan; tehtävä pyytää arvioimaan syyllistämisen riskiä.
-- Yhteistä vastuuta ei selitetä, vaan siihen vain viitataan.
+- Viesti hylätään tai hyväksytään perustelematta; tehtävä pyytää arvioimaan syyllistämisen riskiä.
+- Vastuun jakoa ei perustella, vaan yksilön tai yhteiseen vastuuseen vain viitataan.
 - Ehdotus on yleinen (*lisää tietoa*) eikä kerro, kuka toimii.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
@@ -282,9 +279,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **a)** Päätös koskee hyvinvointialuetta eli päätöksentekijää, kuntoutuspalvelun tarvitsevia ihmisiä ja harvinaista sairautta sairastavia ihmisiä. Se koskee myös terveydenhuollon ammattilaisia.
 
-**b)** *Seuraukset.* A auttaa monia ja on edullinen, joten yhteenlaskettu hyöty voi olla suuri. B auttaa vain pientä joukkoa, mutta hyöty yhtä ihmistä kohti on suuri. Kustannusvaikuttavuuden mukaan A on edullisempi. *Oikeudet.* Jokaisella on oikeus hoitoon. Yksi ryhmä ei saa vähemmän arvoa pienemmän määränsä vuoksi, joten B:n ryhmän oikeus tulee ottaa vakavasti. *Velvollisuudet ja arvot.* Yhteiskunnalla on velvollisuus kohdella ihmisiä tasa-arvoisesti. Tasa-arvo voi tarkoittaa kaikille yhtä, tai sitä, että eniten tarvitsevat saavat enemmän. *Tarve* puoltaa B:tä, *hyöty* A:ta, kun lasketaan yhteen, ja B:tä, kun katsotaan yhtä ihmistä. Palkon sivun mukaan valinnassa punnitaan vaikuttavuutta, turvallisuutta ja kustannusten hyväksyttävyyttä. Aineiston mukaan B on turvallinen ja vaikuttava, mutta kustannus on hyvin suuri.
+**b)** *Seuraukset.* A auttaa monia ja on edullinen, joten yhteenlaskettu hyöty voi olla suuri. B auttaa vain pientä joukkoa, mutta hyöty yhtä ihmistä kohti on suuri. Kustannusvaikuttavuuden mukaan A on edullisempi. *Oikeudet.* Potilaslain 3 §:n mukaan jokaisella Suomessa pysyvästi asuvalla on oikeus ilman syrjintää terveydentilansa edellyttämään hoitoon voimavarojen rajoissa. Oikeuksien näkökulmasta voidaan katsoa, että yksi ryhmä ei saa vähemmän arvoa pienemmän määränsä vuoksi, joten B:n ryhmän oikeus on otettava vakavasti. *Velvollisuudet ja arvot.* Yhteiskunnalla on velvollisuus kohdella ihmisiä tasa-arvoisesti. Tasa-arvo voi tarkoittaa kaikille yhtä, tai sitä, että eniten tarvitsevat saavat enemmän. *Tarve* puoltaa B:tä, *hyöty* A:ta, kun lasketaan yhteen, ja B:tä, kun katsotaan yhtä ihmistä. Palkon sivun mukaan valinnassa punnitaan vaikuttavuutta, turvallisuutta ja kustannusten hyväksyttävyyttä. Aineiston mukaan B on turvallinen ja vaikuttava, mutta kustannus on hyvin suuri.
 
-**c)** Ristiriita on siinä, että seurausnäkökulma ja kustannusvaikuttavuus puoltavat A:ta, kun taas tarve ja oikeudet puoltavat B:tä. Mikään peruste ei yksin ratkaise. Päätöksentekijän tulee ottaa huomioon, että perusteet ja punninta kerrotaan avoimesti, että päätös perustuu lääketieteellisiin perusteisiin ja lakiin eikä ketään arvoteta iän, vamman tai yhteiskunnallisen arvon mukaan, ja että vaihtoehtojen yhdistelmät tai vaiheistus kannattaa selvittää. Eri ryhmiä on myös kuultava.
+**c)** Ristiriita on siinä, että seurausnäkökulma ja kustannusvaikuttavuus puoltavat A:ta, kun taas tarve ja oikeudet puoltavat B:tä. Mikään peruste ei yksin ratkaise. Päätöksentekijän tulee ottaa huomioon, että perusteet ja punninta kerrotaan avoimesti, että päätös perustuu lakiin (Perustuslain 6 §: ketään ei aseteta eri asemaan ilman hyväksyttävää perustetta iän, terveydentilan tai vammaisuuden vuoksi), ja että vaihtoehtojen yhdistelmät tai vaiheistus kannattaa selvittää. Eri ryhmiä on myös kuultava.
 
 **Pisteytys**
 
@@ -292,24 +289,22 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 - a) Vähintään kolme toimijaa nimetty 2 p (kaksi toimijaa 1 p).
 - b) Näkökulmat: 1 näkökulma sovellettu aineiston tietoihin 4 p; 2 näkökulmaa 7 p; 3 näkökulmaa 10 p. Yhteensä enintään 10 p. Priorisoinnin perusteet arvioidaan tiedonkäsittelyssä.
-- c) Ristiriitojen punnitseminen 2 p; perusteltu kuvaus siitä, mitä päätöksentekijän tulee ottaa huomioon, ilman kannanottoa tai arvottamista 1 p. Yhteensä 3 p.
+- c) Ristiriitojen punnitseminen 2 p; perusteltu kuvaus siitä, mitä päätöksentekijän tulee ottaa huomioon, 1 p. Perusteltu valinta A:n ja B:n välillä hyväksytään. Yhteensä 3 p.
 
 *Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
-- 12–15 p: näkökulmat ja neljä perustetta nimetään oikein ja liitetään taulukon tietoihin; ristiriidat punnitaan; johtopäätös on neutraali ja perusteltu; ketään ei arvoteta.
+- 12–15 p: näkökulmat ja neljä perustetta nimetään oikein ja liitetään taulukon tietoihin; ristiriidat punnitaan; johtopäätös on perusteltu, ja perusteltu valinta A:n ja B:n välillä hyväksytään; ketään ei arvoteta iän tai vamman mukaan (vrt. perustuslain 6 §).
 - 6–11 p: käsitteitä on käytetty, mutta ne jäävät luetteloksi tai taulukon tietoja ei käytetä.
-- 0–5 p: vastaus ottaa kannan tai toistaa taulukon ilman analyysia.
+- 0–5 p: vastaus ottaa kannan perustelematta tai toistaa taulukon ilman analyysia.
 
 Tehtävänannon osapisteet (a 5 p, b 17 p, c 8 p) sisältävät sekä sisällön että tiedonkäsittelyn.
-
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 30 p
 
 **Tyypilliset virheet**
 
-- Kanta otetaan (*A on parempi*) analyysin sijaan.
-- Toista ryhmää kuvataan vähemmän arvokkaaksi tai ketään arvotetaan iän tai vamman mukaan.
+- Valinta (*A on parempi*) tehdään perustelematta tai taulukon tietoja huomiotta.
+- Toista ryhmää kuvataan vähemmän arvokkaaksi iän tai vamman vuoksi (ks. perustuslain 6 §).
 - Käsitteet tarve, hyöty, tasa-arvo ja kustannusvaikuttavuus mainitaan mutta niitä ei yhdistetä taulukkoon.
 - Päätöksentekijän huomioon otettavia asioita ei kuvata, vaan kerrotaan vain, mikä vaihtoehto valittaisiin.
 
@@ -343,7 +338,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Työskentely | 25 | Tehtävä 2 kokonaan (15 min), sitten Tehtävän 1 vaiheet 1–2 ja 5 (10 min). | Kierrä ja kysy: kuka tässä kantaa vastuun ja millä perusteella? | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät analysoivat yhden viestin Tehtävän 2 jälkeen: kuka vastaa ja kuka kärsii, jos vastuu asetetaan väärin. | Kokoa taululle perusteet ja ristiriidat. | Yksin: yksi näkökulma. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1 A ja D yksin (6 min) ja tarkistus (4 min). Exit-lappu: yksi käsite omin sanoin. | Näytä K1:n pisteytys. | Paperilla. | Tarkistus kotona. |
-| Puskuri | 5 | Kysymyksiä. | Muistuta Apua ja tukea -osiosta. | – | – |
+| Puskuri | 5 | Kysymyksiä. | Kerro, että K1–K3 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
 
@@ -367,24 +362,21 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Varaa nimettömiä lappuja. Tehtävät toimivat ilman tulosteita. Selvitä koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki).
+- Varaa nimettömiä lappuja. Tehtävät toimivat ilman tulosteita.
 - Tarkista ennen tuntia eutanasian ja palliatiivisen hoidon lainsäädännön ajantasainen tilanne virallisesta lähteestä. Tämä sivu ei väitä oikeudellisesta asemasta muuta kuin STM:n 2021 tiedotteen. Eduskunnassa mahdollisesti käsiteltävää aloitetta ei kirjoiteta tälle sivulle.
-- Päätä etukäteen, miten ryhmä toimii, jos joku haluaa poistua. Sovi koulun aikuisten kanssa tuesta.
 
 ### Avoimet kysymykset
 
 - Miksi hoitotahto ja eutanasia ovat eri asioita?
-- Miksi lakia, asiantuntijatietoa ja mielipidettä on pidettävä erillään?
+- Mitä hyötyä on siitä, että laki, asiantuntijaryhmän tieto ja mielipide erotetaan toisistaan?
 - Mitä syyllistäminen tekee sille, joka hakee apua?
 - Miksi priorisointi on tehtävä avoimesti?
-- Miksi iän tai vamman perusteella ei arvoteta?
+- Mitä perustuslain 6 § merkitsee priorisoinnille, ja mitä se jättää avoimeksi?
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Kukaan ei kerro omista menetyksistään, sairauksistaan tai kannastaan. Ketään ei arvioida kantansa perusteella. Opiskelija voi poistua tilanteesta, ja koulun terveydenhoitaja ja opiskeluhuolto ovat tavoitettavissa.
-- Jos opiskelija kertoo huolestuttavasta asiasta, aikuisella on velvollisuus toimia. Alle 18-vuotiaan kohdalla se voi tarkoittaa lastensuojeluilmoitusta, jonka tarkoitus on auttaa. Selitä tämä neutraalisti. Aihe toimii paremmin osana useamman tunnin sarjaa kuin yksittäisenä oppituntina.
-- Älä kerro tarinoita yksittäisistä kuolemista, keinoista tai paikoista. Käytä sanoja *kuoli itsemurhaan* ja *itsetuhoisuus*, jos aihe nousee.
-- **Oletusten tarkistus ennen tuntia:** Oletanko, että kaikilla on terve perhe ja turvalliset läheiset? Esitänkö sairastumisen omana syynä? Rankkaanko ketään iän tai vamman mukaan? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
+- Kukaan ei kerro omista menetyksistään, sairauksistaan tai kannastaan. Ketään ei arvioida kantansa perusteella. Opiskelija voi poistua tilanteesta.
+- **Oletusten tarkistus ennen tuntia:** Oletanko, että kaikilla on terve perhe ja turvalliset läheiset? Esitänkö sairastumisen omana syynä? Asetanko ketään järjestykseen iän tai vamman mukaan? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
 
@@ -399,26 +391,11 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *eutanasia = toinen henkilö aiheuttaa kuoleman pyynnöstä*; *oletettu suostumus = luovutus on mahdollinen, ellei vainajan tiedetä tai ole syytä olettaa vastustaneen*
 - *priorisointi = tärkeysjärjestys, kun rahaa on vähän*; *syyllistäminen = syyn laittaminen yhden ihmisen niskoille*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee näkemystaulukko väreillä. Lue yksi kappale kerrallaan ja peitä muut. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa. Jos aihe tuntuu raskaalta, ohita Tehtävä 1 ja tee Tehtävät 2 ja 3.
+**Lukeminen, keskittyminen ja jännitys:** Tee näkemystaulukko väreillä. Lue yksi kappale kerrallaan ja peitä muut. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-**Jos olet välittömässä vaarassa, soita hätänumeroon 112.**
-
-Jos aihe herättää vaikeita ajatuksia, huolta tai surua, voit puhua luotettavan aikuisen, opiskeluterveydenhuollon terveydenhoitajan tai lääkärin, kuraattorin tai psykologin kanssa. Sivu ei neuvo omissa asioissa. Jos sinulla on ajatuksia, jotka tuntuvat liian raskailta, tai joku läheisesi on kuollut tai sairastunut vakavasti, apua on saatavilla. Avun pyytäminen on tavallista ja järkevää.
-
-**Apua saat myös:**
-
-- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu 12–29-vuotiaille. Alle 16-vuotiaat ohjataan sivulla Apuu-chattiin. Aukioloajat ovat sivulla.
-- [Lasten ja nuorten puhelin 116 111 (luettu 21.11.2026)](https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/): MLL:n palvelu alle 25-vuotiaille, maksuton ja nimetön.
-- [Lapsen ja nuoren suru läheisen kuollessa (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/kriisi-trauma/lapsen-ja-nuoren-suru-laheisen-kuollessa): tietoa nuorille ja heidän aikuisilleen.
-- [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): tietoa ja omahoito-ohjelmia nuorille.
-- [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Palvelu on tarkoitettu kaikenikäisille, ei vain nuorille. Aukioloajat ja numero ovat sivulla.
 
 ## Lähteet
 

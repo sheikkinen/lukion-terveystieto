@@ -12,31 +12,32 @@ duration_options: [45, 60, 75]
 self_study_minutes: 65
 prerequisites: [te1-06-seksuaaliterveys]
 safety_flags: [sexuality, violence]
-content_note: "Tällä sivulla käsitellään seksuaalioikeuksia, suostumusta ja seksuaalista väkivaltaa yleisellä tasolla. Sivulla ei kuvata tekoja, kenenkään ei tarvitse kertoa omasta elämästään, ja lopussa on tietoa avusta."
 card_links:
   - {label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch07-seksuaalioikeudet"}
 official_links:
   - {title: "Visual novel: Seksuaalioikeudet, suostumus ja moninaisuus", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te1&lang=fi&ch=ch07-seksuaalioikeudet", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Seta", url: "https://seta.fi/", publisher: "Seta ry", read: 2026-11-21}
+  - {title: "Seksuaalioikeudet (Väestöliitto)", url: "https://www.vaestoliitto.fi/seksuaaliterveys/seksuaalioikeudet/", publisher: "Väestöliitto", read: 2026-11-23}
   - {title: "Seksuaaliterveys (Väestöliitto)", url: "https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/", publisher: "Väestöliitto", read: 2026-11-21}
-  - {title: "Rikosuhripäivystys", url: "https://www.riku.fi/", publisher: "Rikosuhripäivystys (RIKU)", read: 2026-11-21}
   - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
-  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin-kollektiivi", read: 2026-11-21}
-  - {title: "MIELI Kriisipuhelin", url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
+  - {title: "Seksuaalinen suuntautuminen (Seta)", url: "https://seta.fi/sateenkaaritieto/seksuaalinen-suuntautuminen/", publisher: "Seta ry", read: 2026-11-23}
+  - {title: "Vuosikymmen terveiden kirjoissa (Seta, 12.5.2021)", url: "https://seta.fi/2021/05/12/vuosikymmen-terveiden-kirjoissa-transvestisuuden-ja-fetissien-tautiluokituksen-poistamisesta-10-vuotta", publisher: "Seta ry", read: 2026-11-23}
+  - {title: "Kouluterveyskysely: nuoren hyväksyminen vahvistaa hyvinvointia (Seta, 13.3.2024)", url: "https://seta.fi/2024/03/13/kouluterveyskyselyn-2023-tulokset-vahvistavat-tietoja-sateenkaarinuorten-heikommasta-mielenterveydesta-seka-hyvaksytyksi-tulemisen-myonteisista-vaikutuksista", publisher: "Seta ry", read: 2026-11-23}
   - {title: "Itsetuntemus, vahvuudet ja arvot (opinto-ohjaus, aihe 05)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
   - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
   - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", read: 2026-11-21}
   - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", read: 2026-11-21}
   - {title: "International technical guidance on sexuality education (UNESCO)", url: "https://www.unesco.org/en/articles/international-technical-guidance-sexuality-education-evidence-informed-approach", publisher: "UNESCO", read: 2026-11-21}
   - {title: "Hyvän vastauksen piirteet, terveystieto kevät 2023 (arvosteluohjeet)", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2023-03-29_TE_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta (YTL)", read: 2026-11-21}
-yearly_facts: [seksuaaliterveyspalvelut, opiskeluterveydenhuolto, kriisipuhelimet]
+yearly_facts: [seksuaaliterveyspalvelut]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
   - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", licence_class: open-cc-by-sa, licence: "CC BY-SA 4.0", audience: opettaja, read: 2026-11-21}
   - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", licence_class: open-cc-by, licence: "CC BY 4.0", audience: opettaja, read: 2026-11-21}
   - {title: "Seta", url: "https://seta.fi/", publisher: "Seta ry", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
+  - {title: "Seksuaalioikeudet (Väestöliitto)", url: "https://www.vaestoliitto.fi/seksuaaliterveys/seksuaalioikeudet/", publisher: "Väestöliitto", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-23}
   - {title: "Seksuaaliterveys (Väestöliitto)", url: "https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/", publisher: "Väestöliitto", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija, read: 2026-11-21}
   - {title: "International technical guidance on sexuality education (UNESCO)", url: "https://www.unesco.org/en/articles/international-technical-guidance-sexuality-education-evidence-informed-approach", publisher: "UNESCO", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
   - {title: "Opinto-ohjaussivusto: Itsetuntemus, vahvuudet ja arvot", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/", publisher: "Lukion opinto-ohjaus (sisarsivusto)", licence_class: open-cc-by, licence: "CC BY 4.0", audience: opiskelija ja opettaja, read: 2026-11-21}
@@ -62,8 +63,6 @@ accessibility:
 last_reviewed: 2026-11-21
 ---
 
-> **Sisältöhuomautus:** Tällä sivulla käsitellään seksuaalioikeuksia, suostumusta ja seksuaalista väkivaltaa yleisellä tasolla. Sivulla ei kuvata tekoja, kenenkään ei tarvitse kertoa omasta elämästään, ja lopussa on tietoa avusta.
-
 ## Opiskelijalle
 
 **Tämän aiheen jälkeen**
@@ -76,28 +75,32 @@ last_reviewed: 2026-11-21
 
 ### Mitä seksuaalioikeudet ovat?
 
-Seksuaalioikeudet ovat ihmisoikeuksia, jotka liittyvät seksuaalisuuteen. Ne kuuluvat kaikille iästä, sukupuolesta, seksuaalisesta suuntautumisesta, taustasta ja vammasta riippumatta. Niihin kuuluvat esimerkiksi oikeus päättää omasta kehostaan, oikeus tietoon ja palveluihin, oikeus olla vapaa pakottamisesta ja väkivallasta sekä oikeus tulla kohdelluksi yhdenvertaisesti. Oikeuksiin kuuluu myös velvollisuus kunnioittaa toisten oikeuksia.
+Seksuaalioikeudet ovat ihmisoikeuksia, jotka liittyvät seksuaalisuuteen ([Väestöliitto](https://www.vaestoliitto.fi/seksuaaliterveys/seksuaalioikeudet/)). Sivuston päätelmä on, että ihmisoikeuksina ne kuuluvat kaikille iästä, sukupuolesta, seksuaalisesta suuntautumisesta, taustasta ja vammasta riippumatta. Väestöliitto jaottelee seksuaalioikeudet seitsemään oikeuteen, joihin kuuluvat esimerkiksi oikeus tietoon seksuaalisuudesta sekä oikeus suojella itseään ja tulla suojelluksi. Väestöliiton mukaan oikeudesta seuraa muille velvollisuus kunnioittaa sitä.
 
 ### Suostumus
 
-**Suostumus** tarkoittaa, että ihminen on vapaaehtoisesti ja omasta tahdostaan mukana siinä, mitä tapahtuu. Suostumus on ilmaistu selvästi, ja sen voi perua milloin tahansa. Se koskee vain sitä asiaa, johon se annettiin. Aiemmin annettu suostumus ei siis jatku itsestään.
+Sivuston oman jäsennyksen mukaan **suostumus** tarkoittaa, että ihminen on vapaaehtoisesti ja omasta tahdostaan mukana siinä, mitä tapahtuu. Suostumus on ilmaistu selvästi, ja sen voi perua milloin tahansa. Se koskee vain sitä asiaa, johon se annettiin. Aiemmin annettu suostumus ei siis jatku itsestään.
 
-Suostumusta ei ole, jos toista painostetaan, uhataan tai pyydetään uudestaan, kunnes hän taipuu. Hiljaisuus ei ole suostumus. Suostumusta ei voi antaa, jos ihminen ei ole kykenevä päättämään, esimerkiksi nukkuu. Vastuu on aina sillä, joka haluaa edetä: hän kysyy ja kunnioittaa vastausta. Seksuaalinen teko ilman suostumusta voi olla rikos. Ihminen, jota on kohdeltu väärin, ei ole syyllinen siihen, mitä hänelle tehtiin.
+Sivuston näkemys: suostumusta ei ole, jos toista painostetaan, uhataan tai pyydetään uudestaan, kunnes hän taipuu. Hiljaisuus ei ole suostumus. Suostumusta ei voi antaa, jos ihminen ei ole kykenevä päättämään, esimerkiksi nukkuu. Vastuu on aina sillä, joka haluaa edetä: hän kysyy ja kunnioittaa vastausta. Sivuston näkemyksen mukaan ihminen, jota on kohdeltu väärin, ei ole syyllinen siihen, mitä hänelle tehtiin.
 
 ### Seksuaalinen ja sukupuolen moninaisuus
 
-**Seksuaalinen suuntautuminen** kertoo, keneen ihminen ihastuu tai tuntee kiinnostusta. **Sukupuoli-identiteetti** on kokemus omasta sukupuolesta. **Sukupuolen ilmaisu** tarkoittaa tapaa, jolla sukupuolta ilmaistaan esimerkiksi pukeutumisella tai puhetavalla. **Sukupuolen moninaisuus** kertoo, että sukupuolta koetaan ja ilmaistaan monin tavoin. Seksuaalinen suuntautuminen ei ole sairaus eikä valinta, eikä sitä tarvitse korjata. Moninaisuus on osa ihmisten erilaisuutta, ja kaikilla on oikeus tulla kohdelluksi kunnioittavasti.
+**Seksuaalinen suuntautuminen** kertoo [Setan](https://seta.fi/sateenkaaritieto/seksuaalinen-suuntautuminen/) mukaan, keneen ihminen ihastuu ja rakastuu. Setan mukaan se ei ole valinta eikä tahdonalainen asia. Homoseksuaalisuus poistettiin Suomessa sairausluokituksesta 1980-luvun alussa: vuonna 2021 depatologisoinnista oli Setan mukaan kulunut 40 vuotta ([Seta 2021](https://seta.fi/2021/05/12/vuosikymmen-terveiden-kirjoissa-transvestisuuden-ja-fetissien-tautiluokituksen-poistamisesta-10-vuotta)).
 
-**Syrjintä** tarkoittaa ihmisen huonompaa kohtelua esimerkiksi suuntautumisen tai sukupuolen vuoksi. Se on Suomessa laissa kiellettyä. Syrjintä ja ennakkoluulot kuormittavat mieltä: ne voivat aiheuttaa pelkoa, yksinäisyyttä ja jatkuvaa varuillaanoloa. Tuki, hyväksyvä ilmapiiri ja yhteisö, johon voi kuulua, suojaavat. Kun koulun ilmapiiri on turvallinen, nuori uskaltaa kysyä ja hakea apua.
+Sivuston oma kuvaus muista käsitteistä: **Sukupuoli-identiteetti** on kokemus omasta sukupuolesta. **Sukupuolen ilmaisu** tarkoittaa tapaa, jolla sukupuolta ilmaistaan esimerkiksi pukeutumisella tai puhetavalla. **Sukupuolen moninaisuus** kertoo, että sukupuolta koetaan ja ilmaistaan monin tavoin.
+
+Sivuston oma kuvaus: **syrjintä** tarkoittaa ihmisen huonompaa kohtelua esimerkiksi suuntautumisen tai sukupuolen vuoksi. Setan Kouluterveyskyselystä kokoaman tiedon mukaan sateenkaarinuoret kohtaavat muita enemmän syrjintää, väkivaltaa ja koulukiusaamista. Heidän heikompaa hyvinvointiaan selittävät muun muassa moninaisuuden näkymättömyys ja ympäristön luoma vähemmistöstressi, ja kokemus hyväksytyksi tulemisesta omana itsenään vahvistaa hyvinvointia ([Seta 2024](https://seta.fi/2024/03/13/kouluterveyskyselyn-2023-tulokset-vahvistavat-tietoja-sateenkaarinuorten-heikommasta-mielenterveydesta-seka-hyvaksytyksi-tulemisen-myonteisista-vaikutuksista)).
 
 ### Mikä vaikuttaa oikeuksien toteutumiseen?
+
+Tekijöiden jako tasoille on tässä sivuston oma:
 
 - **yksilölliset tekijät:** tieto omista oikeuksista, kyky sanoa ei ja kunnioittaa toisen ei-vastausta, itsetunto
 - **yhteisölliset tekijät:** ystävät, perhe, koulun ja harrastusten ilmapiiri, yhteisön asenteet
 - **yhteiskunnalliset tekijät:** lait, seksuaalikasvatus, palvelut, syrjinnän vastainen työ
 - **globaalit tekijät:** maiden väliset erot oikeuksissa, verkon alustat ja kansainväliset ihmisoikeussopimukset
 
-Esimerkki ketjusta: jos koulussa ei puhuta moninaisuudesta, nuori voi kokea olevansa yksin. Yksinäisyys voi lisätä kuormitusta ja vaikeuttaa avun hakemista. Jos koulussa on selvät pelisäännöt ja aikuinen, joka puuttuu pilkkaan, ketju kulkee toisin päin.
+Sivuston esimerkki ketjusta: jos koulussa ei puhuta moninaisuudesta, nuori voi kokea olevansa yksin. Yksinäisyys voi lisätä kuormitusta ja vaikeuttaa avun hakemista. Jos koulussa on selvät pelisäännöt ja aikuinen, joka puuttuu pilkkaan, ketju kulkee toisin päin.
 
 ### Eettisen analyysin näkökulmat
 
@@ -112,10 +115,6 @@ Eettinen kysymys syntyy, kun arvot ovat ristiriidassa eikä yksi oikea vastaus o
 
 Lopuksi näkökulmia punnitaan ja esitetään oma perusteltu kanta. Perustelu on tärkeämpi kuin se, kumman puolelle asettuu.
 
-### Mistä apua saa?
-
-Seksuaaliterveyden palveluja saa opiskeluterveydenhuollosta. Tietoa ja tukea antavat esimerkiksi [Seta](https://seta.fi/) ja [Väestöliitto](https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/). Rikoksen kokeneita tukee [Rikosuhripäivystys](https://www.riku.fi/). Lisää on sivulla *Apua ja tukea*.
-
 ## Tehtävät
 
 ### Tehtävä 1: Erota suostumus painostuksesta
@@ -127,7 +126,7 @@ Seksuaaliterveyden palveluja saa opiskeluterveydenhuollosta. Tietoa ja tukea ant
 
 *Tapaus (kuvitteellinen):* **Veera** pyytää **Kimiä** treffeille. Kim sanoo, ettei halua. Veera kysyy uudestaan seuraavana päivänä ja sanoo, että "kaikki muutkin menevät". Kolmannella kerralla Veera sanoo, että Kim on tylsä, jos ei lähde. Kim sanoo yhä ei, mutta alkaa vältellä Veeraa. Kimin kaverit huomaavat, että Kim on hiljainen.
 
-1. Kirjoita paperille suostumuksen neljä piirrettä: vapaaehtoinen, selvästi ilmaistu, peruttavissa, koskee vain tiettyä asiaa.
+1. Kirjoita paperille suostumuksen neljä piirrettä (sivuston jäsennys): vapaaehtoinen, selvästi ilmaistu, peruttavissa, koskee vain tiettyä asiaa.
 2. Merkitse jokaisen kohdalle, toteutuuko piirre tapauksessa, ja perustele yhdellä sanalla tai lauseella.
 3. Kirjoita kaksi tapaa, joilla Veera voisi toimia toisin.
 4. Kirjoita kaksi tapaa, joilla Kimin ystävät tai koulun aikuiset voivat tukea.
@@ -146,7 +145,7 @@ Seksuaaliterveyden palveluja saa opiskeluterveydenhuollosta. Tietoa ja tukea ant
 4. Kirjoita kuvitteellinen esimerkki syrjinnästä koulussa ja ketju, jolla se vaikuttaa hyvinvointiin.
 5. Kirjoita yksi tapa, jolla koulu voisi estää tämän ketjun.
 
-*Tarkistusrivi (peitä se kirjoittaessasi):* seksuaalinen suuntautuminen = keneen ihminen ihastuu tai tuntee kiinnostusta; sukupuoli-identiteetti = kokemus omasta sukupuolesta; sukupuolen ilmaisu = tapa ilmaista sukupuolta, esimerkiksi pukeutumisella tai puhetavalla; sukupuolen moninaisuus = sukupuolta koetaan ja ilmaistaan monin tavoin; syrjintä = huonompi kohtelu esimerkiksi suuntautumisen tai sukupuolen vuoksi.
+*Tarkistusrivi (sivuston oma kuvaus; peitä se kirjoittaessasi):* seksuaalinen suuntautuminen = keneen ihminen ihastuu tai tuntee kiinnostusta; sukupuoli-identiteetti = kokemus omasta sukupuolesta; sukupuolen ilmaisu = tapa ilmaista sukupuolta, esimerkiksi pukeutumisella tai puhetavalla; sukupuolen moninaisuus = sukupuolta koetaan ja ilmaistaan monin tavoin; syrjintä = huonompi kohtelu esimerkiksi suuntautumisen tai sukupuolen vuoksi.
 
 ### Tehtävä 3: Tutki oikeuksia ja tasoja
 
@@ -155,7 +154,7 @@ Seksuaaliterveyden palveluja saa opiskeluterveydenhuollosta. Tietoa ja tukea ant
 **Ilman laitetta:** Ohita vaihe 1. Valitse yksi oikeus, esimerkiksi oikeus tietoon, oikeus päättää omasta kehostaan tai oikeus yhdenvertaiseen kohteluun, ja tee vaiheet 2–5 paperilla. Tasot ovat yksilölliset, yhteisölliset, yhteiskunnalliset ja globaalit tekijät.
 **Harjoittelet:** Osaan 1 ja 4
 
-1. Avaa [Setan sivusto](https://seta.fi/) ja katso, millaista tietoa ja tukea nuorille on tarjolla.
+1. Avaa [Setan sivusto](https://seta.fi/) ja katso, mitä tietoa siellä on seksuaalisesta ja sukupuolen moninaisuudesta.
 2. Valitse yksi seksuaalioikeus ja kirjoita, miksi se on ihmisoikeus.
 3. Kirjoita jokaiselle neljälle tasolle yksi tekijä, joka voi edistää tai estää tämän oikeuden toteutumista.
 4. Selitä ketjuna, miten yksi näistä tekijöistä vaikuttaa terveyteen.
@@ -183,13 +182,13 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE1 yksin kattaa vain osan ylioppilaskokeesta: loput tulevat moduuleista TE2 ja TE3. Jos tehtävässä on aineisto, vastauksen pitää käyttää sitä, muuten kokonaispisteistä vähennetään 5 p ([ohje](../../opetussuunnitelma/)).
+Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE1 yksin kattaa vain osan ylioppilaskokeesta: loput tulevat moduuleista TE2 ja TE3.
 
 ### K1: Oikein vai väärin -väittämät, 25 min (20 p)
 
 *Osa A20 · Harjoittelee: Osaan 1, 2, 3*
 
-Alla on kymmenen väittämää. Merkitse jokainen oikeaksi tai vääräksi ja perustele valintasi yhdellä lauseella.
+Alla on kymmenen väittämää. Merkitse jokainen oikeaksi tai vääräksi ja perustele valintasi yhdellä lauseella. Väittämät 3–6 ja 8 perustuvat sivuston omaan jäsennykseen, väittämät 7 ja 9 Setan sivuihin (osio Opiskelijalle).
 
 1. Seksuaalioikeudet ovat ihmisoikeuksia.
 2. Seksuaalioikeudet kuuluvat vain täysi-ikäisille.
@@ -200,7 +199,7 @@ Alla on kymmenen väittämää. Merkitse jokainen oikeaksi tai vääräksi ja pe
 7. Seksuaalinen suuntautuminen on sairaus, joka pitää hoitaa.
 8. Sukupuoli-identiteetti tarkoittaa sitä, miten ihminen kokee oman sukupuolensa.
 9. Syrjintä ei vaikuta terveyteen, koska se on vain sanoja.
-10. Seksuaalioikeuksiin kuuluu myös oikeus tietoon ja palveluihin.
+10. Väestöliiton jaottelussa seksuaalioikeuksiin kuuluu oikeus tietoon seksuaalisuudesta.
 
 ### K2: Vertailu näkökulmittain, 35 min (20 p)
 
@@ -231,15 +230,15 @@ c) Tee perusteltu ratkaisuehdotus ja arvioi, miten se vaikuttaisi nuorten hyvinv
 **Malliksi kelpaava vastaus**
 
 1. **Oikein.** Seksuaalioikeudet kuuluvat ihmisoikeuksiin.
-2. **Väärin.** Ne kuuluvat kaikille iästä riippumatta.
+2. **Väärin.** Sivuston päätelmän mukaan ne ovat ihmisoikeuksina kaikille iästä riippumatta.
 3. **Oikein.** Suostumus on vapaaehtoista ja selvästi ilmaistua.
-4. **Väärin.** Hiljaisuus ei ole suostumus. Vastuu on sillä, joka haluaa edetä: hänen pitää kysyä ja kunnioittaa vastausta.
+4. **Väärin.** Sivuston jäsennyksessä suostumus on ilmaistu selvästi, joten hiljaisuus ei ole suostumus.
 5. **Oikein.** Suostumuksen voi perua milloin tahansa.
 6. **Väärin.** Suostumus koskee vain sitä asiaa, johon se annettiin, eikä se jatku itsestään.
-7. **Väärin.** Seksuaalinen suuntautuminen ei ole sairaus, eikä sitä tarvitse hoitaa.
+7. **Väärin.** Homoseksuaalisuus poistettiin Suomessa sairausluokituksesta jo 1980-luvun alussa (Seta), eikä suuntautuminen ole valinta tai hoidettava asia.
 8. **Oikein.** Sukupuoli-identiteetti on kokemus omasta sukupuolesta.
-9. **Väärin.** Syrjintä ja pilkka kuormittavat mieltä ja voivat vaikuttaa jaksamiseen ja hyvinvointiin.
-10. **Oikein.** Oikeus tietoon ja palveluihin kuuluu seksuaalioikeuksiin.
+9. **Väärin.** Kouluterveyskyselyn tulosten mukaan syrjintä ja kiusaaminen ovat yhteydessä sateenkaarinuorten heikompaan hyvinvointiin (Seta 2024).
+10. **Oikein.** Oikeus tietoon seksuaalisuudesta on yksi Väestöliiton seitsemästä oikeudesta.
 
 Oikeita ovat väittämät 1, 3, 5, 8 ja 10.
 
@@ -257,8 +256,8 @@ Oikeita ovat väittämät 1, 3, 5, 8 ja 10.
 **Tyypilliset virheet**
 
 - Perustelu toistaa väittämän ("suostumus on tärkeää, koska se on tärkeää").
-- Hiljaisuutta pidetään suostumuksena tai vastuu siirretään sille, joka ei vastannut.
-- Suuntautumista tai sukupuoli-identiteettiä kuvataan valintana tai sairautena.
+- Hiljaisuutta pidetään suostumuksena, vaikka sivuston jäsennyksessä suostumus on ilmaistu selvästi.
+- Suuntautumista kuvataan valintana tai sairautena.
 - Syrjinnän vaikutukset rajataan "vain tunteisiin" eikä terveyteen ja jaksamiseen.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
@@ -274,7 +273,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | c) Vaikutus hyvinvointiin | Turvallisuus ja kuulumisen kokemus suojaavat mielenterveyttä ja jaksamista. | Jatkuva varuillaanolo, yksinäisyys ja kokemus ulkopuolisuudesta kuormittavat mieltä. |
 | d) Kuka voi muuttaa | Koulun johto, opettajat ja opiskelijat ovat jo toimineet. Seuranta ja päivittäminen kuuluvat yhä koululle. | Rehtori voi kirjata pelisäännöt, opettajat voivat ottaa aiheet tunneille ja opiskelijakunta voi tehdä aloitteen. Hyvinvointialue voi tukea koulua. |
 
-**Johtopäätös:** Eniten eroa näyttää tekevän koulun yhteisöllinen ja yhteiskunnallinen rakenne eli pelisäännöt, aikuisen puuttuminen ja tieto. Ne ovat taustatekijöitä, jotka voivat suojata hyvinvointia riippumatta siitä, millainen yksittäinen opiskelija on. Yksilön oma rohkeus on tärkeä, mutta se ei riitä, jos ilmapiiri on turvaton.
+**Johtopäätös:** Eniten eroa näyttää tekevän koulun yhteisöllinen ja yhteiskunnallinen rakenne eli pelisäännöt, aikuisen puuttuminen ja tieto. Ne ovat taustatekijöitä, jotka voivat suojata hyvinvointia riippumatta siitä, millainen yksittäinen opiskelija on. Yksilön oma rohkeus on tärkeä, mutta se ei riitä, jos ilmapiiri on turvaton. Muukin perusteltu johtopäätös kelpaa, jos se nojaa vertailuun.
 
 **Pisteytys**
 
@@ -289,14 +288,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 4–7 p: vertailu on pääosin oikein, mutta mekanismit ovat yleisiä tai toista koulua käsitellään niukasti.
 - 0–3 p: koulut kuvataan erikseen eikä niitä verrata, tai näkökulmat menevät sekaisin.
 
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 20 p
 
 **Tyypilliset virheet**
 
 - Kouluja kuvataan peräkkäin, mutta ei verrata näkökulmittain.
-- Kaikki selitetään opiskelijoiden persoonalla tai rohkeudella.
+- Johtopäätös ei nojaa vertailuun.
 - Ketju jää kesken: mainitaan pilkka, mutta ei sitä, miten se vaikuttaa hyvinvointiin.
 - Aineiston ulkopuolisia seikkoja lisätään vastaukseen.
 
@@ -306,13 +304,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** Asia koskee opiskelijoita, huoltajia, opettajaa, rehtoria ja koko koulun yhteisöä. Moninaisuuden opettaminen ei ole kiistan aihe: se kuuluu opetussuunnitelman seksuaalioikeuksia koskevaan sisältöön ja koulun yhdenvertaisuusvelvoitteeseen. Kiistan aihe on se, miten huoltajille kerrotaan ja miten heidät otetaan mukaan.
+**a)** Asia koskee opiskelijoita, huoltajia, opettajaa, rehtoria ja koko koulun yhteisöä. Aineiston mukaan moninaisuus kuuluu tämän koulun terveystiedon opetukseen. Kiistan aihe on se, miten huoltajille kerrotaan ja miten heidät otetaan mukaan.
 
-**b)** *Arvot:* vastakkain ovat perheen vakaumuksen ja luottamuksen kunnioittaminen sekä yhdenvertaisuus ja tiedon saaminen kaikille. *Oikeudet:* nuorella on oikeus tietoon ja syrjimättömään kohteluun. Huoltajilla on oikeus tietää, mitä opetetaan, ja osallistua kasvatukseen, mutta opetussuunnitelman sisältö ei ole neuvoteltavissa. *Normit ja velvollisuudet:* koulun velvollisuus on opettaa sisältö kaikille ja edistää yhdenvertaisuutta, ja huoltajat tukevat lapsen koulunkäyntiä. *Seuraukset:* laaja etukäteistiedotus lisää luottamusta, mutta vie aikaa ja voi muuttua sisällön neuvotteluksi. Tavallinen tiedote välttää leimaamista, mutta huoltajat voivat kokea tulleensa ohitetuiksi. *Motiivit:* huoltajia ohjaa huoli lapsesta ja perheen vakaumus, ei halu syrjiä. Opettajaa ohjaa halu kohdella aihetta kuten muita.
+**b)** *Arvot:* vastakkain ovat perheen vakaumuksen ja luottamuksen kunnioittaminen sekä yhdenvertaisuus ja tiedon saaminen kaikille. *Oikeudet:* nuorella on oikeus tietoon ja syrjimättömään kohteluun. Huoltajat haluavat tietää, mitä opetetaan, ja osallistua keskusteluun, ja aineiston mukaan sisältö opetetaan kaikille. *Normit ja velvollisuudet:* aineiston mukaan koulun tehtävä on opettaa sisältö kaikille ja edistää yhdenvertaisuutta. *Seuraukset:* laaja etukäteistiedotus lisää luottamusta, mutta vie aikaa ja voi muuttua sisällön neuvotteluksi. Tavallinen tiedote välttää leimaamista, mutta huoltajat voivat kokea tulleensa ohitetuiksi. *Motiivit:* huoltajia ohjaa huoli lapsesta ja perheen vakaumus, ei halu syrjiä. Opettajaa ohjaa halu kohdella aihetta kuten muita.
 *Kanta 1: koulu tiedottaa laajasti ja keskustelee etukäteen.* Vahvuus: kunnioittaa huoltajien asemaa. Heikkous: vie aikaa, ja keskustelu voi muuttua vaatimukseksi. *Kanta 2: koulu tiedottaa tavalliseen tapaan.* Vahvuus: kohtelee aihetta kuten muita. Heikkous: luottamus voi heiketä. Kumpi tahansa kanta voi olla perusteltu, kunhan heikkoudet myönnetään.
 
 **c)** *Ehdotus:* Moninaisuus opetetaan kaikille neutraalisti ja asiallisesti. Koulu kertoo etukäteen kaikissa aiheissa, mitä tunneilla käsitellään, ja järjestää halutessaan huoltajille infotilaisuuden, jossa opettaja ja rehtori kertovat sisällöstä ja perusteista. Hyve kunnioitus toteutuu, kun molempia kuullaan.
-*Vaikutus:* tieto ja turvallinen ilmapiiri tukevat kaikkien opiskelijoiden hyvinvointia ja voivat vähentää yksinäisyyttä ja pilkkaa. Moninaisuuteen kuuluvat nuoret hyötyvät eniten. Terveyserot kaventuvat, kun kaikki saavat saman tiedon kodista riippumatta. Riski on, että huoltajat kokevat tulleensa ohitetuiksi, jos keskustelu laiminlyödään.
+*Vaikutus:* tieto ja turvallinen ilmapiiri tukevat kaikkien opiskelijoiden hyvinvointia ja voivat vähentää yksinäisyyttä ja pilkkaa. Moninaisuuteen kuuluvat nuoret voivat hyötyä eniten. Terveyserot voivat kaventua, kun kaikki saavat saman tiedon kodista riippumatta. Riski on, että huoltajat kokevat tulleensa ohitetuiksi, jos keskustelu laiminlyödään.
 
 **Pisteytys**
 
@@ -332,7 +330,6 @@ Pisteet annetaan päättelyn laadusta ja aineiston käytöstä, ei siitä, kumma
 
 Tehtävänannon osapisteet (a 5 p, b 15 p, c 10 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 30 p
 
@@ -341,7 +338,7 @@ Tehtävänannon osapisteet (a 5 p, b 15 p, c 10 p) sisältävät sekä sisällö
 - Vastaus on oma mielipide, jossa toista kantaa vain moititaan.
 - Näkökulmat vain luetellaan eikä niitä sovelleta aineistoon, tai arvoristiriitaa ei nimetä.
 - Huoltajien huoli sivuutetaan tai sitä pilkataan.
-- Sisällön opettaminen esitetään valinnaisena tai kodin päätettävänä, vaikka kiista koskee vain tiedottamista ja osallistamista.
+- Kantaa ei perustella.
 - Ehdotus ei kerro, kuka toimii ja miten.
 - Vaikutus nuorten terveyteen jää mainitsematta.
 
@@ -365,17 +362,17 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Tuntisuunnitelma (75 min)
 
-**Tavoitetehtävä:** Tehtävä 1 (Erota suostumus painostuksesta) tehdään kokonaan kaikissa tuntimalleissa. Ryhmätyö tehdään kuvitteellisilla tapauksilla. Kukaan ei kerro omista suhteistaan, kokemuksistaan tai seksuaalisuudestaan. Opiskelija saa poistua hetkeksi ilman selitystä.
+**Tavoitetehtävä:** Tehtävä 1 (Erota suostumus painostuksesta) tehdään kokonaan kaikissa tuntimalleissa. Ryhmätyö tehdään kuvitteellisilla tapauksilla. Kukaan ei kerro omista suhteistaan, kokemuksistaan tai seksuaalisuudestaan.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka tekee koulusta turvallisen kaikille. | Kerää laput ja lue muutama. Ryhmittele taululle: ihmiset, säännöt, tieto, tila. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 10 | Oikein vai väärin -väittämät pareittain: "Hiljaisuus on suostumus." "Suostumuksen voi perua." "Suuntautuminen on sairaus." "Seksuaalioikeudet ovat ihmisoikeuksia." | Vastausvihjeet: väärin, oikein, väärin, oikein. Perustele rauhallisesti ja neutraalein sanoin. | Väittämät paperilla, opiskelija vastaa yksin. | Käsittele kaksi ensimmäistä. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: seksuaalioikeus, suostumus, moninaisuus, syrjintä. | Näytä suostumuksen neljä piirrettä taululla ja kerro, että vastuu on sillä, joka haluaa edetä. | Jaa käsitteet paperilla. | Moninaisuuden käsitteet kotiin. |
+| Lyhyt alustus | 10 | Opiskelijat kirjaavat käsitteet: seksuaalioikeus, suostumus, moninaisuus, syrjintä. | Näytä sivuston jäsennyksen mukaiset suostumuksen neljä piirrettä taululla. | Jaa käsitteet paperilla. | Moninaisuuden käsitteet kotiin. |
 | Työskentely | 25 | Tehtävä 1 (15 min) yksin tai pareittain, sitten Tehtävä 2 (10 min). | Kierrä ja kysy: mikä tässä ei ole vapaaehtoista? Muistuta, että analysoidaan Veeraa ja Kimiä, ei itseä tai tuttuja. | Pari tekee yhteiset vastaukset. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät valitsevat yhden tekijän, joka tukee seksuaalioikeuksien toteutumista koulussa, ja ehdottavat keinon vahvistaa sitä. | Kokoa ehdotukset taululle tasoittain. Nosta esiin yhteisön ja yhteiskunnan keinot. | Yksin: kirjoita kaksi ehdotusta. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n väittämät 1–5 yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten 2 pistettä syntyy väittämästä. | Paperilla. | Tarkistus kotona. |
-| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Muistuta Apua ja tukea -osiosta. | – | – |
+| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kertaa suostumuksen piirteet. | – | – |
 
 ### Tuntisuunnitelma (60 min)
 
@@ -383,11 +380,11 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 4 | Nimetön lappu: yksi asia, joka tekee koulusta turvallisen kaikille. | Lue muutama ja ryhmittele taululle. | Nimetön sähköinen seinä. | Lue kaksi lappua. |
 | Aiemman tiedon aktivointi | 6 | Kolme väittämää pareittain: "Hiljaisuus on suostumus." "Suostumuksen voi perua." "Suuntautuminen on sairaus." | Vastausvihjeet: väärin, oikein, väärin. | Väittämät paperilla. | Käsittele kaksi ensimmäistä. |
-| Lyhyt alustus | 8 | Opiskelijat kirjaavat käsitteet ja suostumuksen neljä piirrettä. | Piirrä piirteet taululle. | Jaa käsitteet paperilla. | Moninaisuus kotiin. |
+| Lyhyt alustus | 8 | Opiskelijat kirjaavat käsitteet ja suostumuksen neljä piirrettä (sivuston jäsennys). | Piirrä piirteet taululle. | Jaa käsitteet paperilla. | Moninaisuus kotiin. |
 | Työskentely | 25 | Tehtävä 1 (15 min), sitten Tehtävä 2 (10 min). | Kierrä ja kysy perusteluja. | Pari tekee yhteiset vastaukset. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit valitsevat yhden keinon, jolla koulu voi tukea kaikkien turvallisuutta. | Kokoa kolme ehdotusta taululle. | Yksin paperille. | Yksi yhteinen ehdotus. |
 | Koeharjoitus ja exit | 7 | K1:n väittämät 1–3 yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä pisteytys. | Paperilla. | Tarkistus kotona. |
-| Puskuri | 2 | Kysymykset. | Muistuta Apua ja tukea -osiosta. | – | – |
+| Puskuri | 2 | Kysymykset. | – | – | – |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -395,30 +392,31 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 2 | Kysymys ääneen: mikä tekee koulusta turvallisen kaikille? Muutama vastaus. | Kirjoita vastaukset taululle ryhmiin. | Opiskelijat kirjoittavat vastauksen itselleen. | – |
 | Aiemman tiedon aktivointi | 3 | Kaksi väittämää: "Hiljaisuus on suostumus." "Suostumuksen voi perua." | Vastausvihjeet: väärin, oikein. | Väittämät paperilla. | Vain ensimmäinen väittämä. |
-| Lyhyt alustus | 7 | Opiskelijat kirjaavat käsitteet ja suostumuksen neljä piirrettä. | Piirrä piirteet taululle. | Jaa käsitteet paperilla. | Moninaisuus kotiin. |
+| Lyhyt alustus | 7 | Opiskelijat kirjaavat käsitteet ja suostumuksen neljä piirrettä (sivuston jäsennys). | Piirrä piirteet taululle. | Jaa käsitteet paperilla. | Moninaisuus kotiin. |
 | Työskentely | 22 | Tehtävä 1 kokonaan (15 min). Lopuksi Tehtävän 2 vaiheet 1–2 (7 min). | Kierrä ja kysy perusteluja. Tehtävä 1 tehdään kokonaan, ei lyhennetä. | Pari tekee yhteiset vastaukset. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 5 | Koko ryhmä ehdottaa yhden keinon, jolla koulu voi tukea turvallisuutta. | Kirjoita ehdotus taululle ja kysy: miksi sen pitäisi vaikuttaa? | Yksin paperille. | Pohdinta kotiin. |
 | Koeharjoitus ja exit | 4 | Exit-lappu: yksi epäselvä käsite. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
-| Puskuri | 2 | Kysymykset. | Muistuta Apua ja tukea -osiosta. | – | – |
+| Puskuri | 2 | Kysymykset. | – | – | – |
 
 ### Valmistelu
 
-- Kirjoita suostumuksen neljä piirrettä taululle valmiiksi ja varaa nimettömiä lappuja virittäytymiseen ja exitiin.
-- Selvitä koulun yhdenvertaisuussuunnitelma, kiusaamisen ja häirinnän vastaiset käytännöt sekä opiskeluterveydenhuollon ja kuraattorin yhteystiedot (esimerkki). Tutustu halutessasi UNESCOn seksuaalikasvatuksen ohjeeseen ja Opetushallituksen tukimateriaaliin (ks. Lähteet). Älä kopioi niiden tehtäviä.
+- Kirjoita suostumuksen neljä piirrettä (sivuston jäsennys) taululle valmiiksi ja varaa nimettömiä lappuja virittäytymiseen ja exitiin.
+- Selvitä koulun yhdenvertaisuussuunnitelma, kiusaamisen ja häirinnän vastaiset käytännöt. Tutustu halutessasi UNESCOn seksuaalikasvatuksen ohjeeseen ja Opetushallituksen tukimateriaaliin (ks. Lähteet). Älä kopioi niiden tehtäviä.
 
 ### Avoimet kysymykset
 
 - Miksi seksuaalioikeudet ovat ihmisoikeuksia?
-- Miksi vastuu suostumuksen varmistamisesta on sillä, joka haluaa edetä?
+- Kenellä on vastuu varmistaa suostumus, ja miksi?
 - Miten painostus eroaa suostumuksesta?
 - Miten syrjintä voi kuormittaa terveyttä?
 - Miten eettistä kysymystä analysoidaan, kun molemmilla puolilla on hyviä perusteluja?
 
 ### Pelisäännöt ja oletusten tarkistus
 
+*Ehdotus opettajalle, ei sääntö (sivuston oma):*
+
 - Analysoidaan kuvitteellisia henkilöitä ja ilmiöitä. Älä pyydä opiskelijoita kertomaan omasta seksuaalisuudestaan, suhteistaan, kokemuksistaan tai perheestään. Älä käytä nosta käsi -kysymyksiä.
 - Käytä asiallisia termejä. Älä kuvaile seksuaalisia tekoja tai väkivaltaa yksityiskohtaisesti.
-- Kerro tunnin alussa, että aihe voi herättää tunteita ja että tauon voi ottaa. Jos opiskelija kertoo huolestaan tai omasta kokemuksestaan, kuuntele, kiitä luottamuksesta ja ohjaa opiskeluterveydenhuoltoon tai opiskeluhuoltoon. Jos kerrotaan väkivallasta tai uhkaavasta tilanteesta, toimi koulun ohjeiden mukaan.
 - Ei pilkkaa, ei arvailua kenenkään suuntautumisesta tai sukupuolesta ja ei syyllistämistä. Ei käsitellä oikeita nimeltä mainittuja koulun tapauksia.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että kaikki ovat heteroita tai että sukupuolia on vain kaksi? Oletanko, että kaikilla on samanlainen perhe, usko tai kulttuuri? Puhunko suostumuksesta vain tietyn sukupuolen näkökulmasta? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -437,27 +435,11 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *sukupuoli-identiteetti = kokemus omasta sukupuolesta*
 - *syrjintä = ihmisen huonompi kohtelu esimerkiksi suuntautumisen tai sukupuolen vuoksi*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee vastaukset sanoin tai kuvin. Lue tapaus kahdessa osassa. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa. Aihe voi jännittää; tauon voi pitää milloin vain.
+**Lukeminen, keskittyminen ja jännitys:** Tee vastaukset sanoin tai kuvin. Lue tapaus kahdessa osassa. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-**Jos olet välittömässä vaarassa, soita hätänumeroon 112.**
-
-Jos sinua on kohdeltu väärin tai pakotettu johonkin, se ei ole sinun syysi. Voit puhua asiasta opiskeluterveydenhuollon terveydenhoitajan tai lääkärin, kuraattorin tai psykologin kanssa. Jos sinulla on muita oireita tai huolia, ota yhteyttä samoihin. Koulusi kertoo, miten aika varataan (esimerkki). Avun pyytäminen on tavallista ja järkevää.
-
-**Apua saat myös:**
-
-- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
-- [Rikosuhripäivystys (luettu 21.11.2026)](https://www.riku.fi/): tukea ja neuvoja rikoksen kokeneille puhelimessa, verkossa ja kasvokkain. Sivustolla on tietoa myös seksuaalirikoksista. Aukioloajat ovat sivulla.
-- [Väestöliitto: seksuaaliterveys (luettu 21.11.2026)](https://www.vaestoliitto.fi/seksuaalisuus/seksuaaliterveys/): tietoa seksuaaliterveydestä. Ikärajat ja aukioloajat ovat sivulla.
-- [Seta (luettu 21.11.2026)](https://seta.fi/): tietoa ja tukea seksuaali- ja sukupuolivähemmistöihin kuuluville nuorille ja heidän läheisilleen.
-- [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
-- [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.
 
 ## Lähteet
 

@@ -19,14 +19,13 @@ official_links:
   - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
   - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
-  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin-kollektiivi", read: 2026-11-21}
-  - {title: "MIELI Kriisipuhelin", url: "https://mieli.fi/tukea-ja-apua/kriisipuhelin/", publisher: "MIELI Suomen Mielenterveys ry", read: 2026-11-21}
   - {title: "Itsetuntemus, vahvuudet ja arvot (opinto-ohjaus, aihe 05)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
   - {title: "TE1 Terveys voimavarana (verkkokurssin runko)", url: "https://aoe.fi/#/materiaali/1113", publisher: "Schildtin lukio (aoe.fi)", read: 2026-11-21}
   - {title: "Terveystiedon LOPS 2019 -tukimateriaali", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali", publisher: "Opetushallitus", read: 2026-11-21}
   - {title: "TE01 Terveys voimavarana, verkko-opintojakso", url: "https://aoe.fi/#/materiaali/1852", publisher: "Omnia, Espoon aikuislukio (aoe.fi)", read: 2026-11-21}
   - {title: "Miten edetä kohti muutosta? (Mielenterveystalo, muutoksen vaiheet)", url: "https://www.mielenterveystalo.fi/fi/omahoito/sosiaalisen-median-kayton-vahentamisen-omahoito-ohjelma/miten-edeta-kohti-muutosta", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
-yearly_facts: [opiskeluterveydenhuolto, kriisipuhelimet]
+  - {title: "Ylioppilastutkinnon hyvän vastauksen piirteet, terveystieto (syksy 2024)", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
+yearly_facts: []
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - title: "TE1 Terveys voimavarana (verkkokurssin runko)"
@@ -66,8 +65,7 @@ sibling_links:
   - title: "Itsetuntemus, vahvuudet ja arvot (opinto-ohjaus, aihe 05)"
     url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/05-itsetuntemus/"
     read: 2026-11-21
-school_adapts:
-  - "Koulun opiskeluhuollon ja opiskeluterveydenhuollon yhteystiedot ja ajanvaraus (esimerkki)"
+school_adapts: []
 accessibility:
   - "Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä."
   - "Tehtävissä analysoidaan kuvitteellisia henkilöitä; omasta terveydestä ei tarvitse kertoa kenellekään."
@@ -83,11 +81,11 @@ last_reviewed: 2026-11-21
 2. Osaan soveltaa suunnitellun käyttäytymisen teoriaa kuvitteellisen henkilön toimintaan.
 3. Osaan soveltaa sosiaalis-kognitiivista teoriaa ja terveysuskomusmallia kuvitteelliseen tilanteeseen.
 4. Osaan kuvata muutosvaihemallin vaiheet, piirtää mallin ja selittää, millainen tuki sopii kullekin vaiheelle takapakki mukaan lukien.
-5. Osaan vertailla malleja ja arvioida, mitä ne selittävät hyvin ja mitä ne jättävät selittämättä.
+5. Osaan vertailla malleja ja arvioida, mitä ne selittävät hyvin ja mitä ne jättävät selittämättä (sivuston lisäys).
 
 ### Miksi tieto ei aina riitä?
 
-Moni tietää, että jokin asia suojaa terveyttä, mutta toimii silti toisin. Syy ei ole laiskuus tai välinpitämättömyys. Toimintaan vaikuttavat ajatukset, läheiset ihmiset ja se, mikä on mahdollista omassa arjessa.
+Moni tietää, että jokin asia suojaa terveyttä, mutta toimii silti toisin. Mallit selittävät toimintaa ajatuksilla, läheisillä ihmisillä ja arjen oloilla, eivät luonteenvioilla.
 
 Sosiaalipsykologia tutkii, miten ajatukset, toiset ihmiset ja tilanne yhdessä ohjaavat toimintaa. Terveystiedossa käytetään sen **malleja ja teorioita** elintapojen selittämiseen. Malli on yksinkertaistus. Se ei kerro, mitä ihmisen pitäisi tehdä. Se selittää, mistä toiminta voi syntyä.
 
@@ -116,23 +114,23 @@ Malli selittää, miksi ihminen ryhtyy ehkäisemään jotakin terveyden uhkaa. I
 - **toimintaan kehottava vihje:** jokin asia, joka muistuttaa tai herättää, kuten viesti tai läheisen esimerkki
 - **minäpystyvyys:** uskonko onnistuvani
 
-Huomaa sana *koettu*. Malli kuvaa ihmisen omaa arviota, ei sitä, mikä on totta. Siksi hyvä viestintä kertoo luotettavaa tietoa ja poistaa esteitä.
+Huomaa sana *koettu*. Malli kuvaa ihmisen omaa arviota, ei sitä, mikä on totta. Sivuston esimerkki: terveysviesti voi siksi pyrkiä muuttamaan koettua alttiutta luotettavalla tiedolla ja vähentämään koettuja esteitä.
 
 ### Muutosvaihemalli
 
 Muutosvaihemallia kutsutaan transteoreettiseksi malliksi. Se kuvaa muutosta prosessina, jossa on vaiheita (kaavio osion lopussa):
 
-1. **Esiharkinta:** muutosta ei vielä harkita. Asiaa ei pidetä ongelmana, tai hyödyt tuntuvat pieniltä ja haitat suurilta. Tuki: tieto ja keskustelu ilman painostusta.
-2. **Harkinta:** hyödyt ja haitat punnitaan, ja ihminen on usein ristiriitainen. Minäpystyvyys on vielä heikko. Tuki: apu punnita hyötyjä ja esteitä.
-3. **Valmistautuminen:** suunnitellaan ja kokeillaan pieniä askelia. Tuki: konkreettinen suunnitelma ja pienet onnistumiset, jotka vahvistavat minäpystyvyyttä.
-4. **Toiminta:** uusi tapa on käytössä. Hyödyt painavat jo enemmän kuin haitat. Tuki: esteiden poisto ja kannustus.
-5. **Ylläpito:** uutta tapaa pidetään yllä, kunnes se tuntuu tavalliselta. Tuki: kannustus ja valmius takapakkiin.
+1. **Esiharkinta:** muutosta ei vielä harkita. Asiaa ei pidetä ongelmana, tai hyödyt tuntuvat pieniltä ja haitat suurilta. Tuen esimerkki: tieto ja keskustelu ilman painostusta.
+2. **Harkinta:** hyödyt ja haitat punnitaan, ja ihminen on usein ristiriitainen. Minäpystyvyys on vielä heikko. Tuen esimerkki: apu punnita hyötyjä ja esteitä.
+3. **Valmistautuminen:** suunnitellaan ja kokeillaan pieniä askelia. Tuen esimerkki: konkreettinen suunnitelma ja pienet onnistumiset, jotka vahvistavat minäpystyvyyttä.
+4. **Toiminta:** uusi tapa on käytössä. Hyödyt painavat jo enemmän kuin haitat. Tuen esimerkki: esteiden poisto ja kannustus.
+5. **Ylläpito:** uutta tapaa pidetään yllä, kunnes se tuntuu tavalliselta. Tuen esimerkki: kannustus ja valmius takapakkiin.
 
-**Takapakki** eli retkahdus kuuluu tavallisesti prosessiin. Se ei ole epäonnistuminen vaan tilaisuus oppia, mikä tilanne tai este sen aiheutti ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/omahoito/sosiaalisen-median-kayton-vahentamisen-omahoito-ohjelma/miten-edeta-kohti-muutosta)). Moni kiertää vaiheita useammin kuin kerran, ja minäpystyvyys kasvaa onnistumisten myötä. Siksi tuki vaihtelee vaiheen mukaan, eikä sama viesti sovi kaikille.
+**Takapakki** eli retkahdus kuuluu tavallisesti prosessiin. Se ei ole epäonnistuminen vaan tilaisuus oppia, mikä tilanne tai este sen aiheutti ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/omahoito/sosiaalisen-median-kayton-vahentamisen-omahoito-ohjelma/miten-edeta-kohti-muutosta)). Mielenterveystalon mukaan jokaisessa vaiheessa tarvitaan erilaista tukea; tuen esimerkit ovat sivuston omia. Sivu nimeää vaiheet osin toisin (esimerkiksi päätös, vakiinnuttaminen).
 
 ### Mallien vahvuudet ja rajat
 
-Mallit auttavat suunnittelemaan viestintää ja tukea, koska ne näyttävät, mihin voi vaikuttaa: tietoon, asenteisiin, läheisten tukeen, esteisiin tai pystyvyyteen. Ne eivät silti selitä kaikkea. Useimmat painottavat ihmisen ajattelua ja vähemmän tuloja, asuinpaikkaa tai palveluita. Muista aiheen 01 kehät: valinnat syntyvät oloissa. Mallit eivät myöskään tee kenestäkään syyllistä. Ne auttavat ymmärtämään, miksi sama ohje toimii yhdessä ryhmässä ja ei toisessa. Samoilla malleilla voi selittää myös alkoholiin ja nikotiiniin liittyviä valintoja; niihin perehdytään [TE2-moduulissa](../../opetussuunnitelma/).
+Mallit auttavat suunnittelemaan viestintää ja tukea, koska ne näyttävät, mihin voi vaikuttaa: tietoon, asenteisiin, läheisten tukeen, esteisiin tai pystyvyyteen. Sivuston lisäys: ne eivät silti selitä kaikkea. Tulojen, asuinpaikan ja palvelujen vaikutus jää niissä epäsuoraksi, esimerkiksi koetuksi kontrolliksi. Muista aiheen 01 kehät: valinnat syntyvät oloissa. Mallit auttavat ymmärtämään, miksi sama ohje toimii yhdessä ryhmässä ja ei toisessa. Samoilla malleilla voi selittää myös alkoholiin ja nikotiiniin liittyviä valintoja; niihin perehdytään [TE2-moduulissa](../../opetussuunnitelma/).
 
 ## Tehtävät
 
@@ -189,7 +187,7 @@ Mallit auttavat suunnittelemaan viestintää ja tukea, koska ne näyttävät, mi
 Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
 
 1. Miksi sama terveysviesti voi toimia yhdessä ryhmässä mutta ei toisessa?
-2. Mitä hyötyä ja mitä rajoja on sillä, että malli selittää toimintaa pääosin ajatuksilla?
+2. Mitä hyötyä ja mitä rajoja on sillä, että malli selittää toimintaa ajatuksilla ja kokemuksilla?
 3. Miten koulu voisi tehdä jostakin terveyttä tukevasta toiminnasta helpompaa niin, ettei siihen tarvita tahdonvoimaa?
 
 **Itsearviointi.** Arvioi jokainen kohta asteikolla *En vielä · Osittain · Melko hyvin · Hyvin*.
@@ -198,7 +196,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 2. Osaan soveltaa suunnitellun käyttäytymisen teoriaa kuvitteellisen henkilön toimintaan.
 3. Osaan soveltaa sosiaalis-kognitiivista teoriaa ja terveysuskomusmallia kuvitteelliseen tilanteeseen.
 4. Osaan kuvata muutosvaihemallin vaiheet, piirtää mallin ja selittää, millainen tuki sopii kullekin vaiheelle takapakki mukaan lukien.
-5. Osaan vertailla malleja ja arvioida, mitä ne selittävät hyvin ja mitä ne jättävät selittämättä.
+5. Osaan vertailla malleja ja arvioida, mitä ne selittävät hyvin ja mitä ne jättävät selittämättä (sivuston lisäys).
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
@@ -210,7 +208,7 @@ Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyyp
 
 ### K1: Oikein vai väärin -väittämät, 25 min (20 p)
 
-*Osa A20 · Harjoittelee: Osaan 1, 4, 5*
+*Osa A20 · Harjoittelee: Osaan 1, 3, 4*
 
 Päätä jokaisesta väittämästä, onko se oikein vai väärin. Perustele valintasi yhdellä lauseella. Jos väittämä on väärin, korjaa se. Jokaisesta väittämästä saa 2 p: oikea valinta 1 p ja perustelu tai korjaus 1 p.
 
@@ -223,7 +221,7 @@ Päätä jokaisesta väittämästä, onko se oikein vai väärin. Perustele vali
 7. Muutosvaihemallin mukaan ihminen etenee vaiheesta toiseen suoraan eikä koskaan palaa aiempaan vaiheeseen.
 8. Esiharkintavaiheessa ihminen ei vielä harkitse muutosta.
 9. Mallit auttavat ymmärtämään, miksi pelkkä tieto ei aina muuta toimintaa.
-10. Mallit ottavat huomioon kaikki tulot, asuinpaikan ja palvelut yhtä painavasti kuin ihmisen ajatukset.
+10. Sosiaalis-kognitiivisen teorian mukaan ihminen oppii vain omista kokeiluistaan eikä katsomalla muita.
 
 ### K2: Piirrä malli ja kuvio, 35 min (20 p)
 
@@ -276,7 +274,7 @@ c) Arvioi, mitä mallit eivät aineiston tilanteessa selitä, ja tee kaksi perus
 7. **Väärin.** Takapakki ja vaiheiden kiertäminen kuuluvat prosessiin.
 8. **Oikein.** Esiharkinnassa muutos ei ole lähitulevaisuuden suunnitelmissa.
 9. **Oikein.** Mallit selittävät, että toiminta syntyy asenteista, normeista, pystyvyydestä ja esteistä, ei vain tiedosta.
-10. **Väärin.** Mallit painottavat ajattelua ja vähemmän oloja, kuten tuloja ja palveluita.
+10. **Väärin.** Teorian mukaan ihminen oppii myös katsomalla muita: jos esikuva onnistuu, oma kokeilu tuntuu mahdolliselta.
 
 **Pisteytys**
 
@@ -312,7 +310,7 @@ esiharkinta → harkinta → valmistautuminen → toiminta → ylläpito
 
 **b)** Pylväskuvion osat: otsikko *Kyselyyn vastanneet muutosvaiheittain (kuvitteellinen, 40 vastaajaa)*; vaaka-akselilla muutosvaihe viidessä pylväässä järjestyksessä; pystyakselilla vastaajien määrä ja asteikko nollasta; pylväiden korkeudet 12, 10, 8, 6 ja 4; lähteeksi merkitty *kuvitteellinen*.
 
-**c)** Kuvion mukaan suurimmat ryhmät ovat esiharkinta (12) ja harkinta (10), eli yhteensä 22 vastaajaa ei vielä toimi. Esiharkinnassa oleville sopii tieto ja keskustelu ilman painostusta, koska he eivät vielä näe muutoksen hyötyjä. Harkinnassa oleville sopii apu punnita hyötyjä ja esteitä sekä esteiden poisto, esimerkiksi turvallinen pyöräpaikka. Pieni ensimmäinen askel vahvistaa minäpystyvyyttä. Takapakki voi kohdata toimintavaiheessa olevia, ja sekin kuuluu prosessiin. Kuvio ei kerro, miksi vastaajat ovat tässä vaiheessa, eikä siitä näe olosuhteita, kuten pyöräteiden kuntoa. Se on yksi hetki eikä näytä muutosta ajassa, ja sen luvut ovat kuvitteellisia.
+**c)** *Yksi mahdollinen vastaus; mikä tahansa tuki, joka perustellaan vaiheen hyödyillä, esteillä tai minäpystyvyydellä, kelpaa.* Kuvion mukaan suurimmat ryhmät ovat esiharkinta (12) ja harkinta (10), eli yhteensä 22 vastaajaa ei vielä toimi. Esiharkinnassa oleville sopii tieto ja keskustelu ilman painostusta, koska he eivät vielä näe muutoksen hyötyjä. Harkinnassa oleville sopii apu punnita hyötyjä ja esteitä sekä esteiden poisto, esimerkiksi turvallinen pyöräpaikka. Pieni ensimmäinen askel vahvistaa minäpystyvyyttä. Takapakki voi kohdata toimintavaiheessa olevia, ja sekin kuuluu prosessiin. Kuvio ei kerro, miksi vastaajat ovat tässä vaiheessa, eikä siitä näe olosuhteita, kuten pyöräteiden kuntoa. Se on yksi hetki eikä näytä muutosta ajassa, ja sen luvut ovat kuvitteellisia.
 
 **Pisteytys**
 
@@ -320,14 +318,13 @@ esiharkinta → harkinta → valmistautuminen → toiminta → ylläpito
 
 - a) Viisi vaihetta oikeassa järjestyksessä 2 p; nuolet ja takapakin paluureitti 2 p. Yhteensä 4 p.
 - b) Otsikko ja molemmat akselit nimetty 1 p; pylväät ja asteikko nollasta oikein 1 p; lähde merkitty kuvitteelliseksi 1 p. Yhteensä 3 p.
-- c) Tuki esiharkinnassa olevalle 1 p ja harkinnassa olevalle 1 p; kuvion rajoitus nimetty 1 p. Yhteensä 3 p.
+- c) Tuki esiharkinnassa olevalle 1 p ja harkinnassa olevalle 1 p, kun tuki perustellaan vaiheen hyödyillä, esteillä tai minäpystyvyydellä; kuvion rajoitus nimetty 1 p. Yhteensä 3 p.
 
 *Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
 - 8–10 p: malli ja kuvio yhdistetään, tuki perustellaan vaiheen hyödyillä, esteillä ja minäpystyvyydellä, ja kuvion rajat arvioidaan.
 - 4–7 p: piirrokset ovat oikein, mutta selitys jää yleiseksi tai kuvion rajoista mainitaan vain yksi yleinen huomio.
 - 0–3 p: vastaus piirtää mutta ei selitä, tai tulkitsee kuviota syiksi.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 20 p
 
@@ -348,7 +345,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **b)** *Terveysuskomusmalli:* "En usko, että kukaan ajaa päälle" kuvaa heikkoa koettua alttiutta: uhkaa ei pidetä todennäköisenä. Jos viesti saisi ihmisen näkemään uhan realistisemmin, aikomus voisi vahvistua. "Tiedän, että pitäisi, mutta en ole ajatellut asiaa" kertoo, että tietoa on mutta toimintaan kehottava vihje puuttuu. *Sosiaalis-kognitiivinen teoria:* "Aloitin pienellä heijastimella laukussa. Nyt se on helppoa" kuvaa minäpystyvyyden kasvua: pieni onnistuminen vahvistaa uskoa seuraavaan. "Joukkueessamme kaikki käyttävät" kuvaa mallioppimista: ihminen seuraa toisten esimerkkiä.
 
-**c)** Mallit eivät selitä katuvalojen puutetta, kunnan päätöksiä eivätkä sitä, kuka heijastimen maksaa tai mistä sen saa. Ne painottavat yksilön ajattelua. Tottumus, kuten "se on tapa", ei välttämättä perustu harkintaan. Lisäksi vastaajat ovat eri vaiheissa: osa esiharkinnassa, osa harkinnassa tai ylläpidossa.
+**c)** Mallit eivät selitä katuvalojen puutetta, kunnan päätöksiä eivätkä sitä, kuka heijastimen maksaa tai mistä sen saa. Sivuston lisäys: ne kuvaavat pääosin yksilön ajattelua. Tottumus, kuten "se on tapa", ei välttämättä perustu harkintaan. Lisäksi vastaajat ovat eri vaiheissa: osa esiharkinnassa, osa harkinnassa tai ylläpidossa.
 *Ehdotus 1:* Koulu jakaa maksuttomia heijastimia ja pitää niitä saatavilla koulun ovella (esteen poisto, kontrolli). Joukkueet ja opiskelijakunnan edustajat kertovat omasta tavastaan (normi, mallioppiminen). Näin tuetaan valmistautumista ja toimintaa.
 *Ehdotus 2:* Esiharkinnassa oleville suunnataan lyhyt viesti, joka kertoo, miten pimeässä näkyvyys vaikuttaa, ja tarjoaa vihjeen, kuten muistutuksen syysloman alussa. Harkinnassa oleville annetaan pieni ensimmäinen askel (heijastin laukkuun), joka vahvistaa minäpystyvyyttä. Samalla kunnalta pyydetään valoja puutteellisille osuuksille, koska kampanja ei yksin riitä.
 
@@ -358,7 +355,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 - a) Vähintään kolme käsitettä (asenne, normi, kontrolli, aikomus) tunnistettu aineistosta ja oikein tulkittu 3 p; aikomuksen ja toiminnan yhteys selitetty 2 p. Yhteensä 5 p.
 - b) Kaksi ajatusta selitetty mallin käsitteillä, 2 p kumpikin. Yhteensä 4 p.
-- c) Mallien rajoitus aineistossa nimetty ja perusteltu 2 p; kaksi ehdotusta, joissa on keino, perustelu mallin käsitteellä ja muutosvaiheen huomioiminen, 2 p kumpikin. Yhteensä 6 p.
+- c) Mallien rajoitus aineistossa nimetty ja perusteltu 2 p; kaksi ehdotusta, joissa on keino, perustelu mallin käsitteellä ja muutosvaiheen huomioiminen, 2 p kumpikin. Yhteensä 6 p. Kohta c on sivuston lisäys opetussuunnitelman sisältöihin, ja mikä tahansa perusteltu raja kelpaa.
 
 *Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
@@ -366,8 +363,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 6–11 p: sisältö on pääosin oikein, mutta aineistoon viitataan vähän, arvio on yleinen tai ehdotukset jäävät perustelematta.
 - 0–5 p: vastaus luettelee käsitteitä, jää yleiselle tasolle tai ei käytä aineistoa.
 Tehtävänannon osapisteet (a 9 p, b 9 p, c 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
-
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 30 p
 
@@ -407,7 +402,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Aiemman tiedon aktivointi | 10 | Oikein vai väärin -väittämät pareittain: "Jos ihminen tietää, että kypärä suojaa, hän käyttää sitä aina." "Kavereiden odotukset voivat vaikuttaa toimintaan." "Ihminen on aina samassa muutosvaiheessa." | Käy väittämät läpi perustellen. Vastausvihjeet: väärin, oikein, väärin. Kytke lappuihin. | Väittämät paperilla, opiskelija vastaa yksin. | Käsittele kaksi ensimmäistä. |
 | Lyhyt alustus | 10 | Opiskelijat kirjaavat mallit ja niiden käsitteet. | Esittele neljä mallia taulun neljässä lokerossa. Anna yksi esimerkki per malli. Korosta, että mallit selittävät, eivät neuvo. | Jaa mallikortit paperilla. | Esittele vain suunnitellun käyttäytymisen teoria. |
 | Työskentely | 25 | Tehtävä 1 (20 min) yksin tai pareittain, sitten Tehtävän 2 vaiheet 1–2 (5 min). | Kierrä ja kysy: mikä tässä tukee aikomusta, mikä heikentää? Muistuta, että analysoidaan Kimiä, ei itseä. | Pari tekee yhteisen kartan. | Tehtävä 2 kotiin. |
-| Pari- tai pienryhmäpohdinta | 10 | Ryhmät vertaavat karttoja ja valitsevat yhden asian, johon koulu tai kunta voisi vaikuttaa Kimin tapauksessa. | Kokoa ehdotukset taululle. Nosta esiin, että olosuhteet ratkaisevat usein enemmän kuin asenne. | Yksin: kirjoita kaksi ehdotusta. | Yksi yhteinen keskustelu koko ryhmälle. |
+| Pari- tai pienryhmäpohdinta | 10 | Ryhmät vertaavat karttoja ja valitsevat yhden asian, johon koulu tai kunta voisi vaikuttaa Kimin tapauksessa. | Kokoa ehdotukset taululle. Nosta esiin, että asenteen lisäksi myös olosuhteet vaikuttavat valintoihin. | Yksin: kirjoita kaksi ehdotusta. | Yksi yhteinen keskustelu koko ryhmälle. |
 | Koeharjoitus ja exit | 10 | K1:n väittämät 1–5 yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit-lappu: yksi käsite, joka on vielä epäselvä. | Näytä K1:n pisteytys ja kysy: mistä kaksi pistettä syntyy? | Paperilla. | Tarkistus kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat harjoituksia kotiin tai kertaukseen. | – | – |
 
@@ -453,10 +448,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Analysoidaan kuvitteellisia henkilöitä ja ilmiöitä. Älä pyydä opiskelijoita kertomaan omista elintavoistaan, terveydestään tai perheestään.
-- Jos opiskelija kertoo huolestaan, kuuntele, kiitä luottamuksesta ja ohjaa opiskeluterveydenhuoltoon tai opiskeluhuoltoon koulun käytännön mukaan.
-- Älä arvioi elintapoja hyviksi tai huonoiksi ihmisinä. Mallit selittävät, ne eivät syyllistä.
-- **Oletusten tarkistus ennen tuntia:** Oletanko, että kaikilla on rahaa suojavarusteisiin, turvallinen koulumatka tai tukeva kaveripiiri? Esitänkö muutoksen tahdonvoiman asiana? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
+- Sivuston ehdotus opettajalle: tunnilla analysoidaan Kimin tapausta ja muita kuvitteellisia esimerkkejä. Älä pyydä opiskelijoita kertomaan omista elintavoistaan, terveydestään tai perheestään.
+- Mallien soveltaminen arvioidaan, ei opiskelijan omia tapoja: [Opetushallituksen tukimateriaalissa](https://www.oph.fi/fi/koulutus-ja-tutkinnot/terveystiedon-lops-2019-tukimateriaali) terveyskäyttäytyminen, arvot ja asenteet jäävät arvioinnin ulkopuolelle. Sivuston ehdotus opettajalle: käsittele asennetta ja normia mallin käsitteinä, älä ihmisten ominaisuuksina.
+- **Oletusten tarkistus ennen tuntia (sivuston ehdotus opettajalle):** Oletanko, että kaikilla on rahaa suojavarusteisiin, turvallinen koulumatka tai tukeva kaveripiiri? Esitänkö muutoksen tahdonvoiman asiana? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
 
@@ -478,20 +472,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-**Jos olet välittömässä vaarassa, soita hätänumeroon 112.**
-
-Tällä sivulla opiskellaan terveyttä ja elintapoja yleisesti. Jos sinulla on omia oireita tai huolia terveydestäsi, ota yhteyttä opiskeluterveydenhuoltoon eli terveydenhoitajaan tai lääkäriin. Voit puhua myös kuraattorin tai psykologin kanssa. Koulusi kertoo, miten aika varataan (esimerkki). Avun pyytäminen on tavallista ja järkevää.
-
-**Apua saat myös:**
-
-- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
-- [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): omahoito-ohjelmia nuorille.
-- [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille.
-- [MIELI Kriisipuhelin (luettu 21.11.2026)](https://mieli.fi/tukea-ja-apua/kriisipuhelin/): keskusteluapua kriisissä, myös nimettömästi. Aukioloajat ja numero ovat sivulla.
 
 ## Lähteet
 

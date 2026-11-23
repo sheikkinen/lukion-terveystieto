@@ -11,13 +11,12 @@ role: core
 duration_options: [45, 60, 75]
 self_study_minutes: 85
 prerequisites: [te3-07-eettisen-analyysin-nakokulmat, te1-06-seksuaaliterveys]
-safety_flags: [sexuality]
-content_note: "Tällä sivulla käsitellään lapsettomuutta, raskaudenkeskeytystä, seulontoja ja geenitietoa laista ja eri näkemyksistä käsin. Aiheet voivat olla joillekin henkilökohtaisia: kenenkään ei tarvitse kertoa omasta elämästään tai kannastaan, tehtävät koskevat kuvitteellisia tilanteita, ja lopussa on tietoa avusta."
+safety_flags: []
 card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch08-hedelmoityshoidot-ja-seulonnat"}]
 official_links:
   - {title: "Visual novel: Eettiset ja oikeudelliset kysymykset", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch08-hedelmoityshoidot-ja-seulonnat", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Hedelmöityshoidot (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00870", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
-  - {title: "Laki hedelmöityshoidoista 1237/2006", url: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2006/1237", publisher: "Finlex", read: 2026-11-21}
+  - {title: "Laki hedelmöityshoidoista 1237/2006", url: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2006/1237", publisher: "Finlex", read: 2026-11-23}
   - {title: "Raskaudenkeskeytys (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00166", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
   - {title: "Aborttilain muutokset tulevat voimaan (STM, 1.9.2023)", url: "https://valtioneuvosto.fi/-/1271139/aborttilain-muutokset-tulevat-voimaan", publisher: "Sosiaali- ja terveysministeriö (STM)", read: 2026-11-21}
   - {title: "Raskauden keskeyttäminen (Lupa- ja valvontavirasto)", url: "https://lvv.fi/sosiaali-ja-terveydenhuolto/raskauden-keskeyttaminen", publisher: "Lupa- ja valvontavirasto (LVV)", read: 2026-11-21}
@@ -27,21 +26,18 @@ official_links:
   - {title: "Abortion (WHO, tietosivu 8.12.2025)", url: "https://www.who.int/news-room/fact-sheets/detail/abortion", publisher: "Maailman terveysjärjestö (WHO)", read: 2026-11-21}
   - {title: "Geenitestaus (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk01176", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
   - {title: "ETENE on julkaissut kannanoton geenitiedon luovuttamisesta (19.2.2026)", url: "https://etene.fi/-/etene-on-julkaissut-kannanoton-geenitiedon-luovuttamisesta", publisher: "Sosiaali- ja terveysalan eettinen neuvottelukunta (ETENE)", read: 2026-11-21}
-  - {title: "Biopankkilaki 688/2012 (Finlex)", url: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2012/688", publisher: "Oikeusministeriö (Finlex)", read: 2026-11-22}
-  - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
-  - {title: "Väestöliitto: Keitä olemme nuorten palveluissa?", url: "https://www.vaestoliitto.fi/nuoret/keita-olemme/", publisher: "Väestöliitto", read: 2026-11-21}
-  - {title: "Lasten ja nuorten puhelin 116 111 (Nuortennetti)", url: "https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/", publisher: "Mannerheimin Lastensuojeluliitto (MLL)", read: 2026-11-21}
-  - {title: "Seta: Nuorten tuki- ja neuvontapalvelut", url: "https://nuoret.seta.fi/nuorille/nuorten-tuki-ja-neuvontapalvelut/", publisher: "Seta ry", read: 2026-11-21}
-yearly_facts: [hedelmoityshoitolaki, raskaudenkeskeytyslaki, raskaudenkeskeytys_tilastot, potilaslaki, seksuaaliterveyspalvelut, opiskeluterveydenhuolto, mll_116111, biopankkilaki]
+  - {title: "Biopankkilaki 688/2012 (Finlex)", url: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2012/688", publisher: "Oikeusministeriö (Finlex)", read: 2026-11-23}
+  - {title: "What are the ethical issues surrounding gene therapy? (MedlinePlus, 28.2.2022)", url: "https://medlineplus.gov/genetics/understanding/therapy/ethics/", publisher: "U.S. National Library of Medicine (MedlinePlus)", read: 2026-11-23}
+yearly_facts: [hedelmoityshoitolaki, raskaudenkeskeytyslaki, raskaudenkeskeytys_tilastot, potilaslaki, seksuaaliterveyspalvelut, biopankkilaki]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Hedelmöityshoidot (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00870", publisher: "Suomalainen Lääkäriseura Duodecim", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: yleisö ja potilaat, read: 2026-11-21}
-  - {title: "Laki hedelmöityshoidoista 1237/2006", url: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2006/1237", publisher: "Finlex", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
+  - {title: "Laki hedelmöityshoidoista 1237/2006", url: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2006/1237", publisher: "Finlex", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-23}
   - {title: "Raskaudenkeskeytys (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk00166", publisher: "Suomalainen Lääkäriseura Duodecim", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: yleisö, read: 2026-11-21}
   - {title: "Aborttilain muutokset tulevat voimaan (STM, 1.9.2023)", url: "https://valtioneuvosto.fi/-/1271139/aborttilain-muutokset-tulevat-voimaan", publisher: "Sosiaali- ja terveysministeriö (STM)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: yleisö, read: 2026-11-21}
   - {title: "Geenitestaus (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk01176", publisher: "Suomalainen Lääkäriseura Duodecim", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: yleisö, potilaat ja läheiset, read: 2026-11-21}
   - {title: "ETENE on julkaissut kannanoton geenitiedon luovuttamisesta (19.2.2026)", url: "https://etene.fi/-/etene-on-julkaissut-kannanoton-geenitiedon-luovuttamisesta", publisher: "Sosiaali- ja terveysalan eettinen neuvottelukunta (ETENE)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
-  - {title: "Biopankkilaki 688/2012 (Finlex)", url: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2012/688", publisher: "Oikeusministeriö (Finlex)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
+  - {title: "Biopankkilaki 688/2012 (Finlex)", url: "https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2012/688", publisher: "Oikeusministeriö (Finlex)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-23}
 exam_tasks:
   - {id: K1, type: lyhytvastaus-merkkirajalla, part: A20, points: 20, minutes: 25, codes: [TE3.s8, TE3.t4]}
   - {id: K2, type: vertailu, part: B20, points: 20, minutes: 35, codes: [TE3.s8, TE3.t4]}
@@ -49,7 +45,7 @@ exam_tasks:
   - {id: K4, type: aineiston-analyysi, part: B20, points: 20, minutes: 35, codes: [TE3.s8, TE3.t4]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
-school_adapts: ["Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; aineistot on kirjoitettu tehtäviin.", "Tehtävissä analysoidaan lakia, kuvitteellisia tilanteita ja näkemyksiä; omasta elämästä tai omasta kannasta ei tarvitse kertoa kenellekään.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -60,19 +56,19 @@ last_reviewed: 2026-11-22
 
 1. Osaan erottaa sen, mitä laki sanoo, siitä, mitä ihmiset pitävät oikeana, ja kertoa hedelmöityshoitojen ja raskaudenkeskeytyksen lainsäädännön peruspiirteet.
 2. Osaan arvioida seulontaa hyödyn, haitan, väärän positiivisen tuloksen ja ylidiagnosoinnin avulla.
-3. Osaan erottaa geeniteknologian eri käytöt (testaus, tutkimus, geeniterapia ja perimän muokkaus) ja kertoa, miksi ero on eettisesti tärkeä.
+3. Osaan erottaa geeniteknologian eri käytöt ja pohtia, miksi eroa pidetään eettisesti tärkeänä.
 4. Osaan analysoida eettistä kysymystä eettisen analyysin näkökulmien ja toimijoiden avulla ja kuvata eri näkemyksiä niiden omilla perusteilla.
 5. Osaan kertoa, miten raskaudenkeskeytyksen turvallisuus ja saatavuus vaihtelevat maailmassa, ja arvioida tätä eettisesti.
 
 ### Laki ja näkemys ovat eri asioita
 
-**Laki** kertoo, mitä saa ja mitä pitää tehdä. **Eettinen näkemys** kertoo, mitä pidetään oikeana. Analysoi kysymystä toimijoiden ja vähintään kolmen näkökulman avulla ([TE3: eettisen analyysin näkökulmat](../../te3/07-eettisen-analyysin-nakokulmat/)).
+Sivuston oma jäsennys: **laki** kertoo, mitä saa ja mitä pitää tehdä. **Eettinen näkemys** kertoo, mitä pidetään oikeana. Analysoi kysymystä toimijoiden ja näkökulmien avulla ([TE3: eettisen analyysin näkökulmat](../../te3/07-eettisen-analyysin-nakokulmat/)).
 
 ### Hedelmöityshoidot
 
-**Mitä laki sanoo.** Hedelmöityshoitolaki säätää hoitojen edellytyksistä: hoitoon tarvitaan suostumus, lahjoittajan on oltava 18 vuotta täyttänyt, ja lahjoitetusta sukusolusta syntynyt voi 18 vuotta täytettyään saada tiedon lahjoittajasta ([Finlex 13 § ja 23 §, luettu 21.11.2026](https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2006/1237)).
+**Mitä laki sanoo.** Laki säätää: hoidosta tehdään kirjallinen hoitosuostumus (10 §), lahjoittajan on oltava 18 vuotta täyttänyt (13 §), lahjoittajan suostumus kirjataan asiakirjaan (16 ja 17 §), ja luovutetusta sukusolusta syntynyt voi 18 vuotta täytettyään saada jäljennöksen hoitosuostumuksesta ja luovuttajan tunnuksen sekä saada luovutusrekisteristä tietää luovuttajan henkilöllisyyden (23 §) ([Finlex](https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2006/1237)).
 
-**Mitä näkemyksiä on.** Kaksi esimerkkiä:
+**Mitä näkemyksiä on.**
 
 | Näkemys | Perustelu | Näkökulma |
 |---|---|---|
@@ -81,31 +77,31 @@ last_reviewed: 2026-11-22
 
 ### Raskaudenkeskeytys
 
-**Mitä laki sanoo.** Raskaus voidaan keskeyttää raskaana olevan omasta pyynnöstä kahdennentoista raskausviikon loppuun saakka. Perustetta ei tarvita eikä kahden lääkärin lausuntoa, ja keskeytystä pyytävällä tai harkitsevalla on oikeus psykososiaaliseen tukeen ([STM 2023](https://valtioneuvosto.fi/-/1271139/aborttilain-muutokset-tulevat-voimaan)). Sen jälkeen keskeytys on pääsääntöisesti mahdollista luvalla, jonka käsittelee Lupa- ja valvontavirasto ([LVV](https://lvv.fi/sosiaali-ja-terveydenhuolto/raskauden-keskeyttaminen)). Muut rajat: [Finlex 239/1970](https://www.finlex.fi/fi/lainsaadanto/1970/239). Määriä seuraa [THL](https://thl.fi/en/data-and-statistics/sexual-and-reproductive-health/induced-abortions).
+**Mitä laki sanoo.** Raskaus voidaan keskeyttää raskaana olevan omasta pyynnöstä kahdennentoista raskausviikon loppuun saakka. Perustetta ei tarvita eikä kahden lääkärin lausuntoa, ja keskeytystä pyytävällä tai harkitsevalla on oikeus psykososiaaliseen tukeen ([STM 2023](https://valtioneuvosto.fi/-/1271139/aborttilain-muutokset-tulevat-voimaan)). Sen jälkeen keskeytys on pääsääntöisesti mahdollista luvalla, jonka käsittelee Lupa- ja valvontavirasto ([LVV](https://lvv.fi/sosiaali-ja-terveydenhuolto/raskauden-keskeyttaminen)).
 
-**Mitä näkemyksiä on.** Sivu ei arvioi kenenkään syitä.
+**Mitä näkemyksiä on.**
 
 | Näkemys | Perustelu | Näkökulma |
 |---|---|---|
 | A | Päätös kuuluu raskaana olevalle, koska hän kantaa raskauden seuraukset. Turvallisen hoidon pitää olla saatavilla. | oikeudet, arvot |
 | B | Kehittyvä ihmiselämä ansaitsee suojaa. Yhteiskunnan pitää tukea raskauden jatkamista, ettei keskeytys johdu tuen puutteesta. | arvot, velvollisuudet |
 
-**Maailmalla** lait ja saatavuus vaihtelevat. WHO:n mukaan keskeytys on hyvin turvallinen, kun se tehdään suositellulla tavalla ja taitavan ammattilaisen toimesta. Rajoitukset vaikuttavat siihen, ovatko keskeytykset turvallisia. Esteitä ovat muun muassa kustannukset, häpeä ja rikosoikeudelliset seuraukset ([WHO](https://www.who.int/news-room/fact-sheets/detail/abortion)).
+**Maailmalla** lait ja saatavuus vaihtelevat. WHO:n mukaan keskeytys on hyvin turvallinen, kun se tehdään suositellulla tavalla ja taitavan ammattilaisen toimesta. Rajoitukset vaikuttavat siihen, ovatko keskeytykset turvallisia. Esteitä ovat kustannukset, häpeä ja rikosoikeudelliset seuraukset ([WHO](https://www.who.int/news-room/fact-sheets/detail/abortion)).
 
 ### Seulonnat
 
-**Seulonta** tarkoittaa tutkimusta, joka tarjotaan oireettomille ihmisille sairauden tai sen riskin löytämiseksi aikaisin. **Diagnostinen tutkimus** tehdään sen sijaan, kun ihmisellä on oireita. Seulonnan arviointiin kuuluu neljä asiaa. *Hyöty:* varhain löydetty tila voidaan hoitaa paremmin. *Haitta:* lisätutkimukset ja huoli. **Väärä positiivinen tulos** tarkoittaa, että tutkimus näyttää sairautta, vaikka sitä ei ole. **Ylidiagnosointi** tarkoittaa, että löydetään tila, joka ei olisi koskaan aiheuttanut oireita. Seulonta on perusteltu, kun sairaus on vakava, tutkimus luotettava, apua on tarjolla ja hyöty on suurempi kuin haitta. Tämä on sivuston oma tiivistys.
+Sivuston oma jäsennys: **seulonta** tarkoittaa tutkimusta, joka tarjotaan oireettomille ihmisille sairauden tai sen riskin löytämiseksi aikaisin. **Diagnostinen tutkimus** taas tehdään, kun ihmisellä on oireita. Seulonnan arviointiin kuuluu neljä asiaa. *Hyöty:* varhain löydetty tila voidaan hoitaa paremmin. *Haitta:* lisätutkimukset ja huoli. **Väärä positiivinen tulos** tarkoittaa, että tutkimus näyttää sairautta, vaikka sitä ei ole. **Ylidiagnosointi** tarkoittaa, että löydetään tila, joka ei olisi koskaan aiheuttanut oireita. Seulonta on perusteltu, kun sairaus on vakava, tutkimus luotettava, apua on tarjolla ja hyöty on suurempi kuin haitta.
 
-Yksi näkemys painottaa tiedon saamista, toinen sitä, että tieto voi aiheuttaa huolta ilman hyötyä ja että jokaisella on oikeus olla tietämättä. Seulonnan etiikassa kuullaan myös vammaisten ihmisten ja heidän läheistensä näkemyksiä. Kenenkään elämää ei kuvata taakkana.
+Yksi näkemys painottaa tiedon saamista, toinen sitä, että tieto voi aiheuttaa huolta ilman hyötyä ja että jokaisella on oikeus olla tietämättä. Sivuston lisäys: seulontojen etiikkaa pohdittaessa on syytä kuulla myös vammaisia ihmisiä ja heidän läheisiään.
 
 ### Geeniteknologia
 
-Geeniteknologian käytöt on pidettävä erillään:
+Sivuston oma jäsennys: neljä geeniteknologian käyttöä.
 
 - **Geenitestaus** selvittää, onko ihmisellä tietty perinnöllinen muutos ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk01176)). Tieto koskee myös sukulaisia.
-- **Tutkimus ja biopankki:** biopankki säilyttää näytteitä tulevaa tutkimusta varten. Käsittely perustuu kirjalliseen suostumukseen, jonka voi peruuttaa milloin tahansa ([Finlex, 22.11.2026](https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2012/688)). ETENE on antanut [kannanoton geenitiedon luovuttamisesta](https://etene.fi/-/etene-on-julkaissut-kannanoton-geenitiedon-luovuttamisesta).
-- **Geeniterapia** muuttaa hoidettavan ihmisen kehon solujen geenejä. Muutos ei periydy.
-- **Perimän muokkaus sukusoluissa tai alkiossa** periytyisi jälkeläisille. Siksi se on eettisesti eri asia kuin hoito.
+- **Tutkimus ja biopankki:** biopankki säilyttää näytteitä tulevaa tutkimusta varten. Näytteen kerääminen ja luovuttaminen biopankkiin edellyttää vapaaehtoista, tietoon perustuvaa ja kirjallista suostumusta (11 §). Suostumuksen voi peruuttaa ennen kuin näyte kerätään ja luovutetaan biopankkiin (12 §) ([Finlex](https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2012/688)).
+- **Geeniterapia** muuttaa hoidettavan ihmisen kehon solujen geenejä, eikä muutos periydy ([MedlinePlus, 28.2.2022](https://medlineplus.gov/genetics/understanding/therapy/ethics/)).
+- **Perimän muokkaus sukusoluissa** periytyisi jälkeläisille (sama lähde). Monen mielestä periytyvyys tekee muokkauksesta eri kysymyksen, koska muutos koskisi ihmisiä, jotka eivät voi suostua; toisten mielestä hyödyt on punnittava haittoja vastaan.
 
 ## Tehtävät
 
@@ -121,7 +117,7 @@ Geeniteknologian käytöt on pidettävä erillään:
 1. Piirrä kaksi saraketta: *laki tai tosiasia* ja *näkemys*. Sijoita väittämät 1–8 oikeaan sarakkeeseen.
 2. Valitse kaksi väittämää, jotka ovat näkemyksiä, ja kirjoita, mitä perusteita niille voi esittää.
 3. Nimeä kummallekin väittämälle yksi eettisen analyysin näkökulma ja yksi toimija.
-4. Kirjoita lause siitä, miksi lakia ja näkemystä ei saa sekoittaa samaan lauseeseen.
+4. Kirjoita lause siitä, miksi on hyödyllistä erottaa laki ja näkemys.
 5. Kirjoita yksi lause siitä, miksi ihmiset voivat olla eri mieltä, vaikka laki on selvä.
 
 ### Tehtävä 2: Seulonnan neljä ruutua
@@ -149,7 +145,7 @@ Geeniteknologian käytöt on pidettävä erillään:
 1. Avaa Terveyskirjaston artikkeli [Geenitestaus](https://www.terveyskirjasto.fi/dlk01176) ja etsi yksi asia, jonka testitulos voi kertoa.
 2. Kirjoita taulukko, jossa on sarakkeet *käyttö*, *mitä tehdään*, *periytyykö muutos* ja *eettinen kysymys*.
 3. Täytä rivit: geenitestaus, tutkimus ja biopankki, geeniterapia, perimän muokkaus sukusoluissa.
-4. Kirjoita yksi lause siitä, miksi viimeinen rivi on eettisesti erilainen.
+4. Kirjoita yksi lause siitä, miksi jonkun mielestä viimeinen rivi on eettisesti erilainen.
 
 ## Pohdinta
 
@@ -163,7 +159,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 1. Osaan erottaa sen, mitä laki sanoo, siitä, mitä ihmiset pitävät oikeana, ja kertoa hedelmöityshoitojen ja raskaudenkeskeytyksen lainsäädännön peruspiirteet.
 2. Osaan arvioida seulontaa hyödyn, haitan, väärän positiivisen tuloksen ja ylidiagnosoinnin avulla.
-3. Osaan erottaa geeniteknologian eri käytöt (testaus, tutkimus, geeniterapia ja perimän muokkaus) ja kertoa, miksi ero on eettisesti tärkeä.
+3. Osaan erottaa geeniteknologian eri käytöt ja pohtia, miksi eroa pidetään eettisesti tärkeänä.
 4. Osaan analysoida eettistä kysymystä eettisen analyysin näkökulmien ja toimijoiden avulla ja kuvata eri näkemyksiä niiden omilla perusteilla.
 5. Osaan kertoa, miten raskaudenkeskeytyksen turvallisuus ja saatavuus vaihtelevat maailmassa, ja arvioida tätä eettisesti.
 
@@ -224,7 +220,7 @@ a) Kuvaa, mitä aineisto 1 kertoo keskeytyksen turvallisuudesta ja siihen vaikut
 
 b) Analysoi kysymystä vähintään kolmen eettisen analyysin näkökulman avulla ja sovella niitä sekä puhujan A että puhujan B perusteisiin. (15 p)
 
-c) Punnitse, mitkä näkökohdat ovat keskenään ristiriidassa, ja kuvaa, mitä päätöksentekijän olisi syytä ottaa huomioon, kun hän valmistelee politiikkaa. Älä ota kantaa siihen, kumpi puhuja on oikeassa. (8 p)
+c) Punnitse, mitkä näkökohdat ovat keskenään ristiriidassa, ja kuvaa, mitä päätöksentekijän olisi syytä ottaa huomioon, kun hän valmistelee politiikkaa. Perusteltu kanta hyväksytään, kun molempien puhujien perusteet käsitellään oikeudenmukaisesti. (8 p)
 
 ### K4: Biopankin esittelyvideo, 35 min (20 p)
 
@@ -232,11 +228,11 @@ c) Punnitse, mitkä näkökohdat ovat keskenään ristiriidassa, ja kuvaa, mitä
 
 *Aineisto 1 (kuvitteellinen): videon kuvaus.* Kuvitteellisen biopankin esittelyvideossa tutkija sanoo: "Jokainen näyte auttaa parantamaan sairauksia." Kertoja sanoo, että näytteen antaminen vie vain hetken ja että suostumuksen voi antaa samalla käynnillä. Videossa ei kerrota, millaista tutkimusta näytteillä tehdään, eikä sitä, voiko suostumuksen peruuttaa. Lopussa mainitaan, että näytteitä käyttävät myös yritykset. Katsoja Kim kysyy, miksi tietoja ei kerrota enemmän.
 
-*Aineisto 2: mitä laki sanoo (omin sanoin tiivistetty).* Biopankkilain tarkoitus on tukea tutkimusta, joka käyttää ihmisperäisiä näytteitä, lisätä avoimuutta ja turvata yksityisyyden suoja ja itsemääräämisoikeus (1 §). Näytteiden käsittely perustuu kirjalliseen suostumukseen. Ennen suostumusta annettavassa selvityksessä on kerrottava muun muassa tutkimuksen luonne, mahdolliset haitat, näytteiden tarkoitus, säilyttäjä ja omistaja sekä se, että suostumus on vapaaehtoinen ja sen voi rajoittaa tai peruuttaa ilman kielteisiä seurauksia (11 §). Suostumuksen voi peruuttaa milloin tahansa, ja sen jälkeen näytettä ei saa enää käyttää biopankkitutkimukseen (12 §) ([Finlex 688/2012, luettu 22.11.2026](https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2012/688)).
+*Aineisto 2: mitä laki sanoo (omin sanoin tiivistetty).* Biopankkilain tarkoitus on tukea tutkimusta, joka käyttää ihmisperäisiä näytteitä, lisätä avoimuutta ja turvata yksityisyyden suoja ja itsemääräämisoikeus (1 §). Näytteen kerääminen ja luovuttaminen biopankkiin edellyttää vapaaehtoista, tietoon perustuvaa ja kirjallista suostumusta (11 §). Ennen suostumusta annettavassa selvityksessä on kerrottava muun muassa biopankkitoiminnan luonne, mahdolliset riskit ja haitat, näytteiden keräämisen ja säilyttämisen tarkoitus, näytteiden omistaja ja säilyttävä biopankki, suostumuksen ala ja vapaaehtoisuus sekä mahdollisuus peruuttaa suostumus ilman kielteisiä seuraamuksia. Selvitys annetaan aina myös kirjallisena (11 §). Suostumuksen voi peruuttaa ennen näytteen keräämistä ja luovuttamista biopankkiin (12 §) ([Finlex 688/2012, luettu 23.11.2026](https://opendata.finlex.fi/finlex/avoindata/v1/akn/fi/act/statute-consolidated/2012/688)).
 
 a) Vertaa videota aineiston 2 vaatimuksiin. Nimeä aineiston 2 kohdasta 11 § kolme asiaa, jotka videosta puuttuvat, ja selitä, miksi ne ovat tärkeitä suostumuksen kannalta. Kirjoita enintään 900 merkkiä. (8 p)
 
-b) Analysoi videota kahdesta eettisen analyysin näkökulmasta, esimerkiksi oikeuksista ja seurauksista. Esitä sekä tutkimuksen hyötyä että yksityisyyttä painottava kanta yhtä perustellusti. Älä ota kantaa siihen, kumpi on oikeassa. Kirjoita enintään 1400 merkkiä. (12 p)
+b) Analysoi videota kahdesta eettisen analyysin näkökulmasta, esimerkiksi oikeuksista ja seurauksista. Esitä sekä tutkimuksen hyötyä että yksityisyyttä painottava kanta yhtä perustellusti. Punnitse perusteita; perusteltu kanta hyväksytään, kun molempien kantojen perusteet käsitellään oikeudenmukaisesti. Kirjoita enintään 1400 merkkiä. (12 p)
 
 ## Mallivastaukset
 
@@ -250,7 +246,7 @@ b) Analysoi videota kahdesta eettisen analyysin näkökulmasta, esimerkiksi oike
 
 **c)** Ylidiagnosointi tarkoittaa, että löydetään tila, joka ei olisi koskaan aiheuttanut oireita. Esimerkiksi kuvitteellisen seulonnan löytämä muutos pysyisi oireettomana, mutta sen vuoksi aloitetaan hoito.
 
-**d)** Geenitestaus selvittää ihmisen omaa perimää, ja tieto koskee myös sukulaisia. Perimän muokkaus sukusoluissa periytyisi jälkeläisille. Ero on tärkeä, koska jälkimmäisen vaikutukset koskevat ihmisiä, jotka eivät voi suostua.
+**d)** Geenitestaus selvittää ihmisen omaa perimää, ja tieto koskee myös sukulaisia. Perimän muokkaus sukusoluissa periytyisi jälkeläisille. Monen mielestä ero on tärkeä, koska jälkimmäisen vaikutukset koskisivat ihmisiä, jotka eivät voi suostua.
 
 **Pisteytys**
 
@@ -259,7 +255,7 @@ b) Analysoi videota kahdesta eettisen analyysin näkökulmasta, esimerkiksi oike
 - a) Seulonta määritelty 3 p (oireettomat, aikainen löytäminen, tarjotaan ihmisille); ero diagnostiseen tutkimukseen 2 p. Yhteensä 5 p.
 - b) Käsite oikein 3 p; miksi haitta 2 p. Yhteensä 5 p.
 - c) Käsite oikein 3 p; esimerkki 2 p. Yhteensä 5 p.
-- d) Kaksi käyttöä nimetty oikein 2 p; periytyvyys tai suostumus ero 2 p; yhteys etiikkaan 1 p. Yhteensä 5 p.
+- d) Kaksi käyttöä nimetty oikein 2 p; periytyvyyden ero 2 p (perusta: MedlinePlus, ks. geeniteknologian käytöt); perusteltu eettinen kohta 1 p (mikä tahansa perusteltu eettinen kohta hyväksytään). Yhteensä 5 p.
 - Merkkirajan ylitys: ylimenevää osaa ei pisteytetä.
 
 *Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö on tarkkaa (väärä positiivinen ei ole sama kuin ylidiagnosointi), soveltaminen näkyy esimerkissä, analysointi erottaa seulonnan ja diagnoosin, arviointi ja argumentointi näkyvät d-kohdassa.
@@ -294,7 +290,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 8–10 p: vertailu on perusteltu taulukon riveillä; käsitteet ovat tarkkoja; arvio punnitsee hyötyä ja haittaa; ylimääräinen näkökulma muuttaa arviota.
 - 4–7 p: vertailu on oikein, mutta arvio on yleinen tai käsitteet jäävät käyttämättä.
 - 0–3 p: vastaus kuvaa seulontoja yleisesti eikä käytä taulukkoa.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 8 p, b 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -328,23 +323,21 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 - a) Aineiston 1 keskeinen tieto kuvattu 1 p; vähintään kolme toimijaa nimetty 1 p. Yhteensä 2 p.
 - b) Näkökulmat: 1 näkökulma sovellettu kumpaankin puhujaan 4 p; 2 näkökulmaa 7 p; 3 näkökulmaa 10 p. Yhteensä enintään 10 p.
-- c) Ristiriitojen punnitseminen 2 p; perusteltu kuvaus siitä, mitä päätöksentekijän on otettava huomioon, ilman kannanottoa 1 p. Yhteensä 3 p.
+- c) Ristiriitojen punnitseminen 2 p; perusteltu kuvaus siitä, mitä päätöksentekijän on otettava huomioon, 1 p. Yhteensä 3 p.
 
 *Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
-- 12–15 p: näkökulmat nimetään oikein ja sovelletaan sekä aineistoon 1 että molempiin puheenvuoroihin; ristiriidat punnitaan; johtopäätös on perusteltu ja neutraali.
+- 12–15 p: näkökulmat nimetään oikein ja sovelletaan sekä aineistoon 1 että molempiin puheenvuoroihin; ristiriidat punnitaan; johtopäätös on perusteltu, ja perusteltu oma kanta hyväksytään, kun molempien puhujien perusteet on käsitelty oikeudenmukaisesti.
 - 6–11 p: näkökulmia on käytetty, mutta ne jäävät luetteloksi tai toinen puhuja jää vähemmälle.
-- 0–5 p: vastaus kertoo mielipiteen tai toistaa aineiston ilman eettistä analyysiä.
+- 0–5 p: vastaus esittää mielipiteen ilman perusteluja tai toistaa aineiston ilman eettistä analyysiä.
 
 Tehtävänannon osapisteet (a 7 p, b 15 p, c 8 p) sisältävät sekä sisällön että tiedonkäsittelyn.
-
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 **Yhteensä:** 30 p
 
 **Tyypilliset virheet**
 
-- Vastauksessa otetaan kanta tai arvioidaan, kumpi puhuja on oikeassa, vaikka tehtävä pyytää analysoimaan.
+- Kanta otetaan perustelematta, vaikka tehtävä pyytää punnitsemaan perusteita.
 - Toisen puhujan perusteet kuvataan lyhyemmin tai heikommin kuin toisen.
 - Näkökulmat mainitaan, mutta niitä ei sovelleta aineiston sanoihin.
 - Aineiston 1 tietoa ei käytetä, vaikka se on tehtävän keskeinen lähtötieto.
@@ -355,7 +348,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** Video ei kerro, millaista tutkimusta näytteillä tehdään, joten katsoja ei voi arvioida, mihin hän suostuu. Lain mukaan selvityksessä kerrotaan tutkimuksen luonne. Video ei kerro myöskään, voiko suostumuksen peruuttaa. Ilman tietoa peruutusoikeudesta valinta ei ole vapaa. Kolmanneksi videosta puuttuu esimerkiksi mahdollisten haittojen kuvaus, jota laki myös edellyttää; sen avulla katsoja voi punnita, onko osallistuminen hänelle sopivaa. Yritysten käyttö mainitaan vasta lopussa, vaikka se kuuluu siihen, mihin ihminen suostuu.
+**a)** Video ei kerro, millaista tutkimusta näytteillä tehdään, joten katsoja ei voi arvioida, mihin hän suostuu. Lain mukaan selvityksessä kerrotaan biopankkitoiminnan luonne. Video ei kerro myöskään, voiko suostumuksen peruuttaa. Ilman tietoa peruutusoikeudesta valinta ei ole vapaa. Kolmanneksi videosta puuttuu esimerkiksi mahdollisten riskien ja haittojen kuvaus, jota laki myös edellyttää; sen avulla katsoja voi punnita, onko osallistuminen hänelle sopivaa. Yritysten käyttö mainitaan vasta lopussa, vaikka se kuuluu siihen, mihin ihminen suostuu.
 
 **b)** *Oikeudet:* yksityisyyttä painottavan kannan mukaan ihmisellä on oikeus päättää omista tiedoistaan ja tietää, mihin hän suostuu. Siksi selvityksen pitää olla täysi ennen suostumusta. *Seuraukset:* tutkimusta painottavan kannan mukaan suuri näyteaineisto auttaa tutkimaan sairauksia ja voi hyödyttää monia, myös tulevia potilaita. Jos esittely on liian raskas, osallistujia voi jäädä pois ja tutkimus kärsii. Laki edellyttää, että selvitys annetaan ennen kirjallista suostumusta (aineisto 2, 11 §). Kannat eroavat siinä, kuinka paljon painoa annetaan suostumuksen perustana olevalle tiedolle ja kuinka paljon tutkimuksen hyödylle; molemmat ovat perusteltuja.
 
@@ -363,15 +356,14 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 *Sisältö 10 p:*
 
-- a) Kolme 11 §:n asiaa, jotka videosta puuttuvat (esimerkiksi tutkimuksen luonne, peruuttamismahdollisuus, haitat, näytteiden tarkoitus, säilyttäjä ja omistaja, vapaaehtoisuus; mikä tahansa kolme, jotka video jättää kertomatta) 1 p kustakin; selitys, miksi ne ovat suostumuksen kannalta tärkeitä, 1 p. Yhteensä 4 p.
+- a) Kolme 11 §:n asiaa, jotka videosta puuttuvat (esimerkiksi biopankkitoiminnan luonne, peruuttamismahdollisuus, riskit ja haitat, näytteiden keräämisen tarkoitus, säilyttäjä ja omistaja, vapaaehtoisuus; mitkä tahansa kolme, jotka video jättää kertomatta) 1 p kustakin; selitys, miksi ne ovat suostumuksen kannalta tärkeitä, 1 p. Yhteensä 4 p.
 - b) Kaksi näkökulmaa, joista kustakin: näkökulma nimetty 1 p, sovellettu videoon 1 p, perusteltu kanta tai seuraus 1 p. Yhteensä 6 p.
 
 *Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
-- 8–10 p: puutteet liitetään aineiston 2 kohtiin; molemmat kannat esitetään yhtä perusteellisesti; näkökulmat sovelletaan videon sanoihin; vastaus punnitsee kantoja keskenään julistamatta voittajaa.
+- 8–10 p: puutteet liitetään aineiston 2 kohtiin; molemmat kannat esitetään yhtä perusteellisesti; näkökulmat sovelletaan videon sanoihin; vastaus punnitsee kantoja keskenään, ja perusteltu kanta hyväksytään.
 - 4–7 p: puutteet on nimetty, mutta kannat jäävät yleisiksi tai toinen kanta on ohuempi.
-- 0–3 p: vastaus kertoo mielipiteen tai biopankeista yleisesti eikä käytä aineistoja.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
+- 0–3 p: vastaus esittää mielipiteen ilman perusteluja tai kertoo biopankeista yleisesti eikä käytä aineistoja.
 
 Tehtävänannon osapisteet (a 8 p, b 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -379,10 +371,9 @@ Tehtävänannon osapisteet (a 8 p, b 12 p) sisältävät sekä sisällön että 
 
 **Tyypilliset virheet**
 
-- Vastaus väittää, että video on laiton, vaikka aineisto 2 vaatii tiedot selvityksessä ennen suostumusta, ei yksittäisessä videossa.
+- Vastaus väittää videota laittomaksi perustelematta väitettä aineistolla 2. Aineisto 2 koskee suostumusta edeltävää selvitystä, eikä aineistosta selviä, onko video koko selvitys.
 - Toinen kanta kuvataan ohuemmin kuin toinen, jolloin vastaus vaikuttaa jo valmiiksi päätyneeltä.
 - Puuttuvia asioita luetellaan liittämättä niitä aineiston 2 kohtiin.
-- Tosiasia (*video ei kerro peruutuksesta*) ja arvo (*se on väärin*) kirjoitetaan samaan lauseeseen.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -410,11 +401,11 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Kysymys nimettömälle lapulle: miksi laki ja näkemys eivät ole sama asia? | Lue muutama lappu ja ryhmittele taululle. | Vastaus omaan vihkoon. | Kaksi lappua. |
 | Aiemman tiedon aktivointi | 10 | Parit kertaavat eettisen analyysin seitsemän näkökulmaa ja viisi toimijaa aiheesta TE3-07. | Kirjoita näkökulmat taululle ja pyydä yksi esimerkki. | Yksin paperille. | Vain neljä näkökulmaa. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat lain peruspiirteet ja seulonnan käsitteet. | Esittele laki ja näkemykset rinnakkain, yhtä pitkällä äänenpainolla. Älä ota kantaa. | Taulukko paperilla. | Geeniteknologia kotiin. |
+| Lyhyt alustus | 10 | Opiskelijat kirjaavat lain peruspiirteet ja seulonnan käsitteet. | Esittele laki ja näkemykset rinnakkain ja yhtä laajasti. | Taulukko paperilla. | Geeniteknologia kotiin. |
 | Työskentely | 25 | Tehtävä 1 kokonaan (20 min), sitten Tehtävän 2 vaiheet 1–2 (5 min). | Kierrä ja kysy: onko tämä laki vai näkemys? Mikä on näkemyksen perustelu? | Yksin paperilla. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät analysoivat yhden Tehtävän 1 näkemyksen kahdella näkökulmalla. | Kokoa taululle kaksi kolumnia: perusteet ja ristiriidat. | Yksin: yksi näkökulma. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1 a ja b yksin (6 min) ja tarkistus (4 min). Exit-lappu: yksi käsite omin sanoin. | Näytä K1:n pisteytys. | Paperilla. | Tarkistus kotona. |
-| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Muistuta Apua ja tukea -osiosta. | – | – |
+| Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K4 ovat kotiharjoituksia. | – | – |
 
 ### Tuntisuunnitelma (60 min)
 
@@ -439,21 +430,21 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Valmistelu
 
 - Kirjoita lain peruspiirteet ja näkemystaulukot taululle tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita. Varaa nimettömiä lappuja.
-- Lue lain Finlex-sivut ja LVV:n sivu itse ennen tuntia: lait muuttuvat, ja sivun teksti on ajantasainen vain luettuna päivänä. Selvitä koulun opiskeluterveydenhuollon yhteystiedot (esimerkki).
+- Lue lain Finlex-sivut ja LVV:n sivu itse ennen tuntia: lait muuttuvat, ja sivun teksti on ajantasainen vain luettuna päivänä.
 - Käypä hoito -suositus on ammattilaisille kirjoitettu link-out-aineisto: linkitä, älä kopioi.
 
 ### Avoimet kysymykset
 
-- Miksi lakia ja näkemystä ei pidä sekoittaa samaan lauseeseen?
+- Miksi on hyödyllistä erottaa laki ja näkemys?
 - Millä perusteilla yhteiskunta päättää, mitä seulontoja järjestetään?
-- Miksi geeniterapia ja perimän muokkaus sukusoluissa ovat eri kysymyksiä?
+- Ovatko geeniterapia ja perimän muokkaus sukusoluissa eettisesti eri kysymyksiä, ja millä perusteilla?
 - Miten päätöksentekijä voi kuulla eri näkemyksiä niitä arvottamatta?
 - Mitä tarkoittaa, että oikeus tietoon ja oikeus olla tietämättä voivat olla ristiriidassa?
 
 ### Pelisäännöt ja oletusten tarkistus
 
 - Kukaan ei kerro omasta elämästään eikä omasta kannastaan. Ketään ei arvioida kantansa perusteella: arvioidaan analyysin laatua, ei sitä, mihin johtopäätökseen päädytään. Opiskelija voi poistua tilanteesta tai ohittaa tehtävän.
-- Lapsettomuus, keskenmeno, keskeytys tai seulontatulos voivat olla jollekulle omakohtaisia. Käytä kuvitteellisia tapauksia ja ohjaa tarvittaessa opiskeluterveydenhuoltoon.
+- Lapsettomuus, keskenmeno, keskeytys tai seulontatulos voivat olla jollekulle omakohtaisia. Käytä kuvitteellisia tapauksia.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että kaikilla on kaksi vanhempaa tai että kaikki haluavat lapsen? Olenko nimennyt jonkin ryhmän tai uskonnon tietyn kannan edustajaksi? Käytänkö latautuneita sanoja? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -475,19 +466,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-**Jos olet välittömässä vaarassa, soita hätänumeroon 112.**
-
-Tällä sivulla opiskellaan lakia, seulontoja ja eettistä analyysiä yleisesti. Sivu ei neuvo omissa asioissa. Jos raskaus, lapsettomuus, keskeytys, seulontatulos tai geenitieto koskee sinua tai läheistäsi, voit ottaa yhteyttä opiskeluterveydenhuoltoon eli terveydenhoitajaan tai lääkäriin. Keskeytystä harkitsevalla on oikeus psykososiaaliseen tukeen. Avun pyytäminen on tavallista ja järkevää.
-
-**Apua saat myös:**
-
-- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- [Väestöliitto: Keitä olemme nuorten palveluissa? (luettu 21.11.2026)](https://www.vaestoliitto.fi/nuoret/keita-olemme/): nuorten palveluja.
-- [Lasten ja nuorten puhelin 116 111 (luettu 21.11.2026)](https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/): MLL:n palvelu alle 25-vuotiaille, maksuton ja nimetön.
-- [Seta: nuorten tuki- ja neuvontapalvelut (luettu 21.11.2026)](https://nuoret.seta.fi/nuorille/nuorten-tuki-ja-neuvontapalvelut/): tukea pääosin seksuaali- ja sukupuolivähemmistöihin kuuluville nuorille.
 
 ## Lähteet
 

@@ -24,7 +24,7 @@ original words.
   they check.
 - **Human reviewers** (recommended): a terveystieto teacher (curriculum and exam tasks) and a health professional
   (facts). Their sign-off is recorded in `review_status`. The site-wide review banner was removed by the operator
-  (D-008); the pages still give no medical advice and send students to student health care.
+  (D-008); the pages still give no medical advice.
 
 ## Rules in force
 
@@ -46,11 +46,11 @@ original words.
 
 ## Health and safety rules
 
-- **No medical advice.** Pages teach health knowledge and health literacy; for one's own symptoms they send the
-  student to student health care (opiskeluterveydenhuolto), a doctor or emergency services, with links.
+- **No medical advice.** Pages teach health knowledge and health literacy, not care for one's own symptoms.
+  Services such as student health care are taught as subject content where the curriculum names them.
 - **Safe messaging:** suicide, self-harm, eating disorders and substance use are written to the safe-messaging
-  guidelines the research names. No methods, no numbers that invite comparison (weights, calories, amounts), and help
-  links on every such page.
+  guidelines the research names. No methods, no numbers that invite comparison (weights, calories, amounts). One help block
+  only, in 08-mielenterveys; no help blocks, 112 lines, referrals or content notes elsewhere (D-014).
 - **No scare tactics,** no shaming and no moralising. Inclusive of every gender, sexual orientation, body and
   background; sexuality education follows the evidence-based guidance the research names.
 - **Students' privacy:** no accounts, analytics or forms; progress and notes only in the browser; no task asks the

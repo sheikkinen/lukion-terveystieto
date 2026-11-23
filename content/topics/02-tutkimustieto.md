@@ -23,12 +23,10 @@ official_links:
   - {title: "Empiiriset tieteet (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:empiiriset_tieteet", publisher: "Tieteen termipankki", read: 2026-11-21}
   - {title: "THL:n avoin data", url: "https://thl.fi/tutkimus/avoin-data", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Kouluterveyskysely (THL)", url: "https://thl.fi/tutkimus/hankkeet/kouluterveyskysely", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
-  - {title: "Ylioppilastutkinnon hyvän vastauksen piirteet, terveystieto (syksy 2024)", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-21}
+  - {title: "Ylioppilastutkinnon hyvän vastauksen piirteet, terveystieto (syksy 2024)", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
   - {title: "Tietolähteet ja ohjauspalvelut (opinto-ohjaus, aihe 08)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/08-tietolahteet/", publisher: "Lukion opinto-ohjaus -sivusto", read: 2026-11-21}
-  - {title: "Opiskeluterveydenhuolto (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
-  - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi", read: 2026-11-21}
-  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
-yearly_facts: [kouluterveyskysely, opiskeluterveydenhuolto, riskin_kasitteet]
+  - {title: "TENK: ihmistieteiden eettisen ennakkoarvioinnin ohje", url: "https://tenk.fi/fi/ohjeet-ja-aineistot/ihmistieteiden-eettisen-ennakkoarvioinnin-ohje", publisher: "Tutkimuseettinen neuvottelukunta (TENK)", read: 2026-11-22}
+yearly_facts: [kouluterveyskysely, riskin_kasitteet]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Asiantuntijalähteen arviointi (aoe.fi 3006)", url: "https://aoe.fi/#/materiaali/3006", publisher: "Hämeen ammattikorkeakoulu (aoe.fi)", licence_class: open-cc-by-sa, licence: "CC BY-SA 4.0 (aoe.fi-metatiedot)", audience: opiskelija ja opettaja, read: 2026-11-21}
@@ -36,14 +34,14 @@ linked_materials:
   - {title: "Terveyskirjasto", url: "https://www.terveyskirjasto.fi/", publisher: "Kustannus Oy Duodecim", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija ja opettaja (suuri yleisö), read: 2026-11-21}
   - {title: "THL:n avoin data", url: "https://thl.fi/tutkimus/avoin-data", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", licence_class: link-out, licence: "Data CC BY 4.0; sivun tekstit: kaikki oikeudet pidätetään", audience: opettaja ja ammattilaiset, read: 2026-11-21}
   - {title: "Kouluterveyskysely (THL)", url: "https://thl.fi/tutkimus/hankkeet/kouluterveyskysely", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija ja opettaja, read: 2026-11-21}
-  - {title: "Ylioppilastutkinnon hyvän vastauksen piirteet, terveystieto (syksy 2024)", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja ja opiskelija, read: 2026-11-21}
+  - {title: "Ylioppilastutkinnon hyvän vastauksen piirteet, terveystieto (syksy 2024)", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja ja opiskelija, read: 2026-11-22}
   - {title: "Käypä hoito: outoja sanoja ja terminologiaa", url: "https://www.kaypahoito.fi/khk00061", publisher: "Suomalainen Lääkäriseura Duodecim", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija ja opettaja, read: 2026-11-21}
   - {title: "Mixed methods (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Nimitys:mixed_methods", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0", audience: opettaja ja syventävä opiskelija, read: 2026-11-21}
   - {title: "Empiiriset tieteet (Tieteen termipankki)", url: "https://tieteentermipankki.fi/wiki/Filosofia:empiiriset_tieteet", publisher: "Tieteen termipankki", licence_class: open-cc-by-sa, licence: "CC BY-SA 3.0", audience: opettaja ja syventävä opiskelija, read: 2026-11-21}
 exam_tasks: [{id: K1, type: monivalinta, part: A20, points: 20, minutes: 25, codes: [TE2.s1, TE2.t1]}, {id: K2, type: aineiston-lukeminen, part: B20, points: 20, minutes: 35, codes: [TE2.s1, TE2.t1, TE2.t2]}, {id: K3, type: tutkimussuunnitelma, part: C30, points: 30, minutes: 50, codes: [TE2.t1, TE2.t2, TE2.s1]}, {id: K4, type: kuvion-tulkinta, part: B20, points: 20, minutes: 35, codes: [TE2.t1, TE2.t2, TE2.s1]}]
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: [{title: "Tietolähteet ja ohjauspalvelut (opinto-ohjaus, aihe 08)", url: "https://sheikkinen.github.io/lukion-opinto-ohjaus/op1/08-tietolahteet/", read: 2026-11-21}]
-school_adapts: ["Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; aineistot on kirjoitettu tehtäviin.", "Tehtävissä analysoidaan kuvitteellisia tutkimuksia ja lähteitä; omasta terveydestä ei tarvitse kertoa kenellekään.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-21
 ---
@@ -62,11 +60,11 @@ last_reviewed: 2026-11-21
 
 ### Tutkimus etenee vaiheittain
 
-Vaiheita on kuusi (kaavio osion lopussa). (1) **Tutkimuskysymys** tarkennetaan mitattavaksi: ei "onko koulu hyvä?" vaan "kuinka moni kokee kuuluvansa kouluyhteisöön?" (2) **Asetelma ja suunnitelma:** valitaan tapa vastata sekä otos ja mittari. (3) **Aineiston keruu:** tutkittavilta pyydetään suostumus, ja vastaukset käsitellään nimettöminä. (4) **Analyysi** tiivistää aineiston tuloksiksi. (5) **Raportointi** kertoo tulokset ja rajoitukset, jotta muut voivat arvioida ne. (6) **Vertaisarviointi ja toisto:** asiantuntijat lukevat työn, ja muut voivat toistaa tutkimuksen.
+Kuusi vaihetta on sivuston oma jäsennys (kaavio osion lopussa). (1) **Tutkimuskysymys** tarkennetaan mitattavaksi: ei "onko koulu hyvä?" vaan "kuinka moni kokee kuuluvansa kouluyhteisöön?" (2) **Asetelma ja suunnitelma:** valitaan tapa vastata sekä otos ja mittari. (3) **Aineiston keruu:** tutkittavilta pyydetään tietoon perustuva suostumus, osallistuminen on vapaaehtoista ja henkilötiedot suojataan ([TENK](https://tenk.fi/fi/ohjeet-ja-aineistot/ihmistieteiden-eettisen-ennakkoarvioinnin-ohje)). (4) **Analyysi** tiivistää aineiston tuloksiksi. (5) **Raportointi** kertoo tulokset ja rajoitukset, jotta muut voivat arvioida ne. (6) **Vertaisarviointi ja toisto:** asiantuntijat lukevat työn, ja muut voivat toistaa tutkimuksen.
 
 ### Tutkimustyypit ja käsitteet
 
-**Empiirinen** tutkimus tuottaa tietoa havainnoimalla ja mittaamalla ([Tieteen termipankki](https://tieteentermipankki.fi/wiki/Filosofia:empiiriset_tieteet)). **Määrällinen eli kvantitatiivinen** tutkimus mittaa ja laskee lukuja. **Laadullinen eli kvalitatiivinen** tutkimus kuvaa ilmiötä sanoin. **Monimenetelmäinen** tutkimus (mixed methods) yhdistää molemmat ([Tieteen termipankki](https://tieteentermipankki.fi/wiki/Nimitys:mixed_methods)). **Havainnoiva** tutkimus seuraa tai vertaa ihmisiä muuttamatta mitään, **kokeellinen** muuttaa jotakin ja vertaa. **Kohorttitutkimus** seuraa yhteisen piirteen jakavaa joukkoa. **Retrospektiivinen** tutkimus katsoo jo tapahtuneeseen, **prospektiivinen** seuraa tapahtumia eteenpäin ([Käypä hoito](https://www.kaypahoito.fi/khk00061)). **Tilastollinen merkitsevyys** tarkoittaa, että sattumalla syntyminen on epätodennäköistä. Se ei kerro, onko ero suuri tai tärkeä.
+**Empiirinen** tutkimus tuottaa tietoa havainnoimalla ja kokeilemalla ([Tieteen termipankki](https://tieteentermipankki.fi/wiki/Filosofia:empiiriset_tieteet)). **Määrällinen eli kvantitatiivinen** tutkimus mittaa ja laskee lukuja. **Laadullinen eli kvalitatiivinen** tutkimus kuvaa ilmiötä sanoin. **Monimenetelmäinen** tutkimus yhdistää molemmat ([Tieteen termipankki](https://tieteentermipankki.fi/wiki/Nimitys:mixed_methods)). **Havainnoiva** tutkimus seuraa tai vertaa ihmisiä muuttamatta mitään, **kokeellinen** muuttaa jotakin ja vertaa. **Kohorttitutkimus** seuraa yhteisen piirteen jakavaa joukkoa. **Retrospektiivinen** tutkimus katsoo jo tapahtuneeseen, **prospektiivinen** seuraa tapahtumia eteenpäin. **Tilastollinen merkitsevyys** tarkoittaa, että tuloksen syntyminen sattumalta on epätodennäköistä (neljä viimeistä: [Käypä hoito](https://www.kaypahoito.fi/khk00061)). Se ei kerro, onko ero suuri tai tärkeä.
 
 ### Asetelma ratkaisee, mitä tutkimus voi kertoa
 
@@ -87,11 +85,11 @@ Kaikkia ei voi tutkia, joten tutkitaan **otos**, jonka halutaan kuvaavan **perus
 
 ### Riski
 
-**Riski** on todennäköisyys, että jokin ei-toivottu tapahtuma toteutuu. **Altiste** on tekijä, jolle ihminen joutuu alttiiksi; joutuminen on **altistumista**. **Riskitekijä** lisää tapahtuman todennäköisyyttä. **Absoluuttinen riski** kertoo, kuinka monelle sadasta tapahtuma sattuu. **Suhteellinen riski** vertaa altistuneiden ja altistumattomien riskiä: kaksi sadasta ja neljä sadasta tarkoittaa kaksinkertaista suhteellista riskiä, vaikka ero on kaksi sadasta (kaavio osion lopussa). **Subjektiivinen riski** on ihmisen oma arvio, ja uutiset ja optimismivinouma vääristävät sitä.
+**Riski** on epäedullisen tapahtuman mahdollisuus, ja **altistus** on joutumista alttiiksi jollekin tekijälle. **Suhteellinen riskiero** on tapahtuman suhteellinen ero ryhmien välillä, **absoluuttinen riskiero** lukumääräinen ero ([Käypä hoito](https://www.kaypahoito.fi/khk00061)). Esimerkiksi neljä sadasta on kaksinkertainen riski verrattuna kahteen sadasta, vaikka ero on kaksi sadasta (kaavio osion lopussa). Sivuston kuvaus: **altiste** on tekijä, jolle altistutaan, **riskitekijä** lisää tapahtuman todennäköisyyttä, **absoluuttinen riski** kertoo, kuinka monelle sadasta tapahtuma sattuu, ja **subjektiivinen riski** on ihmisen oma arvio, jota uutiset ja optimismivinouma voivat vääristää.
 
 ### Kyselytieto ja rekisteritieto
 
-**Kyselytieto** kerätään kysymällä, ja se kertoo kokemuksista ja mielipiteistä. **Rekisteritieto** on kirjattu muuhun tarkoitukseen ja kattaa yleensä koko joukon. Rekisteri kertoo, mitä tapahtui, ei yleensä miksi. THL:n [Kouluterveyskysely](https://thl.fi/tutkimus/hankkeet/kouluterveyskysely) on kysely, ja THL:n avoimessa datassa näkee, miten tieto on kerätty.
+**Kyselytieto** kerätään kysymällä, ja se kertoo kokemuksista ja mielipiteistä. **Rekisteritieto** on kirjattu muuhun tarkoitukseen ja kattaa yleensä koko joukon. Rekisteri kertoo, mitä tapahtui, ei yleensä miksi. THL:n [Kouluterveyskysely](https://thl.fi/tutkimus/hankkeet/kouluterveyskysely) on kysely.
 
 ### Luotettavuus ja pätevyys
 
@@ -99,7 +97,7 @@ Kaikkia ei voi tutkia, joten tutkitaan **otos**, jonka halutaan kuvaavan **perus
 
 ### Miten vertailet lähteitä?
 
-Vertaa vähintään kahta lähdettä samoilla kysymyksillä: kuka tekee, miksi, mihin tieto perustuu, kuinka vanha se on ja kertooko lähde epävarmuudesta. Hyvä lähde nimeää asetelman ja otoksen. Apuna ovat [Asiantuntijalähteen arviointi -video](https://aoe.fi/#/materiaali/3006) ja sen kaavio, avoimia, vain linkitettyjä.
+Vertaa vähintään kahta lähdettä samoilla kysymyksillä: kuka tekee, miksi, mihin tieto perustuu, kuinka vanha se on ja kertooko lähde epävarmuudesta.
 
 ## Tehtävät
 
@@ -115,7 +113,7 @@ Vertaa vähintään kahta lähdettä samoilla kysymyksillä: kuka tekee, miksi, 
 1. Kirjoita paperille tutkimuskysymys, johon voi vastata mittaamalla.
 2. Valitse asetelma: poikkileikkaus, seuranta tai satunnaistettu koe. Kirjoita yksi syy valintaan ja yksi asia, jota asetelma ei voi kertoa.
 3. Päätä otos: ketä tutkitaan ja miten heidät valitaan, jotta otos on edustava.
-4. Kirjoita kuusi tutkimuksen vaihetta oikeaan järjestykseen ja liitä jokaiseen yksi konkreettinen asia tästä tutkimuksesta.
+4. Kirjoita tutkimuksen vaiheet järjestykseen ja liitä jokaiseen yksi konkreettinen asia tästä tutkimuksesta. Käytä sivun kuutta vaihetta tai omaa perusteltua jaotteluasi.
 5. Kirjoita lopuksi yksi lause: mikä tutkimuksessa voisi mennä pieleen, jos otos on valikoitunut?
 
 ### Tehtävä 2: Vertaile kahta lähdettä
@@ -301,7 +299,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 8–10 p: lukemat on poimittu taulukosta, käsitteet (otos, edustavuus, rekisteri, pätevyys, sekoittava tekijä) ovat oikein, ja johtopäätös punnitsee, mitä aineisto voi ja ei voi kertoa.
 - 4–7 p: lukemat ja käsitteet ovat oikein, mutta vastaus luettelee eikä punnitse.
 - 0–3 p: vastaus toistaa rehtorin väitteen tai toteaa vain, että tieto on epäluotettavaa, ilman taulukon lukuja.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 5 p, b 9 p, c 6 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -325,7 +322,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 *Asetelma:* Tehdään satunnaistettu koe. Kymmenestä koulusta arvotaan puolet kokeiluun ja puolet verrokeiksi. Arvonta tekee ryhmistä keskimäärin samanlaiset, ja vertailuryhmä näyttää, mitä olisi tapahtunut ilman toimintaa. Mitataan sekä ennen että jälkeen.
 *Otos:* Mukaan otetaan kaikki kymmenen koulua ja mielellään eri kokoisia ja eri alueilta, jotta tulos pätee laajemmin.
 *Mittari ja aineiston keruu:* Myöhästymiset kirjataan kaikissa kouluissa samalla ohjeella samasta kirjaustavasta. Lisäksi kysytään nimettömällä kyselyllä, miten opiskelijat kokivat aloituksen. Rekisteri kattaa kaikki, kysely kertoo kokemuksesta. Vastausosuutta seurataan, jotta valikoituminen huomataan.
-*Eettiset huomiot:* Osallistuminen on vapaaehtoista, ja opiskelijoille kerrotaan, mihin tietoa käytetään. Tulokset raportoidaan niin, ettei yksittäistä opiskelijaa tunnisteta. Verrokkikouluille tarjotaan toiminta tutkimuksen jälkeen.
+*Eettiset huomiot (TENKin ohjeen mukaan):* Osallistuminen on vapaaehtoista, ja opiskelijoille kerrotaan, mihin tietoa käytetään. Tulokset raportoidaan niin, ettei yksittäistä opiskelijaa tunnisteta. *Sivuston lisäys:* verrokkikouluille voidaan tarjota toiminta tutkimuksen jälkeen.
 
 **c)** Arvoisat valtuutetut. Nykyinen aineisto kertoo, että myöhästymiset vähenivät kokeilukouluissa enemmän kuin muualla, mutta siitä ei voi päätellä, että toiminta oli syy. Kokeilukoulut valitsivat itse. Luotettavamman tuloksen antaisi koe, jossa verrokkikoulut arvotaan. Se kertoisi myöhästymisten muutoksen, ei sitä, onko toiminta muuten hyvä tai opiskelijoiden mielestä mielekäs. Päätöksen tueksi tarvitaan myös tieto kustannuksista ja opiskelijoiden kokemuksista. Tiivistys kertoo rajat avoimesti.
 
@@ -333,7 +330,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 *Sisältö 15 p:*
 
-- Neljä näkökulmaa, jokainen selitetty tehtävän vastaukseen sopivalla tavalla: (1) tutkimuskysymys ja asetelma (vertailuryhmä, arvonta), (2) otos ja edustavuus, (3) mittari ja aineiston keruu (rekisteri, kysely, yhtenäinen kirjaus), (4) etiikka ja raportointi. Yksi näkökulma 4 p, kaksi 7 p, kolme 10 p, neljä 13 p.
+- Neljä näkökulmaa, jokainen selitetty tehtävän vastaukseen sopivalla tavalla: (1) tutkimuskysymys ja asetelma (vertailuryhmä, arvonta), (2) otos ja edustavuus, (3) mittari ja aineiston keruu (rekisteri, kysely, yhtenäinen kirjaus), (4) etiikka (vapaaehtoisuus, tietoon perustuva suostumus, tietosuoja; TENK) ja raportointi. Yksi näkökulma 4 p, kaksi 7 p, kolme 10 p, neljä 13 p.
 - Punnittu johtopäätös, jossa yhdistetään a-kohdan arvio ja suunnitelma (esimerkiksi miksi arvonta korjaa a-kohdassa havaitun valikoitumisen) +2 p.
 
 *Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
@@ -341,7 +338,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 12–15 p: a-kohta käyttää taulukon lukuja, suunnitelma vastaa a-kohdan ongelmiin, käsitteet (asetelma, otos, edustavuus, valikoituminen, pätevyys) ovat oikein, ja valtuutetuille kirjoitettu viesti on selkeä ja rehellinen rajoista.
 - 6–11 p: osat ovat oikein, mutta suunnitelma ei liity a-kohdan havaintoihin tai tiivistys on yleinen.
 - 0–5 p: vastaus toteaa vain, että tutkimus on tarpeen, tai ei käytä aineistoa.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 10 p, b 14 p, c 6 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -377,7 +373,7 @@ Mallikuva on tämän osion lopussa. Kuviosta näkyy, että viiva A on joka talvi
 
 *Sisältö 10 p:*
 
-- a) Otsikko ja kuvitteellinen lähde 1 p; akselit nimetty ja yksiköt 1 p; asteikko nollasta 1 p; kaksi viivaa ja selite oikein 1 p. Yhteensä 4 p.
+- a) Otsikko ja kuvitteellinen lähde 1 p; akselit nimetty yksiköineen 1 p; asteikko näkyy akselilla 1 p; kaksi viivaa ja selite oikein 1 p. Yhteensä 4 p.
 - b) Kolme riskilajia oikein nimetty 3 p.
 - c) Ero luettu taulukosta 1 p; sekoittava tekijä tai verrokkien puute nimetty 1 p; merkitsevyyden merkitys 1 p. Yhteensä 3 p.
 
@@ -386,7 +382,6 @@ Mallikuva on tämän osion lopussa. Kuviosta näkyy, että viiva A on joka talvi
 - 8–10 p: jokainen teksti liitetään taulukon lukuihin, suhteellinen ja absoluuttinen riski erotetaan toisistaan, ja c-kohta punnitsee, mitä aineisto voi ja ei voi näyttää.
 - 4–7 p: riskilajit on nimetty oikein, mutta selitykset ovat yleisiä tai taulukkoon ei viitata.
 - 0–3 p: vastaus toteaa vain, että reitti A on vaarallisempi.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 6 p, b 8 p, c 6 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -395,7 +390,7 @@ Tehtävänannon osapisteet (a 6 p, b 8 p, c 6 p) sisältävät sekä sisällön 
 **Tyypilliset virheet**
 
 - Kolminkertaista riskiä pidetään suurena absoluuttisena riskinä.
-- Kuviosta puuttuu akselin nimi, selite tai nollasta alkava asteikko.
+- Kuviosta puuttuu akselin nimi, asteikko tai selite.
 - Eron perusteella päätellään, että hiekoitus on syy.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
@@ -452,7 +447,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Valmistelu
 
-- Kirjoita taululle tutkimuksen kuusi vaihetta ja neljä asetelmaa tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita. Tutustu halutessasi aoe.fi:n asiantuntijalähteen arvioinnin videoon ja kaavioon (ks. Lähteet; vain linkitetty). Varaa nimettömiä lappuja ja selvitä koulun opiskeluterveydenhuollon yhteystiedot (esimerkki).
+- Kirjoita taululle tutkimuksen kuusi vaihetta ja neljä asetelmaa tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita. Tutustu halutessasi aoe.fi:n asiantuntijalähteen arvioinnin videoon ja kaavioon (ks. Lähteet; vain linkitetty). Varaa nimettömiä lappuja.
 
 ### Avoimet kysymykset
 
@@ -464,7 +459,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Arvioidaan tutkimuksia ja päättelyä, ei ihmisiä. Kuvitteellisia esimerkkejä voi muokata, jos ne tuntuvat liian tutuilta. Älä pyydä opiskelijoita kertomaan omasta terveydestään tai kokemuksistaan tutkittavana. Jos opiskelija kysyy omasta terveydestään, ohjaa opiskeluterveydenhuoltoon.
+- Arvioidaan tutkimuksia ja päättelyä, ei ihmisiä. Kuvitteellisia esimerkkejä voi muokata, jos ne tuntuvat liian tutuilta. Älä pyydä opiskelijoita kertomaan omasta terveydestään tai kokemuksistaan tutkittavana.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että kaikki opiskelijat luottavat samoihin lähteisiin? Esitänkö otoksen valikoitumisen jonkin ryhmän virheenä? Liitänkö esimerkit tiettyyn sukupuoleen, kehoon tai taustaan? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -480,18 +475,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1 ja 3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 2 paperiversio on tehtävän kohdassa *Ilman laitetta*.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-**Jos olet välittömässä vaarassa, soita hätänumeroon 112.**
-
-Tällä sivulla opitaan arvioimaan tutkimustietoa. Netistä, somesta tai tekoälystä löytyvä tieto ei korvaa ammattilaista. Jos sinulla on omia oireita tai huolia terveydestäsi, ota yhteyttä opiskeluterveydenhuoltoon eli terveydenhoitajaan tai lääkäriin. Avun pyytäminen on tavallista ja järkevää.
-
-**Apua saat myös:**
-
-- [Opiskeluterveydenhuolto (THL, luettu 21.11.2026)](https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto): tietoa palvelusta. Oman ajan, kuraattorin ja psykologin palvelut saat koulusi tai hyvinvointialueesi kautta.
-- [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): tietoa ja omahoito-ohjelmia nuorille.
-- [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille. Ikäraja ja aukioloajat ovat sivulla.
 
 ## Lähteet
 

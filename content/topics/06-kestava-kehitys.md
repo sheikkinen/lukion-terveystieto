@@ -19,15 +19,14 @@ official_links:
   - {title: "Kestävä kehitys -opintojakso lukioon (aoe.fi 2842)", url: "https://aoe.fi/#/materiaali/2842", publisher: "SASKY koulutuskuntayhtymä (aoe.fi)", read: 2026-11-21}
   - {title: "Kestävää tulevaisuutta lukiolaisille! (aoe.fi 2284)", url: "https://aoe.fi/#/materiaali/2284", publisher: "Helsingin kaupunki (aoe.fi)", read: 2026-11-21}
   - {title: "Ihmisen ja ympäristön terveys kulkevat käsi kädessä (THL)", url: "https://thl.fi/nakemyksemme/ihmisen-ja-ympariston-terveys-kulkevat-kasi-kadessa", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
-  - {title: "Ympäristöministeriö", url: "https://ym.fi/etusivu", publisher: "Ympäristöministeriö", read: 2026-11-21}
+  - {title: "Kestävä kehitys ympäristöministeriön toiminnassa", url: "https://ym.fi/kestava-kehitys-ymparistoministerion-toiminnassa", publisher: "Ympäristöministeriö", read: 2026-11-22}
+  - {title: "Ympäristöväitteet markkinoinnissa (KKV)", url: "https://www.kkv.fi/kuluttaja-asiat/markkinointi-alennukset-ja-hinnan-ilmoittaminen/markkinointi-ja-menettely-asiakassuhteessa/ymparistovaitteet-markkinoinnissa/", publisher: "Kilpailu- ja kuluttajavirasto (KKV)", read: 2026-11-22}
+  - {title: "Suomessa on sitkeitä hyvinvointi- ja terveyseroja (THL)", url: "https://thl.fi/nakemyksemme/suomessa-on-sitkeita-hyvinvointi-ja-terveyseroja", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-22}
   - {title: "Sitra", url: "https://www.sitra.fi/", publisher: "Sitra", read: 2026-11-21}
   - {title: "Ilmanlaatu (Ilmatieteen laitos)", url: "https://www.ilmatieteenlaitos.fi/ilmanlaatu", publisher: "Ilmatieteen laitos", read: 2026-11-21}
-  - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
-  - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
-  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
   - {title: "Ilmastoahdistus: mistä on kyse? (Mielenterveystalo)", url: "https://www.mielenterveystalo.fi/fi/omahoito/ilmastoahdistuksen-omahoito-ohjelma/1-mista-kyse", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
   - {title: "Luonto elvyttää, rauhoittaa ja lievittää stressiä (MIELI)", url: "https://mieli.fi/vahvista-mielenterveyttasi/ymparisto-vaikuttaa-mieleen/luonto-elvyttaa-rauhoittaa-ja-lievittaa-stressia/", publisher: "Suomen Mielenterveys ry (MIELI)", read: 2026-11-21}
-yearly_facts: [ilmanlaatu, opiskeluterveydenhuolto, sekasin_chat]
+yearly_facts: [ilmanlaatu]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - title: "Kestävän kehityksen käsikirja lukioille (aoe.fi 4038)"
@@ -58,13 +57,13 @@ linked_materials:
     licence: "Kaikki oikeudet pidätetään"
     audience: opettaja ja opiskelija
     read: 2026-11-21
-  - title: "Ympäristöministeriö"
-    url: "https://ym.fi/etusivu"
+  - title: "Kestävä kehitys ympäristöministeriön toiminnassa"
+    url: "https://ym.fi/kestava-kehitys-ymparistoministerion-toiminnassa"
     publisher: "Ympäristöministeriö"
     licence_class: link-out
     licence: "Kaikki oikeudet pidätetään"
     audience: opettaja (taustatieto)
-    read: 2026-11-21
+    read: 2026-11-22
   - title: "Sitra"
     url: "https://www.sitra.fi/"
     publisher: "Sitra"
@@ -80,7 +79,6 @@ review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
 school_adapts:
   - "Koulun tai kunnan oma ympäristö- ja kestävyysohjelma, jos opettaja haluaa käyttää sitä esimerkkinä"
-  - "Opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"
 accessibility:
   - "Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; aineistot on kirjoitettu tehtäviin."
   - "Tehtävissä analysoidaan kuvitteellisia päätöksiä ja henkilöitä; omista kulutustottumuksista, taloudesta tai asumisesta ei tarvitse kertoa kenellekään."
@@ -94,53 +92,53 @@ last_reviewed: 2026-11-21
 
 1. Osaan kuvata kestävän kehityksen neljä ulottuvuutta ja selittää, miten kukin liittyy terveyteen.
 2. Osaan selittää ketjuna, miten ympäristön muutokset vaikuttavat terveyteen ja miksi vaikutukset jakautuvat eri ihmisille eri tavoin.
-3. Osaan analysoida kulutusvalinnan vaikutuksia ympäristöön ja terveyteen ja erottaa, mikä on yksilön, yhteisön ja yhteiskunnan vastuulla.
+3. Osaan analysoida kulutusvalinnan vaikutuksia ympäristöön ja terveyteen, selittää, miten vastuu voidaan jakaa yksilön, yhteisön ja yhteiskunnan kesken, ja punnita perusteita.
 4. Osaan selittää, mitä tarkoittavat terveys kaikissa politiikoissa ja sukupolvien välinen oikeudenmukaisuus, ja arvioida päätöksen terveysvaikutuksia.
 5. Osaan tunnistaa viherpesua ja arvioida ympäristöväitteen luotettavuutta.
 6. Osaan selittää, mitä ilmastoahdistus on ja miten sitä lievitetään yksilön, yhteisön ja yhteiskunnan tasolla.
 
-Sisältöalueella ei ole omaa tavoitetta. Lähin on TE2.t4 (ympäristön ja terveyden yhteydet).
+Sisältöalueella ei ole omaa tavoitetta; lähin on TE2.t4. Osaan 5 ja 6 sekä Osaan 4:n käsitteet ovat sivuston lisäyksiä.
 
 ### Mitä kestävä kehitys tarkoittaa?
 
-**Kestävä kehitys** tarkoittaa, että nykyiset ihmiset voivat hyvin niin, ettei tulevien sukupolvien mahdollisuuksia hyvään elämään heikennetä. Sillä on neljä ulottuvuutta:
+**Kestävä kehitys** tarkoittaa hyvinvoinnin rakentamista ympäristön kantokyvyn rajoissa niin, että myös tulevilla sukupolvilla on hyvä elämä ([ympäristöministeriö](https://ym.fi/kestava-kehitys-ymparistoministerion-toiminnassa)). Sivuston oma jäsennys: kestävää kehitystä jäsennetään usein neljään ulottuvuuteen (ministeriö nimeää ympäristölliset, taloudelliset ja sosiaaliset tavoitteet):
 
 - **ekologinen:** luonnon kantokyky, ilma, vesi, ilmasto ja luonnon monimuotoisuus
 - **taloudellinen:** toimeentulo, työ ja talous, joka kestää ilman velkaa tuleville sukupolville
 - **sosiaalinen:** oikeudenmukaisuus, yhdenvertaisuus, osallisuus ja palvelut kaikille
 - **kulttuurinen:** perinteet, arvot, tavat ja kulttuuriperintö
 
-Terveys liittyy kaikkiin neljään. Puhdas ilma tukee hengitystä ja jaksamista. Toimeentulo ja työ tukevat turvallista elämää. Yhdenvertaisuus vähentää syrjintää ja kuormitusta. Yhteiset perinteet luovat kuulumista.
+Terveys liittyy kaikkiin neljään: puhdas ilma tukee hengitystä, toimeentulo turvallisuutta, yhdenvertaisuus vähentää kuormitusta ja perinteet luovat kuulumista.
 
 ### Ympäristö ja terveys: ketjuja
 
 Ketju kulkee näin: ympäristön muutos → välittävä tekijä → vaikutus terveyteen.
 
-- **Ilmanlaatu.** Liikenne ja energiantuotanto päästävät ilmaan hiukkasia. Pienhiukkaset voivat vaikuttaa erityisesti herkkiin ryhmiin. Ajantasaiset tiedot ja raja-arvot ovat [Ilmatieteen laitoksen ilmanlaatusivulla](https://www.ilmatieteenlaitos.fi/ilmanlaatu), joten niitä ei kirjoiteta tähän.
-- **Ilmastonmuutos.** Lämpenevä ilmasto lisää esimerkiksi helleaaltoja, tulvia ja myrskyjä. Ne kuormittavat elimistöä, vahingoittavat asuntoja ja voivat muuttaa ruoan ja veden saatavuutta.
-- **Luonto.** Luonnon monimuotoisuus ja viheralueet tukevat ilmanlaatua ja palautumista, ja viheralueet viilentävät kaupunkia.
+- **Ilmanlaatu.** Liikenne ja energiantuotanto päästävät ilmaan hiukkasia. Sivuston lisäys: pienhiukkaset voivat kuormittaa erityisesti herkkiä ryhmiä. Ajantasaiset tiedot: [Ilmatieteen laitos](https://www.ilmatieteenlaitos.fi/ilmanlaatu).
+- **Ilmastonmuutos.** Lämpenevä ilmasto lisää helleaaltoja, tulvia ja myrskyjä, jotka kuormittavat elimistöä, vahingoittavat asuntoja ja voivat muuttaa ruoan ja veden saatavuutta.
+- **Luonto.** Viheralueet tukevat ilmanlaatua ja palautumista ja viilentävät kaupunkia.
 
 Joskus ratkaisu auttaa sekä ympäristöä että terveyttä. Sitä kutsutaan **yhteishyödyksi**. Kun kävely, pyöräily ja joukkoliikenne ovat helppoja, päästöt ja ilmansaasteet vähenevät ja arkiliikunnan mahdollisuudet kasvavat.
 
-Vaikutukset eivät jakaudu tasaisesti. Usein ne, jotka ovat aiheuttaneet ympäristömuutoksesta vähiten, kärsivät siitä eniten: esimerkiksi ulkona työskentelevät, kuumassa asunnossa asuvat tai maat, joissa on vähän resursseja sopeutua. Tämä on **terveyseroja**. Ne johtuvat olosuhteista eivätkä ihmisen omista valinnoista.
+Vaikutukset eivät jakaudu tasaisesti. Sivuston lisäys: usein ne, jotka ovat aiheuttaneet ympäristömuutoksesta vähiten, kärsivät siitä eniten, esimerkiksi ulkona työskentelevät, kuumassa asunnossa asuvat tai maat, joissa on vähän resursseja sopeutua. Tämä on **terveyseroja**. THL:n mukaan terveyserot liittyvät vahvasti sosioekonomiseen asemaan, esimerkiksi koulutukseen ja tuloihin ([THL](https://thl.fi/nakemyksemme/suomessa-on-sitkeita-hyvinvointi-ja-terveyseroja)).
 
 ### Kulutus ja elintavat
 
 Jokaisella tuotteella on **elinkaari**: raaka-aineet, valmistus, käyttö ja jätteet. Kulutusvalintaa voi analysoida kysymällä: mitä se vaatii luonnolta koko elinkaaren ajan? Kuka hyötyy ja kuka kantaa haitat? Mikä valintaa rajaa, esimerkiksi tulot, asuinpaikka, palvelut tai tieto?
 
-Yksilön valinnoilla on merkitystä, mutta suuri osa päästöistä ja haitoista syntyy rakenteista: energiantuotannosta, liikenneverkosta ja yritysten ratkaisuista. Siksi vastuu jakautuu yksilön, yhteisön ja yhteiskunnan kesken. Valintoja ei arvioida hyviksi tai huonoiksi ihmisiksi: ne tehdään aina olosuhteiden sisällä.
+Päästöt syntyvät sekä yksilön valinnoista että rakenteista, kuten energiantuotannosta ja liikenneverkosta. Keskustelussa painotetaan eri tavoin yksilön, yhteisön ja yhteiskunnan vastuuta.
 
-Ympäristöväitteitä esitetään usein mainoksissa. **Viherpesu** tarkoittaa, että tuote tai yritys esitetään ympäristöystävällisemmäksi kuin se todellisuudessa on. Tunnistat sen kysymällä: onko väite täsmällinen? Voiko sen tarkistaa? Koskeeko se koko tuotetta vai vain yhtä osaa? Mihin sitä verrataan? Viestinnän vaikutuskeinoja käsitellään tarkemmin aiheessa 03.
+**Viherpesu** tarkoittaa, että tuote tai yritys esitetään ympäristöystävällisemmäksi kuin se todellisuudessa on. Kuluttaja-asiamiehen ohjeen mukaan väitteen pitää olla täsmällinen ja siitä pitää näkyä, koskeeko se koko tuotetta, ja yrityksellä pitää olla näyttöä ([KKV](https://www.kkv.fi/kuluttaja-asiat/markkinointi-alennukset-ja-hinnan-ilmoittaminen/markkinointi-ja-menettely-asiakassuhteessa/ymparistovaitteet-markkinoinnissa/)). Sivuston oma tarkistuslista: onko väite täsmällinen, voiko sen tarkistaa, koskeeko se koko tuotetta ja mihin sitä verrataan? Viestinnän vaikutuskeinoja käsitellään tarkemmin aiheessa 03.
 
 ### Päätökset ja tulevat sukupolvet
 
-**Terveys kaikissa politiikoissa** tarkoittaa, että päättäjät arvioivat kaikkien alojen päätösten terveysvaikutukset, esimerkiksi liikenteen, kaavoituksen, energian ja koulutuksen. Terveyteen vaikuttavat monet tekijät, eikä terveydenhuolto yksin voi korjata niitä. Se jatkaa Ottawan asiakirjan ensimmäistä toiminta-aluetta, terveyttä edistävää yhteiskuntapolitiikkaa, jonka tunnet TE1-aiheesta [Mitä terveys on?](../../te1/01-terveys-voimavarana/).
+**Terveys kaikissa politiikoissa** tarkoittaa, että päättäjät arvioivat kaikkien alojen päätösten terveysvaikutukset, esimerkiksi liikenteen, kaavoituksen ja energian.
 
-**Sukupolvien välinen oikeudenmukaisuus** tarkoittaa, että päätökset otetaan huomioon myös niiden kannalta, jotka eivät vielä voi vaikuttaa: nuoret ja lapset, jotka eivät ole vielä syntyneet.
+**Sukupolvien välinen oikeudenmukaisuus** tarkoittaa, että päätökset otetaan huomioon myös niiden kannalta, jotka eivät vielä voi vaikuttaa, kuten nuoret ja syntymättömät. THL mainitsee tulevien sukupolvien terveyden ja oikeudenmukaisuuden ([THL](https://thl.fi/nakemyksemme/ihmisen-ja-ympariston-terveys-kulkevat-kasi-kadessa)).
 
 ### Ilmastoahdistus
 
-**Ilmastoahdistus** on ahdistusta ilmastonmuutoksesta ja siitä kertovista uutisista. Se on osa laajempaa ympäristöahdistusta, ei sairaus vaan ymmärrettävä reaktio uhkaan ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/omahoito/ilmastoahdistuksen-omahoito-ohjelma/1-mista-kyse)). Se syntyy, kun uutiset herättävät huolta ja voimattomuutta. Lievittää voi kolmella tasolla. **Yksilö** tunnistaa tunteensa ja valitsee itselleen sopivia tekoja. **Yhteisö** antaa vertaistukea ja yhteistä tekemistä ([MIELI](https://mieli.fi/vahvista-mielenterveyttasi/ymparisto-vaikuttaa-mieleen/luonto-elvyttaa-rauhoittaa-ja-lievittaa-stressia/)). **Yhteiskunta** tekee päätöksiä, jotka pienentävät uhkaa. Jos huoli kuormittaa, voit puhua opiskeluterveydenhuollossa.
+**Ilmastoahdistus** on ahdistusta ilmastonmuutoksesta ja siitä kertovista uutisista, osa laajempaa ympäristöahdistusta ([MIELI](https://mieli.fi/vahvista-mielenterveyttasi/ymparisto-vaikuttaa-mieleen/luonto-elvyttaa-rauhoittaa-ja-lievittaa-stressia/)). Se ei ole sairaus vaan ymmärrettävä reaktio ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/omahoito/ilmastoahdistuksen-omahoito-ohjelma/1-mista-kyse)). Sivuston oma jäsennys: lievittää voi kolmella tasolla. **Yksilö** tunnistaa tunteensa ja valitsee itselleen sopivia tekoja. **Yhteisössä** tunteita voi käsitellä ryhmässä ([MIELI](https://mieli.fi/vahvista-mielenterveyttasi/ymparisto-vaikuttaa-mieleen/luonto-elvyttaa-rauhoittaa-ja-lievittaa-stressia/)). **Yhteiskunta** tekee päätöksiä, jotka pienentävät uhkaa.
 
 ## Tehtävät
 
@@ -187,7 +185,7 @@ Ympäristöväitteitä esitetään usein mainoksissa. **Viherpesu** tarkoittaa, 
 2. Kirjoita kolme asiaa, jotka voivat rajata Samin valintaa, esimerkiksi tulot tai korjauspalvelun saatavuus.
 3. Alleviivaa mainoksen epätarkat sanat ja kirjoita kolme kysymystä, joilla väitettä voisi tarkistaa.
 4. Kirjoita, kuka muu kuin Sami voi vaikuttaa siihen, millaisia tuotteita on tarjolla: valmistaja, kauppa vai valtio.
-5. Avaa [Mielenterveystalon ilmastoahdistussivu](https://www.mielenterveystalo.fi/fi/omahoito/ilmastoahdistuksen-omahoito-ohjelma/1-mista-kyse) ja kirjoita omin sanoin, mitä ilmastoahdistus on ja miksi se ei ole sairaus.
+5. Avaa [Mielenterveystalon ilmastoahdistussivu](https://www.mielenterveystalo.fi/fi/omahoito/ilmastoahdistuksen-omahoito-ohjelma/1-mista-kyse) ja kirjoita omin sanoin, mitä ilmastoahdistus on ja miksi se ei ole sairaus (sivuston lisäys).
 
 ## Pohdinta
 
@@ -201,7 +199,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 1. Osaan kuvata kestävän kehityksen neljä ulottuvuutta ja selittää, miten kukin liittyy terveyteen.
 2. Osaan selittää ketjuna, miten ympäristön muutokset vaikuttavat terveyteen ja miksi vaikutukset jakautuvat eri ihmisille eri tavoin.
-3. Osaan analysoida kulutusvalinnan vaikutuksia ympäristöön ja terveyteen ja erottaa, mikä on yksilön, yhteisön ja yhteiskunnan vastuulla.
+3. Osaan analysoida kulutusvalinnan vaikutuksia ympäristöön ja terveyteen, selittää, miten vastuu voidaan jakaa yksilön, yhteisön ja yhteiskunnan kesken, ja punnita perusteita.
 4. Osaan selittää, mitä tarkoittavat terveys kaikissa politiikoissa ja sukupolvien välinen oikeudenmukaisuus, ja arvioida päätöksen terveysvaikutuksia.
 5. Osaan tunnistaa viherpesua ja arvioida ympäristöväitteen luotettavuutta.
 6. Osaan selittää, mitä ilmastoahdistus on ja miten sitä lievitetään yksilön, yhteisön ja yhteiskunnan tasolla.
@@ -220,9 +218,9 @@ Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyyp
 
 Määrittele käsitteet A–D ja anna kustakin terveyteen liittyvä esimerkki kuvitteellisesta tilanteesta. Kerro lisäksi, miten käsite eroaa lähikäsitteestä.
 
-A) ilmastoahdistus
+A) ilmastoahdistus (sivuston lisäys)
 B) yhteishyöty
-C) viherpesu
+C) viherpesu (sivuston lisäys)
 D) terveyserot
 
 Jokaisesta käsitteestä 5 p: määritelmä 2 p, esimerkki 2 p, ero lähikäsitteeseen 1 p (20 p). Vastaa kuhunkin käsitteeseen enintään 400 merkillä välilyönteineen. Rajan ylittävästä käsitteen vastauksesta vähennetään 1 p.
@@ -265,7 +263,7 @@ c) Esitä perusteltu kanta: kenen vastuulla ympäristön ja terveyden suojelu en
 
 **C) Viherpesu** tarkoittaa, että tuote esitetään ympäristöystävällisemmäksi kuin se on. Esimerkiksi mainos väittää kuulokkeita "täysin ympäristöystävällisiksi" ilman perustetta (kuvitteellinen). Se eroaa tarkistettavasta ja täsmällisestä ympäristöväitteestä.
 
-**D) Terveyserot** ovat eroja siinä, miten terveys jakautuu ihmisryhmien välillä. Esimerkiksi helteellä ylimmän kerroksen varjottomassa asunnossa asuva kuormittuu enemmän kuin viileän puiston lähellä asuva (kuvitteellinen). Erot johtuvat olosuhteista, ei yksilön valinnoista, ja siksi ne eroavat yksittäisistä terveysvalinnoista.
+**D) Terveyserot** ovat eroja siinä, miten terveys jakautuu ihmisryhmien välillä. Esimerkiksi helteellä ylimmän kerroksen varjottomassa asunnossa asuva kuormittuu enemmän kuin viileän puiston lähellä asuva (kuvitteellinen). Erot liittyvät vahvasti olosuhteisiin, kuten asuntoon ja työhön, ja siksi ne eroavat yksittäisistä terveysvalinnoista.
 
 **Pisteytys**
 
@@ -282,7 +280,7 @@ c) Esitä perusteltu kanta: kenen vastuulla ympäristön ja terveyden suojelu en
 
 - Määritelmä on synonyymi tai esimerkki ("viherpesu on valehtelua").
 - Ilmastoahdistus esitetään sairautena tai heikkoutena.
-- Esimerkki kuvaa yksilön valintaa, vaikka käsite (terveyserot, yhteishyöty) koskee olosuhteita.
+- Esimerkki ei kuvaa ryhmien välistä eroa (terveyserot) eikä ratkaisua, joka auttaa sekä ympäristöä että terveyttä (yhteishyöty).
 - Ero lähikäsitteeseen puuttuu tai on pelkkä "ne ovat eri asioita".
 - Vastaus ylittää merkkirajan.
 
@@ -308,7 +306,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 8–10 p: vaikutukset yhdistetään eri ryhmiin ja ulottuvuuksiin aineiston perusteella; vastaus punnitsee hyötyjä ja haittoja ja päätyy perusteltuun arvioon; käsitteet ovat tarkkoja.
 - 4–7 p: vaikutukset on lueteltu oikein, mutta punninta tai ryhmien erottelu puuttuu.
 - 0–3 p: vastaus toteaa päätöksen hyväksi tai huonoksi ilman perusteita.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 8 p, b 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -329,9 +326,11 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **a)** Aineisto 1 korostaa yksilön vastuuta: ongelma ratkeaa, kun jokainen valitsee oikein, ja päättäjien säännöt nähdään haittana. Aineisto 2 korostaa yhteiskunnan vastuuta: kaupunki muuttaa olosuhteita rakentamalla pyöräverkon ja arvioi vaikutukset asukasryhmiin.
 
-**b)** *Arvot:* aineisto 1 painottaa vapautta ja omaa valintaa, aineisto 2 yhteistä hyvää ja oikeudenmukaisuutta. *Normit ja velvollisuudet:* kaupungilla on velvollisuus arvioida päätöksen vaikutukset asukkaisiin, ja yksilöllä on vastuu omista teoistaan. *Seuraukset:* jos vastuu jää yksilöille, ne, joilla on vähän varaa tai joiden alueella ei ole palveluita, eivät voi valita samalla tavalla. Silloin terveyserot kasvavat. Pyöräverkko voi parantaa ilmanlaatua ja liikkumismahdollisuuksia kaikille, mutta pysäköintimaksut kuormittavat eniten niitä, jotka tarvitsevat autoa. *Oikeudet:* kaikilla on oikeus terveelliseen ympäristöön ja oikeus vaikuttaa asioihin. *Sukupolvien välinen oikeudenmukaisuus:* päätökset vaikuttavat niihin, jotka eivät vielä äänestä, ja nykypäätökset voivat kaventaa tulevien mahdollisuuksia. *Terveyserot:* ympäristömuutoksen haitat osuvat eniten niihin, joilla on vähiten keinoja suojautua.
+**b)** *Arvot:* aineisto 1 painottaa vapautta ja omaa valintaa, aineisto 2 yhteistä hyvää ja oikeudenmukaisuutta. *Normit ja velvollisuudet:* kaupungilla on velvollisuus arvioida päätöksen vaikutukset asukkaisiin, ja yksilöllä on vastuu omista teoistaan. *Seuraukset:* jos vastuu jää yksilöille, ne, joilla on vähän varaa tai joiden alueella ei ole palveluita, eivät voi valita samalla tavalla. Silloin terveyserot kasvavat. Pyöräverkko voi parantaa ilmanlaatua ja liikkumismahdollisuuksia kaikille, mutta pysäköintimaksut kuormittavat eniten niitä, jotka tarvitsevat autoa. *Oikeudet:* perusteluna voi käyttää esimerkiksi ajatusta oikeudesta terveelliseen ympäristöön ja oikeudesta vaikuttaa asioihin (sivuston esimerkki, ei lakitulkinta). *Sukupolvien välinen oikeudenmukaisuus:* päätökset vaikuttavat niihin, jotka eivät vielä äänestä, ja nykypäätökset voivat kaventaa tulevien mahdollisuuksia. *Terveyserot:* ympäristömuutoksen haitat osuvat eniten niihin, joilla on vähiten keinoja suojautua (sivuston lisäys).
 
-**c)** Ensisijaisesti vastuu on yhteiskunnalla ja päättäjillä, koska he voivat muuttaa olosuhteita, joissa kaikki valitsevat: energian, liikenteen ja palvelut. Yksilön valinnat ovat tärkeitä, mutta ne toimivat vain, jos vaihtoehtoja on tarjolla. Vastaväite on, että päätökset voivat rajoittaa vapautta ja kustannukset osuvat epätasaisesti. Siksi vaikutukset on arvioitava eri ryhmille, kuten aineisto 2 kuvaa. Parhaiten toimii yhdistelmä: yhteiskunta luo mahdollisuudet, yksilöt ja yhteisöt käyttävät niitä.
+**c)** *Yksi perusteltu kanta:* ensisijaisesti vastuu on yhteiskunnalla ja päättäjillä, koska he voivat muuttaa olosuhteita, joissa kaikki valitsevat: energian, liikenteen ja palvelut. Yksilön valinnat ovat tärkeitä, mutta ne toimivat vain, jos vaihtoehtoja on tarjolla. Vastaväite on, että päätökset voivat rajoittaa vapautta ja kustannukset osuvat epätasaisesti. Siksi vaikutukset on arvioitava eri ryhmille, kuten aineisto 2 kuvaa. Yksi mahdollinen kanta on myös yhdistelmä: yhteiskunta luo mahdollisuudet, yksilöt ja yhteisöt käyttävät niitä.
+
+*Toinen perusteltu kanta (vastakkainen painotus):* ensisijaisesti vastuu on yksilöllä, koska hän päättää omista valinnoistaan ja vapaus valita tukee sitoutumista. Vastaväite on, että kaikilla ei ole yhtä paljon vaihtoehtoja, jolloin vastuu kasautuu niille, joilla on vähiten keinoja. Kanta pysyy perusteltuna, jos se ottaa tämän huomioon, esimerkiksi tarjoamalla tietoa ja tukea.
 
 **Pisteytys**
 
@@ -346,7 +345,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 12–15 p: näkökulmat on erotettu toisistaan ja sidottu aineistoihin; analyysi punnitsee näkökulmia keskenään; kanta on perusteltu ja vastaväite käsitellään; terveyserot ja tulevat sukupolvet nimetään.
 - 6–11 p: näkökulmia on oikein, mutta ne jäävät luetteloksi tai kanta on perustelematta.
 - 0–5 p: vastaus toistaa aineistojen kantoja tai ottaa kantaa ilman analyysia.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 8 p, b 14 p, c 8 p) sisältävät sekä sisällön että tiedonkäsittelyn. Kantaa ei pisteytetä sen mukaan, kumman puolelle vastaaja asettuu, vaan perustelun mukaan.
 
@@ -356,7 +354,7 @@ Tehtävänannon osapisteet (a 8 p, b 14 p, c 8 p) sisältävät sekä sisällön
 
 - Luetellaan näkökulmat nimeltä ilman, että niitä sovelletaan aineistoon.
 - Esitetään vain yksi puoli, esimerkiksi syytetään yksilöitä tai päättäjiä, eikä oteta vastaväitettä huomioon.
-- Terveyserot jäävät mainitsematta tai yhdistetään ihmisten omiin valintoihin.
+- Terveyserot jäävät mainitsematta tai selitetään vain ihmisten omilla valinnoilla.
 - Kanta on moralisoiva ("ihmisten pitäisi vain tehdä oikein").
 - Vastaus unohtaa tulevat sukupolvet.
 
@@ -388,7 +386,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Aiemman tiedon aktivointi | 10 | Parit kertaavat TE1:n terveyden taustatekijöiden tasot ja Ottawan viisi toiminta-aluetta. | Piirrä kehät taululle ja kysy: mihin kehään ilmasto kuuluu? | Yksin paperille. | Vain tasot. |
 | Lyhyt alustus | 10 | Opiskelijat kirjaavat neljä ulottuvuutta, yhteishyödyn, terveyserot ja viherpesun. | Selitä jokainen yhdellä esimerkillä. Korosta, että valinnat tehdään olosuhteiden sisällä. | Käsitteet paperilla. | Viherpesu kotiin. |
 | Työskentely | 25 | Tehtävä 1 kokonaan pareittain (20 min), sitten Tehtävän 2 vaiheet 1–2 (5 min). | Kierrä ja kysy: kuka hyötyy ja kuka kantaa haitat? | Yksin paperilla. | Tehtävä 2 kotiin. |
-| Pari- tai pienryhmäpohdinta | 10 | Ryhmät vastaavat Tehtävän 1 vaiheeseen 5: miten terveys näkyy päätöksessä? | Kokoa vastaukset taululle ja linkitä ne Ottawan ensimmäiseen toiminta-alueeseen. | Yksin: kaksi ehdotusta. | Yksi yhteinen vastaus. |
+| Pari- tai pienryhmäpohdinta | 10 | Ryhmät vastaavat Tehtävän 1 vaiheeseen 5: miten terveys näkyy päätöksessä? | Kokoa vastaukset taululle ja linkitä ne terveys kaikissa politiikoissa -ajatukseen. | Yksin: kaksi ehdotusta. | Yksi yhteinen vastaus. |
 | Koeharjoitus ja exit | 10 | K1:n kaksi käsitettä yksin (7 min), tarkistus (3 min). Exit-lappu: yksi ulottuvuus ja terveysyhteys. | Näytä K1:n pisteytys: mistä 5 pistettä syntyy? | Paperilla. | Tarkistus kotona. |
 | Puskuri | 5 | Kysymyksiä ja keskeneräisten loppuun. | Kerro, että K1–K3 ovat harjoituksia kotiin tai kertaukseen. | – | – |
 
@@ -400,7 +398,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Aiemman tiedon aktivointi | 6 | Koko ryhmä kertaa terveyden taustatekijöiden tasot. | Piirrä kehät taululle. | Lista paperilla. | Vain kaksi tasoa. |
 | Lyhyt alustus | 8 | Opiskelijat kirjaavat neljä ulottuvuutta ja terveyserot. | Selitä esimerkillä. | Käsitteet paperilla. | Terveyserot kotiin. |
 | Työskentely | 25 | Tehtävä 1 kokonaan (20 min), sitten Tehtävän 2 vaiheet 1–2 (5 min). | Kierrä ja kysy hyötyjistä ja haitankantajista. | Yksin paperilla. | Tehtävä 2 kotiin. |
-| Pari- tai pienryhmäpohdinta | 8 | Parit vastaavat Tehtävän 1 vaiheeseen 5. | Linkitä vastaukset toiminta-alueeseen. | Yksin paperille. | Yksi yhteinen vastaus. |
+| Pari- tai pienryhmäpohdinta | 8 | Parit vastaavat Tehtävän 1 vaiheeseen 5. | Linkitä vastaukset terveys kaikissa politiikoissa -ajatukseen. | Yksin paperille. | Yksi yhteinen vastaus. |
 | Koeharjoitus ja exit | 7 | K1:n yksi käsite yksin (4 min) ja tarkistus (3 min). Exit-lappu: yksi epäselvä käsite. | Näytä, miten 5 pistettä jakautuu. | Paperilla. | Tarkistus kotona. |
 | Puskuri | 2 | Kysymykset. | Kerro K1–K3:sta kotiharjoituksina. | – | – |
 
@@ -421,7 +419,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Kirjoita taululle neljä ulottuvuutta tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Tutustu halutessasi aoe.fi-aineistoihin (ks. Lähteet): käsikirja 4038 on CC BY, kaksi muuta CC BY-SA. Linkitä, älä kopioi.
-- Selvitä koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki).
 
 ### Avoimet kysymykset
 
@@ -435,7 +432,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Pelisäännöt ja oletusten tarkistus
 
 - Arvioidaan päätöksiä ja väitteitä, ei ihmisiä. Kenenkään kulutusvalintoja tai taloutta ei arvostella. Ketään ei pyydetä kertomaan, miten hän asuu, liikkuu tai kuluttaa.
-- Älä käytä pelottelua. Ilmastoasioissa pysy ratkaisuissa ja yhdessä tekemisessä. Jos opiskelija kertoo olevansa ympäristöasioista huolissaan, kuuntele ja ohjaa tarvittaessa opiskeluterveydenhuoltoon.
+- Älä käytä pelottelua. Ilmastoasioissa pysy ratkaisuissa ja yhdessä tekemisessä.
 - Käsittele eri näkemykset tasapuolisesti. Ristiriitainen ympäristöpolitiikka on keskustelun aihe, ja kestävä kehitys ja terveys kuuluvat opetukseen.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että kaikilla on mahdollisuus valita kulkutapa, asuinpaikka tai ostokset? Oletanko tietyn perhemuodon tai varallisuuden? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
@@ -443,7 +440,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Helpompi polku:** Tee Tehtävässä 1 vain kaksi ensimmäistä ulottuvuutta ja käytä apulausetta: *Tämä vaikuttaa terveyteen, koska …*. Tee Tehtävässä 2 vain vaiheet 1–3. Koetehtävistä K1:n kaksi ensimmäistä käsitettä riittävät.
 
-**Syvempi polku:** Tutustu aoe.fi-aineistoon [Kestävän kehityksen käsikirja lukioille](https://aoe.fi/#/materiaali/4038) ja etsi kohta, jossa terveysyhteys voisi näkyä. Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn viiden kriteerin avulla. Vertaa [Ympäristöministeriön](https://ym.fi/etusivu) ja [Sitran](https://www.sitra.fi/) näkökulmia kestävään kehitykseen: kenelle ne ovat kirjoitettuja?
+**Syvempi polku:** Tutustu aoe.fi-aineistoon [Kestävän kehityksen käsikirja lukioille](https://aoe.fi/#/materiaali/4038) ja etsi kohta, jossa terveysyhteys voisi näkyä. Tee K3 kokonaan ja arvioi vastaustasi tiedonkäsittelyn viiden kriteerin avulla. Vertaa [Ympäristöministeriön](https://ym.fi/kestava-kehitys-ymparistoministerion-toiminnassa) ja [Sitran](https://www.sitra.fi/) näkökulmia kestävään kehitykseen: kenelle ne ovat kirjoitettuja?
 
 **S2 ja selkeä kieli:** Käy sanasto läpi ennen Tehtävää 1. Sarakkeisiin voi kirjoittaa omalla kielellä; koetehtävissä harjoitellaan suomenkielisiä käsitteitä.
 
@@ -463,18 +460,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Kaikki tehtävät, koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 vaihe 5 on korvattu kolmella keinolla.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-**Jos olet välittömässä vaarassa, soita hätänumeroon 112.**
-
-Tällä sivulla käsitellään ympäristöä ja terveyttä yleisesti. Jos ympäristöasiat tai muut huolet kuormittavat sinua, voit puhua opiskeluterveydenhuollon terveydenhoitajan tai lääkärin, kuraattorin tai psykologin kanssa. Jos sinulla on omia oireita tai huolia terveydestäsi, ota yhteyttä samoihin. Koulusi kertoo, miten aika varataan (esimerkki). Avun pyytäminen on tavallista ja järkevää.
-
-**Apua saat myös:**
-
-- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
-- [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille. Ikärajat ja aukioloajat ovat sivulla. Sekasin-sivu linkittää alle 16-vuotiaille tarkoitettuun Apuu-chattiin (apuu.fi).
 
 ## Lähteet
 

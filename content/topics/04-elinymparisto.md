@@ -27,10 +27,9 @@ official_links:
   - {title: "Terveyttä luonnosta -ohjelma (THL)", url: "https://thl.fi/ajankohtaista/hallitusohjelmaratkaisut/terveytta-luonnosta-ohjelma", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Ihmisen ja ympäristön terveys kulkevat käsi kädessä (THL)", url: "https://thl.fi/nakemyksemme/ihmisen-ja-ympariston-terveys-kulkevat-kasi-kadessa", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Ottawa Charter for Health Promotion (WHO)", url: "https://www.who.int/publications/i/item/ottawa-charter-for-health-promotion", publisher: "World Health Organization", read: 2026-11-21}
-  - {title: "Opiskeluterveydenhuolto (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
-  - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi", read: 2026-11-21}
-  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
-yearly_facts: [ilmanlaatu, radon, opiskeluterveydenhuolto]
+  - {title: "Ottawa Charter, asiakirjan teksti (WHO 1986, arkistoitu)", url: "https://archive.org/download/WHOHPRHEP95.1/WHO_HPR_HEP_95.1_text.pdf", publisher: "World Health Organization (Internet Archive)", read: 2026-11-23}
+  - {title: "YTL: terveystiedon ylioppilaskokeen arvosteluohje (syksy 2024)", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
+yearly_facts: [ilmanlaatu, radon]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - title: "Ilmanlaatu Suomessa (Ilmatieteen laitos)"
@@ -75,7 +74,6 @@ exam_tasks:
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
 school_adapts:
-  - "Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"
   - "Koulun sisäilma- ja kunnossapitokäytännöt: kenelle ongelmista ilmoitetaan (esimerkki)"
 accessibility:
   - "Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; aineistot on kirjoitettu tehtäviin."
@@ -91,12 +89,12 @@ last_reviewed: 2026-11-21
 1. Osaan kuvata rakennetun ympäristön, luonnonympäristön ja psykososiaalisen ympäristön ja selittää, miten ne yhdessä vaikuttavat terveyteen.
 2. Osaan nimetä ympäristön altisteita ja selittää yleisellä tasolla, miten altiste vaikuttaa terveyteen.
 3. Osaan selittää, miksi ympäristön terveysvaikutukset jakautuvat eri ryhmille eri tavoin.
-4. Osaan arvioida kuvitteellisten esimerkkien avulla, miten elintavat ja kulutus vaikuttavat ympäristöön ja terveyteen ja mikä jää yksilön ulottumattomiin.
-5. Osaan ehdottaa toimia, jotka tekevät ympäristöstä terveydelle suosiollisemman, Ottawan viiden toiminta-alueen avulla.
+4. Osaan arvioida kuvitteellisten esimerkkien avulla, miten elintavat ja kulutus vaikuttavat ympäristöön ja terveyteen ja mitä yksilön valinnat voivat ja eivät voi muuttaa.
+5. Osaan ehdottaa toimia, jotka tekevät ympäristöstä terveydelle suosiollisemman, Ottawan viiden toiminta-alueen avulla (sivuston lisäys).
 
 ### Kolme ympäristöä
 
-**Ympäristöterveys** tarkoittaa sitä, miten ympäristö vaikuttaa terveyteen. Ympäristöjä on kolme, ja ne vaikuttavat toisiinsa.
+**Ympäristöterveys** tarkoittaa sitä, miten ympäristö vaikuttaa terveyteen. Ympäristöjä on kolme.
 
 - **Rakennettu ympäristö** on ihmisen tekemä: rakennukset, tiet ja sisätilat.
 - **Luonnonympäristö** on ilma, vesi, maaperä, kasvillisuus ja ilmasto.
@@ -109,14 +107,12 @@ Ympäristö voi suojata tai kuormittaa. Se on TE1:n [kehämallin](../../te1/01-t
 **Altiste** on ympäristön tekijä, jolle ihminen altistuu. Vaikutus kulkee ketjussa altiste → mekanismi → vaikutus.
 
 - **Ilmansaasteet:** pienhiukkaset kulkeutuvat hengitysteihin ja ärsyttävät niitä, erityisesti herkillä. [Ilmanlaatuindeksi](https://www.ilmatieteenlaitos.fi/ilmanlaatuindeksi) kertoo ilmanlaadun sanoin.
-- **Melu:** jatkuva voimakas ääni pitää elimistön valmiustilassa ja häiritsee keskittymistä ja unta.
+- **Melu:** jatkuva voimakas ääni pitää elimistön valmiustilassa ja häiritsee keskittymistä ja unta (sivuston yksinkertaistus).
 - **Lämpö:** helle kuormittaa kaupungeissa, joissa asfaltti ja rakennukset varastoivat lämpöä.
-
-Pitoisuuksia ei kirjoiteta tähän, koska ne muuttuvat.
 
 ### Sisäilma
 
-[Työterveyslaitos](https://www.ttl.fi/teemat/tyohyvinvointi-ja-tyokyky/sisailma) kertoo sisäilman lähteistä. Ilmanvaihdon puute voimistaa muiden haittoja.
+[Työterveyslaitos](https://www.ttl.fi/teemat/tyohyvinvointi-ja-tyokyky/sisailma) kertoo sisäilman lähteistä. Tekijät ovat sivuston valinta.
 
 | Altiste | Lähde | Mahdollinen vaikutus |
 |---|---|---|
@@ -127,19 +123,19 @@ Pitoisuuksia ei kirjoiteta tähän, koska ne muuttuvat.
 | siivousaineiden päästöt | siivous | haju, ärsytys |
 | pöly ja kuidut | rakenteet, ilmanvaihto | nenän ja silmien ärsytys |
 | siitepöly | ulkoilma | allergiaoireet |
-| radon | maaperä | keuhkosyövän riski |
+| radon ([STUK](https://stuk.fi/radon-aiheuttaa-keuhkosyopaa)) | maaperä | keuhkosyövän riski |
 | ilmanvaihdon puute | tukkoinen ilma | tunkkaisuus, epämukavuus |
 | kuuma, kylmä, kuiva tai vetoinen ilma | lämmitys, ilmanvaihto | epämukavuus |
 
 ### Radon
 
-**Radon** on maaperästä rakennukseen tulevaa radioaktiivista kaasua, jota ei haista eikä näe. Hengitettynä sen säteily osuu keuhkoihin, ja pitkä altistus lisää **keuhkosyövän** riskiä. Radon on tupakoinnin jälkeen toiseksi tärkein keuhkosyövän syy. Radon lisää riskiä sekä tupakoivilla että tupakoimattomilla, mutta tupakoivilla se lisää absoluuttista keuhkosyöpäriskiä enemmän, koska heidän perusriskinsä on jo suurempi, ja useimmat radonin aiheuttamat keuhkosyövät todetaan tupakoivilla ([STUK](https://stuk.fi/radon-aiheuttaa-keuhkosyopaa)). Tulos koskee ryhmiä: yksittäisen ihmisen riskiä on vaikea ennustaa. Pitoisuuteen vaikuttavat maaperän geologia, rakennuksen tiiveys ja ilmanvaihto, sillä alipaine imee kaasua perustan halkeamista ([STUK](https://stuk.fi/radonin-lahteet)). Mittaus kestää vähintään kaksi kuukautta, ja kunnan terveydensuojeluviranomainen vastaa radonkysymyksiin ([STUK](https://stuk.fi/asuntojen-radonia-koskevat-viitearvot-ja-maaraykset)). Korjaus onnistuu esimerkiksi radonputkella ja puhaltimella tai tiivistämällä ([STUK](https://stuk.fi/radonkorjaukset)).
+**Radon** on maaperästä rakennukseen tulevaa radioaktiivista kaasua. Hengitettynä sen säteily osuu keuhkoihin, ja pitkä altistus lisää **keuhkosyövän** riskiä. Radon lisää riskiä sekä tupakoivilla että tupakoimattomilla, mutta tupakoivilla se lisää absoluuttista keuhkosyöpäriskiä enemmän, koska heidän perusriskinsä on jo suurempi (sivuston päätelmä), ja useimmat radonin aiheuttamat keuhkosyövät todetaan tupakoivilla ([STUK](https://stuk.fi/radon-aiheuttaa-keuhkosyopaa)). Pitoisuuteen vaikuttavat maaperän geologia, rakennuksen tiiveys ja ilmanvaihto, sillä alipaine imee kaasua perustan halkeamista ([STUK](https://stuk.fi/radonin-lahteet)). Mittaus kestää vähintään kaksi kuukautta, ja kunnan terveydensuojeluviranomainen vastaa radonkysymyksiin ([STUK](https://stuk.fi/asuntojen-radonia-koskevat-viitearvot-ja-maaraykset)). Korjaus onnistuu esimerkiksi radonputkella ja puhaltimella tai tiivistämällä ([STUK](https://stuk.fi/radonkorjaukset)).
 
 ### Vesi ja luonto
 
 **Vesi.** Puhdas juomavesi on terveyden perusedellytys. Kaivon omistaja vastaa itse kaivovedestä: kirkas vesi voi sisältää mikrobeja tai kemikaaleja, joten se tutkitaan säännöllisesti. Viemärivuoto ja pintavesi voivat pilata kaivon, ja kunnan terveydensuojeluviranomainen neuvoo ongelmissa ([THL](https://blogi.thl.fi/mokkikausi-lahestyy-onhan-kaivosi-kunnossa/)).
 
-**Luonto** on voimavara ja riski. Lähiluonto lievittää stressiä, kannustaa liikkumaan ja viilentää ([THL](https://thl.fi/ajankohtaista/hallitusohjelmaratkaisut/terveytta-luonnosta-ohjelma)). Riski on esimerkiksi tulva tai kuivuus, joka uhkaa vesilähteitä, ja ympäristön tuhoutumisen aiheuttama ahdistus.
+**Luonto** on voimavara ja riski. Lähiluonto lievittää stressiä, kannustaa liikkumaan ja lievittää helteen haittoja ([THL](https://thl.fi/ajankohtaista/hallitusohjelmaratkaisut/terveytta-luonnosta-ohjelma)). Riski on esimerkiksi tulva tai kuivuus, joka uhkaa vesilähteitä.
 
 ### Vaikutukset eivät jakaudu tasan
 
@@ -147,11 +143,11 @@ Herkkyys (ikä, sairaudet) ja altistumisen määrä (missä asuu, opiskelee, ty�
 
 ### Elintavat ja ympäristö
 
-Kulkutapa, kuluttaminen ja jätteet muuttavat ilmanlaatua, melua ja luonnonvarojen kulutusta, ja ympäristö vaikuttaa takaisin terveyteen. Valinnat tehdään olosuhteissa, ja siksi yksilön valinnat eivät yksin riitä. Aihe jatkuu aiheessa [Kestävä kehitys ja terveys](../../te2/06-kestava-kehitys/).
+Kulkutapa, kuluttaminen ja jätteet muuttavat ilmanlaatua, melua ja luonnonvarojen kulutusta, ja ympäristö vaikuttaa takaisin terveyteen. Mitä yksilön valinnat voivat muuttaa ja mikä riippuu muista? Punnitse. Aihe jatkuu aiheessa [Kestävä kehitys ja terveys](../../te2/06-kestava-kehitys/).
 
 ### Miten ympäristöä parannetaan?
 
-Ottawan asiakirjan ([WHO](https://www.who.int/publications/i/item/ottawa-charter-for-health-promotion)) viisi toiminta-aluetta ympäristössä: terveyttä edistävä yhteiskuntapolitiikka (päättäjät arvioivat kaavoituksen terveysvaikutukset), terveyttä tukevat ympäristöt (tilat suunnitellaan terveyttä tukeviksi), yhteisön toiminta (asukkaat osallistuvat suunnitteluun), henkilökohtaiset taidot (ongelman havaitseminen ja kertominen oikealle taholle) ja terveyspalvelujen suuntaaminen uudelleen (palvelut huomaavat ympäristön ja oireiden yhteyden).
+Ottawan asiakirjan ([WHO](https://www.who.int/publications/i/item/ottawa-charter-for-health-promotion), [asiakirjan teksti](https://archive.org/download/WHOHPRHEP95.1/WHO_HPR_HEP_95.1_text.pdf)) viisi toiminta-aluetta ympäristössä: terveyttä edistävä yhteiskuntapolitiikka (päättäjät arvioivat kaavoituksen terveysvaikutukset), terveyttä tukevat ympäristöt (tilat suunnitellaan terveyttä tukeviksi), yhteisön toiminta (asukkaat osallistuvat suunnitteluun), henkilökohtaiset taidot (ongelman havaitseminen ja kertominen oikealle taholle) ja terveyspalvelujen suuntaaminen uudelleen (palvelut huomaavat ympäristön ja oireiden yhteyden). Nämä esimerkit ovat sivuston lisäys.
 
 ## Tehtävät
 
@@ -195,8 +191,8 @@ Ottawan asiakirjan ([WHO](https://www.who.int/publications/i/item/ottawa-charter
 1. Luettele kolme Veeran valintaa.
 2. Kirjoita jokaiselle valinnalle yksi ympäristövaikutus.
 3. Kirjoita, miten yksi näistä vaikutuksista voi palata terveyteen.
-4. Kirjoita yksi asia, joka ei ole Veeran vallassa, ja kuka sen päättää.
-5. Kirjoita yksi yhteiskunnan toimi, joka tekisi Veeran valinnat helpommiksi.
+4. Kirjoita, mitä Veeran valinnat voivat muuttaa ja mikä riippuu muista, ja kuka sen päättää.
+5. Kirjoita yksi toimi, joka tekisi Veeran valinnat helpommiksi, ja perustele, kuka sen parhaiten toteuttaisi.
 
 ## Pohdinta
 
@@ -211,8 +207,8 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 1. Osaan kuvata rakennetun ympäristön, luonnonympäristön ja psykososiaalisen ympäristön ja selittää, miten ne yhdessä vaikuttavat terveyteen.
 2. Osaan nimetä ympäristön altisteita ja selittää yleisellä tasolla, miten altiste vaikuttaa terveyteen.
 3. Osaan selittää, miksi ympäristön terveysvaikutukset jakautuvat eri ryhmille eri tavoin.
-4. Osaan arvioida kuvitteellisten esimerkkien avulla, miten elintavat ja kulutustottumukset vaikuttavat ympäristöön ja sen kautta terveyteen, ja mikä jää yksilön ulottumattomiin.
-5. Osaan ehdottaa toimia, jotka tekevät ympäristöstä terveydelle suosiollisemman, Ottawan asiakirjan viiden toiminta-alueen avulla.
+4. Osaan arvioida kuvitteellisten esimerkkien avulla, miten elintavat ja kulutus vaikuttavat ympäristöön ja terveyteen ja mitä yksilön valinnat voivat ja eivät voi muuttaa.
+5. Osaan ehdottaa toimia, jotka tekevät ympäristöstä terveydelle suosiollisemman, Ottawan asiakirjan viiden toiminta-alueen avulla (sivuston lisäys).
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
@@ -220,7 +216,7 @@ Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vert
 
 ## Koetehtävät
 
-Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Aineistot ovat kuvitteellisia. TE2 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE3-moduuleista.
+Tehtävät ovat sivuston omia harjoitustehtäviä ylioppilaskokeen tehtävätyypeissä. Merkkirajan ylityksen vähennys (−1 p, −2 p) on yksinkertaistus: YTL:n asteikko riippuu tehtävästä ja ylityksen suuruudesta, ks. arvosteluohje. Aineistot ovat kuvitteellisia. TE2 kattaa vain osan ylioppilaskokeesta: loput tulevat TE1- ja TE3-moduuleista.
 
 ### K1: Luettele sisäilman altisteet, 25 min (20 p)
 
@@ -256,9 +252,11 @@ Vastauksen enimmäispituus on 3 000 merkkiä välilyönteineen. Rajan ylittävä
 
 *Osa C30 · Harjoittelee: Osaan 1, 3, 4, 5*
 
+*Tehtävä on sivuston lisäys: opetussuunnitelma ei vaadi ehdotusten tekemistä Ottawan toiminta-alueilla.*
+
 *Aineisto (kuvitteellinen kaupungin uutinen):* "Kuusirannan kaupunki uudistaa lukion ja sen lähiympäristön. Koulun vieressä kulkee vilkas tie, ja piha on suurelta osin asfalttia. Lähellä on metsikkö, jonka kaupunki harkitsee rakentavansa. Opiskelijat ovat kertoneet, että tilat ovat meluisia ja tunkkaisia ja että yhteisiä paikkoja on vähän. Valtuusto pyytää ehdotuksia."
 
-Viitekehys: Ottawan asiakirjan ([WHO](https://www.who.int/publications/i/item/ottawa-charter-for-health-promotion)) viisi toiminta-aluetta ovat terveyttä edistävä yhteiskuntapolitiikka, terveyttä tukevat ympäristöt, yhteisön toiminta, henkilökohtaiset taidot ja terveyspalvelujen suuntaaminen uudelleen.
+Viitekehys: Ottawan asiakirjan ([WHO](https://www.who.int/publications/i/item/ottawa-charter-for-health-promotion), [asiakirjan teksti](https://archive.org/download/WHOHPRHEP95.1/WHO_HPR_HEP_95.1_text.pdf)) viisi toiminta-aluetta ovat terveyttä edistävä yhteiskuntapolitiikka, terveyttä tukevat ympäristöt, yhteisön toiminta, henkilökohtaiset taidot ja terveyspalvelujen suuntaaminen uudelleen.
 
 a) Tee kustakin viidestä toiminta-alueesta yksi perusteltu ehdotus. Kerro jokaisessa, mitä tehdään, kuka toimii ja miten se vaikuttaa terveyteen. (20 p)
 
@@ -287,7 +285,7 @@ c) Kirjoita, mitä opiskelijoiden yksittäiset kulutus- ja kulkuvalinnat voivat 
 
 *Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
 
-- Jokainen erillinen sisäilman tekijä 1 p ja siihen kuuluva lähde sekä vaikutus yhdessä 1 p, enintään kymmenen tekijää eli 20 p. Toistot ja ylimääräiset tekijät 0 p.
+- Jokainen erillinen sisäilman tekijä 1 p ja siihen kuuluva lähde sekä vaikutus yhdessä 1 p, enintään kymmenen tekijää eli 20 p. Toistot ja ylimääräiset tekijät 0 p. Mikä tahansa tekijä, jonka TTL tai STUK nimeää sisäilman tekijäksi, kelpaa.
 - Merkkirajan ylitys: −1 p, selvä ylitys −2 p. Pisteet eivät mene alle nollan.
 
 *Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (tekijä, lähde ja vaikutus erotettu), soveltaminen (sisäilman tekijät eikä ulkoympäristö), analysointi (vaikutus perustuu mekanismiin), arviointi ja argumentointi (tiivis, selkeä lista).
@@ -298,7 +296,7 @@ c) Kirjoita, mitä opiskelijoiden yksittäiset kulutus- ja kulkuvalinnat voivat 
 
 - Sama altiste lasketaan kahdesti eri sanoin, esimerkiksi home ja kosteusvaurio.
 - Luetellaan tekijä ilman lähdettä tai vaikutusta.
-- Mukaan otetaan melu tai muu ulkoympäristön tekijä, joka ei vaikuta sisäilmaan. Sisäilman terveyteen vaikuttava tekijä voi olla epäpuhtaus tai ilmanlaatuun liittyvä olosuhde, kuten puutteellinen ilmanvaihto tai kuiva ilma.
+- Mukaan otetaan ulkoympäristön tekijä, joka ei liity sisäilman epäpuhtauksiin, ilmanvaihtoon tai lämpöoloihin (esimerkiksi melu).
 - Vaikutus esitetään varmana kaikille ("radon aiheuttaa syövän"), vaikka riski kasvaa altistuksen mukana.
 - Vastaus ylittää merkkirajan, koska jokaista altistetta selitetään pitkästi.
 
@@ -319,7 +317,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 *Sisältö 10 p:*
 
 - a) Kolme aluetta tai väriä luettu oikein aineistoon viitaten 1 p kustakin. Yhteensä 3 p.
-- b) Radonin mekanismi ja keuhkosyöpä 2 p; tupakoivilla radon lisää absoluuttista riskiä enemmän, koska perusriski on jo suurempi 1 p; kaksi syytä pitoisuuden eroille (maaperän geologia, talon tiiveys tai ilmanvaihto) 1 p kummastakin. Yhteensä 5 p.
+- b) Radonin mekanismi ja keuhkosyöpä 2 p; tupakoivilla radon lisää absoluuttista riskiä enemmän, koska perusriski on jo suurempi (sivuston päätelmä STUKin luvuista) 1 p; kaksi syytä pitoisuuden eroille (maaperän geologia, talon tiiveys tai ilmanvaihto) 1 p kummastakin. Yhteensä 5 p.
 - c) Kartan raja (alue ei talo, vähän mittauksia) 1 p; mittaus tai korjaus nimetty 1 p. Yhteensä 2 p.
 
 *Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
@@ -327,7 +325,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 8–10 p: kartta ja taulukko yhdistetään alueiden eroihin, mekanismi selitetään ketjuna, ryhmätason tieto erotetaan yksittäisen riskistä ja toimet perustellaan aineiston rajoilla.
 - 4–7 p: aineisto luetaan oikein, mutta selitykset tai rajat jäävät yleiselle tasolle.
 - 0–3 p: vastaus toistaa värejä tai toteaa radonin vaaralliseksi ilman mekanismia.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 - Merkkirajan ylitys: −1 p, selvä ylitys −2 p.
 
 Tehtävänannon osapisteet (a 6 p, b 8 p, c 6 p) sisältävät sekä sisällön että tiedonkäsittelyn.
@@ -347,24 +344,23 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** **Terveyttä edistävä yhteiskuntapolitiikka:** valtuusto päättää arvioida kaavoitus- ja liikennepäätöksen terveysvaikutukset ja säilyttää metsikön. Metsikkö vaimentaa melua ja viilentää ympäristöä, joten se tukee jaksamista ja hengitysilman laatua. **Terveyttä tukevat ympäristöt:** kaupunki korjaa koulun ilmanvaihdon, lisää meluneristystä ja istuttaa puita pihalle. Ilma paranee, melu vähenee ja piha viilenee, jolloin tilat kuormittavat vähemmän. **Yhteisön toiminta:** opiskelijakunta ja lähialueen asukkaat suunnittelevat yhdessä yhteisen oleskelutilan. Osallistuminen vahvistaa kuulumisen tunnetta ja vaikuttamisen kokemusta. **Henkilökohtaiset taidot:** koulun opettajat ja terveydenhoitaja opettavat havainnoimaan ilman laatua ja melua ja kertomaan ongelmista oikealle taholle. Tieto auttaa korjaukset käyntiin ajoissa. **Terveyspalvelujen suuntaaminen uudelleen:** opiskeluterveydenhuolto seuraa, toistuvatko tietyissä tiloissa samat oireet, ja kertoo havainnoistaan koulun ylläpidolle. Näin syy huomataan eikä vain oire.
+**a)** **Terveyttä edistävä yhteiskuntapolitiikka:** valtuusto päättää arvioida kaavoitus- ja liikennepäätöksen terveysvaikutukset ja säilyttää metsikön. Metsikkö vaimentaa melua ja lievittää helteen haittoja, joten se tukee jaksamista ja hengitysilman laatua. **Terveyttä tukevat ympäristöt:** kaupunki korjaa koulun ilmanvaihdon, lisää meluneristystä ja istuttaa puita pihalle. Ilma paranee ja melu vähenee, jolloin tilat kuormittavat vähemmän. **Yhteisön toiminta:** opiskelijakunta ja lähialueen asukkaat suunnittelevat yhdessä yhteisen oleskelutilan. Osallistuminen vahvistaa kuulumisen tunnetta ja vaikuttamisen kokemusta. **Henkilökohtaiset taidot:** koulun opettajat ja terveydenhoitaja opettavat havainnoimaan ilman laatua ja melua ja kertomaan ongelmista oikealle taholle. Tieto auttaa korjaukset käyntiin ajoissa. **Terveyspalvelujen suuntaaminen uudelleen:** opiskeluterveydenhuolto seuraa, toistuvatko tietyissä tiloissa samat oireet, ja kertoo havainnoistaan koulun ylläpidolle. Näin syy huomataan eikä vain oire.
 
-**b)** Eniten ihmisiä tavoittaisi yhteiskuntapolitiikka, sillä päätös metsikön säilyttämisestä kohdistuu kaikkiin alueen asukkaisiin ja tuleviin sukupolviin. Nopein toteuttaa olisi henkilökohtaisten taitojen opetus ja oleskelutilan suunnittelu, koska ne eivät vaadi rakennustöitä. Ilmanvaihdon korjaus on hitaampi ja kalliimpi, mutta vaikutus on pitkäkestoinen. Parhaiten toimii niiden yhdistelmä.
+**b)** Eniten ihmisiä tavoittaisi yhteiskuntapolitiikka, sillä päätös metsikön säilyttämisestä kohdistuu kaikkiin alueen asukkaisiin ja tuleviin sukupolviin. Nopein toteuttaa olisi henkilökohtaisten taitojen opetus ja oleskelutilan suunnittelu, koska ne eivät vaadi rakennustöitä. Ilmanvaihdon korjaus on hitaampi ja kalliimpi, mutta vaikutus on pitkäkestoinen. Yksi perusteltu näkemys: ehdotusten yhdistelmä tavoittaisi laajimmin.
 
-**c)** Opiskelija voi valita kulkutavan, kierrättää ja kertoa havaintonsa. Ne vähentävät omaa kuormitusta ja voivat vaikuttaa yhteisön ilmapiiriin. Yksittäinen valinta ei kuitenkaan muuta tien liikennettä, rakennuksen ilmanvaihtoa tai kaavoitusta. Ne ovat päättäjien ja ylläpidon käsissä. Siksi tarvitaan sekä yksilön valintoja että yhteisiä päätöksiä.
+**c)** Opiskelija voi valita kulkutavan, kierrättää ja kertoa havaintonsa. Ne vähentävät omaa kuormitusta ja voivat vaikuttaa yhteisön ilmapiiriin. Yksittäinen valinta ei kuitenkaan muuta tien liikennettä, rakennuksen ilmanvaihtoa tai kaavoitusta. Ne ovat päättäjien ja ylläpidon käsissä. Tämä on yksi perusteltu näkemys; myös muun perustellun näkemyksen voi esittää.
 
 **Pisteytys**
 
 *Sisältö 15 p:*
 
-- a) Jokaisesta viidestä toiminta-alueesta 2 p: konkreettinen toimi ja toimija 1 p, vaikutus terveyteen 1 p. Yhteensä 10 p. b) Laajimmin tavoittava ehdotus perusteltu 1 p, nopein perusteltu 1 p, ero tavoittavuuden ja nopeuden välillä 1 p. c) Mitä yksilön valinnat voivat muuttaa 1 p, mitä ne eivät voi muuttaa (rakenteet, päättäjät) 1 p. Yhteensä 15 p.
+- a) Jokaisesta viidestä toiminta-alueesta 2 p: konkreettinen toimi ja toimija 1 p, vaikutus terveyteen 1 p. Yhteensä 10 p. b) Laajimmin tavoittava ehdotus perusteltu 1 p, nopein perusteltu 1 p, ero tavoittavuuden ja nopeuden välillä 1 p. c) Mitä yksilön valinnat voivat muuttaa 1 p, mitä ne eivät voi muuttaa, perusteltuna esimerkillä (esimerkiksi kuka päättää) 1 p. Mikä tahansa perusteltu näkemys kelpaa. Yhteensä 15 p.
 
 *Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
-- 12–15 p: ehdotukset sidotaan uutisen yksityiskohtiin (tie, asfaltti, metsikkö, melu, tunkkaisuus), toiminta-alueet erotetaan oikein, b punnitsee tavoittavuutta ja nopeutta, ja c erottaa yksilön ja yhteiskunnan vaikutusmahdollisuudet.
+- 12–15 p: ehdotukset sidotaan uutisen yksityiskohtiin (tie, asfaltti, metsikkö, melu, tunkkaisuus), toiminta-alueet sijoitetaan perustellusti, b punnitsee tavoittavuutta ja nopeutta, ja c punnitsee perustellen, mitä yksilön valinnat voivat ja eivät voi muuttaa.
 - 6–11 p: ehdotukset ovat oikein mutta yleisiä, tai b ja c ovat ohuita.
 - 0–5 p: vastaus luettelee toiminta-alueet ilman aineistoon sidottuja ehdotuksia.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 20 p, b 6 p, c 4 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -374,9 +370,8 @@ Tehtävänannon osapisteet (a 20 p, b 6 p, c 4 p) sisältävät sekä sisällön
 
 - Kaikki ehdotukset ovat yksilön toimia, esimerkiksi "pitäisi kulkea pyörällä".
 - Ehdotuksesta puuttuu, kuka toimii tai miten se vaikuttaa terveyteen.
-- Toiminta-alueet sekoittuvat: koulun taitotunti esitetään yhteiskuntapolitiikaksi.
+- Ehdotuksen sijoitusta toiminta-alueelle ei perustella. Mikä tahansa perusteltu sijoitus kelpaa.
 - Ehdotukset eivät liity uutisen tilanteeseen.
-- Vastaus syyllistää opiskelijoita ympäristöstä.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -454,7 +449,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 - Tarkastellaan ympäristöjä, ei ihmisiä. Kukaan ei ole syypää siihen, missä asuu tai kulkee.
 - Älä pyydä opiskelijoita kertomaan, millaisissa tiloissa tai alueilla he asuvat. Käytä kuvitteellisia esimerkkejä.
-- Jos opiskelija kysyy omista oireistaan, ohjaa opiskeluterveydenhuoltoon. Tunnilla ei arvioida kenenkään omia oireita eikä sitä, johtuvatko ne ympäristöstä.
+- Tunnilla ei arvioida kenenkään omia oireita eikä sitä, johtuvatko ne ympäristöstä.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että kaikilla on pääsy metsään tai puistoon? Syyllistänkö kulutusesimerkeillä jonkun ryhmän? Oletanko, että kaikilla on oma auto tai pyörä? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -478,19 +473,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1 ja 3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 2 paperiversio on tehtävän kohdassa *Ilman laitetta*.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-**Jos olet välittömässä vaarassa, soita hätänumeroon 112.**
-
-Tällä sivulla opitaan ympäristön ja terveyden yhteyksistä yleisesti. Netistä saatu tieto ei korvaa ammattilaista. Jos sinulla on oireita tai huolia terveydestäsi, ota yhteyttä opiskeluterveydenhuoltoon eli terveydenhoitajaan tai lääkäriin. Avun pyytäminen on tavallista ja järkevää.
-
-**Apua saat myös:**
-
-- [Opiskeluterveydenhuolto (THL, luettu 21.11.2026)](https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto): tietoa palvelusta. Oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
-- [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): tietoa ja omahoito-ohjelmia nuorille.
-- [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille. Ikäraja ja aukioloajat ovat sivulla.
 
 ## Lähteet
 

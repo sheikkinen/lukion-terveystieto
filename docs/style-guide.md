@@ -6,7 +6,7 @@ this guide says *how* they are written. Where they disagree, the contract wins. 
 
 ## 1. Voice
 
-- **To the student (Opiskelijalle, Tehtävät, Pohdinta, Koetehtävät, Itseopiskelun askel, Apua ja tukea): `sinä`.**
+- **To the student (Opiskelijalle, Tehtävät, Pohdinta, Koetehtävät, Itseopiskelun askel): `sinä`.**
   Warm, calm, factual. A capable 16-year-old reads alone at home; health is a resource to understand, not a test.
   - Yes: *Terveys ei ole joko–tai. Siihen vaikuttavat monet asiat, joista osa on omissa käsissä ja osa ei.*
   - No: *Huolehdi terveydestäsi, ettei sinulle käy huonosti!* / *Opiskelijan tulee…* (no threat, no third person).
@@ -160,7 +160,7 @@ ja selitä …" or "Laadi taulukon 1 tiedoista pylväskuvio." The student draws 
 
 **Lue kuvio, taulukko, kartta tai kuva** (`aineiston-lukeminen`, B20 or C30). *Tehtävä:* self-made data (§7) and
 three steps: "a) Kuvaile, mitä aineistossa näkyy. b) Selitä ilmiötä terveystiedon käsittein. c) Arvioi aineiston
-rajoja." The 5 p deduction for unused material applies.
+rajoja." Scoring credits the use of the material (§8); there is no fixed deduction.
 - *Pisteytys:* readings cited from the data (rows, groups, changes) 1 p each; explanations with a mechanism; the
   limits (fictional, a single measurement, correlation is not cause).
 - *Malli, sisältö:* sentences that name the row or group: *Taulukon 1 mukaan ryhmässä B …*, then the mechanism.
@@ -193,8 +193,12 @@ For each task an H3 that repeats the task heading exactly (`### K1: Virheiden tu
      the shared rubric, `[tiedonkäsittelyn arviointi](../../opetussuunnitelma/)`: the section *Tiedonkäsittely
      koetehtävissä* of the curriculum page (engine-issues E-11).
    - A20: content only, all points; the five criteria are given as feedback without points.
-   - Every task with material ends its scoring with: `- Jos vastaus ei viittaa aineistoon, kokonaispisteistä
-     vähennetään 5 p.`
+   - A task with material scores the use of the material as content points (readings cited, rows or groups named).
+     The former fixed line "Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p." was house style,
+     not an exam rule, and is not taught: YTL's rules for the reaali exams (*Reaaliaineiden kokeiden määräykset ja
+     ohjeet*, section *Arvostelu*, read 23.11.2026,
+     https://www.ylioppilastutkinto.fi/fi/tutkinnon-toimeenpano/maaraykset-ja-ohjeet/koekohtaiset-maaraykset-ja-ohjeet/reaaliaineiden)
+     name the appropriate use of the material as a mark of a mature answer and state no fixed deduction for not using it.
    - A last line `**Yhteensä:** 20 p` that equals the heading.
 3. **Tyypilliset virheet**: 3–5 bullets, e.g. *luettelee tekijöitä selittämättä mekanismia*.
 4. The fixed line, verbatim: `Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.`
@@ -218,29 +222,26 @@ For each task an H3 that repeats the task heading exactly (`### K1: Virheiden tu
 
 | Do | Don't |
 |---|---|
-| *Jos sinulla on oireita tai huolia, ota yhteyttä opiskeluterveydenhuoltoon.* | *Jos väsyttää, kokeile magnesiumia.* (advice) |
+| *Väsymykseen voivat vaikuttaa esimerkiksi uni, kuormitus ja sairaudet.* (knowledge, no referral) | *Jos väsyttää, kokeile magnesiumia.* (advice) |
 | *Ruokavalio voi tukea jaksamista monella tavalla.* | *Syö alle X kcal / ihannepaino on…* (figures) |
 | *Kehot ovat erilaisia; terveys ei näy painosta.* | *Ylipaino on vaarallista.* / before–after examples |
 | *Kumppani, puoliso, ystävä* ; *kaikki sukupuolet* | *poikaystävä ja tyttöystävä* as the only pair |
 | *Ella (kuvitteellinen) asuu kaukana harrastuksista.* | *Kerro ryhmälle omista elintavoistasi.* |
 | *Monet tekijät eivät ole yksilön valittavissa.* | *Huono terveys on omaa syytä.* (shaming) |
 | *Tupakointi lisää sairauksien riskiä* (with a link). | Shock images, death counts, *sinä voit kuolla* |
-| *kuoli itsemurhaan*; help links next to the text | Methods, places, "epidemic" language, reasons as simple causes |
+| *kuoli itsemurhaan* | Methods, places, "epidemic" language, reasons as simple causes |
 
-- A page with `safety_flags` opens with the `content_note`, one plain sentence: *Tällä sivulla käsitellään
-  syömistä ja painoa. Sivulla ei ole lukuja eikä vertailuja, ja lopussa on tietoa avusta.*
+- **Content notes: not used** (D-014). No `content_note` in the front matter and no note at the top of a page.
 - Figures are banned on flagged pages (kg, kcal, BMI, grams, portions, doses, hours of sleep or minutes of exercise).
 - Never assume a home, two parents, money, a body type, a gender, an orientation, a religion or Finnish as the first
   language. Examples rotate names, families and settings.
 
-## 11. Help box (`## Apua ja tukea`)
+## 11. Help box
 
-Recommended on every page, required on flagged pages. Three parts, in order:
-1. **Bold first line** for emergencies: *Jos olet välittömässä vaarassa, soita hätänumeroon 112.*
-2. One or two sentences: for own symptoms or worries go to opiskeluterveydenhuolto (terveydenhoitaja, lääkäri),
-   kuraattori or psykologi; asking for help is normal.
-3. **Apua saat myös:** a list of dated links with a short gloss: *[MIELI Kriisipuhelin (luettu 21.11.2026)](url):
-   keskusteluapua kriisissä, myös nimettömästi.* Phone numbers other than 112 are linked, not typed.
+**Not used, except one help block in 08-mielenterveys (D-014).** No other page has a help block, a 112 line, helpline
+pointers or wellbeing referrals; a single mention of suicide on a page is not a reason for one (guideline §4). The one
+block is an H3 inside `## Opiskelijalle` of `08-mielenterveys`, with dated links. A link that supports the subject
+content (services as a topic teaches them) stays in `official_links`.
 
 ## 12. Facts, links and materials
 
@@ -315,15 +316,15 @@ New type slugs beside §7a:
   plus `aineiston-lukeminen`.
 
 Content ladder (B20 content half): 2 / 4 / 6 aspects explained = 3 / 6 / 9 p, +1 p for a link between them. C30
-content half: 1–4 perspectives = 4 / 7 / 10 / 13 p, +2 p for a weighed conclusion. Referring to at least one
-material is enough to avoid the 5 p deduction (§8). Every table is a Markdown table with its data in the task, so the
+content half: 1–4 perspectives = 4 / 7 / 10 / 13 p, +2 p for a weighed conclusion (house style). The use of the
+material is scored as content (§8); there is no fixed deduction. Every table is a Markdown table with its data in the task, so the
 offline line can read *Tämä on paperitehtävä: aineisto on tehtävässä.* Material forms by topic: results tables
 (01, 02, 04, 08); two data sources compared (02); advert, post or chatbot answer (03); a school indoor-air or noise
 table or a council news item with a framework (04–06); a school safety plan summary or a non-graphic fictional case
 (07); a workplace survey and memo (08); a qualitative leaflet, campaign or interview excerpt with no amounts (09, 10).
 
-**TE2 safety rules** (pages flagged `violence` or `substances`: 07, 09, 10; §10–11 apply in full):
-- `content_note`: what the page covers, that the student may step out, and that nobody has to share anything.
+**TE2 safety rules** (pages flagged `violence` or `substances`: 07, 09, 10; §10 applies; no content note or help
+box, §10–11 and D-014):
 - No invented statistics on flagged pages: qualitative fictional material, or linked, dated official figures. A
   social-norms line (*useimmat nuoret eivät …*) only with a linked, dated survey, else left out.
 - No amounts, doses, routes, prices, mixing, ingredients or how-to; no stakes, odds or losses; no methods,
@@ -334,14 +335,11 @@ table or a council news item with a framework (04–06); a school safety plan su
   taught as media literacy. No scoring self-test.
 - Violence: the responsibility is always with the person who uses it. Every gender, same-sex relationships, every
   family form; digital violence included. Use the law's wording with its dated link; sexual violence links te1-07.
-- Cases are fictional third-person, end in a non-violent step and a route to help, and never ask about the student's
+- Cases are fictional third-person, end in a non-violent step, and never ask about the student's
   own or family's use, gambling or experience of violence.
 - The lesson plan's *Pelisäännöt* says: the school nurse and student welfare team are available; a disclosure leads
   to an adult's duty to act, and the child-welfare report for under-18s is explained neutrally; a series of lessons
   works better than a single one.
-- Help box from the audience-verified youth list only (112, opiskeluterveydenhuolto, Sekasin and Apuu, Nuortenlinkki
-  with its hours, Nettiturvakoti under 18, Nettiturvis, Väestöliitto chat under 29). Nollalinja, RIKU and Peluuri only
-  as *myös*-links with their stated audience, never called youth services. Each link carries its read date.
 - Debate tasks (substance policy, gambling markets) keep both sides; the model answer says prevention is curriculum
   content, not optional, and states the legal status as it is today, with a dated link.
 
@@ -379,8 +377,8 @@ Material is qualitative or invented and labelled; real figures only as a dated l
 Finlex, STM or THL link; statutory figures other than the verified 12-week rule linked, not typed); two or more positions
 per issue in their holders' words, equal in length and tone, no group named as holding a view; the page never concludes
 for the student; fictional third-person cases only; fertility text states only what the law allows, abortion text never
-judges reasons; on 09 the `suicide_selfharm` flag, content note and help box, no method, means or case story, the
+judges reasons; on 09 the `suicide_selfharm` flag (no content note or help box, D-014), no method, means or case story, the
 euthanasia debate anchored on the dated 2021 working-group release; disease pages add structural and genetic factors and
 say people with no risk factor also fall ill, no weights, BMI or calories; vaccines by the THL programme without false
-balance; no dosing; screening on a neutral benefit–harm frame; prioritisation without age or disability ranking. Content
-notes on 03, 08 and 09; help links only from the critic's youth-verified list, each with its read date.
+balance; no dosing; screening on a neutral benefit–harm frame; prioritisation without age or disability ranking. No
+content notes or help boxes (D-014).

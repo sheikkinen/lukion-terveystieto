@@ -16,22 +16,21 @@ card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.
 official_links:
   - {title: "Visual novel: Sosiaali- ja terveyspalvelut", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te3&lang=fi&ch=ch05-palvelut", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
   - {title: "Hyvinvointialueet (STM)", url: "https://stm.fi/hyvinvointialueet", publisher: "Sosiaali- ja terveysministeriö (STM)", read: 2026-11-21}
-  - {title: "Hyvinvointialueuudistuksen väliarviointi (valtioneuvosto, 10.12.2025)", url: "https://valtioneuvosto.fi/-/1271139/hyvinvointialueuudistuksen-valiarviointi-uudistus-etenee-tavoitteiden-saavuttaminen-edellyttaa-korjauksia", publisher: "Valtioneuvosto", read: 2026-11-21}
-  - {title: "Student health care (STM)", url: "https://stm.fi/en/student-health-care", publisher: "Sosiaali- ja terveysministeriö (STM)", read: 2026-11-21}
+  - {title: "Hyvinvointialueuudistuksen väliarviointi (valtioneuvosto, 10.12.2025)", url: "https://valtioneuvosto.fi/-/1271139/hyvinvointialueuudistuksen-valiarviointi-uudistus-etenee-tavoitteiden-saavuttaminen-edellyttaa-korjauksia", publisher: "Valtioneuvosto", read: 2026-11-22}
+  - {title: "Student health care (STM)", url: "https://stm.fi/en/student-health-care", publisher: "Sosiaali- ja terveysministeriö (STM)", read: 2026-11-22}
+  - {title: "YTL: terveystiedon ylioppilaskokeen arvosteluohje (syksy 2025)", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
   - {title: "Terveydenhuollon maksukatto (STM)", url: "https://stm.fi/terveydenhuollon-maksukatto", publisher: "Sosiaali- ja terveysministeriö (STM)", read: 2026-11-21}
   - {title: "Opiskeluterveydenhuolto (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Lapsiperheet (Kela)", url: "https://www.kela.fi/lapsiperheet", publisher: "Kela", read: 2026-11-21}
   - {title: "Toimeentulotuki (Kela)", url: "https://www.kela.fi/toimeentulotuki", publisher: "Kela", read: 2026-11-21}
   - {title: "Lääkkeet (Kela)", url: "https://www.kela.fi/laakkeet", publisher: "Kela", read: 2026-11-21}
-  - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
   - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
-  - {title: "Lasten ja nuorten puhelin 116 111 (Nuortennetti)", url: "https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/", publisher: "Mannerheimin Lastensuojeluliitto (MLL)", read: 2026-11-21}
-yearly_facts: [opiskeluterveydenhuolto, hyvinvointialueet, asiakasmaksut_maksukatto, kela_laakekorvaukset, mll_116111, sekasin_chat]
+yearly_facts: [hyvinvointialueet, asiakasmaksut_maksukatto, kela_laakekorvaukset]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Hyvinvointialueet (STM)", url: "https://stm.fi/hyvinvointialueet", publisher: "Sosiaali- ja terveysministeriö (STM)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: yleisö, read: 2026-11-21}
-  - {title: "Hyvinvointialueuudistuksen väliarviointi (valtioneuvosto, 10.12.2025)", url: "https://valtioneuvosto.fi/-/1271139/hyvinvointialueuudistuksen-valiarviointi-uudistus-etenee-tavoitteiden-saavuttaminen-edellyttaa-korjauksia", publisher: "Valtioneuvosto", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
-  - {title: "Student health care (STM)", url: "https://stm.fi/en/student-health-care", publisher: "Sosiaali- ja terveysministeriö (STM)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija ja opettaja, read: 2026-11-21}
+  - {title: "Hyvinvointialueuudistuksen väliarviointi (valtioneuvosto, 10.12.2025)", url: "https://valtioneuvosto.fi/-/1271139/hyvinvointialueuudistuksen-valiarviointi-uudistus-etenee-tavoitteiden-saavuttaminen-edellyttaa-korjauksia", publisher: "Valtioneuvosto", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-22}
+  - {title: "Student health care (STM)", url: "https://stm.fi/en/student-health-care", publisher: "Sosiaali- ja terveysministeriö (STM)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opiskelija ja opettaja, read: 2026-11-22}
   - {title: "Terveydenhuollon maksukatto (STM)", url: "https://stm.fi/terveydenhuollon-maksukatto", publisher: "Sosiaali- ja terveysministeriö (STM)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: yleisö, read: 2026-11-21}
   - {title: "Opiskeluterveydenhuolto (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
   - {title: "Lapsiperheet (Kela)", url: "https://www.kela.fi/lapsiperheet", publisher: "Kela", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: lapsiperheet ja odottavat vanhemmat, read: 2026-11-21}
@@ -59,11 +58,13 @@ last_reviewed: 2026-11-21
 
 ### Kuka vastaa palveluista?
 
-Suomessa sosiaali- ja terveyspalvelujen **järjestämisvastuu** on hyvinvointialueilla. Vastuu siirtyi kunnilta vuoden 2023 alussa. Alueita on 21. Uusimaa on jaettu neljään alueeseen, ja Helsingin kaupunki järjestää palvelut omalla alueellaan. HUS-yhtymä hoitaa erikseen lailla säädettyjä tehtäviä ([STM](https://stm.fi/hyvinvointialueet)). Alueiden ohjaus ja rahoitus muuttuvat, joten ajantasaiset tiedot kannattaa lukea STM:n sivulta.
+Suomessa sosiaali- ja terveyspalvelujen **järjestämisvastuu** on hyvinvointialueilla. Vastuu siirtyi kunnilta vuoden 2023 alussa. Alueita on 21. Uusimaa on jaettu neljään alueeseen, ja Helsingin kaupunki järjestää palvelut omalla alueellaan. HUS-yhtymä hoitaa erikseen lailla säädettyjä tehtäviä ([STM](https://stm.fi/hyvinvointialueet)).
 
 **Järjestäminen** tarkoittaa vastuuta siitä, että palvelut ovat saatavilla. **Tuottaminen** tarkoittaa palvelun tekemistä. **Käyttäminen** on asiakkaan osuus. Järjestäjä ja tuottaja eivät aina ole sama taho: hyvinvointialue voi tuottaa palvelun itse tai hankkia sen muualta.
 
 ### Kolme sektoria
+
+Taulukko on sivuston yleiskuvaus kolmesta sektorista.
 
 | Sektori | Mikä se on | Esimerkki |
 |---|---|---|
@@ -71,34 +72,36 @@ Suomessa sosiaali- ja terveyspalvelujen **järjestämisvastuu** on hyvinvointial
 | yksityinen | yritysten tuottamat palvelut, joilla on omistajat ja hinnat | yksityinen lääkäriasema |
 | kolmas sektori | järjestöt ja säätiöt, jotka toimivat yleensä muun kuin voiton vuoksi | nuorten chat-palvelu, vertaistukiryhmä |
 
-Esimerkiksi Sekasin-chat on nimetön ja maksuton keskusteluapu nuorille, ja sen tarjoaa Sekasin Kollektiivi, ei julkinen viranomainen ([Sekasin](https://sekasin.fi/)). Sektorit täydentävät toisiaan, ja samaa asiakasta voi palvella useampi niistä.
+Esimerkiksi Sekasin-chat on nimetön ja maksuton keskusteluapu nuorille, ja sen tarjoaa Sekasin Kollektiivi, ei julkinen viranomainen ([Sekasin](https://sekasin.fi/)).
 
 ### Kela ja opiskeluterveydenhuolto
 
-**Kela** ei järjestä hoitoa, vaan maksaa etuuksia ja korvauksia. Se korvaa osan sairauden hoitoon määrättyjen reseptilääkkeiden kustannuksista ([Kela](https://www.kela.fi/laakkeet)). Kela maksaa myös lapsiperheiden etuuksia, kuten lapsilisää ([Kela](https://www.kela.fi/lapsiperheet)). Toimeentulotuki on viimesijainen taloudellinen tuki: sitä haetaan vasta, kun muut tulot ja tuet eivät riitä ([Kela](https://www.kela.fi/toimeentulotuki)).
+**Kela** maksaa etuuksia ja korvauksia. Se korvaa osan sairauden hoitoon määrättyjen reseptilääkkeiden kustannuksista ([Kela](https://www.kela.fi/laakkeet)). Kela maksaa myös lapsiperheiden etuuksia, kuten lapsilisää ([Kela](https://www.kela.fi/lapsiperheet)). Toimeentulotuki on viimesijainen taloudellinen tuki: sitä haetaan vasta, kun muut tulot ja tuet eivät riitä ([Kela](https://www.kela.fi/toimeentulotuki)).
 
-Toisen asteen opiskelijalla on oikeus **opiskeluterveydenhuoltoon**. Siihen kuuluvat perusterveydenhuolto, mielenterveys- ja päihdetyö, seksuaaliterveyspalvelut ja suun terveydenhuolto, mutta saatavuus vaihtelee alueittain ([THL](https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto)). Opiskeluhuoltoon kuuluvat myös kuraattori ja psykologi ([TE1: Opiskeluhyvinvointi](../../te1/10-opiskeluhyvinvointi/)).
+Toisen asteen opiskelijalla on oikeus **opiskeluterveydenhuoltoon**: vuoden 2010 terveydenhuoltolaki sisältää säännökset opiskeluterveydenhuollosta, ja ne koskevat muun muassa lukion opiskelijoita ([STM](https://stm.fi/en/student-health-care)). Siihen kuuluvat perusterveydenhuolto, mielenterveys- ja päihdetyö, seksuaaliterveyspalvelut ja suun terveydenhuolto ([THL](https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto)). Yksittäisten palvelujen saatavuus vaihtelee alueittain (ks. alla). Opiskeluhuoltoon kuuluvat myös kuraattori ja psykologi ([TE1: Opiskeluhyvinvointi](../../te1/10-opiskeluhyvinvointi/)).
 
 ### Perheen tukimuodot
 
-Perheen tuki jaetaan kolmeen ryhmään. **Taloudellinen tuki** on rahaa tai korvausta, esimerkiksi lapsilisä ja toimeentulotuki ([Kela](https://www.kela.fi/lapsiperheet)). **Palvelut** ovat ammattilaisten antamaa apua: perheiden sosiaalityö on hyvinvointialueen palvelua, ja oppilashuollon kuraattori ja psykologi työskentelevät koulussa ([TE1: Opiskeluhyvinvointi](../../te1/10-opiskeluhyvinvointi/)). **Vertaistuki** on samanlaisessa tilanteessa olevien ihmisten antamaa tukea, esimerkiksi järjestön vetämä vanhempien keskusteluryhmä. Luokittelun avulla näet, mihin tarpeeseen mikäkin tuki vastaa: raha ei korvaa keskustelua, eikä keskustelu korvaa rahaa. Sivu ei kerro, mikä tuki kenellekin kuuluu. Se selviää Kelasta ja hyvinvointialueelta.
+Sivuston oma jäsennys: perheen tuki voidaan ryhmitellä kolmeen ryhmään. **Taloudellinen tuki** on rahaa tai korvausta, esimerkiksi lapsilisä ja toimeentulotuki ([Kela](https://www.kela.fi/lapsiperheet)). **Palvelut** ovat ammattilaisten antamaa apua: perheiden sosiaalityö on hyvinvointialueen palvelua, ja oppilashuollon kuraattori ja psykologi työskentelevät koulussa ([TE1: Opiskeluhyvinvointi](../../te1/10-opiskeluhyvinvointi/)). **Vertaistuki** on samanlaisessa tilanteessa olevien ihmisten antamaa tukea, esimerkiksi järjestön vetämä vanhempien keskusteluryhmä. Ryhmittelyn avulla näet, mihin tarpeeseen mikäkin tuki vastaa: raha ei korvaa keskustelua, eikä keskustelu korvaa rahaa.
 
 ### Mihin kannattaa hakeutua?
 
-- **Hätätilanne:** soita hätänumeroon 112.
+Seuraava lista on sivuston esimerkki, ei viranomaisen luettelo.
+
+- **Hätätilanne:** hätänumero 112.
 - **Oma vaiva tai huoli opiskeluaikana:** opiskeluterveydenhuolto eli terveydenhoitaja tai lääkäri.
 - **Koulunkäynnin ja jaksamisen asiat:** kuraattori tai psykologi.
 - **Rahan tai arjen asiat:** hyvinvointialueen sosiaalityö ja Kela.
-- **Keskusteluapu:** järjestöjen palvelut, esimerkiksi [Sekasin-chat](https://sekasin.fi/) tai [Lasten ja nuorten puhelin](https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/).
+- **Keskusteluapu:** kolmannen sektorin järjestöjen palvelut (ks. kolme sektoria yllä).
 - **Muiden asioiden kohdalla:** oman hyvinvointialueen verkkosivu kertoo, mistä neuvonta ja päivystys löytyvät.
 
-Sivu ei neuvo hoitamaan omia oireita. Palveluohjaus tarkoittaa tässä reittien tuntemista (kaavio tämän osion lopussa).
+Tässä harjoitellaan tietämään, mihin palveluun hakeutua (kaavio tämän osion lopussa).
 
 ### Mikä palvelujärjestelmässä on vaikeaa?
 
 Julkisista terveyspalveluista peritään **asiakasmaksuja**, ja **maksukatto** rajoittaa vuoden aikana maksettavien maksujen määrää. Alle 18-vuotiaan maksut lasketaan yhteen huoltajan maksujen kanssa ([STM](https://stm.fi/terveydenhuollon-maksukatto)). Summat muuttuvat, joten ne luetaan STM:n sivulta.
 
-Valtioneuvoston väliarviointi nostaa esiin alueellisia eroja ja korjattavaa ([valtioneuvosto](https://valtioneuvosto.fi/-/1271139/hyvinvointialueuudistuksen-valiarviointi-uudistus-etenee-tavoitteiden-saavuttaminen-edellyttaa-korjauksia)). Palvelun saatavuuteen vaikuttavat asuinpaikka, rahatilanne, kielitaito ja se, kuinka hyvin ihminen osaa löytää tietoa. Siksi järjestelmää arvioidaan kysymällä: kenelle palvelu on helppo ja kenelle vaikea?
+Valtioneuvoston väliarviointi nostaa esiin alueellisia eroja ja korjattavaa ([valtioneuvosto](https://valtioneuvosto.fi/-/1271139/hyvinvointialueuudistuksen-valiarviointi-uudistus-etenee-tavoitteiden-saavuttaminen-edellyttaa-korjauksia)). Väliarvioinnin mukaan laatu ja yhdenvertaisuus ovat parantuneet ja saatavuus on valtakunnallisesti pääosin ennallaan. Sivuston lisäys: saatavuuteen voivat vaikuttaa myös rahatilanne, kielitaito ja tiedon löytäminen. Siksi järjestelmää arvioidaan kysymällä: kenelle palvelu on helppo ja kenelle vaikea?
 
 ## Tehtävät
 
@@ -179,7 +182,7 @@ Valitse jokaiseen aukkoon yksi vaihtoehto. Kirjoita vastauksena aukon numero ja 
 >
 > Reseptilääkkeiden kustannuksia korvaa osittain (7) [Kela / opiskeluterveydenhuolto / Palko]. Toisen asteen opiskelijalla on oikeus (8) [työterveyshuoltoon / opiskeluterveydenhuoltoon / sotilasterveydenhuoltoon]. Alle 18-vuotiaan asiakasmaksut lasketaan maksukattoa laskettaessa yhteen (9) [huoltajan maksujen kanssa / koulun maksujen kanssa / Kelan korvausten kanssa]. Toimeentulotuki on (10) [viimesijainen / ensisijainen / vapaaehtoinen] taloudellinen tuki.
 
-### K2: Palveluohjaus, 35 min (20 p)
+### K2: Palvelun valinta, 35 min (20 p)
 
 *Osa B20 · Harjoittelee: Osaan 3, 4*
 
@@ -239,43 +242,42 @@ c) Arvioi tukijärjestelmän toimivuutta Kimin tapauksessa: miten alueelliset er
 
 *Sisältö* (osa A20 pisteytetään vain sisällön perusteella):
 
-- Oikea vastaus 2 p, väärä vastaus −1 p, tyhjä 0 p. Kymmenen aukkoa, yhteensä enintään 10 × 2 p = 20 p. Pisteet eivät mene alle nollan.
+- Oikea vastaus 2 p, väärä vastaus −1 p, tyhjä 0 p ([YTL:n arvosteluohje, luettu 22.11.2026](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html)). Kymmenen aukkoa, yhteensä enintään 10 × 2 p = 20 p. Pisteet eivät mene alle nollan.
 - Vastaus kelpaa, jos aukon numero ja vaihtoehto ovat selvästi yhdistetty.
 
-*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (järjestäjä, tuottaja ja maksaja pidetään erillään), soveltaminen (Kela ja hyvinvointialue erotetaan toisistaan), analysointi (aukkojen 5 ja 6 sektorit liitetään esimerkkeihin), arviointi ja argumentointi (arvaus huomataan arvaukseksi: tyhjä aukko ei vie pisteitä).
+*Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (järjestäjä, tuottaja ja maksaja pidetään erillään), soveltaminen (Kela ja hyvinvointialue erotetaan toisistaan) ja analysointi (aukkojen 5 ja 6 sektorit liitetään esimerkkeihin).
 
 **Yhteensä:** 20 p
 
 **Tyypilliset virheet**
 
-- Kela ja hyvinvointialue sekoitetaan: Kela maksaa korvauksia, hyvinvointialue järjestää palvelut.
+- Kela ja hyvinvointialue sekoitetaan: Kela maksaa korvauksia ja etuuksia, hyvinvointialue järjestää palvelut ([STM](https://stm.fi/hyvinvointialueet)).
 - Järjestämisvastuu ja tuottaminen sekoitetaan, ja ajatellaan, että hyvinvointialue tuottaa kaiken itse.
 - Kolmas sektori sekoitetaan yksityiseen sektoriin, koska molemmat ovat julkisen sektorin ulkopuolella.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
-### K2: Palveluohjaus, 35 min (20 p)
+### K2: Palvelun valinta, 35 min (20 p)
 
 **Malliksi kelpaava vastaus**
 
-**a)** Tilanteessa A sopiva palvelu on opiskeluterveydenhuolto tai opiskeluhuolto, esimerkiksi terveydenhoitaja tai kuraattori. Seuraava askel on varata aika koulun kautta. Tilanteessa B sopiva taho on Kela, joka korvaa osan sairauden hoitoon määrättyjen reseptilääkkeiden kustannuksista. Seuraava askel on lukea korvauksista Kelan sivuilta ja kysyä lisää lääkäriltä tai apteekista. Tilanteessa C pitää soittaa heti hätänumeroon 112, koska ihminen ei herää. Seuraava askel on kertoa soittaessa, missä ollaan, ja toimia saatujen ohjeiden mukaan.
+**a)** Tilanteessa A sopiva palvelu on opiskeluterveydenhuolto tai opiskeluhuolto, esimerkiksi terveydenhoitaja tai kuraattori. Seuraava askel on varata aika koulun kautta. Tilanteessa B sopiva taho on Kela, joka korvaa osan sairauden hoitoon määrättyjen reseptilääkkeiden kustannuksista. Seuraava askel on lukea korvauksista Kelan sivuilta ja kysyä lisää lääkäriltä tai apteekista. Tilanteessa C sopiva palvelu on hätänumero 112, koska ihminen ei herää eikä tilanne voi odottaa. Seuraava askel on kertoa puhelussa, missä ollaan, ja toimia saatujen ohjeiden mukaan.
 
-**b)** Julkisessa palvelussa asiakas maksaa asiakasmaksun, ja maksukatto rajoittaa vuoden maksuja. Alaikäisen maksut lasketaan huoltajan maksujen kanssa yhteen. Odotusaika voi olla pitkä. Yksityisessä palvelussa aika löytyy nopeasti, mutta kustannus voi olla huomattavasti suurempi eikä maksukatto samalla tavalla suojaa. Kimin perheelle pienet tulot tekevät yksityisestä vaihtoehdosta raskaan, ja pitkä matka lisää kustannuksia. Tuloeroista seuraa, että nopea hoito on helpompaa ihmisille, joilla on enemmän rahaa tai joiden lähellä on palveluja. Siksi kannattaa ensin selvittää, mitä julkinen palvelu voi tarjota, ja ottaa tarvittaessa yhteys terveydenhoitajaan tai lääkäriin.
+**b)** Julkisessa palvelussa asiakas maksaa asiakasmaksun, ja maksukatto rajoittaa vuoden maksuja. Alaikäisen maksut lasketaan huoltajan maksujen kanssa yhteen. Odotusaika voi olla pitkä. Yksityisessä palvelussa aika löytyy nopeasti, mutta kustannus voi olla huomattavasti suurempi eikä maksukatto samalla tavalla suojaa. Kimin perheelle pienet tulot tekevät yksityisestä vaihtoehdosta raskaan, ja pitkä matka lisää kustannuksia. Tuloeroista seuraa, että nopea hoito on helpompaa ihmisille, joilla on enemmän rahaa tai joiden lähellä on palveluja. Yksi mahdollinen johtopäätös: kannattaa ensin selvittää, mitä julkinen palvelu voi tarjota, ja ottaa tarvittaessa yhteys terveydenhoitajaan tai lääkäriin.
 
 **Pisteytys**
 
 *Sisältö 10 p:*
 
 - a) Kussakin tilanteessa A–C sopiva palvelu 1 p ja seuraava askel 1 p. Yhteensä 6 p.
-- b) Julkisen ja yksityisen vertailu vähintään kahdella näkökulmalla (aika, kustannus tai saatavuus) 1 p kultakin. Yhteensä 2 p. Toimeentulon vaikutus selitetty 1 p ja asuinpaikan vaikutus selitetty 1 p. Yhteensä 2 p.
+- b) Julkisen ja yksityisen vertailu vähintään kahdella näkökulmalla (aika, kustannus tai saatavuus) 1 p kultakin. Yhteensä 2 p. Toimeentulon vaikutus selitetty 1 p ja asuinpaikan vaikutus selitetty 1 p. Yhteensä 2 p. Pisteytetään vertailu ja perustelut, ei johtopäätöstä: sekä julkisen että yksityisen palvelun valinta hyväksytään, kun se on perusteltu.
 
 *Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
 - 8–10 p: valinnat perustellaan tilanteen sanoilla; tilanteessa C erotetaan hätätilanne muista; b-kohdassa punnitaan, ketä kukin vaihtoehto palvelee, ja yhdistetään tulo- ja asuinpaikkaerot terveyden eriarvoisuuteen.
 - 4–7 p: palvelut on valittu oikein, mutta perustelut tai vertailu jäävät yleiseksi.
 - 0–3 p: vastaus luettelee palveluja ilman yhteyttä tilanteisiin.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
-- Merkkirajan ylittämisestä ei tässä harjoituksessa vähennetä pisteitä, mutta tiivistä vastausta kannattaa harjoitella.
+- YTL:n arvosteluohjeen mukaan merkkirajan ylityksestä vähennetään pisteitä ([YTL, luettu 22.11.2026](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html)). Sivuston harjoituksessa ei vähennetä, mutta tiivistä vastausta kannattaa harjoitella.
 
 Tehtävänannon osapisteet (a 9 p, b 11 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -286,7 +288,7 @@ Tehtävänannon osapisteet (a 9 p, b 11 p) sisältävät sekä sisällön että 
 - Tilanteeseen C ehdotetaan ajanvarausta tai chatia, vaikka kyse on hätätilanteesta.
 - Seuraava askel puuttuu: vastaus nimeää palvelun mutta ei kerro, mitä tehdään ensin.
 - Yksityinen palvelu esitetään vain nopeana tai vain kalliina; vertailu vaatii molemmat puolet.
-- Vastaus sanoo, että valinta on vain asiakkaan oma asia, eikä huomioi toimeentuloa ja asuinpaikkaa.
+- Vastaus ei käytä toimeentuloa ja asuinpaikkaa perusteluina.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -298,7 +300,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **b)** Toimeentulotuen ja lapsilisän maksaa Kela. Toimeentulotuki on viimesijainen tuki, joten ensin tarkistetaan, onko muita tukia. Oppilashuolto kuuluu koululle, eli lapsen koulu järjestää kuraattorin ja koulupsykologin tuen. Vertaisryhmän järjestää järjestö, eli kolmas sektori. Sosiaalityön järjestää hyvinvointialue. Kimin ensimmäinen konkreettinen askel on ottaa yhteys hyvinvointialueen sosiaalityöhön tai Kelaan ja kertoa tilanne, koska talous on kiireisin asia ja ammattilainen osaa ohjata muiden tukien pariin. Samalla Kim voi pyytää koulua ottamaan vanhemman lapsen asian puheeksi.
 
-**c)** Alueelliset erot voivat tarkoittaa sitä, että vertaisryhmää tai sosiaalityön aikaa ei ole samalla tavalla joka alueella, ja Kimin uusi asuinalue voi olla heikommassa asemassa. Valtioneuvoston väliarviointi nostaa esiin alueellisia eroja. Hakeminen voi olla vaivalloista: tuet ovat eri tahoilla, ja jokaisella on omat hakemuksensa. Kim voi uupua jo ennen kuin saa apua. Tuen riittävyys on kolmas kysymys: viimesijainen tuki ei välttämättä riitä kattamaan kaikkea, ja kun tulot pienenevät, myös lapsen harrastukset ja sosiaaliset suhteet voivat kaventua.
+**c)** Alueelliset erot voivat tarkoittaa sitä, että vertaisryhmää tai sosiaalityön aikaa ei ole samalla tavalla joka alueella, ja Kimin uusi asuinalue voi olla heikommassa asemassa. Valtioneuvoston väliarviointi nostaa esiin alueellisia eroja, mutta myös laadun ja yhdenvertaisuuden paranemisen, joten arviossa on molemmat puolet. Hakeminen voi olla vaivalloista: tuet ovat eri tahoilla, ja jokaisella on omat hakemuksensa. Kim voi uupua jo ennen kuin saa apua. Tuen riittävyys on kolmas kysymys: viimesijainen tuki ei välttämättä riitä kattamaan kaikkea, ja kun tulot pienenevät, myös lapsen harrastukset ja sosiaaliset suhteet voivat kaventua.
 
 Parannusehdotus: hyvinvointialue nimeää jokaiselle lapsiperheelle yhden yhteyshenkilön, joka kokoaa tuet ja palvelut yhteen ja auttaa hakemuksissa. Ehdotus auttaa erityisesti perheitä, joilla ei ole voimia selvittää järjestelmää itse, ja se vähentää sitä, että apu riippuu asuinpaikasta tai hakijan osaamisesta. Kustannuksena on työntekijöiden aika, mutta apu tulee silloin ajoissa, ennen kuin ongelmat kasaantuvat.
 
@@ -306,7 +308,7 @@ Parannusehdotus: hyvinvointialue nimeää jokaiselle lapsiperheelle yhden yhteys
 
 *Sisältö 15 p:*
 
-- a) Neljä tukea, jotka liitetään tapauksen tarpeeseen, 4 p (1 p kustakin). Luokittelu taloudelliseen tukeen, palveluihin ja vertaistukeen oikein 1 p. Yhteensä 5 p.
+- a) Neljä tukea, jotka liitetään tapauksen tarpeeseen, 4 p (1 p kustakin). Perusteltu ryhmittely (sivuston oma jäsennys: taloudellinen tuki, palvelut, vertaistuki; muukin perusteltu ryhmittely kelpaa) 1 p. Yhteensä 5 p.
 - b) Kolmen tuen järjestäjä oikein 3 p (1 p kustakin). Konkreettinen ensimmäinen askel Kimille ja sen perustelu 2 p. Yhteensä 5 p.
 - c) Kaksi kolmesta tekijästä (alueelliset erot, hakemisen vaivalloisuus, tuen riittävyys) selitetty Kimin tapauksessa 2 p. Seuraus perheelle 1 p. Perusteltu parannusehdotus, jossa on toimija ja vaikutusmekanismi, 2 p. Yhteensä 5 p.
 
@@ -315,7 +317,6 @@ Parannusehdotus: hyvinvointialue nimeää jokaiselle lapsiperheelle yhden yhteys
 - 12–15 p: vastaus käyttää taulukon 1 tietoja ja tapauksen yksityiskohtia; erottaa tuen luonteen (raha, palvelu, vertaistuki) ja järjestäjän; c punnitsee, kenelle järjestelmä toimii ja kenelle ei, ja ehdotus liittyy havaittuun ongelmaan.
 - 6–11 p: tuet on nimetty oikein, mutta selitys jää luetteloksi tai arviointi yleiseksi (esim. "pitäisi olla enemmän apua").
 - 0–5 p: vastaus kuvaa Kimin tilannetta ilman taulukkoa tai luettelee tukia ilman luokittelua.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 10 p, b 9 p, c 11 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -354,7 +355,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömästi, mitä palveluja he tietävät. | Kerää lapuista nimeämättä lista taululle: mitä palveluja nimettiin? | Lista omaan vihkoon. | Kolme palvelua ääneen. |
 | Aiemman tiedon aktivointi | 10 | Parit kertaavat TE1:n opiskeluterveydenhuollon ja opiskeluhuollon ja kirjoittavat, kuka niitä järjestää. | Kysy, kuka maksaa ja kuka järjestää. | Yksin paperille. | Vain opiskeluterveydenhuolto. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat järjestämisen, tuottamisen ja käyttämisen sekä kolme sektoria. | Käytä palvelukartan runkoa ja korosta, että Kela ei järjestä hoitoa. | Taulukko paperilla. | Sektorit kotiin; alusta vain järjestäjä. |
+| Lyhyt alustus | 10 | Opiskelijat kirjaavat järjestämisen, tuottamisen ja käyttämisen sekä kolme sektoria. | Käytä palvelukartan runkoa ja korosta, että Kela maksaa korvauksia ja etuuksia. | Taulukko paperilla. | Sektorit kotiin; alusta vain järjestäjä. |
 | Työskentely | 25 | Tehtävä 2 kokonaan pareittain (20 min), sitten Tehtävän 1 vaiheet 1–2 (5 min). | Kierrä ja kysy: mikä kertoo, että tässä on hätätilanne? | Yksin paperilla. | Tehtävä 1 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vastaavat: kenelle palvelu on helppo löytää ja kenelle vaikea? | Kokoa syyt taululle: raha, asuinpaikka, kieli, tieto. | Yksin: kaksi syytä. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n aukot 1–5 yksin (6 min) ja tarkistus (4 min). Exit-lappu: yksi palvelu ja milloin sinne mennään. | Näytä pisteytys: väärä vastaus vie pisteen. | Paperilla. | Tarkistus kotona. |
@@ -374,7 +375,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 | Vaihe | Min | Toiminta | Opettajan rooli | Vaihtoehto | Jos aika loppuu |
 |---|---|---|---|---|---|
-| Virittäytyminen ja aiemman tiedon aktivointi | 5 | Kysymys ääneen: mihin soitat, jos ihminen ei herää? Entä jos tarvitset keskusteluapua? | Kirjoita kaksi vastausta taululle. | Vastaus vihkoon. | Yksi vastaus. |
+| Virittäytyminen ja aiemman tiedon aktivointi | 5 | Kysymys ääneen: mihin palveluun otetaan yhteyttä, jos ihminen ei herää? Entä jos tarvitaan tietoa lääkekorvauksista? | Kirjoita kaksi vastausta taululle. | Vastaus vihkoon. | Yksi vastaus. |
 | Lyhyt alustus | 7 | Opiskelijat kirjaavat järjestäjän, tuottajan ja sektorit. | Esittele taulukko rivi kerrallaan. | Taulukko paperilla. | Sektorit kotiin. |
 | Työskentely | 22 | Tehtävä 2 kokonaan pareittain (20 min). Lopuksi jokainen kirjoittaa, mistä hätätilanteen tunnistaa (2 min). | Kierrä ja kysy perusteluja. Tehtävä 2 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | Hätätilanteen tunnistaminen kotiin. |
 | Pari- tai pienryhmäpohdinta | 5 | Koko ryhmä vastaa: kenelle palvelu on vaikea löytää? | Kirjoita syyt taululle. | Yksin paperille. | Pohdinta kotiin. |
@@ -383,7 +384,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Valmistelu
 
 - Kirjoita palvelukartan runko taululle tai jaa se paperilla. Tehtävät toimivat ilman tulosteita. Varaa nimettömiä lappuja.
-- Selvitä koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot ja oman hyvinvointialueen sivut (esimerkki). Aukioloajat ja puhelinnumerot linkitetään, ei kirjoiteta.
 - Lue STM:n sivu *Hyvinvointialueet* ja väliarviointi (ks. Lähteet). Ne ovat link-out-aineistoa: linkitä, älä kopioi.
 
 ### Avoimet kysymykset
@@ -397,7 +397,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 ### Pelisäännöt ja oletusten tarkistus
 
 - Käsitellään palvelujärjestelmää, ei opiskelijoiden omia sairauksia tai perheiden raha-asioita. Kukaan ei kerro omasta tilanteestaan, ja tilanteet ovat kuvitteellisia.
-- Jos opiskelija kertoo oman huolensa, ohjaa hänet opiskeluterveydenhuoltoon, kuraattorille tai psykologille. Opiskelijalle voi kertoa, että terveydenhoitaja on tavoitettavissa tunnin jälkeen.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että jokaisella on huoltaja, joka hoitaa asiat? Oletanko, että kaikki puhuvat suomea ja löytävät verkkotiedon? Esitänkö yksityisen tai julkisen palvelun toista parempana? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -420,19 +419,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-**Jos olet välittömässä vaarassa, soita hätänumeroon 112.**
-
-Tällä sivulla opiskellaan palvelujärjestelmää yleisesti. Sivu ei neuvo, miten omia oireita hoidetaan. Jos sinulla on oireita tai huolia, ota yhteyttä opiskeluterveydenhuoltoon eli terveydenhoitajaan tai lääkäriin. Voit myös puhua kuraattorille tai psykologille. Avun pyytäminen on tavallista ja järkevää.
-
-**Apua saat myös:**
-
-- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): tietoa ja omahoito-ohjelmia nuorille.
-- [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille. Ikäraja ja aukioloajat ovat sivulla.
-- [Lasten ja nuorten puhelin 116 111 (luettu 21.11.2026)](https://www.nuortennetti.fi/apua-ja-tukea/lasten-ja-nuorten-puhelin/): maksuton ja nimetön palvelu alle 25-vuotiaille.
 
 ## Lähteet
 

@@ -3,7 +3,7 @@ id: te2-09-riippuvuuden-mekanismit
 module: TE2
 order: 19
 title: "Mielihyvä ja riippuvuuden mekanismit"
-summary: "Opit, miten mielihyvä, oppiminen ja ympäristö liittyvät riippuvuuden syntyyn, mitkä ovat riippuvuuden tunnusmerkit ja miksi riippuvuus on terveydentila eikä luonteenvika."
+summary: "Opit, miten mielihyvä, oppiminen ja ympäristö liittyvät riippuvuuden syntyyn, mitkä ovat riippuvuuden tunnusmerkit ja miksi riippuvuus luokitellaan terveydentilaksi."
 curriculum: [TE2.s7, TE2.t5]
 assessment: numeric
 suggested_timing: {year: 3, term: syksy}
@@ -12,30 +12,24 @@ duration_options: [45, 60, 75]
 self_study_minutes: 70
 prerequisites: [te1-08-mielenterveys, te1-09-stressi-ja-kriisit]
 safety_flags: [substances]
-content_note: "Tällä sivulla käsitellään mielihyvää ja sitä, miten riippuvuus voi syntyä, yleisellä tasolla. Sivulla ei ole lukuja eikä tietoa käyttömääristä tai käyttötavoista, aineiden haitoista kerrotaan vain sanoin, kenenkään ei tarvitse kertoa omasta elämästään, tehtävän voi jättää väliin, ja lopussa on tietoa avusta."
 card_links: [{label: "Visual novel", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch09-riippuvuuden-mekanismit"}]
 official_links:
   - {title: "Visual novel: Mielihyvä ja riippuvuuden mekanismit", url: "https://stpulpwright9253.z6.web.core.windows.net/engine/play.html?book=terveystieto-te2&lang=fi&ch=ch09-riippuvuuden-mekanismit", publisher: "Lukion terveystiedon visual novel -sarja (CC BY)", read: 2026-11-22}
-  - {title: "Nuortenlinkki", url: "https://nuortenlinkki.fi/", publisher: "A-klinikkasäätiö", read: 2026-11-21}
   - {title: "Päihdekasvatus (EHYT)", url: "https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/", publisher: "Ehkäisevä päihdetyö EHYT ry", read: 2026-11-21}
   - {title: "Ehkäisevä päihdetyö kouluissa ja oppilaitoksissa (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
-  - {title: "BuenoTalk", url: "https://buenotalk.fi/", publisher: "Ehkäisevä päihdetyö EHYT ry", read: 2026-11-21}
   - {title: "Päihdelinkki", url: "https://paihdelinkki.fi/", publisher: "A-klinikkasäätiö", read: 2026-11-21}
   - {title: "Nuorten päihteiden käyttö (Mielenterveystalo)", url: "https://www.mielenterveystalo.fi/fi/paihteet/nuorten-paihteiden-kaytto", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
   - {title: "Alkoholin terveyshaitat (Terveyskirjasto, päivitetty 8.3.2026)", url: "https://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk01120", publisher: "Duodecim (Terveyskirjasto)", read: 2026-11-21}
   - {title: "Raskaus ja tupakka, alkoholi sekä huumeet (Terveyskirjasto, 20.9.2024)", url: "https://www.terveyskirjasto.fi/dlk00984", publisher: "Duodecim (Terveyskirjasto)", read: 2026-11-21}
   - {title: "Alkoholin käytön aiheuttamia sikiövaurioita voidaan ehkäistä (THL-blogi, tammikuu 2020)", url: "https://blogi.thl.fi/alkoholin-kayton-aiheuttamia-sikiovaurioita-voidaan-ehkaista-kulutusta-mittaava-verikoe-pitaisi-ottaa-osaksi-aitiysneuvoloiden-seulontatutkimuksia/", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
   - {title: "Nikotiinituotteet (THL, ammattilaisohje)", url: "https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
-  - {title: "Opiskeluterveydenhuolto", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
-  - {title: "Opiskeluhuolto", url: "https://www.oph.fi/fi/koulutus-ja-tutkinnot/opiskeluhuolto", publisher: "Opetushallitus", read: 2026-11-21}
-  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
-yearly_facts: [paihteet_kehittyva_aivo, raskaus_alkoholi_fasd, nuortenlinkki, sekasin_chat, opiskeluterveydenhuolto]
+  - {title: "F10.2–19.2 Päihderiippuvuus (Mielenterveystalo)", url: "https://www.mielenterveystalo.fi/fi/f102-192-paihderiippuvuus", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-22}
+  - {title: "Termit haltuun (EHYT, ept-verkosto)", url: "https://ehyt.fi/wp-content/uploads/2024/03/ept-verkosto-termit-haltuun-huoneentaulu.pdf", publisher: "Ehkäisevän päihdetyön järjestöverkosto (EHYT)", read: 2026-11-22}
+yearly_facts: [paihteet_kehittyva_aivo, raskaus_alkoholi_fasd]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
-  - {"title": "Nuortenlinkki", "url": "https://nuortenlinkki.fi/", "publisher": "A-klinikkasäätiö", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija", "read": 2026-11-21}
   - {"title": "Päihdekasvatus (EHYT)", "url": "https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/", "publisher": "Ehkäisevä päihdetyö EHYT ry", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja (ammattilaiset)", "read": 2026-11-21}
   - {"title": "Ehkäisevä päihdetyö kouluissa ja oppilaitoksissa (THL)", "url": "https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa", "publisher": "Terveyden ja hyvinvoinnin laitos (THL)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja (ammattilaiset)", "read": 2026-11-21}
-  - {"title": "BuenoTalk", "url": "https://buenotalk.fi/", "publisher": "Ehkäisevä päihdetyö EHYT ry", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opettaja (Ammattilaisille-välilehti), opettaja lukee sivun ennen käyttöä", "read": 2026-11-21}
   - {"title": "Nuorten päihteiden käyttö (Mielenterveystalo)", "url": "https://www.mielenterveystalo.fi/fi/paihteet/nuorten-paihteiden-kaytto", "publisher": "Mielenterveystalo.fi (HUS)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija ja opettaja", "read": 2026-11-21}
   - {"title": "Alkoholin terveyshaitat (Terveyskirjasto, päivitetty 8.3.2026)", "url": "https://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk01120", "publisher": "Duodecim (Terveyskirjasto)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija ja opettaja", "read": 2026-11-21}
   - {"title": "Raskaus ja tupakka, alkoholi sekä huumeet (Terveyskirjasto, 20.9.2024)", "url": "https://www.terveyskirjasto.fi/dlk00984", "publisher": "Duodecim (Terveyskirjasto)", "licence_class": "link-out", "licence": "Kaikki oikeudet pidätetään", "audience": "opiskelija ja opettaja", "read": 2026-11-21}
@@ -46,7 +40,6 @@ exam_tasks: [{id: K1, type: kasitteiden-nimeaminen, part: A20, points: 20, minut
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
 school_adapts:
-  - "Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot ja ajanvaraus (esimerkki)"
   - "Koulun päihde- ja ehkäisevän työn suunnitelma (esimerkki)"
 accessibility:
   - "Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; aineistot on kirjoitettu tehtäviin."
@@ -61,42 +54,42 @@ last_reviewed: 2026-11-21
 
 1. Osaan selittää, mitä mielihyvä ja palkitsemisjärjestelmä ovat ja miksi ne kuuluvat ihmisen tavalliseen toimintaan.
 2. Osaan erottaa riippuvuuteen vaikuttavat biologiset, psyykkiset ja sosiaaliset mekanismit ja selittää, miten ne yhdessä voivat johtaa riippuvuuteen ja miksi alkoholi ja nikotiini ovat erityisen haitallisia kehittyvälle aivolle ja sikiölle.
-3. Osaan nimetä riippuvuuden tunnusmerkit (sietokyky, vieroitusoireet, kontrollin menetys, repsahdus) ja tunnistaa ne kuvitteellisista tapauksista.
-4. Osaan erottaa aineriippuvuuden ja toiminnallisen riippuvuuden ja selittää, miksi riippuvuus on terveydentila eikä luonteenvika.
-5. Osaan kertoa, mitkä tekijät suojaavat riippuvuudelta ja mitkä kuormittavat, ja mistä nuori saa apua.
+3. Osaan nimetä riippuvuuden yhteydessä käytettävät käsitteet (sietokyky, vieroitusoireet, kontrollin menetys, repsahdus) ja tunnistaa ne kuvitteellisista tapauksista.
+4. Osaan erottaa aineriippuvuuden ja toiminnallisen riippuvuuden ja selittää, miksi riippuvuus luokitellaan terveydentilaksi.
+5. Osaan kertoa, mitkä tekijät suojaavat riippuvuudelta ja mitkä kuormittavat.
 
 ### Mielihyvä ja palkitsemisjärjestelmä
 
-**Mielihyvä** on hyvältä tuntuva olo, jota voivat tuottaa esimerkiksi musiikki, nauru ystävän kanssa tai onnistuminen. Aivojen **palkitsemisjärjestelmä** liittää tällaiset kokemukset oppimiseen: se auttaa muistamaan, mikä kannattaa toistaa. Välittäjäaine dopamiini liittyy erityisesti palkkion odotukseen ja oppimiseen. Järjestelmä on normaali ja tarpeellinen osa ihmistä. Se muuttuu ongelmaksi vasta, kun jokin aine tai toiminta alkaa ohjata sitä voimakkaammin kuin tavalliset palkinnot.
+**Mielihyvä** on hyvältä tuntuva olo, jota voivat tuottaa esimerkiksi musiikki, nauru ystävän kanssa tai onnistuminen. Aivojen **palkitsemisjärjestelmä** liittää tällaiset kokemukset oppimiseen: se auttaa muistamaan, mikä kannattaa toistaa. Järjestelmä on normaali ja tarpeellinen osa ihmistä. Se muuttuu ongelmaksi vasta, kun jokin aine tai toiminta alkaa ohjata sitä voimakkaammin kuin tavalliset palkinnot.
 
 ### Mitä riippuvuus on?
 
-**Riippuvuus** on terveydentila, jossa aine tai toiminta alkaa hallita ajattelua ja toimintaa niin, että sen vähentäminen tai lopettaminen on vaikeaa haitoista huolimatta. Se ei ole luonteenvika, tahdon heikkous tai valinta. **Aineriippuvuus** liittyy aineisiin, kuten alkoholiin tai nikotiiniin. **Toiminnallinen riippuvuus** liittyy toimintaan, kuten rahapelaamiseen. Muodoista kerrotaan tarkemmin aiheessa 10. Se, että jokin on mieluisaa tai vie aikaa, ei vielä ole riippuvuutta. Ratkaisevia ovat kontrollin menetys ja haitat. Riippuvuus ei myöskään ole joko–tai: se kehittyy vähitellen, ja se vaihtelee ihmisestä toiseen.
+**Riippuvuus** on terveydentila, jossa aine tai toiminta alkaa hallita ajattelua ja toimintaa niin, että sen vähentäminen tai lopettaminen on vaikeaa haitoista huolimatta ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/f102-192-paihderiippuvuus)). Sivun mukaan diagnoosin kriteereitä ovat voimakas halu käyttää, vaikeus hallita käyttöä, käytön jatkaminen haitoista huolimatta ja käytön asettaminen muiden asioiden edelle; usein on myös sietokyvyn kasvua ja vieroitusoireita. Siksi riippuvuutta ei sivuston lisäyksenä kuvata pelkkänä valintana tai luonteen heikkoutena. **Aineriippuvuus** liittyy aineisiin, kuten alkoholiin tai nikotiiniin. **Toiminnallinen riippuvuus** liittyy toimintaan, kuten rahapelaamiseen. Muodoista kerrotaan tarkemmin aiheessa 10. Se, että jokin on mieluisaa tai vie aikaa, ei vielä ole riippuvuutta. Riippuvuudessa näkyvät kontrollin menetys ja haitat.
 
 ### Kolme mekanismia
 
-Riippuvuutta ei selitä yksi syy. Siihen vaikuttavat samaan aikaan kolme mekanismia.
+Riippuvuutta ei selitä yksi syy. Opetussuunnitelma nimeää kolme mekanismia (TE2.s7); esimerkit ovat sivuston selitystä.
 
-- **Biologinen:** palkitsemisjärjestelmä oppii toistamaan palkitsevan asian. Perimä vaikuttaa alttiuteen. Itsehillintää ja riskien arviointia tukevat aivoalueet kehittyvät vielä nuoruudessa ja nuorena aikuisena.
-- **Psyykkinen:** jos jokin helpottaa pahaa oloa tai stressiä, aivot oppivat hakemaan helpotuksen samasta paikasta. Tunteiden säätelyn taidot, odotukset ja selviytymiskeinot vaikuttavat. Palkkion ennakoimattomuus vahvistaa oppimista erityisen voimakkaasti; sen käytöstä pelien suunnittelussa kerrotaan aiheessa 10.
+- **Biologinen:** palkitsemisjärjestelmä oppii toistamaan palkitsevan asian.
+- **Psyykkinen:** jos jokin helpottaa pahaa oloa tai stressiä, aivot oppivat hakemaan helpotuksen samasta paikasta. Tunteiden säätelyn taidot, odotukset ja selviytymiskeinot vaikuttavat.
 - **Sosiaalinen:** ystäväpiirin ja yhteisön tavat, saatavuus, markkinointi, yksinäisyys ja eriarvoisuus. Ympäristö voi suojata tai kuormittaa.
 
-### Riippuvuuden tunnusmerkit
+### Riippuvuuden tunnusmerkit (sivuston oma jäsennys)
 
 - **Sietokyky eli toleranssi:** saman vaikutuksen saaminen vaatii yhä enemmän, koska elimistö sopeutuu.
-- **Vieroitusoireet:** epämiellyttäviä oireita, kun aine tai toiminta jää pois. Ne helpottavat usein, kun siihen palaa, joten kehä pysyy yllä (kaavio tämän osion lopussa). Lopettamisen tuki kuuluu ammattilaisille.
+- **Vieroitusoireet:** epämiellyttäviä oireita, kun aine tai toiminta jää pois. Ne helpottavat usein, kun siihen palaa, joten kehä pysyy yllä (kaavio tämän osion lopussa).
 - **Kontrollin menetys:** ei pysty pysähtymään tai pitämään omaa päätöstään.
-- **Repsahdus:** paluu entiseen lopettamisen jälkeen. Se on yleinen osa toipumista eikä epäonnistuminen.
+- **Repsahdus:** paluu entiseen lopettamisen jälkeen. Se ei ole yksi diagnoosin kriteereistä.
 
 ### Kehittyvät aivot ja sikiö
 
-Nuoren aivot kehittyvät vielä, ja ne ovat herkempiä päihteiden haitoille. Alkoholi on hermomyrkky, ja alaikäisen käyttöä pidetään aina riskikäyttönä ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/paihteet/nuorten-paihteiden-kaytto), [Terveyskirjasto](https://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk01120)). Nikotiini aiheuttaa riippuvuutta, ja nuorena aloittaminen lisää pitkäaikaisen riippuvuuden todennäköisyyttä ([THL](https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet)).
+Nuoren aivot kehittyvät vielä, ja ne ovat herkempiä alkoholin haitoille. Alkoholi on hermomyrkky, ja alaikäisen käyttöä pidetään aina riskikäyttönä ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/paihteet/nuorten-paihteiden-kaytto), [Terveyskirjasto](https://www.terveyskirjasto.fi/terveyskirjasto/tk.koti?p_artikkeli=dlk01120)). Nikotiini aiheuttaa riippuvuutta, ja nuorena aloittaminen lisää pitkäaikaisen riippuvuuden todennäköisyyttä ([THL](https://thl.fi/ohjeita-ammattilaisille/paihteiden-kayton-ja-riippuvuuksien-puheeksiotto-ja-mini-interventio/nikotiinituotteet)).
 
-Alkoholi kulkee istukan läpi sikiölle ja haittaa sen kasvua ja keskushermoston kehitystä raskauden kaikissa vaiheissa. **FASD** on nimitys sikiöaikaisen alkoholialtistuksen vaurioille. Ne ovat suurelta osin pysyviä, ja turvallista määrää ei tunneta ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00984)). Nikotiini heikentää istukan verenkiertoa ja vaikuttaa sikiön aivojen kehitykseen ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00984)). Moni vaurio jää huomaamatta tai havaitaan myöhään, ja varhainen tuki auttaa ([THL-blogi](https://blogi.thl.fi/alkoholin-kayton-aiheuttamia-sikiovaurioita-voidaan-ehkaista-kulutusta-mittaava-verikoe-pitaisi-ottaa-osaksi-aitiysneuvoloiden-seulontatutkimuksia/)). Tieto ei syyllistä ketään: tukea antavat neuvola ja terveydenhuolto.
+Alkoholi kulkee istukan läpi sikiölle ja haittaa sen kasvua ja keskushermoston kehitystä raskauden kaikissa vaiheissa. **FASD** on nimitys sikiöaikaisen alkoholialtistuksen vaurioille. Ne ovat suurelta osin pysyviä, ja turvallista määrää ei tunneta ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00984)). Nikotiini heikentää istukan verenkiertoa ja vaikuttaa sikiön aivojen kehitykseen ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00984)). Moni vaurio jää huomaamatta tai havaitaan myöhään, ja varhainen tuki auttaa ([THL-blogi](https://blogi.thl.fi/alkoholin-kayton-aiheuttamia-sikiovaurioita-voidaan-ehkaista-kulutusta-mittaava-verikoe-pitaisi-ottaa-osaksi-aitiysneuvoloiden-seulontatutkimuksia/)).
 
 ### Mikä suojaa ja mikä kuormittaa?
 
-**Suojaavia tekijöitä** ovat turvalliset ihmissuhteet, mielekäs tekeminen, tunteiden käsittelyn taidot ja tuen saatavuus. **Kuormittavia tekijöitä** ovat pitkittynyt stressi, yksinäisyys, kiusaaminen ja voimakas markkinointi. Mielenterveyttä suojaavista tekijöistä kerrotaan TE1-aiheessa [Mielenterveys](../../te1/08-mielenterveys/). Tekijät eivät ole tuomio: sama tekijä voi vaikuttaa eri ihmisiin eri tavoin. Riippuvuuteen on apua, ja hoitoon hakeutuminen on tavallista. Syyllistäminen vaikeuttaa avun hakemista.
+**Suojaavia tekijöitä** ovat turvalliset ihmissuhteet, mielekäs tekeminen, tunteiden käsittelyn taidot ja tuen saatavuus. **Kuormittavia tekijöitä** ovat pitkittynyt stressi, yksinäisyys ja kiusaaminen (sivuston oma jäsennys). Tekijät eivät ole tuomio: sama tekijä voi vaikuttaa eri ihmisiin eri tavoin. Leimaavat sanat vahvistavat stigmaa ([EHYT](https://ehyt.fi/wp-content/uploads/2024/03/ept-verkosto-termit-haltuun-huoneentaulu.pdf)).
 
 ## Tehtävät
 
@@ -128,26 +121,26 @@ Alkoholi kulkee istukan läpi sikiölle ja haittaa sen kasvua ja keskushermoston
 2. Valitse jokaisesta yksi sana, joka syyllistää.
 3. Kirjoita kunkin lauseen viereen, mitä mekanismia lause ohittaa.
 4. Kirjoita lause uudelleen niin, ettei se syyllistä ja riippuvuus näkyy terveydentilana.
-5. Kirjoita yksi syy, miksi syyllistäminen vaikeuttaa avun hakemista.
+5. Kirjoita yksi syy, miksi syyllistävä sana on leimaava.
 
-### Tehtävä 3: Tutki nuorille tarkoitettua palvelua
+### Tehtävä 3: Tutki, miten riippuvuudesta puhutaan
 
 **Aika:** 20 min
 **Tarvitset:** puhelimen tai tietokoneen, paperia
-**Ilman laitetta:** Ohita vaiheet 1–2. Kirjoita paperille kolme kysymystä, jotka tarkistaisit palvelun sivulta ennen yhteydenottoa: kenelle se on, milloin se on auki ja onko se maksuton ja nimetön. Tee vaiheet 3–5.
-**Harjoittelet:** Osaan 4 ja 5
+**Ilman laitetta:** Ohita vaiheet 1–2. Kirjoita paperille kolme arkista sanaa tai ilmausta, joilla riippuvuudesta puhutaan, ja merkitse, mitkä niistä leimaavat. Tee vaiheet 3–5.
+**Harjoittelet:** Osaan 4
 
-1. Avaa [Nuortenlinkki](https://nuortenlinkki.fi/) ja lue, kenelle palvelu on tarkoitettu.
-2. Etsi sivulta, mitä aineita ja toimintoja palvelun kuvaus mainitsee. Jaa ne kahteen ryhmään: aine ja toiminta.
-3. Kirjoita, miksi chatin aukioloajat kannattaa tarkistaa aina sivulta.
-4. Kirjoita Ellalle (kuvitteellinen) kolme reittiä apuun: yksi koulussa, yksi nuorten chat ja yksi terveydenhuollossa.
-5. Kirjoita yksi lause siitä, miksi avun hakeminen on tavallista.
+1. Avaa EHYTin ja ehkäisevän päihdetyön järjestöverkoston taulu [Termit haltuun](https://ehyt.fi/wp-content/uploads/2024/03/ept-verkosto-termit-haltuun-huoneentaulu.pdf).
+2. Etsi taulusta kaksi ilmausta, joita se suosittelee, ja kaksi, joita se neuvoo välttämään.
+3. Vertaa vältettäviä ilmauksia Tehtävän 2 lauseisiin: mikä niissä on samaa?
+4. Kirjoita yksi Tehtävän 2 lauseista uudelleen taulun suosittelemin sanoin.
+5. Kirjoita yksi lause siitä, miten sanavalinta voi vaikuttaa stigmaan.
 
 ## Pohdinta
 
 Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia tarvitse näyttää kenellekään.
 
-1. Miksi riippuvuudesta puhutaan helposti luonteenvikana ja mitä haittaa siitä on avun hakemiselle?
+1. Miksi riippuvuudesta puhutaan helposti luonteenvikana ja mitä haittaa leimaavilla sanoilla voi olla?
 2. Mitkä suojaavista tekijöistä kuuluvat koululle, harrastukselle tai kaveriporukalle? Miten yhteisö voi tukea jäseniään?
 3. Miksi riippuvuuden syntyä ei voi ennustaa yhden tekijän perusteella?
 
@@ -155,9 +148,9 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 
 1. Osaan selittää, mitä mielihyvä ja palkitsemisjärjestelmä ovat ja miksi ne kuuluvat ihmisen tavalliseen toimintaan.
 2. Osaan erottaa riippuvuuteen vaikuttavat biologiset, psyykkiset ja sosiaaliset mekanismit ja selittää, miten ne yhdessä voivat johtaa riippuvuuteen ja miksi alkoholi ja nikotiini ovat erityisen haitallisia kehittyvälle aivolle ja sikiölle.
-3. Osaan nimetä riippuvuuden tunnusmerkit (sietokyky, vieroitusoireet, kontrollin menetys, repsahdus) ja tunnistaa ne kuvitteellisista tapauksista.
-4. Osaan erottaa aineriippuvuuden ja toiminnallisen riippuvuuden ja selittää, miksi riippuvuus on terveydentila eikä luonteenvika.
-5. Osaan kertoa, mitkä tekijät suojaavat riippuvuudelta ja mitkä kuormittavat, ja mistä nuori saa apua.
+3. Osaan nimetä riippuvuuden yhteydessä käytettävät käsitteet (sietokyky, vieroitusoireet, kontrollin menetys, repsahdus) ja tunnistaa ne kuvitteellisista tapauksista.
+4. Osaan erottaa aineriippuvuuden ja toiminnallisen riippuvuuden ja selittää, miksi riippuvuus luokitellaan terveydentilaksi.
+5. Osaan kertoa, mitkä tekijät suojaavat riippuvuudelta ja mitkä kuormittavat.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen. Tätä itsearviointia ei pisteytetä eikä se mittaa omaa elämääsi.
 
@@ -226,7 +219,7 @@ c) Kirjoita kampanjan tekijälle viesti, joka korjaa yhden väitteen syyllistäm
 1. **sietokyky (toleranssi):** sama vaikutus vaatii yhä enemmän, koska elimistö on sopeutunut.
 2. **vieroitusoireet:** oireet tulevat, kun toiminta jää pois, ja helpottavat, kun siihen palaa. Siksi kehä pysyy yllä.
 3. **kontrollin menetys:** hän ei pysty pitämään omaa päätöstään tai pysähtymään.
-4. **repsahdus:** paluu entiseen lopettamisen jälkeen. Se on yleinen osa toipumista, ei epäonnistuminen.
+4. **repsahdus:** paluu entiseen lopettamisen jälkeen. Se ei ole yksi diagnoosin kriteereistä.
 5. **palkitsemisjärjestelmä:** järjestelmä, joka liittää hyvältä tuntuvan asian oppimiseen, jolloin ihminen haluaa toistaa sen.
 
 **Pisteytys**
@@ -243,8 +236,8 @@ c) Kirjoita kampanjan tekijälle viesti, joka korjaa yhden väitteen syyllistäm
 **Tyypilliset virheet**
 
 - Sietokyky ja vieroitusoireet sekoitetaan keskenään.
-- Repsahdus kuvataan epäonnistumisena tai luonteen heikkoutena.
-- Kontrollin menetys selitetään tahdonvoiman puutteena.
+- Repsahdus sekoitetaan diagnoosin kriteeriin tai kuvataan pelkästään luonteen heikkoutena.
+- Kontrollin menetys selitetään pelkästään tahdonvoiman puutteena.
 - Perustelu toistaa tapauksen sanoja eikä kerro, mikä tekee siitä juuri tämän käsitteen.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
@@ -277,7 +270,7 @@ apu ja hoitoon hakeutuminen; repsahdus mahdollinen
 
 *Sisältö 10 p:*
 
-- a) Kaavio: vaiheet oikeassa järjestyksessä 1 p, kehä eli nuolet takaisin 1 p, kolme mekanismia merkitty 1 p. Yhteensä 3 p.
+- a) Kaavio: vaiheet oikeassa järjestyksessä 1 p, kehä eli nuolet takaisin 1 p, kolme mekanismia merkitty perustellusti 1 p (sijoitus on sivuston oma jäsennys, ja mikä tahansa perusteltu sijoitus kelpaa). Yhteensä 3 p.
 - b) Kunkin mekanismin selitys, joka liittyy kaavion kohtaan, 1 p kutakin (3 p); mekanismien keskinäinen vahvistuminen 1 p; apu tai suojaavat tekijät kaaviossa 1 p. Yhteensä 5 p.
 - c) Kaksi yksinkertaistusta selitettynä 2 p.
 
@@ -286,7 +279,6 @@ apu ja hoitoon hakeutuminen; repsahdus mahdollinen
 - 8–10 p: kaavio on selkeä ja nuolet perusteltuja; selitys kulkee vaihe vaiheelta ja käyttää tunnusmerkkejä oikein; mekanismien yhteys perustellaan; rajat arvioidaan perustellen.
 - 4–7 p: kaavio ja mekanismit ovat oikein, mutta selitys luettelee tai rajat jäävät yleisiksi.
 - 0–3 p: kaavio puuttuu tai se ei seuraa esitettä; mekanismeja ei selitetä.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 6 p, b 8 p, c 6 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -297,7 +289,7 @@ Tehtävänannon osapisteet (a 6 p, b 8 p, c 6 p) sisältävät sekä sisällön 
 - Nuolet kulkevat vain yhteen suuntaan, eikä kehää ole.
 - Mekanismit nimetään, mutta niiden paikkaa kaaviossa ei merkitä.
 - Kaavio esitetään sääntönä, jonka mukaan jokainen edistyy samalla tavalla.
-- Riippuvuus kuvataan valintana tai heikkoutena.
+- Riippuvuus kuvataan vain valintana tai heikkoutena.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -307,12 +299,12 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **a)** Aineiston 2 mukaan riippuvuuteen vaikuttavat samaan aikaan kolme mekanismia. Biologinen on aivojen palkitsemisjärjestelmä, joka oppii toistamaan palkitsevan asian. Psyykkinen on ihmisen elämäntilanne ja kuormitus: jos jokin helpottaa, sitä haetaan uudelleen. Sosiaalinen on ympäristö, esimerkiksi tuen puute ja saatavuus. Ne vahvistavat toisiaan: kuormitus ja tuen puute tekevät helpotuksesta houkuttelevan, järjestelmä oppii toistamaan sen ja helppo saatavuus pitää kehää yllä. Kun toistaminen jatkuu, sietokyky kasvaa ja pois jättäminen tuottaa vieroitusoireita. Silloin toistaminen helpottaa oireita ja kontrolli heikkenee. Suojaavat tekijät, kuten turvalliset ihmissuhteet ja mielekäs tekeminen, vaikuttavat samoihin mekanismeihin vastakkaiseen suuntaan.
 
-**b)** Väitteessä on ymmärrettävä osa: omilla päätöksillä on merkitystä, ja toipuminen vaatii myös omaa osallistumista. Väite ohittaa kuitenkin biologiset ja sosiaaliset mekanismit. Kun palkitsemisjärjestelmä ja sietokyky ovat muuttuneet, pelkkä haluaminen ei riitä; kontrollin menetys on riippuvuuden tunnusmerkki, ei asenne. Väite ohittaa myös elämäntilanteen ja ympäristön. Sana "syypää" syyllistää, ja aineisto 2 toteaa, että häpeä vaikeuttaa hoitoon hakeutumista. Syyllistävä viesti voi siis viivästyttää avun hakemista ja pahentaa tilannetta. Perustellumpi kysymys on, mitä ihmisen elämässä on tapahtunut ja mitä tukea hän tarvitsee.
+**b)** Väitteessä on ymmärrettävä osa: omilla päätöksillä on merkitystä, ja toipuminen vaatii myös omaa osallistumista. Väite ohittaa kuitenkin biologiset ja sosiaaliset mekanismit. Kun palkitsemisjärjestelmä ja sietokyky ovat muuttuneet, pelkkä haluaminen ei riitä; kontrollin menetys on riippuvuuden tunnusmerkki, ei asenne. Väite ohittaa myös elämäntilanteen ja ympäristön. Sana "syypää" syyllistää, ja aineisto 2 toteaa, että häpeä vaikeuttaa hoitoon hakeutumista. Aineiston 2 mukaan syyllistävä viesti voi siis viivästyttää avun hakemista. Perustellumpi kysymys on, mitä ihmisen elämässä on tapahtunut ja mitä tukea hän tarvitsee.
 
 **c)** *Yksilö:* tunteiden käsittelyn taitojen vahvistaminen ja matala kynnys puhua terveydenhoitajalle. Se auttaa niitä, joilla kuormitusta on jo.
 *Yhteisö:* koulu ja harrastus, joissa ei syyllistetä ja joissa kaikille on paikka. Se vahvistaa suojaavia tekijöitä ja madaltaa kynnystä hakea apua.
 *Yhteiskunta:* saatavuuden ja markkinoinnin rajaaminen sekä maksuttomat, helposti tavoitettavat palvelut. Ne kohdistuvat kaikkiin.
-*Arvio:* tärkein on kynnyksen madaltaminen, koska häpeä estää avun hakemista kaikilla tasoilla. Yhteisön ja yhteiskunnan keinot ovat laajimpia, mutta ne eivät riitä ilman, että yksilö uskaltaa hakea apua.
+*Yksi perusteltu arvio:* tärkein voi olla kynnyksen madaltaminen, koska aineiston 2 mukaan häpeä vaikeuttaa hoitoon hakeutumista. Toinenkin järjestys voidaan perustella, esimerkiksi yhteiskunnan keinot, koska ne kohdistuvat kaikkiin. Yhteisön ja yhteiskunnan keinot ovat laajimpia, mutta ne eivät riitä ilman, että yksilö uskaltaa hakea apua.
 
 **Pisteytys**
 
@@ -326,7 +318,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 12–15 p: vastaus käyttää aineiston kohtia nimeltä, erottaa mekanismit ja selittää niiden yhteisvaikutuksen, arvioi väitettä tasapainoisesti ja punnitsee ehkäisykeinoja.
 - 6–11 p: mekanismit ovat oikein, mutta arviointi on yleistä tai keinot luetellaan.
 - 0–5 p: vastaus ei käytä aineistoa tai toistaa väitteitä arvioimatta.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 11 p, b 8 p, c 11 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -346,11 +337,11 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** (1) Virheellinen: nuoren aivot kehittyvät vielä ja ovat herkempiä päihteiden haitoille. (2) Oikein: nikotiini aiheuttaa riippuvuutta, ja nuorena aloittaminen lisää pitkäaikaisen riippuvuuden todennäköisyyttä. (3) Virheellinen: turvallista määrää ei tunneta, koska alkoholi kulkee istukan läpi ja haittaa sikiön kasvua ja keskushermostoa kaikissa vaiheissa. (4) Oikein: FASD:n keskushermoston vauriot ovat suurelta osin pysyviä. (5) Virheellinen: syyllistäminen vaikeuttaa avun hakemista, kun taas syyttelemätön tuki auttaa hakemaan apua ajoissa.
+**a)** (1) Virheellinen: nuoren aivot kehittyvät vielä ja ovat herkempiä alkoholin haitoille. (2) Oikein: nikotiini aiheuttaa riippuvuutta, ja nuorena aloittaminen lisää pitkäaikaisen riippuvuuden todennäköisyyttä. (3) Virheellinen: turvallista määrää ei tunneta, koska alkoholi kulkee istukan läpi ja haittaa sikiön kasvua ja keskushermostoa kaikissa vaiheissa. (4) Oikein: FASD:n keskushermoston vauriot ovat suurelta osin pysyviä. (5) Virheellinen: THL-blogin mukaan varhainen ja oikeanlainen apu ja tuki voivat vähentää sikiövaurioiden riskiä, ja moittiminen on leimaavaa.
 
-**b)** Alkoholi siirtyy äidin verestä istukan läpi sikiöön, ja sikiö poistaa sitä hitaasti. Sikiön aivot ja keskushermosto kehittyvät koko raskauden ajan, joten häiriö voi osua mihin vaiheeseen tahansa. Seuraus on FASD, jonka haitat ovat usein pysyviä. Nuoren aivot kehittyvät vielä: palkitsemisjärjestelmä on valmis oppimaan, mutta itsehillintää tukevat alueet kypsyvät myöhemmin, joten päihteet voivat muuttaa kehitystä ja lisätä riippuvuuden riskiä.
+**b)** Alkoholi kulkee istukan läpi sikiöön ja haittaa sen kasvua ja keskushermoston kehitystä raskauden kaikissa vaiheissa ([Terveyskirjasto](https://www.terveyskirjasto.fi/dlk00984)). Seuraus voi olla FASD, jonka vauriot ovat suurelta osin pysyviä. Nuoren aivot kehittyvät vielä, ja siksi ne ovat herkempiä alkoholin haitoille ([Mielenterveystalo](https://www.mielenterveystalo.fi/fi/paihteet/nuorten-paihteiden-kaytto)).
 
-**c)** Esimerkki: "Väite 5 on virheellinen. Sikiövaurioita ehkäisee alkoholin välttäminen raskauden aikana, ja turvallista määrää ei tunneta. Neuvola ja terveydenhuolto tukevat syyttelemättä, jotta apua uskaltaa pyytää ajoissa. Syyllistäminen saa ihmisen vaikenemaan, joten teksti kannattaa kirjoittaa tuen tarjoamisena: apua saa, eikä kukaan joudu sitä häpeämään." (noin 345 merkkiä)
+**c)** Esimerkki: "Väite 5 on virheellinen. Sikiövaurioita ehkäisee alkoholin välttäminen raskauden aikana, ja turvallista määrää ei tunneta. Leimaavat sanat vahvistavat stigmaa, joten kampanjan kannattaa puhua raskaana olevista syyllistämättä." (noin 225 merkkiä)
 
 **Pisteytys**
 
@@ -365,7 +356,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 8–10 p: väitteet arvioidaan yksitellen aineistosta lainaten ja perustellaan mekanismilla; osittain oikea väite erotetaan virheellisestä; viesti on tiivis ja syyllistämätön.
 - 4–7 p: arviot ovat oikein, mutta perustelut ovat yleisiä tai viesti jää neuvoksi.
 - 0–3 p: vastaus toistaa väitteitä arvioimatta tai syyllistää.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 10 p, b 6 p, c 4 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -381,7 +371,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 ## Itseopiskelun askel
 
-**Tavoite:** Osaat selittää riippuvuuden kolme mekanismia, nimetä tunnusmerkit ja kertoa, miksi riippuvuus on terveydentila eikä luonteenvika.
+**Tavoite:** Osaat selittää riippuvuuden kolme mekanismia, nimetä tunnusmerkit ja kertoa, miksi riippuvuus luokitellaan terveydentilaksi.
 
 **Aikaa kuluu:** noin 70 minuuttia.
 
@@ -393,7 +383,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 4. **Pohdi** yksi Pohdinnan kysymyksistä ja tee itsearviointi (5 min).
 5. **Seuraava askel:** aihe 10 *Aine- ja toiminnalliset riippuvuudet: syyt, haitat ja ehkäisy*. Siinä sovellat mekanismeja tiettyihin riippuvuuksiin ja ehkäisyyn.
 
-**Muistiinpanoihin:** Säilytä Tehtävän 1 mekanismikartta ja neljä tunnusmerkkiä omin sanoin. Lisää Tehtävän 2 uudelleen kirjoitetut lauseet ja Tehtävän 3 palvelun osoite lukupäivineen.
+**Muistiinpanoihin:** Säilytä Tehtävän 1 mekanismikartta ja neljä tunnusmerkkiä omin sanoin. Lisää Tehtävän 2 uudelleen kirjoitetut lauseet ja Tehtävän 3 suositellut ja vältettävät ilmaukset.
 
 ## Tuntisuunnitelma (75 min)
 
@@ -403,11 +393,11 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Opiskelijat kirjoittavat nimettömälle lapulle yhden asian, joka ihmisestä yleensä tuntuu hyvältä (esimerkiksi musiikki, nauru, onnistuminen). | Kerää laput ja ryhmittele taululle. Totea: mielihyvä on normaalia. | Nimetön sähköinen seinä. | Lue kolme lappua. |
 | Aiemman tiedon aktivointi | 10 | Parit muistelevat TE1:n stressin ja mielenterveyttä suojaavien tekijöiden asioita ja kirjoittavat kaksi suojaavaa tekijää. | Kirjoita suojaavat tekijät taululle. Linkitä TE1-aiheisiin 08 ja 09. | Yksin paperille. | Yksi yhteinen lista. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat palkitsemisjärjestelmän, kolme mekanismia ja neljä tunnusmerkkiä. | Piirrä kolme laatikkoa. Korosta: riippuvuus on terveydentila, ei luonteenvika. Älä kuvaile käyttötapoja. | Jaa käsitteet paperilla. | Tunnusmerkit kotiin; alusta vain mekanismit. |
+| Lyhyt alustus | 10 | Opiskelijat kirjaavat palkitsemisjärjestelmän, kolme mekanismia ja neljä tunnusmerkkiä. | Piirrä kolme laatikkoa. Korosta: riippuvuus on diagnosoitava terveydentila (Mielenterveystalo). Älä kuvaile käyttötapoja. | Jaa käsitteet paperilla. | Tunnusmerkit kotiin; alusta vain mekanismit. |
 | Työskentely | 25 | Tehtävä 1 kokonaan pareittain (15 min), sitten Tehtävä 2 (10 min). | Kierrä ja kysy: mikä kohta kuuluu mihinkin laatikkoon? Pidä kieli mekanismeissa. | Yksin paperilla. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vastaavat Tehtävän 1 vaiheeseen 5 ja keksivät yhden yhteisön suojaavan tekijän. | Kokoa taululle ja nosta esiin, että yhteisö voi suojata. | Yksin: kirjoita kaksi suojaavaa tekijää. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n kohdat 1–3 yksin (7 min) ja tarkistus mallivastauksella (3 min). Exit: yksi käsite omin sanoin. | Näytä, mistä K1:n neljä pistettä syntyy. | Paperilla. | Tarkistus kotona. |
-| Puskuri | 5 | Kysymyksiä. Muistuta, mistä apua saa. | Nosta Apua ja tukea -osio esiin. | – | – |
+| Puskuri | 5 | Kysymyksiä. | Kokoa avoimet kysymykset aiheeseen 10. | – | – |
 
 ### Tuntisuunnitelma (60 min)
 
@@ -419,7 +409,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Työskentely | 25 | Tehtävä 1 kokonaan pareittain (15 min), sitten Tehtävä 2 (10 min). | Kierrä ja kysy laatikoista. | Yksin paperilla. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 8 | Parit vastaavat vaiheeseen 5. | Kokoa taululle. | Yksin paperille. | Yksi yhteinen vastaus. |
 | Koeharjoitus ja exit | 7 | K1:n kohdat 1–2 yksin (4 min) ja tarkistus (3 min). Exit: yksi epäselvä käsite. | Näytä pisteytys. | Paperilla. | Tarkistus kotona. |
-| Puskuri | 2 | Kysymykset ja apuvinkki. | Nosta Apua ja tukea esiin. | – | – |
+| Puskuri | 2 | Kysymykset. | – | – | – |
 
 ### Tuntisuunnitelma (45 min)
 
@@ -428,33 +418,31 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 | Virittäytyminen | 2 | Kysymys ääneen: mikä tuntuu ihmisestä yleensä hyvältä? | Kirjoita pari vastausta taululle. | Opiskelijat kirjoittavat itselleen. | – |
 | Aiemman tiedon aktivointi | 3 | Koko ryhmä nimeää yhden suojaavan tekijän. | Kirjoita taululle. | Paperille. | Yksi tekijä. |
 | Lyhyt alustus | 7 | Opiskelijat kirjaavat kolme mekanismia ja tunnusmerkit. | Piirrä laatikot. Älä kuvaile käyttötapoja. | Jaa käsitteet paperilla. | Vain mekanismit. |
-| Työskentely | 22 | Tehtävä 1 kokonaan pareittain (15 min). Sitten Tehtävän 2 lauseet A ja B (7 min). | Kierrä ja kysy. Tehtävä 1 tehdään kokonaan, ei lyhennetä. | Yksin paperilla. | Tehtävä 2 kotiin. |
+| Työskentely | 22 | Tehtävä 1 kokonaan pareittain (15 min). Sitten Tehtävän 2 lauseet A ja B (7 min). | Kierrä parien luona. Tehtävä 1 tehdään kokonaan. | Yksin paperilla. | Tehtävä 2 kotiin. |
 | Pari- tai pienryhmäpohdinta | 5 | Koko ryhmä vastaa vaiheeseen 5. | Kirjoita vastaukset taululle. | Yksin paperille. | Pohdinta kotiin. |
 | Koeharjoitus ja exit | 4 | Exit: yksi mekanismi omin sanoin. K1 kotiin. | Kerro, että mallivastaukset ovat sivulla. | Paperilla. | Exit tunnin jälkeen. |
-| Puskuri | 2 | Kysymykset. | Nosta Apua ja tukea esiin. | – | – |
+| Puskuri | 2 | Kysymykset. | – | – | – |
 
 ### Valmistelu
 
 - Piirrä kolme laatikkoa taululle tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita. Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
-- Lue EHYTin ja THL:n sivut ehkäisevästä päihdetyöstä ennen tuntia (ks. Lähteet). Lue myös BuenoTalk itse ennen kuin suosittelet sitä: sivulla on avoin vertaischat ja laskuri, joita ei käytetä luokassa.
+- Lue EHYTin ja THL:n sivut ehkäisevästä päihdetyöstä ennen tuntia (ks. Lähteet).
 - Älä käytä pelaamisen tai käytön testejä, kokemuspuheenvuoroja tai vierailijoita, jotka kertovat pahimman tapauksensa.
-- Selvitä koulun opiskeluterveydenhuollon ja opiskeluhuoltotiimin yhteystiedot (esimerkki).
 
 ### Avoimet kysymykset
 
 - Miksi mielihyvä on tarpeellinen eikä vaarallinen?
 - Miksi riippuvuutta ei voi selittää yhdellä syyllä?
-- Miksi syyllistävä puhe voi viivästyttää avun hakemista?
+- Miksi leimaavat sanat vahvistavat stigmaa?
 - Mikä ero on sillä, että jokin on mieluisaa, ja sillä, että siitä on tullut riippuvuutta?
 - Mitkä suojaavat tekijät ovat yhteisön eikä yksilön käsissä?
-- Miksi repsahdus ei ole epäonnistuminen?
+- Mitä repsahdus tarkoittaa ja miksi se ei ole diagnoosin kriteeri?
 
 ### Pelisäännöt ja oletusten tarkistus
 
 - Analysoidaan kuvitteellisia tapauksia ja mekanismeja. Älä pyydä opiskelijoita kertomaan omasta tai läheisten käytöstä, pelaamisesta tai kokemuksista. Älä käytä nosta käsi -kysymyksiä. Älä kuvaile määriä tai käyttötapoja. Haitoista puhutaan sanoin ja ilman pelottelua.
-- Kerro tunnin alussa, että aihe voi herättää tunteita, että tauon voi pitää ja että tehtävän voi jättää väliin. Ketään ei pakoteta puhumaan.
-- Kerro, että terveydenhoitaja ja opiskeluhuoltotiimi ovat käytettävissä. Jos opiskelija kertoo huolestaan, kuuntele, kiitä luottamuksesta ja ohjaa terveydenhoitajalle tai opiskeluhuoltoon. Koulun henkilökunnalla, kuten opettajalla, terveydenhoitajalla ja kuraattorilla, on ohjeet siitä, miten toimitaan, kun alaikäisen avun tarve tulee tietoon; tarkista koulusi ohjeista, milloin ja miten tehdään esimerkiksi lastensuojeluilmoitus, jonka tarkoitus on saada tuki. Kerro asia neutraalisti.
-- Sarja tunteja toimii paremmin kuin yksittäinen tunti ([THL](https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa), [EHYT](https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/)). Liitä tämä aihe aiheeseen 10.
+- Jos opiskelija kertoo huolestaan, toimi koulun ohjeen mukaan.
+- THL:n mukaan päihdekasvatus ei saa olla kertaluonteista oppituntia vaan pitkäjänteistä ja säännöllistä, ja EHYT korostaa toistoa ja säännönmukaisuutta ([THL](https://thl.fi/ohjeita-ammattilaisille/ehkaiseva-paihdetyo-kouluissa-ja-oppilaitoksissa), [EHYT](https://ehyt.fi/paihde-peli-info/mita-on-ehkaiseva-paihdetyo/paihdekasvatus/)). Liitä tämä aihe aiheeseen 10.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että riippuvuus on aina aineisiin liittyvää? Oletanko, että kenelläkään ryhmässä ei ole läheistä, jolla on riippuvuus? Käytänkö leimaavia sanoja, kuten *narkkari* tai *juoppo*? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -468,31 +456,16 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *mielihyvä = hyvältä tuntuva olo*
 - *palkitsemisjärjestelmä = aivojen järjestelmä, joka auttaa oppimaan, mitä kannattaa toistaa*
 - *riippuvuus = terveydentila, jossa jokin vie hallinnan*
-- *sietokyky = sama vaikutus vaatii yhä enemmän*
-- *vieroitusoireet = epämiellyttävät oireet, kun jokin jää pois*
+- *sietokyky = sama vaikutus vaatii yhä enemmän; vieroitusoireet = epämiellyttävät oireet, kun jokin jää pois*
 - *kontrollin menetys = ei pysty pysähtymään tai pitämään päätöstään*
 - *repsahdus = paluu entiseen lopettamisen jälkeen*
-- *suojaava tekijä = asia, joka auttaa ehkäisemään ongelmia*
-- *kuormittava tekijä = asia, joka lisää ongelmien riskiä*
+- *suojaava tekijä = asia, joka auttaa ehkäisemään ongelmia; kuormittava tekijä = asia, joka lisää ongelmien riskiä*
 
-**Lukeminen, keskittyminen ja jännitys:** Lue tapaus kahdessa osassa ja merkitse mekanismit eri värein tai merkein. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa. Tehtävän voi jättää väliin, jos aihe tuntuu raskaalta.
+**Lukeminen, keskittyminen ja jännitys:** Lue tapaus kahdessa osassa ja merkitse mekanismit eri värein tai merkein. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
 
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-**Jos olet välittömässä vaarassa, soita hätänumeroon 112.**
-
-Jos jokin tämän sivun asia herättää huolta itsestäsi tai läheisestäsi, voit puhua opiskeluterveydenhuollon terveydenhoitajan tai lääkärin, kuraattorin tai psykologin kanssa. Koulusi kertoo, miten aika varataan (esimerkki). Kukaan ei syyllistä: avun hakeminen on tavallista ja järkevää.
-
-**Apua saat myös:**
-
-- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
-- [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille. Ikärajat ja aukioloajat ovat sivulla.
-- [Nuortenlinkki (luettu 21.11.2026)](https://nuortenlinkki.fi/): tukea ja tietoa nuorille päihde- ja riippuvuusasioissa. Chatin aukioloajat ovat sivulla ja ne ovat rajalliset, joten ota tarvittaessa yhteyttä myös opiskeluterveydenhuoltoon tai Sekasiniin.
 
 ## Lähteet
 

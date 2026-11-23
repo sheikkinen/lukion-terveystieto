@@ -20,10 +20,8 @@ official_links:
   - {title: "Mediataitokoulu: tekoäly", url: "https://mediataitokoulu.fi/avainsanat/tekoaly/", publisher: "Kuvi (Taide- ja kulttuurivirasto), Mediataitokoulu", read: 2026-11-21}
   - {title: "Ravitsemus- ja terveysväitteet (Ruokavirasto)", url: "https://www.ruokavirasto.fi/yritykset/elintarvikeala/valmistus/elintarvikkeista-annettavat-tiedot/ravitsemus--ja-terveysvaitteet/", publisher: "Ruokavirasto", read: 2026-11-21}
   - {title: "Omatestaus, kotitestaus ja itsetestaaminen (Terveyskirjasto)", url: "https://www.terveyskirjasto.fi/dlk01400", publisher: "Suomalainen Lääkäriseura Duodecim", read: 2026-11-21}
-  - {title: "Opiskeluterveydenhuolto (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
-  - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi", read: 2026-11-21}
-  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
-yearly_facts: [opiskeluterveydenhuolto, elintarvikevaitteet, kotitestit]
+  - {title: "YTL: terveystiedon ylioppilaskokeen arvosteluohje (syksy 2024)", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2024-09-18_TE_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta", read: 2026-11-22}
+yearly_facts: [elintarvikevaitteet, kotitestit]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Faktabaari EDU", url: "https://faktabaari.fi/edu/", publisher: "Avoin Yhteiskunta ry (Faktabaari)", licence_class: link-out, licence: "Creative Commons, versiota ei mainita (kohdellaan link-outina)", audience: opettaja ja opiskelija, read: 2026-11-21}
@@ -36,7 +34,7 @@ exam_tasks:
   - {id: K4, type: viestinnan-analyysi, part: B20, points: 20, minutes: 35, codes: [TE2.s2, TE2.t3, TE2.t2]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
-school_adapts: ["Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; aineistot on kirjoitettu tehtäviin.", "Tehtävissä analysoidaan kuvitteellisia viestejä; omasta terveydestä tai omista valinnoista ei tarvitse kertoa kenellekään.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-21
 ---
@@ -49,18 +47,18 @@ last_reviewed: 2026-11-21
 2. Osaan tunnistaa viestin vaikutuskeinoja ja selittää, miten kukin pyrkii vaikuttamaan lukijaan.
 3. Osaan analysoida, miten terveysviestintä voi muokata ihmisten terveyskäsityksiä ja terveyttä hyvässä ja pahassa.
 4. Osaan arvioida terveysviestin luotettavuutta ja erottaa misinformaation, disinformaation ja viherpesun, myös tekoälyn vastauksissa.
-5. Osaan arvioida terveysviestinnän eettisyyttä esimerkiksi totuudenmukaisuuden, avoimuuden ja yksityisyyden kannalta.
+5. Osaan arvioida terveysviestinnän eettisyyttä esimerkiksi totuudenmukaisuuden, avoimuuden ja yksityisyyden kannalta (sivuston lisäys).
 6. Osaan arvioida pakkauksen terveysväitettä ja kotitestin lupauksia: onko väite sallittu ja mitä tulos ei kerro.
 
 ### Kuka viestii ja miksi?
 
-**Terveysviestintä** on viestintää, joka vaikuttaa siihen, mitä ihmiset ajattelevat terveydestä. Se on laajempaa kuin sairauksista kertominen. Muotoja on monta:
+**Terveysviestintä** on viestintää, joka vaikuttaa siihen, mitä ihmiset ajattelevat terveydestä. Se on laajempaa kuin sairauksista kertominen. Muotoja on monta (luettelo on sivuston oma jäsennys):
 
 - **Terveysneuvonta ja viranomaisviestintä:** esimerkiksi terveydenhoitajan tiedote tai viranomaisen sivu. Tarkoitus on antaa tietoa.
 - **Terveyskampanja:** julistesarja tai videot, jotka pyrkivät muuttamaan asenteita tai tapoja.
 - **Uutiset:** toimitus valitsee, mistä kerrotaan ja mitä korostetaan.
 - **Kaupallinen viestintä:** mainos, jonka tarkoitus on myydä.
-- **Vaikuttajamarkkinointi:** tunnettu henkilö esittelee tuotetta, usein yhteistyössä yrityksen kanssa. Siitä pitää kertoa selvästi.
+- **Vaikuttajamarkkinointi:** tunnettu henkilö esittelee tuotetta, usein yhteistyössä yrityksen kanssa.
 - **Vertaisviestintä:** ystävät ja tuntemattomat jakavat viestejä ja kokemuksia sosiaalisessa mediassa.
 - **Tekoälyn vastaukset:** kielimalli kirjoittaa vastauksen kysymykseen.
 
@@ -68,7 +66,7 @@ Ruokaan ja kehoon liittyvän puheen vaikutuksia käsiteltiin aiheessa [Ravinto](
 
 ### Vaikutuskeinot
 
-**Vaikutuskeino** on tapa, jolla viesti pyrkii saamaan lukijan ajattelemaan tai toimimaan tietyllä tavalla. Tavallisia keinoja ovat (kaavio tämän osion lopussa):
+**Vaikutuskeino** on tapa, jolla viesti pyrkii saamaan lukijan ajattelemaan tai toimimaan tietyllä tavalla. Sivuston oma jäsennys tavallisista keinoista (kaavio tämän osion lopussa):
 
 - **tunteisiin vetoaminen:** pelko, syyllisyys, ilo tai ylpeys
 - **asiantuntijaan tai tunnettuun henkilöön vetoaminen:** "tohtori suosittelee"
@@ -77,15 +75,15 @@ Ruokaan ja kehoon liittyvän puheen vaikutuksia käsiteltiin aiheessa [Ravinto](
 - **tarina:** yksi koskettava esimerkki kokonaisen tutkimuksen sijaan
 - **luonnollisuus ja puhtaus:** "luonnollinen" kuulostaa hyvältä, vaikka se ei kerro tehosta tai turvallisuudesta
 
-Vaikutuskeino ei ole itsessään huono. Terveyskampanja voi käyttää tunteita ja tarinoita, kun sen tieto pitää paikkansa. Ongelma syntyy, kun keino korvaa näytön.
+Milloin tunteisiin vetoaminen tukee tietoa ja milloin se korvaa sen? Punnitse, missä kohdassa keino alkaa korvata näytön.
 
 ### Miten viestintä vaikuttaa terveyskäsityksiin?
 
-Se, mitä ihminen näkee usein, alkaa tuntua normaalilta. Viestit voivat antaa ihmisille tietoa ja rohkaista hakemaan apua. Ne voivat myös luoda tarpeita, joita ei ollut, tai saada normaalin elämän näyttämään ongelmalta. Pelkoon perustuva viestintä voi lisätä huolta. Epäluotettava viesti voi viedä ihmisen väärään päätökseen tai ajaa hänet hakemaan tietoa, jota hän ei osaa arvioida.
+Seuraavat ovat sivuston esimerkkejä viestinnän mahdollisista vaikutuksista. Se, mitä ihminen näkee usein, alkaa tuntua normaalilta. Viestit voivat antaa ihmisille tietoa ja rohkaista hakemaan apua. Ne voivat myös luoda tarpeita, joita ei ollut, tai saada normaalin elämän näyttämään ongelmalta. Pelkoon perustuva viestintä voi lisätä huolta. Epäluotettava viesti voi viedä ihmisen väärään päätökseen tai ajaa hänet hakemaan tietoa, jota hän ei osaa arvioida.
 
 ### Väärä tieto ja sen muodot
 
-**Misinformaatio** on virheellistä tietoa, jota levittäjä pitää totena. **Disinformaatio** on tarkoituksella levitettyä väärää tietoa. **Viherpesu** tarkoittaa, että tuote tai yritys esitetään ympäristöystävällisemmäksi kuin se todellisuudessa on. Luotettavuuden tarkistamiseen auttavat tutut kysymykset: kuka viestii, mihin tieto perustuu, onko kaupallista yhteyttä? [Faktabaari EDU](https://faktabaari.fi/edu/) kokoaa vinkkejä tiedon tarkistamiseen.
+**Misinformaatio** on virheellistä tietoa, jota levittäjä pitää totena. **Disinformaatio** on tarkoituksella levitettyä väärää tietoa. **Viherpesu** tarkoittaa, että tuote tai yritys esitetään ympäristöystävällisemmäksi kuin se todellisuudessa on (sivuston lyhyet määritelmät). Luotettavuuden tarkistamiseen auttavat tutut kysymykset: kuka viestii, mihin tieto perustuu, onko kaupallista yhteyttä? [Faktabaari EDU](https://faktabaari.fi/edu/) kokoaa vinkkejä tiedon tarkistamiseen.
 
 ### Pakkauksen väitteet
 
@@ -97,7 +95,7 @@ Elintarvikkeen pakkauksessa ja markkinoinnissa saa käyttää vain EU:ssa hyväk
 
 ### Tekoäly ja etiikka
 
-Tekoäly kirjoittaa sujuvaa tekstiä, mutta se voi myös **hallusinoida**: keksiä uskottavalta kuulostavan väitteen tai lähteen. Vastaus voi olla hyödyllinen, mutta se on tarkistettava. Eettisiä kysymyksiä ovat **totuudenmukaisuus** (esitetäänkö epävarma tieto varmana), **avoimuus** (kerrotaanko kaupallisesta tarkoituksesta), **yksityisyys** (pyydetäänkö tarpeettomia henkilötietoja) ja **vastuu** (kuka vastaa virheestä). Mediataitokoulun sivuilla on aineistoja [mainonnasta](https://mediataitokoulu.fi/avainsanat/mainonta/) ja [tekoälystä](https://mediataitokoulu.fi/avainsanat/tekoaly/) opettajille.
+Tekoäly kirjoittaa sujuvaa tekstiä, mutta se voi myös **hallusinoida**: keksiä uskottavalta kuulostavan väitteen tai lähteen. Vastaus voi olla hyödyllinen, mutta se on tarkistettava. Sivuston lisäys: eettisiä näkökulmia ovat **totuudenmukaisuus** (esitetäänkö epävarma tieto varmana), **avoimuus** (kerrotaanko kaupallisesta tarkoituksesta), **yksityisyys** (pyydetäänkö tarpeettomia henkilötietoja) ja **vastuu** (kuka vastaa virheestä). Mediataitokoulun sivuilla on aineistoja [mainonnasta](https://mediataitokoulu.fi/avainsanat/mainonta/) ja [tekoälystä](https://mediataitokoulu.fi/avainsanat/tekoaly/) opettajille.
 
 ## Tehtävät
 
@@ -166,7 +164,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 2. Osaan tunnistaa viestin vaikutuskeinoja ja selittää, miten kukin pyrkii vaikuttamaan lukijaan.
 3. Osaan analysoida, miten terveysviestintä voi muokata ihmisten terveyskäsityksiä ja terveyttä hyvässä ja pahassa.
 4. Osaan arvioida terveysviestin luotettavuutta ja erottaa misinformaation, disinformaation ja viherpesun, myös tekoälyn vastauksissa.
-5. Osaan arvioida terveysviestinnän eettisyyttä esimerkiksi totuudenmukaisuuden, avoimuuden ja yksityisyyden kannalta.
+5. Osaan arvioida terveysviestinnän eettisyyttä esimerkiksi totuudenmukaisuuden, avoimuuden ja yksityisyyden kannalta (sivuston lisäys).
 6. Osaan arvioida pakkauksen terveysväitettä ja kotitestin lupauksia: onko väite sallittu ja mitä tulos ei kerro.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
@@ -257,6 +255,7 @@ c) Kirjoita kuvitteelliselle Samille, joka harkitsee molempia, lyhyt vastaus: mi
 
 - Jokainen kymmenestä kohdasta 2 p: oikea käsite 1 p ja perustelu, joka sitoo tilanteen käsitteeseen, 1 p. Yhteensä 20 p.
 - Sama käsite käytettynä kahteen kohtaan antaa pisteet vain, jos molemmat sopivat.
+- Vaikutuskeinon nimi saa poiketa sivun luettelosta, kunhan perustelu on oikea (esimerkiksi pelkoon vetoaminen kuuluu tunteisiin vetoamiseen).
 
 *Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (oikea termi), soveltaminen (perustelu viittaa tilanteeseen), analysointi (läheisten käsitteiden ero, esimerkiksi mis- ja disinformaatio tai kaupallinen viestintä ja kampanja), arviointi ja argumentointi (yksi selkeä lause).
 
@@ -285,14 +284,13 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 *Sisältö 10 p:*
 
-- Eettiset näkökulmat: (1) totuudenmukaisuus, (2) avoimuus ja kaupallisuus, (3) yksityisyys, (4) manipulointi (imartelu, salailun kehotus), (5) vastuu, (6) hyödyt ja haitat osapuolille. Kaksi selitettyä 3 p, neljä 6 p, kuusi 9 p. Yhteys eri näkökulmien välillä (esimerkiksi piilomainonta ja luotettavuus) +1 p.
+- Eettiset näkökulmat (sivuston lisäys; mikä tahansa perusteltu näkökulma kelpaa, ei vain nämä): (1) totuudenmukaisuus, (2) avoimuus ja kaupallisuus, (3) yksityisyys, (4) manipulointi (imartelu, salailun kehotus), (5) vastuu, (6) hyödyt ja haitat osapuolille. Kaksi selitettyä 3 p, neljä 6 p, kuusi 9 p. Yhteys eri näkökulmien välillä (esimerkiksi piilomainonta ja luotettavuus) +1 p.
 
 *Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
 - 8–10 p: ongelmat sidotaan vastauksen sanoihin, hyödyt ja haitat punnitaan molempien osapuolten kannalta, ja periaatteet perustellaan ongelmilla.
 - 4–7 p: ongelmat on nimetty, mutta punninta tai periaatteet jäävät yleisiksi.
 - 0–3 p: vastaus toteaa vain, että tekoälyvastaus on huono.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 9 p, b 6 p, c 5 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -302,7 +300,7 @@ Tehtävänannon osapisteet (a 9 p, b 6 p, c 5 p) sisältävät sekä sisällön 
 
 - Ongelma nimetään (esimerkiksi "epäeettinen"), mutta periaatetta ei kerrota.
 - Vastaus keskittyy vain Kimin kokemukseen eikä ota huomioon muita osapuolia.
-- Tekoäly tuomitaan kokonaan, vaikka vastauksessa on hyödyllisiäkin piirteitä.
+- Vastaus tuomitsee tekoälyn perustelematta tai ottamatta huomioon vastauksen sanamuotoja. Hyvin perusteltu tuomitseva tai puoltava kanta kelpaa.
 - Periaatteet ovat toiveita ("pitäisi olla hyvä") eivätkä sisällä perustelua.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
@@ -311,7 +309,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** *Muoto ja lähettäjä:* aineisto 1 on kaupungin kampanjajuliste, jonka lähettäjä on julkinen taho. Aineisto 2 on vaikuttajapostaus, jonka lähettäjä on yksityinen henkilö yhteistyössä yrityksen kanssa. *Tarkoitus:* kampanja haluaa lisätä turvallisuutta eikä myy mitään. Postauksen tarkoitus on myydä Hohde-merkkiä ja saada alennuskoodia käyttäviä ostajia. *Vaikutuskeinot:* juliste käyttää kuvaa ja lievää pelkoa mutta pysyy asiallisena ja ohjaa lisätietoon. Postaus käyttää sosiaalista todistetta ("kaikki kaverini"), tutkimukseen vetoamista ilman lähdettä ("todistavat") ja rahallista etua (alennuskoodi). *Avoimuus:* postauksessa on merkintä #yhteistyö, mutta se on pienessä asemassa.
+**a)** *Muoto ja lähettäjä:* aineisto 1 on kaupungin kampanjajuliste, jonka lähettäjä on julkinen taho. Aineisto 2 on vaikuttajapostaus, jonka lähettäjä on yksityinen henkilö yhteistyössä yrityksen kanssa. *Tarkoitus:* kampanja haluaa lisätä turvallisuutta eikä myy mitään. Postauksen tarkoitus on myydä Hohde-merkkiä ja saada alennuskoodia käyttäviä ostajia. *Vaikutuskeinot:* juliste käyttää kuvaa ja lievää pelkoa mutta pysyy asiallisena ja ohjaa lisätietoon. Postaus käyttää sosiaalista todistetta ("kaikki kaverini"), tutkimukseen vetoamista ilman lähdettä ("todistavat") ja rahallista etua (alennuskoodi). *Avoimuus:* postauksessa on merkintä #yhteistyö, ja alennuskoodi kertoo kaupallisesta yhteydestä.
 
 **b)** Juliste voi vahvistaa käsitystä, että heijastin on tavallinen ja yksinkertainen turvallisuuskeino. Pelkoon perustuva kuva voi lisätä huolta, mutta tässä se on lievä ja viesti pysyy tarkoituksessaan. Postaus voi saada lukijat uskomaan, että vain yksi merkki suojaa. Jos joku jättää heijastimen käyttämättä, koska ei halua ostaa kyseistä merkkiä, viesti voi heikentää turvallisuutta. Postaus opettaa myös, että turvallisuus on ostettava tuote. Molemmat viestit vaikuttavat siihen, miten yhteisö ajattelee turvallisuudesta ja kenen vastuulla se on.
 
@@ -321,7 +319,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 *Sisältö 15 p:*
 
-- Neljä näkökulmaa: (1) muoto ja lähettäjä, (2) tarkoitus, (3) vaikutuskeinot, (4) luotettavuus ja vaikutus terveyskäsityksiin. Yksi näkökulma 4 p, kaksi 7 p, kolme 10 p, neljä 13 p.
+- Neljä näkökulmaa (vaikutuskeinon nimeksi kelpaa sivun luettelon nimi tai muu perusteltu nimi, esimerkiksi tutkimukseen vetoaminen tai rahallinen etu): (1) muoto ja lähettäjä, (2) tarkoitus, (3) vaikutuskeinot, (4) luotettavuus ja vaikutus terveyskäsityksiin. Yksi näkökulma 4 p, kaksi 7 p, kolme 10 p, neljä 13 p.
 - Punnittu johtopäätös, joka yhdistää vaikutuskeinot ja luotettavuuden arvion vastaukseen +2 p.
 
 *Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
@@ -329,7 +327,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 12–15 p: vertailu viittaa aineistojen sanamuotoihin, käsitteet (kaupallinen viestintä, vaikuttajamarkkinointi, kampanja, sosiaalinen todiste) ovat oikein, vaikutus terveyskäsityksiin on perusteltu, ja uudelleenmuotoilu korjaa löydetyt ongelmat.
 - 6–11 p: vertailu on oikein mutta luetteleva, tai uudelleenmuotoilu ei vastaa aiemmin löydettyihin ongelmiin.
 - 0–5 p: vastaus toteaa vain, että toinen viesti on parempi, tai ei käytä aineistoa.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 12 p, b 10 p, c 8 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -340,7 +337,7 @@ Tehtävänannon osapisteet (a 12 p, b 10 p, c 8 p) sisältävät sekä sisällö
 - Vertailu kuvaa vain toista aineistoa tai ei vertaa samoilla näkökulmilla.
 - Kampanjaa pidetään automaattisesti luotettavana ja vaikuttajaa automaattisesti epäluotettavana.
 - Vaikutuksia kuvataan vain yleisellä tasolla, eikä niitä sidota aineiston sanamuotoihin.
-- Uudelleenmuotoilu poistaa vaikuttamisen mutta jättää kaupallisen yhteyden kertomatta.
+- Uudelleenmuotoilu poistaa vaikuttamisen mutta jättää kaupallisen yhteyden esittämättä, vaikka tehtävä pyytää avoimempaa versiota.
 - Vastaus neuvoo lukijaa, mitä pitää ostaa tai käyttää, sen sijaan että arvioisi viestejä.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
@@ -353,22 +350,21 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **b)** Elintarvikkeesta ei saa antaa kuvaa, että se ehkäisee, hoitaa tai parantaa sairauksia, joten "ehkäisee flunssaa" ei kuulu pakkaukseen. Ruokavirasto ei hyväksy väitteitä etukäteen, vaan vastuu on yrityksellä. Kotitestissä näytteenotto vaikuttaa tulokseen, ja tulos voi olla väärä kumpaankin suuntaan. Negatiivinen tulos ei poissulje testattua asiaa, joten "varma" ja "lääkäri on turha" johtavat harhaan: väärästä tuloksesta voi tehdä väärän päätelmän.
 
-**c)** Hei Sami! Kysy väitteestä: kuka sen on tehnyt, mihin se perustuu ja onko se sallittu tuotteesta kerrottavaksi. "Ehkäisee sairautta" on elintarvikkeesta kielletty väite. Kotitesti ei korvaa tutkimuksia, ja negatiivinenkin tulos voi olla väärä. Jos sinulla on oireita tai huolia, ota yhteyttä opiskeluterveydenhuoltoon. Luotettavaa tietoa löydät esimerkiksi Ruokaviraston ja Terveyskirjaston sivuilta.
+**c)** Hei Sami! Kysy väitteestä: kuka sen on tehnyt, mihin se perustuu ja onko se sallittu tuotteesta kerrottavaksi. "Ehkäisee sairautta" on elintarvikkeesta kielletty väite. Kotitesti ei korvaa tutkimuksia, ja negatiivinenkin tulos voi olla väärä.
 
 **Pisteytys**
 
 *Sisältö 10 p:*
 
-- a) Kolme vaikutuskeinoa tai piirrettä oikein nimetty 3 p.
+- a) Kolme vaikutuskeinoa tai piirrettä oikein nimetty 3 p. Mikä tahansa perusteltu nimi kelpaa (esimerkiksi varmuuden lupaus).
 - b) Lääkkeellinen väite kielletty 1 p; vastuu yrityksellä, ei etukäteishyväksyntää 1 p; näytteenotto ja väärät tulokset 1 p; negatiivinen tulos ei poissulje 1 p.
-- c) Kysymykset (kuka, mihin perustuu, sallittu) 1 p; kotitesti ei korvaa tutkimuksia 1 p; ohjaus opiskeluterveydenhuoltoon tai luotettavaan lähteeseen 1 p.
+- c) Kysymykset (kuka on tehnyt, mihin perustuu, onko väite sallittu) 2 p; kotitesti ei korvaa tutkimuksia 1 p.
 
 *Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
-- 8–10 p: jokainen piirre liitetään aineiston riviin ja sen mekanismiin, b-kohta erottaa säännön ja testin rajat, ja viesti Samille on selkeä, ytimekäs ja kunnioittava.
+- 8–10 p: jokainen piirre liitetään aineiston riviin ja sen mekanismiin, b-kohta erottaa säännön ja testin rajat, ja viesti Samille on selkeä ja ytimekäs.
 - 4–7 p: käsitteet on nimetty, mutta selitykset ovat yleisiä tai viesti jää listaksi.
 - 0–3 p: vastaus toteaa vain, että mainokset ovat epäluotettavia.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 6 p, b 8 p, c 6 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -441,7 +437,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Kirjoita taululle vaikutuskeinot tai jaa ne paperilla. Tehtävät toimivat ilman tulosteita.
 - Varaa nimettömiä lappuja virittäytymiseen ja exitiin.
 - Tutustu halutessasi Faktabaari EDU:n ja Mediataitokoulun materiaaleihin (ks. Lähteet). Ne ovat link-out-aineistoa: linkitä, älä kopioi.
-- Selvitä koulun opiskeluterveydenhuollon yhteystiedot (esimerkki).
 
 ### Avoimet kysymykset
 
@@ -456,7 +451,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 - Arvioidaan viestejä, ei ihmisiä. Kukaan ei ole tyhmä siksi, että on uskonut mainosta: vaikutuskeinot on tehty vaikuttamaan.
 - Älä pyydä opiskelijoita kertomaan, mitä he ostavat, ketä seuraavat tai mihin tuotteisiin uskovat.
-- Jos opiskelija kysyy omasta terveydestään, ohjaa opiskeluterveydenhuoltoon. Tunnilla ei arvioida kenenkään omia oireita.
+- Tunnilla ei arvioida kenenkään omia oireita.
 - **Oletusten tarkistus ennen tuntia:** Pilkkaanko jonkun seuraamia tai käyttämiä palveluja? Oletanko, että kaikilla on pääsy samoihin laitteisiin tai verkkoon? Liitänkö esimerkit tiettyyn sukupuoleen, kehoon tai taustaan? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -480,19 +475,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 **Ilman laitetta:** Tehtävät 1 ja 2, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin. Tehtävän 3 paperiversio on tehtävän kohdassa *Ilman laitetta*.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-**Jos olet välittömässä vaarassa, soita hätänumeroon 112.**
-
-Tällä sivulla arvioidaan terveysviestejä yleisesti. Netistä, somesta tai tekoälyltä saatu tieto ei korvaa ammattilaista. Jos sinulla on omia oireita tai huolia terveydestäsi, ota yhteyttä opiskeluterveydenhuoltoon eli terveydenhoitajaan tai lääkäriin. Avun pyytäminen on tavallista ja järkevää.
-
-**Apua saat myös:**
-
-- [Opiskeluterveydenhuolto (THL, luettu 21.11.2026)](https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto): tietoa palvelusta. Oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- Opiskeluhuolto: sinulla on oikeus kuraattorin ja psykologin palveluihin. Ajan saat koulusi kautta.
-- [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): tietoa ja omahoito-ohjelmia nuorille.
-- [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille. Ikäraja ja aukioloajat ovat sivulla.
 
 ## Lähteet
 

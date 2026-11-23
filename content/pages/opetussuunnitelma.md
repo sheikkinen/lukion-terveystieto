@@ -74,7 +74,7 @@ Kohdat ovat yhtä tärkeitä. Lautakunnan taulukossa on lisäksi luominen, kuten
 
 - Kun tehtävässä on aineisto, vastauksen pitää käyttää sitä. Aineisto voi olla teksti, taulukko, kuvio, kartta tai kuvaus kuvasta.
 - Viittaa aineistoon näkyvästi, esimerkiksi *aineiston taulukon mukaan* tai *tekstin kohdassa 2*.
-- **Jos vastaus ei viittaa aineistoon lainkaan, kokonaispisteistä vähennetään 5 p.** Pisteet eivät mene alle nollan. Sääntö koskee sivuston kaikkia aineistotehtäviä. Ylioppilaskokeessa vähennys kerrotaan tehtäväkohtaisesti arvosteluohjeissa.
+- Ylioppilaskokeessa vähennys kerrotaan tehtäväkohtaisesti arvosteluohjeissa.
 - Pelkkä aineiston toistaminen ei riitä. Hyvä vastaus yhdistää aineiston ja oman tiedon: mitä aineistossa näkyy, mitä se tarkoittaa terveystiedon käsittein ja mitä siitä seuraa.
 - Sivuston aineistot on merkitty sanalla *kuvitteellinen*, ellei aineisto ole linkitetty virallinen lähde. Kuvitteellisista luvuista ei voi päätellä mitään todellisesta väestöstä.
 

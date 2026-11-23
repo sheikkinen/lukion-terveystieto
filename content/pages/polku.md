@@ -6,7 +6,7 @@ Tämä polku vie sinut läpi terveystiedon aiheet. Aiheet ovat suositellussa jä
 
 Jokaisessa aiheessa luet tekstin, teet tehtävän, harjoittelet koetehtävää ja tarkistat sen mallivastauksella, pohdit ja katsot, mikä on seuraava askel. Kirjoita tärkeimmät käsitteet omiin muistiinpanoihisi kokeeseen kertaamista varten.
 
-Tehtävissä tarkastellaan kuvitteellisia henkilöitä. Sinun ei tarvitse kirjoittaa omasta terveydestäsi mitään. Jos sinulla on oireita tai huolia, ota yhteyttä opiskeluterveydenhuoltoon. Hätätilanteessa soita 112.
+Tehtävissä tarkastellaan kuvitteellisia henkilöitä. Sinun ei tarvitse kirjoittaa omasta terveydestäsi mitään.
 
 ## Omat tietosi
 

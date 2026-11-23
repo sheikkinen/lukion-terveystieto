@@ -19,25 +19,20 @@ official_links:
   - {title: "ETENE", url: "https://etene.fi/etusivu", publisher: "Sosiaali- ja terveysalan eettinen neuvottelukunta (ETENE)", read: 2026-11-21}
   - {title: "ETENE (English)", url: "https://etene.fi/en/frontpage", publisher: "Sosiaali- ja terveysalan eettinen neuvottelukunta (ETENE)", read: 2026-11-21}
   - {title: "Terveystiedon ylioppilaskoe, syksy 2025: arvosteluohje", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta (YTL)", read: 2026-11-21}
-  - {title: "Opiskeluterveydenhuolto (THL)", url: "https://thl.fi/ohjeita-ammattilaisille/opiskeluterveydenhuolto", publisher: "Terveyden ja hyvinvoinnin laitos (THL)", read: 2026-11-21}
-  - {title: "Mielenterveystalo: nuoret", url: "https://www.mielenterveystalo.fi/fi/nuoret", publisher: "Mielenterveystalo.fi (HUS)", read: 2026-11-21}
-  - {title: "Sekasin-chat", url: "https://sekasin.fi/", publisher: "Sekasin Kollektiivi", read: 2026-11-21}
-  - {title: "Väestöliitto: Keitä olemme nuorten palveluissa?", url: "https://www.vaestoliitto.fi/nuoret/keita-olemme/", publisher: "Väestöliitto", read: 2026-11-21}
-yearly_facts: [etene_periaatteet, opiskeluterveydenhuolto, sekasin_chat, vaestoliitto_keita_olemme]
+yearly_facts: [etene_periaatteet]
 materials: []  # lukio-runko: lesson supplies (Tarvikkeet); the linked materials are in linked_materials
 linked_materials:
   - {title: "Sosiaali- ja terveysalan eettiset periaatteet (ETENE:n tiedote, 13.3.2026)", url: "https://etene.fi/-/etene-on-julkistanut-sosiaali-ja-terveysalan-eettiset-periaatteet", publisher: "Sosiaali- ja terveysalan eettinen neuvottelukunta (ETENE)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
   - {title: "ETENE", url: "https://etene.fi/etusivu", publisher: "Sosiaali- ja terveysalan eettinen neuvottelukunta (ETENE)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
   - {title: "ETENE (English)", url: "https://etene.fi/en/frontpage", publisher: "Sosiaali- ja terveysalan eettinen neuvottelukunta (ETENE)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
   - {title: "Terveystiedon ylioppilaskoe, syksy 2025: arvosteluohje", url: "https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html", publisher: "Ylioppilastutkintolautakunta (YTL)", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: opettaja, read: 2026-11-21}
-  - {title: "Väestöliitto: Keitä olemme nuorten palveluissa?", url: "https://www.vaestoliitto.fi/nuoret/keita-olemme/", publisher: "Väestöliitto", licence_class: link-out, licence: "Kaikki oikeudet pidätetään", audience: "nuoret (ikärajaa ei mainita)", read: 2026-11-21}
 exam_tasks:
   - {id: K1, type: kasitteiden-nimeaminen, part: A20, points: 20, minutes: 25, codes: [TE3.s7]}
   - {id: K2, type: aineiston-analyysi, part: B20, points: 20, minutes: 35, codes: [TE3.s7, TE3.t4]}
   - {id: K3, type: eettinen-analyysi, part: C30, points: 30, minutes: 55, codes: [TE3.s7, TE3.t4]}
 review_status: {teacher: none, health_professional: none, safe_messaging: none}
 sibling_links: []
-school_adapts: ["Koulun opiskeluterveydenhuollon ja opiskeluhuollon yhteystiedot (esimerkki)"]
+school_adapts: []
 accessibility: ["Kaikki tehtävät ja koetehtävät voi tehdä yksin paperilla ja kynällä; aineistot on kirjoitettu tehtäviin.", "Tehtävissä analysoidaan kuvitteellisia tilanteita; omista arvoista, vakaumuksesta tai terveydestä ei tarvitse kertoa kenellekään.", "Sanasto S2-opiskelijoille ja selkeää kieltä tarvitseville osiossa Eriyttäminen."]
 last_reviewed: 2026-11-22
 ---
@@ -50,19 +45,19 @@ last_reviewed: 2026-11-22
 2. Osaan tunnistaa tilanteesta toimijat (yksilö, ammattilainen, organisaatio, yhteiskunta, globaali taso) ja kertoa, mitä kukin voi tehdä.
 3. Osaan analysoida eettistä kysymystä usealta näkökulmalta ja esittää vähintään kaksi vastakkaista kantaa perusteluineen.
 4. Osaan erottaa tosiasiat arvoista ja huomata, että laki ja etiikka eivät ole sama asia.
-5. Osaan koota analyysista punnitun kokonaisuuden, joka ei julista voittajaa, ja tiedän, mistä ylioppilaskokeessa eettisen analyysin pisteet muodostuvat.
+5. Osaan koota analyysista kokonaisuuden, joka punnitsee vastakkaisia perusteluja, ja tiedän, mistä ylioppilaskokeessa eettisen analyysin pisteet muodostuvat.
 
 ### Mikä on eettinen kysymys?
 
-**Eettinen kysymys** koskee sitä, mikä on oikein tai hyvää silloin, kun usea hyvä perustelu vie eri suuntiin. Terveydenhuollossa tällaisia tilanteita on usein: yksi asia on tärkeä potilaalle, toinen työntekijälle ja kolmas koko yhteiskunnalle.
+Tämän osion määritelmät ovat sivuston oma jäsennys. **Eettinen kysymys** koskee sitä, mikä on oikein tai hyvää silloin, kun usea hyvä perustelu vie eri suuntiin. Terveydenhuollossa yksi asia voi olla tärkeä potilaalle, toinen työntekijälle ja kolmas koko yhteiskunnalle.
 
-**Eettinen analyysi** ei ratkaise, kuka on oikeassa. Se tekee perustelut näkyviksi: mitä kukin pitää tärkeänä ja miksi. Hyvä analyysi alkaa tosiasioista, joita voi tarkistaa, ja siirtyy sitten arvoihin. *Tekoäly vastaa nopeasti* on tosiasia. *Vastausten pitäisi olla luotettavia kaikille* on arvo. Älä kirjoita kumpaakaan samaan lauseeseen, koska silloin tosiasia ja tahto sekoittuvat.
+**Eettinen analyysi** ottaa huomioon vastakkaiset perustelut ja punnitsee niitä. Se tekee perustelut näkyviksi: mitä kukin pitää tärkeänä ja miksi. Hyvä analyysi alkaa tosiasioista, joita voi tarkistaa, ja siirtyy sitten arvoihin. *Tekoäly vastaa nopeasti* on tosiasia. *Vastausten pitäisi olla luotettavia kaikille* on arvo. Tosiasian ja arvon erottaminen on analyysin taito.
 
 ### Seitsemän näkökulmaa: kertaus ja syventäminen
 
-Eettisen analyysin näkökulmat opit jo TE1:ssä, kun pohdit seksuaalioikeuksia ([TE1: Seksuaalioikeudet](../../te1/07-seksuaalioikeudet/)). TE3:ssa niitä ei opeteta uudestaan vaan käytetään terveydenhuollon kysymyksissä: mitä ne tarkoittavat, kun päätöksen tekee ammattilainen, organisaatio tai yhteiskunta, ja kenen näkökulmasta kysymys on ylipäätään esitetty.
+Eettisen analyysin näkökulmat (TE3.s7) opit jo TE1:ssä, kun pohdit seksuaalioikeuksia ([TE1: Seksuaalioikeudet](../../te1/07-seksuaalioikeudet/)). TE3:ssa niitä ei opeteta uudestaan vaan käytetään terveydenhuollon kysymyksissä: mitä ne tarkoittavat, kun päätöksen tekee ammattilainen, organisaatio tai yhteiskunta, ja kenen näkökulmasta kysymys on ylipäätään esitetty.
 
-Pikakertaus kuvitteellisella tapauksella: Kim löytää kadulta lompakon, jossa on rahaa ja henkilökortti. Kim miettii, palauttaako sen (kaavio tämän osion lopussa). Syvennys-sarake näyttää, mitä näkökulma tarkoittaa terveydenhuollossa.
+Pikakertaus kuvitteellisella tapauksella: Kim löytää kadulta lompakon, jossa on rahaa ja henkilökortti. Kim miettii, palauttaako sen (kaavio tämän osion lopussa). Syvennys-sarake näyttää, mitä näkökulma voi tarkoittaa terveydenhuollossa. Taulukon esimerkit ovat sivuston omia.
 
 | Näkökulma | Kysymys | Lompakkotapaus | Terveydenhuollon syvennys |
 |---|---|---|---|
@@ -80,13 +75,13 @@ Hyvässä analyysissä näkökulmat eivät aina johda samaan tulokseen. Esimerki
 
 ### Toimijat
 
-Kysy aina, kuka voi vaikuttaa asiaan. **Yksilö** tekee omat valintansa. **Ammattilainen** toimii ammattinsa velvoitteiden mukaan. **Organisaatio**, kuten koulu, yritys tai hyvinvointialue, päättää käytännöistä. **Yhteiskunta** säätää lait ja ohjaa rahoitusta. **Globaali taso** tarkoittaa esimerkiksi kansainvälisiä yrityksiä ja sopimuksia. Sama näkökulma voi antaa eri vastauksen eri toimijalle.
+Kysy aina, kuka voi vaikuttaa asiaan. Viiden toimijan jaottelu on sivuston oma jäsennys. **Yksilö** tekee omat valintansa. **Ammattilainen** toimii ammattinsa velvoitteiden mukaan. **Organisaatio**, kuten koulu, yritys tai hyvinvointialue, päättää käytännöistä. **Yhteiskunta** säätää lait ja ohjaa rahoitusta. **Globaali taso** tarkoittaa esimerkiksi kansainvälisiä yrityksiä ja sopimuksia. Sama näkökulma voi antaa eri vastauksen eri toimijalle.
 
 ### Laki, etiikka ja päätöksen perustelu
 
-Laki on yksi normi, mutta etiikka kysyy laajemmin. Se, mikä on laillista, ei ole automaattisesti ainoa oikea vaihtoehto, ja joskus lailla ei ole sanottavaa. Aiheissa 08 ja 09 tarkastellaan lakia ja sen rajoja sellaisissa kysymyksissä, joissa kannat eroavat. Sosiaali- ja terveysalalla on myös yhteisiä eettisiä periaatteita: ETENE on julkaissut ne ja kertoo, että ne tukevat eettistä harkintaa mutta eivät anna valmiita vastauksia ([ETENE, 13.3.2026](https://etene.fi/-/etene-on-julkistanut-sosiaali-ja-terveysalan-eettiset-periaatteet)).
+Laki on yksi normi, mutta etiikka kysyy laajemmin. Se, mikä on laillista, ei ole automaattisesti ainoa oikea vaihtoehto, ja joskus lailla ei ole sanottavaa. Sosiaali- ja terveysalalla on myös yhteisiä eettisiä periaatteita: ETENE on julkaissut ne ja kertoo, että ne tukevat eettistä harkintaa mutta eivät anna valmiita vastauksia ([ETENE, 13.3.2026](https://etene.fi/-/etene-on-julkistanut-sosiaali-ja-terveysalan-eettiset-periaatteet)).
 
-Ylioppilaskokeessa eettisen analyysin sisältöpisteet määräytyvät sen mukaan, montako näkökulmaa analysoidaan. Erikseen arvioidaan tiedonkäsittely, esimerkiksi käsitteiden käyttö ja rakenne ([YTL:n arvosteluohje](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html)). Tämän sivun pisteytys on sivuston oma harjoitusohje.
+Ylioppilaskokeessa eettisen analyysin sisältöpisteet määräytyvät sen mukaan, montako näkökulmaa analysoidaan. Arvosteluohjeen kolmen näkökulman tasolla mainitaan lisäksi vaihtoehtoisten näkemysten punnitseminen tai poikkeusten tarkastelu. Erikseen arvioidaan tiedonkäsittely: käsitteiden käyttö, analysointi ja kokonaisuus ([YTL:n arvosteluohje](https://tiedostot.ylioppilastutkinto.fi/kokeet/2025-09-23_TE_fi/grading-instructions.html)).
 
 ## Tehtävät
 
@@ -148,7 +143,7 @@ Kirjoita vastaukset omaan muistioosi. Voit ohittaa kysymyksen, eikä vastauksia 
 2. Osaan tunnistaa tilanteesta toimijat (yksilö, ammattilainen, organisaatio, yhteiskunta, globaali taso) ja kertoa, mitä kukin voi tehdä.
 3. Osaan analysoida eettistä kysymystä usealta näkökulmalta ja esittää vähintään kaksi vastakkaista kantaa perusteluineen.
 4. Osaan erottaa tosiasiat arvoista ja huomata, että laki ja etiikka eivät ole sama asia.
-5. Osaan koota analyysista punnitun kokonaisuuden, joka ei julista voittajaa, ja tiedän, mistä ylioppilaskokeessa eettisen analyysin pisteet muodostuvat.
+5. Osaan koota analyysista kokonaisuuden, joka punnitsee vastakkaisia perusteluja, ja tiedän, mistä ylioppilaskokeessa eettisen analyysin pisteet muodostuvat.
 
 Jos jokin kohta on vielä "En vielä", tee siihen liittyvä koetehtävä ja vertaa vastaustasi mallivastaukseen.
 
@@ -222,7 +217,7 @@ b) Kerro, miten näkökulmat painavat toisiinsa nähden ja mitä päätöksentek
 
 - Jokainen kymmenestä kohdasta 2 p: oikea näkökulma 1 p ja perustelu, joka yhdistää kuvauksen ja näkökulman, 1 p. Yhteensä 10 × 2 p = 20 p.
 - Synonyymit hyväksytään: *arvo* ~ *arvostus*, *normi* ~ *sääntö*, *hyve* ~ *luonteenpiirre*, *seuraus* ~ *seurausetiikka*, *velvollisuus* ~ *velvollisuusetiikka*.
-- Kohdassa 3 myös *motiivi* voidaan hyväksyä, jos perustelu osoittaa tarkoituksen. Kohdassa 1 myös *oikeudet* voidaan hyväksyä, jos perustelu liittyy jokaisen oikeuteen tulla kohdelluksi tasapuolisesti.
+- Kohdassa 3 myös *motiivi* voidaan hyväksyä, jos perustelu osoittaa tarkoituksen. Kohdassa 1 myös *oikeudet* voidaan hyväksyä, jos perustelu liittyy jokaisen oikeuteen tulla kohdelluksi tasapuolisesti. Kohdassa 6 myös *normi* ja kohdassa 7 myös *arvo* voidaan hyväksyä, jos perustelu sopii. Kohdassa 9 myös *oikeudet* voidaan hyväksyä, jos perustelu sopii. Näkökulmien rajanvedot ovat sivuston oma jäsennys.
 
 *Tiedonkäsittely* (palautteeksi, ei pisteitä osassa A; ks. [tiedonkäsittelyn arviointi](../../opetussuunnitelma/)): käsitteiden käyttö (näkökulman nimi on täsmällinen), soveltaminen (kuvauksen avainsana liitetään näkökulmaan), analysointi (lähekkäiset näkökulmat erotetaan toisistaan, esim. arvo ja motiivi), arviointi ja argumentointi (perustelu on lyhyt mutta täsmällinen).
 
@@ -230,8 +225,8 @@ b) Kerro, miten näkökulmat painavat toisiinsa nähden ja mitä päätöksentek
 
 **Tyypilliset virheet**
 
-- Arvo ja motiivi sekoittuvat: arvo on se, mikä on tärkeää; motiivi on toimijan tarkoitus yksittäisessä teossa.
-- Normi ja velvollisuus sekoittuvat: normi on yhteinen sääntö, velvollisuus syntyy roolista tai lupauksesta.
+- Arvo ja motiivi sekoittuvat (sivuston oma jäsennys: arvo on se, mikä on tärkeää; motiivi on toimijan tarkoitus yksittäisessä teossa; perusteltu toinen luokitus hyväksytään).
+- Normi ja velvollisuus sekoittuvat (sivuston oma jäsennys: normi on yhteinen sääntö, velvollisuus syntyy roolista tai lupauksesta; perusteltu toinen luokitus hyväksytään).
 - Perustelu toistaa kuvauksen eikä yhdistä sitä näkökulmaan.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
@@ -240,15 +235,15 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 **Malliksi kelpaava vastaus**
 
-**a)** Toimijoita ovat asukas (yksilö), hyvinvointialue (organisaatio), alueen ammattilaiset, tekoälyn tarjoaja (mahdollisesti globaali toimija) ja yhteiskunta, joka säätää lait ja rahoituksen. Asukkaan vastuu on käyttää palvelua harkiten. Hyvinvointialue vastaa siitä, että palvelun tieto on luotettavaa ja että asukkaat tietävät, mihin tietoon luotetaan. Ammattilaisen vastuu on ammattitaito ja potilaan turvallisuus. Tekoälyn tarjoajan vastuu on palvelun laatu ja avoimuus siitä, miten vastaukset syntyvät. Yhteiskunta asettaa säännöt.
+**a)** Toimijoita ovat asukas (yksilö), hyvinvointialue (organisaatio), alueen ammattilaiset, tekoälyn tarjoaja (mahdollisesti globaali toimija) ja yhteiskunta, joka säätää lait ja rahoituksen. Yksi perusteltu vastuunjako (muutkin hyväksytään): asukkaan vastuu on käyttää palvelua harkiten. Hyvinvointialue vastaa siitä, että palvelun tieto on luotettavaa ja että asukkaat tietävät, mihin tietoon luotetaan. Ammattilaisen vastuu on ammattitaito ja potilaan turvallisuus. Tekoälyn tarjoajan vastuu on palvelun laatu ja avoimuus siitä, miten vastaukset syntyvät. Yhteiskunta asettaa säännöt.
 
-**b)** *Seuraukset:* palvelu voi lyhentää jonoja ja säästää kustannuksia, mikä hyödyttää monia. Haittana on, että erilaiset vastaukset samaan kysymykseen voivat johtaa väärään tulkintaan ja viivästyttää hoitoa. Jos haittaa kärsii pieni ryhmä, kannattaa kysyä, onko säästö sen arvoinen. *Oikeudet:* asukkaalla on oikeus luotettavaan tietoon ja siihen, että hän tietää, mitä tietoa hänelle annetaan. Palvelu, joka ei kerro tiedon lähdettä, loukkaa tätä oikeutta, vaikka palvelu olisi nopea. Näkökulmat eivät siis johda samaan tulokseen: seurausten kannalta palvelu voi olla hyvä, oikeuksien kannalta puutteellinen. Ratkaisu voisi olla, että palvelu kertoo lähteensä ja ammattilainen tarkistaa vastaukset.
+**b)** *Seuraukset:* palvelu voi lyhentää jonoja ja säästää kustannuksia, mikä hyödyttää monia. Haittana on, että erilaiset vastaukset samaan kysymykseen voivat johtaa väärään tulkintaan ja viivästyttää hoitoa. Jos haittaa kärsii pieni ryhmä, kannattaa kysyä, onko säästö sen arvoinen. *Oikeudet:* oikeuksien näkökulmasta voidaan katsoa, että asukkaalla on oikeus luotettavaan tietoon ja siihen, että hän tietää, mitä tietoa hänelle annetaan. Jos oikeus ymmärretään näin, palvelu, joka ei kerro tiedon lähdettä, loukkaa sitä, vaikka olisi nopea. Näkökulmat eivät siis johda samaan tulokseen: seurausten kannalta palvelu voi olla hyvä, oikeuksien kannalta puutteellinen. Ratkaisu voisi olla, että palvelu kertoo lähteensä ja ammattilainen tarkistaa vastaukset.
 
 **Pisteytys**
 
 *Sisältö 10 p:*
 
-- a) Vähintään kolme toimijaa, joista kukin nimetty ja yhdistetty tapaukseen, 3 p (1 p kustakin). Toimijoiden vastuu eriteltynä vähintään kahdelle toimijalle 1 p. Yhteensä 4 p.
+- a) Vähintään kolme toimijaa, joista kukin nimetty ja yhdistetty tapaukseen, 3 p (1 p kustakin). Toimijoiden vastuu eriteltynä vähintään kahdelle toimijalle 1 p (mikä tahansa perusteltu vastuunjako hyväksytään; toimijoiksi kelpaa mikä tahansa perustellusti nimetty taho). Yhteensä 4 p.
 - b) Kaksi näkökulmaa, joista kustakin: näkökulma nimetty 1 p, sovellettu tapaukseen 1 p, perusteltu kanta tai seuraus 1 p. Yhteensä 6 p.
 
 *Tiedonkäsittely 10 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
@@ -256,7 +251,6 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - 8–10 p: näkökulmat nimetään oikein; vastaus käyttää tapauksen yksityiskohtia (puuttuva lähde, vaihtelevat vastaukset); vastaus näyttää, että näkökulmat voivat johtaa eri suuntiin, ja punnitsee niitä.
 - 4–7 p: näkökulmat on nimetty, mutta niitä ei sovelleta tapaukseen tai ne esitetään rinnakkain ilman punnintaa.
 - 0–3 p: vastaus kertoo tekoälystä yleisesti eikä käytä aineistoa.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
 
 Tehtävänannon osapisteet (a 8 p, b 12 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -266,8 +260,8 @@ Tehtävänannon osapisteet (a 8 p, b 12 p) sisältävät sekä sisällön että 
 
 - Toimijat luetellaan, mutta vastuuta ei eritellä.
 - Näkökulma nimetään, mutta sitä ei käytetä tapauksen asioihin.
-- Vastaus ilmoittaa, kumpi on oikeassa, sen sijaan että perustelisi ja punnitsisi.
-- Tosiasia ja arvo sekoittuvat samaan lauseeseen.
+- Vastaus ilmoittaa kannan perustelematta ja punnitsematta.
+- Tosiasia ja arvo sekoittuvat, eikä vastauksesta näe, kumpi on tarkistettavaa ja kumpi arvo.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -285,7 +279,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 *Velvollisuudet:* koululla on tehtävä tukea opiskelijoiden hyvinvointia. Yrittäjällä on velvollisuuksia työntekijöitään ja omaa toimeentuloaan kohtaan. Velvollisuudet eivät välttämättä ole samansuuntaisia.
 
-**b)** Näkökulmat eivät johda samaan tulokseen. Oikeuksien ja arvojen kannalta ratkaisevaa on se, kuinka paljon valintaa rajoitetaan: jos tuotteen saa edelleen muualta, rajoitus on kevyempi kuin jos valinta kielletään kokonaan. Seurausten kannalta kannattaa kysyä, ketkä hyötyvät ja ketkä kantavat haitan, ja voisiko yrittäjän haittaa lieventää, esimerkiksi hyvittämällä se tai muuttamalla valikoimaa vähitellen. Päätöksentekijän kannattaa ottaa huomioon opiskelijoiden kuuleminen, rajoituksen laajuus ja se, miten päätöstä seurataan. Toinen perusteltu vastaus voisi painottaa vapautta enemmän, ja siihenkin kannattaa suhtautua vakavasti. Vastauksen tarkoitus on näyttää, mitkä seikat painavat ja miksi, ei julistaa voittajaa.
+**b)** Näkökulmat eivät johda samaan tulokseen. Oikeuksien ja arvojen kannalta ratkaisevaa on se, kuinka paljon valintaa rajoitetaan: jos tuotteen saa edelleen muualta, rajoitus on kevyempi kuin jos valinta kielletään kokonaan. Seurausten kannalta kannattaa kysyä, ketkä hyötyvät ja ketkä kantavat haitan, ja voisiko yrittäjän haittaa lieventää, esimerkiksi hyvittämällä se tai muuttamalla valikoimaa vähitellen. Päätöksentekijän kannattaa ottaa huomioon opiskelijoiden kuuleminen, rajoituksen laajuus ja se, miten päätöstä seurataan. Toinen perusteltu vastaus voisi painottaa vapautta enemmän, ja siihenkin kannattaa suhtautua vakavasti. Vastauksen tarkoitus on näyttää, mitkä seikat painavat ja miksi. Perusteltu oma kanta hyväksytään, kun vastakkaisia perusteluja on käsitelty oikeudenmukaisesti.
 
 **Pisteytys**
 
@@ -296,10 +290,9 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
 *Tiedonkäsittely 15 p* ([tiedonkäsittelyn arviointi](../../opetussuunnitelma/): käsitteiden käyttö, soveltaminen, analysointi, arviointi, argumentointi):
 
-- 12–15 p: näkökulmat nimetään oikein ja niitä sovelletaan aineiston sanoihin; vastakkaiset kannat esitetään yhtä perusteellisesti; tosiasiat ja arvot pidetään erillään; b punnitsee ja perustelee ilman, että sivu julistaa voittajaa.
+- 12–15 p: näkökulmat nimetään oikein ja niitä sovelletaan aineiston sanoihin; vastakkaiset kannat esitetään yhtä perusteellisesti; vastaus erottaa tosiasiat ja arvot; b punnitsee ja perustelee, ja perusteltu oma kanta hyväksytään, kun vastakkaisia perusteluja on käsitelty oikeudenmukaisesti.
 - 6–11 p: näkökulmat on nimetty ja tapaus on kuvattu, mutta analyysi on luettelomainen tai toinen kanta jää ohueksi.
-- 0–5 p: vastaus kertoo, mitä itse mieltä ollaan, eikä analysoi näkökulmia.
-- Jos vastaus ei viittaa aineistoon, kokonaispisteistä vähennetään 5 p.
+- 0–5 p: vastaus esittää mielipiteen ilman perusteluja eikä analysoi näkökulmia.
 
 Tehtävänannon osapisteet (a 22 p, b 8 p) sisältävät sekä sisällön että tiedonkäsittelyn.
 
@@ -307,11 +300,11 @@ Tehtävänannon osapisteet (a 22 p, b 8 p) sisältävät sekä sisällön että 
 
 **Tyypilliset virheet**
 
-- Vastaus ilmoittaa omat mielipiteensä sen sijaan, että analysoisi näkökulmia.
+- Vastaus esittää mielipiteen perustelematta sitä eikä analysoi näkökulmia.
 - Toinen kanta kuvataan ohuemmin kuin toinen, jolloin vastaus vaikuttaa jo valmiiksi päätyneeltä.
 - Näkökulma nimetään, mutta sitä ei liitetä aineiston lauseisiin.
 - Näkökulmia on vain yksi tai kaksi, vaikka tehtävä pyytää vähintään kolmea.
-- Tosiasia (*makeat juomat poistetaan*) ja arvo (*se on oikein*) kirjoitetaan samaan lauseeseen.
+- Tosiasia (*makeat juomat poistetaan*) ja arvo (*se on oikein*) esitetään niin, ettei vastauksesta näe, kumpi on kumpaa.
 
 Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 
@@ -339,7 +332,7 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 |---|---|---|---|---|---|
 | Virittäytyminen | 5 | Pari miettii: mistä tietää, että päätös on reilu? | Kirjoita kaksi ehdotusta taululle. | Ajatus vihkoon. | Yksi ehdotus ääneen. |
 | Aiemman tiedon aktivointi | 10 | Parit kertaavat TE3:n aiheen 01 vastuun siirtymisen ja kirjoittavat, mitä tarkoittaa syyllistäminen. | Kokoa taululle yksi esimerkki. | Yksin paperille. | Vain yksi esimerkki. |
-| Lyhyt alustus | 10 | Opiskelijat kirjaavat seitsemän näkökulmaa ja toimijat. | Käytä lompakkoesimerkkiä ja kysy: mikä näkökulma sopii tähän lauseeseen? Korosta, ettei analyysi julista voittajaa. | Taulukko paperilla. | Toimijat kotiin; alusta vain näkökulmat. |
+| Lyhyt alustus | 10 | Opiskelijat kirjaavat seitsemän näkökulmaa ja toimijat. | Käytä lompakkoesimerkkiä ja kysy: mikä näkökulma sopii tähän lauseeseen? Korosta, että analyysi punnitsee vastakkaisia perusteluja. | Taulukko paperilla. | Toimijat kotiin; alusta vain näkökulmat. |
 | Työskentely | 25 | Tehtävä 2 kokonaan pareittain (20 min), sitten Tehtävän 3 väitteet 1–3 (5 min). | Kierrä ja kysy: onko tämä tosiasia vai arvo? Kuka ei ole paikalla? | Yksin paperilla. | Tehtävä 3 kotiin. |
 | Pari- tai pienryhmäpohdinta | 10 | Ryhmät vertaavat kahta vastakkaista kantaa: ovatko ne yhtä pitkiä ja perusteltuja? | Kokoa taululle kriteerit: tosiasia, arvo, perustelu. | Yksin: tarkista oma kanta. | Yksi yhteinen keskustelu. |
 | Koeharjoitus ja exit | 10 | K1:n kuvaukset 1–5 yksin (6 min) ja tarkistus (4 min). Exit-lappu: yksi näkökulma ja yksi esimerkki. | Näytä pisteytys ja kysy, mistä rivin kaksi pistettä syntyy. | Paperilla. | Tarkistus kotona. |
@@ -377,12 +370,12 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - Onko olemassa tilanne, jossa kaikki seitsemän näkökulmaa johtavat samaan tulokseen?
 - Miksi laki ei aina riitä vastaukseksi eettiseen kysymykseen?
 - Kuka ei ole paikalla, kun päätöksiä tehdään, ja miten hänen näkökulmansa saadaan mukaan?
-- Mitä etua on siitä, että analyysi ei julista voittajaa?
+- Mitä etua on siitä, että analyysi punnitsee vastakkaisia perusteluja?
 
 ### Pelisäännöt ja oletusten tarkistus
 
-- Analysoidaan kuvitteellisia tilanteita. Kukaan ei kerro omasta arvomaailmastaan, uskonnostaan tai kokemuksistaan, eikä ketään pyydetä puolustamaan tiettyä kantaa omana mielipiteenään. Vastakkaiset kannat esitetään kaikkien kantojen omin sanoin ja yhtä vakavasti.
-- Jos keskustelu kääntyy kuvitteellisesta tapauksesta jonkun oikeaan tilanteeseen, palauta se tapaukseen ja ohjaa tarvittaessa opiskeluterveydenhuoltoon tai kuraattorille.
+- Analysoidaan kuvitteellisia tilanteita. Kukaan ei kerro omasta arvomaailmastaan, uskonnostaan tai kokemuksistaan, eikä ketään pyydetä puolustamaan tiettyä kantaa omana mielipiteenään. Vastakkaiset kannat esitetään yhtä vakavasti ja niiden omin perustein.
+- Jos keskustelu kääntyy kuvitteellisesta tapauksesta jonkun oikeaan tilanteeseen, palauta se tapaukseen.
 - **Oletusten tarkistus ennen tuntia:** Oletanko, että jollakin ryhmällä on tietty kanta? Julistanko yhden kannan oikeaksi äänenpainollani? Jos huomaat oletuksen, muotoile esimerkki uudelleen.
 
 ## Eriyttäminen
@@ -400,24 +393,11 @@ Pisteytys on sivuston oma harjoitusohje, ei ylioppilastutkintolautakunnan.
 - *velvollisuus = se, mitä on pakko tehdä roolin tai lupauksen vuoksi*; *motiivi = tarkoitus, miksi joku tekee jotain*
 - *toimija = joku, joka voi vaikuttaa asiaan*
 
-**Lukeminen, keskittyminen ja jännitys:** Tee seitsemän näkökulmaa seitsemäksi korttiksi ja lajittele kortit tapauksen mukaan. Lue aineistot lause kerrallaan ja alleviivaa toimija ja perustelu. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
+**Lukeminen, keskittyminen ja jännitys:** Tee seitsemän näkökulmaa seitsemäksi kortiksi ja lajittele kortit tapauksen mukaan. Lue aineistot lause kerrallaan ja alleviivaa toimija ja perustelu. Koetehtävät voi tehdä osissa ilman aikarajaa, jos se auttaa.
 
 **Ilman laitetta:** Tehtävät 1, 2 ja 3, kaikki koetehtävät ja mallivastaukset toimivat paperilla, koska aineistot on kirjoitettu tehtäviin.
 
 **Tuki:** Jos lukeminen tai kirjoittaminen on hidasta, kysy koulusi oppimisen tuesta ja erityisjärjestelyistä (esimerkki). Ylioppilaskokeen erityisjärjestelyistä saat tietoa opinto-ohjaajalta.
-
-## Apua ja tukea
-
-**Jos olet välittömässä vaarassa, soita hätänumeroon 112.**
-
-Tällä sivulla opiskellaan eettistä ajattelua kuvitteellisten tilanteiden avulla. Sivu ei neuvo omissa terveysasioissa. Jos sinulla on oireita tai huolia, ota yhteyttä opiskeluterveydenhuoltoon eli terveydenhoitajaan tai lääkäriin. Voit puhua myös kuraattorille tai psykologille. Avun pyytäminen on tavallista ja järkevää.
-
-**Apua saat myös:**
-
-- Opiskeluterveydenhuolto: oman ajan varaat koulusi tai hyvinvointialueesi kautta.
-- [Väestöliitto: Keitä olemme nuorten palveluissa? (luettu 21.11.2026)](https://www.vaestoliitto.fi/nuoret/keita-olemme/): nuorten palveluja.
-- [Mielenterveystalo: nuoret (luettu 21.11.2026)](https://www.mielenterveystalo.fi/fi/nuoret): tietoa ja omahoito-ohjelmia nuorille.
-- [Sekasin-chat (luettu 21.11.2026)](https://sekasin.fi/): maksuton ja nimetön keskusteluapu nuorille. Ikäraja ja aukioloajat ovat sivulla.
 
 ## Lähteet
 
